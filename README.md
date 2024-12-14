@@ -20,22 +20,22 @@ MIT License. Code is provides "as is" without any warranty. Use at your own risk
 ## Screenshots
 
 ### Hanabira Project
-![Hanabira Project Screenshot](prod/frontend-next/public/img/screenshots/hanabira_landing.png)
+![Hanabira Project Screenshot](frontend-next/public/img/screenshots/hanabira_landing.png)
 
 ### Text Parser
-![Text Parser Screenshot](prod/frontend-next/public/img/screenshots/hanabira_text_parser_tokenization.png)
+![Text Parser Screenshot](frontend-next/public/img/screenshots/hanabira_text_parser_tokenization.png)
 
 ### YouTube Immersion
-![YouTube Immersion Screenshot](prod/frontend-next/public/img/screenshots/hanabira_youtube_parser.png)
+![YouTube Immersion Screenshot](frontend-next/public/img/screenshots/hanabira_youtube_parser.png)
 
 ### Grammar Graph 
-![Grammar Graph Screenshot](prod/frontend-next/public/img/screenshots/hanabira_grammar_graph.png)
+![Grammar Graph Screenshot](frontend-next/public/img/screenshots/hanabira_grammar_graph.png)
 
 ### Grammar Explanations
-![Grammar Explanations Screenshot](prod/frontend-next/public/img/screenshots/hanabira_grammar.png) 
+![Grammar Explanations Screenshot](frontend-next/public/img/screenshots/hanabira_grammar.png) 
 
 ### Word Relations
-![Word Relations Screenshot](prod/frontend-next/public/img/screenshots/hanabira_word_relations.png) 
+![Word Relations Screenshot](frontend-next/public/img/screenshots/hanabira_word_relations.png) 
 
 
 
