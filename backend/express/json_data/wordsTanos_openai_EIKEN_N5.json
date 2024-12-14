@@ -1,0 +1,173 @@
+[
+  {
+    "vocabulary_japanese": "blue",
+    "vocabulary_simplified": "blue",
+    "vocabulary_english": "modrá",
+    "word_type": "nan",
+    "vocabulary_audio": "/audio/eiken/EIKEN_N5/v_blue.mp3",
+    "p_tag": "EIKEN_N5",
+    "s_tag": "100"
+  },
+  {
+    "vocabulary_japanese": "green",
+    "vocabulary_simplified": "green",
+    "vocabulary_english": "zelená",
+    "word_type": "nan",
+    "vocabulary_audio": "/audio/eiken/EIKEN_N5/v_green.mp3",
+    "p_tag": "EIKEN_N5",
+    "s_tag": "100"
+  },
+  {
+    "vocabulary_japanese": "orange",
+    "vocabulary_simplified": "orange",
+    "vocabulary_english": "oranžová",
+    "word_type": "nan",
+    "vocabulary_audio": "/audio/eiken/EIKEN_N5/v_orange.mp3",
+    "p_tag": "EIKEN_N5",
+    "s_tag": "100"
+  },
+  {
+    "vocabulary_japanese": "purple",
+    "vocabulary_simplified": "purple",
+    "vocabulary_english": "fialová",
+    "word_type": "nan",
+    "vocabulary_audio": "/audio/eiken/EIKEN_N5/v_purple.mp3",
+    "p_tag": "EIKEN_N5",
+    "s_tag": "100"
+  },
+  {
+    "vocabulary_japanese": "red",
+    "vocabulary_simplified": "red",
+    "vocabulary_english": "červená",
+    "word_type": "nan",
+    "vocabulary_audio": "/audio/eiken/EIKEN_N5/v_red.mp3",
+    "p_tag": "EIKEN_N5",
+    "s_tag": "100"
+  },
+  {
+    "vocabulary_japanese": "yellow",
+    "vocabulary_simplified": "yellow",
+    "vocabulary_english": "žlutá",
+    "word_type": "nan",
+    "vocabulary_audio": "/audio/eiken/EIKEN_N5/v_yellow.mp3",
+    "p_tag": "EIKEN_N5",
+    "s_tag": "100"
+  },
+  {
+    "vocabulary_japanese": "pink",
+    "vocabulary_simplified": "pink",
+    "vocabulary_english": "růžová",
+    "word_type": "nan",
+    "vocabulary_audio": "/audio/eiken/EIKEN_N5/v_pink.mp3",
+    "p_tag": "EIKEN_N5",
+    "s_tag": "100"
+  },
+  {
+    "vocabulary_japanese": "brown",
+    "vocabulary_simplified": "brown",
+    "vocabulary_english": "hnědá",
+    "word_type": "nan",
+    "vocabulary_audio": "/audio/eiken/EIKEN_N5/v_brown.mp3",
+    "p_tag": "EIKEN_N5",
+    "s_tag": "100"
+  },
+  {
+    "vocabulary_japanese": "black",
+    "vocabulary_simplified": "black",
+    "vocabulary_english": "černá",
+    "word_type": "nan",
+    "vocabulary_audio": "/audio/eiken/EIKEN_N5/v_black.mp3",
+    "p_tag": "EIKEN_N5",
+    "s_tag": "100"
+  },
+  {
+    "vocabulary_japanese": "one",
+    "vocabulary_simplified": "one",
+    "vocabulary_english": "jedna",
+    "word_type": "nan",
+    "vocabulary_audio": "/audio/eiken/EIKEN_N5/v_one.mp3",
+    "p_tag": "EIKEN_N5",
+    "s_tag": "100"
+  },
+  {
+    "vocabulary_japanese": "two",
+    "vocabulary_simplified": "two",
+    "vocabulary_english": "dva",
+    "word_type": "nan",
+    "vocabulary_audio": "/audio/eiken/EIKEN_N5/v_two.mp3",
+    "p_tag": "EIKEN_N5",
+    "s_tag": "100"
+  },
+  {
+    "vocabulary_japanese": "three",
+    "vocabulary_simplified": "three",
+    "vocabulary_english": "tři",
+    "word_type": "nan",
+    "vocabulary_audio": "/audio/eiken/EIKEN_N5/v_three.mp3",
+    "p_tag": "EIKEN_N5",
+    "s_tag": "100"
+  },
+  {
+    "vocabulary_japanese": "four",
+    "vocabulary_simplified": "four",
+    "vocabulary_english": "čtyři",
+    "word_type": "nan",
+    "vocabulary_audio": "/audio/eiken/EIKEN_N5/v_four.mp3",
+    "p_tag": "EIKEN_N5",
+    "s_tag": "100"
+  },
+  {
+    "vocabulary_japanese": "five",
+    "vocabulary_simplified": "five",
+    "vocabulary_english": "pět",
+    "word_type": "nan",
+    "vocabulary_audio": "/audio/eiken/EIKEN_N5/v_five.mp3",
+    "p_tag": "EIKEN_N5",
+    "s_tag": "100"
+  },
+  {
+    "vocabulary_japanese": "six",
+    "vocabulary_simplified": "six",
+    "vocabulary_english": "šest",
+    "word_type": "nan",
+    "vocabulary_audio": "/audio/eiken/EIKEN_N5/v_six.mp3",
+    "p_tag": "EIKEN_N5",
+    "s_tag": "100"
+  },
+  {
+    "vocabulary_japanese": "seven",
+    "vocabulary_simplified": "seven",
+    "vocabulary_english": "sedm",
+    "word_type": "nan",
+    "vocabulary_audio": "/audio/eiken/EIKEN_N5/v_seven.mp3",
+    "p_tag": "EIKEN_N5",
+    "s_tag": "100"
+  },
+  {
+    "vocabulary_japanese": "eight",
+    "vocabulary_simplified": "eight",
+    "vocabulary_english": "osm",
+    "word_type": "nan",
+    "vocabulary_audio": "/audio/eiken/EIKEN_N5/v_eight.mp3",
+    "p_tag": "EIKEN_N5",
+    "s_tag": "100"
+  },
+  {
+    "vocabulary_japanese": "nine",
+    "vocabulary_simplified": "nine",
+    "vocabulary_english": "devět",
+    "word_type": "nan",
+    "vocabulary_audio": "/audio/eiken/EIKEN_N5/v_nine.mp3",
+    "p_tag": "EIKEN_N5",
+    "s_tag": "100"
+  },
+  {
+    "vocabulary_japanese": "ten",
+    "vocabulary_simplified": "ten",
+    "vocabulary_english": "deset",
+    "word_type": "nan",
+    "vocabulary_audio": "/audio/eiken/EIKEN_N5/v_ten.mp3",
+    "p_tag": "EIKEN_N5",
+    "s_tag": "100"
+  }
+]

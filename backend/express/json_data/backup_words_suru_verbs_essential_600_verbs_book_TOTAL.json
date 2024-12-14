@@ -1,0 +1,2648 @@
+[
+      {
+        "vocabulary_japanese": "愛用する",
+        "vocabulary_simplified": "あいようする",
+        "vocabulary_english": "to use regularly, to patronize",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_愛用する.mp3",
+        "p_tag": "suru_essential_600_verbs",
+        "s_tag": "verbs-0"
+      },
+      {
+        "vocabulary_japanese": "アクセスする",
+        "vocabulary_simplified": "アクセスする",
+        "vocabulary_english": "to access (IT related)",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_アクセスする.mp3",
+        "p_tag": "suru_essential_600_verbs",
+        "s_tag": "verbs-0"
+      },
+      {
+        "vocabulary_japanese": "案内する",
+        "vocabulary_simplified": "あんないする",
+        "vocabulary_english": "to guide, to lead",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_案内する.mp3",
+        "p_tag": "suru_essential_600_verbs",
+        "s_tag": "verbs-0"
+      },
+      {
+        "vocabulary_japanese": "安心する",
+        "vocabulary_simplified": "あんしんする",
+        "vocabulary_english": "to be relieved, to feel secure",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_安心する.mp3",
+        "p_tag": "suru_essential_600_verbs",
+        "s_tag": "verbs-0"
+      },
+      {
+        "vocabulary_japanese": "安定する",
+        "vocabulary_simplified": "あんていする",
+        "vocabulary_english": "to be steady, to be stable",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_安定する.mp3",
+        "p_tag": "suru_essential_600_verbs",
+        "s_tag": "verbs-0"
+      },
+      {
+        "vocabulary_japanese": "アップする",
+        "vocabulary_simplified": "アップする",
+        "vocabulary_english": "to upload (IT related)",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_アップする.mp3",
+        "p_tag": "suru_essential_600_verbs",
+        "s_tag": "verbs-0"
+      },
+      {
+        "vocabulary_japanese": "アレンジする",
+        "vocabulary_simplified": "アレンジする",
+        "vocabulary_english": "to arrange",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_アレンジする.mp3",
+        "p_tag": "suru_essential_600_verbs",
+        "s_tag": "verbs-0"
+      },
+      {
+        "vocabulary_japanese": "爆発する",
+        "vocabulary_simplified": "ばくはつする",
+        "vocabulary_english": "to explode, to burst, to blow up",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_爆発する.mp3",
+        "p_tag": "suru_essential_600_verbs",
+        "s_tag": "verbs-0"
+      },
+      {
+        "vocabulary_japanese": "弁護する",
+        "vocabulary_simplified": "べんごする",
+        "vocabulary_english": "to defend, to testify for",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_弁護する.mp3",
+        "p_tag": "suru_essential_600_verbs",
+        "s_tag": "verbs-0"
+      },
+      {
+        "vocabulary_japanese": "勉強する",
+        "vocabulary_simplified": "べんきょうする",
+        "vocabulary_english": "to study, to give a discount",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_勉強する.mp3",
+        "p_tag": "suru_essential_600_verbs",
+        "s_tag": "verbs-0"
+      },
+      {
+        "vocabulary_japanese": "弁償する",
+        "vocabulary_simplified": "べんしょうする",
+        "vocabulary_english": "to compensate, to repay for loss",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_弁償する.mp3",
+        "p_tag": "suru_essential_600_verbs",
+        "s_tag": "verbs-0"
+      },
+      {
+        "vocabulary_japanese": "防止する",
+        "vocabulary_simplified": "ぼうしする",
+        "vocabulary_english": "to prevent, to keep in check",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_防止する.mp3",
+        "p_tag": "suru_essential_600_verbs",
+        "s_tag": "verbs-0"
+      },
+      {
+        "vocabulary_japanese": "募集する",
+        "vocabulary_simplified": "ぼしゅうする",
+        "vocabulary_english": "to recruit, to collect",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_募集する.mp3",
+        "p_tag": "suru_essential_600_verbs",
+        "s_tag": "verbs-0"
+      },
+      {
+        "vocabulary_japanese": "分析する",
+        "vocabulary_simplified": "ぶんせきする",
+        "vocabulary_english": "to analyze, to break down",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_分析する.mp3",
+        "p_tag": "suru_essential_600_verbs",
+        "s_tag": "verbs-0"
+      },
+      {
+        "vocabulary_japanese": "チャレンジする",
+        "vocabulary_simplified": "チャレンジする",
+        "vocabulary_english": "to challenge",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_チャレンジする.mp3",
+        "p_tag": "suru_essential_600_verbs",
+        "s_tag": "verbs-0"
+      },
+      {
+        "vocabulary_japanese": "遅刻する",
+        "vocabulary_simplified": "ちこくする",
+        "vocabulary_english": "to be late, to be tardy",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_遅刻する.mp3",
+        "p_tag": "suru_essential_600_verbs",
+        "s_tag": "verbs-0"
+      },
+      {
+        "vocabulary_japanese": "貯金する",
+        "vocabulary_simplified": "ちょきんする",
+        "vocabulary_english": "to save money",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_貯金する.mp3",
+        "p_tag": "suru_essential_600_verbs",
+        "s_tag": "verbs-0"
+      },
+      {
+        "vocabulary_japanese": "調査する",
+        "vocabulary_simplified": "ちょうさする",
+        "vocabulary_english": "to investigate, to inquire into, to examine",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_調査する.mp3",
+        "p_tag": "suru_essential_600_verbs",
+        "s_tag": "verbs-0"
+      },
+      {
+        "vocabulary_japanese": "調整する",
+        "vocabulary_simplified": "ちょうせいする",
+        "vocabulary_english": "to regulate, to adjust",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_調整する.mp3",
+        "p_tag": "suru_essential_600_verbs",
+        "s_tag": "verbs-0"
+      },
+      {
+        "vocabulary_japanese": "ちゅうちょする",
+        "vocabulary_simplified": "ちゅうちょする",
+        "vocabulary_english": "to hesitate, to waver",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_ちゅうちょする.mp3",
+        "p_tag": "suru_essential_600_verbs",
+        "s_tag": "verbs-0"
+      },
+      {
+        "vocabulary_japanese": "注意する",
+        "vocabulary_simplified": "ちゅういする",
+        "vocabulary_english": "to be careful of, to pay attention to",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_注意する.mp3",
+        "p_tag": "suru_essential_600_verbs",
+        "s_tag": "verbs-0"
+      },
+      {
+        "vocabulary_japanese": "中継する",
+        "vocabulary_simplified": "ちゅうけいする",
+        "vocabulary_english": "to relay (a broadcast)",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_中継する.mp3",
+        "p_tag": "suru_essential_600_verbs",
+        "s_tag": "verbs-0"
+      },
+      {
+        "vocabulary_japanese": "忠告する",
+        "vocabulary_simplified": "ちゅうこくする",
+        "vocabulary_english": "to warn",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_忠告する.mp3",
+        "p_tag": "suru_essential_600_verbs",
+        "s_tag": "verbs-0"
+      },
+      {
+        "vocabulary_japanese": "注目する",
+        "vocabulary_simplified": "ちゅうもくする",
+        "vocabulary_english": "to observe, to take notice of",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_注目する.mp3",
+        "p_tag": "suru_essential_600_verbs",
+        "s_tag": "verbs-0"
+      },
+      {
+        "vocabulary_japanese": "注文する",
+        "vocabulary_simplified": "ちゅうもんする",
+        "vocabulary_english": "to order (goods, food)",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_注文する.mp3",
+        "p_tag": "suru_essential_600_verbs",
+        "s_tag": "verbs-0"
+      },
+      {
+        "vocabulary_japanese": "中止する",
+        "vocabulary_simplified": "ちゅうしする",
+        "vocabulary_english": "to stop, to discontinue, to call off",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_中止する.mp3",
+        "p_tag": "suru_essential_600_verbs",
+        "s_tag": "verbs-0"
+      },
+      {
+        "vocabulary_japanese": "ダウンロードする",
+        "vocabulary_simplified": "ダウンロードする",
+        "vocabulary_english": "to download (IT term)",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_ダウンロードする.mp3",
+        "p_tag": "suru_essential_600_verbs",
+        "s_tag": "verbs-0"
+      },
+      {
+        "vocabulary_japanese": "妥協する",
+        "vocabulary_simplified": "だきょうする",
+        "vocabulary_english": "to compromise",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_妥協する.mp3",
+        "p_tag": "suru_essential_600_verbs",
+        "s_tag": "verbs-0"
+      },
+      {
+        "vocabulary_japanese": "ダンスする",
+        "vocabulary_simplified": "ダンスする",
+        "vocabulary_english": "to dance",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_ダンスする.mp3",
+        "p_tag": "suru_essential_600_verbs",
+        "s_tag": "verbs-0"
+      },
+      {
+        "vocabulary_japanese": "電話する",
+        "vocabulary_simplified": "でんわする",
+        "vocabulary_english": "to make a telephone call",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_電話する.mp3",
+        "p_tag": "suru_essential_600_verbs",
+        "s_tag": "verbs-0"
+      },
+      {
+        "vocabulary_japanese": "独立する",
+        "vocabulary_simplified": "どくりつする",
+        "vocabulary_english": "to become independent",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_独立する.mp3",
+        "p_tag": "suru_essential_600_verbs",
+        "s_tag": "verbs-0"
+      },
+      {
+        "vocabulary_japanese": "同意する",
+        "vocabulary_simplified": "どういする",
+        "vocabulary_english": "to agree, to approve",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_同意する.mp3",
+        "p_tag": "suru_essential_600_verbs",
+        "s_tag": "verbs-0"
+      },
+      {
+        "vocabulary_japanese": "導入する",
+        "vocabulary_simplified": "どうにゅうする",
+        "vocabulary_english": "to bring in, to introduce",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_導入する.mp3",
+        "p_tag": "suru_essential_600_verbs",
+        "s_tag": "verbs-0"
+      },
+      {
+        "vocabulary_japanese": "ドラッグする",
+        "vocabulary_simplified": "ドラッグする",
+        "vocabulary_english": "to drag with a (computer) mouse",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_ドラッグする.mp3",
+        "p_tag": "suru_essential_600_verbs",
+        "s_tag": "verbs-0"
+      },
+      {
+        "vocabulary_japanese": "努力する",
+        "vocabulary_simplified": "どりょくする",
+        "vocabulary_english": "to make an effort, to work hard",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_努力する.mp3",
+        "p_tag": "suru_essential_600_verbs",
+        "s_tag": "verbs-0"
+      },
+      {
+        "vocabulary_japanese": "営業する",
+        "vocabulary_simplified": "えいぎょうする",
+        "vocabulary_english": "to do business, to be open",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_営業する.mp3",
+        "p_tag": "suru_essential_600_verbs",
+        "s_tag": "verbs-0"
+      },
+      {
+        "vocabulary_japanese": "影響する",
+        "vocabulary_simplified": "えいきょうする",
+        "vocabulary_english": "to influence, to affect",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_影響する.mp3",
+        "p_tag": "suru_essential_600_verbs",
+        "s_tag": "verbs-0"
+      },
+      {
+        "vocabulary_japanese": "延長する",
+        "vocabulary_simplified": "えんちょうする",
+        "vocabulary_english": "to extend, to lengthen",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_延長する.mp3",
+        "p_tag": "suru_essential_600_verbs",
+        "s_tag": "verbs-0"
+      },
+      {
+        "vocabulary_japanese": "演技する",
+        "vocabulary_simplified": "えんぎする",
+        "vocabulary_english": "to act, to perform",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_演技する.mp3",
+        "p_tag": "suru_essential_600_verbs",
+        "s_tag": "verbs-0"
+      },
+      {
+        "vocabulary_japanese": "援助する",
+        "vocabulary_simplified": "えんじょする",
+        "vocabulary_english": "to assist, to help, to support, to aid",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_援助する.mp3",
+        "p_tag": "suru_essential_600_verbs",
+        "s_tag": "verbs-0"
+      },
+      {
+        "vocabulary_japanese": "延期する",
+        "vocabulary_simplified": "えんきする",
+        "vocabulary_english": "to postpone, to put off",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_延期する.mp3",
+        "p_tag": "suru_essential_600_verbs",
+        "s_tag": "verbs-0"
+      },
+      {
+        "vocabulary_japanese": "遠慮する",
+        "vocabulary_simplified": "えんりょする",
+        "vocabulary_english": "to refrain, to hold back",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_遠慮する.mp3",
+        "p_tag": "suru_essential_600_verbs",
+        "s_tag": "verbs-0"
+      },
+      {
+        "vocabulary_japanese": "ファックスする",
+        "vocabulary_simplified": "ファックスする",
+        "vocabulary_english": "to fax",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_ファックスする.mp3",
+        "p_tag": "suru_essential_600_verbs",
+        "s_tag": "verbs-0"
+      },
+      {
+        "vocabulary_japanese": "フォローする",
+        "vocabulary_simplified": "フォローする",
+        "vocabulary_english": "to follow online (IT term)",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_フォローする.mp3",
+        "p_tag": "suru_essential_600_verbs",
+        "s_tag": "verbs-0"
+      },
+      {
+        "vocabulary_japanese": "復活する",
+        "vocabulary_simplified": "ふっかつする",
+        "vocabulary_english": "to revive, to restore",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_復活する.mp3",
+        "p_tag": "suru_essential_600_verbs",
+        "s_tag": "verbs-0"
+      },
+      {
+        "vocabulary_japanese": "復習する",
+        "vocabulary_simplified": "ふくしゅうする",
+        "vocabulary_english": "to review, to go over",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_復習する.mp3",
+        "p_tag": "suru_essential_600_verbs",
+        "s_tag": "verbs-0"
+      },
+      {
+        "vocabulary_japanese": "復讐する",
+        "vocabulary_simplified": "ふくしゅうする",
+        "vocabulary_english": "to revenge",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_復讐する.mp3",
+        "p_tag": "suru_essential_600_verbs",
+        "s_tag": "verbs-0"
+      },
+      {
+        "vocabulary_japanese": "普及する",
+        "vocabulary_simplified": "ふきゅうする",
+        "vocabulary_english": "to spread, to diffuse",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_普及する.mp3",
+        "p_tag": "suru_essential_600_verbs",
+        "s_tag": "verbs-0"
+      },
+      {
+        "vocabulary_japanese": "赴任する",
+        "vocabulary_simplified": "ふにんする",
+        "vocabulary_english": "to leave for one's new post",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_赴任する.mp3",
+        "p_tag": "suru_essential_600_verbs",
+        "s_tag": "verbs-0"
+      },
+      {
+        "vocabulary_japanese": "不足する",
+        "vocabulary_simplified": "ふそくする",
+        "vocabulary_english": "to be short of, to be lacking",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_不足する.mp3",
+        "p_tag": "suru_essential_600_verbs",
+        "s_tag": "verbs-0"
+      },
+      {
+        "vocabulary_japanese": "負担する",
+        "vocabulary_simplified": "ふたんする",
+        "vocabulary_english": "to bear the weight of",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_負担する.mp3",
+        "p_tag": "suru_essential_600_verbs",
+        "s_tag": "verbs-0"
+      },
+      {
+        "vocabulary_japanese": "我慢する",
+        "vocabulary_simplified": "がまんする",
+        "vocabulary_english": "to be patient, to endure",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_我慢する.mp3",
+        "p_tag": "suru_essential_600_verbs",
+        "s_tag": "verbs-0"
+      },
+      {
+        "vocabulary_japanese": "減少する",
+        "vocabulary_simplified": "げんしょうする",
+        "vocabulary_english": "to decrease",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_減少する.mp3",
+        "p_tag": "suru_essential_600_verbs",
+        "s_tag": "verbs-0"
+      },
+      {
+        "vocabulary_japanese": "限定する",
+        "vocabulary_simplified": "げんていする",
+        "vocabulary_english": "to limit, to restrict",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_限定する.mp3",
+        "p_tag": "suru_essential_600_verbs",
+        "s_tag": "verbs-0"
+      },
+      {
+        "vocabulary_japanese": "議論する",
+        "vocabulary_simplified": "ぎろんする",
+        "vocabulary_english": "to argue, to discuss, to debate",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_議論する.mp3",
+        "p_tag": "suru_essential_600_verbs",
+        "s_tag": "verbs-0"
+      },
+      {
+        "vocabulary_japanese": "誤解する",
+        "vocabulary_simplified": "ごかいする",
+        "vocabulary_english": "to misunderstand",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_誤解する.mp3",
+        "p_tag": "suru_essential_600_verbs",
+        "s_tag": "verbs-0"
+      },
+      {
+        "vocabulary_japanese": "合格する",
+        "vocabulary_simplified": "ごうかくする",
+        "vocabulary_english": "to pass an examination",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_合格する.mp3",
+        "p_tag": "suru_essential_600_verbs",
+        "s_tag": "verbs-0"
+      },
+      {
+        "vocabulary_japanese": "合計する",
+        "vocabulary_simplified": "ごうけいする",
+        "vocabulary_english": "to add up, to total",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_合計する.mp3",
+        "p_tag": "suru_essential_600_verbs",
+        "s_tag": "verbs-0"
+      },
+      {
+        "vocabulary_japanese": "ハグする",
+        "vocabulary_simplified": "ハグする",
+        "vocabulary_english": "to hug",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_ハグする.mp3",
+        "p_tag": "suru_essential_600_verbs",
+        "s_tag": "verbs-0"
+      },
+      {
+        "vocabulary_japanese": "廃止する",
+        "vocabulary_simplified": "はいしする",
+        "vocabulary_english": "to abolish, to do away with, to repeal",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_廃止する.mp3",
+        "p_tag": "suru_essential_600_verbs",
+        "s_tag": "verbs-0"
+      },
+      {
+        "vocabulary_japanese": "配達する",
+        "vocabulary_simplified": "はいたつする",
+        "vocabulary_english": "to deliver",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_配達する.mp3",
+        "p_tag": "suru_essential_600_verbs",
+        "s_tag": "verbs-0"
+      },
+      {
+        "vocabulary_japanese": "破壊する",
+        "vocabulary_simplified": "はかいする",
+        "vocabulary_english": "to destroy, to break, to ruin",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_破壊する.mp3",
+        "p_tag": "suru_essential_600_verbs",
+        "s_tag": "verbs-0"
+      },
+      {
+        "vocabulary_japanese": "発行する",
+        "vocabulary_simplified": "はっこうする",
+        "vocabulary_english": "to publish, to issue, to bring out",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_発行する.mp3",
+        "p_tag": "suru_essential_600_verbs",
+        "s_tag": "verbs-0"
+      },
+      {
+        "vocabulary_japanese": "反映する",
+        "vocabulary_simplified": "はんえいする",
+        "vocabulary_english": "to reflect",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_反映する.mp3",
+        "p_tag": "suru_essential_600_verbs",
+        "s_tag": "verbs-0"
+      },
+      {
+        "vocabulary_japanese": "繫栄する",
+        "vocabulary_simplified": "はんえいする",
+        "vocabulary_english": "to prosper, to flourish",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_繫栄する.mp3",
+        "p_tag": "suru_essential_600_verbs",
+        "s_tag": "verbs-0"
+      },
+      {
+        "vocabulary_japanese": "判断する",
+        "vocabulary_simplified": "はんだんする",
+        "vocabulary_english": "to judge, to conclude",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_判断する.mp3",
+        "p_tag": "suru_essential_600_verbs",
+        "s_tag": "verbs-0"
+      },
+      {
+        "vocabulary_japanese": "反省する",
+        "vocabulary_simplified": "はんせいする",
+        "vocabulary_english": "to reflect on oneself, to reconsider",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_反省する.mp3",
+        "p_tag": "suru_essential_600_verbs",
+        "s_tag": "verbs-0"
+      },
+      {
+        "vocabulary_japanese": "反対する",
+        "vocabulary_simplified": "はんたいする",
+        "vocabulary_english": "to be against, to be opposed",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_反対する.mp3",
+        "p_tag": "suru_essential_600_verbs",
+        "s_tag": "verbs-0"
+      },
+      {
+        "vocabulary_japanese": "発売する",
+        "vocabulary_simplified": "はつばいする",
+        "vocabulary_english": "to begin selling, to put on the market",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_発売する.mp3",
+        "p_tag": "suru_essential_600_verbs",
+        "s_tag": "verbs-0"
+      },
+      {
+        "vocabulary_japanese": "発明する",
+        "vocabulary_simplified": "はつめいする",
+        "vocabulary_english": "to invent",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_発明する.mp3",
+        "p_tag": "suru_essential_600_verbs",
+        "s_tag": "verbs-0"
+      },
+      {
+        "vocabulary_japanese": "発展する",
+        "vocabulary_simplified": "はってんする",
+        "vocabulary_english": "to develop, to expand",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_発展する.mp3",
+        "p_tag": "suru_essential_600_verbs",
+        "s_tag": "verbs-0"
+      },
+      {
+        "vocabulary_japanese": "平均する",
+        "vocabulary_simplified": "へいきんする",
+        "vocabulary_english": "to average, to balance",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_平均する.mp3",
+        "p_tag": "suru_essential_600_verbs",
+        "s_tag": "verbs-0"
+      },
+      {
+        "vocabulary_japanese": "変化する",
+        "vocabulary_simplified": "へんかする",
+        "vocabulary_english": "to change, to alter, to be transformed",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_変化する.mp3",
+        "p_tag": "suru_essential_600_verbs",
+        "s_tag": "verbs-0"
+      },
+      {
+        "vocabulary_japanese": "編集する",
+        "vocabulary_simplified": "へんしゅうする",
+        "vocabulary_english": "to edit, to compile",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_編集する.mp3",
+        "p_tag": "suru_essential_600_verbs",
+        "s_tag": "verbs-0"
+      },
+      {
+        "vocabulary_japanese": "批判する",
+        "vocabulary_simplified": "ひはんする",
+        "vocabulary_english": "to criticize",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_批判する.mp3",
+        "p_tag": "suru_essential_600_verbs",
+        "s_tag": "verbs-0"
+      },
+      {
+        "vocabulary_japanese": "否定する",
+        "vocabulary_simplified": "ひていする",
+        "vocabulary_english": "to deny, to negate",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_否定する.mp3",
+        "p_tag": "suru_essential_600_verbs",
+        "s_tag": "verbs-0"
+      },
+      {
+        "vocabulary_japanese": "翻訳する",
+        "vocabulary_simplified": "ほにゃくする",
+        "vocabulary_english": "to translate",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_翻訳する.mp3",
+        "p_tag": "suru_essential_600_verbs",
+        "s_tag": "verbs-0"
+      },
+      {
+        "vocabulary_japanese": "報告する",
+        "vocabulary_simplified": "ほうこくする",
+        "vocabulary_english": "to report, to inform",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_報告する.mp3",
+        "p_tag": "suru_essential_600_verbs",
+        "s_tag": "verbs-0"
+      },
+      {
+        "vocabulary_japanese": "訪問する",
+        "vocabulary_simplified": "ほうもんする",
+        "vocabulary_english": "to visit, to call on, to pay a visit",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_訪問する.mp3",
+        "p_tag": "suru_essential_600_verbs",
+        "s_tag": "verbs-0"
+      },
+      {
+        "vocabulary_japanese": "保証する",
+        "vocabulary_simplified": "ほしょうする",
+        "vocabulary_english": "to guarantee, to warrant",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_保証する.mp3",
+        "p_tag": "suru_essential_600_verbs",
+        "s_tag": "verbs-0"
+      },
+      {
+        "vocabulary_japanese": "補償する",
+        "vocabulary_simplified": "ほしょうする",
+        "vocabulary_english": "to compensate, to make up for",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_補償する.mp3",
+        "p_tag": "suru_essential_600_verbs",
+        "s_tag": "verbs-0"
+      },
+      {
+        "vocabulary_japanese": "評価する",
+        "vocabulary_simplified": "ひょうかする",
+        "vocabulary_english": "to appraise, to value",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_評価する.mp3",
+        "p_tag": "suru_essential_600_verbs",
+        "s_tag": "verbs-0"
+      },
+      {
+        "vocabulary_japanese": "違反する",
+        "vocabulary_simplified": "いはんする",
+        "vocabulary_english": "to violate",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_違反する.mp3",
+        "p_tag": "suru_essential_600_verbs",
+        "s_tag": "verbs-0"
+      },
+      {
+        "vocabulary_japanese": "維持する",
+        "vocabulary_simplified": "いじする",
+        "vocabulary_english": "to maintain, to support, to keep",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_維持する.mp3",
+        "p_tag": "suru_essential_600_verbs",
+        "s_tag": "verbs-0"
+      },
+      {
+        "vocabulary_japanese": "引退する",
+        "vocabulary_simplified": "いんたいする",
+        "vocabulary_english": "to retire, to give up one's position",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_引退する.mp3",
+        "p_tag": "suru_essential_600_verbs",
+        "s_tag": "verbs-0"
+      },
+      {
+        "vocabulary_japanese": "依頼する",
+        "vocabulary_simplified": "いらいする",
+        "vocabulary_english": "to request, to ask",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_依頼する.mp3",
+        "p_tag": "suru_essential_600_verbs",
+        "s_tag": "verbs-0"
+      },
+      {
+        "vocabulary_japanese": "一致する",
+        "vocabulary_simplified": "いっちする",
+        "vocabulary_english": "to agree with, to be in unison",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_一致する.mp3",
+        "p_tag": "suru_essential_600_verbs",
+        "s_tag": "verbs-0"
+      },
+      {
+        "vocabulary_japanese": "意図する",
+        "vocabulary_simplified": "いとする",
+        "vocabulary_english": "to intend to do, to make a goal",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_意図する.mp3",
+        "p_tag": "suru_essential_600_verbs",
+        "s_tag": "verbs-0"
+      },
+      {
+        "vocabulary_japanese": "ジャンプする",
+        "vocabulary_simplified": "ジャンプする",
+        "vocabulary_english": "to jump",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_ジャンプする.mp3",
+        "p_tag": "suru_essential_600_verbs",
+        "s_tag": "verbs-0"
+      },
+      {
+        "vocabulary_japanese": "実験する",
+        "vocabulary_simplified": "じっけんする",
+        "vocabulary_english": "to experiment",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_実験する.mp3",
+        "p_tag": "suru_essential_600_verbs",
+        "s_tag": "verbs-0"
+      },
+      {
+        "vocabulary_japanese": "実行する",
+        "vocabulary_simplified": "じっこうする",
+        "vocabulary_english": "to carry out, to execute",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_実行する.mp3",
+        "p_tag": "suru_essential_600_verbs",
+        "s_tag": "verbs-0"
+      },
+      {
+        "vocabulary_japanese": "自慢する",
+        "vocabulary_simplified": "じまんする",
+        "vocabulary_english": "to be proud, to boast of, to take pride in",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_自慢する.mp3",
+        "p_tag": "suru_essential_600_verbs",
+        "s_tag": "verbs-0"
+      },
+      {
+        "vocabulary_japanese": "自立する",
+        "vocabulary_simplified": "じりつする",
+        "vocabulary_english": "to become independent",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_自立する.mp3",
+        "p_tag": "suru_essential_600_verbs",
+        "s_tag": "verbs-0"
+      },
+      {
+        "vocabulary_japanese": "辞職する",
+        "vocabulary_simplified": "じしょくする",
+        "vocabulary_english": "to resign",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_辞職する.mp3",
+        "p_tag": "suru_essential_600_verbs",
+        "s_tag": "verbs-0"
+      },
+      {
+        "vocabulary_japanese": "実現する",
+        "vocabulary_simplified": "じつげんする",
+        "vocabulary_english": "to be realized, to come true",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_実現する.mp3",
+        "p_tag": "suru_essential_600_verbs",
+        "s_tag": "verbs-0"
+      },
+      {
+        "vocabulary_japanese": "ジョギングする",
+        "vocabulary_simplified": "ジョギングする",
+        "vocabulary_english": "to jog",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_ジョギングする.mp3",
+        "p_tag": "suru_essential_600_verbs",
+        "s_tag": "verbs-0"
+      },
+      {
+        "vocabulary_japanese": "上映する",
+        "vocabulary_simplified": "じょうえいする",
+        "vocabulary_english": "to show a film",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_上映する.mp3",
+        "p_tag": "suru_essential_600_verbs",
+        "s_tag": "verbs-0"
+      },
+      {
+        "vocabulary_japanese": "譲歩する",
+        "vocabulary_simplified": "じょうほする",
+        "vocabulary_english": "to concede, to give way to",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_譲歩する.mp3",
+        "p_tag": "suru_essential_600_verbs",
+        "s_tag": "verbs-0"
+      },
+      {
+        "vocabulary_japanese": "上昇する",
+        "vocabulary_simplified": "じょうしょうする",
+        "vocabulary_english": "to go up, to rise, to ascend",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_上昇する.mp3",
+        "p_tag": "suru_essential_600_verbs",
+        "s_tag": "verbs-0"
+      },
+      {
+        "vocabulary_japanese": "準備する",
+        "vocabulary_simplified": "じゅんびする",
+        "vocabulary_english": "to prepare",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_準備する.mp3",
+        "p_tag": "suru_essential_600_verbs",
+        "s_tag": "verbs-0"
+      },
+      {
+        "vocabulary_japanese": "回復する",
+        "vocabulary_simplified": "かいふくする",
+        "vocabulary_english": "to restore, to recuperate",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_回復する.mp3",
+        "p_tag": "suru_essential_600_verbs",
+        "s_tag": "verbs-0"
+      },
+      {
+        "vocabulary_japanese": "開発する",
+        "vocabulary_simplified": "かいはつする",
+        "vocabulary_english": "to develop, to exploit",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_開発する.mp3",
+        "p_tag": "suru_essential_600_verbs",
+        "s_tag": "verbs-0"
+      },
+      {
+        "vocabulary_japanese": "開放する",
+        "vocabulary_simplified": "かいほうする",
+        "vocabulary_english": "to open a place to the public",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_開放する.mp3",
+        "p_tag": "suru_essential_600_verbs",
+        "s_tag": "verbs-0"
+      },
+      {
+        "vocabulary_japanese": "解放する",
+        "vocabulary_simplified": "かいほうする",
+        "vocabulary_english": "to release, to set a prisoner free",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_解放する.mp3",
+        "p_tag": "suru_essential_600_verbs",
+        "s_tag": "verbs-0"
+      },
+      {
+        "vocabulary_japanese": "改革する",
+        "vocabulary_simplified": "かいかくする",
+        "vocabulary_english": "to reform, to improve",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_改革する.mp3",
+        "p_tag": "suru_essential_600_verbs",
+        "s_tag": "verbs-0"
+      },
+      {
+        "vocabulary_japanese": "解決する",
+        "vocabulary_simplified": "かいけつする",
+        "vocabulary_english": "to settle, to resolve",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_解決する.mp3",
+        "p_tag": "suru_essential_600_verbs",
+        "s_tag": "verbs-0"
+      },
+      {
+        "vocabulary_japanese": "開催する",
+        "vocabulary_simplified": "かいさいする",
+        "vocabulary_english": "to hold (an event)",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_開催する.mp3",
+        "p_tag": "suru_essential_600_verbs",
+        "s_tag": "verbs-0"
+      },
+      {
+        "vocabulary_japanese": "改正する",
+        "vocabulary_simplified": "かいせいする",
+        "vocabulary_english": "to revise, to amend, to improve",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_改正する.mp3",
+        "p_tag": "suru_essential_600_verbs",
+        "s_tag": "verbs-0"
+      },
+      {
+        "vocabulary_japanese": "解釈する",
+        "vocabulary_simplified": "かいしゃくする",
+        "vocabulary_english": "to interpret, to explain",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_解釈する.mp3",
+        "p_tag": "suru_essential_600_verbs",
+        "s_tag": "verbs-0"
+      },
+      {
+        "vocabulary_japanese": "開拓する",
+        "vocabulary_simplified": "かいたくする",
+        "vocabulary_english": "to reclaim, to exploit, to develop",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_開拓する.mp3",
+        "p_tag": "suru_essential_600_verbs",
+        "s_tag": "verbs-0"
+      },
+      {
+        "vocabulary_japanese": "下降する",
+        "vocabulary_simplified": "かこうする",
+        "vocabulary_english": "to come down, to descent, to drop",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_下降する.mp3",
+        "p_tag": "suru_essential_600_verbs",
+        "s_tag": "verbs-0"
+      },
+      {
+        "vocabulary_japanese": "加工する",
+        "vocabulary_simplified": "かこうする",
+        "vocabulary_english": "to process, to manufacture",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_加工する.mp3",
+        "p_tag": "suru_essential_600_verbs",
+        "s_tag": "verbs-0"
+      },
+      {
+        "vocabulary_japanese": "拡大する",
+        "vocabulary_simplified": "かくだいする",
+        "vocabulary_english": "to magnify, to enlarge, to expand",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_拡大する.mp3",
+        "p_tag": "suru_essential_600_verbs",
+        "s_tag": "verbs-0"
+      },
+      {
+        "vocabulary_japanese": "確認する",
+        "vocabulary_simplified": "かくにんする",
+        "vocabulary_english": "to confirm, to ascertain",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_確認する.mp3",
+        "p_tag": "suru_essential_600_verbs",
+        "s_tag": "verbs-0"
+      },
+      {
+        "vocabulary_japanese": "関係する",
+        "vocabulary_simplified": "かんけいする",
+        "vocabulary_english": "to be related, to have a relationship",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_関係する.mp3",
+        "p_tag": "suru_essential_600_verbs",
+        "s_tag": "verbs-0"
+      },
+      {
+        "vocabulary_japanese": "管理する",
+        "vocabulary_simplified": "かんりする",
+        "vocabulary_english": "to manage, to control, to administer",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_管理する.mp3",
+        "p_tag": "suru_essential_600_verbs",
+        "s_tag": "verbs-0"
+      },
+      {
+        "vocabulary_japanese": "観察する",
+        "vocabulary_simplified": "かんさつする",
+        "vocabulary_english": "to observe, to watch closely",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_観察する.mp3",
+        "p_tag": "suru_essential_600_verbs",
+        "s_tag": "verbs-0"
+      },
+      {
+        "vocabulary_japanese": "完成する",
+        "vocabulary_simplified": "かんせいする",
+        "vocabulary_english": "to finish, to complete",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_完成する.mp3",
+        "p_tag": "suru_essential_600_verbs",
+        "s_tag": "verbs-0"
+      },
+      {
+        "vocabulary_japanese": "感心する",
+        "vocabulary_simplified": "かんしんする",
+        "vocabulary_english": "to admire, to be impressed",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_感心する.mp3",
+        "p_tag": "suru_essential_600_verbs",
+        "s_tag": "verbs-0"
+      },
+      {
+        "vocabulary_japanese": "観賞する",
+        "vocabulary_simplified": "かんしょうする",
+        "vocabulary_english": "to appreciate",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_観賞する.mp3",
+        "p_tag": "suru_essential_600_verbs",
+        "s_tag": "verbs-0"
+      },
+      {
+        "vocabulary_japanese": "仮定する",
+        "vocabulary_simplified": "かていする",
+        "vocabulary_english": "to assume, to suppose",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_仮定する.mp3",
+        "p_tag": "suru_essential_600_verbs",
+        "s_tag": "verbs-0"
+      },
+      {
+        "vocabulary_japanese": "活動する",
+        "vocabulary_simplified": "かつどうする",
+        "vocabulary_english": "to be active",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_活動する.mp3",
+        "p_tag": "suru_essential_600_verbs",
+        "s_tag": "verbs-0"
+      },
+      {
+        "vocabulary_japanese": "活躍する",
+        "vocabulary_simplified": "かつやくする",
+        "vocabulary_english": "to be active in, to take an active part",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_活躍する.mp3",
+        "p_tag": "suru_essential_600_verbs",
+        "s_tag": "verbs-0"
+      },
+      {
+        "vocabulary_japanese": "カットする",
+        "vocabulary_simplified": "カットする",
+        "vocabulary_english": "to cut",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_カットする.mp3",
+        "p_tag": "suru_essential_600_verbs",
+        "s_tag": "verbs-0"
+      },
+      {
+        "vocabulary_japanese": "経営する",
+        "vocabulary_simplified": "けいえいする",
+        "vocabulary_english": "to manage, to conduct, to run (a business)",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_経営する.mp3",
+        "p_tag": "suru_essential_600_verbs",
+        "s_tag": "verbs-0"
+      },
+      {
+        "vocabulary_japanese": "経過する",
+        "vocabulary_simplified": "けいかする",
+        "vocabulary_english": "to pass, total elapse, to expire",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_経過する.mp3",
+        "p_tag": "suru_essential_600_verbs",
+        "s_tag": "verbs-0"
+      },
+      {
+        "vocabulary_japanese": "計画する",
+        "vocabulary_simplified": "けいかくする",
+        "vocabulary_english": "to plan",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_計画する.mp3",
+        "p_tag": "suru_essential_600_verbs",
+        "s_tag": "verbs-0"
+      },
+      {
+        "vocabulary_japanese": "経験する",
+        "vocabulary_simplified": "けいけんする",
+        "vocabulary_english": "to experience, to undergo",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_経験する.mp3",
+        "p_tag": "suru_essential_600_verbs",
+        "s_tag": "verbs-0"
+      },
+      {
+        "vocabulary_japanese": "計算する",
+        "vocabulary_simplified": "けいさんする",
+        "vocabulary_english": "to count, to calculate, to sum up",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_計算する.mp3",
+        "p_tag": "suru_essential_600_verbs",
+        "s_tag": "verbs-0"
+      },
+      {
+        "vocabulary_japanese": "契約する",
+        "vocabulary_simplified": "けいやくする",
+        "vocabulary_english": "to contract, to make a contract with",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_契約する.mp3",
+        "p_tag": "suru_essential_600_verbs",
+        "s_tag": "verbs-0"
+      },
+      {
+        "vocabulary_japanese": "結婚する",
+        "vocabulary_simplified": "けっこんする",
+        "vocabulary_english": "to marry",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_結婚する.mp3",
+        "p_tag": "suru_essential_600_verbs",
+        "s_tag": "verbs-0"
+      },
+      {
+        "vocabulary_japanese": "見物する",
+        "vocabulary_simplified": "けんぶつする",
+        "vocabulary_english": "to go sightseeing",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_見物する.mp3",
+        "p_tag": "suru_essential_600_verbs",
+        "s_tag": "verbs-0"
+      },
+      {
+        "vocabulary_japanese": "けんかする",
+        "vocabulary_simplified": "けんかする",
+        "vocabulary_english": "to quarrel, to fight",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_けんかする.mp3",
+        "p_tag": "suru_essential_600_verbs",
+        "s_tag": "verbs-0"
+      },
+      {
+        "vocabulary_japanese": "研究する",
+        "vocabulary_simplified": "けんきゅうする",
+        "vocabulary_english": "to study, to research",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_研究する.mp3",
+        "p_tag": "suru_essential_600_verbs",
+        "s_tag": "verbs-0"
+      },
+      {
+        "vocabulary_japanese": "研修する",
+        "vocabulary_simplified": "けんしゅうする",
+        "vocabulary_english": "to study, to train, to intern",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_研修する.mp3",
+        "p_tag": "suru_essential_600_verbs",
+        "s_tag": "verbs-0"
+      },
+      {
+        "vocabulary_japanese": "検討する",
+        "vocabulary_simplified": "けんとうする",
+        "vocabulary_english": "to examine, to investigate, to think over",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_検討する.mp3",
+        "p_tag": "suru_essential_600_verbs",
+        "s_tag": "verbs-0"
+      },
+      {
+        "vocabulary_japanese": "欠席する",
+        "vocabulary_simplified": "けっせきする",
+        "vocabulary_english": "to be absent",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_欠席する.mp3",
+        "p_tag": "suru_essential_600_verbs",
+        "s_tag": "verbs-0"
+      },
+      {
+        "vocabulary_japanese": "決心する",
+        "vocabulary_simplified": "けっしんする",
+        "vocabulary_english": "to decide, to make up one's mind",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_決心する.mp3",
+        "p_tag": "suru_essential_600_verbs",
+        "s_tag": "verbs-0"
+      },
+      {
+        "vocabulary_japanese": "決定する",
+        "vocabulary_simplified": "けっていする",
+        "vocabulary_english": "to decide, to determine",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_決定する.mp3",
+        "p_tag": "suru_essential_600_verbs",
+        "s_tag": "verbs-0"
+      },
+      {
+        "vocabulary_japanese": "キープする",
+        "vocabulary_simplified": "キープする",
+        "vocabulary_english": "to keep",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_キープする.mp3",
+        "p_tag": "suru_essential_600_verbs",
+        "s_tag": "verbs-0"
+      },
+      {
+        "vocabulary_japanese": "キックする",
+        "vocabulary_simplified": "キックする",
+        "vocabulary_english": "to kick",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_キックする.mp3",
+        "p_tag": "suru_essential_600_verbs",
+        "s_tag": "verbs-0"
+      },
+      {
+        "vocabulary_japanese": "緊張する",
+        "vocabulary_simplified": "きんちょうする",
+        "vocabulary_english": "to be tense, to be nervous",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_緊張する.mp3",
+        "p_tag": "suru_essential_600_verbs",
+        "s_tag": "verbs-0"
+      },
+      {
+        "vocabulary_japanese": "記念する",
+        "vocabulary_simplified": "きねんする",
+        "vocabulary_english": "to commemorate",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_記念する.mp3",
+        "p_tag": "suru_essential_600_verbs",
+        "s_tag": "verbs-0"
+      },
+      {
+        "vocabulary_japanese": "記録する",
+        "vocabulary_simplified": "きろくする",
+        "vocabulary_english": "to record, to write down",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_記録する.mp3",
+        "p_tag": "suru_essential_600_verbs",
+        "s_tag": "verbs-0"
+      },
+      {
+        "vocabulary_japanese": "キスする",
+        "vocabulary_simplified": "キスする",
+        "vocabulary_english": "to kiss",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_キスする.mp3",
+        "p_tag": "suru_essential_600_verbs",
+        "s_tag": "verbs-0"
+      },
+      {
+        "vocabulary_japanese": "期待する",
+        "vocabulary_simplified": "きたいする",
+        "vocabulary_english": "to expect, to hope",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_期待する.mp3",
+        "p_tag": "suru_essential_600_verbs",
+        "s_tag": "verbs-0"
+      },
+      {
+        "vocabulary_japanese": "攻撃する",
+        "vocabulary_simplified": "こうげきする",
+        "vocabulary_english": "to attack, to charge, to criticize",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_攻撃する.mp3",
+        "p_tag": "suru_essential_600_verbs",
+        "s_tag": "verbs-0"
+      },
+      {
+        "vocabulary_japanese": "工事する",
+        "vocabulary_simplified": "こうじする",
+        "vocabulary_english": "to construct",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_工事する.mp3",
+        "p_tag": "suru_essential_600_verbs",
+        "s_tag": "verbs-0"
+      },
+      {
+        "vocabulary_japanese": "後悔する",
+        "vocabulary_simplified": "こうかいする",
+        "vocabulary_english": "to regret, to repent, to be sorry",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_後悔する.mp3",
+        "p_tag": "suru_essential_600_verbs",
+        "s_tag": "verbs-0"
+      },
+      {
+        "vocabulary_japanese": "交換する",
+        "vocabulary_simplified": "こうかんする",
+        "vocabulary_english": "to exchange",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_交換する.mp3",
+        "p_tag": "suru_essential_600_verbs",
+        "s_tag": "verbs-0"
+      },
+      {
+        "vocabulary_japanese": "混乱する",
+        "vocabulary_simplified": "こんらんする",
+        "vocabulary_english": "to be confused, to be in disorder",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_混乱する.mp3",
+        "p_tag": "suru_essential_600_verbs",
+        "s_tag": "verbs-0"
+      },
+      {
+        "vocabulary_japanese": "コントロールする",
+        "vocabulary_simplified": "コントロールする",
+        "vocabulary_english": "to control",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_コントロールする.mp3",
+        "p_tag": "suru_essential_600_verbs",
+        "s_tag": "verbs-0"
+      },
+      {
+        "vocabulary_japanese": "コピーする",
+        "vocabulary_simplified": "コピーする",
+        "vocabulary_english": "to make a copy",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_コピーする.mp3",
+        "p_tag": "suru_essential_600_verbs",
+        "s_tag": "verbs-0"
+      },
+      {
+        "vocabulary_japanese": "考慮する",
+        "vocabulary_simplified": "こうりょする",
+        "vocabulary_english": "to consider, to think over",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_考慮する.mp3",
+        "p_tag": "suru_essential_600_verbs",
+        "s_tag": "verbs-0"
+      },
+      {
+        "vocabulary_japanese": "交流する",
+        "vocabulary_simplified": "こうりゅうする",
+        "vocabulary_english": "to exchange (ideas, culture)",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_交流する.mp3",
+        "p_tag": "suru_essential_600_verbs",
+        "s_tag": "verbs-0"
+      },
+      {
+        "vocabulary_japanese": "故障する",
+        "vocabulary_simplified": "こしょうする",
+        "vocabulary_english": "to break down",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_故障する.mp3",
+        "p_tag": "suru_essential_600_verbs",
+        "s_tag": "verbs-0"
+      },
+      {
+        "vocabulary_japanese": "交渉する",
+        "vocabulary_simplified": "こうしょうする",
+        "vocabulary_english": "to negotiate",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_交渉する.mp3",
+        "p_tag": "suru_essential_600_verbs",
+        "s_tag": "verbs-0"
+      },
+      {
+        "vocabulary_japanese": "交代する",
+        "vocabulary_simplified": "こうたいする",
+        "vocabulary_english": "to take turns, to take a person's place",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_交代する.mp3",
+        "p_tag": "suru_essential_600_verbs",
+        "s_tag": "verbs-0"
+      },
+      {
+        "vocabulary_japanese": "クリックする",
+        "vocabulary_simplified": "クリックする",
+        "vocabulary_english": "to click with a mouse",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_クリックする.mp3",
+        "p_tag": "suru_essential_600_verbs",
+        "s_tag": "verbs-0"
+      },
+      {
+        "vocabulary_japanese": "キャンセルする",
+        "vocabulary_simplified": "キャンセルする",
+        "vocabulary_english": "to cancel",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_キャンセルする.mp3",
+        "p_tag": "suru_essential_600_verbs",
+        "s_tag": "verbs-0"
+      },
+      {
+        "vocabulary_japanese": "拒否する",
+        "vocabulary_simplified": "きょひする",
+        "vocabulary_english": "to refuse, to reject, to deny",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_拒否する.mp3",
+        "p_tag": "suru_essential_600_verbs",
+        "s_tag": "verbs-0"
+      },
+      {
+        "vocabulary_japanese": "教育する",
+        "vocabulary_simplified": "きょういくする",
+        "vocabulary_english": "to educate",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_教育する.mp3",
+        "p_tag": "suru_essential_600_verbs",
+        "s_tag": "verbs-0"
+      },
+      {
+        "vocabulary_japanese": "許可する",
+        "vocabulary_simplified": "きょかする",
+        "vocabulary_english": "to permit",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_許可する.mp3",
+        "p_tag": "suru_essential_600_verbs",
+        "s_tag": "verbs-0"
+      },
+      {
+        "vocabulary_japanese": "供給する",
+        "vocabulary_simplified": "きょうきゅうする",
+        "vocabulary_english": "to supply, to furnish, to provide",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_供給する.mp3",
+        "p_tag": "suru_essential_600_verbs",
+        "s_tag": "verbs-0"
+      },
+      {
+        "vocabulary_japanese": "強制する",
+        "vocabulary_simplified": "きょうせいする",
+        "vocabulary_english": "to compel, to force a person to do",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_強制する.mp3",
+        "p_tag": "suru_essential_600_verbs",
+        "s_tag": "verbs-0"
+      },
+      {
+        "vocabulary_japanese": "競争する",
+        "vocabulary_simplified": "きょうそうする",
+        "vocabulary_english": "to compete",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_競争する.mp3",
+        "p_tag": "suru_essential_600_verbs",
+        "s_tag": "verbs-0"
+      },
+      {
+        "vocabulary_japanese": "救助する",
+        "vocabulary_simplified": "きゅうじょする",
+        "vocabulary_english": "to rescue, to help",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_救助する.mp3",
+        "p_tag": "suru_essential_600_verbs",
+        "s_tag": "verbs-0"
+      },
+      {
+        "vocabulary_japanese": "休憩する",
+        "vocabulary_simplified": "きゅうけいする",
+        "vocabulary_english": "to rest, to take a break",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_休憩する.mp3",
+        "p_tag": "suru_essential_600_verbs",
+        "s_tag": "verbs-0"
+      },
+      {
+        "vocabulary_japanese": "吸収する",
+        "vocabulary_simplified": "きゅうしゅうする",
+        "vocabulary_english": "to absorb",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_吸収する.mp3",
+        "p_tag": "suru_essential_600_verbs",
+        "s_tag": "verbs-0"
+      },
+      {
+        "vocabulary_japanese": "メールする",
+        "vocabulary_simplified": "メールする",
+        "vocabulary_english": "to send an email",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_メールする.mp3",
+        "p_tag": "suru_essential_600_verbs",
+        "s_tag": "verbs-0"
+      },
+      {
+        "vocabulary_japanese": "迷惑する",
+        "vocabulary_simplified": "めいわくする",
+        "vocabulary_english": "to be troubled, to be annoyed",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_迷惑する.mp3",
+        "p_tag": "suru_essential_600_verbs",
+        "s_tag": "verbs-0"
+      },
+      {
+        "vocabulary_japanese": "面接する",
+        "vocabulary_simplified": "めんせつする",
+        "vocabulary_english": "to interview",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_面接する.mp3",
+        "p_tag": "suru_essential_600_verbs",
+        "s_tag": "verbs-0"
+      },
+      {
+        "vocabulary_japanese": "ミックスする",
+        "vocabulary_simplified": "ミックスする",
+        "vocabulary_english": "to mix",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_ミックスする.mp3",
+        "p_tag": "suru_essential_600_verbs",
+        "s_tag": "verbs-0"
+      },
+      {
+        "vocabulary_japanese": "ミスする",
+        "vocabulary_simplified": "ミスする",
+        "vocabulary_english": "to make a mistake, to miss",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_ミスする.mp3",
+        "p_tag": "suru_essential_600_verbs",
+        "s_tag": "verbs-0"
+      },
+      {
+        "vocabulary_japanese": "黙認する",
+        "vocabulary_simplified": "もくにんする",
+        "vocabulary_english": "to permit or approve tacitly",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_黙認する.mp3",
+        "p_tag": "suru_essential_600_verbs",
+        "s_tag": "verbs-0"
+      },
+      {
+        "vocabulary_japanese": "矛盾する",
+        "vocabulary_simplified": "むじゅんする",
+        "vocabulary_english": "to be contradictory, to conflict",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_矛盾する.mp3",
+        "p_tag": "suru_essential_600_verbs",
+        "s_tag": "verbs-0"
+      },
+      {
+        "vocabulary_japanese": "無視する",
+        "vocabulary_simplified": "むしする",
+        "vocabulary_english": "to ignore, to disregard",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_無視する.mp3",
+        "p_tag": "suru_essential_600_verbs",
+        "s_tag": "verbs-0"
+      },
+      {
+        "vocabulary_japanese": "納得する",
+        "vocabulary_simplified": "なっとくする",
+        "vocabulary_english": "to be convinced",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_納得する.mp3",
+        "p_tag": "suru_essential_600_verbs",
+        "s_tag": "verbs-0"
+      },
+      {
+        "vocabulary_japanese": "認識する",
+        "vocabulary_simplified": "にんしきする",
+        "vocabulary_english": "to recognize, to realize, to understand",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_認識する.mp3",
+        "p_tag": "suru_essential_600_verbs",
+        "s_tag": "verbs-0"
+      },
+      {
+        "vocabulary_japanese": "入学する",
+        "vocabulary_simplified": "にゅうがくする",
+        "vocabulary_english": "to enter a school",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_入学する.mp3",
+        "p_tag": "suru_essential_600_verbs",
+        "s_tag": "verbs-0"
+      },
+      {
+        "vocabulary_japanese": "入院する",
+        "vocabulary_simplified": "にゅういんする",
+        "vocabulary_english": "to be hospitalized",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_入院する.mp3",
+        "p_tag": "suru_essential_600_verbs",
+        "s_tag": "verbs-0"
+      },
+      {
+        "vocabulary_japanese": "応援する",
+        "vocabulary_simplified": "おうえんする",
+        "vocabulary_english": "to aid, to support, to encourage, to cheer",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_応援する.mp3",
+        "p_tag": "suru_essential_600_verbs",
+        "s_tag": "verbs-0"
+      },
+      {
+        "vocabulary_japanese": "往復する",
+        "vocabulary_simplified": "おうふくする",
+        "vocabulary_english": "to go and return",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_往復する.mp3",
+        "p_tag": "suru_essential_600_verbs",
+        "s_tag": "verbs-0"
+      },
+      {
+        "vocabulary_japanese": "応用する",
+        "vocabulary_simplified": "おうようする",
+        "vocabulary_english": "to apply, to put into practice",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_応用する.mp3",
+        "p_tag": "suru_essential_600_verbs",
+        "s_tag": "verbs-0"
+      },
+      {
+        "vocabulary_japanese": "パスする",
+        "vocabulary_simplified": "パスする",
+        "vocabulary_english": "to pass (mainly used in sports)",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_パスする.mp3",
+        "p_tag": "suru_essential_600_verbs",
+        "s_tag": "verbs-0"
+      },
+      {
+        "vocabulary_japanese": "落第する",
+        "vocabulary_simplified": "らくだいする",
+        "vocabulary_english": "to fail an exam, to be rejected",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_落第する.mp3",
+        "p_tag": "suru_essential_600_verbs",
+        "s_tag": "verbs-0"
+      },
+      {
+        "vocabulary_japanese": "落選する",
+        "vocabulary_simplified": "らくせんする",
+        "vocabulary_english": "to be defeated in an election",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_落選する.mp3",
+        "p_tag": "suru_essential_600_verbs",
+        "s_tag": "verbs-0"
+      },
+      {
+        "vocabulary_japanese": "連絡する",
+        "vocabulary_simplified": "れんらくする",
+        "vocabulary_english": "to contact, to get in touch",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_連絡する.mp3",
+        "p_tag": "suru_essential_600_verbs",
+        "s_tag": "verbs-0"
+      },
+      {
+        "vocabulary_japanese": "練習する",
+        "vocabulary_simplified": "れんしゅうする",
+        "vocabulary_english": "to practice, to excercise",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_練習する.mp3",
+        "p_tag": "suru_essential_600_verbs",
+        "s_tag": "verbs-0"
+      },
+      {
+        "vocabulary_japanese": "リードする",
+        "vocabulary_simplified": "リードする",
+        "vocabulary_english": "to lead",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_リードする.mp3",
+        "p_tag": "suru_essential_600_verbs",
+        "s_tag": "verbs-0"
+      },
+      {
+        "vocabulary_japanese": "理解する",
+        "vocabulary_simplified": "りかいする",
+        "vocabulary_english": "to understand, to comprehend",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_理解する.mp3",
+        "p_tag": "suru_essential_600_verbs",
+        "s_tag": "verbs-0"
+      },
+      {
+        "vocabulary_japanese": "離婚する",
+        "vocabulary_simplified": "りこんする",
+        "vocabulary_english": "to divorce",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_離婚する.mp3",
+        "p_tag": "suru_essential_600_verbs",
+        "s_tag": "verbs-0"
+      },
+      {
+        "vocabulary_japanese": "利用する",
+        "vocabulary_simplified": "りようする",
+        "vocabulary_english": "to make use of",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_利用する.mp3",
+        "p_tag": "suru_essential_600_verbs",
+        "s_tag": "verbs-0"
+      },
+      {
+        "vocabulary_japanese": "ロックする",
+        "vocabulary_simplified": "ロックする",
+        "vocabulary_english": "to lock",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_ロックする.mp3",
+        "p_tag": "suru_essential_600_verbs",
+        "s_tag": "verbs-0"
+      },
+      {
+        "vocabulary_japanese": "録音する",
+        "vocabulary_simplified": "ろくおんする",
+        "vocabulary_english": "to record (sound)",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_録音する.mp3",
+        "p_tag": "suru_essential_600_verbs",
+        "s_tag": "verbs-0"
+      },
+      {
+        "vocabulary_japanese": "浪費する",
+        "vocabulary_simplified": "ろうひする",
+        "vocabulary_english": "to waste (money or time), to throw away",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_浪費する.mp3",
+        "p_tag": "suru_essential_600_verbs",
+        "s_tag": "verbs-0"
+      },
+      {
+        "vocabulary_japanese": "旅行する",
+        "vocabulary_simplified": "りょこうする",
+        "vocabulary_english": "to travel",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_旅行する.mp3",
+        "p_tag": "suru_essential_600_verbs",
+        "s_tag": "verbs-0"
+      },
+      {
+        "vocabulary_japanese": "料理する",
+        "vocabulary_simplified": "りょうりする",
+        "vocabulary_english": "to cook",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_料理する.mp3",
+        "p_tag": "suru_essential_600_verbs",
+        "s_tag": "verbs-0"
+      },
+      {
+        "vocabulary_japanese": "留学する",
+        "vocabulary_simplified": "りゅうがくする",
+        "vocabulary_english": "to study abroad",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_留学する.mp3",
+        "p_tag": "suru_essential_600_verbs",
+        "s_tag": "verbs-0"
+      },
+      {
+        "vocabulary_japanese": "裁判する",
+        "vocabulary_simplified": "さいばんする",
+        "vocabulary_english": "to hold a trial",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_裁判する.mp3",
+        "p_tag": "suru_essential_600_verbs",
+        "s_tag": "verbs-0"
+      },
+      {
+        "vocabulary_japanese": "採用する",
+        "vocabulary_simplified": "さいようする",
+        "vocabulary_english": "to employ, to adopt (measures)",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_採用する.mp3",
+        "p_tag": "suru_essential_600_verbs",
+        "s_tag": "verbs-0"
+      },
+      {
+        "vocabulary_japanese": "参加する",
+        "vocabulary_simplified": "さんかする",
+        "vocabulary_english": "to join, to take part in",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_参加する.mp3",
+        "p_tag": "suru_essential_600_verbs",
+        "s_tag": "verbs-0"
+      },
+      {
+        "vocabulary_japanese": "散歩する",
+        "vocabulary_simplified": "さんぽする",
+        "vocabulary_english": "to take a walk",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_散歩する.mp3",
+        "p_tag": "suru_essential_600_verbs",
+        "s_tag": "verbs-0"
+      },
+      {
+        "vocabulary_japanese": "賛成する",
+        "vocabulary_simplified": "さんせいする",
+        "vocabulary_english": "to agree, to approve",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_賛成する.mp3",
+        "p_tag": "suru_essential_600_verbs",
+        "s_tag": "verbs-0"
+      },
+      {
+        "vocabulary_japanese": "生活する",
+        "vocabulary_simplified": "せいかつする",
+        "vocabulary_english": "to make a living, to support oneself",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_生活する.mp3",
+        "p_tag": "suru_essential_600_verbs",
+        "s_tag": "verbs-0"
+      },
+      {
+        "vocabulary_japanese": "成功する",
+        "vocabulary_simplified": "せいこうする",
+        "vocabulary_english": "to succeed",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_成功する.mp3",
+        "p_tag": "suru_essential_600_verbs",
+        "s_tag": "verbs-0"
+      },
+      {
+        "vocabulary_japanese": "生産する",
+        "vocabulary_simplified": "せいさんする",
+        "vocabulary_english": "to produce, to manufacture",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_生産する.mp3",
+        "p_tag": "suru_essential_600_verbs",
+        "s_tag": "verbs-0"
+      },
+      {
+        "vocabulary_japanese": "専攻する",
+        "vocabulary_simplified": "せんこうする",
+        "vocabulary_english": "to specialize, to major in",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_専攻する.mp3",
+        "p_tag": "suru_essential_600_verbs",
+        "s_tag": "verbs-0"
+      },
+      {
+        "vocabulary_japanese": "選挙する",
+        "vocabulary_simplified": "せんきょする",
+        "vocabulary_english": "to elect",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_選挙する.mp3",
+        "p_tag": "suru_essential_600_verbs",
+        "s_tag": "verbs-0"
+      },
+      {
+        "vocabulary_japanese": "戦争する",
+        "vocabulary_simplified": "せんそうする",
+        "vocabulary_english": "to make war",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_戦争する.mp3",
+        "p_tag": "suru_essential_600_verbs",
+        "s_tag": "verbs-0"
+      },
+      {
+        "vocabulary_japanese": "選択する",
+        "vocabulary_simplified": "せんたくする",
+        "vocabulary_english": "to choose, to select",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_選択する.mp3",
+        "p_tag": "suru_essential_600_verbs",
+        "s_tag": "verbs-0"
+      },
+      {
+        "vocabulary_japanese": "洗濯する",
+        "vocabulary_simplified": "せんたくする",
+        "vocabulary_english": "to wash (clothes)",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_洗濯する.mp3",
+        "p_tag": "suru_essential_600_verbs",
+        "s_tag": "verbs-0"
+      },
+      {
+        "vocabulary_japanese": "説明する",
+        "vocabulary_simplified": "せつめいする",
+        "vocabulary_english": "to explain",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_説明する.mp3",
+        "p_tag": "suru_essential_600_verbs",
+        "s_tag": "verbs-0"
+      },
+      {
+        "vocabulary_japanese": "節約する",
+        "vocabulary_simplified": "せつやくする",
+        "vocabulary_english": "to economize, to skimp, to save",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_節約する.mp3",
+        "p_tag": "suru_essential_600_verbs",
+        "s_tag": "verbs-0"
+      },
+      {
+        "vocabulary_japanese": "セットする",
+        "vocabulary_simplified": "セットする",
+        "vocabulary_english": "to set",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_セットする.mp3",
+        "p_tag": "suru_essential_600_verbs",
+        "s_tag": "verbs-0"
+      },
+      {
+        "vocabulary_japanese": "説得する",
+        "vocabulary_simplified": "せっとくする",
+        "vocabulary_english": "to persuade",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_説得する.mp3",
+        "p_tag": "suru_essential_600_verbs",
+        "s_tag": "verbs-0"
+      },
+      {
+        "vocabulary_japanese": "世話する",
+        "vocabulary_simplified": "せわする",
+        "vocabulary_english": "to take care of, to look after (someone)",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_世話する.mp3",
+        "p_tag": "suru_essential_600_verbs",
+        "s_tag": "verbs-0"
+      },
+      {
+        "vocabulary_japanese": "指導する",
+        "vocabulary_simplified": "しどうする",
+        "vocabulary_english": "to lead, to guide",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_指導する.mp3",
+        "p_tag": "suru_essential_600_verbs",
+        "s_tag": "verbs-0"
+      },
+      {
+        "vocabulary_japanese": "刺激する",
+        "vocabulary_simplified": "しげきする",
+        "vocabulary_english": "to stimulate, to irritate, to excite",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_刺激する.mp3",
+        "p_tag": "suru_essential_600_verbs",
+        "s_tag": "verbs-0"
+      },
+      {
+        "vocabulary_japanese": "支配する",
+        "vocabulary_simplified": "しはいする",
+        "vocabulary_english": "to control, to dominate",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_支配する.mp3",
+        "p_tag": "suru_essential_600_verbs",
+        "s_tag": "verbs-0"
+      },
+      {
+        "vocabulary_japanese": "指示する",
+        "vocabulary_simplified": "しじする",
+        "vocabulary_english": "to instruct",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_指示する.mp3",
+        "p_tag": "suru_essential_600_verbs",
+        "s_tag": "verbs-0"
+      },
+      {
+        "vocabulary_japanese": "指名する",
+        "vocabulary_simplified": "しめいする",
+        "vocabulary_english": "to nominate, to designate",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_指名する.mp3",
+        "p_tag": "suru_essential_600_verbs",
+        "s_tag": "verbs-0"
+      },
+      {
+        "vocabulary_japanese": "心配する",
+        "vocabulary_simplified": "しんぱいする",
+        "vocabulary_english": "to be anxious, to feel uneasy",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_心配する.mp3",
+        "p_tag": "suru_essential_600_verbs",
+        "s_tag": "verbs-0"
+      },
+      {
+        "vocabulary_japanese": "進歩する",
+        "vocabulary_simplified": "しんぽする",
+        "vocabulary_english": "to make progress, to advance",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_進歩する.mp3",
+        "p_tag": "suru_essential_600_verbs",
+        "s_tag": "verbs-0"
+      },
+      {
+        "vocabulary_japanese": "侵略する",
+        "vocabulary_simplified": "しんりゃくする",
+        "vocabulary_english": "to invade",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_侵略する.mp3",
+        "p_tag": "suru_essential_600_verbs",
+        "s_tag": "verbs-0"
+      },
+      {
+        "vocabulary_japanese": "申請する",
+        "vocabulary_simplified": "しんせいする",
+        "vocabulary_english": "to make out an application",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_申請する.mp3",
+        "p_tag": "suru_essential_600_verbs",
+        "s_tag": "verbs-0"
+      },
+      {
+        "vocabulary_japanese": "信用する",
+        "vocabulary_simplified": "しにょうする",
+        "vocabulary_english": "to trust, to believe, to place confidence in",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_信用する.mp3",
+        "p_tag": "suru_essential_600_verbs",
+        "s_tag": "verbs-0"
+      },
+      {
+        "vocabulary_japanese": "失敗する",
+        "vocabulary_simplified": "しっぱいする",
+        "vocabulary_english": "to fail",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_失敗する.mp3",
+        "p_tag": "suru_essential_600_verbs",
+        "s_tag": "verbs-0"
+      },
+      {
+        "vocabulary_japanese": "支出する",
+        "vocabulary_simplified": "ししゅつする",
+        "vocabulary_english": "to spend (expenditures)",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_支出する.mp3",
+        "p_tag": "suru_essential_600_verbs",
+        "s_tag": "verbs-0"
+      },
+      {
+        "vocabulary_japanese": "指摘する",
+        "vocabulary_simplified": "してきする",
+        "vocabulary_english": "to point out",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_指摘する.mp3",
+        "p_tag": "suru_essential_600_verbs",
+        "s_tag": "verbs-0"
+      },
+      {
+        "vocabulary_japanese": "質問する",
+        "vocabulary_simplified": "しつもんする",
+        "vocabulary_english": "to ask a question",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_質問する.mp3",
+        "p_tag": "suru_essential_600_verbs",
+        "s_tag": "verbs-0"
+      },
+      {
+        "vocabulary_japanese": "使用する",
+        "vocabulary_simplified": "しようする",
+        "vocabulary_english": "to use, to employ",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_使用する.mp3",
+        "p_tag": "suru_essential_600_verbs",
+        "s_tag": "verbs-0"
+      },
+      {
+        "vocabulary_japanese": "食事する",
+        "vocabulary_simplified": "しょくじする",
+        "vocabulary_english": "to take a meal",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_食事する.mp3",
+        "p_tag": "suru_essential_600_verbs",
+        "s_tag": "verbs-0"
+      },
+      {
+        "vocabulary_japanese": "消費する",
+        "vocabulary_simplified": "しょうひする",
+        "vocabulary_english": "to consume, to extend",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_消費する.mp3",
+        "p_tag": "suru_essential_600_verbs",
+        "s_tag": "verbs-0"
+      },
+      {
+        "vocabulary_japanese": "紹介する",
+        "vocabulary_simplified": "しょうかいする",
+        "vocabulary_english": "to introduce, to present",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_紹介する.mp3",
+        "p_tag": "suru_essential_600_verbs",
+        "s_tag": "verbs-0"
+      },
+      {
+        "vocabulary_japanese": "証明する",
+        "vocabulary_simplified": "しょうめいする",
+        "vocabulary_english": "to prove, to testify, to certify",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_証明する.mp3",
+        "p_tag": "suru_essential_600_verbs",
+        "s_tag": "verbs-0"
+      },
+      {
+        "vocabulary_japanese": "昇進する",
+        "vocabulary_simplified": "しょうしんする",
+        "vocabulary_english": "to be promoted",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_昇進する.mp3",
+        "p_tag": "suru_essential_600_verbs",
+        "s_tag": "verbs-0"
+      },
+      {
+        "vocabulary_japanese": "招待する",
+        "vocabulary_simplified": "しょうたいする",
+        "vocabulary_english": "to invite",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_招待する.mp3",
+        "p_tag": "suru_essential_600_verbs",
+        "s_tag": "verbs-0"
+      },
+      {
+        "vocabulary_japanese": "所有する",
+        "vocabulary_simplified": "しょゆうする",
+        "vocabulary_english": "to own, to posess",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_所有する.mp3",
+        "p_tag": "suru_essential_600_verbs",
+        "s_tag": "verbs-0"
+      },
+      {
+        "vocabulary_japanese": "所属する",
+        "vocabulary_simplified": "しょぞくする",
+        "vocabulary_english": "to belong to",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_所属する.mp3",
+        "p_tag": "suru_essential_600_verbs",
+        "s_tag": "verbs-0"
+      },
+      {
+        "vocabulary_japanese": "主張する",
+        "vocabulary_simplified": "しゅちょうする",
+        "vocabulary_english": "to insist on, to assert, to emphasise",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_主張する.mp3",
+        "p_tag": "suru_essential_600_verbs",
+        "s_tag": "verbs-0"
+      },
+      {
+        "vocabulary_japanese": "集中する",
+        "vocabulary_simplified": "しゅうちゅうする",
+        "vocabulary_english": "to concentrate, to centralize",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_集中する.mp3",
+        "p_tag": "suru_essential_600_verbs",
+        "s_tag": "verbs-0"
+      },
+      {
+        "vocabulary_japanese": "縮小する",
+        "vocabulary_simplified": "しゅくしょうする",
+        "vocabulary_english": "to reduce, to cut, to curtail",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_縮小する.mp3",
+        "p_tag": "suru_essential_600_verbs",
+        "s_tag": "verbs-0"
+      },
+      {
+        "vocabulary_japanese": "出版する",
+        "vocabulary_simplified": "しゅっぱんする",
+        "vocabulary_english": "to publish, to issue",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_出版する.mp3",
+        "p_tag": "suru_essential_600_verbs",
+        "s_tag": "verbs-0"
+      },
+      {
+        "vocabulary_japanese": "出発する",
+        "vocabulary_simplified": "しゅっぱつする",
+        "vocabulary_english": "to leave for, to depart",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_出発する.mp3",
+        "p_tag": "suru_essential_600_verbs",
+        "s_tag": "verbs-0"
+      },
+      {
+        "vocabulary_japanese": "修理する",
+        "vocabulary_simplified": "しゅうりする",
+        "vocabulary_english": "to repair, to mend, to fix",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_修理する.mp3",
+        "p_tag": "suru_essential_600_verbs",
+        "s_tag": "verbs-0"
+      },
+      {
+        "vocabulary_japanese": "就職する",
+        "vocabulary_simplified": "しゅうしょくする",
+        "vocabulary_english": "to find employment",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_就職する.mp3",
+        "p_tag": "suru_essential_600_verbs",
+        "s_tag": "verbs-0"
+      },
+      {
+        "vocabulary_japanese": "出席する",
+        "vocabulary_simplified": "しゅっせきする",
+        "vocabulary_english": "to attend",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_出席する.mp3",
+        "p_tag": "suru_essential_600_verbs",
+        "s_tag": "verbs-0"
+      },
+      {
+        "vocabulary_japanese": "出張する",
+        "vocabulary_simplified": "しゅっちょうする",
+        "vocabulary_english": "to go on a business trip",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_出張する.mp3",
+        "p_tag": "suru_essential_600_verbs",
+        "s_tag": "verbs-0"
+      },
+      {
+        "vocabulary_japanese": "相談する",
+        "vocabulary_simplified": "そうだんする",
+        "vocabulary_english": "to consult, to discuss",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_相談する.mp3",
+        "p_tag": "suru_essential_600_verbs",
+        "s_tag": "verbs-0"
+      },
+      {
+        "vocabulary_japanese": "掃除する",
+        "vocabulary_simplified": "そうじする",
+        "vocabulary_english": "to clean",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_掃除する.mp3",
+        "p_tag": "suru_essential_600_verbs",
+        "s_tag": "verbs-0"
+      },
+      {
+        "vocabulary_japanese": "存在する",
+        "vocabulary_simplified": "そんざいする",
+        "vocabulary_english": "to exist",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_存在する.mp3",
+        "p_tag": "suru_essential_600_verbs",
+        "s_tag": "verbs-0"
+      },
+      {
+        "vocabulary_japanese": "操作する",
+        "vocabulary_simplified": "そうさする",
+        "vocabulary_english": "to operate, to handle",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_操作する.mp3",
+        "p_tag": "suru_essential_600_verbs",
+        "s_tag": "verbs-0"
+      },
+      {
+        "vocabulary_japanese": "組織する",
+        "vocabulary_simplified": "そしきする",
+        "vocabulary_english": "to organize, to form",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_組織する.mp3",
+        "p_tag": "suru_essential_600_verbs",
+        "s_tag": "verbs-0"
+      },
+      {
+        "vocabulary_japanese": "卒業する",
+        "vocabulary_simplified": "そつぎょうする",
+        "vocabulary_english": "to graduate from",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_卒業する.mp3",
+        "p_tag": "suru_essential_600_verbs",
+        "s_tag": "verbs-0"
+      },
+      {
+        "vocabulary_japanese": "想像する",
+        "vocabulary_simplified": "そうぞうする",
+        "vocabulary_english": "to imagine, to guess",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_想像する.mp3",
+        "p_tag": "suru_essential_600_verbs",
+        "s_tag": "verbs-0"
+      },
+      {
+        "vocabulary_japanese": "推薦する",
+        "vocabulary_simplified": "すいせんする",
+        "vocabulary_english": "to recommend",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_推薦する.mp3",
+        "p_tag": "suru_essential_600_verbs",
+        "s_tag": "verbs-0"
+      },
+      {
+        "vocabulary_japanese": "スタートする",
+        "vocabulary_simplified": "スタートする",
+        "vocabulary_english": "to start",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_スタートする.mp3",
+        "p_tag": "suru_essential_600_verbs",
+        "s_tag": "verbs-0"
+      },
+      {
+        "vocabulary_japanese": "逮捕する",
+        "vocabulary_simplified": "たいほする",
+        "vocabulary_english": "to arrest, to apprehend",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_逮捕する.mp3",
+        "p_tag": "suru_essential_600_verbs",
+        "s_tag": "verbs-0"
+      },
+      {
+        "vocabulary_japanese": "退院する",
+        "vocabulary_simplified": "たいいんする",
+        "vocabulary_english": "to be released from a hospital",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_退院する.mp3",
+        "p_tag": "suru_essential_600_verbs",
+        "s_tag": "verbs-0"
+      },
+      {
+        "vocabulary_japanese": "対立する",
+        "vocabulary_simplified": "たいりつする",
+        "vocabulary_english": "to be opposed",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_対立する.mp3",
+        "p_tag": "suru_essential_600_verbs",
+        "s_tag": "verbs-0"
+      },
+      {
+        "vocabulary_japanese": "探検する",
+        "vocabulary_simplified": "たんけんする",
+        "vocabulary_english": "to explore",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_探検する.mp3",
+        "p_tag": "suru_essential_600_verbs",
+        "s_tag": "verbs-0"
+      },
+      {
+        "vocabulary_japanese": "担当する",
+        "vocabulary_simplified": "たんとうする",
+        "vocabulary_english": "to take charge of",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_担当する.mp3",
+        "p_tag": "suru_essential_600_verbs",
+        "s_tag": "verbs-0"
+      },
+      {
+        "vocabulary_japanese": "達成する",
+        "vocabulary_simplified": "たっせいする",
+        "vocabulary_english": "to achieve, to attain, to accomplish",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_達成する.mp3",
+        "p_tag": "suru_essential_600_verbs",
+        "s_tag": "verbs-0"
+      },
+      {
+        "vocabulary_japanese": "タッチする",
+        "vocabulary_simplified": "タッチする",
+        "vocabulary_english": "to touch",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_タッチする.mp3",
+        "p_tag": "suru_essential_600_verbs",
+        "s_tag": "verbs-0"
+      },
+      {
+        "vocabulary_japanese": "提案する",
+        "vocabulary_simplified": "ていあんする",
+        "vocabulary_english": "to propose, to suggest",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_提案する.mp3",
+        "p_tag": "suru_essential_600_verbs",
+        "s_tag": "verbs-0"
+      },
+      {
+        "vocabulary_japanese": "提出する",
+        "vocabulary_simplified": "ていしゅつする",
+        "vocabulary_english": "to submit, to present",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_提出する.mp3",
+        "p_tag": "suru_essential_600_verbs",
+        "s_tag": "verbs-0"
+      },
+      {
+        "vocabulary_japanese": "徹夜する",
+        "vocabulary_simplified": "てつやする",
+        "vocabulary_english": "to work all night",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_徹夜する.mp3",
+        "p_tag": "suru_essential_600_verbs",
+        "s_tag": "verbs-0"
+      },
+      {
+        "vocabulary_japanese": "到着する",
+        "vocabulary_simplified": "とうちゃくする",
+        "vocabulary_english": "to arrive",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_到着する.mp3",
+        "p_tag": "suru_essential_600_verbs",
+        "s_tag": "verbs-0"
+      },
+      {
+        "vocabulary_japanese": "投票する",
+        "vocabulary_simplified": "とうひょうする",
+        "vocabulary_english": "to vote, to cast a ballot",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_投票する.mp3",
+        "p_tag": "suru_essential_600_verbs",
+        "s_tag": "verbs-0"
+      },
+      {
+        "vocabulary_japanese": "統一する",
+        "vocabulary_simplified": "とういつする",
+        "vocabulary_english": "to unify, to unite",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_統一する.mp3",
+        "p_tag": "suru_essential_600_verbs",
+        "s_tag": "verbs-0"
+      },
+      {
+        "vocabulary_japanese": "取引する",
+        "vocabulary_simplified": "とりひきする",
+        "vocabulary_english": "to have dealings with",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_取引する.mp3",
+        "p_tag": "suru_essential_600_verbs",
+        "s_tag": "verbs-0"
+      },
+      {
+        "vocabulary_japanese": "当選する",
+        "vocabulary_simplified": "当せんする",
+        "vocabulary_english": "to be elected",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_当選する.mp3",
+        "p_tag": "suru_essential_600_verbs",
+        "s_tag": "verbs-0"
+      },
+      {
+        "vocabulary_japanese": "投資する",
+        "vocabulary_simplified": "とうしする",
+        "vocabulary_english": "to invest",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_投資する.mp3",
+        "p_tag": "suru_essential_600_verbs",
+        "s_tag": "verbs-0"
+      },
+      {
+        "vocabulary_japanese": "通知する",
+        "vocabulary_simplified": "つうちする",
+        "vocabulary_english": "to inform, to give notice",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_通知する.mp3",
+        "p_tag": "suru_essential_600_verbs",
+        "s_tag": "verbs-0"
+      },
+      {
+        "vocabulary_japanese": "追加する",
+        "vocabulary_simplified": "ついかする",
+        "vocabulary_english": "to supplement, to add",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_追加する.mp3",
+        "p_tag": "suru_essential_600_verbs",
+        "s_tag": "verbs-0"
+      },
+      {
+        "vocabulary_japanese": "通過する",
+        "vocabulary_simplified": "通化する",
+        "vocabulary_english": "to pass, to go through without stopping",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_通過する.mp3",
+        "p_tag": "suru_essential_600_verbs",
+        "s_tag": "verbs-0"
+      },
+      {
+        "vocabulary_japanese": "運営する",
+        "vocabulary_simplified": "うんえいする",
+        "vocabulary_english": "to manage, to run, to administer",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_運営する.mp3",
+        "p_tag": "suru_essential_600_verbs",
+        "s_tag": "verbs-0"
+      },
+      {
+        "vocabulary_japanese": "運転する",
+        "vocabulary_simplified": "うんてんする",
+        "vocabulary_english": "to drive, to manage (money)",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_運転する.mp3",
+        "p_tag": "suru_essential_600_verbs",
+        "s_tag": "verbs-0"
+      },
+      {
+        "vocabulary_japanese": "和解する",
+        "vocabulary_simplified": "わかいする",
+        "vocabulary_english": "to be reconciled with",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_和解する.mp3",
+        "p_tag": "suru_essential_600_verbs",
+        "s_tag": "verbs-0"
+      },
+      {
+        "vocabulary_japanese": "約束する",
+        "vocabulary_simplified": "やくそくする",
+        "vocabulary_english": "to promise",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_約束する.mp3",
+        "p_tag": "suru_essential_600_verbs",
+        "s_tag": "verbs-0"
+      },
+      {
+        "vocabulary_japanese": "予防する",
+        "vocabulary_simplified": "よぼうする",
+        "vocabulary_english": "to prevent, to protect",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_予防する.mp3",
+        "p_tag": "suru_essential_600_verbs",
+        "s_tag": "verbs-0"
+      },
+      {
+        "vocabulary_japanese": "要求する",
+        "vocabulary_simplified": "ようきゅうする",
+        "vocabulary_english": "to demand, to claim",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_要求する.mp3",
+        "p_tag": "suru_essential_600_verbs",
+        "s_tag": "verbs-0"
+      },
+      {
+        "vocabulary_japanese": "養成する",
+        "vocabulary_simplified": "ようせいする",
+        "vocabulary_english": "to train, to develop (a person)",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_養成する.mp3",
+        "p_tag": "suru_essential_600_verbs",
+        "s_tag": "verbs-0"
+      },
+      {
+        "vocabulary_japanese": "予習する",
+        "vocabulary_simplified": "よしゅうする",
+        "vocabulary_english": "to study beforehand",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_予習する.mp3",
+        "p_tag": "suru_essential_600_verbs",
+        "s_tag": "verbs-0"
+      },
+      {
+        "vocabulary_japanese": "予想する",
+        "vocabulary_simplified": "よそうする",
+        "vocabulary_english": "to predict, to anticipate",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_予想する.mp3",
+        "p_tag": "suru_essential_600_verbs",
+        "s_tag": "verbs-0"
+      },
+      {
+        "vocabulary_japanese": "予約する",
+        "vocabulary_simplified": "よやくする",
+        "vocabulary_english": "to reserve, to book",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_予約する.mp3",
+        "p_tag": "suru_essential_600_verbs",
+        "s_tag": "verbs-0"
+      },
+      {
+        "vocabulary_japanese": "誘拐する",
+        "vocabulary_simplified": "ゆうかいする",
+        "vocabulary_english": "to kidnap",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_誘拐する.mp3",
+        "p_tag": "suru_essential_600_verbs",
+        "s_tag": "verbs-0"
+      },
+      {
+        "vocabulary_japanese": "輸入する",
+        "vocabulary_simplified": "ゆにゅうする",
+        "vocabulary_english": "to import",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_輸入する.mp3",
+        "p_tag": "suru_essential_600_verbs",
+        "s_tag": "verbs-0"
+      },
+      {
+        "vocabulary_japanese": "優勝する",
+        "vocabulary_simplified": "ゆうしょうする",
+        "vocabulary_english": "to win a contest or championship",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_優勝する.mp3",
+        "p_tag": "suru_essential_600_verbs",
+        "s_tag": "verbs-0"
+      },
+      {
+        "vocabulary_japanese": "輸出する",
+        "vocabulary_simplified": "ゆしゅつする",
+        "vocabulary_english": "to export",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_輸出する.mp3",
+        "p_tag": "suru_essential_600_verbs",
+        "s_tag": "verbs-0"
+      },
+      {
+        "vocabulary_japanese": "郵送する",
+        "vocabulary_simplified": "ゆうそうする",
+        "vocabulary_english": "to send by mail",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_郵送する.mp3",
+        "p_tag": "suru_essential_600_verbs",
+        "s_tag": "verbs-0"
+      },
+      {
+        "vocabulary_japanese": "誘惑する",
+        "vocabulary_simplified": "ゆうわくする",
+        "vocabulary_english": "to tempt, to lure, to entice",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_誘惑する.mp3",
+        "p_tag": "suru_essential_600_verbs",
+        "s_tag": "verbs-0"
+      },
+      {
+        "vocabulary_japanese": "絶望する",
+        "vocabulary_simplified": "ぜつぼうする",
+        "vocabulary_english": "to have no hope, to be in despair",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_絶望する.mp3",
+        "p_tag": "suru_essential_600_verbs",
+        "s_tag": "verbs-0"
+      }
+]

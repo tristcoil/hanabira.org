@@ -1,0 +1,55 @@
+FROM ubuntu:20.04
+
+# Install snapd
+RUN apt-get update && apt-get upgrade -y
+RUN apt-get install -y curl wget gnupg
+
+# official source of node 18, i found it manually
+RUN curl -fsSL https://deb.nodesource.com/setup_18.x | bash -
+RUN apt-get install -y nodejs
+
+# Set working directory
+WORKDIR /app
+
+# Copy package.json and package-lock.json
+COPY package*.json ./
+
+# Install dependencies
+RUN npm install
+
+# Copy the Express app files to the container
+COPY . .
+
+
+# mongo installation from official source, manually checked
+RUN wget -qO - https://www.mongodb.org/static/pgp/server-4.4.asc | apt-key add -
+RUN echo "deb [ arch=amd64,arm64 ] https://repo.mongodb.org/apt/ubuntu focal/mongodb-org/4.4 multiverse" | tee /etc/apt/sources.list.d/mongodb-org-4.4.list
+RUN apt-get update
+RUN apt-get install -y mongodb-org=4.4.19 mongodb-org-server=4.4.19 mongodb-org-shell=4.4.19 mongodb-org-mongos=4.4.19 mongodb-org-tools=4.4.19
+#RUN systemctl start mongod
+
+# when only mongo running
+#EXPOSE 27017
+
+# when we have express API listener daemonized to interact with DB
+EXPOSE 8000
+
+# Seed the database
+#CMD ["systemctl", "start", "mongod"]
+#CMD ["node", "word_relationships_GPT.js"]
+#CMD ["sh", "-c", "sleep 20 && node word_relationships_GPT.js"]
+#CMD mongod --dbpath /var/lib/mongodb --bind_ip_all --fork --logpath /var/log/mongodb/mongod.log && \
+#    sleep 20 && \
+#    node word_relationships_GPT.js && \
+#    tail -f /var/log/mongodb/mongod.log
+
+# when mongodb only with express seeder
+#CMD ["sh", "-c", "mongod --dbpath /var/lib/mongodb --bind_ip_all --fork --logpath /var/log/mongodb/mongod.log && sleep 20 && node word_relationships_GPT.js && tail -f /var/log/mongodb/mongod.log"]
+
+# when having express daemonized API around mongo
+#CMD ["sh", "-c", "mongod --dbpath /var/lib/mongodb --bind_ip_all --fork --logpath /var/log/mongodb/mongod.log && sleep 10 && node word_relationships_GPT.js && sleep 5 && node seed_tanos_vocab_to_db.js && sleep 5 && node seed_grammar_to_db.js && sleep 5 && node seed_kanji_to_db.js && sleep 5 && node seed_reading_to_db.js && sleep 5 && node seed_grammar_to_db_other_langs.js && sleep 3 && node my_server.js"]
+#CMD ["sh", "-c", "mongod --dbpath /var/lib/mongodb --bind_ip_all --fork --logpath /var/log/mongodb/mongod.log && sleep 20 && node word_relationships_GPT.js"]
+# && sleep 10 && node seed_grammar_to_db.js && sleep 10 && node my_server.js"]
+
+# better have just one shell command
+CMD ["sh", "-c", "mongod --dbpath /var/lib/mongodb --bind_ip_all --fork --logpath /var/log/mongodb/mongod.log && ./seed_db_wrapper.sh"]

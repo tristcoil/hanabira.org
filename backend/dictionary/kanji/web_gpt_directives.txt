@@ -1,0 +1,101 @@
+You are Japanese language teacher.
+Rewrite this exact text to Japanese. The Japanese text is supposed to be exact translation sentence by sentence. 
+(this is for language learning purposes)
+------------------------------------------------
+our text:
+
+
+
+now write romanization of following Japanese text. 
+(this is for language learning purposes)
+-------------------
+our text:
+
+
+
+[JAPANESE TEXT]
+you are Japanese language teacher that teaches Japanese vocabulary and Japanese grammar to students:
+
+extract 30 difficult vocabulary from below Japanese text, show Japanese vocabulary along with its romanization and english translation
+
+example output format:
+天然資源 (てんねんしげん) - Tennen shigen - Natural resources
+救済 (きゅうさい) - Kyūsai - Relief or salvation
+
+------------------------
+our text:
+
+
+[JAPANESE TEXT]
+extract and explain 10 difficult grammar points from this text:
+
+example output format:
+使い果たし - This is the conjugation of the verb 使い果たす (to use up). The し ending indicates the past tense, so it means "used up."
+
+----------------------------
+our text:
+
+
+
+
+
+[ENGLISH TEXT]
+you are English language teacher that teaches English vocabulary and English grammar to students.
+Your students are native Japanese speakers.
+
+Extract 30 difficult vocabulary from below English text, show English vocabulary along with its Japanese translation.
+
+example output format:
+"exhausted (使い果たした) 地球はほとんどの自然資源を使い果たした。 自然資源を全てまたはほとんど使い尽くした状態。",
+"compelling (強制的な) 人類を宇宙の空虚に探査させる強制的な事態。 強く影響を与える、説得力のある。",
+
+------------------------
+our text:
+
+
+[ENGLISH TEXT]
+you are English language teacher that teaches English vocabulary and English grammar to students.
+Your students are native Japanese speakers. Explain the grammar points in Japanese.
+Write one grammar point explanation per line.
+extract and explain 10 difficult grammar points from this text:
+
+example output format:
+使い果たし - This is the conjugation of the verb 使い果たす (to use up). The し ending indicates the past tense, so it means "used up."
+
+----------------------------
+our text:
+
+
+[SED COMMAND]
+#sed -i 's/^/"/; s/$/",/' JLPT_N3_jp_reading_6.txt
+sed -i '/./s/^/"/; /./s/$/",/' JLPT_N3_jp_reading_9.txt
+
+
+
+[JSON PAYLOAD]
+Combine all respective japanese, romaji and english sentence equivalents to JSON objects.
+
+"大名の広間の静けさの中で、先祖たちのこだまに囲まれて、ひろしは彼の名誉の真の試練が、彼の欲望を抑えることではなく、自分にとって正しい道を選ぶ勇気にあることに気づきました。ひろしの選択の物語は、桜の花の間で代々ささやかれることになります。愛、義務、そしてその二つの間の繊細なバランスの物語として。",
+
+"Daimyō no hiromajō no shizukesa no naka de, senzo-tachi no kodama ni kakomarete, Hiroshi wa kare no meiyo no shin no shiren ga, kare no yokubō o osaeru koto de wa naku, jibun ni totte tadashī michi o erabu yūki ni aru koto ni kizukimashita. Hiroshi no sentaku no monogatari wa, sakura no hana no aida de daidai sasayakareru koto ni narimasu. Ai, gimu, soshite sono futatsu no aida no sensai na baransu no monogatari to shite.",
+
+"In the stillness of the daimyo's hall, surrounded by the echoes of his ancestors, Hiroshi realized that the true test of his honor was not in the suppression of his desires, but in the courage to choose a path that was right for him. The story of Hiroshi's choice would be whispered among the cherry blossoms for generations, a tale of love, duty, and the delicate balance between the two.",
+
+
+
+
+
+example:
+    {
+      "japanese": "2137年、地球はほとんどの天然資源を使い果たし。",
+      "romanization": "2137-nen, Chikyū wa hotondo no tennen shigen o tsukaihatashi.",
+      "translation": "In 2137, Earth had exhausted most of its natural resources."
+    },
+
+Create one JSON object for each Japanese sentence. Japanese sentence typically end with 
+Split the japanese sentences on 。 character.
+
+
+
+
+

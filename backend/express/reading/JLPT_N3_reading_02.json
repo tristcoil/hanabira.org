@@ -1,0 +1,261 @@
+{
+  "key": "jlpt_n3_reading_02",
+  "title": "The Zen Garden Mystery",
+  "titleRomaji": "Niwa no zen no nazo",
+  "titleJp": "庭の禅の謎",
+  "p_tag": "jlpt_n3",
+  "s_tag": "story",
+  "shortDescription": "A mystery unfolds in a peaceful Zen garden, where a student of Zen Buddhism uncovers a historical puzzle or message left in the garden’s stones.",
+  "shortDescriptionRomaji": "Heiwa na zen no niwa de, zen bukkyō no gakusei ga niwa no ishi ni nokosareta rekishiteki na pazuru ya messēji o tokiakasu nazo ga tenkai shimasu.",
+  "shortDescriptionJp": "平和な禅の庭で、禅仏教の学生が庭の石に残された歴史的なパズルやメッセージを解き明かす謎が展開します。",
+  "textAudio": "/audio/japanese/JLPT_N3_reading_02/JLPT_N3_jp_reading_02.mp3",
+  "textAudio_1": "/audio/japanese/JLPT_N3_reading_02/JLPT_N3_jp_reading_02.mp3",
+  "textAudioEn": "/audio/japanese/JLPT_N3_reading_02/JLPT_N3_en_reading_02.mp3",
+  "textAudioEn_1": "/audio/japanese/JLPT_N3_reading_02/JLPT_N3_en_reading_02.mp3",
+  "japaneseText": [
+    "京都の静かな隅に、その静寂な美しさと水の流れを模した丁寧に耕された砂利で知られる禅の庭がありました。禅仏教の若い学生、エミは、小さな庭の中に捉えられた自然の調和を瞑想し、賞賛するためによく訪れました。",
+    "ある秋の午後、エミが瞑想にふけっていると、彼女の視線は砂利の中の特異な模様に留まりました。それはランダムに見えましたが、意図的で、庭の管理人が作り出す通常の波紋とは異なっていました。好奇心をそそられたエミは、その意味を解読することを望んで、日々異なる角度から、異なる時間にその模様を観察するために庭を訪れるようになりました。",
+    "訪れるたびに、彼女は模様が微妙に変化していることに気づきました。石は動かされていましたが、エミのように観察力がある人でなければ気づくことができないほど微細にです。彼女は変化を記録し始め、ノートに模様をスケッチし、つながりを見つけようとしました。",
+    "エミの研究により、その禅の庭はかつて謎めいた手段を通じて教えと謎を伝えたことで知られる有名な僧の隠れ家だったことがわかりました。彼女はその僧の教えを読み、手がかりを探し、二つの石の間の沈黙に悟りの道があると語る一節に出くわしました。",
+    "この暗号のようなメッセージが彼女に響きました。エミはこの考えに瞑想を始め、庭で何時間も過ごし、石の静けさと自身の呼吸を合わせました。日が経つにつれて、彼女は石が特定の時に特定の石を指し示す影を落とすように戦略的に配置されていることに気づきました。",
+    "ついに、ある清々しい朝、太陽の光線が石とのように揃って、明らかになっていなかった岩に刻まれた一連の文字を浮かび上がらせました。エミはこれらの文字を書き写し、その意味を思案しました。禅の訓練によって鋭くなった心と興奮に満ちた心を持って、彼女はメッセージを解読しました：老僧によって書かれた詩で、人生の無常を受け入れることで内面の平和を見つけると語っていました。",
+    "詩の発見は、エミの献身と僧の独創性の証となりました。それは庭が単なる美的美の場所以上のものであり、忍耐の芸術と表面を超えて見る徳を教える知恵の容器であることを思い出させるものでした。",
+    "エミは勉強を新たな勢いを持って続け、彼女が解き明かした謎によって豊かになった精神を持って庭に戻ることがよくありました。今では、庭が生きているパズルであり、石の無言の言語を通じて注意深い観察者に禅の原則を教えるものであることを彼女は理解しました。"
+  ],
+  "romanizedText": [
+    "Kyōto no shizuka na sumi ni, sono seijaku na utsukushisa to mizu no nagare o katadotta teinei ni tagayasareta jari de shirareru zen no niwa ga arimashita. Zen bukkyō no wakai gakusei, Emi wa, chīsana niwa no naka ni toraerareta shizen no chōwa o meiso shi, shōsan suru tame ni yoku otozuremashita.",
+    "Aru aki no gogo, Emi ga meiso ni fukette iru to, kanojo no shisen wa jari no naka no tokui na moyō ni todomarimashita. Sore wa randomu ni miemashita ga, ito de, niwa no kanrinin ga tsukuridasu tsūjō no hamon to wa kotonatte imashita. Kōkishin o sosora reta Emi wa, sono imi o toku shifuku koto o nozonde, hibi kotonaru kakudo kara, kotonaru jikan ni sono moyō o kansatsu suru tame ni niwa o otozureyou ni narimashita.",
+    "Otozureru tabi ni, kanojo wa moyō ga bisai ni henka shite iru koto ni kizukimashita. Ishi wa ugokasarete imashita ga, Emi no yō ni kansokuryoku ga aru hito de nakereba kizuku koto ga dekinai hodo bisai ni desu. Kanojo wa henka o kiroku shihajime, nōto ni moyō o sukecchi shi, tsunagari o mitsukēyō to shimashita.",
+    "Emi no kenkyū ni yori, sono zen no niwa wa katsute nazomeita shudan o tōjite oshie to nazo o tsutaeta koto de shirareru yūmei na sō no kakurega datta koto ga wakarimashita. Kanojo wa sono sō no oshie o yomi, tegakari o sagashi, futatsu no ishi no aida no chinmoku ni satori no michi ga aru to kataru issetsu ni dekuwashimashita.",
+    "Kono angō no yō na messēji ga kanojo ni hibikimashita. Emi wa kono kangae ni mokushō o hajime, niwa de nanjikan mo sugoshi, ishi no shizukesa to jishin no kokyū o awasemashita. Hi ga tatsu ni tsurete, kanojo wa ishi ga tokutei no toki ni tokutei no ishi o shishimesu kage o otosu yō ni senryakuteki ni haichi sarete iru koto ni kizukimashita.",
+    "Tsui ni, aru seisei shii asa, taiyō no kōsen ga ishi to no yō ni sorotte, akiraka ni natte inakatta iwa ni kizamareta ichiren no moji o ukabiagarasemashita. Emi wa korera no moji o kakikaeshi, sono imi o shian shimashita. Zen no kunren ni yotte surudoi kokoro to kōfun ni michita kokoro o motte, kanojo wa messēji o kaidoku shimashita: rōsō ni yotte kaita shi de, jinsei no mujō o ukeireru koto de naimen no heiwa o mitsukeru to katatte imashita.",
+    "Shi no hakken wa, Emi no kendō to sō no dokusōsei no akashi to narimashita. Sore wa niwa ga tannaru biteki bi no basho ijō no mono de ari, nintai no geijutsu to hyōmen o koete miru toku o oshieru chie no yōki de aru koto o omoidasaseru mono deshita.",
+    "Emi wa benkyō o arata na ikioi o motte tsuzuke, kanojo ga tokiakashita nazo ni yotte yutaka ni natta seishin o motte niwa ni modoru koto ga yoku arimashita. Ima dewa, niwa ga ikitte iru pazuru de ari, ishi no mugon no gengo o tsūjite chūibukai kansatsusha ni Zen no gensoku o oshieru mono de aru koto o kanojo wa rikai shimashita."
+  ],
+  "englishTranslation": [
+    "In a tranquil corner of Kyoto, there was a Zen garden known for its serene beauty and the carefully raked gravel that mimicked the flow of water. A young student of Zen Buddhism, Emi, would often visit to meditate and admire the harmony of nature captured within the confines of the small garden.",
+    "One autumn afternoon, while Emi was lost in meditation, her gaze settled upon a peculiar pattern in the gravel. It seemed random, yet intentional, different from the usual ripples created by the garden's caretakers. Curiosity piqued, Emi began to visit the garden daily, observing the pattern from various angles at different times of the day, hoping to decipher its meaning.",
+    "With each visit, she noticed that the pattern changed subtly. The stones were being moved, but so minutely that one could only tell if they were as observant as Emi. She started to document the changes, sketching the patterns in her notebook, trying to find a connection.",
+    "Emi's research led her to discover that the Zen garden was once the retreat of a famous monk known for his riddles and teachings through enigmatic means. She read through the monk's teachings, looking for clues, and came across a passage that spoke of the 'path to enlightenment being found in the silence between two stones.'",
+    "This cryptic message resonated with her. Emi began to meditate on this idea, spending hours in the garden, aligning her breath with the stillness of the stones. As the days passed, she realized that the stones were strategically placed to catch the sunlight at certain times, casting shadows that pointed to specific rocks.",
+    "Finally, one crisp morning, the sun's rays aligned with the stones in such a way that they highlighted a series of characters that had been etched into the rocks, hidden from plain sight. Emi transcribed these characters and pondered their meaning. With a heart full of excitement and a mind sharpened by her Zen training, she deciphered the message: a poem written by the old monk that spoke of finding inner peace by embracing the impermanence of life.",
+    "The discovery of the poem became a testament to Emi's dedication and the monk's ingenuity. It was a reminder that the garden was more than a place of aesthetic beauty; it was a vessel of wisdom, teaching the art of patience and the virtue of looking beyond the surface.",
+    "Emi continued her studies with renewed vigor, often returning to the garden, her spirit enriched by the mystery she had unraveled. She understood now that the garden was a living puzzle, one that taught the attentive observer the principles of Zen through the silent language of stones."
+  ],
+  "readingVocabulary": [
+    "瞑想 (めいそう) - Meisou - Meditation",
+    "賞賛 (しょうさん) - Shousan - Admiration",
+    "特異な (とくいな) - Tokuina - Unique",
+    "意図的 (いとてき) - Itoteki - Intentional",
+    "好奇心 (こうきしん) - Koukishin - Curiosity",
+    "解読 (かいどく) - Kaidoku - Decipher",
+    "微妙 (びみょう) - Bimyou - Subtle",
+    "観察力 (かんさつりょく) - Kansatsuryoku - Observational skills",
+    "謎めいた (なぞめいた) - Nazomeita - Mysterious",
+    "教え (おしえ) - Oshie - Teaching",
+    "沈黙 (ちんもく) - Chinmoku - Silence",
+    "悟り (さとり) - Satori - Enlightenment",
+    "戦略的 (せんりゃくてき) - Senryakuteki - Strategic",
+    "影 (かげ) - Kage - Shadow",
+    "清々しい (すがすがしい) - Sugasugashii - Refreshing",
+    "光線 (こうせん) - Kousen - Ray of light",
+    "刻まれた (きざまれた) - Kizamareta - Carved",
+    "思案 (しあん) - Shian - Consideration",
+    "訓練 (くんれん) - Kunren - Training",
+    "無常 (むじょう) - Mujou - Impermanence",
+    "内面 (ないめん) - Naimen - Inner aspect",
+    "献身 (けんしん) - Kenshin - Devotion",
+    "独創性 (どくそうせい) - Dokusousei - Originality",
+    "忍耐 (にんたい) - Nintai - Patience",
+    "徳 (とく) - Toku - Virtue",
+    "知恵 (ちえ) - Chie - Wisdom",
+    "容器 (ようき) - Youki - Container",
+    "勢い (いきおい) - Ikioi - Momentum",
+    "豊か (ゆたか) - Yutaka - Rich",
+    "原則 (げんそく) - Gensoku - Principle"
+  ],
+  "readingVocabularyEn": [
+    "tranquil (穏やかな) - 静かで平和な様子。",
+    "serene (穏やかな) - 静かで、穏やかな美しさ。",
+    "mimicked (模倣した) - まねる、真似る。",
+    "meditation (瞑想) - 内省や精神集中の実践。",
+    "harmony (調和) - バランスと一致を保つ状態。",
+    "confines (限界) - 限られた範囲や境界。",
+    "peculiar (特異な) - 通常とは異なる、変わった。",
+    "intentional (意図的な) - 意図された、計画された。",
+    "ripples (波紋) - 水面に広がる小さな波。",
+    "caretakers (管理人) - 面倒を見る人、管理する人。",
+    "curiosity (好奇心) - 新しいことを知りたがる心。",
+    "piqued (刺激された) - 興味や好奇心を引き立てられた。",
+    "decipher (解読する) - 難解なものを理解する。",
+    "subtle (微妙な) - かすかな、目立たない。",
+    "minutely (微細に) - 非常に細かく。",
+    "document (記録する) - 書類に記す、記録に残す。",
+    "connection (つながり) - 関係や結びつき。",
+    "retreat (隠れ家) - 静かな休息の場所。",
+    "riddles (謎) - 解くのが難しい問題。",
+    "enigmatic (謎めいた) - 謎の多い、不可解な。",
+    "passage (一節) - テキスト内の一部分。",
+    "enlightenment (悟り) - 精神的な覚醒や理解。",
+    "cryptic (暗号のような) - 隠された意味を持つ。",
+    "aligning (揃える) - 一直線にする、調整する。",
+    "strategically (戦略的に) - 戦略を用いて。",
+    "etched (刻まれた) - 酸などで彫り込まれた。",
+    "transcribed (書き写し) - 書き写す、複写する。",
+    "impermanence (無常) - 一定でないこと、はかないこと。",
+    "testament (証) - 証拠、証言。",
+    "ingenuity (独創性) - 巧妙さ、創造性。"
+  ],
+  "readingGrammar": [
+    "捉えられた (torae rareta) - This is a passive form of the verb 捉える (to capture, to grasp). The passive form in Japanese often indicates something that is on the receiving end of an action. Here it implies that 'the harmony of nature was captured' within the small garden.",
+    "ふけっている (fukette iru) - This is the continuous form of the verb ふける (to be absorbed in, to be engrossed in), indicating an ongoing state or action. It means 'was absorbed' or 'was engrossed' in meditation.",
+    "そそられた (sosorareta) - This is the passive form of the verb そそる (to arouse, to evoke), indicating that Emi's curiosity was aroused. Passive forms are used in Japanese not only to indicate the action's recipient but also to show an involuntary reaction, as seen here.",
+    "解読することを望んで (kaidoku suru koto o nozonde) - This phrase combines the verb 解読する (to decipher) with the volitional form (望んで), indicating a desire or wish. It means 'wishing to decipher.'",
+    "気づくことができないほど (kidzuku koto ga dekinai hodo) - The phrase ことができない means 'cannot,' and ほど (hodo) implies 'to the extent that' or 'so much so that.' Together, it means 'to the extent that one could not notice.'",
+    "記録し始め (kiroku shi hajime) - This is a combination of the verb 記録する (to record) and the verb 始める (to begin), indicating the start of an action. It means 'began to record.'",
+    "伝えたことで知られる (tsutaeta koto de shirareru) - This construction uses the passive form of 知られる (to be known) with 伝えた (past tense of 伝える, to convey). It means 'was known for having conveyed.'",
+    "語る一節に出くわしました (kataru issetsu ni dekuwashimashita) - 出くわす is a verb that means 'to come across' or 'to encounter,' and 一節 (issetsu) means 'a passage.' This phrase means 'she came across a passage that speaks.'",
+    "落とすように戦略的に配置されている (otosu you ni senryakuteki ni haichi sarete iru) - This is another passive construction indicating that something has been strategically placed. 落とす means 'to cast' (e.g., a shadow), and 配置されている is the passive continuous form of 配置する (to place, to arrange).",
+    "浮かび上がらせました (ukabiagarasemashita) - This is the causative form of the verb 浮かび上がる (to surface, to come to light), indicating that the sun's rays caused the characters to become visible."
+  ],
+  "readingGrammarEn": [
+    "現在完了形 - 'has been known' は現在完了形です。これは過去に始まり、現在まで続いている状態を表します。「～されてきた」と訳されます。",
+    "過去進行形 - 'was lost' は過去進行形で、過去の特定の時点で続いていた状態を示します。「～に夢中だった」と訳されます。",
+    "過去形 - 'settled' と 'seemed' は単純過去形で、過去の一点的なアクションや状態を表します。「落ち着いた」「～のようだった」と訳されます。",
+    "仮定法過去 - 'could only tell' は仮定法過去を使用しており、実際には起こり得ないかもしれない状況を表します。「～できたのは～だけだった」と訳されます。",
+    "過去の継続 - 'were being moved' は過去の継続的な動作を表す受動態の形です。「動かされていた」と訳されます。",
+    "関係代名詞 - 'that spoke of' ここでの 'that' は関係代名詞で、先行詞 'a passage' を修飾しています。「～について語る」と訳されます。",
+    "現在分詞 - 'aligning' は現在分詞で、主動詞 'began' に付随する動作を示します。「合わせながら」と訳されます。",
+    "過去完了形 - 'had been etched' は過去完了形で、他の過去の出来事よりも前に完了していた動作を表します。「彫られていた」と訳されます。",
+    "条件節 - 'if they were as observant as Emi' は条件節で、特定の条件が満たされた場合にのみ真となる状況を示します。「エミほど観察力があれば」と訳されます。",
+    "不定詞の目的 - 'to catch the sunlight' は不定詞を使った目的を表しており、何のために行われるかを説明します。「日光を捉えるために」と訳されます。"
+  ],
+  "sentencePayload": [
+    {
+      "japanese": "京都の静かな隅に、その静寂な美しさと水の流れを模した丁寧に耕された砂利で知られる禅の庭がありました。",
+      "romanization": "Kyōto no shizuka na sumi ni, sono seijaku na utsukushisa to mizu no nagare o katadotta teinei ni tagayasareta jari de shirareru zen no niwa ga arimashita.",
+      "translation": "In a tranquil corner of Kyoto, there was a Zen garden known for its serene beauty and the carefully raked gravel that mimicked the flow of water.",
+      "audioPath": "/audio/japanese/JLPT_N3_reading_02/r_jp_01.mp3",
+      "audioPathEn": "/audio/japanese/JLPT_N3_reading_02/r_en_01.mp3"
+    },
+    {
+      "japanese": "禅仏教の若い学生、エミは、小さな庭の中に捉えられた自然の調和を瞑想し、賞賛するためによく訪れました。",
+      "romanization": "Zen bukkyō no wakai gakusei, Emi wa, chīsana niwa no naka ni toraerareta shizen no chōwa o meiso shi, shōsan suru tame ni yoku otozuremashita.",
+      "translation": "A young student of Zen Buddhism, Emi, would often visit to meditate and admire the harmony of nature captured within the confines of the small garden.",
+      "audioPath": "/audio/japanese/JLPT_N3_reading_02/r_jp_02.mp3",
+      "audioPathEn": "/audio/japanese/JLPT_N3_reading_02/r_en_02.mp3"
+    },
+    {
+      "japanese": "ある秋の午後、エミが瞑想にふけっていると、彼女の視線は砂利の中の特異な模様に留まりました。",
+      "romanization": "Aru aki no gogo, Emi ga meiso ni fukette iru to, kanojo no shisen wa jari no naka no tokui na moyō ni todomarimashita.",
+      "translation": "One autumn afternoon, while Emi was lost in meditation, her gaze settled upon a peculiar pattern in the gravel.",
+      "audioPath": "/audio/japanese/JLPT_N3_reading_02/r_jp_03.mp3",
+      "audioPathEn": "/audio/japanese/JLPT_N3_reading_02/r_en_03.mp3"
+    },
+    {
+      "japanese": "それはランダムに見えましたが、意図的で、庭の管理人が作り出す通常の波紋とは異なっていました。",
+      "romanization": "Sore wa randomu ni miemashita ga, ito de, niwa no kanrinin ga tsukuridasu tsūjō no hamon to wa kotonatte imashita.",
+      "translation": "It seemed random, yet intentional, different from the usual ripples created by the garden's caretakers.",
+      "audioPath": "/audio/japanese/JLPT_N3_reading_02/r_jp_04.mp3",
+      "audioPathEn": "/audio/japanese/JLPT_N3_reading_02/r_en_04.mp3"
+    },
+    {
+      "japanese": "好奇心をそそられたエミは、その意味を解読することを望んで、日々異なる角度から、異なる時間にその模様を観察するために庭を訪れるようになりました。",
+      "romanization": "Kōkishin o sosora reta Emi wa, sono imi o toku shifuku koto o nozonde, hibi kotonaru kakudo kara, kotonaru jikan ni sono moyō o kansatsu suru tame ni niwa o otozureyou ni narimashita.",
+      "translation": "Curiosity piqued, Emi began to visit the garden daily, observing the pattern from various angles at different times of the day, hoping to decipher its meaning.",
+      "audioPath": "/audio/japanese/JLPT_N3_reading_02/r_jp_05.mp3",
+      "audioPathEn": "/audio/japanese/JLPT_N3_reading_02/r_en_05.mp3"
+    },
+    {
+      "japanese": "訪れるたびに、彼女は模様が微妙に変化していることに気づきました。",
+      "romanization": "Otozureru tabi ni, kanojo wa moyō ga bisai ni henka shite iru koto ni kizukimashita.",
+      "translation": "With each visit, she noticed that the pattern changed subtly.",
+      "audioPath": "/audio/japanese/JLPT_N3_reading_02/r_jp_06.mp3",
+      "audioPathEn": "/audio/japanese/JLPT_N3_reading_02/r_en_06.mp3"
+    },
+    {
+      "japanese": "石は動かされていましたが、エミのように観察力がある人でなければ気づくことができないほど微細にです。",
+      "romanization": "Ishi wa ugokasarete imashita ga, Emi no yō ni kansokuryoku ga aru hito de nakereba kizuku koto ga dekinai hodo bisai ni desu.",
+      "translation": "The stones were being moved, but so minutely that one could only tell if they were as observant as Emi.",
+      "audioPath": "/audio/japanese/JLPT_N3_reading_02/r_jp_07.mp3",
+      "audioPathEn": "/audio/japanese/JLPT_N3_reading_02/r_en_07.mp3"
+    },
+    {
+      "japanese": "彼女は変化を記録し始め、ノートに模様をスケッチし、つながりを見つけようとしました。",
+      "romanization": "Kanojo wa henka o kiroku shihajime, nōto ni moyō o sukecchi shi, tsunagari o mitsukēyō to shimashita.",
+      "translation": "She started to document the changes, sketching the patterns in her notebook, trying to find a connection.",
+      "audioPath": "/audio/japanese/JLPT_N3_reading_02/r_jp_08.mp3",
+      "audioPathEn": "/audio/japanese/JLPT_N3_reading_02/r_en_08.mp3"
+    },
+    {
+      "japanese": "この暗号のようなメッセージが彼女に響きました。",
+      "romanization": "Kono angō no yō na messēji ga kanojo ni hibikimashita.",
+      "translation": "This cryptic message resonated with her.",
+      "audioPath": "/audio/japanese/JLPT_N3_reading_02/r_jp_09.mp3",
+      "audioPathEn": "/audio/japanese/JLPT_N3_reading_02/r_en_09.mp3"
+    },
+    {
+      "japanese": "エミはこの考えに瞑想を始め、庭で何時間も過ごし、石の静けさと自身の呼吸を合わせました。",
+      "romanization": "Emi wa kono kangae ni mokushō o hajime, niwa de nanjikan mo sugoshi, ishi no shizukesa to jishin no kokyū o awasemashita.",
+      "translation": "Emi began to meditate on this idea, spending hours in the garden, aligning her breath with the stillness of the stones.",
+      "audioPath": "/audio/japanese/JLPT_N3_reading_02/r_jp_10.mp3",
+      "audioPathEn": "/audio/japanese/JLPT_N3_reading_02/r_en_10.mp3"
+    },
+    {
+      "japanese": "日が経つにつれて、彼女は石が特定の時に特定の石を指し示す影を落とすように戦略的に配置されていることに気づきました。",
+      "romanization": "Hi ga tatsu ni tsurete, kanojo wa ishi ga tokutei no toki ni tokutei no ishi o shishimesu kage o otosu yō ni senryakuteki ni haichi sarete iru koto ni kizukimashita.",
+      "translation": "As the days passed, she realized that the stones were strategically placed to catch the sunlight at certain times, casting shadows that pointed to specific rocks.",
+      "audioPath": "/audio/japanese/JLPT_N3_reading_02/r_jp_11.mp3",
+      "audioPathEn": "/audio/japanese/JLPT_N3_reading_02/r_en_11.mp3"
+    },
+    {
+      "japanese": "ついに、ある清々しい朝、太陽の光線が石とのように揃って、明らかになっていなかった岩に刻まれた一連の文字を浮かび上がらせました。",
+      "romanization": "Tsui ni, aru seisei shii asa, taiyō no kōsen ga ishi to no yō ni sorotte, akiraka ni natte inakatta iwa ni kizamareta ichiren no moji o ukabiagarasemashita.",
+      "translation": "Finally, one crisp morning, the sun's rays aligned with the stones in such a way that they highlighted a series of characters that had been etched into the rocks, hidden from plain sight.",
+      "audioPath": "/audio/japanese/JLPT_N3_reading_02/r_jp_12.mp3",
+      "audioPathEn": "/audio/japanese/JLPT_N3_reading_02/r_en_12.mp3"
+    },
+    {
+      "japanese": "エミはこれらの文字を書き写し、その意味を思案しました。",
+      "romanization": "Emi wa korera no moji o kakikaeshi, sono imi o shian shimashita.",
+      "translation": "Emi transcribed these characters and pondered their meaning.",
+      "audioPath": "/audio/japanese/JLPT_N3_reading_02/r_jp_13.mp3",
+      "audioPathEn": "/audio/japanese/JLPT_N3_reading_02/r_en_13.mp3"
+    },
+    {
+      "japanese": "禅の訓練によって鋭くなった心と興奮に満ちた心を持って、彼女はメッセージを解読しました：老僧によって書かれた詩で、人生の無常を受け入れることで内面の平和を見つけると語っていました。",
+      "romanization": "Zen no kunren ni yotte surudoi kokoro to kōfun ni michita kokoro o motte, kanojo wa messēji o kaidoku shimashita: rōsō ni yotte kaita shi de, jinsei no mujō o ukeireru koto de naimen no heiwa o mitsukeru to katatte imashita.",
+      "translation": "With a heart full of excitement and a mind sharpened by her Zen training, she deciphered the message: a poem written by the old monk that spoke of finding inner peace by embracing the impermanence of life.",
+      "audioPath": "/audio/japanese/JLPT_N3_reading_02/r_jp_14.mp3",
+      "audioPathEn": "/audio/japanese/JLPT_N3_reading_02/r_en_14.mp3"
+    },
+    {
+      "japanese": "詩の発見は、エミの献身と僧の独創性の証となりました。",
+      "romanization": "Shi no hakken wa, Emi no kendō to sō no dokusōsei no akashi to narimashita.",
+      "translation": "The discovery of the poem became a testament to Emi's dedication and the monk's ingenuity.",
+      "audioPath": "/audio/japanese/JLPT_N3_reading_02/r_jp_15.mp3",
+      "audioPathEn": "/audio/japanese/JLPT_N3_reading_02/r_en_15.mp3"
+    },
+    {
+      "japanese": "それは庭が単なる美的美の場所以上のものであり、忍耐の芸術と表面を超えて見る徳を教える知恵の容器であることを思い出させるものでした。",
+      "romanization": "Sore wa niwa ga tannaru biteki bi no basho ijō no mono de ari, nintai no geijutsu to hyōmen o koete miru toku o oshieru chie no yōki de aru koto o omoidasaseru mono deshita.",
+      "translation": "It was a reminder that the garden was more than a place of aesthetic beauty; it was a vessel of wisdom, teaching the art of patience and the virtue of looking beyond the surface.",
+      "audioPath": "/audio/japanese/JLPT_N3_reading_02/r_jp_16.mp3",
+      "audioPathEn": "/audio/japanese/JLPT_N3_reading_02/r_en_16.mp3"
+    },
+    {
+      "japanese": "エミは勉強を新たな勢いを持って続け、彼女が解き明かした謎によって豊かになった精神を持って庭に戻ることがよくありました。",
+      "romanization": "Emi wa benkyō o arata na ikioi o motte tsuzuke, kanojo ga tokiakashita nazo ni yotte yutaka ni natta seishin o motte niwa ni modoru koto ga yoku arimashita.",
+      "translation": "Emi continued her studies with renewed vigor, often returning to the garden, her spirit enriched by the mystery she had unraveled.",
+      "audioPath": "/audio/japanese/JLPT_N3_reading_02/r_jp_17.mp3",
+      "audioPathEn": "/audio/japanese/JLPT_N3_reading_02/r_en_17.mp3"
+    },
+    {
+      "japanese": "今では、庭が生きているパズルであり、石の無言の言語を通じて注意深い観察者に禅の原則を教えるものであることを彼女は理解しました。",
+      "romanization": "Ima dewa, niwa ga ikitte iru pazuru de ari, ishi no mugon no gengo o tsūjite chūibukai kansatsusha ni Zen no gensoku o oshieru mono de aru koto o kanojo wa rikai shimashita.",
+      "translation": "She understood now that the garden was a living puzzle, one that taught the attentive observer the principles of Zen through the silent language of stones.",
+      "audioPath": "/audio/japanese/JLPT_N3_reading_02/r_jp_18.mp3",
+      "audioPathEn": "/audio/japanese/JLPT_N3_reading_02/r_en_18.mp3"
+    }
+  ]
+}

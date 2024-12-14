@@ -1,0 +1,3368 @@
+[
+  {
+    "title": "把 (bǎ) - The 'ba' construction",
+    "short_explanation": "Used to shift the object to before the verb in a sentence.",
+    "long_explanation": "The Mandarin Chinese character '把 (bǎ)' is used in a specific grammatical construction that allows the object to be stated before the verb. In English, this is equivalent to changing the sentence structure to 'Subject + 把 + Object + Verb'. It makes the sentence more specific about how the verb affects the object.",
+    "formation": "Subject + 把 + Object + Verb + Result",
+    "examples": [
+      {
+        "cn": "我把汤喝完了。",
+        "pinyin": "Wǒ bǎ tāng hē wán le.",
+        "en": "I finished drinking the soup.",
+        "grammar_audio": "/audio/mandarin/grammar/s_把_bǎ_-_The_ba_construction_20231230_我把汤喝完了.mp3"
+      },
+      {
+        "cn": "你可以把这本书给我吗？",
+        "pinyin": "Nǐ kěyǐ bǎ zhè běn shū gěi wǒ ma?",
+        "en": "Can you give me this book?",
+        "grammar_audio": "/audio/mandarin/grammar/s_把_bǎ_-_The_ba_construction_20231230_你可以把这本书给我吗.mp3"
+      },
+      {
+        "cn": "他把房间打扫干净了。",
+        "pinyin": "Tā bǎ fángjiān dǎsǎo gānjìng le.",
+        "en": "He cleaned up the room.",
+        "grammar_audio": "/audio/mandarin/grammar/s_把_bǎ_-_The_ba_construction_20231230_他把房间打扫干净了.mp3"
+      },
+      {
+        "cn": "她把作业写完了。",
+        "pinyin": "Tā bǎ zuòyè xiě wán le.",
+        "en": "She finished writing the homework.",
+        "grammar_audio": "/audio/mandarin/grammar/s_把_bǎ_-_The_ba_construction_20231230_她把作业写完了.mp3"
+      }
+    ],
+    "p_tag": "HSK_2",
+    "s_tag": "25"
+  },
+  {
+    "title": "被 (bèi) - Passive marker",
+    "short_explanation": "Used to indicate passive voice in a sentence.",
+    "long_explanation": "The Mandarin Chinese particle '被 (bèi)' is used to form passive sentences. In a passive sentence, the object of an action becomes the subject of the sentence. The actual subject performing the action can be omitted if the context makes it clear. The particle '被' is used to mark the agent of the action when it is mentioned in the sentence.",
+    "formation": "Subject + 被 + Agent + Verb + Object",
+    "examples": [
+      {
+        "cn": "这本书被我弟弟借走了。",
+        "pinyin": "Zhè běn shū bèi wǒ dìdì jiè zǒu le.",
+        "en": "This book was borrowed by my younger brother.",
+        "grammar_audio": "/audio/mandarin/grammar/s_被_bèi_-_Passive_marker_20231230_这本书被我弟弟借走了.mp3"
+      },
+      {
+        "cn": "我的手机被偷了。",
+        "pinyin": "Wǒ de shǒujī bèi tōu le.",
+        "en": "My phone was stolen.",
+        "grammar_audio": "/audio/mandarin/grammar/s_被_bèi_-_Passive_marker_20231230_我的手机被偷了.mp3"
+      },
+      {
+        "cn": "这个问题已经被老师解答了。",
+        "pinyin": "Zhège wèntí yǐjīng bèi lǎoshī jiědá le.",
+        "en": "This question has already been answered by the teacher.",
+        "grammar_audio": "/audio/mandarin/grammar/s_被_bèi_-_Passive_marker_20231230_这个问题已经被老师解答了.mp3"
+      },
+      {
+        "cn": "他的想法被大家认为是创新的。",
+        "pinyin": "Tā de xiǎngfǎ bèi dàjiā rènwéi shì chuàngxīn de.",
+        "en": "His idea is considered innovative by everyone.",
+        "grammar_audio": "/audio/mandarin/grammar/s_被_bèi_-_Passive_marker_20231230_他的想法被大家认为是创新的.mp3"
+      }
+    ],
+    "p_tag": "HSK_2",
+    "s_tag": "25"
+  },
+  {
+    "title": "一下 (yīxià) - A short or quick action; momentarily",
+    "short_explanation": "Used to denote a brief or quick action.",
+    "long_explanation": "The Mandarin Chinese phrase '一下 (yīxià)' is used directly after a verb, indicating that the action lasts for a short, brief or quick moment. It gives the expression of trying out or giving something a shot. This term makes the command or request sound softer and more gentle.",
+    "formation": "Verb + 一下",
+    "examples": [
+      {
+        "cn": "你可以帮我看一下这个包裹吗？我不确定是不是我的。",
+        "pinyin": "Nǐ kěyǐ bāng wǒ kàn yīxià zhè gè bāoguǒ ma? Wǒ bù quèdìng shì bù shì wǒ de.",
+        "en": "Can you help me check this package momentarily? I'm not sure whether it's mine or not.",
+        "grammar_audio": "/audio/mandarin/grammar/s_一下_yīxià_-_A_short_or_quick_action_momentarily_20231230_你可以帮我看一下这个包裹吗我不确定是不是我的.mp3"
+      },
+      {
+        "cn": "我想试一下这件衬衫看看大小合不合适。",
+        "pinyin": "Wǒ xiǎng shì yīxià zhè jiàn chènshān kàn kàn dàxiǎo hé bù héshì.",
+        "en": "I want to try this shirt on momentarily to see if the size is fit or not.",
+        "grammar_audio": "/audio/mandarin/grammar/s_一下_yīxià_-_A_short_or_quick_action_momentarily_20231230_我想试一下这件衬衫看看大小合不合适.mp3"
+      },
+      {
+        "cn": "请您等一下，我马上就来。",
+        "pinyin": "Qǐng nín děng yīxià, wǒ mǎshàng jiù lái.",
+        "en": "Please wait a moment, I am coming right away.",
+        "grammar_audio": "/audio/mandarin/grammar/s_一下_yīxià_-_A_short_or_quick_action_momentarily_20231230_请您等一下我马上就来.mp3"
+      },
+      {
+        "cn": "你能告诉我一下明天会议的时间吗？",
+        "pinyin": "Nǐ néng gàosù wǒ yīxià míngtiān huìyì de shíjiān ma?",
+        "en": "Can you tell me the time of tomorrow's meeting momentarily?",
+        "grammar_audio": "/audio/mandarin/grammar/s_一下_yīxià_-_A_short_or_quick_action_momentarily_20231230_你能告诉我一下明天会议的时间吗.mp3"
+      }
+    ],
+    "p_tag": "HSK_2",
+    "s_tag": "25"
+  },
+  {
+    "title": "再说 (zàishuō) - Moreover, furthermore",
+    "short_explanation": "Used to add additional information or arguments to a point.",
+    "long_explanation": "The Mandarin Chinese phrase '再说 (zàishuō)' is used when you want to add more information or arguments to support your point or opinion. It is equivalent to saying 'moreover' or 'furthermore' in English. This phrase is typically used when you are stating reasons, expressing opinions, or describing situations to add weight to your statements.",
+    "formation": "Reason, opinion, or situation + 再说 + Additional information or argument",
+    "examples": [
+      {
+        "cn": "我不想去那个派对，我太累了，再说我明天还有个大考试。",
+        "pinyin": "Wǒ bùxiǎng qù nàgè pàiduì, wǒ tài lèi le, zàishuō wǒ míngtiān hái yǒu gè dà kǎoshì.",
+        "en": "I don't want to go to that party, I'm too tired, and moreover, I have a big test tomorrow.",
+        "grammar_audio": "/audio/mandarin/grammar/s_再说_zàishuō_-_Moreover_furthermore_20231230_我不想去那个派对我太累了再说我明天还有个大考试.mp3"
+      },
+      {
+        "cn": "他不喜欢吃西餐，它太油腻了，再说他对中国菜有特别的偏好。",
+        "pinyin": "Tā bù xǐhuān chī xīcān, tā tài yóunì le, zàishuō tā duì Zhōngguó cài yǒu tèbié de piānhào.",
+        "en": "He doesn't like eating Western food, it's too greasy, and moreover, he has a special preference for Chinese food.",
+        "grammar_audio": "/audio/mandarin/grammar/s_再说_zàishuō_-_Moreover_furthermore_20231230_他不喜欢吃西餐它太油腻了再说他对中国菜有特别的偏好.mp3"
+      },
+      {
+        "cn": "她没接受他的求婚，她觉得他们之间还不熟悉，再说她还想再了解他一些。",
+        "pinyin": "Tā méi jiēshòu tā de qiúhūn, tā juéde tāmen zhījiān hái bù shúxī, zàishuō tā hái xiǎng zài liǎojiě tā yīxiē.",
+        "en": "She didn't accept his proposal, she felt they were not familiar enough, and furthermore, she wanted to know him better.",
+        "grammar_audio": "/audio/mandarin/grammar/s_再说_zàishuō_-_Moreover_furthermore_20231230_她没接受他的求婚她觉得他们之间还不熟悉再说她还想再了解他一些.mp3"
+      },
+      {
+        "cn": "我们现在不能买这个房子，我们没有足够的钱，再说这个地方离我们的工作地点太远。",
+        "pinyin": "Wǒmen xiànzài bùnéng mǎi zhège fángzi, wǒmen méiyǒu zúgòu de qián, zàishuō zhège dìfang lí wǒmen de gōngzuò dìdiǎn tài yuǎn.",
+        "en": "We can't buy this house now, we don't have enough money, and moreover, this place is too far from our workplace.",
+        "grammar_audio": "/audio/mandarin/grammar/s_再说_zàishuō_-_Moreover_furthermore_20231230_我们现在不能买这个房子我们没有足够的钱再说这个地方离我们的工作地点太远.mp3"
+      }
+    ],
+    "p_tag": "HSK_2",
+    "s_tag": "25"
+  },
+  {
+    "title": "最 (zuì) - Most, -est (superlative marker)",
+    "short_explanation": "Used to express the highest degree or the utmost extent of something.",
+    "long_explanation": "The Mandarin Chinese character '最(zuì)' is a superlative marker. When used in a sentence, it denotes the highest level, degree, or the utmost point of something. In essence, it is similar to using 'most' or the suffix '-est' in English to illustrate a superlative. '最' can be used with both adjectives and verbs.",
+    "formation": "最 + Adjective / Verb",
+    "examples": [
+      {
+        "cn": "这就是我见过最高的山。",
+        "pinyin": "Zhè jiùshì wǒ jiànguò zuì gāo de shān.",
+        "en": "This is the tallest mountain I have ever seen.",
+        "grammar_audio": "/audio/mandarin/grammar/s_最_zuì_-_Most_-est_superlative_marker_20231230_这就是我见过最高的山.mp3"
+      },
+      {
+        "cn": "他是我们班上最聪明的学生。",
+        "pinyin": "Tā shì wǒmen bān shàng zuì cōngmíng de xuéshēng.",
+        "en": "He is the smartest student in our class.",
+        "grammar_audio": "/audio/mandarin/grammar/s_最_zuì_-_Most_-est_superlative_marker_20231230_他是我们班上最聪明的学生.mp3"
+      },
+      {
+        "cn": "这是我吃过的最好吃的面条。",
+        "pinyin": "Zhè shì wǒ chīguò de zuì hào chī de miàntiáo.",
+        "en": "These are the most delicious noodles I have ever eaten.",
+        "grammar_audio": "/audio/mandarin/grammar/s_最_zuì_-_Most_-est_superlative_marker_20231230_这是我吃过的最好吃的面条.mp3"
+      },
+      {
+        "cn": "她穿的是最新的时尚款式。",
+        "pinyin": "Tā chuān de shì zuì xīn de shíshàng kuǎnshì.",
+        "en": "She is wearing the latest fashion style.",
+        "grammar_audio": "/audio/mandarin/grammar/s_最_zuì_-_Most_-est_superlative_marker_20231230_她穿的是最新的时尚款式.mp3"
+      }
+    ],
+    "p_tag": "HSK_2",
+    "s_tag": "25"
+  },
+  {
+    "title": "比如 (bǐrú) - For example",
+    "short_explanation": "Used to introduce examples as a way to illustrate a point.",
+    "long_explanation": "'比如 (bǐrú)' is used in Mandarin Chinese to introduce an example or examples in order to clarify or explain the previous statement or point. It has the same function as the English 'for example', and is frequently used to make sentences clearer or more specific.",
+    "formation": "Topic + Statement + 比如 + Example",
+    "examples": [
+      {
+        "cn": "我喜欢运动，比如游泳和跑步。",
+        "pinyin": "Wǒ xǐhuān yùndòng, bǐrú yóuyǒng hé pǎobù.",
+        "en": "I like sports, for example, swimming and running.",
+        "grammar_audio": "/audio/mandarin/grammar/s_比如_bǐrú_-_For_example_20231230_我喜欢运动比如游泳和跑步.mp3"
+      },
+      {
+        "cn": "我们需要吃更多的健康食品，比如蔬菜和水果。",
+        "pinyin": "Wǒmen xūyào chī gèngduō de jiànkāng shípǐn, bǐrú shūcài hé shuǐguǒ.",
+        "en": "We need to eat more healthy food, for example, vegetables and fruits.",
+        "grammar_audio": "/audio/mandarin/grammar/s_比如_bǐrú_-_For_example_20231230_我们需要吃更多的健康食品比如蔬菜和水果.mp3"
+      },
+      {
+        "cn": "我去过许多国家，比如法国，意大利和日本。",
+        "pinyin": "Wǒ qùguò xǔduō guójiā, bǐrú Fǎguó, Yìdàlì hé Rìběn.",
+        "en": "I've been to many countries, for example, France, Italy, and Japan.",
+        "grammar_audio": "/audio/mandarin/grammar/s_比如_bǐrú_-_For_example_20231230_我去过许多国家比如法国意大利和日本.mp3"
+      },
+      {
+        "cn": "她喜欢听各种不同的音乐，比如摇滚，爵士和古典。",
+        "pinyin": "Tā xǐhuān tīng gèzhǒng bùtóng de yīnyuè, bǐrú yáogǔn, juéshì hé gǔdiǎn.",
+        "en": "She likes to listen to different types of music, for example, rock, jazz, and classical.",
+        "grammar_audio": "/audio/mandarin/grammar/s_比如_bǐrú_-_For_example_20231230_她喜欢听各种不同的音乐比如摇滚爵士和古典.mp3"
+      }
+    ],
+    "p_tag": "HSK_2",
+    "s_tag": "25"
+  },
+  {
+    "title": "可是 (kěshì) - But, however",
+    "short_explanation": "Used for expressing concession or contrast.",
+    "long_explanation": "The Mandarin Chinese phrase '可是 (kěshì)' serves the purpose of presenting a contrast or contradiction between two thoughts or ideas. It essentially functions in a similar manner to the English conjunctions 'but' and 'however'. Generally, the word ‘可是’ is used in the second half of a sentence to juxtapose two conflicting or contrasting ideas.",
+    "formation": "Sentence 1，可是 + Sentence 2",
+    "examples": [
+      {
+        "cn": "他非常聪明，可是学习成绩却不好。",
+        "pinyin": "Tā fēicháng cōngmíng, kěshì xuéxí chéngjì què bù hǎo.",
+        "en": "He is very smart, but his academic performance is not good.",
+        "grammar_audio": "/audio/mandarin/grammar/s_可是_kěshì_-_But_however_20231230_他非常聪明可是学习成绩却不好.mp3"
+      },
+      {
+        "cn": "我想去看电影，可是我没有钱。",
+        "pinyin": "Wǒ xiǎng qù kàn diànyǐng, kěshì wǒ méiyǒu qián.",
+        "en": "I want to go to the movies, but I have no money.",
+        "grammar_audio": "/audio/mandarin/grammar/s_可是_kěshì_-_But_however_20231230_我想去看电影可是我没有钱.mp3"
+      },
+      {
+        "cn": "她们都是我的好朋友，可是他们不喜欢彼此。",
+        "pinyin": "Tāmen dōu shì wǒ de hǎopéngyǒu, kěshì tāmen bù xǐhuān bǐcǐ.",
+        "en": "They are all my good friends, however they don't like each other.",
+        "grammar_audio": "/audio/mandarin/grammar/s_可是_kěshì_-_But_however_20231230_她们都是我的好朋友可是他们不喜欢彼此.mp3"
+      },
+      {
+        "cn": "我已经跑得很快了，可是还是赶不上公交车。",
+        "pinyin": "Wǒ yǐjīng pǎo de hěn kuài le, kěshì háishì gǎn bù shàng gōngjiāochē.",
+        "en": "I already ran really fast, but I still couldn't catch the bus.",
+        "grammar_audio": "/audio/mandarin/grammar/s_可是_kěshì_-_But_however_20231230_我已经跑得很快了可是还是赶不上公交车.mp3"
+      }
+    ],
+    "p_tag": "HSK_2",
+    "s_tag": "25"
+  },
+  {
+    "title": "已经 (yǐjīng) - Already",
+    "short_explanation": "Used to describe an action that has happened or a state that already exists.",
+    "long_explanation": "The Mandarin Chinese word '已经 (yǐjīng)' is used to express that an action or state has already occurred or exists. It is the equivalent of the English word 'already'. '已经 (yǐjīng)' is typically used with the perfective aspect particle '了 (le)', but the '了 (le)' can be omitted in some situations.",
+    "formation": "Subject + 已经 + Verb + 了 + Rest of the sentence",
+    "examples": [
+      {
+        "cn": "我已经把那本书读完了，现在可以给你了。",
+        "pinyin": "Wǒ yǐjīng bǎ nà běn shū dú wán le, xiànzài kěyǐ gěi nǐ le.",
+        "en": "I've already finished reading that book, now I can give it to you.",
+        "grammar_audio": "/audio/mandarin/grammar/s_已经_yǐjīng_-_Already_20231230_我已经把那本书读完了现在可以给你了.mp3"
+      },
+      {
+        "cn": "他已经到火车站了，我们现在可以离开了。",
+        "pinyin": "Tā yǐjīng dào huǒchē zhàn le, wǒmen xiànzài kěyǐ líkāi le.",
+        "en": "He has already arrived at the train station, we can leave now.",
+        "grammar_audio": "/audio/mandarin/grammar/s_已经_yǐjīng_-_Already_20231230_他已经到火车站了我们现在可以离开了.mp3"
+      },
+      {
+        "cn": "小明已经吃过饭了，他不饿。",
+        "pinyin": "Xiǎomíng yǐjīng chī guò fàn le, tā bú è.",
+        "en": "Xiaoming has already eaten, he is not hungry.",
+        "grammar_audio": "/audio/mandarin/grammar/s_已经_yǐjīng_-_Already_20231230_小明已经吃过饭了他不饿.mp3"
+      },
+      {
+        "cn": "我已经三天没睡觉了，我现在好累啊。",
+        "pinyin": "Wǒ yǐjīng sān tiān méi shuìjiào le, wǒ xiànzài hǎo lèi a.",
+        "en": "I have not slept for three days already, I am so tired now.",
+        "grammar_audio": "/audio/mandarin/grammar/s_已经_yǐjīng_-_Already_20231230_我已经三天没睡觉了我现在好累啊.mp3"
+      }
+    ],
+    "p_tag": "HSK_2",
+    "s_tag": "25"
+  },
+  {
+    "title": "还 (hái) - Still, yet; in addition",
+    "short_explanation": "Expresses the continuity of an action or a state, or it implies that there is more or additional.",
+    "long_explanation": "The Mandarin Chinese term '还 (hái)' carries two main implications based on context. First, it can be used to indicate a continuing action or state, similar to 'still' or 'yet' in English. Secondly, it can indicate the addition of something or someone else to what has already been mentioned, comparable to the English term 'in addition'.",
+    "formation": "1. Subject + 还 + Verb + Object (continuity), 2. Subject + 还 + Verb + 其他的 + Object (addition)",
+    "examples": [
+      {
+        "cn": "我还在等他的电话。",
+        "pinyin": "Wǒ hái zài děng tā de diànhuà.",
+        "en": "I am still waiting for his phone call.",
+        "grammar_audio": "/audio/mandarin/grammar/s_还_hái_-_Still_yet_in_addition_20231230_我还在等他的电话.mp3"
+      },
+      {
+        "cn": "我还没完成这项工作。",
+        "pinyin": "Wǒ hái méi wánchéng zhè xiàng gōngzuò.",
+        "en": "I haven't completed this task yet.",
+        "grammar_audio": "/audio/mandarin/grammar/s_还_hái_-_Still_yet_in_addition_20231230_我还没完成这项工作.mp3"
+      },
+      {
+        "cn": "除了苹果，他还买了其他的水果。",
+        "pinyin": "Chúle píngguǒ, tā hái mǎile qítā de shuǐguǒ.",
+        "en": "In addition to apples, he also bought other fruits.",
+        "grammar_audio": "/audio/mandarin/grammar/s_还_hái_-_Still_yet_in_addition_20231230_除了苹果他还买了其他的水果.mp3"
+      },
+      {
+        "cn": "她还可以帮你处理这个问题。",
+        "pinyin": "Tā hái kěyǐ bāng nǐ chǔlǐ zhège wèntí.",
+        "en": "She can also help you handle this problem.",
+        "grammar_audio": "/audio/mandarin/grammar/s_还_hái_-_Still_yet_in_addition_20231230_她还可以帮你处理这个问题.mp3"
+      }
+    ],
+    "p_tag": "HSK_2",
+    "s_tag": "25"
+  },
+  {
+    "title": "才 (cái) - Only just, not until",
+    "short_explanation": "Used to emphasize that something happened later than expected or desired.",
+    "long_explanation": "The Mandarin Chinese term '才 (cái)' is a commonly used expression indicating that an action or event has occurred later than one would typically expect or want. It implies a sense of lateness or delay and is equivalent to the English expressions 'only just' or 'not until'. It is usually used in the context of activities that have completed, actions that were accomplished later than desired, or conditions that were not met until a particular requirement was fulfilled.",
+    "formation": "Time Word + 才 + Verb",
+    "examples": [
+      {
+        "cn": "我下班以后才有时间做饭。",
+        "pinyin": "Wǒ xiàbān yǐhòu cái yǒu shíjiān zuò fàn.",
+        "en": "I only have time to cook after work.",
+        "grammar_audio": "/audio/mandarin/grammar/s_才_cái_-_Only_just_not_until_20231230_我下班以后才有时间做饭.mp3"
+      },
+      {
+        "cn": "她十点钟才起床。",
+        "pinyin": "Tā shí diǎn zhōng cái qǐchuáng.",
+        "en": "She didn't get up until ten o'clock.",
+        "grammar_audio": "/audio/mandarin/grammar/s_才_cái_-_Only_just_not_until_20231230_她十点钟才起床.mp3"
+      },
+      {
+        "cn": "他完成作业后才可以出去玩。",
+        "pinyin": "Tā wánchéng zuòyè hòu cái kěyǐ chūqù wán.",
+        "en": "He can only go out to play after he finished his homework.",
+        "grammar_audio": "/audio/mandarin/grammar/s_才_cái_-_Only_just_not_until_20231230_他完成作业后才可以出去玩.mp3"
+      },
+      {
+        "cn": "我等了一个小时车才来。",
+        "pinyin": "Wǒ děngle yīgè xiǎoshí chē cái lái.",
+        "en": "I waited for an hour before the bus came.",
+        "grammar_audio": "/audio/mandarin/grammar/s_才_cái_-_Only_just_not_until_20231230_我等了一个小时车才来.mp3"
+      }
+    ],
+    "p_tag": "HSK_2",
+    "s_tag": "25"
+  },
+  {
+    "title": "就 (jiù) - Then, precisely, just",
+    "short_explanation": "Used to express that something happened earlier than expected, or exactly as stated, and to highlight a specific item or action.",
+    "long_explanation": "就 (jiù) is a versatile word in Mandarin Chinese, often translated as 'then', 'precisely', or 'just' in English. It is used to indicate that something happens earlier than expected, or in a more exact or extreme manner than expected. It can also be used to highlight a specific item or action or to link cause and effect.",
+    "formation": "Subject + 就 + Verb + Rest of the sentence",
+    "examples": [
+      {
+        "cn": "他七点就到了，比我们预期的要早。",
+        "pinyin": "Tā qīdiǎn jiù dào le, bǐ wǒmen yùqí de yào zǎo.",
+        "en": "He arrived at seven, which is earlier than we expected.",
+        "grammar_audio": "/audio/mandarin/grammar/s_就_jiù_-_Then_precisely_just_20231230_他七点就到了比我们预期的要早.mp3"
+      },
+      {
+        "cn": "如果你不去参加聚会，我就不去。",
+        "pinyin": "Rúguǒ nǐ bù qù cānjiā jùhuì, wǒ jiù bù qù.",
+        "en": "If you don't go to the party, then I won't go.",
+        "grammar_audio": "/audio/mandarin/grammar/s_就_jiù_-_Then_precisely_just_20231230_如果你不去参加聚会我就不去.mp3"
+      },
+      {
+        "cn": "她就是我最喜欢的老师，因为她教得非常好。",
+        "pinyin": "Tā jiùshì wǒ zuì xǐhuān de lǎoshī, yīnwèi tā jiāo de fēicháng hǎo.",
+        "en": "She is precisely the teacher I like the most, because she teaches very well.",
+        "grammar_audio": "/audio/mandarin/grammar/s_就_jiù_-_Then_precisely_just_20231230_她就是我最喜欢的老师因为她教得非常好.mp3"
+      },
+      {
+        "cn": "我就吃了一碗米饭，就饱了。",
+        "pinyin": "Wǒ jiù chīle yì wǎn mǐfàn, jiù bǎo le.",
+        "en": "I just ate a bowl of rice and then I was full.",
+        "grammar_audio": "/audio/mandarin/grammar/s_就_jiù_-_Then_precisely_just_20231230_我就吃了一碗米饭就饱了.mp3"
+      }
+    ],
+    "p_tag": "HSK_2",
+    "s_tag": "25"
+  },
+  {
+    "title": "一直 (yīzhí) - Continuously, all along",
+    "short_explanation": "Used to denote that an action or state continues unbroken or without interruption.",
+    "long_explanation": "The Mandarin Chinese word '一直 (yīzhí)' is used to suggest an unbroken sequence or a continual action or state. It can be understood in English as 'continuously', 'all along', 'straight' or 'all the way'. It is used to express something has been happening from a certain point of time and is still happening, or will continue happening.",
+    "formation": "Subject + Time + 一直 + Verb",
+    "examples": [
+      {
+        "cn": "他一直在努力提高他的汉语水平，以便可以顺利通过HSK种语考试。",
+        "pinyin": "Tā yīzhí zài nǔlì tígāo tā de hànyǔ shuǐpíng, yǐbiàn kěyǐ shùnlì tōngguò HSK zhǒng yǔ kǎoshì.",
+        "en": "He has been continuously striving to improve his Chinese level so that he can pass the HSK Chinese language test smoothly.",
+        "grammar_audio": "/audio/mandarin/grammar/s_一直_yīzhí_-_Continuously_all_along_20231230_他一直在努力提高他的汉语水平以便可以顺利通过HSK种语考试.mp3"
+      },
+      {
+        "cn": "我一直从北京走到上海，整个旅途中我都在欣赏中国美丽的风景。",
+        "pinyin": "Wǒ yīzhí cóng Běijīng zǒu dào Shànghǎi, zhěnggè lǚtú zhōng wǒ dū zài xīnshǎng Zhōngguó měilì de fēngjǐng.",
+        "en": "I traveled all the way from Beijing to Shanghai, admiring the beautiful scenery of China throughout the journey.",
+        "grammar_audio": "/audio/mandarin/grammar/s_一直_yīzhí_-_Continuously_all_along_20231230_我一直从北京走到上海整个旅途中我都在欣赏中国美丽的风景.mp3"
+      },
+      {
+        "cn": "他一直站在那里，直到太阳落山。",
+        "pinyin": "Tā yīzhí zhàn zài nàlǐ, zhídào tàiyáng luòshān.",
+        "en": "He stood there all along, until the sun set.",
+        "grammar_audio": "/audio/mandarin/grammar/s_一直_yīzhí_-_Continuously_all_along_20231230_他一直站在那里直到太阳落山.mp3"
+      },
+      {
+        "cn": "我妹妹一直哭，因为她的玩具熊丢失了。",
+        "pinyin": "Wǒ mèimei yīzhí kū, yīnwèi tā de wánjù xióng diūshī le.",
+        "en": "My little sister has been crying continuously because her teddy bear is lost.",
+        "grammar_audio": "/audio/mandarin/grammar/s_一直_yīzhí_-_Continuously_all_along_20231230_我妹妹一直哭因为她的玩具熊丢失了.mp3"
+      }
+    ],
+    "p_tag": "HSK_2",
+    "s_tag": "25"
+  },
+  {
+    "title": "一般 (yībān) - Generally, normally",
+    "short_explanation": "Used to represent a general or usual situation.",
+    "long_explanation": "The Mandarin Chinese term '一般 (yībān)' translates to 'generally' or 'normally' in English and is used to convey a usual, typical, or general situation or state of affairs. It's a simple way to suggest that something tends to be a certain way most of the time. In a sentence, you can use it before or after the verb, but it is more common to use it before the verb.",
+    "formation": "Subject + 一般 + Verb + Object",
+    "examples": [
+      {
+        "cn": "一般来说，你每天都会去跑步吗？是的，我一般每天早上去跑步。",
+        "pinyin": "Yībān lái shuō, nǐ měitiān dōu huì qù pǎobù ma? Shì de, wǒ yībān měitiān zǎoshang qù pǎobù.",
+        "en": "Generally speaking, do you go running every day? Yes, I generally go running every morning.",
+        "grammar_audio": "/audio/mandarin/grammar/s_一般_yībān_-_Generally_normally_20231230_一般来说你每天都会去跑步吗是的我一般每天早上去跑步.mp3"
+      },
+      {
+        "cn": "我一般在周末才看电影。",
+        "pinyin": "Wǒ yībān zài zhōumò cái kàn diànyǐng.",
+        "en": "I usually only watch movies on weekends.",
+        "grammar_audio": "/audio/mandarin/grammar/s_一般_yībān_-_Generally_normally_20231230_我一般在周末才看电影.mp3"
+      },
+      {
+        "cn": "他在读书的时候一般不喜欢被打扰。",
+        "pinyin": "Tā zài dú shū de shíhòu yībān bù xǐhuān bèi dǎrǎo.",
+        "en": "He generally doesn't like to be disturbed when he is reading.",
+        "grammar_audio": "/audio/mandarin/grammar/s_一般_yībān_-_Generally_normally_20231230_他在读书的时候一般不喜欢被打扰.mp3"
+      },
+      {
+        "cn": "她一般都很准时，但今天她迟到了。",
+        "pinyin": "Tā yībān dōu hěn zhǔn shí, dàn jīntiān tā chídào le.",
+        "en": "She is generally very punctual, but today she was late.",
+        "grammar_audio": "/audio/mandarin/grammar/s_一般_yībān_-_Generally_normally_20231230_她一般都很准时但今天她迟到了.mp3"
+      }
+    ],
+    "p_tag": "HSK_2",
+    "s_tag": "25"
+  },
+  {
+    "title": "真的 (zhēnde) - Really, truly",
+    "short_explanation": "Used to emphasize the truth or sincerity of a statement or action.",
+    "long_explanation": "The Mandarin Chinese phrase '真的 (zhēnde)' is used to accentuate the factuality or genuineness of a particular statement or action. It translates to 'really' or 'truly' in English and is used to verify or affirm a matter. It is frequently used in conversations to show surprise or to strongly confirm something.",
+    "formation": "Subject + Verb/Adjective + 真的 + Rest of the sentence",
+    "examples": [
+      {
+        "cn": "她真的会说五种不同的语言，同意真的令人印象深刻。",
+        "pinyin": "Tā zhēnde huì shuō wǔ zhǒng bùtóng de yǔyán, tóngyì zhēnde lìng rén yìnxiàng shēnkè.",
+        "en": "She really can speak five different languages, it's truly impressive.",
+        "grammar_audio": "/audio/mandarin/grammar/s_真的_zhēnde_-_Really_truly_20231230_她真的会说五种不同的语言同意真的令人印象深刻.mp3"
+      },
+      {
+        "cn": "我真的喜欢这个城市的文化和历史，这使我有像这样的地方探索更多。",
+        "pinyin": "Wǒ zhēnde xǐhuan zhège chéngshì de wénhuà hé lìshǐ, zhè shǐ wǒ yǒu xiàng zhèyàng de dìfāng tànsuǒ gèngduō.",
+        "en": "I really love this city's culture and history, it makes me want to explore places like this more.",
+        "grammar_audio": "/audio/mandarin/grammar/s_真的_zhēnde_-_Really_truly_20231230_我真的喜欢这个城市的文化和历史这使我有像这样的地方探索更多.mp3"
+      },
+      {
+        "cn": "昨天的音乐会真的是太棒了，我真的过得很愉快。",
+        "pinyin": "Zuótiān de yīnyuè huì zhēnde shì tài bàng le, wǒ zhēnde guò de hěn yúkuài.",
+        "en": "Yesterday's concert was really fantastic, I truly had a great time.",
+        "grammar_audio": "/audio/mandarin/grammar/s_真的_zhēnde_-_Really_truly_20231230_昨天的音乐会真的是太棒了我真的过得很愉快.mp3"
+      },
+      {
+        "cn": "他真的完成了马拉松比赛，这真的是一个伟大的成就。",
+        "pinyin": "Tā zhēnde wánchéng le mǎlāsōng bǐsài, zhè zhēnde shì yīgè wěidà de chéngjiù.",
+        "en": "He really completed the marathon race, that's truly a great achievement.",
+        "grammar_audio": "/audio/mandarin/grammar/s_真的_zhēnde_-_Really_truly_20231230_他真的完成了马拉松比赛这真的是一个伟大的成就.mp3"
+      }
+    ],
+    "p_tag": "HSK_2",
+    "s_tag": "25"
+  },
+  {
+    "title": "可能 (kěnéng) - Maybe, possibly",
+    "short_explanation": "Used to express the possibility or likelihood of a certain event or situation.",
+    "long_explanation": "The Mandarin Chinese word '可能 (kěnéng)' is used to indicate that something might or might not happen or be true. It signifies the uncertainty or possibility related to a certain event, action, or condition. It is equivalent to 'maybe', 'possibility', or 'might' in English. You can use '可能' at the beginning of a sentence or right before the verb or adjective.",
+    "formation": "可能 + Sentence / Subject + 可能 + Verb + Object",
+    "examples": [
+      {
+        "cn": "明天可能会下雨，所以我们要带雨伞。",
+        "pinyin": "Míngtiān kěnéng huì xià yǔ, suǒyǐ wǒmen yào dài yǔsǎn.",
+        "en": "It might rain tomorrow, so we need to take umbrellas.",
+        "grammar_audio": "/audio/mandarin/grammar/s_可能_kěnéng_-_Maybe_possibly_20231230_明天可能会下雨所以我们要带雨伞.mp3"
+      },
+      {
+        "cn": "他可能知道我们在谈论他，因为他在看着我们。",
+        "pinyin": "Tā kěnéng zhīdào wǒmen zài tánlùn tā, yīnwèi tā zài kànzhe wǒmen.",
+        "en": "He might know we're talking about him, because he's looking at us.",
+        "grammar_audio": "/audio/mandarin/grammar/s_可能_kěnéng_-_Maybe_possibly_20231230_他可能知道我们在谈论他因为他在看着我们.mp3"
+      },
+      {
+        "cn": "我想她可能在等她的朋友。",
+        "pinyin": "Wǒ xiǎng tā kěnéng zài děng tā de péngyǒu.",
+        "en": "I think she might be waiting for her friend.",
+        "grammar_audio": "/audio/mandarin/grammar/s_可能_kěnéng_-_Maybe_possibly_20231230_我想她可能在等她的朋友.mp3"
+      },
+      {
+        "cn": "这可能是我见过的最美丽的风景。",
+        "pinyin": "Zhè kěnéng shì wǒ jiànguò de zuì měilì de fēngjǐng.",
+        "en": "This might be the most beautiful scenery I've ever seen.",
+        "grammar_audio": "/audio/mandarin/grammar/s_可能_kěnéng_-_Maybe_possibly_20231230_这可能是我见过的最美丽的风景.mp3"
+      }
+    ],
+    "p_tag": "HSK_2",
+    "s_tag": "25"
+  },
+  {
+    "title": "一起 (yīqǐ) - Together",
+    "short_explanation": "The Mandarin Chinese word '一起 (yīqǐ)' indicates a joint action or activity done by two or more individuals.",
+    "long_explanation": "In Mandarin Chinese, '一起 (yīqǐ)' is commonly used to imply actions or activities that are done together by two or more people. Translatable to 'together' in English, the term signifies collaboration, association, or companionship in a particular activity. '一起 (yīqǐ)' usually appears after the subject and before the verb in a sentence.",
+    "formation": "Subject + 一起 + Verb + Object",
+    "examples": [
+      {
+        "cn": "我们一起去图书馆看书，我们可以互相帮助理解难的部分。",
+        "pinyin": "Wǒmen yīqǐ qù túshūguǎn kàn shū, wǒmen kěyǐ hùxiāng bāngzhù lǐjiě nán de bùfen.",
+        "en": "Let's go to the library to read together, we can help each other understand the difficult parts.",
+        "grammar_audio": "/audio/mandarin/grammar/s_一起_yīqǐ_-_Together_20231230_我们一起去图书馆看书我们可以互相帮助理解难的部分.mp3"
+      },
+      {
+        "cn": "你和你的朋友们一起为户外活动做什么准备？我们一起准备了很多的食物和饮料。",
+        "pinyin": "Nǐ hé nǐ de péngyǒumen yīqǐ wèi hùwài huódòng zuò shénme zhǔnbèi? Wǒmen yīqǐ zhǔnbèi le hěnduō de shíwù hé yǐnliào.",
+        "en": "What preparations are you and your friends making together for the outdoor activity? We have prepared a lot of food and drinks together.",
+        "grammar_audio": "/audio/mandarin/grammar/s_一起_yīqǐ_-_Together_20231230_你和你的朋友们一起为户外活动做什么准备我们一起准备了很多的食物和饮料.mp3"
+      },
+      {
+        "cn": "周末，我们可以一起去超市购物，然后回家做饭。",
+        "pinyin": "Zhōumò, wǒmen kěyǐ yīqǐ qù chāoshì gòuwù, ránhòu huí jiā zuò fàn.",
+        "en": "On the weekend, we can go to the supermarket together to shop and then go home to cook.",
+        "grammar_audio": "/audio/mandarin/grammar/s_一起_yīqǐ_-_Together_20231230_周末我们可以一起去超市购物然后回家做饭.mp3"
+      },
+      {
+        "cn": "来，我们一起学习中文，互相帮助，一起进步。",
+        "pinyin": "Lái, wǒmen yīqǐ xuéxí zhōngwén, hùxiāng bāngzhù, yīqǐ jìnbù.",
+        "en": "Come on, let's study Chinese together, help each other, and improve together.",
+        "grammar_audio": "/audio/mandarin/grammar/s_一起_yīqǐ_-_Together_20231230_来我们一起学习中文互相帮助一起进步.mp3"
+      }
+    ],
+    "p_tag": "HSK_2",
+    "s_tag": "25"
+  },
+  {
+    "title": "根据 (gēnjù) - According to, based on",
+    "short_explanation": "Used to introduce the source of information or the basis for some action or decision.",
+    "long_explanation": "The Mandarin Chinese phrase '根据 (gēnjù)' is used to introduce the basis or ground on which a claim, choice, action, or conclusion is drawn. It is equivalent to saying 'according to' or 'based on' in English. This phrase is often used in formal or academic contexts to refer to evidence, laws, rules, and so forth.",
+    "formation": "根据 + Source/Information + Rest of the sentence",
+    "examples": [
+      {
+        "cn": "根据天气预报，明天会下雨。",
+        "pinyin": "Gēnjù tiānqì yùbào, míngtiān huì xià yǔ.",
+        "en": "According to the weather forecast, it will rain tomorrow.",
+        "grammar_audio": "/audio/mandarin/grammar/s_根据_gēnjù_-_According_to_based_on_20231230_根据天气预报明天会下雨.mp3"
+      },
+      {
+        "cn": "根据规定，学生不能带手机进教室。",
+        "pinyin": "Gēnjù guīdìng, xuéshēng bùnéng dài shǒujī jìn jiàoshì.",
+        "en": "According to the rules, students are not allowed to bring mobile phones into the classroom.",
+        "grammar_audio": "/audio/mandarin/grammar/s_根据_gēnjù_-_According_to_based_on_20231230_根据规定学生不能带手机进教室.mp3"
+      },
+      {
+        "cn": "根据他的说法，他没有参与这个事件。",
+        "pinyin": "Gēnjù tā de shuōfǎ, tā méiyǒu cānyù zhège shìjiàn.",
+        "en": "According to his statement, he wasn't involved in the incident.",
+        "grammar_audio": "/audio/mandarin/grammar/s_根据_gēnjù_-_According_to_based_on_20231230_根据他的说法他没有参与这个事件.mp3"
+      },
+      {
+        "cn": "根据这些数据，我们需要改进我们的销售策略。",
+        "pinyin": "Gēnjù zhèxiē shùjù, wǒmen xūyào gǎijìn wǒmen de xiāoshòu cèlüè.",
+        "en": "Based on these data, we need to improve our sales strategy.",
+        "grammar_audio": "/audio/mandarin/grammar/s_根据_gēnjù_-_According_to_based_on_20231230_根据这些数据我们需要改进我们的销售策略.mp3"
+      }
+    ],
+    "p_tag": "HSK_2",
+    "s_tag": "25"
+  },
+  {
+    "title": "除非 (chúfēi) - Unless",
+    "short_explanation": "Used to express a condition in which something will happen or is possible.",
+    "long_explanation": "The Mandarin Chinese phrase '除非 (chúfēi)' is used to present a prerequisite condition for a certain outcome to happen. It is equivalent to saying 'unless' in English. The situation or condition being mentioned is often necessary or crucial for the rest of the sentence to be true, or for a certain event to occur.",
+    "formation": "除非 + Condition, 否则/不然 + Result",
+    "examples": [
+      {
+        "cn": "除非你努力学习，否则你将不能通过这个考试。",
+        "pinyin": "Chúfēi nǐ nǔlì xuéxí, fǒuzé nǐ jiāng bùnéng tōngguò zhège kǎoshì.",
+        "en": "Unless you study hard, you will not be able to pass this exam.",
+        "grammar_audio": "/audio/mandarin/grammar/s_除非_chúfēi_-_Unless_20231230_除非你努力学习否则你将不能通过这个考试.mp3"
+      },
+      {
+        "cn": "除非他公开道歉，否则我不会原谅他。",
+        "pinyin": "Chúfēi tā gōngkāi dàoqiàn, fǒuzé wǒ bù huì yuánliàng tā.",
+        "en": "Unless he apologizes publicly, I will not forgive him.",
+        "grammar_audio": "/audio/mandarin/grammar/s_除非_chúfēi_-_Unless_20231230_除非他公开道歉否则我不会原谅他.mp3"
+      },
+      {
+        "cn": "除非天气好，我们不会去公园。",
+        "pinyin": "Chúfēi tiānqì hǎo, wǒmen bù huì qù gōngyuán.",
+        "en": "We will not go to the park unless the weather is good.",
+        "grammar_audio": "/audio/mandarin/grammar/s_除非_chúfēi_-_Unless_20231230_除非天气好我们不会去公园.mp3"
+      },
+      {
+        "cn": "除非你能保证这件事的安全，否则我不会让你去的。",
+        "pinyin": "Chúfēi nǐ néng bǎozhèng zhè jiàn shì de ānquán, fǒuzé wǒ bù huì ràng nǐ qù de.",
+        "en": "I won't let you go unless you can guarantee the safety of this matter.",
+        "grammar_audio": "/audio/mandarin/grammar/s_除非_chúfēi_-_Unless_20231230_除非你能保证这件事的安全否则我不会让你去的.mp3"
+      }
+    ],
+    "p_tag": "HSK_2",
+    "s_tag": "25"
+  },
+  {
+    "title": "以前 (yǐqián) - Before, previously",
+    "short_explanation": "Used to indicate a time period that happened before the present time or before another specified time.",
+    "long_explanation": "The Mandarin Chinese adverb '以前 (yǐqián)' is used to indicate a time period that occurred in the past, before the present time or before another specified time. It's similar to the words 'before' or 'previously' in English. It can be used to refer to both the near past or a more distant past, and it is placed before the verb in a sentence.",
+    "formation": "Subject + 以前 + Verb + Object",
+    "examples": [
+      {
+        "cn": "以前我每天都去跑步，但现在我太忙了。",
+        "pinyin": "Yǐqián wǒ měitiān dōu qù pǎobù, dàn xiànzài wǒ tài máng le.",
+        "en": "I used to go running every day, but I'm too busy now.",
+        "grammar_audio": "/audio/mandarin/grammar/s_以前_yǐqián_-_Before_previously_20231230_以前我每天都去跑步但现在我太忙了.mp3"
+      },
+      {
+        "cn": "我以前在北京住过。",
+        "pinyin": "Wǒ yǐqián zài Běijīng zhùguò.",
+        "en": "I lived in Beijing before.",
+        "grammar_audio": "/audio/mandarin/grammar/s_以前_yǐqián_-_Before_previously_20231230_我以前在北京住过.mp3"
+      },
+      {
+        "cn": "他以前是一个律师，现在是一名教师。",
+        "pinyin": "Tā yǐqián shì yígè lǜshī, xiànzài shì yì míng jiàoshī.",
+        "en": "He used to be a lawyer, now he is a teacher.",
+        "grammar_audio": "/audio/mandarin/grammar/s_以前_yǐqián_-_Before_previously_20231230_他以前是一个律师现在是一名教师.mp3"
+      },
+      {
+        "cn": "你以前见过这个人吗？",
+        "pinyin": "Nǐ yǐqián jiànguò zhège rén ma?",
+        "en": "Have you met this person before?",
+        "grammar_audio": "/audio/mandarin/grammar/s_以前_yǐqián_-_Before_previously_20231230_你以前见过这个人吗.mp3"
+      }
+    ],
+    "p_tag": "HSK_2",
+    "s_tag": "25"
+  },
+  {
+    "title": "之后 (zhīhòu) - Afterward, after",
+    "short_explanation": "Used to indicate the event or action that follows after a certain point of time.",
+    "long_explanation": "In Mandarin Chinese, '之后 (zhīhòu)' is used to express the concept of 'afterward' or 'after'. This grammar point is used to showcase the sequence of actions or events, where one event occurs after another. It also connects two parts of a complex sentence where one action takes place following another one.",
+    "formation": "Event/Action(A) + 之后 + Event/Action(B)",
+    "examples": [
+      {
+        "cn": "我吃完晚餐之后，我会看一小时的电视。",
+        "pinyin": "Wǒ chīwán wǎncān zhīhòu, wǒ huì kàn yī xiǎoshí de diànshì.",
+        "en": "After I finish eating dinner, I will watch TV for an hour.",
+        "grammar_audio": "/audio/mandarin/grammar/s_之后_zhīhòu_-_Afterward_after_20231230_我吃完晚餐之后我会看一小时的电视.mp3"
+      },
+      {
+        "cn": "考试之后，我们去公园放松自己。",
+        "pinyin": "Kǎoshì zhīhòu, wǒmen qù gōngyuán fàngsōng zìjǐ.",
+        "en": "After the exam, we will go to the park to relax.",
+        "grammar_audio": "/audio/mandarin/grammar/s_之后_zhīhòu_-_Afterward_after_20231230_考试之后我们去公园放松自己.mp3"
+      },
+      {
+        "cn": "他睡觉之后才开始做他的作业。",
+        "pinyin": "Tā shuìjiào zhīhòu cái kāishǐ zuò tā de zuòyè.",
+        "en": "He only started doing his homework after he went to sleep.",
+        "grammar_audio": "/audio/mandarin/grammar/s_之后_zhīhòu_-_Afterward_after_20231230_他睡觉之后才开始做他的作业.mp3"
+      },
+      {
+        "cn": "我打算会议结束之后去咖啡店。",
+        "pinyin": "Wǒ dǎsuàn huìyì jiéshù zhīhòu qù kāfēi diàn.",
+        "en": "I plan to go to a coffee shop after the meeting ends.",
+        "grammar_audio": "/audio/mandarin/grammar/s_之后_zhīhòu_-_Afterward_after_20231230_我打算会议结束之后去咖啡店.mp3"
+      }
+    ],
+    "p_tag": "HSK_2",
+    "s_tag": "25"
+  },
+  {
+    "title": "刚刚 (gānggāng) - Just now/recently",
+    "short_explanation": "Used to refer to recent past events or actions.",
+    "long_explanation": "The Mandarin Chinese phrase '刚刚 (gānggāng)' is used to indicate that an event or action happened recently or just now. It is structurally similar to the English expression 'just now'. When used in a sentence, the phrase '刚刚' usually comes before the verb to give the verb a sense of recentness.",
+    "formation": "Subject + 刚刚 + Verb + Rest of the sentence",
+    "examples": [
+      {
+        "cn": "我刚刚看到他在公园里跑步，他看起来很开心。",
+        "pinyin": "Wǒ gānggāng kàn dào tā zài gōngyuán lǐ pǎobù, tā kàn qǐlái hěn kāixīn.",
+        "en": "I just saw him running in the park, he looked very happy.",
+        "grammar_audio": "/audio/mandarin/grammar/s_刚刚_gānggāng_-_Just_now/recently_20231230_我刚刚看到他在公园里跑步他看起来很开心.mp3"
+      },
+      {
+        "cn": "他刚刚告诉我他已经找到了一份新的工作，我为他感到很高兴。",
+        "pinyin": "Tā gānggāng gàosù wǒ tā yǐjīng zhǎodào le yī fèn xīn de gōngzuò, wǒ wèi tā gǎndào hěn gāoxìng.",
+        "en": "He just told me that he has found a new job, I am very happy for him.",
+        "grammar_audio": "/audio/mandarin/grammar/s_刚刚_gānggāng_-_Just_now/recently_20231230_他刚刚告诉我他已经找到了一份新的工作我为他感到很高兴.mp3"
+      },
+      {
+        "cn": "我刚刚吃了早餐，所以我现在不饿。",
+        "pinyin": "Wǒ gānggāng chī le zǎocān, suǒyǐ wǒ xiànzài bù è.",
+        "en": "I just had breakfast, so I'm not hungry now.",
+        "grammar_audio": "/audio/mandarin/grammar/s_刚刚_gānggāng_-_Just_now/recently_20231230_我刚刚吃了早餐所以我现在不饿.mp3"
+      },
+      {
+        "cn": "她刚刚从伦敦回来，她说她在那里过得很愉快。",
+        "pinyin": "Tā gānggāng cóng lúndūn huílái, tā shuō tā zài nàlǐ guò de hěn yúkuài.",
+        "en": "She just came back from London, she said she had a great time there.",
+        "grammar_audio": "/audio/mandarin/grammar/s_刚刚_gānggāng_-_Just_now/recently_20231230_她刚刚从伦敦回来她说她在那里过得很愉快.mp3"
+      }
+    ],
+    "p_tag": "HSK_2",
+    "s_tag": "25"
+  },
+  {
+    "title": "虽然…但是… (suīrán… dànshì…) - Although… but…",
+    "short_explanation": "Used to express a contrast or contradiction between two situations or two aspects.",
+    "long_explanation": "The Mandarin Chinese structure '虽然…但是… (suīrán… dànshì…)' is a conjunction that is used to express a contrast or contradiction. In English, it is equivalent to 'although… but…'. It's used to present a situation or fact first, then to introduce a surprising or contradicting information or another standpoint.",
+    "formation": "虽然 + Statement 1, 但是 + Statement 2",
+    "examples": [
+      {
+        "cn": "虽然我很喜欢那个电影，但是我没有时间去看它。",
+        "pinyin": "Suīrán wǒ hěn xǐhuān nàgè diànyǐng, dànshì wǒ méiyǒu shíjiān qù kàn tā.",
+        "en": "Although I really like that movie, I don’t have time to watch it.",
+        "grammar_audio": "/audio/mandarin/grammar/s_虽然但是_suīrán_dànshì_-_Although_but_20231230_虽然我很喜欢那个电影但是我没有时间去看它.mp3"
+      },
+      {
+        "cn": "虽然他们身处困难，但是他们仍然保持乐观。",
+        "pinyin": "Suīrán tāmen shēn chǔ kùnnán, dànshì tāmen réngrán bǎochí lèguān.",
+        "en": "Although they are in difficulties, they still remain optimistic.",
+        "grammar_audio": "/audio/mandarin/grammar/s_虽然但是_suīrán_dànshì_-_Although_but_20231230_虽然他们身处困难但是他们仍然保持乐观.mp3"
+      },
+      {
+        "cn": "虽然他很年轻，但是他非常有经验。",
+        "pinyin": "Suīrán tā hěn niánqīng, dànshì tā fēicháng yǒu jīngyàn.",
+        "en": "Although he is very young, he is very experienced.",
+        "grammar_audio": "/audio/mandarin/grammar/s_虽然但是_suīrán_dànshì_-_Although_but_20231230_虽然他很年轻但是他非常有经验.mp3"
+      },
+      {
+        "cn": "虽然我喝了很多水，但是我仍然感到口渴。",
+        "pinyin": "Suīrán wǒ hēle hěnduō shuǐ, dànshì wǒ réngrán gǎndào kǒu kě.",
+        "en": "Although I drank a lot of water, I'm still thirsty.",
+        "grammar_audio": "/audio/mandarin/grammar/s_虽然但是_suīrán_dànshì_-_Although_but_20231230_虽然我喝了很多水但是我仍然感到口渴.mp3"
+      }
+    ],
+    "p_tag": "HSK_2",
+    "s_tag": "25"
+  },
+  {
+    "title": "不仅…还… (bùjǐn… hái…) - Not only... but also...",
+    "short_explanation": "This phrase is used to emphasize on more than one quality or feature of the subject.",
+    "long_explanation": "In Mandarin Chinese, '不仅…还… (bùjǐn… hái…)' is used to highlight more than one characteristic, ability, or feature about the subject. It reflects the English equivalent of 'not only... but also...'. This phrase allows you to offer additional information about the subject which emphasizes its capabilities, qualities, or attributes.",
+    "formation": "Subject + 不仅 + Predicate 1, 还／还有 + Predicate 2",
+    "examples": [
+      {
+        "cn": "这本书不仅内容丰富，还有很多插图。",
+        "pinyin": "Zhè běn shū bùjǐn nèiróng fēngfù, hái yǒu hěnduō chātú.",
+        "en": "This book not only has rich content but also has many illustrations.",
+        "grammar_audio": "/audio/mandarin/grammar/s_不仅还_bùjǐn_hái_-_Not_only_but_also_20231230_这本书不仅内容丰富还有很多插图.mp3"
+      },
+      {
+        "cn": "他不仅会说英语，还会说德语和法语。",
+        "pinyin": "Tā bùjǐn huì shuō Yīngyǔ, hái huì shuō Déyǔ hé Fǎyǔ.",
+        "en": "He can speak not only English but also German and French.",
+        "grammar_audio": "/audio/mandarin/grammar/s_不仅还_bùjǐn_hái_-_Not_only_but_also_20231230_他不仅会说英语还会说德语和法语.mp3"
+      },
+      {
+        "cn": "我喜欢她不仅因为她漂亮，还因为她聪明。",
+        "pinyin": "Wǒ xǐhuān tā bùjǐn yīnwèi tā piàoliang, hái yīnwèi tā cōngmíng.",
+        "en": "I like her not only because she is beautiful but also because she is smart.",
+        "grammar_audio": "/audio/mandarin/grammar/s_不仅还_bùjǐn_hái_-_Not_only_but_also_20231230_我喜欢她不仅因为她漂亮还因为她聪明.mp3"
+      },
+      {
+        "cn": "这个城市不仅旅游设施齐全，还有丰富的历史文化。",
+        "pinyin": "Zhègè chéngshì bùjǐn lǚyóu shèshī qíquán, hái yǒu fēngfù de lìshǐ wénhuà.",
+        "en": "This city has not only comprehensive tourist facilities but also rich historical culture.",
+        "grammar_audio": "/audio/mandarin/grammar/s_不仅还_bùjǐn_hái_-_Not_only_but_also_20231230_这个城市不仅旅游设施齐全还有丰富的历史文化.mp3"
+      }
+    ],
+    "p_tag": "HSK_2",
+    "s_tag": "25"
+  },
+  {
+    "title": "既…又… (jì… yòu…) - Both... and...",
+    "short_explanation": "Used to describe two or more characteristics that simultaneously exist.",
+    "long_explanation": "The Mandarin Chinese phrase '既…又… (jì… yòu…)' is used to describe two or more traits or characteristics that coexist in one subject or situation. It can be translated as 'both... and...' in English. It shows that the subject has both characteristics or does both actions at the same time.",
+    "formation": "Subject + 既 + Characteristic 1 + 又 + Characteristic 2",
+    "examples": [
+      {
+        "cn": "他既聪明又勤奋，所以他的成绩总是名列前茅。",
+        "pinyin": "Tā jì cōngmíng yòu qínfèn, suǒyǐ tā de chéngjī zǒng shì míngliè qiánmáo.",
+        "en": "He is both intelligent and diligent, so his grades are always at the top.",
+        "grammar_audio": "/audio/mandarin/grammar/s_既又_jì_yòu_-_Both_and_20231230_他既聪明又勤奋所以他的成绩总是名列前茅.mp3"
+      },
+      {
+        "cn": "这部电影既有趣又刺激，我非常喜欢。",
+        "pinyin": "Zhè bù diànyǐng jì yǒuqù yòu cìjī, wǒ fēicháng xǐhuān.",
+        "en": "This movie is both interesting and thrilling, I like it very much.",
+        "grammar_audio": "/audio/mandarin/grammar/s_既又_jì_yòu_-_Both_and_20231230_这部电影既有趣又刺激我非常喜欢.mp3"
+      },
+      {
+        "cn": "我既想去旅游又想省下来的钱购买新的电脑。",
+        "pinyin": "Wǒ jì xiǎng qù lǚyóu yòu xiǎng shěng xià lái de qián gòumǎi xīn de diànnǎo.",
+        "en": "I both want to travel and to save money to buy a new computer.",
+        "grammar_audio": "/audio/mandarin/grammar/s_既又_jì_yòu_-_Both_and_20231230_我既想去旅游又想省下来的钱购买新的电脑.mp3"
+      },
+      {
+        "cn": "这个城市既保留了古老的建筑，又有现代的设施，非常有魅力。",
+        "pinyin": "Zhège chéngshì jì bǎoliú le gǔlǎo de jiànzhú, yòu yǒu xiàndài de shèshī, fēicháng yǒu mèilì.",
+        "en": "This city has both preserved ancient buildings and modern facilities, it's very charming.",
+        "grammar_audio": "/audio/mandarin/grammar/s_既又_jì_yòu_-_Both_and_20231230_这个城市既保留了古老的建筑又有现代的设施非常有魅力.mp3"
+      }
+    ],
+    "p_tag": "HSK_2",
+    "s_tag": "25"
+  },
+  {
+    "title": "越…越… (yuè… yuè…) - The more... the more...",
+    "short_explanation": "Used to express the idea that with the increase or decrease of something, another thing increases or decreases accordingly.",
+    "long_explanation": "The Mandarin Chinese structure '越…越… (yuè… yuè…)' is used to express the idea that as one situation or action increases or decreases, another situation or action increases or decreases correspondingly. This structure is almost directly equivalent to the English 'the more... the more...' structure. It is often used to communicate co-dependent properties or conditions.",
+    "formation": "Subject + 越 + Adjective/Verb + 越 + Adjective/Verb",
+    "examples": [
+      {
+        "cn": "她越学习中文，她就越爱它。",
+        "pinyin": "Tā yuè xuéxí Zhōngwén, tā jiù yuè ài tā.",
+        "en": "The more she studies Chinese, the more she loves it.",
+        "grammar_audio": "/audio/mandarin/grammar/s_越越_yuè_yuè_-_The_more_the_more_20231230_她越学习中文她就越爱它.mp3"
+      },
+      {
+        "cn": "我们越早完成工作，我们就有越多的时间去玩。",
+        "pinyin": "Wǒmen yuè zǎo wánchéng gōngzuò, wǒmen jiù yǒu yuè duō de shíjiān qù wán.",
+        "en": "The earlier we finish work, the more time we will have to play.",
+        "grammar_audio": "/audio/mandarin/grammar/s_越越_yuè_yuè_-_The_more_the_more_20231230_我们越早完成工作我们就有越多的时间去玩.mp3"
+      },
+      {
+        "cn": "他越吃巧克力，他就越觉得开心。",
+        "pinyin": "Tā yuè chī qiǎokèlì, tā jiù yuè juédé kāixīn.",
+        "en": "The more he eats chocolate, the happier he feels.",
+        "grammar_audio": "/audio/mandarin/grammar/s_越越_yuè_yuè_-_The_more_the_more_20231230_他越吃巧克力他就越觉得开心.mp3"
+      },
+      {
+        "cn": "越多的人去参加这个活动，它就会越成功。",
+        "pinyin": "Yuè duō de rén qù cānjiā zhège huódòng, tā jiù huì yuè chénggōng.",
+        "en": "The more people participate in this event, the more successful it will be.",
+        "grammar_audio": "/audio/mandarin/grammar/s_越越_yuè_yuè_-_The_more_the_more_20231230_越多的人去参加这个活动它就会越成功.mp3"
+      }
+    ],
+    "p_tag": "HSK_2",
+    "s_tag": "25"
+  },
+  {
+    "title": "不但…而且… (bùdàn… érqiě…) - Not only... but also...",
+    "short_explanation": "This structure is used to show that not only one condition or attribute is true, but also another one.",
+    "long_explanation": "'不但…而且…' (bùdàn… érqiě…) is a grammatical structure in Mandarin Chinese used to express the concept of 'Not only... but also...'. This structure is used when you want to highlight that not only the situation or attribute mentioned after '不但' is true, but the situation or attribute mentioned after '而且' is also true. It helps compound two related aspects, enhancing the overall description or statement.",
+    "formation": "不但 + Statement 1 + 而且 + Statement 2",
+    "examples": [
+      {
+        "cn": "她不但会说中文，而且还会写中文。",
+        "pinyin": "Tā bùdàn huì shuō Zhōngwén, érqiě hái huì xiě Zhōngwén.",
+        "en": "Not only can she speak Chinese, but she can also write Chinese.",
+        "grammar_audio": "/audio/mandarin/grammar/s_不但而且_bùdàn_érqiě_-_Not_only_but_also_20231230_她不但会说中文而且还会写中文.mp3"
+      },
+      {
+        "cn": "我不但喜欢听音乐，而且还喜欢画画。",
+        "pinyin": "Wǒ bùdàn xǐhuān tīng yīnyuè, érqiě hái xǐhuān huàhuà.",
+        "en": "Not only do I like to listen to music, but I also like to paint.",
+        "grammar_audio": "/audio/mandarin/grammar/s_不但而且_bùdàn_érqiě_-_Not_only_but_also_20231230_我不但喜欢听音乐而且还喜欢画画.mp3"
+      },
+      {
+        "cn": "这件衣服不但好看，而且还很便宜。",
+        "pinyin": "Zhè jiàn yīfu bùdàn hǎokàn, érqiě hái hěn piányi.",
+        "en": "Not only is this piece of clothing good-looking, but it's also very cheap.",
+        "grammar_audio": "/audio/mandarin/grammar/s_不但而且_bùdàn_érqiě_-_Not_only_but_also_20231230_这件衣服不但好看而且还很便宜.mp3"
+      },
+      {
+        "cn": "他不但喜欢阅读，而且还喜欢写作。",
+        "pinyin": "Tā bùdàn xǐhuān yuèdú, érqiě hái xǐhuān xiězuò.",
+        "en": "Not only does he like reading, but he also likes writing.",
+        "grammar_audio": "/audio/mandarin/grammar/s_不但而且_bùdàn_érqiě_-_Not_only_but_also_20231230_他不但喜欢阅读而且还喜欢写作.mp3"
+      }
+    ],
+    "p_tag": "HSK_2",
+    "s_tag": "50"
+  },
+  {
+    "title": "或者 (huòzhě) - Or (in statements)",
+    "short_explanation": "Used to present options or alternatives in a statement.",
+    "long_explanation": "The Mandarin Chinese conjunction '或者 (huòzhě)' is used to link alternatives or options within a statement. It works similar to the conjunction 'or' in English language. This word is often used when presenting more than one possibility, choice, alternative or option.",
+    "formation": "Option 1 + 或者 + Option 2",
+    "examples": [
+      {
+        "cn": "你可以选择喝茶或者喝咖啡。",
+        "pinyin": "Nǐ kěyǐ xuǎnzé hē chá huòzhě hē kāfēi.",
+        "en": "You can choose to drink tea or coffee.",
+        "grammar_audio": "/audio/mandarin/grammar/s_或者_huòzhě_-_Or_in_statements_20231230_你可以选择喝茶或者喝咖啡.mp3"
+      },
+      {
+        "cn": "我们可以去公园散步或者看电影。",
+        "pinyin": "Wǒmen kěyǐ qù gōngyuán sànbù huòzhě kàn diànyǐng.",
+        "en": "We can go for a walk in the park or watch a movie.",
+        "grammar_audio": "/audio/mandarin/grammar/s_或者_huòzhě_-_Or_in_statements_20231230_我们可以去公园散步或者看电影.mp3"
+      },
+      {
+        "cn": "你今晚要吃面条或者吃披萨？",
+        "pinyin": "Nǐ jīnwǎn yào chī miàntiáo huòzhě chī pīsà?",
+        "en": "Do you want to eat noodles or pizza tonight?",
+        "grammar_audio": "/audio/mandarin/grammar/s_或者_huòzhě_-_Or_in_statements_20231230_你今晚要吃面条或者吃披萨.mp3"
+      },
+      {
+        "cn": "我可以去购物，或者我可以待在家里看电影。",
+        "pinyin": "Wǒ kěyǐ qù gòuwù, huòzhě wǒ kěyǐ dāi zài jiā lǐ kàn diànyǐng.",
+        "en": "I can go shopping, or I can stay at home and watch a movie.",
+        "grammar_audio": "/audio/mandarin/grammar/s_或者_huòzhě_-_Or_in_statements_20231230_我可以去购物或者我可以待在家里看电影.mp3"
+      }
+    ],
+    "p_tag": "HSK_2",
+    "s_tag": "50"
+  },
+  {
+    "title": "当…时候 (dāng… shíhòu) - When...",
+    "short_explanation": "Used to indicate a specific time or circumstance.",
+    "long_explanation": "The Mandarin Chinese phrase '当…时候 (dāng… shíhòu)' is used to refer to a specific time or circumstance in which something happens. It allows you to connect a certain action or state to a certain time. This phrase is commonly used to set up conditions or specific instances when a particular event occurs.",
+    "formation": "当 + Time/Circumstance + 时候, (Subject +) Action/State",
+    "examples": [
+      {
+        "cn": "当你有困难时候，你可以找我帮快。",
+        "pinyin": "Dāng nǐ yǒu kùnnan shíhòu, nǐ kěyǐ zhǎo wǒ bāngkuài.",
+        "en": "When you have difficulties, you can look for me for help.",
+        "grammar_audio": "/audio/mandarin/grammar/s_当时候_dāng_shíhòu_-_When_20231230_当你有困难时候你可以找我帮快.mp3"
+      },
+      {
+        "cn": "当我在中国时候，我学习了很多中文。",
+        "pinyin": "Dāng wǒ zài Zhōngguó shíhòu, wǒ xuéxíle hěnduō Zhōngwén.",
+        "en": "When I was in China, I learned a lot of Chinese.",
+        "grammar_audio": "/audio/mandarin/grammar/s_当时候_dāng_shíhòu_-_When_20231230_当我在中国时候我学习了很多中文.mp3"
+      },
+      {
+        "cn": "当夏天时候，我们常常去海边玩。",
+        "pinyin": "Dāng xiàtiān shíhòu, wǒmen chángcháng qù hǎibiān wán.",
+        "en": "When it's summer, we often go to play at the beach.",
+        "grammar_audio": "/audio/mandarin/grammar/s_当时候_dāng_shíhòu_-_When_20231230_当夏天时候我们常常去海边玩.mp3"
+      },
+      {
+        "cn": "当我看到你的笑容时候，我感到很快乐。",
+        "pinyin": "Dāng wǒ kàn dào nǐ de xiàoróng shíhòu, wǒ gǎndào hěn kuàilè.",
+        "en": "When I see your smile, I feel very happy.",
+        "grammar_audio": "/audio/mandarin/grammar/s_当时候_dāng_shíhòu_-_When_20231230_当我看到你的笑容时候我感到很快乐.mp3"
+      }
+    ],
+    "p_tag": "HSK_2",
+    "s_tag": "50"
+  },
+  {
+    "title": "只有…才… (zhǐyǒu… cái…) - Only if/when... then...",
+    "short_explanation": "Used to express that only under a certain condition, a certain result can be achieved.",
+    "long_explanation": "The Mandarin Chinese expression '只有…才…' is used to express that only under a particular condition (expressed in the 只有 part), a certain result or consequence (expressed in the 才 part) can be achieved. It can be likened to the English 'Only if/when... then...' construction.",
+    "formation": "只有 + Condition + 才 + Result",
+    "examples": [
+      {
+        "cn": "只有通过努力，才能实现我们的目标。",
+        "pinyin": "Zhǐyǒu tōngguò nǔlì, cáinéng shíxiàn wǒmen de mùbiāo.",
+        "en": "Only through hard work, can we achieve our goals.",
+        "grammar_audio": "/audio/mandarin/grammar/s_只有才_zhǐyǒu_cái_-_Only_if/when_then_20231230_只有通过努力才能实现我们的目标.mp3"
+      },
+      {
+        "cn": "只有保持健康，才能过上快乐的生活。",
+        "pinyin": "Zhǐyǒu bǎochí jiànkāng, cáinéng guòshàng kuàilè de shēnghuó.",
+        "en": "Only by staying healthy, can we lead a happy life.",
+        "grammar_audio": "/audio/mandarin/grammar/s_只有才_zhǐyǒu_cái_-_Only_if/when_then_20231230_只有保持健康才能过上快乐的生活.mp3"
+      },
+      {
+        "cn": "只有提前预订，才能买到这种特别的门票。",
+        "pinyin": "Zhǐyǒu tíqián yùdìng, cáinéng mǎidào zhèzhǒng tèbié de ménpiào.",
+        "en": "Only by booking in advance, can you buy these special tickets.",
+        "grammar_audio": "/audio/mandarin/grammar/s_只有才_zhǐyǒu_cái_-_Only_if/when_then_20231230_只有提前预订才能买到这种特别的门票.mp3"
+      },
+      {
+        "cn": "只有你同意，我们才能开始这个项目。",
+        "pinyin": "Zhǐyǒu nǐ tóngyì, wǒmen cái néng kāishǐ zhège xiàngmù.",
+        "en": "Only if you agree, can we start this project.",
+        "grammar_audio": "/audio/mandarin/grammar/s_只有才_zhǐyǒu_cái_-_Only_if/when_then_20231230_只有你同意我们才能开始这个项目.mp3"
+      }
+    ],
+    "p_tag": "HSK_2",
+    "s_tag": "50"
+  },
+  {
+    "title": "为了 (wèile) - In order to, for the purpose of",
+    "short_explanation": "Used to express a goal or purpose.",
+    "long_explanation": "The Mandarin Chinese phrase '为了 (wèile)' is used to indicate a purpose or a goal of an action or a thing. In English, it corresponds to 'in order to' or 'for the purpose of'. It is always followed by the goal or purpose.",
+    "formation": "为了 + Purpose, Subject + Verb + Object",
+    "examples": [
+      {
+        "cn": "为了保持健康，我每天都会去健身房运动。",
+        "pinyin": "Wèile bǎochí jiànkāng, wǒ měitiān dōuhuì qù jiànshēnfáng yùndòng.",
+        "en": "In order to stay healthy, I exercise in the gym every day.",
+        "grammar_audio": "/audio/mandarin/grammar/s_为了_wèile_-_In_order_to_for_the_purpose_of_20231230_为了保持健康我每天都会去健身房运动.mp3"
+      },
+      {
+        "cn": "她为了能够及时赶到会议，早早地离开了家。",
+        "pinyin": "Tā wèile nénggòu jíshí gǎn dào huìyì, zǎo zǎo dì líkāi le jiā.",
+        "en": "She left home early in order to make it to the meeting on time.",
+        "grammar_audio": "/audio/mandarin/grammar/s_为了_wèile_-_In_order_to_for_the_purpose_of_20231230_她为了能够及时赶到会议早早地离开了家.mp3"
+      },
+      {
+        "cn": "他为了满足客户的需求，不得不工作到深夜。",
+        "pinyin": "Tā wèile mǎnzú kèhù de xūqiú, bùdébù gōngzuò dào shēnyè.",
+        "en": "He had to work late into the night in order to meet customer's needs.",
+        "grammar_audio": "/audio/mandarin/grammar/s_为了_wèile_-_In_order_to_for_the_purpose_of_20231230_他为了满足客户的需求不得不工作到深夜.mp3"
+      },
+      {
+        "cn": "我们为了庆祝公司的成功，决定去旅游。",
+        "pinyin": "Wǒmen wèile qìngzhù gōngsī de chénggōng, juédìng qù lǚyóu.",
+        "en": "We decided to go on a trip in order to celebrate the company's success.",
+        "grammar_audio": "/audio/mandarin/grammar/s_为了_wèile_-_In_order_to_for_the_purpose_of_20231230_我们为了庆祝公司的成功决定去旅游.mp3"
+      }
+    ],
+    "p_tag": "HSK_2",
+    "s_tag": "50"
+  },
+  {
+    "title": "如果…的话 (rúguǒ… de huà) - If...",
+    "short_explanation": "Used to express a certain condition or hypothesis.",
+    "long_explanation": "The Mandarin Chinese phrase '如果…的话 (rúguǒ… de huà)' is used to express a condition or hypothesis, and can be translated as 'if'. It's equivalent to 'if' in English. This phrase is often used to express hypothetical situations or to make conditional statements.",
+    "formation": "如果 + Condition + 的话, + Result",
+    "examples": [
+      {
+        "cn": "如果你明天有空的话，我们可以去看电影。",
+        "pinyin": "Rúguǒ nǐ míngtiān yǒu kòng de huà, wǒmen kěyǐ qù kàn diànyǐng.",
+        "en": "If you are free tomorrow, we can go to watch a movie.",
+        "grammar_audio": "/audio/mandarin/grammar/s_如果的话_rúguǒ_de_huà_-_If_20231230_如果你明天有空的话我们可以去看电影.mp3"
+      },
+      {
+        "cn": "如果我赢了这个比赛的话，我会很高兴。",
+        "pinyin": "Rúguǒ wǒ yíng le zhège bǐsài de huà, wǒ huì hěn gāoxìng.",
+        "en": "If I win this match, I would be very happy.",
+        "grammar_audio": "/audio/mandarin/grammar/s_如果的话_rúguǒ_de_huà_-_If_20231230_如果我赢了这个比赛的话我会很高兴.mp3"
+      },
+      {
+        "cn": "如果你不想去的话，我可以自己去。",
+        "pinyin": "Rúguǒ nǐ bù xiǎng qù de huà, wǒ kěyǐ zìjǐ qù.",
+        "en": "If you don't want to go, I can go by myself.",
+        "grammar_audio": "/audio/mandarin/grammar/s_如果的话_rúguǒ_de_huà_-_If_20231230_如果你不想去的话我可以自己去.mp3"
+      },
+      {
+        "cn": "如果他是对的话，我们需要改变计划。",
+        "pinyin": "Rúguǒ tā shì duì de huà, wǒmen xūyào gǎibiàn jìhuà.",
+        "en": "If he is right, we need to change the plan.",
+        "grammar_audio": "/audio/mandarin/grammar/s_如果的话_rúguǒ_de_huà_-_If_20231230_如果他是对的话我们需要改变计划.mp3"
+      }
+    ],
+    "p_tag": "HSK_2",
+    "s_tag": "50"
+  },
+  {
+    "title": "因为…所以… (yīnwèi… suǒyǐ…) - Because... so...",
+    "short_explanation": "Used to explain a cause-effect relationship.",
+    "long_explanation": "The Mandarin Chinese expression '因为…所以…' is a correlating conjunction used to express a cause-effect relationship. The clause after '因为' indicates the reason or cause and the clause after '所以' indicates the result or effect. It is equivalent to 'because... so...' in English.",
+    "formation": "因为 + Cause/Reason, 所以 + Result/Effect",
+    "examples": [
+      {
+        "cn": "因为他工作很忙，所以没有时间健身。",
+        "pinyin": "Yīnwèi tā gōngzuò hěn máng, suǒyǐ méiyǒu shíjiān jiànshēn.",
+        "en": "Because he is very busy at work, he doesn't have time to work out.",
+        "grammar_audio": "/audio/mandarin/grammar/s_因为所以_yīnwèi_suǒyǐ_-_Because_so_20231230_因为他工作很忙所以没有时间健身.mp3"
+      },
+      {
+        "cn": "因为我吃了太多糖果，所以我牙齿疼。",
+        "pinyin": "Yīnwèi wǒ chīle tài duō tángguǒ, suǒyǐ wǒ yáchǐ téng.",
+        "en": "Because I ate too many candies, my tooth hurts.",
+        "grammar_audio": "/audio/mandarin/grammar/s_因为所以_yīnwèi_suǒyǐ_-_Because_so_20231230_因为我吃了太多糖果所以我牙齿疼.mp3"
+      },
+      {
+        "cn": "因为今天下雨，所以我们的足球比赛被取消了。",
+        "pinyin": "Yīnwèi jīntiān xià yǔ, suǒyǐ wǒmen de zúqiú bǐsài bèi qǔxiāo le.",
+        "en": "Because it's raining today, our soccer match was cancelled.",
+        "grammar_audio": "/audio/mandarin/grammar/s_因为所以_yīnwèi_suǒyǐ_-_Because_so_20231230_因为今天下雨所以我们的足球比赛被取消了.mp3"
+      },
+      {
+        "cn": "因为我没带伞,所以我被淋湿了。",
+        "pinyin": "Yīnwèi wǒ méi dài sǎn, suǒyǐ wǒ bèi lín shī le.",
+        "en": "Because I didn't bring an umbrella, I got soaked.",
+        "grammar_audio": "/audio/mandarin/grammar/s_因为所以_yīnwèi_suǒyǐ_-_Because_so_20231230_因为我没带伞所以我被淋湿了.mp3"
+      }
+    ],
+    "p_tag": "HSK_2",
+    "s_tag": "50"
+  },
+  {
+    "title": "要是…就… (yàoshi… jiù…) - If... then...",
+    "short_explanation": "Used to express 'if... then...' statements.",
+    "long_explanation": "The Mandarin Chinese structure '要是…就… (yàoshi… jiù…)' is a common way to express 'if... then...' conditional statements. It sets a condition in the first part of the sentence, and the outcome following that condition in the second part. It's equivalent to 'if... then...' in English.",
+    "formation": "'要是' + Condition + '就' + Outcome",
+    "examples": [
+      {
+        "cn": "要是明天下雨，我就不去公园了。",
+        "pinyin": "Yàoshi míngtiān xiàyǔ, wǒ jiù bù qù gōngyuán le.",
+        "en": "If it rains tomorrow, I won't go to the park.",
+        "grammar_audio": "/audio/mandarin/grammar/s_要是就_yàoshi_jiù_-_If_then_20231230_要是明天下雨我就不去公园了.mp3"
+      },
+      {
+        "cn": "要是我有足够的钱，我就买那栋大房子。",
+        "pinyin": "Yàoshi wǒ yǒu zúgòu de qián, wǒ jiù mǎi nà dòng dà fángzi.",
+        "en": "If I have enough money, I will buy that big house.",
+        "grammar_audio": "/audio/mandarin/grammar/s_要是就_yàoshi_jiù_-_If_then_20231230_要是我有足够的钱我就买那栋大房子.mp3"
+      },
+      {
+        "cn": "要是你不快点,我们就会迟到了。",
+        "pinyin": "Yàoshi nǐ bù kuài diǎn, wǒmen jiù huì chídào le.",
+        "en": "If you don't hurry up, we will be late.",
+        "grammar_audio": "/audio/mandarin/grammar/s_要是就_yàoshi_jiù_-_If_then_20231230_要是你不快点我们就会迟到了.mp3"
+      },
+      {
+        "cn": "要是你有问题，就告诉我。",
+        "pinyin": "Yàoshi nǐ yǒu wèntí, jiù gàosù wǒ.",
+        "en": "If you have any questions, then tell me.",
+        "grammar_audio": "/audio/mandarin/grammar/s_要是就_yàoshi_jiù_-_If_then_20231230_要是你有问题就告诉我.mp3"
+      }
+    ],
+    "p_tag": "HSK_2",
+    "s_tag": "50"
+  },
+  {
+    "title": "突然 (tūrán) - Suddenly",
+    "short_explanation": "Used to express that something happened unexpectedly or suddenly.",
+    "long_explanation": "The Mandarin Chinese adverb '突然 (tūrán)' is used to convey a sense of suddenness or unexpectedness. It describes the quick or unanticipated occurrence of an event, action, or situation, similar to the English word 'suddenly'. This adverb is often placed before the verb in a sentence to indicate that the action happened suddenly.",
+    "formation": "Subject + 突然 + Verb/Adjective + Rest of the sentence",
+    "examples": [
+      {
+        "cn": "他们正在吃晚餐，突然电灯熄灭了。",
+        "pinyin": "Tāmen zhèngzài chī wǎncān, tūrán diàndēng xīmièle.",
+        "en": "They were having dinner, when suddenly the lights went out.",
+        "grammar_audio": "/audio/mandarin/grammar/s_突然_tūrán_-_Suddenly_20231230_他们正在吃晚餐突然电灯熄灭了.mp3"
+      },
+      {
+        "cn": "我正在种花，突然听到有人在叫我。",
+        "pinyin": "Wǒ zhèngzài zhòng huā, tūrán tīngdào yǒurén zài jiào wǒ.",
+        "en": "I was planting flowers, when suddenly I heard someone calling me.",
+        "grammar_audio": "/audio/mandarin/grammar/s_突然_tūrán_-_Suddenly_20231230_我正在种花突然听到有人在叫我.mp3"
+      },
+      {
+        "cn": "他正在开车，突然看见路边有一个小女孩。",
+        "pinyin": "Tā zhèngzài kāichē, tūrán kànjiàn lùbiān yǒu yīgè xiǎo nǚhái.",
+        "en": "He was driving, when suddenly he saw a little girl on the side of the road.",
+        "grammar_audio": "/audio/mandarin/grammar/s_突然_tūrán_-_Suddenly_20231230_他正在开车突然看见路边有一个小女孩.mp3"
+      },
+      {
+        "cn": "我正在听音乐，突然手机没电了。",
+        "pinyin": "Wǒ zhèngzài tīng yīnyuè, tūrán shǒujī méi diàn le.",
+        "en": "I was listening to music, when suddenly my phone ran out of battery.",
+        "grammar_audio": "/audio/mandarin/grammar/s_突然_tūrán_-_Suddenly_20231230_我正在听音乐突然手机没电了.mp3"
+      }
+    ],
+    "p_tag": "HSK_2",
+    "s_tag": "50"
+  },
+  {
+    "title": "又 (yòu) - Again (referring to a past action)",
+    "short_explanation": "Used to indicate repetition of a past action or situation.",
+    "long_explanation": "The Mandarin Chinese term '又 (yòu)' is utilized to denote that a certain action or circumstance has happened again. It refers specifically to actions or situations that have occurred before and are being repeated. It translates to 'again' in English, but specifically for past events.",
+    "formation": "Subject + 又 + Verb + Object",
+    "examples": [
+      {
+        "cn": "他又迟到了，这已经是他这个月的第三次了。",
+        "pinyin": "Tā yòu chídàole, zhè yǐjīng shì tā zhège yuè de dì sān cìle.",
+        "en": "He's late again, this is his third time this month.",
+        "grammar_audio": "/audio/mandarin/grammar/s_又_yòu_-_Again_referring_to_a_past_action_20231230_他又迟到了这已经是他这个月的第三次了.mp3"
+      },
+      {
+        "cn": "她昨天又为何不吃晚餐？因为她又忘记了。",
+        "pinyin": "Tā zuótiān yòu wèi hé bú chī wǎncān? Yīnwèi tā yòu wàngjì le.",
+        "en": "Why didn't she eat dinner again yesterday? Because she forgot again.",
+        "grammar_audio": "/audio/mandarin/grammar/s_又_yòu_-_Again_referring_to_a_past_action_20231230_她昨天又为何不吃晚餐因为她又忘记了.mp3"
+      },
+      {
+        "cn": "我又看了一遍那部电影，让我有了不同的感受。",
+        "pinyin": "Wǒ yòu kànle yī biàn nà bù diànyǐng, ràng wǒ yǒule bùtóng de gǎnshòu.",
+        "en": "I watched that movie again, and it gave me a different feeling.",
+        "grammar_audio": "/audio/mandarin/grammar/s_又_yòu_-_Again_referring_to_a_past_action_20231230_我又看了一遍那部电影让我有了不同的感受.mp3"
+      },
+      {
+        "cn": "因为这部小说太好看了，所以我又读了一遍。",
+        "pinyin": "Yīnwèi zhè bù xiǎoshuō tài hǎokànle, suǒyǐ wǒ yòu dúle yī biàn.",
+        "en": "Because this novel was so good, I read it again.",
+        "grammar_audio": "/audio/mandarin/grammar/s_又_yòu_-_Again_referring_to_a_past_action_20231230_因为这部小说太好看了所以我又读了一遍.mp3"
+      }
+    ],
+    "p_tag": "HSK_2",
+    "s_tag": "50"
+  },
+  {
+    "title": "总是 (zǒngshì) - Always",
+    "short_explanation": "Used to indicate a habitual action or a state that continues to exist.",
+    "long_explanation": "The Mandarin Chinese word '总是 (zǒngshì)' is used when you want to express that something always happens or is always the case. It refers to a habitual action or a state that continually exists. '总是' can equivalently be translated as 'always' in English. This term is extremely useful for discussing habits, routines, or consistent states of being.",
+    "formation": "Subject + 总是 + Predicate",
+    "examples": [
+      {
+        "cn": "他总是迟到，不论约定的时间有多早。",
+        "pinyin": "Tā zǒngshì chídào, bùlùn yuēdìng de shíjiān yǒu duō zǎo.",
+        "en": "He is always late, no matter how early the appointment time is.",
+        "grammar_audio": "/audio/mandarin/grammar/s_总是_zǒngshì_-_Always_20231230_他总是迟到不论约定的时间有多早.mp3"
+      },
+      {
+        "cn": "她总是微笑着，即使在面对困难的时候。",
+        "pinyin": "Tā zǒngshì wēixiàozhe, jíshǐ zài miànduì kùnnán de shíhòu.",
+        "en": "She is always smiling, even when facing difficulties.",
+        "grammar_audio": "/audio/mandarin/grammar/s_总是_zǒngshì_-_Always_20231230_她总是微笑着即使在面对困难的时候.mp3"
+      },
+      {
+        "cn": "我妈妈总是第一个起床，然后开始准备早餐。",
+        "pinyin": "Wǒ māmā zǒngshì dì yīgè qǐchuáng, ránhòu kāishǐ zhǔnbèi zǎocān.",
+        "en": "My mother is always the first one to get up and then begins preparing breakfast.",
+        "grammar_audio": "/audio/mandarin/grammar/s_总是_zǒngshì_-_Always_20231230_我妈妈总是第一个起床然后开始准备早餐.mp3"
+      },
+      {
+        "cn": "他总是工作到很晚，几乎没有时间休息。",
+        "pinyin": "Tā zǒngshì gōngzuò dào hěn wǎn, jīhū méiyǒu shíjiān xiūxí.",
+        "en": "He always works until very late and hardly has time to rest.",
+        "grammar_audio": "/audio/mandarin/grammar/s_总是_zǒngshì_-_Always_20231230_他总是工作到很晚几乎没有时间休息.mp3"
+      }
+    ],
+    "p_tag": "HSK_2",
+    "s_tag": "50"
+  },
+  {
+    "title": "曾经 (céngjīng) - Once, in the past",
+    "short_explanation": "Used to describe something that has happened before or was true in the past.",
+    "long_explanation": "The Mandarin Chinese adverb '曾经 (céngjīng)' is used to express that something has happened in the past or was once true. It is similar to how we use 'once' in English when referencing something that was previously true or occurred. However, it is important to note that 曾经 does not directly refer to a specific time, merely signifying that the event took place at some point in the past.",
+    "formation": "Subject + 曾经 + Verb/Adjective + Rest of the sentence",
+    "examples": [
+      {
+        "cn": "我曾经在中国生活过一年。",
+        "pinyin": "Wǒ céngjīng zài Zhōngguó shēnghuó guò yī nián.",
+        "en": "I once lived in China for a year.",
+        "grammar_audio": "/audio/mandarin/grammar/s_曾经_céngjīng_-_Once_in_the_past_20231230_我曾经在中国生活过一年.mp3"
+      },
+      {
+        "cn": "他曾经是我们学校的校长。",
+        "pinyin": "Tā céngjīng shì wǒmen xuéxiào de xiàozhǎng.",
+        "en": "He was once our school's principal.",
+        "grammar_audio": "/audio/mandarin/grammar/s_曾经_céngjīng_-_Once_in_the_past_20231230_他曾经是我们学校的校长.mp3"
+      },
+      {
+        "cn": "你曾经去过长城吗？",
+        "pinyin": "Nǐ céngjīng qù guò Chángchéng ma?",
+        "en": "Have you ever been to the Great Wall?",
+        "grammar_audio": "/audio/mandarin/grammar/s_曾经_céngjīng_-_Once_in_the_past_20231230_你曾经去过长城吗.mp3"
+      },
+      {
+        "cn": "我们曾经每个周末都去公园玩。",
+        "pinyin": "Wǒmen céngjīng měi gè zhōumò dōu qù gōngyuán wán.",
+        "en": "We used to go to the park every weekend.",
+        "grammar_audio": "/audio/mandarin/grammar/s_曾经_céngjīng_-_Once_in_the_past_20231230_我们曾经每个周末都去公园玩.mp3"
+      }
+    ],
+    "p_tag": "HSK_2",
+    "s_tag": "50"
+  },
+  {
+    "title": "开始 (kāishǐ) - Start, begin",
+    "short_explanation": "Used to indicate the beginning or initiation of an action or activity.",
+    "long_explanation": "The Mandarin Chinese word '开始 (kāishǐ)' is used to denote the start, initiation or commencement of a certain event, activity or action. It can be used with a variety of nouns, verbs or phrases to show that something is starting. It works in similar way as the English words 'start' or 'begin'.",
+    "formation": "Subject + 开始 + Verb/Object",
+    "examples": [
+      {
+        "cn": "我从現在开始让你负责这个项目。",
+        "pinyin": "Wǒ cóng xiànzài kāishǐ ràng nǐ fùzé zhège xiàngmù.",
+        "en": "I'm letting you take charge of this project starting from now.",
+        "grammar_audio": "/audio/mandarin/grammar/s_开始_kāishǐ_-_Start_begin_20231230_我从現在开始让你负责这个项目.mp3"
+      },
+      {
+        "cn": "他开始学习打篮球是在高中的时候。",
+        "pinyin": "Tā kāishǐ xuéxí dǎ lánqiú shì zài gāozhōng de shíhòu.",
+        "en": "He started learning to play basketball when he was in high school.",
+        "grammar_audio": "/audio/mandarin/grammar/s_开始_kāishǐ_-_Start_begin_20231230_他开始学习打篮球是在高中的时候.mp3"
+      },
+      {
+        "cn": "当音乐开始的时候，大家都安静下来了。",
+        "pinyin": "Dāng yīnyuè kāishǐ de shíhòu, dàjiā dōu ānjìng xiàlái le.",
+        "en": "When the music started, everyone became quiet.",
+        "grammar_audio": "/audio/mandarin/grammar/s_开始_kāishǐ_-_Start_begin_20231230_当音乐开始的时候大家都安静下来了.mp3"
+      },
+      {
+        "cn": "她一进公司就开始处理工作邮件。",
+        "pinyin": "Tā yī jìn gōngsī jiù kāishǐ chǔlǐ gōngzuò yóujiàn.",
+        "en": "As soon as she gets into the office, she starts dealing with work emails.",
+        "grammar_audio": "/audio/mandarin/grammar/s_开始_kāishǐ_-_Start_begin_20231230_她一进公司就开始处理工作邮件.mp3"
+      }
+    ],
+    "p_tag": "HSK_2",
+    "s_tag": "50"
+  },
+  {
+    "title": "虽然 (suīrán) - Although",
+    "short_explanation": "Used to express concession or to acknowledge a fact or reality that is different from one's expectation.",
+    "long_explanation": "The Mandarin Chinese word '虽然 (suīrán)' is used to indicate a concession or to present a fact or reality that contradicts one's expectation, much like 'although' in English. Typically, it is used to introduce a situation or condition which leads to a surprising or unexpected outcome or decision.",
+    "formation": "虽然 + Statement 1 (contradiction), 但是/可是 + Statement 2 (outcome).",
+    "examples": [
+      {
+        "cn": "虽然今天下雨，但是我们还是决定去公园玩。",
+        "pinyin": "Suīrán jīntiān xiàyǔ, dànshì wǒmen háishì juédìng qù gōngyuán wán.",
+        "en": "Although it's raining today, we still decided to go to the park to play.",
+        "grammar_audio": "/audio/mandarin/grammar/s_虽然_suīrán_-_Although_20231230_虽然今天下雨但是我们还是决定去公园玩.mp3"
+      },
+      {
+        "cn": "虽然她很聪明，可是她不喜欢读书。",
+        "pinyin": "Suīrán tā hěn cōngmíng, kěshì tā bù xǐhuān dúshū.",
+        "en": "Although she is very smart, she doesn't like reading.",
+        "grammar_audio": "/audio/mandarin/grammar/s_虽然_suīrán_-_Although_20231230_虽然她很聪明可是她不喜欢读书.mp3"
+      },
+      {
+        "cn": "虽然他工作很辛苦，但是他很喜欢他的工作。",
+        "pinyin": "Suīrán tā gōngzuò hěn xīnkǔ, dànshì tā hěn xǐhuān tā de gōngzuò.",
+        "en": "Although his work is very tough, he really likes his job.",
+        "grammar_audio": "/audio/mandarin/grammar/s_虽然_suīrán_-_Although_20231230_虽然他工作很辛苦但是他很喜欢他的工作.mp3"
+      },
+      {
+        "cn": "虽然这道菜看起来不怎么样，但是味道非常好。",
+        "pinyin": "Suīrán zhè dào cài kàn qǐlai bù zěnmeyàng, dànshì wèidào fēicháng hǎo.",
+        "en": "Although this dish doesn't look that great, it tastes really good.",
+        "grammar_audio": "/audio/mandarin/grammar/s_虽然_suīrán_-_Although_20231230_虽然这道菜看起来不怎么样但是味道非常好.mp3"
+      }
+    ],
+    "p_tag": "HSK_2",
+    "s_tag": "50"
+  },
+  {
+    "title": "要么…要么… (yàome... yàome...) - Either... or...",
+    "short_explanation": "Used to present two or more alternative choices or conditions.",
+    "long_explanation": "The Mandarin Chinese phrase '要么...要么...' is used to present two or more choices or scenarios. It effectively translates to 'either... or...' in English. This structure is used to express mutual exclusivity, meaning only one of the conditions or scenarios presented can be true or can happen.",
+    "formation": "要么 + Option A + , + 要么 + Option B",
+    "examples": [
+      {
+        "cn": "要么我做饭，要么你洗碗。",
+        "pinyin": "Yàome wǒ zuò fàn, yàome nǐ xǐ wǎn.",
+        "en": "Either I cook, or you wash dishes.",
+        "grammar_audio": "/audio/mandarin/grammar/s_要么要么_yàome_yàome_-_Either_or_20231230_要么我做饭要么你洗碗.mp3"
+      },
+      {
+        "cn": "周末我们要么去看电影，要么去公园散步。",
+        "pinyin": "Zhōumò wǒmen yàome qù kàn diànyǐng, yàome qù gōngyuán sànbù.",
+        "en": "Either we go to see a movie this weekend, or we go to the park for a walk.",
+        "grammar_audio": "/audio/mandarin/grammar/s_要么要么_yàome_yàome_-_Either_or_20231230_周末我们要么去看电影要么去公园散步.mp3"
+      },
+      {
+        "cn": "你要么现在就开始学习，要么就失败。",
+        "pinyin": "Nǐ yàome xiànzài jiù kāishǐ xuéxí, yàome jiù shībài.",
+        "en": "Either you start studying now, or you fail.",
+        "grammar_audio": "/audio/mandarin/grammar/s_要么要么_yàome_yàome_-_Either_or_20231230_你要么现在就开始学习要么就失败.mp3"
+      },
+      {
+        "cn": "毕业后，她要么找工作，要么继续深造。",
+        "pinyin": "Bìyè hòu, tā yàome zhǎo gōngzuò, yàome jìxù shēnzào.",
+        "en": "After graduation, she will either find a job, or continue her studies.",
+        "grammar_audio": "/audio/mandarin/grammar/s_要么要么_yàome_yàome_-_Either_or_20231230_毕业后她要么找工作要么继续深造.mp3"
+      }
+    ],
+    "p_tag": "HSK_2",
+    "s_tag": "50"
+  },
+  {
+    "title": "还没 (hái méi) - Still not/haven't yet",
+    "short_explanation": "Used to indicate an action or situation that has not yet occurred or been completed.",
+    "long_explanation": "The Mandarin Chinese phrase '还没 (hái méi)' is used to express that something still hasn't occurred or a certain action hasn't been completed yet. It is generally used when the speaker is expecting the situation to change or the action to be completed in the future.",
+    "formation": "Subject + 还没 + Verb + Object",
+    "examples": [
+      {
+        "cn": "他还没完成他的作业，所以不能出去玩。",
+        "pinyin": "Tā hái méi wánchéng tā de zuòyè, suǒyǐ bùnéng chūqù wán.",
+        "en": "He still hasn't finished his homework, so he can't go out to play.",
+        "grammar_audio": "/audio/mandarin/grammar/s_还没_hái_méi_-_Still_not/havent_yet_20231230_他还没完成他的作业所以不能出去玩.mp3"
+      },
+      {
+        "cn": "我们还没到达目的地，所以请大家耐心等待。",
+        "pinyin": "Wǒmen hái méi dàodá mùdì dì, suǒyǐ qǐng dàjiā nàixīn děngdài.",
+        "en": "We still haven't reached our destination, so please everyone wait patiently.",
+        "grammar_audio": "/audio/mandarin/grammar/s_还没_hái_méi_-_Still_not/havent_yet_20231230_我们还没到达目的地所以请大家耐心等待.mp3"
+      },
+      {
+        "cn": "我还没看完这部电影，不要剧透啊！",
+        "pinyin": "Wǒ hái méi kàn wán zhè bù diànyǐng, bùyào jùtòu a!",
+        "en": "I still haven't finished watching this movie, don't spoil it!",
+        "grammar_audio": "/audio/mandarin/grammar/s_还没_hái_méi_-_Still_not/havent_yet_20231230_我还没看完这部电影不要剧透啊！.mp3"
+      },
+      {
+        "cn": "你还没吃午饭吗？那我们一起去吧。",
+        "pinyin": "Nǐ hái méi chī wǔfàn ma? Nà wǒmen yīqǐ qù ba.",
+        "en": "You still haven't eaten lunch? Then let's go together.",
+        "grammar_audio": "/audio/mandarin/grammar/s_还没_hái_méi_-_Still_not/havent_yet_20231230_你还没吃午饭吗那我们一起去吧.mp3"
+      }
+    ],
+    "p_tag": "HSK_2",
+    "s_tag": "50"
+  },
+  {
+    "title": "有点儿 (yǒudiǎnr) - A little/bit",
+    "short_explanation": "Used to express a small degree or amount of something.",
+    "long_explanation": "'有点儿 (yǒudiǎnr)' is a commonly used phrase in Mandarin Chinese to refer to a small degree or amount of something. It is similar to saying 'a bit' or 'a little' in English. It can be used to modify both nouns and verbs in a sentence and is typically used to soften the tone of the statement or request.",
+    "formation": "Subject + Verb/Adjective + 有点儿 + Noun.",
+    "examples": [
+      {
+        "cn": "我有点儿饿，我们可以去吃点儿东西吗？",
+        "pinyin": "Wǒ yǒudiǎnr è, wǒmen kěyǐ qù chī diǎnr dōngxī ma?",
+        "en": "I'm a bit hungry, can we go eat something?",
+        "grammar_audio": "/audio/mandarin/grammar/s_有点儿_yǒudiǎnr_-_A_little/bit_20231230_我有点儿饿我们可以去吃点儿东西吗.mp3"
+      },
+      {
+        "cn": "我妈妈做的那个饭菜有点儿辣。",
+        "pinyin": "Wǒ māmā zuò de nàgè fàncài yǒudiǎnr là.",
+        "en": "The dish that my mom made is a bit spicy.",
+        "grammar_audio": "/audio/mandarin/grammar/s_有点儿_yǒudiǎnr_-_A_little/bit_20231230_我妈妈做的那个饭菜有点儿辣.mp3"
+      },
+      {
+        "cn": "他看起来有点儿累，可能是工作太努力了。",
+        "pinyin": "Tā kàn qǐlái yǒudiǎnr lèi, kěnéng shì gōngzuò tài nǔlì le.",
+        "en": "He looks a bit tired, probably because he worked too hard.",
+        "grammar_audio": "/audio/mandarin/grammar/s_有点儿_yǒudiǎnr_-_A_little/bit_20231230_他看起来有点儿累可能是工作太努力了.mp3"
+      },
+      {
+        "cn": "这件衣服有点儿大，我需要一个小号的。",
+        "pinyin": "Zhè jiàn yīfú yǒudiǎnr dà, wǒ xūyào yīgè xiǎo hào de.",
+        "en": "This piece of clothing is a bit too large, I need a smaller size.",
+        "grammar_audio": "/audio/mandarin/grammar/s_有点儿_yǒudiǎnr_-_A_little/bit_20231230_这件衣服有点儿大我需要一个小号的.mp3"
+      }
+    ],
+    "p_tag": "HSK_2",
+    "s_tag": "50"
+  },
+  {
+    "title": "别 (bié) - Don't (imperative negative command)",
+    "short_explanation": "Used to give negative commands or to tell someone not to do something.",
+    "long_explanation": "The Mandarin Chinese word '别 (bié)' is an imperative negative command used to instruct or advise someone not to carry out a specific action. It's commonly used in both casual and formal conversations and it's placed before any action verb, almost equivalent to 'do not' or 'don't' in English.",
+    "formation": "别 + Verb + Object",
+    "examples": [
+      {
+        "cn": "别忘了带你的钥匙，我不想你晚上被锁在门外。",
+        "pinyin": "Bié wàngle dài nǐ de yàoshi, wǒ bùxiǎng nǐ wǎnshang bèi suǒ zài mén wài.",
+        "en": "Don't forget to take your keys, I don't want you to be locked out at night.",
+        "grammar_audio": "/audio/mandarin/grammar/s_别_bié_-_Dont_imperative_negative_command_20231230_别忘了带你的钥匙我不想你晚上被锁在门外.mp3"
+      },
+      {
+        "cn": "别吃那么多糖，对你的健康不好。",
+        "pinyin": "Bié chī nàme duō táng, duì nǐ de jiànkāng bù hǎo.",
+        "en": "Don't eat so much sugar, it's not good for your health.",
+        "grammar_audio": "/audio/mandarin/grammar/s_别_bié_-_Dont_imperative_negative_command_20231230_别吃那么多糖对你的健康不好.mp3"
+      },
+      {
+        "cn": "别跑得那么快，我追不上你。",
+        "pinyin": "Bié pǎo de nàme kuài, wǒ zhuī bù shàng nǐ.",
+        "en": "Don't run so fast, I can't catch up with you.",
+        "grammar_audio": "/audio/mandarin/grammar/s_别_bié_-_Dont_imperative_negative_command_20231230_别跑得那么快我追不上你.mp3"
+      },
+      {
+        "cn": "别打扰他，他正在忙着做他的作业。",
+        "pinyin": "Bié dǎrǎo tā, tā zhèngzài mángzhe zuò tā de zuòyè.",
+        "en": "Don't disturb him, he is busy doing his homework.",
+        "grammar_audio": "/audio/mandarin/grammar/s_别_bié_-_Dont_imperative_negative_command_20231230_别打扰他他正在忙着做他的作业.mp3"
+      }
+    ],
+    "p_tag": "HSK_2",
+    "s_tag": "50"
+  },
+  {
+    "title": "先...然后 (xiān... ránhòu) - First...then...",
+    "short_explanation": "Used to express the chronological order of events.",
+    "long_explanation": "The Mandarin Chinese phrase '先...然后 (xiān... ránhòu)' is used to describe the logical sequence of actions or situations. First, the action that occurs earliest is introduced with '先', and then the subsequent action is introduced with '然后'. It is equivalent to saying 'first...then' in English.",
+    "formation": "先 + First Action + 然后 + Next Action",
+    "examples": [
+      {
+        "cn": "我们先去超市买东西，然后回家做饭。",
+        "pinyin": "Wǒmen xiān qù chāoshì mǎi dōngxī, ránhòu huí jiā zuò fàn.",
+        "en": "We will first go to the supermarket to buy groceries, then return home to cook.",
+        "grammar_audio": "/audio/mandarin/grammar/s_先然后_xiān_ránhòu_-_Firstthen_20231230_我们先去超市买东西然后回家做饭.mp3"
+      },
+      {
+        "cn": "我先完成家庭作业，然后我可以看电视。",
+        "pinyin": "Wǒ xiān wánchéng jiātíng zuòyè, ránhòu wǒ kěyǐ kàn diànshì.",
+        "en": "I will first finish my homework, then I can watch TV.",
+        "grammar_audio": "/audio/mandarin/grammar/s_先然后_xiān_ránhòu_-_Firstthen_20231230_我先完成家庭作业然后我可以看电视.mp3"
+      },
+      {
+        "cn": "小明先吃早饭，然后去学校。",
+        "pinyin": "Xiǎomíng xiān chī zǎofàn, ránhòu qù xuéxiào.",
+        "en": "Xiaoming first eats breakfast, then goes to school.",
+        "grammar_audio": "/audio/mandarin/grammar/s_先然后_xiān_ránhòu_-_Firstthen_20231230_小明先吃早饭然后去学校.mp3"
+      },
+      {
+        "cn": "他先洗澡，然后睡觉。",
+        "pinyin": "Tā xiān xǐzǎo, ránhòu shuìjiào.",
+        "en": "He first takes a bath, then goes to sleep.",
+        "grammar_audio": "/audio/mandarin/grammar/s_先然后_xiān_ránhòu_-_Firstthen_20231230_他先洗澡然后睡觉.mp3"
+      }
+    ],
+    "p_tag": "HSK_2",
+    "s_tag": "50"
+  },
+  {
+    "title": "只 (zhǐ) - Only (limiting quantity)",
+    "short_explanation": "Used to limit the quantity or degree of something.",
+    "long_explanation": "The Mandarin Chinese word '只 (zhǐ)' is used to express limitation in quantity or degree. In English, it is equivalent to 'only'. '只' has the function to limit and is generally placed before the verb or the numeral-measure word phrase, to stress the quantity or degree of something.",
+    "formation": "Subject + 只 + Verb/ Numeral-Measure word phrase",
+    "examples": [
+      {
+        "cn": "我只喝了一杯咖啡。",
+        "pinyin": "Wǒ zhǐ hē le yī bēi kāfēi.",
+        "en": "I only drank one cup of coffee.",
+        "grammar_audio": "/audio/mandarin/grammar/s_只_zhǐ_-_Only_limiting_quantity_20231230_我只喝了一杯咖啡.mp3"
+      },
+      {
+        "cn": "他只有十岁，但是他的中文说得很好。",
+        "pinyin": "Tā zhǐyǒu shí suì, dànshì tā de Zhōngwén shuō de hěn hǎo.",
+        "en": "He is only ten years old, but he speaks Chinese very well.",
+        "grammar_audio": "/audio/mandarin/grammar/s_只_zhǐ_-_Only_limiting_quantity_20231230_他只有十岁但是他的中文说得很好.mp3"
+      },
+      {
+        "cn": "在这个城市，我只住了两个月。",
+        "pinyin": "Zài zhè gè chéngshì, wǒ zhǐ zhù le liǎng gè yuè.",
+        "en": "In this city, I only lived for two months.",
+        "grammar_audio": "/audio/mandarin/grammar/s_只_zhǐ_-_Only_limiting_quantity_20231230_在这个城市我只住了两个月.mp3"
+      },
+      {
+        "cn": "他们只需要二十分钟就能来到这里。",
+        "pinyin": "Tāmen zhǐ xūyào èrshí fēnzhōng jiù néng láidào zhèlǐ.",
+        "en": "They only need twenty minutes to get here.",
+        "grammar_audio": "/audio/mandarin/grammar/s_只_zhǐ_-_Only_limiting_quantity_20231230_他们只需要二十分钟就能来到这里.mp3"
+      }
+    ],
+    "p_tag": "HSK_2",
+    "s_tag": "50"
+  },
+  {
+    "title": "比如说 (bǐrú shuō) - For instance, such as",
+    "short_explanation": "Used to give an example or examples related to the previous statement or discussion.",
+    "long_explanation": "The Mandarin Chinese term '比如说 (bǐrú shuō)' is used to give an example or a series of examples. It is used to illustrate a point or situation and can be translated as 'for instance', 'such as', 'like', etc. This specific term alongside with an example strengthens the main idea by providing a concrete reference.",
+    "formation": "Main sentence/fact + 比如说 + Example",
+    "examples": [
+      {
+        "cn": "我喜欢各种水果，比如说苹果，香蕉和葡萄。",
+        "pinyin": "Wǒ xǐhuān gè zhǒng shuǐguǒ, bǐrú shuō píngguǒ, xiāngjiāo hé pútáo.",
+        "en": "I like various fruits, for instance, apples, bananas and grapes.",
+        "grammar_audio": "/audio/mandarin/grammar/s_比如说_bǐrú_shuō_-_For_instance_such_as_20231230_我喜欢各种水果比如说苹果香蕉和葡萄.mp3"
+      },
+      {
+        "cn": "他会演奏很多种乐器，比如说吉他，钢琴和小号。",
+        "pinyin": "Tā huì yǎnzòu hěnduō zhǒng lèqì, bǐrú shuō jítā, gāngqín hé xiǎohào.",
+        "en": "He can play many kinds of musical instruments, such as the guitar, piano and trumpet.",
+        "grammar_audio": "/audio/mandarin/grammar/s_比如说_bǐrú_shuō_-_For_instance_such_as_20231230_他会演奏很多种乐器比如说吉他钢琴和小号.mp3"
+      },
+      {
+        "cn": "在我们的城市有很多好玩的地方，比如说公园，博物馆和旧城区。",
+        "pinyin": "Zài wǒmen de chéngshì yǒu hěnduō hǎowán de dìfāng, bǐrú shuō gōngyuán, bówùguǎn hé jiù chéngqū.",
+        "en": "There are many fun places in our city, for instance, parks, museums, and the old city area.",
+        "grammar_audio": "/audio/mandarin/grammar/s_比如说_bǐrú_shuō_-_For_instance_such_as_20231230_在我们的城市有很多好玩的地方比如说公园博物馆和旧城区.mp3"
+      },
+      {
+        "cn": "学习外语有很多好处，比如说可以增加就业机会，认识新朋友，了解不同的文化。",
+        "pinyin": "Xuéxí wàiyǔ yǒu hěnduō hǎochù, bǐrú shuō kěyǐ zēngjiā jiùyè jīhuì, rènshì xīn péngyǒu, liǎojiě bùtóng de wénhuà.",
+        "en": "Learning foreign languages has many benefits, such as increasing job opportunities, making new friends, understanding different cultures.",
+        "grammar_audio": "/audio/mandarin/grammar/s_比如说_bǐrú_shuō_-_For_instance_such_as_20231230_学习外语有很多好处比如说可以增加就业机会认识新朋友了解不同的文化.mp3"
+      }
+    ],
+    "p_tag": "HSK_2",
+    "s_tag": "50"
+  },
+  {
+    "title": "还是 (háishi) - Had better, it's better to",
+    "short_explanation": "Used to suggest preference or necessity of one action over others.",
+    "long_explanation": "The Mandarin Chinese term '还是 (háishi)' is used to express a preference or the necessity of a certain action or condition over others. It roughly translates to 'had better' or 'it is better to' in English. This term is used in polite suggestions or advice, often signifying a better or more suitable choice given a certain context or scenario.",
+    "formation": "Subject + 还是 + Verb/Adjective + Rest of the sentence?",
+    "examples": [
+      {
+        "cn": "你还是早点休息，明天你有很多事情要做。",
+        "pinyin": "Nǐ háishì zǎodiǎn xiūxí, míngtiān nǐ yǒu hěnduō shìqíng yào zuò.",
+        "en": "You had better rest early, you have a lot to do tomorrow.",
+        "grammar_audio": "/audio/mandarin/grammar/s_还是_háishi_-_Had_better_its_better_to_20231230_你还是早点休息明天你有很多事情要做.mp3"
+      },
+      {
+        "cn": "我们还是走吧，已经很晚了。",
+        "pinyin": "Wǒmen háishì zǒu ba, yǐjīng hěn wǎn le.",
+        "en": "We better go, it's already very late.",
+        "grammar_audio": "/audio/mandarin/grammar/s_还是_háishi_-_Had_better_its_better_to_20231230_我们还是走吧已经很晚了.mp3"
+      },
+      {
+        "cn": "虽然这个手机比较贵，但是你还是买它，因为它的功能非常强大。",
+        "pinyin": "Suīrán zhège shǒujī bǐjiào guì, dànshì nǐ háishì mǎi tā, yīnwèi tā de gōngnéng fēicháng qiángdà.",
+        "en": "Even though this phone is quite expensive, you had better buy it because its functions are very powerful.",
+        "grammar_audio": "/audio/mandarin/grammar/s_还是_háishi_-_Had_better_its_better_to_20231230_虽然这个手机比较贵但是你还是买它因为它的功能非常强大.mp3"
+      },
+      {
+        "cn": "你还是多喝水，对身体好。",
+        "pinyin": "Nǐ háishì duō hē shuǐ, duì shēntǐ hǎo.",
+        "en": "You had better drink more water, it's good for your health.",
+        "grammar_audio": "/audio/mandarin/grammar/s_还是_háishi_-_Had_better_its_better_to_20231230_你还是多喝水对身体好.mp3"
+      }
+    ],
+    "p_tag": "HSK_2",
+    "s_tag": "50"
+  },
+  {
+    "title": "等 (děng) - Wait; and so on, etc",
+    "short_explanation": "Used to show the continuation of an action or situation, or to imply that there is more to the list.",
+    "long_explanation": "The Mandarin Chinese word '等 (děng)' is primarily used in two ways. Firstly as a verb meaning 'to wait'. Secondly, it is used to imply that there is more to the list or situation being discussed, without having to explicitly list everything. It is equivalent to 'and so on' or 'etc.' in English. This usage is often seen in lists of items or to explain an ongoing action or situation.",
+    "formation": "Phrase 1 + 等 + (Phrase 2)",
+    "examples": [
+      {
+        "cn": "我买了苹果、橙子、香蕉等食物。",
+        "pinyin": "Wǒ mǎi le píngguǒ, chéngzi, xiāngjiāo děng shíwù.",
+        "en": "I bought apples, oranges, bananas, and so on.",
+        "grammar_audio": "/audio/mandarin/grammar/s_等_děng_-_Wait_and_so_on_etc_20231230_我买了苹果橙子香蕉等食物.mp3"
+      },
+      {
+        "cn": "李华、张红、王星等人都来到了派对。",
+        "pinyin": "Lǐ Huá, Zhāng Hóng, Wáng Xīng děng rén dōu lái dào le pàiduì.",
+        "en": "Li Hua, Zhang Hong, Wang Xing and others all came to the party.",
+        "grammar_audio": "/audio/mandarin/grammar/s_等_děng_-_Wait_and_so_on_etc_20231230_李华张红王星等人都来到了派对.mp3"
+      },
+      {
+        "cn": "看电视、读书、听音乐等是我在周末喜欢做的事情。",
+        "pinyin": "Kàn diànshì, dúshū, tīng yīnyuè děng shì wǒ zài zhōumò xǐhuān zuò de shìqing.",
+        "en": "Watching TV, reading books, listening to music, and so on are things I like to do at the weekend.",
+        "grammar_audio": "/audio/mandarin/grammar/s_等_děng_-_Wait_and_so_on_etc_20231230_看电视读书听音乐等是我在周末喜欢做的事情.mp3"
+      },
+      {
+        "cn": "请等一下，我马上就好。",
+        "pinyin": "Qǐng děng yīxià, wǒ mǎshàng jiù hǎo.",
+        "en": "Please wait a moment, I will be ready soon.",
+        "grammar_audio": "/audio/mandarin/grammar/s_等_děng_-_Wait_and_so_on_etc_20231230_请等一下我马上就好.mp3"
+      }
+    ],
+    "p_tag": "HSK_2",
+    "s_tag": "50"
+  },
+  {
+    "title": "着 (zhe) - Particle indicating an ongoing action",
+    "short_explanation": "Used to show an ongoing action or status.",
+    "long_explanation": "The Mandarin Chinese particle '着 (zhe)' is used to express an ongoing action or a specific state or condition that continues into the present. It's often placed right after the verb to convey that the action mentioned is in progress. It's somewhat similar to the '-ing' form in English.",
+    "formation": "Verb + 着 (Zhe) + Rest of the sentence",
+    "examples": [
+      {
+        "cn": "我正在厨房里做着晚餐，可以请你帮我看一下烤箱吗？",
+        "pinyin": "Wǒ zhèngzài chúfáng lǐ zuò zhe wǎncān, kěyǐ qǐng nǐ bāng wǒ kàn yīxià kǎoxiāng ma?",
+        "en": "I'm in the kitchen making dinner, can you help me check the oven?",
+        "grammar_audio": "/audio/mandarin/grammar/s_着_zhe_-_Particle_indicating_an_ongoing_action_20231230_我正在厨房里做着晚餐可以请你帮我看一下烤箱吗.mp3"
+      },
+      {
+        "cn": "我妈妈坐在沙发上看着电视。",
+        "pinyin": "Wǒ māma zuò zài shāfā shàng kàn zhe diànshì.",
+        "en": "My mom is sitting on the sofa watching TV.",
+        "grammar_audio": "/audio/mandarin/grammar/s_着_zhe_-_Particle_indicating_an_ongoing_action_20231230_我妈妈坐在沙发上看着电视.mp3"
+      },
+      {
+        "cn": "我瞥到他站在窗户边，望着窗外的风景。",
+        "pinyin": "Wǒ piē dào tā zhàn zài chuānghù biān, wàng zhe chuāngwài de fēngjǐng.",
+        "en": "I caught a glimpse of him standing by the window, looking out at the scenery.",
+        "grammar_audio": "/audio/mandarin/grammar/s_着_zhe_-_Particle_indicating_an_ongoing_action_20231230_我瞥到他站在窗户边望着窗外的风景.mp3"
+      },
+      {
+        "cn": "他拿着手机，一边走一边看。",
+        "pinyin": "Tā ná zhe shǒujī, yībiān zǒu yībiān kàn.",
+        "en": "He is holding his phone, looking at it while walking.",
+        "grammar_audio": "/audio/mandarin/grammar/s_着_zhe_-_Particle_indicating_an_ongoing_action_20231230_他拿着手机一边走一边看.mp3"
+      }
+    ],
+    "p_tag": "HSK_2",
+    "s_tag": "50"
+  },
+  {
+    "title": "的时候 (de shíhòu) - When (referring to a specific time)",
+    "short_explanation": "Used to indicate a specific time when something occurs.",
+    "long_explanation": "The Chinese phrase '的时候 (de shíhòu)' is used to refer to a specific time when a particular event or situation occurs. It's equivalent to the usage of 'when' in English, especially in sentences pertaining to past, present or future actions. It basically frames one event within the context of another event.",
+    "formation": "Event A + 的时候，+ Event B",
+    "examples": [
+      {
+        "cn": "我吃饭的时候，喜欢看电视。",
+        "pinyin": "Wǒ chīfàn de shíhòu, xǐhuān kàn diànshì.",
+        "en": "When I eat, I like to watch TV.",
+        "grammar_audio": "/audio/mandarin/grammar/s_的时候_de_shíhòu_-_When_referring_to_a_specific_time_20231230_我吃饭的时候喜欢看电视.mp3"
+      },
+      {
+        "cn": "我还是小孩子的时候，喜欢爬树。",
+        "pinyin": "Wǒ háishì xiǎoháizi de shíhòu, xǐhuān pá shù.",
+        "en": "When I was a child, I liked to climb trees.",
+        "grammar_audio": "/audio/mandarin/grammar/s_的时候_de_shíhòu_-_When_referring_to_a_specific_time_20231230_我还是小孩子的时候喜欢爬树.mp3"
+      },
+      {
+        "cn": "你回家的时候，记得买些水果。",
+        "pinyin": "Nǐ huíjiā de shíhòu, jìdé mǎi xiē shuǐguǒ.",
+        "en": "When you go home, remember to buy some fruit.",
+        "grammar_audio": "/audio/mandarin/grammar/s_的时候_de_shíhòu_-_When_referring_to_a_specific_time_20231230_你回家的时候记得买些水果.mp3"
+      },
+      {
+        "cn": "我们去年去上海旅行的时候，遇到了大雪。",
+        "pinyin": "Wǒmen qùnián qù Shànghǎi lǚxíng de shíhòu, yù dào le dàxuě.",
+        "en": "When we traveled to Shanghai last year, we encountered heavy snow.",
+        "grammar_audio": "/audio/mandarin/grammar/s_的时候_de_shíhòu_-_When_referring_to_a_specific_time_20231230_我们去年去上海旅行的时候遇到了大雪.mp3"
+      }
+    ],
+    "p_tag": "HSK_2",
+    "s_tag": "50"
+  },
+  {
+    "title": "一边...一边... (yìbiān... yìbiān...) - Do two things at the same time",
+    "short_explanation": "Used to indicate doing two things simultaneously.",
+    "long_explanation": "The Mandarin Chinese phrase '一边...一边...' is used to express that two actions are happening at the same time. It is often used when the subject is doing two actions concurrently, showing a sense of multi-tasking. In English, this could be translated as 'while doing something, also doing something else.'",
+    "formation": "Subject + 一边 + Verb 1 + 一边 + Verb 2",
+    "examples": [
+      {
+        "cn": "我一边做家务，一边听音乐。",
+        "pinyin": "Wǒ yìbiān zuò jiāwù, yìbiān tīng yīnyuè.",
+        "en": "I do housework while listening to music.",
+        "grammar_audio": "/audio/mandarin/grammar/s_一边一边_yìbiān_yìbiān_-_Do_two_things_at_the_same_time_20231230_我一边做家务一边听音乐.mp3"
+      },
+      {
+        "cn": "他一边吃饭，一边看电视。",
+        "pinyin": "Tā yìbiān chī fàn, yìbiān kàn diànshì.",
+        "en": "He eats while watching TV.",
+        "grammar_audio": "/audio/mandarin/grammar/s_一边一边_yìbiān_yìbiān_-_Do_two_things_at_the_same_time_20231230_他一边吃饭一边看电视.mp3"
+      },
+      {
+        "cn": "她一边跑步，一边听有声书。",
+        "pinyin": "Tā yìbiān pǎobù, yìbiān tīng yǒushēng shū.",
+        "en": "She runs while listening to audiobooks.",
+        "grammar_audio": "/audio/mandarin/grammar/s_一边一边_yìbiān_yìbiān_-_Do_two_things_at_the_same_time_20231230_她一边跑步一边听有声书.mp3"
+      },
+      {
+        "cn": "我们一边学习，一边喝茶。",
+        "pinyin": "Wǒmen yìbiān xuéxí, yìbiān hē chá.",
+        "en": "We study while drinking tea.",
+        "grammar_audio": "/audio/mandarin/grammar/s_一边一边_yìbiān_yìbiān_-_Do_two_things_at_the_same_time_20231230_我们一边学习一边喝茶.mp3"
+      }
+    ],
+    "p_tag": "HSK_2",
+    "s_tag": "75"
+  },
+  {
+    "title": "的话 (de huà) - Used at the end of a conditional clause",
+    "short_explanation": "Used to express a condition or hypothetical situation.",
+    "long_explanation": "In Mandarin Chinese, '的话 (de huà)' is a conjunction used to indicate a conditional or hypothetical situation. It can be translated to 'if' in English. When '的话' is used, it usually comes at the end of the clause that represents the condition. Therefore, the structure of the sentence typically is 'Condition + 的话, Outcome'.",
+    "formation": "Condition + 的话, Outcome",
+    "examples": [
+      {
+        "cn": "如果你不喜欢这部电影的话，我们可以换一部看。",
+        "pinyin": "Rúguǒ nǐ bù xǐhuān zhè bù diànyǐng de huà, wǒmen kěyǐ huàn yī bù kàn.",
+        "en": "If you don't like this movie, we can switch to another one.",
+        "grammar_audio": "/audio/mandarin/grammar/s_的话_de_huà_-_Used_at_the_end_of_a_conditional_clause_20231230_如果你不喜欢这部电影的话我们可以换一部看.mp3"
+      },
+      {
+        "cn": "如果明天下雨的话，我们就不去公园了。",
+        "pinyin": "Rúguǒ míngtiān xià yǔ de huà, wǒmen jiù bù qù gōngyuán le.",
+        "en": "If it rains tomorrow, we will not go to the park.",
+        "grammar_audio": "/audio/mandarin/grammar/s_的话_de_huà_-_Used_at_the_end_of_a_conditional_clause_20231230_如果明天下雨的话我们就不去公园了.mp3"
+      },
+      {
+        "cn": "你如果不舒服的话，就早点回家休息吧。",
+        "pinyin": "Nǐ rúguǒ bù shūfú de huà, jiù zǎodiǎn huíjiā xiūxi ba.",
+        "en": "If you're not feeling well, you should go home and rest early.",
+        "grammar_audio": "/audio/mandarin/grammar/s_的话_de_huà_-_Used_at_the_end_of_a_conditional_clause_20231230_你如果不舒服的话就早点回家休息吧.mp3"
+      },
+      {
+        "cn": "他如果不同意我们的计划的话，我们就要重新制定计划了。",
+        "pinyin": "Tā rúguǒ bù tóngyì wǒmen de jìhuà de huà, wǒmen jiù yào chóngxīn zhìdìng jìhuà le.",
+        "en": "If he doesn't agree with our plan, we will have to make a new one.",
+        "grammar_audio": "/audio/mandarin/grammar/s_的话_de_huà_-_Used_at_the_end_of_a_conditional_clause_20231230_他如果不同意我们的计划的话我们就要重新制定计划了.mp3"
+      }
+    ],
+    "p_tag": "HSK_2",
+    "s_tag": "75"
+  },
+  {
+    "title": "再 (zài) - Again; then (in future actions)",
+    "short_explanation": "Used to indicate a future action or event that's going to take place again or after something else.",
+    "long_explanation": "The Mandarin Chinese word '再 (zài)' is used to express the concept of doing something 'again' or 'another time'. It can also be used to denote the sequence of future actions, similar to the English 'then'. The action or event mentioned with '再' hasn't happened yet at the moment of speaking.",
+    "formation": "Subject + Verb + 再 + Verb",
+    "examples": [
+      {
+        "cn": "吃完午饭后，我们再去看电影。",
+        "pinyin": "Chī wán wǔfàn hòu, wǒmen zài qù kàn diànyǐng.",
+        "en": "After we finish lunch, then we'll go watch a movie.",
+        "grammar_audio": "/audio/mandarin/grammar/s_再_zài_-_Again_then_in_future_actions_20231230_吃完午饭后我们再去看电影.mp3"
+      },
+      {
+        "cn": "疫苗接种完成后，两周再进行测试。",
+        "pinyin": "Yìmiáo jiēzhòng wánchéng hòu, liǎng zhōu zài jìnxíng cèshì.",
+        "en": "After the vaccination is completed, a test will be conducted again in two weeks.",
+        "grammar_audio": "/audio/mandarin/grammar/s_再_zài_-_Again_then_in_future_actions_20231230_疫苗接种完成后两周再进行测试.mp3"
+      },
+      {
+        "cn": "我工作完再回家。",
+        "pinyin": "Wǒ gōngzuò wán zài huíjiā.",
+        "en": "I will go home after finishing work.",
+        "grammar_audio": "/audio/mandarin/grammar/s_再_zài_-_Again_then_in_future_actions_20231230_我工作完再回家.mp3"
+      },
+      {
+        "cn": "他们将再相聚一次。",
+        "pinyin": "Tāmen jiāng zài xiāngjù yīcì.",
+        "en": "They will meet again.",
+        "grammar_audio": "/audio/mandarin/grammar/s_再_zài_-_Again_then_in_future_actions_20231230_他们将再相聚一次.mp3"
+      }
+    ],
+    "p_tag": "HSK_2",
+    "s_tag": "75"
+  },
+  {
+    "title": "最后 (zuìhòu) - At last, finally",
+    "short_explanation": "Used to indicate the final result or outcome of something.",
+    "long_explanation": "The Mandarin Chinese phrase '最后 (zuìhòu)' is often used to denote the final or ultimate result, conclusion, or end of a particular event, action, or situation. This phrase is similar to 'at last' or 'finally' in English, and gives a sense of culmination or closure.",
+    "formation": "最后 + Sentence",
+    "examples": [
+      {
+        "cn": "经过全班的努力，我们最后赢得了比赛。",
+        "pinyin": "Jīngguò quánbān de nǔlì, wǒmen zuìhòu yíngdéle bǐsài.",
+        "en": "After the efforts of the whole class, we finally won the competition.",
+        "grammar_audio": "/audio/mandarin/grammar/s_最后_zuìhòu_-_At_last_finally_20231230_经过全班的努力我们最后赢得了比赛.mp3"
+      },
+      {
+        "cn": "最后他拿出了他的真实面貌，而那真的让我感到惊讶。",
+        "pinyin": "Zuìhòu tā náchūle tā de zhēnshí miànmào, ér nà zhēn de ràng wǒ gǎndào jīngyà.",
+        "en": "Finally, he showed his true colors, and that really surprised me.",
+        "grammar_audio": "/audio/mandarin/grammar/s_最后_zuìhòu_-_At_last_finally_20231230_最后他拿出了他的真实面貌而那真的让我感到惊讶.mp3"
+      },
+      {
+        "cn": "他最后决定跟我一起去看电影。",
+        "pinyin": "Tā zuìhòu juédìng gēn wǒ yīqǐ qù kàn diànyǐng.",
+        "en": "He finally decided to go to the movies with me.",
+        "grammar_audio": "/audio/mandarin/grammar/s_最后_zuìhòu_-_At_last_finally_20231230_他最后决定跟我一起去看电影.mp3"
+      },
+      {
+        "cn": "最后，我会说，谢谢你们的支持和热情。",
+        "pinyin": "Zuìhòu, wǒ huì shuō, xièxiè nǐmen de zhīchí hé rèqíng.",
+        "en": "Finally, I would say, thank you for your support and enthusiasm.",
+        "grammar_audio": "/audio/mandarin/grammar/s_最后_zuìhòu_-_At_last_finally_20231230_最后我会说谢谢你们的支持和热情.mp3"
+      }
+    ],
+    "p_tag": "HSK_2",
+    "s_tag": "75"
+  },
+  {
+    "title": "除了...都 (chúle...dōu) - Except for..., all...",
+    "short_explanation": "This phrase is used to express 'except for' or 'other than'.",
+    "long_explanation": "The Mandarin Chinese phrase '除了...都 (chúle...dōu)' is used to indicate the exclusion of a specific item, person, or situation from a general statement. Essentially, it signifies that all others (indicated by '都') follow this statement except for the mentioned exception ('除了'). Note that sometimes '都' can be omitted, especially when the meaning is clear.",
+    "formation": "Subject + 除了 + What is excluded + 都 + Rest of the sentence",
+    "examples": [
+      {
+        "cn": "除了小明，我们都已经吃过晚饭了。",
+        "pinyin": "Chúle Xiǎo Míng, wǒmen dōu yǐjīng chīguò wǎnfànle.",
+        "en": "Except for Xiao Ming, we have all already had dinner.",
+        "grammar_audio": "/audio/mandarin/grammar/s_除了都_chúledōu_-_Except_for_all_20231230_除了小明我们都已经吃过晚饭了.mp3"
+      },
+      {
+        "cn": "除了苹果，他都吃了。",
+        "pinyin": "Chúle píngguǒ, tā dōu chīle.",
+        "en": "He ate everything except for the apple.",
+        "grammar_audio": "/audio/mandarin/grammar/s_除了都_chúledōu_-_Except_for_all_20231230_除了苹果他都吃了.mp3"
+      },
+      {
+        "cn": "这个房间里面，除了窗户，我们都已经清理过了。",
+        "pinyin": "Zhège fángjiān lǐmiàn, chúle chuānghù, wǒmen dōu yǐjīng qīnglǐguòle.",
+        "en": "In this room, we have cleaned everything except for the windows.",
+        "grammar_audio": "/audio/mandarin/grammar/s_除了都_chúledōu_-_Except_for_all_20231230_这个房间里面除了窗户我们都已经清理过了.mp3"
+      },
+      {
+        "cn": "我写完了所有的报告，除了最后一篇。",
+        "pinyin": "Wǒ xiě wánle suǒyǒu de bàogào, chúle zuìhòu yī piān.",
+        "en": "I have finished writing all the reports, except for the final one.",
+        "grammar_audio": "/audio/mandarin/grammar/s_除了都_chúledōu_-_Except_for_all_20231230_我写完了所有的报告除了最后一篇.mp3"
+      }
+    ],
+    "p_tag": "HSK_2",
+    "s_tag": "75"
+  },
+  {
+    "title": "对 (duì) - Correct, right; towards",
+    "short_explanation": "A frequently used word in Mandarin meaning 'correct', 'right', or 'towards', often used to confirm accuracy or indicate direction.",
+    "long_explanation": "The Mandarin Chinese term '对 (duì)' has multiple uses and meanings. Firstly, it is used as an adjective to indicate that something is 'correct' or 'right'. In this sense, it's often used in response to a question or statement to confirm the correctness or accuracy of the information. Secondly, '对' can be used as a preposition to mean 'towards' or 'to' indicating a direction or position relative to the speaker or context.",
+    "formation": "1. Subject + Verb + 对? - when using '对' to confirm correctness. 2. 对 + Object - when using '对' to indicate direction.",
+    "examples": [
+      {
+        "cn": "你的答案是对的。",
+        "pinyin": "Nǐ de dá'àn shì duì de.",
+        "en": "Your answer is correct.",
+        "grammar_audio": "/audio/mandarin/grammar/s_对_duì_-_Correct_right_towards_20231230_你的答案是对的.mp3"
+      },
+      {
+        "cn": "我对你的看法一直都很尊重。",
+        "pinyin": "Wǒ duì nǐ de kànfǎ yīzhí dōu hěn zūnzhòng.",
+        "en": "I always respect your opinion.",
+        "grammar_audio": "/audio/mandarin/grammar/s_对_duì_-_Correct_right_towards_20231230_我对你的看法一直都很尊重.mp3"
+      },
+      {
+        "cn": "我对他说了一段很长的故事。",
+        "pinyin": "Wǒ duì tā shuōle yīduàn hěn cháng de gùshì.",
+        "en": "I told him a very long story.",
+        "grammar_audio": "/audio/mandarin/grammar/s_对_duì_-_Correct_right_towards_20231230_我对他说了一段很长的故事.mp3"
+      },
+      {
+        "cn": "你对我的答案满意吗？",
+        "pinyin": "Nǐ duì wǒ de dá'àn mǎn yì ma?",
+        "en": "Are you satisfied with my answer?",
+        "grammar_audio": "/audio/mandarin/grammar/s_对_duì_-_Correct_right_towards_20231230_你对我的答案满意吗.mp3"
+      }
+    ],
+    "p_tag": "HSK_2",
+    "s_tag": "75"
+  },
+  {
+    "title": "可能 (kěnéng) - Maybe, possible",
+    "short_explanation": "Used to express possibility or uncertainty.",
+    "long_explanation": "The Mandarin Chinese word '可能 (kěnéng)' is used to express the possibility or uncertainty of an event or situation. It is equivalent to 'maybe' or 'possibly' in English. This word can be used in making assumptions, predictions or in expressing someone's capacity to do something.",
+    "formation": "Subject + 可能 + Verb/Adjective + Rest of the sentence.",
+    "examples": [
+      {
+        "cn": "他可能会来参加我们的聚会，但我不能确定。",
+        "pinyin": "Tā kěnéng huì lái cānjiā wǒmen de jùhuì, dàn wǒ bùnéng quèdìng.",
+        "en": "He may come to our party, but I cannot be sure.",
+        "grammar_audio": "/audio/mandarin/grammar/s_可能_kěnéng_-_Maybe_possible_20231230_他可能会来参加我们的聚会但我不能确定.mp3"
+      },
+      {
+        "cn": "我可能不能去旅行了，因为我得了重感冒。",
+        "pinyin": "Wǒ kěnéng bùnéng qù lǚxíng le, yīnwèi wǒ déle zhòng gǎnmào.",
+        "en": "I may not be able to go on the trip because I have a severe cold.",
+        "grammar_audio": "/audio/mandarin/grammar/s_可能_kěnéng_-_Maybe_possible_20231230_我可能不能去旅行了因为我得了重感冒.mp3"
+      },
+      {
+        "cn": "如果你不忙，我们可能可以一起去看电影。",
+        "pinyin": "Rúguǒ nǐ bù máng, wǒmen kěnéng kěyǐ yīqǐ qù kàn diànyǐng.",
+        "en": "If you are not busy, we might be able to go to the movies together.",
+        "grammar_audio": "/audio/mandarin/grammar/s_可能_kěnéng_-_Maybe_possible_20231230_如果你不忙我们可能可以一起去看电影.mp3"
+      },
+      {
+        "cn": "她可能在找她的手机，因为她的手机不在她的包里。",
+        "pinyin": "Tā kěnéng zài zhǎo tā de shǒujī, yīnwèi tā de shǒujī bù zài tā de bāo lǐ.",
+        "en": "She may be looking for her phone, as her phone is not in her bag.",
+        "grammar_audio": "/audio/mandarin/grammar/s_可能_kěnéng_-_Maybe_possible_20231230_她可能在找她的手机因为她的手机不在她的包里.mp3"
+      }
+    ],
+    "p_tag": "HSK_2",
+    "s_tag": "75"
+  },
+  {
+    "title": "从来 (cónglái) - Always/Never",
+    "short_explanation": "Used to indicate something that constantly happens or a state that has never occurred.",
+    "long_explanation": "In Mandarin Chinese, '从来 (cónglái)' is a temporal adverb used to express that a certain condition or habit has always been the case or that something has never happened before when combined with a negation (不 or 没). It is equivalent to 'always' or 'never' in English. When using '从来' to mean 'never', '没' or '不' usually follows '从来'.",
+    "formation": "For 'always' - Subject + 从来 + 总是 + Verb/Adjective + Rest of the sentence. For 'never' - Subject + 从来 + 不/没 + Verb/Adjective + Rest of the sentence.",
+    "examples": [
+      {
+        "cn": "她从来总是把工作做得非常好。",
+        "pinyin": "Tā cónglái zǒngshì bǎ gōngzuò zuò de fēicháng hǎo.",
+        "en": "She always does her work extremely well.",
+        "grammar_audio": "/audio/mandarin/grammar/s_从来_cónglái_-_Always/Never_20231230_她从来总是把工作做得非常好.mp3"
+      },
+      {
+        "cn": "我从来没见过那么多的星星。",
+        "pinyin": "Wǒ cónglái méi jiànguò nàme duō de xīngxīng.",
+        "en": "I've never seen so many stars.",
+        "grammar_audio": "/audio/mandarin/grammar/s_从来_cónglái_-_Always/Never_20231230_我从来没见过那么多的星星.mp3"
+      },
+      {
+        "cn": "他从来不吃早餐。",
+        "pinyin": "Tā cónglái bù chī zǎocān.",
+        "en": "He never eats breakfast.",
+        "grammar_audio": "/audio/mandarin/grammar/s_从来_cónglái_-_Always/Never_20231230_他从来不吃早餐.mp3"
+      },
+      {
+        "cn": "我从来没想过我会在这个比赛中获胜。",
+        "pinyin": "Wǒ cónglái méi xiǎngguò wǒ huì zài zhège bǐsài zhōng huòshèng.",
+        "en": "I never thought that I would win in this competition.",
+        "grammar_audio": "/audio/mandarin/grammar/s_从来_cónglái_-_Always/Never_20231230_我从来没想过我会在这个比赛中获胜.mp3"
+      }
+    ],
+    "p_tag": "HSK_2",
+    "s_tag": "75"
+  },
+  {
+    "title": "向 (xiàng) - Towards; direction",
+    "short_explanation": "It is used to express the direction or target towards which an action is directed or intended.",
+    "long_explanation": "向 (xiàng) is a unique word in Chinese that's used to express a sense of direction or movement. It signifies the direction, or target, towards which an action, movement, or effort is directed, similar to the use of 'towards' in English. Think of it as indicating the endpoint of action or movement in a certain direction.",
+    "formation": "Subject + 向 + Target + Verb/Adjective + Rest of the sentence?",
+    "examples": [
+      {
+        "cn": "她向我走过来，带着温暖的笑容。",
+        "pinyin": "Tā xiàng wǒ zǒu guòlái, dàizhe wēnnuǎn de xiàoróng.",
+        "en": "She walked towards me, with a warm smile.",
+        "grammar_audio": "/audio/mandarin/grammar/s_向_xiàng_-_Towards_direction_20231230_她向我走过来带着温暖的笑容.mp3"
+      },
+      {
+        "cn": "我向他投了一眼，他正在看起这个新项目。",
+        "pinyin": "Wǒ xiàng tā tóu le yīyǎn, tā zhèngzài kànqǐ zhège xīn xiàngmù.",
+        "en": "I looked towards him, he was looking into this new project.",
+        "grammar_audio": "/audio/mandarin/grammar/s_向_xiàng_-_Towards_direction_20231230_我向他投了一眼他正在看起这个新项目.mp3"
+      },
+      {
+        "cn": "他向敌人冲了过去，撼动了整个战场。",
+        "pinyin": "Tā xiàng dírén chōng le guòqù, hàndòngle zhěnggè zhànchǎng.",
+        "en": "He charged towards the enemy, shaking the entire battlefield.",
+        "grammar_audio": "/audio/mandarin/grammar/s_向_xiàng_-_Towards_direction_20231230_他向敌人冲了过去撼动了整个战场.mp3"
+      },
+      {
+        "cn": "我们向山顶进发，挑战自己的极限。",
+        "pinyin": "Wǒmen xiàng shāndǐng jìnfā, tiǎozhàn zìjǐ de jíxiàn.",
+        "en": "We headed towards the mountaintop, challenging our limits.",
+        "grammar_audio": "/audio/mandarin/grammar/s_向_xiàng_-_Towards_direction_20231230_我们向山顶进发挑战自己的极限.mp3"
+      }
+    ],
+    "p_tag": "HSK_2",
+    "s_tag": "75"
+  },
+  {
+    "title": "每 (měi) - Every; each",
+    "short_explanation": "'每 (měi)' is used to refer to 'every' or 'each' of something, emphasizing the repeated nature of an event or action.",
+    "long_explanation": "The Mandarin Chinese term '每 (měi)' is an adverb that is equivalent to the English terms 'every' or 'each'. It is generally used before a noun to signify recurring events, or that the action applies to each instance of the noun. To use '每 (měi)', you must also specify a time frame after the noun.",
+    "formation": "每 + Noun (usually a time word) + Verb Phrase",
+    "examples": [
+      {
+        "cn": "我每天都用一小时来学习汉语，所以我的汉语进步得很快。",
+        "pinyin": "Wǒ měitiān dōu yòng yī xiǎoshí lái xuéxí Hànyǔ, suǒyǐ wǒ de Hànyǔ jìnbù de hěn kuài.",
+        "en": "I spend an hour studying Chinese every day, therefore my Chinese is improving very quickly.",
+        "grammar_audio": "/audio/mandarin/grammar/s_每_měi_-_Every_each_20231230_我每天都用一小时来学习汉语所以我的汉语进步得很快.mp3"
+      },
+      {
+        "cn": "他每周末都会去图书馆看书，因此他的阅读理解能力很强。",
+        "pinyin": "Tā měi zhōumò dōu huì qù túshūguǎn kànshū, yīncǐ tā de yuèdú lǐjiě nénglì hěn qiáng.",
+        "en": "He goes to the library to read books every weekend, therefore his reading comprehension is very strong.",
+        "grammar_audio": "/audio/mandarin/grammar/s_每_měi_-_Every_each_20231230_他每周末都会去图书馆看书因此他的阅读理解能力很强.mp3"
+      },
+      {
+        "cn": "我们每月开会两次，一次是在月初，一次是在月底。",
+        "pinyin": "Wǒmen měi yuè kāihuì liǎng cì, yīcì shì zài yuèchū, yīcì shì zài yuèdǐ.",
+        "en": "We hold two meetings every month, one is at the beginning of the month, and another one is at the end of the month.",
+        "grammar_audio": "/audio/mandarin/grammar/s_每_měi_-_Every_each_20231230_我们每月开会两次一次是在月初一次是在月底.mp3"
+      },
+      {
+        "cn": "妈妈每年都会做一些梅子酱，然后保存在冰箱里。",
+        "pinyin": "Māma měi nián dōu huì zuò yīxiē méi zi jiàng, ránhòu bǎocún zài bīngxiāng lǐ.",
+        "en": "Mom makes some plum jam every year and then stores it in the refrigerator.",
+        "grammar_audio": "/audio/mandarin/grammar/s_每_měi_-_Every_each_20231230_妈妈每年都会做一些梅子酱然后保存在冰箱里.mp3"
+      }
+    ],
+    "p_tag": "HSK_2",
+    "s_tag": "75"
+  },
+  {
+    "title": "一样 (yíyàng) - The same as",
+    "short_explanation": "Used to express similarity or equivalence between two things, people, situations, etc.",
+    "long_explanation": "In Mandarin Chinese, '一样 (yíyàng)' is used to denote the sense of 'the same as'. It signifies an equality or likeness between two objects, people, situations, etc. Essentially, it suggests that the characteristics or attributes of the one thing that is being talked about is similar or equivalent to the other.",
+    "formation": "Subject + 和/跟 + Person/Object + 一样 + Adjective",
+    "examples": [
+      {
+        "cn": "他的汉语水平和我一样好。",
+        "pinyin": "Tā de Hànyǔ shuǐpíng hé wǒ yíyàng hǎo.",
+        "en": "His level of Chinese is as good as mine.",
+        "grammar_audio": "/audio/mandarin/grammar/s_一样_yíyàng_-_The_same_as_20231230_他的汉语水平和我一样好.mp3"
+      },
+      {
+        "cn": "这个苹果跟那个苹果一样大。",
+        "pinyin": "Zhège píngguǒ gēn nàgè píngguǒ yíyàng dà.",
+        "en": "This apple is as big as that one.",
+        "grammar_audio": "/audio/mandarin/grammar/s_一样_yíyàng_-_The_same_as_20231230_这个苹果跟那个苹果一样大.mp3"
+      },
+      {
+        "cn": "我的思想和你一样自由。",
+        "pinyin": "Wǒ de sīxiǎng hé nǐ yíyàng zìyóu.",
+        "en": "My thoughts are as free as yours.",
+        "grammar_audio": "/audio/mandarin/grammar/s_一样_yíyàng_-_The_same_as_20231230_我的思想和你一样自由.mp3"
+      },
+      {
+        "cn": "他的工作努力程度跟我一样高。",
+        "pinyin": "Tā de gōngzuò nǔlì chéngdù gēn wǒ yíyàng gāo.",
+        "en": "His work ethic is as high as mine.",
+        "grammar_audio": "/audio/mandarin/grammar/s_一样_yíyàng_-_The_same_as_20231230_他的工作努力程度跟我一样高.mp3"
+      }
+    ],
+    "p_tag": "HSK_2",
+    "s_tag": "75"
+  },
+  {
+    "title": "过 (guò) - Indicates a past experience",
+    "short_explanation": "Used to denote that an action has been experienced in the past.",
+    "long_explanation": "The Mandarin Chinese particle '过 (guò)' is used to indicate an action or situation that has been experienced or occurred at some point in the past. This verb modifier tells the listener that the action is completed. It is somewhat equivalent to the past simple tense in English.",
+    "formation": "Subject + Verb + 过 + (Object)",
+    "examples": [
+      {
+        "cn": "我去过长城。",
+        "pinyin": "Wǒ qùguò Chángchéng.",
+        "en": "I have been to the Great Wall.",
+        "grammar_audio": "/audio/mandarin/grammar/s_过_guò_-_Indicates_a_past_experience_20231230_我去过长城.mp3"
+      },
+      {
+        "cn": "你吃过麻辣烫吗？",
+        "pinyin": "Nǐ chīguò málà tàng ma?",
+        "en": "Have you ever eaten hot and spicy soup?",
+        "grammar_audio": "/audio/mandarin/grammar/s_过_guò_-_Indicates_a_past_experience_20231230_你吃过麻辣烫吗.mp3"
+      },
+      {
+        "cn": "她看过这部电影。",
+        "pinyin": "Tā kànguò zhè bù diànyǐng.",
+        "en": "She has seen this movie.",
+        "grammar_audio": "/audio/mandarin/grammar/s_过_guò_-_Indicates_a_past_experience_20231230_她看过这部电影.mp3"
+      },
+      {
+        "cn": "他们住过上海。",
+        "pinyin": "Tāmen zhùguò Shànghǎi.",
+        "en": "They have lived in Shanghai.",
+        "grammar_audio": "/audio/mandarin/grammar/s_过_guò_-_Indicates_a_past_experience_20231230_他们住过上海.mp3"
+      }
+    ],
+    "p_tag": "HSK_2",
+    "s_tag": "75"
+  },
+  {
+    "title": "后来 (hòulái) - Later on, afterwards",
+    "short_explanation": "Used to express a sequence of events, particularly when describing something that happened after some other actions.",
+    "long_explanation": "The Mandarin Chinese adverb '后来 (hòulái)' is used to indicate a later or subsequent event in a sequence of events. It can be closely translated to 'later on' or 'afterwards' in English. This adverb usually follows a narrative or description of a previous event, facilitating a chronological understanding of the story or occurrence.",
+    "formation": "Previous Event + 后来 + Following Event",
+    "examples": [
+      {
+        "cn": "我小时候住在北京，后来搬到了上海。",
+        "pinyin": "Wǒ xiǎo shíhou zhù zài Běijīng, hòulái bān dào le Shànghǎi.",
+        "en": "When I was a child, I lived in Beijing, but later I moved to Shanghai.",
+        "grammar_audio": "/audio/mandarin/grammar/s_后来_hòulái_-_Later_on_afterwards_20231230_我小时候住在北京后来搬到了上海.mp3"
+      },
+      {
+        "cn": "他一开始在财务部工作，后来被提升到总经理职位。",
+        "pinyin": "Tā yì kāi shǐ zài cái wù bù gōng zuò, hòu lái bèi tí shēng dào zǒng jīng lǐ zhí wèi.",
+        "en": "He initially worked in the finance department, but was later promoted to the position of general manager.",
+        "grammar_audio": "/audio/mandarin/grammar/s_后来_hòulái_-_Later_on_afterwards_20231230_他一开始在财务部工作后来被提升到总经理职位.mp3"
+      },
+      {
+        "cn": "我们先去了长城，后来去了故宫。",
+        "pinyin": "Wǒmen xiān qù le Chángchéng, hòulái qù le Gùgōng.",
+        "en": "We first went to the Great Wall, and then afterwards we went to the Forbidden City.",
+        "grammar_audio": "/audio/mandarin/grammar/s_后来_hòulái_-_Later_on_afterwards_20231230_我们先去了长城后来去了故宫.mp3"
+      },
+      {
+        "cn": "她早上读书，后来去健身房做运动。",
+        "pinyin": "Tā zǎoshang dúshū, hòulái qù jiànshēnfáng zuò yùndòng.",
+        "en": "She read in the morning, and later went to the gym for exercise.",
+        "grammar_audio": "/audio/mandarin/grammar/s_后来_hòulái_-_Later_on_afterwards_20231230_她早上读书后来去健身房做运动.mp3"
+      }
+    ],
+    "p_tag": "HSK_2",
+    "s_tag": "75"
+  },
+  {
+    "title": "突然 (tūrán) - Suddenly, unexpectedly",
+    "short_explanation": "Used to express sudden or unexpected actions or changes.",
+    "long_explanation": "The Mandarin Chinese term '突然 (tūrán)' is utilized to convey the suddenness or unexpectedness of an event, action or situation. It's analogous to the English words 'suddenly' or 'unexpectedly'. It emphasizes the event occurred without any prior indication or warning. It can also be used to describe a swift, drastic change.",
+    "formation": "Subject + 突然 + Verb + Object.",
+    "examples": [
+      {
+        "cn": "我正在走在街上，突然开始下大雨。",
+        "pinyin": "Wǒ zhèngzài zǒu zài jiē shàng, tūrán kāishǐ xià dàyǔ.",
+        "en": "I was walking on the street, when it suddenly started to rain heavily.",
+        "grammar_audio": "/audio/mandarin/grammar/s_突然_tūrán_-_Suddenly_unexpectedly_20231230_我正在走在街上突然开始下大雨.mp3"
+      },
+      {
+        "cn": "她看着电视，突然她的手机响了。",
+        "pinyin": "Tā kànzhe diànshì, tūrán tā de shǒujī xiǎng le.",
+        "en": "She was watching TV, when suddenly her phone rang.",
+        "grammar_audio": "/audio/mandarin/grammar/s_突然_tūrán_-_Suddenly_unexpectedly_20231230_她看着电视突然她的手机响了.mp3"
+      },
+      {
+        "cn": "老师正在讲课，突然电灯熄灭了。",
+        "pinyin": "Lǎoshī zhèngzài jiǎngkè, tūrán diàndēng xīmièle.",
+        "en": "The teacher was giving a lecture, when suddenly the light went out.",
+        "grammar_audio": "/audio/mandarin/grammar/s_突然_tūrán_-_Suddenly_unexpectedly_20231230_老师正在讲课突然电灯熄灭了.mp3"
+      },
+      {
+        "cn": "我正在睡觉，突然听到窗外有人在喊救命。",
+        "pinyin": "Wǒ zhèngzài shuìjiào, tūrán tīngdào chuāngwài yǒurén zài hǎn jiùmìng.",
+        "en": "I was sleeping, when suddenly I heard someone shouting for help outside the window.",
+        "grammar_audio": "/audio/mandarin/grammar/s_突然_tūrán_-_Suddenly_unexpectedly_20231230_我正在睡觉突然听到窗外有人在喊救命.mp3"
+      }
+    ],
+    "p_tag": "HSK_2",
+    "s_tag": "75"
+  },
+  {
+    "title": "对了 (duìle) - By the way; oh right",
+    "short_explanation": "'对了' is used to introduce a new topic or to suddenly recall something of importance.",
+    "long_explanation": "The Chinese phrase '对了 (duìle)' closely aligns with the English expressions 'By the way' or 'Oh right', and is used to shift the conversation to a new topic, or to bring up a pertinent point that one almost forgot to mention. It can stand alone or be part of a sentence, and often injects an element of surprise to the conversation, indicating a quick change in the speaker’s train of thought.",
+    "formation": "对了 + Rest of the sentence",
+    "examples": [
+      {
+        "cn": "对了，我昨天看到了你的老朋友。",
+        "pinyin": "Duìle, wǒ zuótiān kàn dào le nǐ de lǎo péngyǒu.",
+        "en": "By the way, I saw your old friend yesterday.",
+        "grammar_audio": "/audio/mandarin/grammar/s_对了_duìle_-_By_the_way_oh_right_20231230_对了我昨天看到了你的老朋友.mp3"
+      },
+      {
+        "cn": "对了，我有个朋友也是学中文的，你们可以交流一下。",
+        "pinyin": "Duìle, wǒ yǒu gè péngyǒu yě shì xué Zhōngwén de, nǐmen kěyǐ jiāoliú yīxià.",
+        "en": "Oh right, I have a friend who also studies Chinese, you can share some experiences.",
+        "grammar_audio": "/audio/mandarin/grammar/s_对了_duìle_-_By_the_way_oh_right_20231230_对了我有个朋友也是学中文的你们可以交流一下.mp3"
+      },
+      {
+        "cn": "对了，明天是母亲节，别忘了给妈妈送礼物。",
+        "pinyin": "Duìle, míngtiān shì mǔqīn jié, bié wàng le gěi māmā sòng lǐwù.",
+        "en": "Oh right, tomorrow is Mother's Day, don't forget to send a gift to your mom.",
+        "grammar_audio": "/audio/mandarin/grammar/s_对了_duìle_-_By_the_way_oh_right_20231230_对了明天是母亲节别忘了给妈妈送礼物.mp3"
+      },
+      {
+        "cn": "对了，我刚才忘了告诉你，你的车被人刮了一下。",
+        "pinyin": "Duìle, wǒ gāngcái wàng le gàosù nǐ, nǐ de chē bèi rén guā le yīxià.",
+        "en": "By the way, I forgot to tell you earlier, your car got scratched.",
+        "grammar_audio": "/audio/mandarin/grammar/s_对了_duìle_-_By_the_way_oh_right_20231230_对了我刚才忘了告诉你你的车被人刮了一下.mp3"
+      }
+    ],
+    "p_tag": "HSK_2",
+    "s_tag": "75"
+  },
+  {
+    "title": "最近 (zuìjìn) - Recently",
+    "short_explanation": "Used to describe a recent or the most recent period of time.",
+    "long_explanation": "The Mandarin Chinese term '最近 (zuìjìn)' is commonly used to refer to the recent or the most recent period or point in time. It is somewhat equivalent to the English term 'recently' or 'lately'. The term '最近 (zuìjìn)' can be used to express past events that happened in the near past, as well as forthcoming events in the near future.",
+    "formation": "最近 + Verb/Adjective/Time",
+    "examples": [
+      {
+        "cn": "我最近很忙，没时间陪你。",
+        "pinyin": "Wǒ zuìjìn hěn máng, méi shíjiān péi nǐ.",
+        "en": "I have been very busy recently, no time to be with you.",
+        "grammar_audio": "/audio/mandarin/grammar/s_最近_zuìjìn_-_Recently_20231230_我最近很忙没时间陪你.mp3"
+      },
+      {
+        "cn": "他最近一直在准备HSK考试。",
+        "pinyin": "Tā zuìjìn yīzhí zài zhǔnbèi HSK kǎoshì.",
+        "en": "He has been preparing for the HSK exam recently.",
+        "grammar_audio": "/audio/mandarin/grammar/s_最近_zuìjìn_-_Recently_20231230_他最近一直在准备HSK考试.mp3"
+      },
+      {
+        "cn": "最近你似乎有些不太开心，发生什么事了？",
+        "pinyin": "Zuìjìn nǐ sìhū yǒuxiē bù tài kāixīn, fāshēng shénme shì le?",
+        "en": "You seem to be a bit unhappy lately, what happened?",
+        "grammar_audio": "/audio/mandarin/grammar/s_最近_zuìjìn_-_Recently_20231230_最近你似乎有些不太开心发生什么事了.mp3"
+      },
+      {
+        "cn": "我妈妈最近打算去旅行。",
+        "pinyin": "Wǒ māma zuìjìn dǎsuàn qù lǚxíng.",
+        "en": "My mom is planning to travel recently.",
+        "grammar_audio": "/audio/mandarin/grammar/s_最近_zuìjìn_-_Recently_20231230_我妈妈最近打算去旅行.mp3"
+      }
+    ],
+    "p_tag": "HSK_2",
+    "s_tag": "75"
+  },
+  {
+    "title": "已经 (yǐjīng) - Already",
+    "short_explanation": "Used to indicate that an action has already happened.",
+    "long_explanation": "The Mandarin Chinese word '已经 (yǐjīng)' is used to signify that an action or event has already taken place. It is often used in conjunction with the '了 (le)' particle at the end of the sentence to reinforce the completed aspect of the verb. It highlights that the action is not just completed, but completed before the expected time.",
+    "formation": "Subject + 已经 + Verb + 了 + Rest of the sentence",
+    "examples": [
+      {
+        "cn": "我已经吃过早饭了，所以现在我不饿。",
+        "pinyin": "Wǒ yǐjīng chīguò zǎofàn le, suǒyǐ xiànzài wǒ bù è.",
+        "en": "I have already eaten breakfast, so I'm not hungry now.",
+        "grammar_audio": "/audio/mandarin/grammar/s_已经_yǐjīng_-_Already_20231230_我已经吃过早饭了所以现在我不饿.mp3"
+      },
+      {
+        "cn": "他们已经离开家去工作了，所以家里只剩下我们。",
+        "pinyin": "Tāmen yǐjīng líkāi jiā qù gōngzuò le, suǒyǐ jiā lǐ zhǐ shèng xiàwǒmen.",
+        "en": "They have already left home to go to work, so only we are left at home.",
+        "grammar_audio": "/audio/mandarin/grammar/s_已经_yǐjīng_-_Already_20231230_他们已经离开家去工作了所以家里只剩下我们.mp3"
+      },
+      {
+        "cn": "我已经看过这部电影了，所以我不想再看一遍。",
+        "pinyin": "Wǒ yǐjīng kànguò zhè bù diànyǐng le, suǒyǐ wǒ bùxiǎng zài kàn yī biàn.",
+        "en": "I have already watched this movie, so I don't want to watch it again.",
+        "grammar_audio": "/audio/mandarin/grammar/s_已经_yǐjīng_-_Already_20231230_我已经看过这部电影了所以我不想再看一遍.mp3"
+      },
+      {
+        "cn": "他已经习惯了北京的生活方式，现在感到非常舒适。",
+        "pinyin": "Tā yǐjīng xíguàn le Běijīng de shēnghuó fāngshì, xiànzài gǎndào fēicháng shūshì.",
+        "en": "He has already got used to the lifestyle of Beijing and now feels very comfortable.",
+        "grammar_audio": "/audio/mandarin/grammar/s_已经_yǐjīng_-_Already_20231230_他已经习惯了北京的生活方式现在感到非常舒适.mp3"
+      }
+    ],
+    "p_tag": "HSK_2",
+    "s_tag": "75"
+  },
+  {
+    "title": "一直 (yīzhí) - Continuously, always, all the way",
+    "short_explanation": "Used to describe continual, unbroken actions or situations over a certain period of time.",
+    "long_explanation": "The Mandarin Chinese adverb '一直 (yīzhí)' can be translated as 'continuously', 'always', or 'all the way'. It expresses an action or state that continues unbrokenly over a certain period of time or up to a certain point. It is equivalent to 'keep doing something' or 'all the way' in English.",
+    "formation": "Subject + 一直 + Verb + Rest of the sentence",
+    "examples": [
+      {
+        "cn": "她一直都在忙着考试的准备，因为她想要通过HSK考试。",
+        "pinyin": "Tā yīzhí dōu zài mángzhe kǎoshì de zhǔnbèi, yīnwèi tā xiǎng yào tōngguò HSK kǎoshì.",
+        "en": "She has been busy preparing for the exam all this time because she wants to pass the HSK exam.",
+        "grammar_audio": "/audio/mandarin/grammar/s_一直_yīzhí_-_Continuously_always_all_the_way_20231230_她一直都在忙着考试的准备因为她想要通过HSK考试.mp3"
+      },
+      {
+        "cn": "我一直在寻找这本书，因为这本书的内容非常有趣。",
+        "pinyin": "Wǒ yīzhí zài xúnzhǎo zhè běn shū, yīnwèi zhè běn shū de nèiróng fēicháng yǒuqù.",
+        "en": "I have been looking for this book all this time because its content is very interesting.",
+        "grammar_audio": "/audio/mandarin/grammar/s_一直_yīzhí_-_Continuously_always_all_the_way_20231230_我一直在寻找这本书因为这本书的内容非常有趣.mp3"
+      },
+      {
+        "cn": "他一直在看电影，直到深夜还没有睡觉。",
+        "pinyin": "Tā yīzhí zài kàn diànyǐng, zhídào shēnyè hái méiyǒu shuìjiào.",
+        "en": "He has been watching movies all the way until late at night and has not gone to bed yet.",
+        "grammar_audio": "/audio/mandarin/grammar/s_一直_yīzhí_-_Continuously_always_all_the_way_20231230_他一直在看电影直到深夜还没有睡觉.mp3"
+      },
+      {
+        "cn": "我妹妹一直学习数学，因为她觉得数学非常有趣。",
+        "pinyin": "Wǒ mèimei yīzhí xuéxí shùxué, yīnwèi tā juéde shùxué fēicháng yǒuqù.",
+        "en": "My younger sister has been studying math all this time because she finds math very interesting.",
+        "grammar_audio": "/audio/mandarin/grammar/s_一直_yīzhí_-_Continuously_always_all_the_way_20231230_我妹妹一直学习数学因为她觉得数学非常有趣.mp3"
+      }
+    ],
+    "p_tag": "HSK_2",
+    "s_tag": "75"
+  },
+  {
+    "title": "除了...以外 (chúle...yǐwài) - Apart from.../Except for...",
+    "short_explanation": "Used to express 'except for' or 'aside from' in a sentence.",
+    "long_explanation": "The phrase '除了...以外 (chúle...yǐwài)' in Mandarin Chinese is used when you want to express the concept of 'except for' or 'aside from'. The structure helps to emphasize that besides what is mentioned, there are also other factors or elements. This can be used with both nouns and verbs.",
+    "formation": "除了 + Noun/Verb Phrase + 以外, Sentence",
+    "examples": [
+      {
+        "cn": "除了吃中餐以外，他也喜欢吃意大利面。",
+        "pinyin": "Chúle chī zhōngcān yǐwài, tā yě xǐhuān chī yìdàlì miàn.",
+        "en": "Apart from eating Chinese food, he also likes eating pasta.",
+        "grammar_audio": "/audio/mandarin/grammar/s_除了以外_chúleyǐwài_-_Apart_from/Except_for_20231230_除了吃中餐以外他也喜欢吃意大利面.mp3"
+      },
+      {
+        "cn": "除了我以外，大家都去过韩国。",
+        "pinyin": "Chúle wǒ yǐwài, dàjiā dū qùguò hánguó.",
+        "en": "Everyone has been to Korea except me.",
+        "grammar_audio": "/audio/mandarin/grammar/s_除了以外_chúleyǐwài_-_Apart_from/Except_for_20231230_除了我以外大家都去过韩国.mp3"
+      },
+      {
+        "cn": "除了学习以外，他在晚上还去打工。",
+        "pinyin": "Chúle xuéxí yǐwài, tā zài wǎnshàng hái qù dǎgōng.",
+        "en": "Apart from studying, he also works in the evening.",
+        "grammar_audio": "/audio/mandarin/grammar/s_除了以外_chúleyǐwài_-_Apart_from/Except_for_20231230_除了学习以外他在晚上还去打工.mp3"
+      },
+      {
+        "cn": "除了英语以外，我们还学习法语和德语。",
+        "pinyin": "Chúle yīngyǔ yǐwài, wǒmen hái xuéxí fǎyǔ hé déyǔ.",
+        "en": "Besides English, we also learn French and German.",
+        "grammar_audio": "/audio/mandarin/grammar/s_除了以外_chúleyǐwài_-_Apart_from/Except_for_20231230_除了英语以外我们还学习法语和德语.mp3"
+      }
+    ],
+    "p_tag": "HSK_2",
+    "s_tag": "75"
+  },
+  {
+    "title": "所以 (suǒyǐ) - So, therefore",
+    "short_explanation": "Used to express cause and effect or conclude something.",
+    "long_explanation": "The Mandarin Chinese term '所以 (suǒyǐ)' is used to conclude or express the effect of a cause. It is equivalent to saying 'so' or 'therefore' in English. It is often used in response to an explanation or to describe the result of a situation after explaining the reasons.",
+    "formation": "Cause + ， + 所以 + Effect",
+    "examples": [
+      {
+        "cn": "我今天有一个重要的会议，所以我不能去看电影。",
+        "pinyin": "Wǒ jīntiān yǒu yīgè zhòngyào de huìyì, suǒyǐ wǒ bùnéng qù kàn diànyǐng.",
+        "en": "I have an important meeting today, so I can't go to watch movies.",
+        "grammar_audio": "/audio/mandarin/grammar/s_所以_suǒyǐ_-_So_therefore_20231230_我今天有一个重要的会议所以我不能去看电影.mp3"
+      },
+      {
+        "cn": "他不喜欢吃蔬菜，所以他的身体总是感到疲劳。",
+        "pinyin": "Tā bù xǐhuān chī shūcài, suǒyǐ tā de shēntǐ zǒng shì gǎndào píláo.",
+        "en": "He doesn't like eating vegetables, so his body always feels tired.",
+        "grammar_audio": "/audio/mandarin/grammar/s_所以_suǒyǐ_-_So_therefore_20231230_他不喜欢吃蔬菜所以他的身体总是感到疲劳.mp3"
+      },
+      {
+        "cn": "我需要学习中文以便能够在中国生活，所以我每天都会花时间学习。",
+        "pinyin": "Wǒ xūyào xuéxí Zhōngwén yǐbiàn nénggòu zài Zhōngguó shēnghuó, suǒyǐ wǒ měitiān dūhuì huā shíjiān xuéxí.",
+        "en": "I need to learn Chinese in order to live in China, so I spend time studying every day.",
+        "grammar_audio": "/audio/mandarin/grammar/s_所以_suǒyǐ_-_So_therefore_20231230_我需要学习中文以便能够在中国生活所以我每天都会花时间学习.mp3"
+      },
+      {
+        "cn": "他是我的好朋友，所以我总是愿意帮助他。",
+        "pinyin": "Tā shì wǒ de hǎo péngyǒu, suǒyǐ wǒ zǒng shì yuànyì bāngzhù tā.",
+        "en": "He is my good friend, so I'm always willing to help him.",
+        "grammar_audio": "/audio/mandarin/grammar/s_所以_suǒyǐ_-_So_therefore_20231230_他是我的好朋友所以我总是愿意帮助他.mp3"
+      }
+    ],
+    "p_tag": "HSK_2",
+    "s_tag": "75"
+  },
+  {
+    "title": "为了 (wèile) - For, in order to, for the sake of",
+    "short_explanation": "Used to express the purpose or reason behind an action.",
+    "long_explanation": "The Mandarin Chinese phrase '为了 (wèile)' is a preposition used to express the purpose or reason for an action. It is equivalent to 'for', 'in order to', or 'for the sake of' in English. It conveys the motive or goal that prompts a specific action or behavior.",
+    "formation": "为了 + Purpose/Reason + Subject + Verb + Object",
+    "examples": [
+      {
+        "cn": "为了他的健康，他决定每天做运动。",
+        "pinyin": "Wèile tā de jiànkāng, tā juédìng měitiān zuò yùndòng.",
+        "en": "For his health, he decided to exercise every day.",
+        "grammar_audio": "/audio/mandarin/grammar/s_为了_wèile_-_For_in_order_to_for_the_sake_of_20231230_为了他的健康他决定每天做运动.mp3"
+      },
+      {
+        "cn": "为了明天的考试，她一直在复习。",
+        "pinyin": "Wèile míngtiān de kǎoshì, tā yìzhí zài fùxí.",
+        "en": "In order to prepare for the exam tomorrow, she has been revising.",
+        "grammar_audio": "/audio/mandarin/grammar/s_为了_wèile_-_For_in_order_to_for_the_sake_of_20231230_为了明天的考试她一直在复习.mp3"
+      },
+      {
+        "cn": "我为了你，我会尽我最大的努力。",
+        "pinyin": "Wǒ wèile nǐ, wǒ huì jìn wǒ zuìdà de nǔlì.",
+        "en": "For you, I will try my best.",
+        "grammar_audio": "/audio/mandarin/grammar/s_为了_wèile_-_For_in_order_to_for_the_sake_of_20231230_我为了你我会尽我最大的努力.mp3"
+      },
+      {
+        "cn": "为了实现我父母的愿望, 我会尽全力来学习中文。",
+        "pinyin": "Wèile shíxiàn wǒ fùmǔ de yuànwàng, wǒ huì jìn quánlì lái xuéxí Zhōngwén.",
+        "en": "For the sake of fulfilling my parents' wishes, I will do my best to learn Chinese.",
+        "grammar_audio": "/audio/mandarin/grammar/s_为了_wèile_-_For_in_order_to_for_the_sake_of_20231230_为了实现我父母的愿望_我会尽全力来学习中文.mp3"
+      }
+    ],
+    "p_tag": "HSK_2",
+    "s_tag": "75"
+  },
+  {
+    "title": "虽然 (suīrán) - Although, though",
+    "short_explanation": "Used to express contrast or contradiction between two clauses.",
+    "long_explanation": "The Mandarin Chinese phrase '虽然 (suīrán)' is used to introduce a clause which contains the information that is being contrasted with or contradicted by another clause. It is equivalent to the English conjunctions 'although' or 'though'. The structure typically followed by 虽然 is '虽然...但是...', where '...但是...' contains the contrasting or contradicting information.",
+    "formation": "虽然 + Clause 1, 但是/可是/就是 + Clause 2",
+    "examples": [
+      {
+        "cn": "虽然他是个孩子，但是他懂得很多事情。",
+        "pinyin": "Suīrán tā shì gè háizǐ, dànshì tā dǒngdé hěn duō shìqíng.",
+        "en": "Although he is a child, he understands a lot of things.",
+        "grammar_audio": "/audio/mandarin/grammar/s_虽然_suīrán_-_Although_though_20231230_虽然他是个孩子但是他懂得很多事情.mp3"
+      },
+      {
+        "cn": "虽然这个电影很喜欢，但是我没有时间去看它。",
+        "pinyin": "Suīrán zhège diànyǐng hěn xǐhuan, dànshì wǒ méiyǒu shíjiān qù kàn tā.",
+        "en": "Although I like this movie, I don't have time to watch it.",
+        "grammar_audio": "/audio/mandarin/grammar/s_虽然_suīrán_-_Although_though_20231230_虽然这个电影很喜欢但是我没有时间去看它.mp3"
+      },
+      {
+        "cn": "虽然他很富有，但是他过得并不快乐。",
+        "pinyin": "Suīrán tā hěn fùyǒu, dànshì tā guò dé bìng bù kuàilè.",
+        "en": "Although he is very rich, he is not happy.",
+        "grammar_audio": "/audio/mandarin/grammar/s_虽然_suīrán_-_Although_though_20231230_虽然他很富有但是他过得并不快乐.mp3"
+      },
+      {
+        "cn": "虽然她犯了一个大错误，可是我仍然爱她。",
+        "pinyin": "Suīrán tā fànle yīgè dà cuòwù, kěshì wǒ réngrán ài tā.",
+        "en": "Although she made a big mistake, I still love her.",
+        "grammar_audio": "/audio/mandarin/grammar/s_虽然_suīrán_-_Although_though_20231230_虽然她犯了一个大错误可是我仍然爱她.mp3"
+      }
+    ],
+    "p_tag": "HSK_2",
+    "s_tag": "75"
+  },
+  {
+    "title": "如果 (rúguǒ) - If, in case, in the event that",
+    "short_explanation": "Used to express a condition that is required for the result of the sentence to occur.",
+    "long_explanation": "The Mandarin Chinese word '如果 (rúguǒ)' functions similar to the English word 'if', and is used to express a condition or hypothesis that is required for the result of the sentence to occur. It is a conjunction that often precedes a clause, indicating a speculative condition that could influence the outcome of the event or situation being described. It is often used with 就 (jiù) to indicate the result of the condition.",
+    "formation": "如果 + Condition, (就) + Result",
+    "examples": [
+      {
+        "cn": "如果你不吃午餐，你就会饿。",
+        "pinyin": "Rúguǒ nǐ bù chī wǔcān, nǐ jiù huì è.",
+        "en": "If you don't eat lunch, you will be hungry.",
+        "grammar_audio": "/audio/mandarin/grammar/s_如果_rúguǒ_-_If_in_case_in_the_event_that_20231230_如果你不吃午餐你就会饿.mp3"
+      },
+      {
+        "cn": "如果明天下雨，我们就不去公园。",
+        "pinyin": "Rúguǒ míngtiān xià yǔ, wǒmen jiù bù qù gōngyuán.",
+        "en": "If it rains tomorrow, we won't go to the park.",
+        "grammar_audio": "/audio/mandarin/grammar/s_如果_rúguǒ_-_If_in_case_in_the_event_that_20231230_如果明天下雨我们就不去公园.mp3"
+      },
+      {
+        "cn": "如果我有足够的钱，我就会买那辆新车。",
+        "pinyin": "Rúguǒ wǒ yǒu zúgòu de qián, wǒ jiù huì mǎi nà liàng xīn chē.",
+        "en": "If I have enough money, I will buy that new car.",
+        "grammar_audio": "/audio/mandarin/grammar/s_如果_rúguǒ_-_If_in_case_in_the_event_that_20231230_如果我有足够的钱我就会买那辆新车.mp3"
+      },
+      {
+        "cn": "如果他下个月来北京，我就会带他去长城。",
+        "pinyin": "Rúguǒ tā xià ge yuè lái Běijīng, wǒ jiù huì dài tā qù Chángchéng.",
+        "en": "If he comes to Beijing next month, I will take him to the Great Wall.",
+        "grammar_audio": "/audio/mandarin/grammar/s_如果_rúguǒ_-_If_in_case_in_the_event_that_20231230_如果他下个月来北京我就会带他去长城.mp3"
+      }
+    ],
+    "p_tag": "HSK_2",
+    "s_tag": "75"
+  },
+  {
+    "title": "只要 (zhǐyào) - As long as, only if",
+    "short_explanation": "Used to state a condition that if satisfied, a specific result will follow.",
+    "long_explanation": "Only in Chinese is represented as 只要 (zhǐyào). This expression is used in the conditional clause of a sentence and followed by 就 (jiù), indicating that the condition is stated first and the result follows after. The condition is usually something the speaker believes to be quite minimal or easily achieved, thereby creating the sense of 'as long as' or 'only if'.",
+    "formation": "只要 + Condition, 就 + Result",
+    "examples": [
+      {
+        "cn": "只要你努力，就一定能成功。",
+        "pinyin": "Zhǐyào nǐ nǔlì, jiù yídìng néng chénggōng.",
+        "en": "As long as you work hard, you will definitely be successful.",
+        "grammar_audio": "/audio/mandarin/grammar/s_只要_zhǐyào_-_As_long_as_only_if_20231230_只要你努力就一定能成功.mp3"
+      },
+      {
+        "cn": "只要我们坚持，就没有什么不能够做到的。",
+        "pinyin": "Zhǐyào wǒmen jiānchí, jiù méiyǒu shénme bùnéng gòu zuò dào de.",
+        "en": "As long as we persevere, there's nothing we can't accomplish.",
+        "grammar_audio": "/audio/mandarin/grammar/s_只要_zhǐyào_-_As_long_as_only_if_20231230_只要我们坚持就没有什么不能够做到的.mp3"
+      },
+      {
+        "cn": "只要天气好，我们就去公园。",
+        "pinyin": "Zhǐyào tiānqì hǎo, wǒmen jiù qù gōngyuán.",
+        "en": "As long as the weather is good, we will go to the park.",
+        "grammar_audio": "/audio/mandarin/grammar/s_只要_zhǐyào_-_As_long_as_only_if_20231230_只要天气好我们就去公园.mp3"
+      },
+      {
+        "cn": "只要你愿意，就可以与我一起旅行。",
+        "pinyin": "Zhǐyào nǐ yuànyì, jiù kěyǐ yǔ wǒ yīqǐ lǚxíng.",
+        "en": "As long as you are willing, you can travel with me.",
+        "grammar_audio": "/audio/mandarin/grammar/s_只要_zhǐyào_-_As_long_as_only_if_20231230_只要你愿意就可以与我一起旅行.mp3"
+      }
+    ],
+    "p_tag": "HSK_2",
+    "s_tag": "75"
+  },
+  {
+    "title": "但是 (dànshì) - But, however",
+    "short_explanation": "Used to introduce a contrast or contradiction to the previous statement.",
+    "long_explanation": "The Mandarin Chinese word '但是 (dànshì)' is used as a conjunction to introduce a contrast or contradiction in comparison to the previous statement or thought. Similar to the English words 'but' or 'however', it is often used in the middle of a sentence to highlight a differing or opposing point.",
+    "formation": "Sentence 1 + 但是 + Sentence 2",
+    "examples": [
+      {
+        "cn": "我想去看电影，但是我没有时间。",
+        "pinyin": "Wǒ xiǎng qù kàn diànyǐng, dànshì wǒ méiyǒu shíjiān.",
+        "en": "I want to go see a movie, but I don't have time.",
+        "grammar_audio": "/audio/mandarin/grammar/s_但是_dànshì_-_But_however_20231230_我想去看电影但是我没有时间.mp3"
+      },
+      {
+        "cn": "他很聪明，但是他不努力学习。",
+        "pinyin": "Tā hěn cōngmíng, dànshì tā bù nǔlì xuéxí.",
+        "en": "He is very smart, but he doesn't study hard.",
+        "grammar_audio": "/audio/mandarin/grammar/s_但是_dànshì_-_But_however_20231230_他很聪明但是他不努力学习.mp3"
+      },
+      {
+        "cn": "我喜欢吃巧克力，但是我不能吃太多。",
+        "pinyin": "Wǒ xǐhuān chī qiǎokèlì, dànshì wǒ bùnéng chī tàiduō.",
+        "en": "I like eating chocolate, but I can't eat too much.",
+        "grammar_audio": "/audio/mandarin/grammar/s_但是_dànshì_-_But_however_20231230_我喜欢吃巧克力但是我不能吃太多.mp3"
+      },
+      {
+        "cn": "天空很晴朗，但是还是有可能下雨。",
+        "pinyin": "Tiānkōng hěn qínglǎng, dànshì háishì yǒu kěnéng xià yǔ.",
+        "en": "The sky is very clear, but it might still rain.",
+        "grammar_audio": "/audio/mandarin/grammar/s_但是_dànshì_-_But_however_20231230_天空很晴朗但是还是有可能下雨.mp3"
+      }
+    ],
+    "p_tag": "HSK_2",
+    "s_tag": "75"
+  },
+  {
+    "title": "不但...而且 (bùdàn... érqiě) - Not only... but also...",
+    "short_explanation": "Used to express that something has two or more characteristics or actions, emphasizing that all are true.",
+    "long_explanation": "'不但...而且 (bùdàn... érqiě)' in Mandarin Chinese is a conjunction used to sequentially list more than one fact or characteristic about a subject, emphasizing that all are true. It is equivalent to the English 'not only... but also...'. These points could be both positive or negative.",
+    "formation": "Subject + 不但 + Statement 1 + ，而且 + Statement 2",
+    "examples": [
+      {
+        "cn": "她不但是我们班最聪明的学生，而且也是最勤奋的。",
+        "pinyin": "Tā bùdàn shì wǒmen bān zuì cōngmíng de xuéshēng, érqiě yěshì zuì qínfèn de.",
+        "en": "She is not only the smartest student in our class, but also the most diligent.",
+        "grammar_audio": "/audio/mandarin/grammar/s_不但而且_bùdàn_érqiě_-_Not_only_but_also_20231230_她不但是我们班最聪明的学生而且也是最勤奋的.mp3"
+      },
+      {
+        "cn": "这个公园不但有美丽的花，而且有许多有趣的活动。",
+        "pinyin": "Zhège gōngyuán bùdàn yǒu měilì de huā, érqiě yǒu xǔduō yǒuqù de huódòng.",
+        "en": "This park not only has beautiful flowers, but also many interesting activities.",
+        "grammar_audio": "/audio/mandarin/grammar/s_不但而且_bùdàn_érqiě_-_Not_only_but_also_20231230_这个公园不但有美丽的花而且有许多有趣的活动.mp3"
+      },
+      {
+        "cn": "他不但会说普通话，而且还会说粤语和上海话。",
+        "pinyin": "Tā bùdàn huì shuō pǔtōnghuà, érqiě hái huì shuō yuèyǔ hé Shànghǎi huà.",
+        "en": "He can not only speak Mandarin, but also Cantonese and Shanghainese.",
+        "grammar_audio": "/audio/mandarin/grammar/s_不但而且_bùdàn_érqiě_-_Not_only_but_also_20231230_他不但会说普通话而且还会说粤语和上海话.mp3"
+      },
+      {
+        "cn": "这家饭店的食物不但味道好，而且价格也合理。",
+        "pinyin": "Zhè jiā fàndiàn de shíwù bùdàn wèidào hǎo, érqiě jiàgé yě hé lǐ.",
+        "en": "The food at this restaurant is not only tasty, but also reasonably priced.",
+        "grammar_audio": "/audio/mandarin/grammar/s_不但而且_bùdàn_érqiě_-_Not_only_but_also_20231230_这家饭店的食物不但味道好而且价格也合理.mp3"
+      }
+    ],
+    "p_tag": "HSK_2",
+    "s_tag": "100"
+  },
+  {
+    "title": "不过 (búguò) - However, but",
+    "short_explanation": "Used to indicate a contrast or to introduce a new point.",
+    "long_explanation": "The Mandarin Chinese phrase '不过 (búguò)' is a conjunction used to illustrate a contrast or to bring up a new point in a conversation or written discource. It is the equivalent of 'however' or 'but' in English. It is often used to express a differing view or to qualify a previous statement.",
+    "formation": "Sentence 1 + 不过 + Sentence 2 ",
+    "examples": [
+      {
+        "cn": "我原本想去游泳，不过天气太冷了。",
+        "pinyin": "Wǒ yuánběn xiǎng qù yóuyǒng, búguò tiānqì tài lěng le.",
+        "en": "I originally wanted to go swimming, but the weather is too cold.",
+        "grammar_audio": "/audio/mandarin/grammar/s_不过_búguò_-_However_but_20231230_我原本想去游泳不过天气太冷了.mp3"
+      },
+      {
+        "cn": "我喜欢吃巧克力，不过我知道它对身体不好。",
+        "pinyin": "Wǒ xǐhuān chī qiǎokèlì, búguò wǒ zhīdào tā duì shēntǐ bù hǎo.",
+        "en": "I like eating chocolate, however, I know it's not good for my health.",
+        "grammar_audio": "/audio/mandarin/grammar/s_不过_búguò_-_However_but_20231230_我喜欢吃巧克力不过我知道它对身体不好.mp3"
+      },
+      {
+        "cn": "他已经工作了五年，不过他还是没有买车。",
+        "pinyin": "Tā yǐjīng gōngzuò le wǔ nián, búguò tā háishì méiyǒu mǎi chē.",
+        "en": "He has been working for five years, but he still hasn't bought a car.",
+        "grammar_audio": "/audio/mandarin/grammar/s_不过_búguò_-_However_but_20231230_他已经工作了五年不过他还是没有买车.mp3"
+      },
+      {
+        "cn": "我喜欢这部电影，不过我认为它的结尾可以更好。",
+        "pinyin": "Wǒ xǐhuān zhè bù diànyǐng, búguò wǒ rènwéi tā de jiéwěi kěyǐ gèng hǎo.",
+        "en": "I like this movie, however, I think its ending could be better.",
+        "grammar_audio": "/audio/mandarin/grammar/s_不过_búguò_-_However_but_20231230_我喜欢这部电影不过我认为它的结尾可以更好.mp3"
+      }
+    ],
+    "p_tag": "HSK_2",
+    "s_tag": "100"
+  },
+  {
+    "title": "因为 (yīnwèi) - Because, owing to, on account of",
+    "short_explanation": "Used to indicate the reason or cause of an occurrence.",
+    "long_explanation": "The Mandarin Chinese word '因为 (yīnwèi)' is a conjunction used to express the cause or reason behind an action or situation. It is similar to the English words 'because', 'owing to', 'on account of'. It's typically followed by a reason, cause, or an explanation.",
+    "formation": "Subsequent Sentence/Clause + 因为 + Reason Sentence/Clause",
+    "examples": [
+      {
+        "cn": "他昨天没来参加我们的聚会，因为他不舒服。",
+        "pinyin": "Tā zuótiān méi lái cānjiā wǒmen de jùhuì, yīnwèi tā bù shūfu.",
+        "en": "He didn't come to our gathering yesterday, because he was unwell.",
+        "grammar_audio": "/audio/mandarin/grammar/s_因为_yīnwèi_-_Because_owing_to_on_account_of_20231230_他昨天没来参加我们的聚会因为他不舒服.mp3"
+      },
+      {
+        "cn": "我今天上午迟到了，因为公交车故障了。",
+        "pinyin": "Wǒ jīntiān shàngwǔ chídào le, yīnwèi gōngjiāochē gùzhàng le.",
+        "en": "I was late this morning, because the bus broke down.",
+        "grammar_audio": "/audio/mandarin/grammar/s_因为_yīnwèi_-_Because_owing_to_on_account_of_20231230_我今天上午迟到了因为公交车故障了.mp3"
+      },
+      {
+        "cn": "我们不能去旅行了，因为我们的预算不够。",
+        "pinyin": "Wǒmen bùnéng qù lǚxíng le, yīnwèi wǒmen de yùsuàn bùgòu.",
+        "en": "We can't go on a trip because our budget isn't enough.",
+        "grammar_audio": "/audio/mandarin/grammar/s_因为_yīnwèi_-_Because_owing_to_on_account_of_20231230_我们不能去旅行了因为我们的预算不够.mp3"
+      },
+      {
+        "cn": "他一边走一边大哭，因为他的玩具弄丢了。",
+        "pinyin": "Tā yībiān zǒu yībiān dà kū, yīnwèi tā de wánjù nòng diū le.",
+        "en": "He cried while walking because he lost his toy.",
+        "grammar_audio": "/audio/mandarin/grammar/s_因为_yīnwèi_-_Because_owing_to_on_account_of_20231230_他一边走一边大哭因为他的玩具弄丢了.mp3"
+      }
+    ],
+    "p_tag": "HSK_2",
+    "s_tag": "100"
+  },
+  {
+    "title": "或者 (huòzhě) - Or (used in a statement)",
+    "short_explanation": "Used to connect two or more alternative actions, situations, or ideas.",
+    "long_explanation": "'或者 (huòzhě)' is a conjunction used in Mandarin Chinese to offer an alternative option or choice in a statement. It serves a similar function to the English conjunction 'or', and is used to connect two or more possibilities or alternatives.",
+    "formation": "Option 1 + 或者 + Option 2",
+    "examples": [
+      {
+        "cn": "你可以选择吃牛肉面，或者吃炒饭。",
+        "pinyin": "Nǐ kěyǐ xuǎnzé chī niúròu miàn, huòzhě chī chǎofàn.",
+        "en": "You can choose to eat beef noodles, or fried rice.",
+        "grammar_audio": "/audio/mandarin/grammar/s_或者_huòzhě_-_Or_used_in_a_statement_20231230_你可以选择吃牛肉面或者吃炒饭.mp3"
+      },
+      {
+        "cn": "我们可以去公园散步，或者去电影院看电影。",
+        "pinyin": "Wǒmen kěyǐ qù gōngyuán sànbù, huòzhě qù diànyǐngyuàn kàn diànyǐng.",
+        "en": "We can go for a walk in the park, or go to the cinema to watch a movie.",
+        "grammar_audio": "/audio/mandarin/grammar/s_或者_huòzhě_-_Or_used_in_a_statement_20231230_我们可以去公园散步或者去电影院看电影.mp3"
+      },
+      {
+        "cn": "这件衣服可以买蓝色的，或者买红色的。",
+        "pinyin": "Zhè jiàn yīfu kěyǐ mǎi lán sè de, huòzhě mǎi hóng sè de.",
+        "en": "You can buy this piece of clothing in blue, or in red.",
+        "grammar_audio": "/audio/mandarin/grammar/s_或者_huòzhě_-_Or_used_in_a_statement_20231230_这件衣服可以买蓝色的或者买红色的.mp3"
+      },
+      {
+        "cn": "你可以选择现在告诉我真相，或者我自己找出来。",
+        "pinyin": "Nǐ kěyǐ xuǎnzé xiànzài gàosu wǒ zhēnxiàng, huòzhě wǒ zìjǐ zhǎo chūlái.",
+        "en": "You can choose to tell me the truth now, or I’ll find out myself.",
+        "grammar_audio": "/audio/mandarin/grammar/s_或者_huòzhě_-_Or_used_in_a_statement_20231230_你可以选择现在告诉我真相或者我自己找出来.mp3"
+      }
+    ],
+    "p_tag": "HSK_2",
+    "s_tag": "100"
+  },
+  {
+    "title": "不仅...还... (bùjǐn... hái...) - Not only... but also...",
+    "short_explanation": "This phrase is used to introduce two or more situations or characteristics, indicating that not only the first one exists or happens, but also the additional ones.",
+    "long_explanation": "In Chinese grammar, '不仅...还...' (bùjǐn... hái...) is a commonly used structure that corresponds to 'not only...but also...' in English. It allows you to give additional information or emphasize more than one quality or action. It is usually used to make your sentence more engaging or persuasive by providing more than one reason, feature, or result.",
+    "formation": "Subject + 不仅 + Statement 1, 还 + Statement 2",
+    "examples": [
+      {
+        "cn": "她不仅会说英文，还会说法文和西班牙文。",
+        "pinyin": "Tā bùjǐn huì shuō Yīngwén, hái huì shuō Fǎwén hé Xībānyá wén.",
+        "en": "She not only speaks English but also speaks French and Spanish.",
+        "grammar_audio": "/audio/mandarin/grammar/s_不仅还_bùjǐn_hái_-_Not_only_but_also_20231230_她不仅会说英文还会说法文和西班牙文.mp3"
+      },
+      {
+        "cn": "我不仅喜欢做瑜伽，还喜欢做极限运动。",
+        "pinyin": "Wǒ bùjǐn xǐhuān zuò yújiā, hái xǐhuān zuò jíxiàn yùndòng.",
+        "en": "I not only like doing yoga but also like doing extreme sports.",
+        "grammar_audio": "/audio/mandarin/grammar/s_不仅还_bùjǐn_hái_-_Not_only_but_also_20231230_我不仅喜欢做瑜伽还喜欢做极限运动.mp3"
+      },
+      {
+        "cn": "他不仅重视学习，还重视社会实践。",
+        "pinyin": "Tā bùjǐn zhòngshì xuéxí, hái zhòngshì shèhuì shíjiàn.",
+        "en": "He not only values study but also values social practice.",
+        "grammar_audio": "/audio/mandarin/grammar/s_不仅还_bùjǐn_hái_-_Not_only_but_also_20231230_他不仅重视学习还重视社会实践.mp3"
+      },
+      {
+        "cn": "这个电脑不仅性能好，还很轻便。",
+        "pinyin": "Zhège diànnǎo bùjǐn xìngnéng hǎo, hái hěn qīngbiàn.",
+        "en": "This computer not only has good performance but is also very light.",
+        "grammar_audio": "/audio/mandarin/grammar/s_不仅还_bùjǐn_hái_-_Not_only_but_also_20231230_这个电脑不仅性能好还很轻便.mp3"
+      }
+    ],
+    "p_tag": "HSK_2",
+    "s_tag": "100"
+  },
+  {
+    "title": "并且 (bìngqiě) - And, moreover, furthermore",
+    "short_explanation": "Used as a conjunction to connect phrases or sentences, expressing a further addition or supplementary.",
+    "long_explanation": "The Mandarin Chinese conjunction '并且 (bìngqiě)' is used to link words, phrases, sentences, or even paragraphs in a cohesive way. It is equivalent to 'and', 'moreover', 'furthermore' in English. By using this conjunction, you can add more related information to a preceding clause, or emphasize the additional information of the speaker's point of view and perspective.",
+    "formation": "(Clause 1) + 并且 (bìngqiě) + (Clause 2)",
+    "examples": [
+      {
+        "cn": "他热爱他的工作，并且他的工作做得非常好。",
+        "pinyin": "Tā rè ài tā de gōng zuò, bìng qiě tā de gōng zuò zuò de fēi cháng hǎo.",
+        "en": "He loves his job and moreover, he does his job very well.",
+        "grammar_audio": "/audio/mandarin/grammar/s_并且_bìngqiě_-_And_moreover_furthermore_20231230_他热爱他的工作并且他的工作做得非常好.mp3"
+      },
+      {
+        "cn": "她并且是一个优秀的演员，还是一个热心的公益人士。",
+        "pinyin": "Tā bìng qiě shì yī gè yōu xiù de yǎn yuán, hái shì yī gè rè xīn de gōng yì rén shì.",
+        "en": "She is not only an excellent actress but also a passionate philanthropist.",
+        "grammar_audio": "/audio/mandarin/grammar/s_并且_bìngqiě_-_And_moreover_furthermore_20231230_她并且是一个优秀的演员还是一个热心的公益人士.mp3"
+      },
+      {
+        "cn": "这个果汁不但口感鲜美，并且对健康有益。",
+        "pinyin": "Zhè gè guǒ zhī bù dàn kǒu gǎn xiān měi, bìng qiě duì jiàn kàng yǒu yì.",
+        "en": "This juice is not only delicious but also beneficial to health.",
+        "grammar_audio": "/audio/mandarin/grammar/s_并且_bìngqiě_-_And_moreover_furthermore_20231230_这个果汁不但口感鲜美并且对健康有益.mp3"
+      },
+      {
+        "cn": "我们必须要保护环境，并且应该提倡低碳生活。",
+        "pinyin": "Wǒmen bì xū yào bǎohù huánjìng, bìngqiě yīnggāi tíchàng dītàn shēnghuó.",
+        "en": "We must protect the environment and moreover, we should advocate a low-carbon lifestyle.",
+        "grammar_audio": "/audio/mandarin/grammar/s_并且_bìngqiě_-_And_moreover_furthermore_20231230_我们必须要保护环境并且应该提倡低碳生活.mp3"
+      }
+    ],
+    "p_tag": "HSK_2",
+    "s_tag": "100"
+  },
+  {
+    "title": "越来越 (yuè lái yuè) - More and more",
+    "short_explanation": "Used to indicate that something is increasingly so.",
+    "long_explanation": "The Mandarin Chinese expression '越来越 (yuè lái yuè)' portrays the meaning of 'more and more' or 'increasingly' in English. It is used to express a trend, tendency or change that is continuing to increase or become more intense. '越来越' is always followed by an adjective.",
+    "formation": "Subject + 越来越 + Adjective",
+    "examples": [
+      {
+        "cn": "他的中文越来越好了。",
+        "pinyin": "Tā de zhōngwén yuè lái yuè hǎo le.",
+        "en": "His Chinese is getting better and better.",
+        "grammar_audio": "/audio/mandarin/grammar/s_越来越_yuè_lái_yuè_-_More_and_more_20231230_他的中文越来越好了.mp3"
+      },
+      {
+        "cn": "现在的天气越来越热。",
+        "pinyin": "Xiànzài de tiānqì yuè lái yuè rè.",
+        "en": "The weather is getting hotter and hotter.",
+        "grammar_audio": "/audio/mandarin/grammar/s_越来越_yuè_lái_yuè_-_More_and_more_20231230_现在的天气越来越热.mp3"
+      },
+      {
+        "cn": "我感觉越来越累，我需要休息。",
+        "pinyin": "Wǒ gǎnjué yuè lái yuè lèi, wǒ xūyào xiūxí.",
+        "en": "I feel more and more tired, I need to rest.",
+        "grammar_audio": "/audio/mandarin/grammar/s_越来越_yuè_lái_yuè_-_More_and_more_20231230_我感觉越来越累我需要休息.mp3"
+      },
+      {
+        "cn": "我们班的学生越来越多。",
+        "pinyin": "Wǒmen bān de xuéshēng yuè lái yuè duō.",
+        "en": "There are more and more students in our class.",
+        "grammar_audio": "/audio/mandarin/grammar/s_越来越_yuè_lái_yuè_-_More_and_more_20231230_我们班的学生越来越多.mp3"
+      }
+    ],
+    "p_tag": "HSK_2",
+    "s_tag": "100"
+  },
+  {
+    "title": "虽然...但是... (suīrán... dànshì...) - Although...but...",
+    "short_explanation": "This pattern is used to express 'although... but...' to connect two contrasting ideas.",
+    "long_explanation": "In Mandarin Chinese, '虽然...但是... (suīrán... dànshì...)' is a structure used to show contrast between two statements. Similar to the English 'although... but...', the first part '虽然 (suīrán)', introduces a situation or fact. The second part '但是 (dànshì)', introduces a contrast or contradiction to the first statement.",
+    "formation": "虽然 + Statement 1 + 但是 + Statement 2.",
+    "examples": [
+      {
+        "cn": "虽然我很喜欢你，但是我不能和你在一起。",
+        "pinyin": "Suīrán wǒ hěn xǐhuan nǐ, dànshì wǒ bùnéng hé nǐ zài yīqǐ.",
+        "en": "Although I really like you, but I can't be with you.",
+        "grammar_audio": "/audio/mandarin/grammar/s_虽然但是_suīrán_dànshì_-_Althoughbut_20231230_虽然我很喜欢你但是我不能和你在一起.mp3"
+      },
+      {
+        "cn": "虽然今天天气很好，但是我还是觉得有点冷。",
+        "pinyin": "Suīrán jīntiān tiānqì hěn hǎo, dànshì wǒ háishì juéde yǒudiǎn lěng.",
+        "en": "Although the weather is good today, but I still feel a bit cold.",
+        "grammar_audio": "/audio/mandarin/grammar/s_虽然但是_suīrán_dànshì_-_Althoughbut_20231230_虽然今天天气很好但是我还是觉得有点冷.mp3"
+      },
+      {
+        "cn": "虽然他已经尽力了，但是还是没能赢得比赛。",
+        "pinyin": "Suīrán tā yǐjīng jìnlìle, dànshì háishì méi néng yíngdé bǐsài.",
+        "en": "Although he tried his best, but he still couldn't win the game.",
+        "grammar_audio": "/audio/mandarin/grammar/s_虽然但是_suīrán_dànshì_-_Althoughbut_20231230_虽然他已经尽力了但是还是没能赢得比赛.mp3"
+      },
+      {
+        "cn": "虽然他长得很帅，但是他的性格我不喜欢。",
+        "pinyin": "Suīrán tā zhǎng de hěn shuài, dànshì tā de xìnggé wǒ bù xǐhuān.",
+        "en": "Although he is very handsome, but I don't like his personality.",
+        "grammar_audio": "/audio/mandarin/grammar/s_虽然但是_suīrán_dànshì_-_Althoughbut_20231230_虽然他长得很帅但是他的性格我不喜欢.mp3"
+      }
+    ],
+    "p_tag": "HSK_2",
+    "s_tag": "100"
+  },
+  {
+    "title": "先...再... (xiān... zài...) - First...then...",
+    "short_explanation": "Used to express sequential actions or steps.",
+    "long_explanation": "In Mandarin, '先...再...' is a grammar structure used to express the sequence of actions or steps. '先' means 'first', and '再' means 'then' or 'next'. It is important to note that the events mentioned after '先' take place before the ones mentioned after '再'.",
+    "formation": "Subject + 先 + Action 1 + 再 + Action 2",
+    "examples": [
+      {
+        "cn": "吃饭前，你先要洗手再吃。",
+        "pinyin": "Chīfàn qián, nǐ xiān yào xǐshǒu zài chī.",
+        "en": "Before eating, you should first wash your hands then eat.",
+        "grammar_audio": "/audio/mandarin/grammar/s_先再_xiān_zài_-_Firstthen_20231230_吃饭前你先要洗手再吃.mp3"
+      },
+      {
+        "cn": "请你先把你的作业完成再玩游戏。",
+        "pinyin": "Qǐng nǐ xiān bǎ nǐ de zuòyè wánchéng zài wán yóuxì.",
+        "en": "Please finish your homework first then play games.",
+        "grammar_audio": "/audio/mandarin/grammar/s_先再_xiān_zài_-_Firstthen_20231230_请你先把你的作业完成再玩游戏.mp3"
+      },
+      {
+        "cn": "我们先去超市买东西，再回家做晚饭。",
+        "pinyin": "Wǒmen xiān qù chāoshì mǎi dōngxī, zài huí jiā zuò wǎnfàn.",
+        "en": "We will first go to the supermarket to buy things, then go home to cook dinner.",
+        "grammar_audio": "/audio/mandarin/grammar/s_先再_xiān_zài_-_Firstthen_20231230_我们先去超市买东西再回家做晚饭.mp3"
+      },
+      {
+        "cn": "我先要写一篇报告再睡觉。",
+        "pinyin": "Wǒ xiān yào xiě yī piān bàogào zài shuìjiào.",
+        "en": "I have to write a report first then sleep.",
+        "grammar_audio": "/audio/mandarin/grammar/s_先再_xiān_zài_-_Firstthen_20231230_我先要写一篇报告再睡觉.mp3"
+      }
+    ],
+    "p_tag": "HSK_2",
+    "s_tag": "100"
+  },
+  {
+    "title": "也许 (yěxǔ) - Perhaps, Maybe",
+    "short_explanation": "Used to indicate possibility, uncertainty, or doubt.",
+    "long_explanation": "The term '也许 (yěxǔ)' in Mandarin Chinese is used to express the hypothetical nature of an event, similar to the usage of 'perhaps' or 'maybe' in English. This word is used when the speaker isn't certain of an outcome but perceives it as a potential possibility.",
+    "formation": "Subject + 也许 + Verb/Adjective + Rest of the Sentence",
+    "examples": [
+      {
+        "cn": "也许他今天没来上班是因为他生病了。",
+        "pinyin": "Yěxǔ tā jīntiān méi lái shàngbān shì yīnwèi tā shēngbìng le.",
+        "en": "Perhaps he didn't come to work today because he is sick.",
+        "grammar_audio": "/audio/mandarin/grammar/s_也许_yěxǔ_-_Perhaps_Maybe_20231230_也许他今天没来上班是因为他生病了.mp3"
+      },
+      {
+        "cn": "也许我们明天可以去看电影。",
+        "pinyin": "Yěxǔ wǒmen míngtiān kěyǐ qù kàn diànyǐng.",
+        "en": "Maybe we can go to watch a movie tomorrow.",
+        "grammar_audio": "/audio/mandarin/grammar/s_也许_yěxǔ_-_Perhaps_Maybe_20231230_也许我们明天可以去看电影.mp3"
+      },
+      {
+        "cn": "他也许会喜欢这个礼物。",
+        "pinyin": "Tā yěxǔ huì xǐhuān zhège lǐwù.",
+        "en": "Perhaps he will like this gift.",
+        "grammar_audio": "/audio/mandarin/grammar/s_也许_yěxǔ_-_Perhaps_Maybe_20231230_他也许会喜欢这个礼物.mp3"
+      },
+      {
+        "cn": "你也许认为这是一个好主意，但我不这么认为。",
+        "pinyin": "Nǐ yěxǔ rènwéi zhè shì yīgè hǎo zhǔyì, dàn wǒ bù zhème rènwéi.",
+        "en": "You may think this is a good idea, but I don't think so.",
+        "grammar_audio": "/audio/mandarin/grammar/s_也许_yěxǔ_-_Perhaps_Maybe_20231230_你也许认为这是一个好主意但我不这么认为.mp3"
+      }
+    ],
+    "p_tag": "HSK_2",
+    "s_tag": "100"
+  },
+  {
+    "title": "还好 (hái hǎo) - Fortunately, Luckily",
+    "short_explanation": "Used to express a relief or moderate satisfaction in a certain situation.",
+    "long_explanation": "The phrase '还好 (hái hǎo)' in Mandarin Chinese is often used to convey a sense of moderate satisfaction or relief about a situation. It can be translated to 'fortunately' or 'luckily' in English. It's also used to note that something is not as bad as it could have been.",
+    "formation": "Subject + 还好 + Verb/Adjective + Rest of the sentence.",
+    "examples": [
+      {
+        "cn": "今天的天气还好，没有像预报的那么热。",
+        "pinyin": "Jīntiān de tiānqì hái hǎo, méiyǒu xiàng yùbào de nàme rè.",
+        "en": "The weather today is alright, it's not as hot as forecasted.",
+        "grammar_audio": "/audio/mandarin/grammar/s_还好_hái_hǎo_-_Fortunately_Luckily_20231230_今天的天气还好没有像预报的那么热.mp3"
+      },
+      {
+        "cn": "还好我带了雨伞，否则我会淋湿的。",
+        "pinyin": "Hái hǎo wǒ dài le yǔsǎn, fǒuzé wǒ huì lín shī de.",
+        "en": "Luckily, I brought an umbrella, otherwise I would be soaked.",
+        "grammar_audio": "/audio/mandarin/grammar/s_还好_hái_hǎo_-_Fortunately_Luckily_20231230_还好我带了雨伞否则我会淋湿的.mp3"
+      },
+      {
+        "cn": "她的手机摔了一地，但还好屏幕没有碎。",
+        "pinyin": "Tā de shǒujī shuāi le yī dì, dàn hái hǎo píngmù méiyǒu suì.",
+        "en": "Her phone fell on the floor, but luckily the screen didn't crack.",
+        "grammar_audio": "/audio/mandarin/grammar/s_还好_hái_hǎo_-_Fortunately_Luckily_20231230_她的手机摔了一地但还好屏幕没有碎.mp3"
+      },
+      {
+        "cn": "我忘了带手机出门，还好我的朋友可以帮我打电话。",
+        "pinyin": "Wǒ wàng le dài shǒujī chūmén, hái hǎo wǒ de péngyǒu kěyǐ bāng wǒ dǎ diànhuà.",
+        "en": "I forgot my phone when I left home, fortunately, my friend could make a call for me.",
+        "grammar_audio": "/audio/mandarin/grammar/s_还好_hái_hǎo_-_Fortunately_Luckily_20231230_我忘了带手机出门还好我的朋友可以帮我打电话.mp3"
+      }
+    ],
+    "p_tag": "HSK_2",
+    "s_tag": "100"
+  },
+  {
+    "title": "一共 (yígòng) - In total, altogether",
+    "short_explanation": "Used to express the total amount or sum of something.",
+    "long_explanation": "The Mandarin Chinese word '一共 (yígòng)' is used to denote the total amount or sum of something, much like the English phrases 'in total' or 'altogether'. Typically, it is used to indicate a combined total in a context involving numbers, quantities or measurements.",
+    "formation": "一共 + Quantity + Measure Word + Noun",
+    "examples": [
+      {
+        "cn": "我们一共有五个苹果。",
+        "pinyin": "Wǒmen yígòng yǒu wǔ gè píngguǒ.",
+        "en": "We have five apples in total.",
+        "grammar_audio": "/audio/mandarin/grammar/s_一共_yígòng_-_In_total_altogether_20231230_我们一共有五个苹果.mp3"
+      },
+      {
+        "cn": "他一共去过三次中国。",
+        "pinyin": "Tā yígòng qùguò sān cì Zhōngguó.",
+        "en": "He has been to China three times in total.",
+        "grammar_audio": "/audio/mandarin/grammar/s_一共_yígòng_-_In_total_altogether_20231230_他一共去过三次中国.mp3"
+      },
+      {
+        "cn": "这个月我的工资一共是一千元。",
+        "pinyin": "Zhè gè yuè wǒ de gōngzī yígòng shì yī qiān yuán.",
+        "en": "My salary for this month is in total one thousand yuan.",
+        "grammar_audio": "/audio/mandarin/grammar/s_一共_yígòng_-_In_total_altogether_20231230_这个月我的工资一共是一千元.mp3"
+      },
+      {
+        "cn": "这个教室一共有二十把椅子。",
+        "pinyin": "Zhè gè jiàoshì yígòng yǒu èrshí bǎ yǐzi.",
+        "en": "There are altogether twenty chairs in this classroom.",
+        "grammar_audio": "/audio/mandarin/grammar/s_一共_yígòng_-_In_total_altogether_20231230_这个教室一共有二十把椅子.mp3"
+      }
+    ],
+    "p_tag": "HSK_2",
+    "s_tag": "100"
+  },
+  {
+    "title": "根据 (gēnjù) - According to, based on",
+    "short_explanation": "Used to express the source or basis upon which an action, decision, or judgement is made.",
+    "long_explanation": "The Mandarin Chinese term '根据 (gēnjù)' is used to denote the source or basis of information, decision, judgement, or action. This is often used to reference a document, data, fact, or observation on which any action or conclusion is based. The phrase is equivalent to saying 'according to' or 'based on' in English.",
+    "formation": "根据 + Source/Basis + any further sentence information",
+    "examples": [
+      {
+        "cn": "根据我妈妈的意见，我应该选择一份稳定的工作。",
+        "pinyin": "Gēnjù wǒ māmā de yìjiàn, wǒ yīnggāi xuǎnzé yī fèn wěndìng de gōngzuò.",
+        "en": "According to my mother's opinion, I should choose a stable job.",
+        "grammar_audio": "/audio/mandarin/grammar/s_根据_gēnjù_-_According_to_based_on_20231230_根据我妈妈的意见我应该选择一份稳定的工作.mp3"
+      },
+      {
+        "cn": "根据预报，明天会下大雨。",
+        "pinyin": "Gēnjù yùbào, míngtiān huì xià dàyǔ.",
+        "en": "According to the forecast, it will rain heavily tomorrow.",
+        "grammar_audio": "/audio/mandarin/grammar/s_根据_gēnjù_-_According_to_based_on_20231230_根据预报明天会下大雨.mp3"
+      },
+      {
+        "cn": "根据这篇报告，我们公司的销售业绩有所提高。",
+        "pinyin": "Gēnjù zhè piān bàogào, wǒmen gōngsī de xiāoshòu yèjì yǒu suǒ tígāo.",
+        "en": "Based on this report, our company's sales performance has improved.",
+        "grammar_audio": "/audio/mandarin/grammar/s_根据_gēnjù_-_According_to_based_on_20231230_根据这篇报告我们公司的销售业绩有所提高.mp3"
+      },
+      {
+        "cn": "根据警方的调查，这是一起自然死亡的案件。",
+        "pinyin": "Gēnjù jǐngfāng de diàochá, zhè shì yī qǐ zìrán sǐwáng de ànjiàn.",
+        "en": "According to the police investigation, this was a case of natural death.",
+        "grammar_audio": "/audio/mandarin/grammar/s_根据_gēnjù_-_According_to_based_on_20231230_根据警方的调查这是一起自然死亡的案件.mp3"
+      }
+    ],
+    "p_tag": "HSK_2",
+    "s_tag": "100"
+  },
+  {
+    "title": "甚至 (shènzhì) - Even (to the extent that)",
+    "short_explanation": "Used to indicate an unexpected or extreme situation or action.",
+    "long_explanation": "The Mandarin Chinese word '甚至 (shènzhì)' is an adverb used to express 'even' or 'to the extent that' in English. It is used to point out an extreme situation or action regarding the subject matter, often implying a surprising or unexpected condition that falls outside of the anticipated norm.",
+    "formation": "Subject + Verb/Adjective + 甚至 + Extreme situation/action",
+    "examples": [
+      {
+        "cn": "他是我的好朋友，他帮我做了很多事，甚至帮我搬家。",
+        "pinyin": "Tā shì wǒ de hǎo péngyǒu, tā bāng wǒ zuòle hěnduō shì , shènzhì bāng wǒ bān jiā.",
+        "en": "He is my good friend, he has helped me a lot, even helped me move house.",
+        "grammar_audio": "/audio/mandarin/grammar/s_甚至_shènzhì_-_Even_to_the_extent_that_20231230_他是我的好朋友他帮我做了很多事甚至帮我搬家.mp3"
+      },
+      {
+        "cn": "这个餐馆的菜非常好吃，甚至连挑剔的我都被打动了。",
+        "pinyin": "Zhège cānguǎn de cài fēicháng hǎochī , shènzhì lián tiāotì de wǒ dōu bèi dǎdòng le.",
+        "en": "The food in this restaurant is really delicious, even I, who am picky, was moved.",
+        "grammar_audio": "/audio/mandarin/grammar/s_甚至_shènzhì_-_Even_to_the_extent_that_20231230_这个餐馆的菜非常好吃甚至连挑剔的我都被打动了.mp3"
+      },
+      {
+        "cn": "这个手机的性能非常好，甚至可以替代电脑。",
+        "pinyin": "Zhège shǒujī de xìngnéng fēicháng hǎo , shènzhì kěyǐ tìdài diànnǎo.",
+        "en": "The performance of this phone is very good, it can even replace a computer.",
+        "grammar_audio": "/audio/mandarin/grammar/s_甚至_shènzhì_-_Even_to_the_extent_that_20231230_这个手机的性能非常好甚至可以替代电脑.mp3"
+      },
+      {
+        "cn": "他的汉语说得很好，甚至可以和中国人流利交谈。",
+        "pinyin": "Tā de Hànyǔ shuō de hěn hǎo , shènzhì kěyǐ hé Zhōngguó rén liúlì jiāotán.",
+        "en": "His Chinese is very good, he can even converse fluently with Chinese people.",
+        "grammar_audio": "/audio/mandarin/grammar/s_甚至_shènzhì_-_Even_to_the_extent_that_20231230_他的汉语说得很好甚至可以和中国人流利交谈.mp3"
+      }
+    ],
+    "p_tag": "HSK_2",
+    "s_tag": "100"
+  },
+  {
+    "title": "到底 (dàodǐ) - What on earth; what in the world",
+    "short_explanation": "Used in a question for emphasis, expressing impatience or urgency.",
+    "long_explanation": "The Mandarin Chinese phrase '到底 (dàodǐ)' is a question word used for emphasis or to express impatience, urgency, or confusion. The expression is roughly equivalent to the English phrases 'what on earth' or 'what in the world', but it does not necessarily portray a negative consequence. The phrase '到底 (dàodǐ)' is usually used when the speaker wants to stress their question, making it more intensive.",
+    "formation": "Subject + 到底 + Verb/Adjective + Rest of the sentence?",
+    "examples": [
+      {
+        "cn": "你到底想去哪里度假？我还没有决定。",
+        "pinyin": "Nǐ dàodǐ xiǎng qù nǎlǐ dùjià? Wǒ hái méiyǒu juédìng.",
+        "en": "Where on earth do you want to go on vacation? I haven't decided yet.",
+        "grammar_audio": "/audio/mandarin/grammar/s_到底_dàodǐ_-_What_on_earth_what_in_the_world_20231230_你到底想去哪里度假我还没有决定.mp3"
+      },
+      {
+        "cn": "他到底为什么还没来？他遇到了交通问题。",
+        "pinyin": "Tā dàodǐ wèishéme hái méi lái? Tā yùdào le jiāotōng wèntí.",
+        "en": "Why on earth hasn't he come yet? He ran into some traffic issues.",
+        "grammar_audio": "/audio/mandarin/grammar/s_到底_dàodǐ_-_What_on_earth_what_in_the_world_20231230_他到底为什么还没来他遇到了交通问题.mp3"
+      },
+      {
+        "cn": "她到底喜欢什么样的音乐？她喜欢各种类型的音乐。",
+        "pinyin": "Tā dàodǐ xǐhuān shénme yàng de yīnyuè? Tā xǐhuān gèzhǒng lèixíng de yīnyuè.",
+        "en": "What kind of music does she like in the world? She likes all kinds of music.",
+        "grammar_audio": "/audio/mandarin/grammar/s_到底_dàodǐ_-_What_on_earth_what_in_the_world_20231230_她到底喜欢什么样的音乐她喜欢各种类型的音乐.mp3"
+      },
+      {
+        "cn": "你到底能不能来我的生日派对？我可以来。",
+        "pinyin": "Nǐ dàodǐ néng bùnéng lái wǒ de shēngrì pàiduì? Wǒ kěyǐ lái.",
+        "en": "Can you come to my birthday party or not, after all? I can come.",
+        "grammar_audio": "/audio/mandarin/grammar/s_到底_dàodǐ_-_What_on_earth_what_in_the_world_20231230_你到底能不能来我的生日派对我可以来.mp3"
+      }
+    ],
+    "p_tag": "HSK_2",
+    "s_tag": "100"
+  },
+  {
+    "title": "由于 (yóuyú) - Due to, because of",
+    "short_explanation": "Used to denote the reason or cause of a situation or event.",
+    "long_explanation": "The Mandarin Chinese phrase '由于 (yóuyú)' is used to express the cause or reason behind a certain event or situation. It is equivalent to 'due to' or 'because of' in English. This conjunction is usually used to start a sentence or phrase, explaining why something happened or is happening.",
+    "formation": "由于 + Reason/Cause, + Result/Action.",
+    "examples": [
+      {
+        "cn": "由于交通堵塞，我错过了飞机。",
+        "pinyin": "Yóuyú jiāotōng dǔsè, wǒ cuòguòle fēijī.",
+        "en": "Due to traffic congestion, I missed the airplane.",
+        "grammar_audio": "/audio/mandarin/grammar/s_由于_yóuyú_-_Due_to_because_of_20231230_由于交通堵塞我错过了飞机.mp3"
+      },
+      {
+        "cn": "他不能参加比赛，由于他受伤了。",
+        "pinyin": "Tā bùnéng cānjiā bǐsài, yóuyú tā shòushāng le.",
+        "en": "He can't participate in the competition, due to his injury.",
+        "grammar_audio": "/audio/mandarin/grammar/s_由于_yóuyú_-_Due_to_because_of_20231230_他不能参加比赛由于他受伤了.mp3"
+      },
+      {
+        "cn": "由于雨下得很大，我们决定不去公园了。",
+        "pinyin": "Yóuyú yǔ xià dé hěn dà, wǒmen juédìng bù qù gōngyuán le.",
+        "en": "Due to the heavy rain, we decided not to go to the park.",
+        "grammar_audio": "/audio/mandarin/grammar/s_由于_yóuyú_-_Due_to_because_of_20231230_由于雨下得很大我们决定不去公园了.mp3"
+      },
+      {
+        "cn": "他的成功由于他的努力工作和才能。",
+        "pinyin": "Tā de chénggōng yóuyú tā de nǔlì gōngzuò hé cáinéng.",
+        "en": "His success is due to his hard work and talent.",
+        "grammar_audio": "/audio/mandarin/grammar/s_由于_yóuyú_-_Due_to_because_of_20231230_他的成功由于他的努力工作和才能.mp3"
+      }
+    ],
+    "p_tag": "HSK_2",
+    "s_tag": "100"
+  },
+  {
+    "title": "只有...才... (zhǐyǒu... cái...) - Only if/when... then...",
+    "short_explanation": "Used to indicate that 'only if/when' condition A is true, then result B occurs.",
+    "long_explanation": "The Mandarin Chinese phrase '只有...才...' (zhǐyǒu... cái...) is a complex structure used to express that only under a certain condition (expressed in the first part), a certain result (expressed in the second part) can occur. It is equivalent to saying 'only if/when... then' in English. This structure is often used in statements of conditional reasoning or expressing the exclusivity and inevitability of a situation.",
+    "formation": "只有 + Condition A + 才 + Result B",
+    "examples": [
+      {
+        "cn": "只有通过努力学习，我才能通过汉语水平考试。",
+        "pinyin": "Zhǐyǒu tōngguò nǔlì xuéxí, wǒ cái néng tōngguò Hànyǔ shuǐpíng kǎoshì.",
+        "en": "Only if I study hard, then I can pass the Chinese proficiency test.",
+        "grammar_audio": "/audio/mandarin/grammar/s_只有才_zhǐyǒu_cái_-_Only_if/when_then_20231230_只有通过努力学习我才能通过汉语水平考试.mp3"
+      },
+      {
+        "cn": "只有了解一种语言的文化背景，才能真正熟悉它。",
+        "pinyin": "Zhǐyǒu liǎojiě yī zhǒng yǔyán de wénhuà bèijǐng, cái néng zhēnzhèng shúxī tā.",
+        "en": "Only by understanding the cultural background of a language can you truly be familiar with it.",
+        "grammar_audio": "/audio/mandarin/grammar/s_只有才_zhǐyǒu_cái_-_Only_if/when_then_20231230_只有了解一种语言的文化背景才能真正熟悉它.mp3"
+      },
+      {
+        "cn": "只有吃了早餐，我才有足够的能量开始新的一天。",
+        "pinyin": "Zhǐyǒu chīle zǎocān, wǒ cái yǒu zúgòu de néngliàng kāishǐ xīn de yītiān.",
+        "en": "Only by eating breakfast do I have enough energy to start a new day.",
+        "grammar_audio": "/audio/mandarin/grammar/s_只有才_zhǐyǒu_cái_-_Only_if/when_then_20231230_只有吃了早餐我才有足够的能量开始新的一天.mp3"
+      },
+      {
+        "cn": "只有我们全力以赴，才能完成这个困难的任务。",
+        "pinyin": "Zhǐyǒu wǒmen quánlì yǐfù, cái néng wánchéng zhège kùnnán de rènwù.",
+        "en": "Only if we give it our all can we complete this difficult task.",
+        "grammar_audio": "/audio/mandarin/grammar/s_只有才_zhǐyǒu_cái_-_Only_if/when_then_20231230_只有我们全力以赴才能完成这个困难的任务.mp3"
+      }
+    ],
+    "p_tag": "HSK_2",
+    "s_tag": "100"
+  },
+  {
+    "title": "否则 (fǒuzé) - Otherwise, or else",
+    "short_explanation": "Used to present a negative consequence if a certain condition is not met.",
+    "long_explanation": "The Mandarin Chinese conjunction '否则 (fǒuzé)' is used to present an undesirable outcome or a negative situation, which might occur if a particular condition is not fulfilled or a required action is not taken. It is similar to 'otherwise' or 'or else' in English. It creates a sense of warning and suggests the need to meet certain conditions to escape the negative consequence.",
+    "formation": "Clause 1 + 否则 + Clause 2",
+    "examples": [
+      {
+        "cn": "你需要每天按时服用这些药，否则你的健康会受到影响。",
+        "pinyin": "Nǐ xūyào měitiān ànshí fúyòng zhèxiē yào, fǒuzé nǐ de jiànkāng huì shòudào yǐngxiǎng.",
+        "en": "You need to take these medicines punctually every day, otherwise your health will be affected.",
+        "grammar_audio": "/audio/mandarin/grammar/s_否则_fǒuzé_-_Otherwise_or_else_20231230_你需要每天按时服用这些药否则你的健康会受到影响.mp3"
+      },
+      {
+        "cn": "我们要尽早离开，否则我们会错过火车。",
+        "pinyin": "Wǒmen yào jǐnzǎo líkāi, fǒuzé wǒmen huì cuòguò huǒchē.",
+        "en": "We have to leave early, otherwise we will miss the train.",
+        "grammar_audio": "/audio/mandarin/grammar/s_否则_fǒuzé_-_Otherwise_or_else_20231230_我们要尽早离开否则我们会错过火车.mp3"
+      },
+      {
+        "cn": "请你把房间整理好，否则妈妈会生气的。",
+        "pinyin": "Qǐng nǐ bǎ fángjiān zhěnglǐ hǎo, fǒuzé māma huì shēngqì de.",
+        "en": "Please tidy up your room, otherwise mom will get angry.",
+        "grammar_audio": "/audio/mandarin/grammar/s_否则_fǒuzé_-_Otherwise_or_else_20231230_请你把房间整理好否则妈妈会生气的.mp3"
+      },
+      {
+        "cn": "把苹果放进冰箱里，否则它会烂掉。",
+        "pinyin": "Bǎ píngguǒ fàng jìn bīngxiāng lǐ, fǒuzé tā huì làn diào.",
+        "en": "Put the apple in the refrigerator, or else it will rot.",
+        "grammar_audio": "/audio/mandarin/grammar/s_否则_fǒuzé_-_Otherwise_or_else_20231230_把苹果放进冰箱里否则它会烂掉.mp3"
+      }
+    ],
+    "p_tag": "HSK_2",
+    "s_tag": "100"
+  },
+  {
+    "title": "而 (ér) - And, but, yet",
+    "short_explanation": "Used to express contrast or continuation of an idea.",
+    "long_explanation": "The Mandarin Chinese word '而 (ér)' is a conjunction used to connect clauses or sentences. It is similar to 'and', 'but', or 'yet' in English. This word can be used to express contrast between two ideas, or continuation of an idea, depending on the context.",
+    "formation": "Clause 1 + 而 + Clause 2",
+    "examples": [
+      {
+        "cn": "她是个聪明的学生，而她的弟弟却并不爱学习。",
+        "pinyin": "Tā shì gè cōngmíng de xuéshēng, ér tā de dìdì què bìng bù ài xuéxí.",
+        "en": "She is a smart student, yet her younger brother does not love studying.",
+        "grammar_audio": "/audio/mandarin/grammar/s_而_ér_-_And_but_yet_20231230_她是个聪明的学生而她的弟弟却并不爱学习.mp3"
+      },
+      {
+        "cn": "我尽力了，而结果仍然是失败。",
+        "pinyin": "Wǒ jìnlì le, ér jiéguǒ réngrán shì shībài.",
+        "en": "I tried my best, but the result is still a failure.",
+        "grammar_audio": "/audio/mandarin/grammar/s_而_ér_-_And_but_yet_20231230_我尽力了而结果仍然是失败.mp3"
+      },
+      {
+        "cn": "这个故事很简单，而含义则非常深刻。",
+        "pinyin": "Zhège gùshì hěn jiǎndān, ér hányì zé fēicháng shēnkè.",
+        "en": "The story is simple, yet the meaning is very profound.",
+        "grammar_audio": "/audio/mandarin/grammar/s_而_ér_-_And_but_yet_20231230_这个故事很简单而含义则非常深刻.mp3"
+      },
+      {
+        "cn": "他在为成功而努力工作。",
+        "pinyin": "Tā zài wèi chénggōng ér nǔlì gōngzuò.",
+        "en": "He is working hard for success.",
+        "grammar_audio": "/audio/mandarin/grammar/s_而_ér_-_And_but_yet_20231230_他在为成功而努力工作.mp3"
+      }
+    ],
+    "p_tag": "HSK_2",
+    "s_tag": "100"
+  },
+  {
+    "title": "随便 (suíbiàn) - Casual, careless; as one wishes",
+    "short_explanation": "This phrase is used to express doing something casually, in a random manner, or as one likes.",
+    "long_explanation": "The Mandarin Chinese term '随便 (suíbiàn)' is used when someone does something casually or does as they wish without paying much attention. It is commonly used to express an indifference, or when giving someone the freedom to choose or act as they please. It's similar in use to 'whatever' or 'any' in English.",
+    "formation": "Subject + Verb + 随便 + Rest of the sentence",
+    "examples": [
+      {
+        "cn": "你想吃什么就随便挑选吧，我都可以接受。",
+        "pinyin": "Nǐ xiǎng chī shénme jiù suíbiàn tiāoxuǎn ba, wǒ dōu kěyǐ jiēshòu.",
+        "en": "Pick whatever you want to eat, I am okay with anything.",
+        "grammar_audio": "/audio/mandarin/grammar/s_随便_suíbiàn_-_Casual_careless_as_one_wishes_20231230_你想吃什么就随便挑选吧我都可以接受.mp3"
+      },
+      {
+        "cn": "他随便把书放在地上，真不爱惜。",
+        "pinyin": "Tā suíbiàn bǎ shū fàng zài dì shàng, zhēn bù àixī.",
+        "en": "He casually puts the book on the ground, he really doesn't cherish it.",
+        "grammar_audio": "/audio/mandarin/grammar/s_随便_suíbiàn_-_Casual_careless_as_one_wishes_20231230_他随便把书放在地上真不爱惜.mp3"
+      },
+      {
+        "cn": "我不想吃特定的东西，你可以随便做。",
+        "pinyin": "Wǒ bùxiǎng chī tèdìng de dōngxi, nǐ kěyǐ suíbiàn zuò.",
+        "en": "I don't want to eat anything specific, you can make whatever.",
+        "grammar_audio": "/audio/mandarin/grammar/s_随便_suíbiàn_-_Casual_careless_as_one_wishes_20231230_我不想吃特定的东西你可以随便做.mp3"
+      },
+      {
+        "cn": "他的生活过得很随便，从不拘小节。",
+        "pinyin": "Tā de shēnghuó guò dé hěn suíbiàn, cóng bù jū xiǎo jié.",
+        "en": "He leads a very casual life and never fusses over minor matters.",
+        "grammar_audio": "/audio/mandarin/grammar/s_随便_suíbiàn_-_Casual_careless_as_one_wishes_20231230_他的生活过得很随便从不拘小节.mp3"
+      }
+    ],
+    "p_tag": "HSK_2",
+    "s_tag": "100"
+  },
+  {
+    "title": "即使 (jíshǐ) - Even if, even though",
+    "short_explanation": "Used to state a condition and simultaneously emphasize the hypothetical circumstances that will follow.",
+    "long_explanation": "The Mandarin Chinese phrase '即使 (jíshǐ)' is used to indicate a hypothetical situation and emphasize that the results will remain the same despite this hypothetical situation. It's equivalent to using 'even if' or 'even though' in English. This conjunction is usually followed by '也 (yě)' in the secondary clause.",
+    "formation": "即使 + Condition, Subject + 也 + Verb/Adjective + Rest of the sentence.",
+    "examples": [
+      {
+        "cn": "即使下雨，我们也要去公园看音乐会。",
+        "pinyin": "Jíshǐ xià yǔ, wǒmen yě yào qù gōngyuán kàn yīnyuèhuì.",
+        "en": "Even if it rains, we will go to the park to watch the concert.",
+        "grammar_audio": "/audio/mandarin/grammar/s_即使_jíshǐ_-_Even_if_even_though_20231230_即使下雨我们也要去公园看音乐会.mp3"
+      },
+      {
+        "cn": "即使我很累，我也会坚持完成这个项目。",
+        "pinyin": "Jíshǐ wǒ hěn lèi, wǒ yě huì jiānchí wánchéng zhège xiàngmù.",
+        "en": "Even though I'm very tired, I will persist in completing this project.",
+        "grammar_audio": "/audio/mandarin/grammar/s_即使_jíshǐ_-_Even_if_even_though_20231230_即使我很累我也会坚持完成这个项目.mp3"
+      },
+      {
+        "cn": "即使你现在开始学习，你也来不及准备明天的考试。",
+        "pinyin": "Jíshǐ nǐ xiànzài kāishǐ xuéxí, nǐ yě láibují zhǔnbèi míngtiān de kǎoshì.",
+        "en": "Even if you start studying now, it's too late to prepare for tomorrow's exam.",
+        "grammar_audio": "/audio/mandarin/grammar/s_即使_jíshǐ_-_Even_if_even_though_20231230_即使你现在开始学习你也来不及准备明天的考试.mp3"
+      },
+      {
+        "cn": "即使他不会说中文，他也想来中国工作。",
+        "pinyin": "Jíshǐ tā bù huì shuō Zhōngwén, tā yě xiǎng lái Zhōngguó gōngzuò.",
+        "en": "Even though he can't speak Chinese, he still wants to work in China.",
+        "grammar_audio": "/audio/mandarin/grammar/s_即使_jíshǐ_-_Even_if_even_though_20231230_即使他不会说中文他也想来中国工作.mp3"
+      }
+    ],
+    "p_tag": "HSK_2",
+    "s_tag": "100"
+  },
+  {
+    "title": "当然 (dāngrán) - Of course, certainly",
+    "short_explanation": "'当然' is used to express affirmation or agreement, similar to 'of course' or 'certainly' in English.",
+    "long_explanation": "'当然 (dāngrán)' is a common word in Mandarin Chinese that is used to express a strong affirmation or agreement. This can be used to answer a question, express one's own opinion, or affirm someone else's statement. It conveys a sense of certainty and can often give emphasis in a conversation. By using '当然', you can easily convey your agreement with someone else's opinion or reassure others of a certain fact.",
+    "formation": "Subject + 当然 + Verb/Adjective + Rest of the sentence",
+    "examples": [
+      {
+        "cn": "你会来参加我的生日派对吗？当然，我一定会来的。",
+        "pinyin": "Nǐ huì lái cānjiā wǒ de shēngrì pàiduì ma? Dāngrán, wǒ yídìng huì lái de.",
+        "en": "Will you come to my birthday party? Of course, I will definitely come.",
+        "grammar_audio": "/audio/mandarin/grammar/s_当然_dāngrán_-_Of_course_certainly_20231230_你会来参加我的生日派对吗当然我一定会来的.mp3"
+      },
+      {
+        "cn": "他说他可以帮我们完成这个项目，你信吗？当然，他有能力做到。",
+        "pinyin": "Tā shuō tā kěyǐ bāng wǒmen wánchéng zhège xiàngmù, nǐ xìn ma? Dāngrán, tā yǒu nénglì zuò dào.",
+        "en": "He said he can help us complete this project, do you believe it? Of course, he has the ability to do it.",
+        "grammar_audio": "/audio/mandarin/grammar/s_当然_dāngrán_-_Of_course_certainly_20231230_他说他可以帮我们完成这个项目你信吗当然他有能力做到.mp3"
+      },
+      {
+        "cn": "你认为她做得到这个工作吗？当然，她有足够的经验和技能。",
+        "pinyin": "Nǐ rènwéi tā zuò dé dào zhège gōngzuò ma? Dāngrán, tā yǒu zúgòu de jīngyàn hé jìnéng.",
+        "en": "Do you think she can do this job? Of course, she has enough experience and skills.",
+        "grammar_audio": "/audio/mandarin/grammar/s_当然_dāngrán_-_Of_course_certainly_20231230_你认为她做得到这个工作吗当然她有足够的经验和技能.mp3"
+      },
+      {
+        "cn": "你会支持我吗？当然，无论你需要什么我都愿意帮助你。",
+        "pinyin": "Nǐ huì zhīchí wǒ ma? Dāngrán, wúlùn nǐ xūyào shénme wǒ dōu yuànyì bāngzhù nǐ.",
+        "en": "Will you support me? Of course, whatever you need I'm willing to help you.",
+        "grammar_audio": "/audio/mandarin/grammar/s_当然_dāngrán_-_Of_course_certainly_20231230_你会支持我吗当然无论你需要什么我都愿意帮助你.mp3"
+      }
+    ],
+    "p_tag": "HSK_2",
+    "s_tag": "100"
+  },
+  {
+    "title": "忽然 (hūrán) - Suddenly, all of a sudden",
+    "short_explanation": "Used to indicate that an action or situation occurs unexpectedly or abruptly.",
+    "long_explanation": "The Mandarin Chinese word '忽然 (hūrán)' is used to describe a sudden or abrupt occurrence or change. This word can be used in various contexts where one wants to indicate that something happened unexpectedly or all at once. It can be compared to the English words 'suddenly' or 'all of a sudden'.",
+    "formation": "Subject + 忽然 + Verb + Rest of the sentence",
+    "examples": [
+      {
+        "cn": "我正在走路去学校，忽然下起了大雨。",
+        "pinyin": "Wǒ zhèngzài zǒulù qù xuéxiào, hūrán xià qǐ le dà yǔ.",
+        "en": "I was walking to school, when suddenly, it started pouring rain.",
+        "grammar_audio": "/audio/mandarin/grammar/s_忽然_hūrán_-_Suddenly_all_of_a_sudden_20231230_我正在走路去学校忽然下起了大雨.mp3"
+      },
+      {
+        "cn": "我们正在吃饭，忽然停电了。",
+        "pinyin": "Wǒmen zhèngzài chīfàn, hūrán tíngdiàn le.",
+        "en": "We were eating, when suddenly, there was a power outage.",
+        "grammar_audio": "/audio/mandarin/grammar/s_忽然_hūrán_-_Suddenly_all_of_a_sudden_20231230_我们正在吃饭忽然停电了.mp3"
+      },
+      {
+        "cn": "她在讲故事，忽然她的手机响了。",
+        "pinyin": "Tā zài jiǎng gùshi, hūrán tā de shǒujī xiǎng le.",
+        "en": "She was telling a story, when suddenly, her phone rang.",
+        "grammar_audio": "/audio/mandarin/grammar/s_忽然_hūrán_-_Suddenly_all_of_a_sudden_20231230_她在讲故事忽然她的手机响了.mp3"
+      },
+      {
+        "cn": "忽然，我发现我把钱包忘在家里了。",
+        "pinyin": "Hūrán, wǒ fāxiàn wǒ bǎ qiánbāo wàng zài jiā li le.",
+        "en": "Suddenly, I realized that I had left my wallet at home.",
+        "grammar_audio": "/audio/mandarin/grammar/s_忽然_hūrán_-_Suddenly_all_of_a_sudden_20231230_忽然我发现我把钱包忘在家里了.mp3"
+      }
+    ],
+    "p_tag": "HSK_2",
+    "s_tag": "100"
+  },
+  {
+    "title": "其实 (qíshí) - Actually, in fact",
+    "short_explanation": "Used to reveal a truth or a fact that contradicts what was previously thought or said.",
+    "long_explanation": "'其实 (qíshí)' is a Mandarin Chinese word that is used to introduce a statement that reveals a truth or fact, often in contrast to what was previously believed or stated. It's equivalent to 'actually' or 'in fact' in English. This word is often used to correct a misunderstanding or to reveal more accurate information.",
+    "formation": "其实 + Statement",
+    "examples": [
+      {
+        "cn": "你以为我不知道你的秘密，其实我早就知道了。",
+        "pinyin": "Nǐ yǐwéi wǒ bù zhīdào nǐ de mìmì, qíshí wǒ zǎo jiù zhīdào le.",
+        "en": "You think I don't know your secret, but actually, I've known it for a long time.",
+        "grammar_audio": "/audio/mandarin/grammar/s_其实_qíshí_-_Actually_in_fact_20231230_你以为我不知道你的秘密其实我早就知道了.mp3"
+      },
+      {
+        "cn": "他看起来很严肃，其实他的性格非常开朗。",
+        "pinyin": "Tā kàn qǐlái hěn yánsù, qíshí tā de xìnggé fēicháng kāilǎng.",
+        "en": "He looks very serious, but actually, he has a very cheerful personality.",
+        "grammar_audio": "/audio/mandarin/grammar/s_其实_qíshí_-_Actually_in_fact_20231230_他看起来很严肃其实他的性格非常开朗.mp3"
+      },
+      {
+        "cn": "我之前一直以为学习中文很难，其实只要多练习，就会觉得越来越容易。",
+        "pinyin": "Wǒ zhīqián yīzhí yǐwéi xuéxí Zhōngwén hěn nán, qíshí zhǐyào duō liànxí, jiù huì juédé yuè lái yuè róngyì.",
+        "en": "I used to think that learning Chinese was difficult, but actually, as long as you practice more, you'll find it easier and easier.",
+        "grammar_audio": "/audio/mandarin/grammar/s_其实_qíshí_-_Actually_in_fact_20231230_我之前一直以为学习中文很难其实只要多练习就会觉得越来越容易.mp3"
+      },
+      {
+        "cn": "你可能认为这个问题无解，其实答案就在你的眼前。",
+        "pinyin": "Nǐ kěnéng rènwéi zhège wèntí wújiě, qíshí dá'àn jiù zài nǐ de yǎnqián.",
+        "en": "You may think this problem has no solution, but actually, the answer is right in front of you.",
+        "grammar_audio": "/audio/mandarin/grammar/s_其实_qíshí_-_Actually_in_fact_20231230_你可能认为这个问题无解其实答案就在你的眼前.mp3"
+      }
+    ],
+    "p_tag": "HSK_2",
+    "s_tag": "100"
+  }
+]

@@ -1,0 +1,286 @@
+{
+  "key": "jlpt_n3_reading_06",
+  "title": "Under the Cherry Blossoms",
+  "titleRomaji": "Sakura no shita de",
+  "titleJp": "桜の下で",
+  "p_tag": "jlpt_n3",
+  "s_tag": "story",
+  "shortDescription": "A romance that blooms during hanami (cherry blossom viewing) between two individuals from very different backgrounds. Their story is a metaphor for the fleeting beauty of the sakura and life's transient moments.",
+  "shortDescriptionRomaji": "Hanami (sakura no kanshō) no aida ni kotonaru haikei o motsu futari no aida de mebaeru romansu. Karera no monogatari wa, sakura no hakanai utsukushisa to jinsei no utsuriyuku shunkan o shōchō shiteimasu.",
+  "shortDescriptionJp": "花見（桜の観賞）の間に異なる背景を持つ二人の間で芽生えるロマンス。彼らの物語は、桜の儚い美しさと人生の移りゆく瞬間を象徴しています。",
+  "textAudio": "/audio/japanese/JLPT_N3_reading_06/JLPT_N3_jp_reading_06.mp3",
+  "textAudio_1": "/audio/japanese/JLPT_N3_reading_06/JLPT_N3_jp_reading_06.mp3",
+  "textAudioEn": "/audio/japanese/JLPT_N3_reading_06/JLPT_N3_en_reading_06.mp3",
+  "textAudioEn_1": "/audio/japanese/JLPT_N3_reading_06/JLPT_N3_en_reading_06.mp3",
+  "japaneseText": [
+    "東京の上野公園にある繊細なピンクの桜のカスケードの中で、二つの魂がそれぞれ自分の夢想にふけりながら彷徨っていました。地元の花屋であるアカリは、桜の枝をいっぱいに手にし、その花びらの柔らかい色合いを目に映していました。一方、遠くスコットランドの海岸から訪れた学者であるケンジは、その光景に圧倒され、儚い美しさを捉えようとしてカメラのシャッターを切り続けていました。",
+    "彼らの出会いは、偶然によって振り付けられたダンスでした。突然の風が桜の花びらを舞い上がらせ、二人が漂う花びらを捕まえようと手を伸ばした時、その手が触れ合いました。触れ合いは束の間でしたが、その儚い瞬間に繋がりが芽生えました。春の太陽のように温かい笑顔のアカリは、ケンジに桜の小枝を差し出し、そうして二人は桜の下を共に歩き始めました。",
+    "恥ずかしげな視線と言葉にならない文の言語で会話を交わしながら、アカリとケンジは自分たちの人生についての話を共有しました。アカリは花の言葉について語り、それぞれが時間の一瞬を捉えていると話しました。一方、訛りのある日本語でケンジは遠く離れた古い城や湖について、そして世界の隅々にある美を見つけ出すという彼の探求について話しました。",
+    "日々が過ぎ、一日ごとに前日よりも鮮やかになりました。二人は桜の満開とともに、お互いへの愛情を見出しました。彼らは桜の下でピクニックをし、彼らの笑い声が花びらの柔らかなささやきに混ざりました。彼らの周りの世界は、新しい始まりの鼓動で生き生きとしており、花見の季節は彼らの芽生えたばかりのロマンスにとって完璧な背景でした。",
+    "しかし、桜の花がピークに達すると同時に、桜が間もなく散るという認識と、ケンジが故郷に戻らなければならないという事実に直面しました。彼らの絆は、桜のように美しく儚く、心と写真の中に保存される記憶に運命づけられていました。",
+    "花見の最終日に、最後の花びらが地面に舞い落ちる中、アカリとケンジは手を取り合って立ち、季節の終わりを静かに見守りました。彼らの別れは、共有した美しさを記憶に留め、その儚い瞬間の甘美さを前進させるという約束でした。",
+    "桜の下で、彼らは桜自体のように優しく儚い愛を見つけました。それは人生で最も貴重な経験がしばしば最も儚いものであることを思い出させるものでした。そして、彼らが別れを告げたとき、足元の桜の花びらが来年の帰還をささやきました。終わりと始まり、別れと再会のサイクルです。"
+  ],
+  "romanizedText": [
+    "Tōkyō no Ueno kōen ni aru sensaina pinku no sakura no kasukēdo no naka de, futatsu no tamashī ga sorezore jibun no musō ni fukerinagara samayotte imashita. Jimoto no hanaya de aru Akari wa, sakura no eda o ippai ni te ni shi, sono hanabira no yawarakai iroai o me ni utsushiteimashita. Ippō, tōku Sukottorando no kaigan kara otozureta gakusha de aru Kenji wa, sono kōkei ni attō sare, hakanai utsukushisa o toraeyou to shite kamera no shattā o kiritsuzukete imashita.",
+    "Karera no deai wa, gūzen ni yotte furitsukerareta dansu deshita. Totsuzen no kaze ga sakura no hanabira o maiagarase, futari ga tadayou hanabira o tsukamaeyou to te o nobashita toki, sono te ga fureauimashita. Fureai wa tsuka no ma deshita ga, sono hakanai shunkan ni tsunagari ga mebaemashita. Haru no taiyō no yō ni atatakai egao no Akari wa, Kenji ni sakura no koeda o sashidashi, sōshite futari wa sakura no shita o tomo ni arukihajimemashita.",
+    "Hazukashige na shisen to kotoba ni naranai bun no gengo de kaiwa o kawashinagara, Akari to Kenji wa jibun-tachi no jinsei ni tsuite no hanashi o kyōyū shimashita. Akari wa hana no kotoba ni tsuite katari, sorezore ga jikan no isshun o toraete iru to hanashimashita. Ippō, namari no aru nihongo de Kenji wa tōku hanareta furui shiro ya mizūmi ni tsuite, soshite sekai no sumizumi ni aru bi o mitsukedasu to iu kare no tankyū ni tsuite hanashimashita.",
+    "Hibi ga sugi, ichinichi goto ni zennen yori mo azayaka ni narimashita. Futari wa sakura no mankai to tomo ni, otagai e no aijō o miidashimashita. Karera wa sakura no shita de pikunikku o shi, karera no waraigoe ga hanabira no yawarakana sasayaki ni majirimashita. Karera no mawari no sekai wa, atarashii hajimari no kodō de ikiki to shite ori, hanami no kisetsu wa karera no mebaeta bakari no romansu ni totte kanpeki na haikei deshita.",
+    "Shikashi, sakura no hana ga pīku ni tassuru to dōji ni, sakura ga mamonaku chiru to iu ninshiki to, Kenji ga kokyō ni modoranakereba naranai to iu jijitsu ni taishō shimashita. Karera no kizuna wa, sakura no yō ni utsukushiku hakanaku, kokoro to shashin no naka ni hozon sareru kioku ni sadame tsukerarete imashita.",
+    "Hanami no saishūbi ni, saigo no hanabira ga jimen ni mai ochiru naka, Akari to Kenji wa te o toriatte tachi, kisetsu no owari o shizuka ni mimamorimashita. Karera no wakare wa, kyōyū shita utsukushisa o kioku ni todome, sono hakanai shunkan no kanbisa o zenshin saseru to iu yakusoku deshita.",
+    "Sakura no shita de, karera wa sakura jitai no yō ni yasashiku hakanai ai o mitsukemashita. Sore wa jinsei de mottomo kichōna keiken ga shibashiba mottomo hakanai mono de aru koto o omoidasaseru mono deshita. Soshite, karera ga wakare o tsugeta toki, ashimoto no sakura no hanabira ga rainen no kikan o sasayakimashita. Owari to hajimari, wakare to saikai no saikuru desu."
+  ],
+  "englishTranslation": [
+    "Amidst the delicate pink cascade of cherry blossoms in Ueno Park, Tokyo, two souls wandered, each lost in their own reverie. Akari, a local florist, had her hands full of sakura branches, her eyes reflecting the soft hues of the petals. Across the path, Kenji, a scholar visiting from the distant shores of Scotland, stood in awe of the spectacle, his camera clicking away as he tried to capture the ephemeral beauty.",
+    "Their meeting was a dance choreographed by serendipity. A sudden gust of wind sent a shower of sakura petals swirling, and as both reached out to catch the drifting blossoms, their hands met. The touch was brief, but in that fleeting moment, a connection sparked. Akari, with a smile as warm as the spring sun, offered Kenji a sprig of sakura, and thus began their walk together under the cherry blossoms.",
+    "Conversing in the language of shy glances and half-formed sentences, Akari and Kenji shared stories of their lives. Akari spoke of the language of flowers and how each one captured a moment in time, much like the fleeting sakura. Kenji, in his accented Japanese, talked about ancient castles and lochs far away, and his quest to find beauty in every corner of the world.",
+    "Days passed, each more vibrant than the last, as the two found themselves amidst the full bloom of the sakura—and of their affection for one another. They picnicked under the cherry blossoms, their laughter mingling with the soft rustle of the petals. The world around them was alive with the thrum of new beginnings, the hanami season a perfect backdrop for their burgeoning romance.",
+    "Yet, as the blossoms reached their peak, so too did the realization that the sakura would soon fall, and Kenji would have to return to his home. Their bond, much like the sakura, was beautiful but transient, destined to be a memory preserved in the heart and in photographs.",
+    "On the final day of the hanami, as the last petals drifted to the ground, Akari and Kenji stood hand in hand, silent witnesses to the end of the season. Their goodbye was a promise to remember the beauty of what they had shared, to carry forward the sweetness of those fleeting moments.",
+    "Under the cherry blossoms, they had found a love as tender and transient as the sakura itself, a reminder that life's most precious experiences are often those that are the most ephemeral. And as they parted ways, the sakura petals underfoot whispered of their return next year, a cycle of endings and beginnings, of farewells and reunions."
+  ],
+  "readingVocabulary": [
+    "観賞 (かんしょう) - Kanshō - Appreciation or viewing",
+    "儚い (はかない) - Hakanai - Fleeting or ephemeral",
+    "象徴 (しょうちょう) - Shōchō - Symbol",
+    "繊細 (せんさい) - Sensai - Delicate or fine",
+    "彷徨 (さまよい) - Samayoi - Wander",
+    "反映 (はんえい) - Han'ei - Reflect",
+    "圧倒 (あっとう) - Attō - Overwhelm",
+    "捉える (とらえる) - Toraeru - Capture or grasp",
+    "偶然 (ぐうぜん) - Gūzen - Coincidence",
+    "振り付け (ふりつけ) - Furitsuke - Choreography",
+    "触れ合い (ふれあい) - Fureau - Touch or contact",
+    "繋がり (つながり) - Tsunagari - Connection or bond",
+    "恥ずかしげ (はずかしげ) - Hazukashige - Bashful or shy",
+    "言葉 (ことば) - Kotoba - Word or language",
+    "訛り (なまり) - Namari - Accent or dialect",
+    "探求 (たんきゅう) - Tankyū - Quest or search",
+    "鮮やか (あざやか) - Azayaka - Vivid or bright",
+    "満開 (まんかい) - Mankai - Full bloom",
+    "愛情 (あいじょう) - Aijō - Affection or love",
+    "混ざる (まざる) - Mazaru - Mix or mingle",
+    "鼓動 (こどう) - Kodō - Beat or pulse",
+    "芽生える (めばえる) - Mebaeru - Sprout or begin to grow",
+    "認識 (にんしき) - Ninshiki - Recognition or awareness",
+    "運命づける (うんめいづける) - Unmeizukeru - Destine or determine",
+    "記憶 (きおく) - Kioku - Memory or recollection",
+    "静かに (しずかに) - Shizukani - Quietly or silently",
+    "甘美 (かんび) - Kanbi - Sweetness or delight",
+    "優しく (やさしく) - Yasashiku - Gently or kindly",
+    "貴重 (きちょう) - Kichō - Precious or valuable",
+    "再会 (さいかい) - Saikai - Reunion or meeting again"
+  ],
+  "readingVocabularyEn": [
+    "'romance (ロマンス)' - 恋愛 - A love affair or romantic relationship.",
+    "'metaphor (比喩)' - たとえ - A figure of speech in which a word or phrase is applied to an object or action to which it is not literally applicable.",
+    "'fleeting (儚い)' - はかない - Lasting for a very short time.",
+    "'transient (一時的な)' - いちじてきな - Lasting only for a short time; impermanent.",
+    "'delicate (繊細な)' - せんさいな - Very fine in texture or structure; of intricate workmanship or quality.",
+    "'reverie (夢想)' - むそう - A state of being pleasantly lost in one's thoughts; a daydream.",
+    "'spectacle (光景)' - こうけい - A visually striking performance or display.",
+    "'ephemeral (儚い)' - はかない - Lasting for a very short time.",
+    "'serendipity (偶然の幸運)' - ぐうぜんのこううん - The occurrence and development of events by chance in a happy or beneficial way.",
+    "'swirling (渦巻く)' - うずまく - Moving in a twisting or spiraling pattern.",
+    "'sprig (小枝)' - こえだ - A small stem bearing leaves or flowers, taken from a bush or plant.",
+    "'glances (一瞥)' - いちべつ - A brief or hurried look.",
+    "'half-formed (未完成の)' - みかんせいの - Partially or incompletely shaped or formulated.",
+    "'accents (訛り)' - なまり - Distinctive modes of pronunciation particular to a speaker or group of speakers.",
+    "'lochs (湖)' - みずうみ - Scottish term for a lake or a sea inlet.",
+    "'vibrant (鮮やかな)' - あざやかな - Full of energy and life; bright and striking.",
+    "'rustle (サラサラという音)' - さらさらというおん - Make a soft, muffled crackling sound like that caused by the movement of dry leaves or paper.",
+    "'thrum (バイブレーションの音)' - バイブレーションのおと - A continuous rhythmic humming sound.",
+    "'burgeoning (急速に発展する)' - きゅうそくにはってんする - Begin to grow or increase rapidly; flourish.",
+    "'realization (認識)' - にんしき - The action of becoming fully aware of something as a fact.",
+    "'bond (絆)' - きずな - A force or feeling that unites people; a shared emotion or interest.",
+    "'preserved (保存された)' - ほぞんされた - Maintain (something) in its original or existing state.",
+    "'witnesses (目撃者)' - もくげきしゃ - People who see an event, typically a crime or accident, take place.",
+    "'sweetness (甘美)' - かんび - The quality of being sweet.",
+    "'tender (優しい)' - やさしい - Showing gentleness, kindness, and affection.",
+    "'precious (貴重な)' - きちょうな - Of great value; not to be wasted or treated carelessly.",
+    "'ephemeral (つかの間の)' - つかのまの - Lasting for a very short time.",
+    "'parted ways (別れる)' - わかれる - Leave someone's company.",
+    "'cycle (サイクル)' - さいくる - A series of events that are regularly repeated in the same order.",
+    "'farewells (別れ)' - わかれ - Acts of parting or saying goodbye."
+  ],
+  "readingGrammar": [
+    "～の間に (のあいだに) - This construction is used to indicate a time span in which something occurs. It's used here to mean 'during'.",
+    "～を象徴しています (をしょうちょうしています) - The verb 象徴する (shōchō suru) means 'to symbolize' and the ～ています form indicates a continuous or current state. It's used here to indicate that their story currently symbolizes the beauty of cherry blossoms and life's fleeting moments.",
+    "～ながら (ながら) - This suffix is used to indicate that two actions are being done simultaneously. In the text, it's used as ふけりながら, indicating that the souls were wandering while being lost in their thoughts.",
+    "～ようとして (ようとして) - This is a construction used to express an attempt to do something. In this text, it's used as 捉えようとして, meaning 'trying to capture.'",
+    "～でした - This is the past tense of the copula です (desu). It's used at the end of sentences to indicate that something was a certain way in the past.",
+    "～時 (とき) - This noun means 'time' or 'when,' and is used to indicate the time when something happens. It's often used in subordinate clauses.",
+    "～始めました (はじめました) - This is the past tense of ～始める (hajimeru), which means 'to begin to' or 'to start to.' It's used here to indicate that the two characters began walking under the cherry blossoms.",
+    "～について語り (についてかたり) - The verb 語る (kataru) means 'to talk' or 'to tell,' and ～について is a prepositional phrase meaning 'about' or 'concerning.' This phrase is used when someone is telling or speaking about something.",
+    "～という事実に直面しました (というじじつにちょくめんしました) - The phrase ～という事実に直面する (to iu jijitsu ni chokumen suru) means 'to face the fact that.' It's a compound verb that expresses the encounter with a certain truth or fact.",
+    "～に運命づけられていました (にうんめいづけられていました) - The verb 運命づける (unmeizukeru) means 'to be destined' or 'to be fated.' The form ～られていました is the passive form of the verb in the past continuous tense, indicating that something had been destined over a period in the past."
+  ],
+  "readingGrammarEn": [
+    "'blooms during hanami' - 花見の間に咲くことを表します。ここでは動詞 'bloom' が現在形で使われており、「花見の間に咲く」という継続的な行動を表しています。",
+    "'from very different backgrounds' - 非常に異なる背景から来たという意味です。ここでは 'from' が出身や起源を示す前置詞として使われています。",
+    "'lost in their own reverie' - それぞれが自分の夢想にふけっている状態を表します。'lost in' は「～に没頭している」という意味の表現です。",
+    "'had her hands full' - 手いっぱいだった、という意味です。ここでは 'have one's hands full' というイディオムが使われており、忙しい状態や多くのものを持っている様子を表しています。",
+    "'reflecting the soft hues' - 柔らかい色合いを反映しているという意味です。「reflect」はここでは「映し出す」や「反映する」という意味の動詞として使われています。",
+    "'stood in awe of' - ～に畏敬の念を抱いて立っていたという意味です。「stand in awe of」は「～に感動する」というフレーズです。",
+    "'trying to capture' - 捉えようとしているという意味です。「try to」は「～しようとする」という意図を表す表現で、その後に動詞の原形を伴います。",
+    "'conversing in the language of shy glances' - 恥ずかしげな視線の言語で会話する、という意味です。「converse in」は「～の言葉で会話する」という意味です。",
+    "'amidst the full bloom' - 満開の中で、という意味です。「amidst」は「～の真ん中に」や「～の間に」という意味の前置詞です。",
+    "'destined to be a memory' - 記憶になる運命にある、という意味です。「destined to」は「～する運命にある」という未来の出来事を表すフレーズです。"
+  ],
+  "sentencePayload": [
+    {
+      "japanese": "東京の上野公園にある繊細なピンクの桜のカスケードの中で、二つの魂がそれぞれ自分の夢想にふけりながら彷徨っていました。",
+      "romanization": "Tōkyō no Ueno kōen ni aru sensaina pinku no sakura no kasukēdo no naka de, futatsu no tamashī ga sorezore jibun no musō ni fukerinagara samayotte imashita.",
+      "translation": "Amidst the delicate pink cascade of cherry blossoms in Ueno Park, Tokyo, two souls wandered, each lost in their own reverie.",
+      "audioPath": "/audio/japanese/JLPT_N3_reading_06/r_jp_01.mp3",
+      "audioPathEn": "/audio/japanese/JLPT_N3_reading_06/r_en_01.mp3"
+    },
+    {
+      "japanese": "地元の花屋であるアカリは、桜の枝をいっぱいに手にし、その花びらの柔らかい色合いを目に映していました。",
+      "romanization": "Jimoto no hanaya de aru Akari wa, sakura no eda o ippai ni te ni shi, sono hanabira no yawarakai iroai o me ni utsushiteimashita.",
+      "translation": "Akari, a local florist, had her hands full of sakura branches, her eyes reflecting the soft hues of the petals.",
+      "audioPath": "/audio/japanese/JLPT_N3_reading_06/r_jp_02.mp3",
+      "audioPathEn": "/audio/japanese/JLPT_N3_reading_06/r_en_02.mp3"
+    },
+    {
+      "japanese": "一方、遠くスコットランドの海岸から訪れた学者であるケンジは、その光景に圧倒され、儚い美しさを捉えようとしてカメラのシャッターを切り続けていました。",
+      "romanization": "Ippō, tōku Sukottorando no kaigan kara otozureta gakusha de aru Kenji wa, sono kōkei ni attō sare, hakanai utsukushisa o toraeyou to shite kamera no shattā o kiritsuzukete imashita.",
+      "translation": "Across the path, Kenji, a scholar visiting from the distant shores of Scotland, stood in awe of the spectacle, his camera clicking away as he tried to capture the ephemeral beauty.",
+      "audioPath": "/audio/japanese/JLPT_N3_reading_06/r_jp_03.mp3",
+      "audioPathEn": "/audio/japanese/JLPT_N3_reading_06/r_en_03.mp3"
+    },
+    {
+      "japanese": "彼らの出会いは、偶然によって振り付けられたダンスでした",
+      "romanization": "Karera no deai wa, gūzen ni yotte furitsukerareta dansu deshita",
+      "translation": "Their meeting was a dance choreographed by serendipity.",
+      "audioPath": "/audio/japanese/JLPT_N3_reading_06/r_jp_04.mp3",
+      "audioPathEn": "/audio/japanese/JLPT_N3_reading_06/r_en_04.mp3"
+    },
+    {
+      "japanese": "突然の風が桜の花びらを舞い上がらせ、二人が漂う花びらを捕まえようと手を伸ばした時、その手が触れ合いました",
+      "romanization": "Totsuzen no kaze ga sakura no hanabira o maiagarase, futari ga tadayou hanabira o tsukamaeyou to te o nobashita toki, sono te ga fureauimashita",
+      "translation": "A sudden gust of wind sent a shower of sakura petals swirling, and as both reached out to catch the drifting blossoms, their hands met.",
+      "audioPath": "/audio/japanese/JLPT_N3_reading_06/r_jp_05.mp3",
+      "audioPathEn": "/audio/japanese/JLPT_N3_reading_06/r_en_05.mp3"
+    },
+    {
+      "japanese": "触れ合いは束の間でしたが、その儚い瞬間に繋がりが芽生えました",
+      "romanization": "Fureai wa tsuka no ma deshita ga, sono hakanai shunkan ni tsunagari ga mebaemashita",
+      "translation": "The touch was brief, but in that fleeting moment, a connection sparked.",
+      "audioPath": "/audio/japanese/JLPT_N3_reading_06/r_jp_06.mp3",
+      "audioPathEn": "/audio/japanese/JLPT_N3_reading_06/r_en_06.mp3"
+    },
+    {
+      "japanese": "春の太陽のように温かい笑顔のアカリは、ケンジに桜の小枝を差し出し、そうして二人は桜の下を共に歩き始めました",
+      "romanization": "Haru no taiyō no yō ni atatakai egao no Akari wa, Kenji ni sakura no koeda o sashidashi, sōshite futari wa sakura no shita o tomo ni arukihajimemashita",
+      "translation": "Akari, with a smile as warm as the spring sun, offered Kenji a sprig of sakura, and thus began their walk together under the cherry blossoms.",
+      "audioPath": "/audio/japanese/JLPT_N3_reading_06/r_jp_07.mp3",
+      "audioPathEn": "/audio/japanese/JLPT_N3_reading_06/r_en_07.mp3"
+    },
+    {
+      "japanese": "恥ずかしげな視線と言葉にならない文の言語で会話を交わしながら、アカリとケンジは自分たちの人生についての話を共有しました",
+      "romanization": "Hazukashige na shisen to kotoba ni naranai bun no gengo de kaiwa o kawashinagara, Akari to Kenji wa jibun-tachi no jinsei ni tsuite no hanashi o kyōyū shimashita",
+      "translation": "Conversing in the language of shy glances and half-formed sentences, Akari and Kenji shared stories of their lives.",
+      "audioPath": "/audio/japanese/JLPT_N3_reading_06/r_jp_08.mp3",
+      "audioPathEn": "/audio/japanese/JLPT_N3_reading_06/r_en_08.mp3"
+    },
+    {
+      "japanese": "アカリは花の言葉について語り、それぞれが時間の一瞬を捉えていると話しました",
+      "romanization": "Akari wa hana no kotoba ni tsuite katari, sorezore ga jikan no isshun o toraete iru to hanashimashita",
+      "translation": "Akari spoke of the language of flowers and how each one captured a moment in time, much like the fleeting sakura.",
+      "audioPath": "/audio/japanese/JLPT_N3_reading_06/r_jp_09.mp3",
+      "audioPathEn": "/audio/japanese/JLPT_N3_reading_06/r_en_09.mp3"
+    },
+    {
+      "japanese": "一方、訛りのある日本語でケンジは遠く離れた古い城や湖について、そして世界の隅々にある美を見つけ出すという彼の探求について話しました",
+      "romanization": "Ippō, namari no aru nihongo de Kenji wa tōku hanareta furui shiro ya mizūmi ni tsuite, soshite sekai no sumizumi ni aru bi o mitsukedasu to iu kare no tankyū ni tsuite hanashimashita",
+      "translation": "Kenji, in his accented Japanese, talked about ancient castles and lochs far away, and his quest to find beauty in every corner of the world.",
+      "audioPath": "/audio/japanese/JLPT_N3_reading_06/r_jp_10.mp3",
+      "audioPathEn": "/audio/japanese/JLPT_N3_reading_06/r_en_10.mp3"
+    },
+    {
+      "japanese": "日々が過ぎ、一日ごとに前日よりも鮮やかになりました",
+      "romanization": "Hibi ga sugi, ichinichi goto ni zennen yori mo azayaka ni narimashita",
+      "translation": "Days passed, each more vibrant than the last.",
+      "audioPath": "/audio/japanese/JLPT_N3_reading_06/r_jp_11.mp3",
+      "audioPathEn": "/audio/japanese/JLPT_N3_reading_06/r_en_11.mp3"
+    },
+    {
+      "japanese": "二人は桜の満開とともに、お互いへの愛情を見出しました",
+      "romanization": "Futari wa sakura no mankai to tomo ni, otagai e no aijō o miidashimashita",
+      "translation": "As the two found themselves amidst the full bloom of the sakura—and of their affection for one another.",
+      "audioPath": "/audio/japanese/JLPT_N3_reading_06/r_jp_12.mp3",
+      "audioPathEn": "/audio/japanese/JLPT_N3_reading_06/r_en_12.mp3"
+    },
+    {
+      "japanese": "彼らは桜の下でピクニックをし、彼らの笑い声が花びらの柔らかなささやきに混ざりました",
+      "romanization": "Karera wa sakura no shita de pikunikku o shi, karera no waraigoe ga hanabira no yawarakana sasayaki ni majirimashita",
+      "translation": "They picnicked under the cherry blossoms, their laughter mingling with the soft rustle of the petals.",
+      "audioPath": "/audio/japanese/JLPT_N3_reading_06/r_jp_13.mp3",
+      "audioPathEn": "/audio/japanese/JLPT_N3_reading_06/r_en_13.mp3"
+    },
+    {
+      "japanese": "彼らの周りの世界は、新しい始まりの鼓動で生き生きとしており、花見の季節は彼らの芽生えたばかりのロマンスにとって完璧な背景でした",
+      "romanization": "Karera no mawari no sekai wa, atarashii hajimari no kodō de ikiki to shite ori, hanami no kisetsu wa karera no mebaeta bakari no romansu ni totte kanpeki na haikei deshita",
+      "translation": "The world around them was alive with the thrum of new beginnings, the hanami season a perfect backdrop for their burgeoning romance.",
+      "audioPath": "/audio/japanese/JLPT_N3_reading_06/r_jp_14.mp3",
+      "audioPathEn": "/audio/japanese/JLPT_N3_reading_06/r_en_14.mp3"
+    },
+    {
+      "japanese": "しかし、桜の花がピークに達すると同時に、桜が間もなく散るという認識と、ケンジが故郷に戻らなければならないという事実に直面しました",
+      "romanization": "Shikashi, sakura no hana ga pīku ni tassuru to dōji ni, sakura ga mamonaku chiru to iu ninshiki to, Kenji ga kokyō ni modoranakereba naranai to iu jijitsu ni taishō shimashita",
+      "translation": "Yet, as the blossoms reached their peak, so too did the realization that the sakura would soon fall, and Kenji would have to return to his home.",
+      "audioPath": "/audio/japanese/JLPT_N3_reading_06/r_jp_15.mp3",
+      "audioPathEn": "/audio/japanese/JLPT_N3_reading_06/r_en_15.mp3"
+    },
+    {
+      "japanese": "彼らの絆は、桜のように美しく儚く、心と写真の中に保存される記憶に運命づけられていました",
+      "romanization": "Karera no kizuna wa, sakura no yō ni utsukushiku hakanaku, kokoro to shashin no naka ni hozon sareru kioku ni sadame tsukerarete imashita",
+      "translation": "Their bond, much like the sakura, was beautiful but transient, destined to be a memory preserved in the heart and in photographs.",
+      "audioPath": "/audio/japanese/JLPT_N3_reading_06/r_jp_16.mp3",
+      "audioPathEn": "/audio/japanese/JLPT_N3_reading_06/r_en_16.mp3"
+    },
+    {
+      "japanese": "花見の最終日に、最後の花びらが地面に舞い落ちる中、アカリとケンジは手を取り合って立ち、季節の終わりを静かに見守りました",
+      "romanization": "Hanami no saishūbi ni, saigo no hanabira ga jimen ni mai ochiru naka, Akari to Kenji wa te o toriatte tachi, kisetsu no owari o shizuka ni mimamorimashita",
+      "translation": "On the final day of the hanami, as the last petals drifted to the ground, Akari and Kenji stood hand in hand, silent witnesses to the end of the season.",
+      "audioPath": "/audio/japanese/JLPT_N3_reading_06/r_jp_17.mp3",
+      "audioPathEn": "/audio/japanese/JLPT_N3_reading_06/r_en_17.mp3"
+    },
+    {
+      "japanese": "彼らの別れは、共有した美しさを記憶に留め、その儚い瞬間の甘美さを前進させるという約束でした",
+      "romanization": "Karera no wakare wa, kyōyū shita utsukushisa o kioku ni todome, sono hakanai shunkan no kanbisa o zenshin saseru to iu yakusoku deshita",
+      "translation": "Their goodbye was a promise to remember the beauty of what they had shared, to carry forward the sweetness of those fleeting moments.",
+      "audioPath": "/audio/japanese/JLPT_N3_reading_06/r_jp_18.mp3",
+      "audioPathEn": "/audio/japanese/JLPT_N3_reading_06/r_en_18.mp3"
+    },
+    {
+      "japanese": "桜の下で、彼らは桜自体のように優しく儚い愛を見つけました",
+      "romanization": "Sakura no shita de, karera wa sakura jitai no yō ni yasashiku hakanai ai o mitsukemashita",
+      "translation": "Under the cherry blossoms, they had found a love as tender and transient as the sakura itself.",
+      "audioPath": "/audio/japanese/JLPT_N3_reading_06/r_jp_19.mp3",
+      "audioPathEn": "/audio/japanese/JLPT_N3_reading_06/r_en_19.mp3"
+    },
+    {
+      "japanese": "それは人生で最も貴重な経験がしばしば最も儚いものであることを思い出させるものでした",
+      "romanization": "Sore wa jinsei de mottomo kichōna keiken ga shibashiba mottomo hakanai mono de aru koto o omoidasaseru mono deshita",
+      "translation": "a reminder that life's most precious experiences are often those that are the most ephemeral.",
+      "audioPath": "/audio/japanese/JLPT_N3_reading_06/r_jp_20.mp3",
+      "audioPathEn": "/audio/japanese/JLPT_N3_reading_06/r_en_20.mp3"
+    },
+    {
+      "japanese": "そして、彼らが別れを告げたとき、足元の桜の花びらが来年の帰還をささやきました",
+      "romanization": "Soshite, karera ga wakare o tsugeta toki, ashimoto no sakura no hanabira ga rainen no kikan o sasayakimashita",
+      "translation": "And as they parted ways, the sakura petals underfoot whispered of their return next year.",
+      "audioPath": "/audio/japanese/JLPT_N3_reading_06/r_jp_21.mp3",
+      "audioPathEn": "/audio/japanese/JLPT_N3_reading_06/r_en_21.mp3"
+    },
+    {
+      "japanese": "終わりと始まり、別れと再会のサイクルです",
+      "romanization": "Owari to hajimari, wakare to saikai no saikuru desu",
+      "translation": "A cycle of endings and beginnings, of farewells and reunions.",
+      "audioPath": "/audio/japanese/JLPT_N3_reading_06/r_jp_22.mp3",
+      "audioPathEn": "/audio/japanese/JLPT_N3_reading_06/r_en_22.mp3"
+    }
+  ]
+}

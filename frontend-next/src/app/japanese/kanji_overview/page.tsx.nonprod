@@ -1,0 +1,310 @@
+'use client';
+
+import Link from "next/link";
+import React from "react";
+
+//http://localhost:3000/japanese/kanji_overview
+
+// pages/index.js
+import { useState } from "react";
+
+export default function Home() {
+  // Define your hiragana characters and their romaji
+//   const hiragana = [
+//     { char: "あ", romaji: "a" },
+//     { char: "い", romaji: "i" },
+//     //... add all characters
+//   ];
+
+
+  const hiragana = [
+    { char: 'あ', romaji: 'a' }, { char: 'い', romaji: 'i' }, { char: 'う', romaji: 'u' }, { char: 'え', romaji: 'e' }, { char: 'お', romaji: 'o' },
+    { char: 'か', romaji: 'ka' }, { char: 'き', romaji: 'ki' }, { char: 'く', romaji: 'ku' }, { char: 'け', romaji: 'ke' }, { char: 'こ', romaji: 'ko' },
+    { char: 'さ', romaji: 'sa' }, { char: 'し', romaji: 'shi' }, { char: 'す', romaji: 'su' }, { char: 'せ', romaji: 'se' }, { char: 'そ', romaji: 'so' },
+    { char: 'た', romaji: 'ta' }, { char: 'ち', romaji: 'chi' }, { char: 'つ', romaji: 'tsu' }, { char: 'て', romaji: 'te' }, { char: 'と', romaji: 'to' },
+    { char: 'な', romaji: 'na' }, { char: 'に', romaji: 'ni' }, { char: 'ぬ', romaji: 'nu' }, { char: 'ね', romaji: 'ne' }, { char: 'の', romaji: 'no' },
+    { char: 'は', romaji: 'ha' }, { char: 'ひ', romaji: 'hi' }, { char: 'ふ', romaji: 'fu' }, { char: 'へ', romaji: 'he' }, { char: 'ほ', romaji: 'ho' },
+    { char: 'ま', romaji: 'ma' }, { char: 'み', romaji: 'mi' }, { char: 'む', romaji: 'mu' }, { char: 'め', romaji: 'me' }, { char: 'も', romaji: 'mo' },
+    { char: 'や', romaji: 'ya' },                               { char: 'ゆ', romaji: 'yu' },                               { char: 'よ', romaji: 'yo' },
+    { char: 'ら', romaji: 'ra' }, { char: 'り', romaji: 'ri' }, { char: 'る', romaji: 'ru' }, { char: 'れ', romaji: 're' }, { char: 'ろ', romaji: 'ro' },
+    { char: 'わ', romaji: 'wa' },                                                             { char: 'を', romaji: 'wo' },
+    { char: 'ん', romaji: 'n' },
+    // Additional markers for voiced and plosive sounds
+    { char: 'が', romaji: 'ga' }, { char: 'ぎ', romaji: 'gi' }, { char: 'ぐ', romaji: 'gu' }, { char: 'げ', romaji: 'ge' }, { char: 'ご', romaji: 'go' },
+    { char: 'ざ', romaji: 'za' }, { char: 'じ', romaji: 'ji' }, { char: 'ず', romaji: 'zu' }, { char: 'ぜ', romaji: 'ze' }, { char: 'ぞ', romaji: 'zo' },
+    { char: 'だ', romaji: 'da' }, { char: 'ぢ', romaji: 'ji' }, { char: 'づ', romaji: 'zu' }, { char: 'で', romaji: 'de' }, { char: 'ど', romaji: 'do' },
+    { char: 'ば', romaji: 'ba' }, { char: 'び', romaji: 'bi' }, { char: 'ぶ', romaji: 'bu' }, { char: 'べ', romaji: 'be' }, { char: 'ぼ', romaji: 'bo' },
+    { char: 'ぱ', romaji: 'pa' }, { char: 'ぴ', romaji: 'pi' }, { char: 'ぷ', romaji: 'pu' }, { char: 'ぺ', romaji: 'pe' }, { char: 'ぽ', romaji: 'po' },
+  ];
+  
+
+  const katakana = [
+    { char: 'ア', romaji: 'a' }, { char: 'イ', romaji: 'i' }, { char: 'ウ', romaji: 'u' }, { char: 'エ', romaji: 'e' }, { char: 'オ', romaji: 'o' },
+    { char: 'カ', romaji: 'ka' }, { char: 'キ', romaji: 'ki' }, { char: 'ク', romaji: 'ku' }, { char: 'ケ', romaji: 'ke' }, { char: 'コ', romaji: 'ko' },
+    { char: 'サ', romaji: 'sa' }, { char: 'シ', romaji: 'shi' }, { char: 'ス', romaji: 'su' }, { char: 'セ', romaji: 'se' }, { char: 'ソ', romaji: 'so' },
+    { char: 'タ', romaji: 'ta' }, { char: 'チ', romaji: 'chi' }, { char: 'ツ', romaji: 'tsu' }, { char: 'テ', romaji: 'te' }, { char: 'ト', romaji: 'to' },
+    { char: 'ナ', romaji: 'na' }, { char: 'ニ', romaji: 'ni' }, { char: 'ヌ', romaji: 'nu' }, { char: 'ネ', romaji: 'ne' }, { char: 'ノ', romaji: 'no' },
+    { char: 'ハ', romaji: 'ha' }, { char: 'ヒ', romaji: 'hi' }, { char: 'フ', romaji: 'fu' }, { char: 'ヘ', romaji: 'he' }, { char: 'ホ', romaji: 'ho' },
+    { char: 'マ', romaji: 'ma' }, { char: 'ミ', romaji: 'mi' }, { char: 'ム', romaji: 'mu' }, { char: 'メ', romaji: 'me' }, { char: 'モ', romaji: 'mo' },
+    { char: 'ヤ', romaji: 'ya' },                               { char: 'ユ', romaji: 'yu' },                               { char: 'ヨ', romaji: 'yo' },
+    { char: 'ラ', romaji: 'ra' }, { char: 'リ', romaji: 'ri' }, { char: 'ル', romaji: 'ru' }, { char: 'レ', romaji: 're' }, { char: 'ロ', romaji: 'ro' },
+    { char: 'ワ', romaji: 'wa' },                                                             { char: 'ヲ', romaji: 'wo' },
+    { char: 'ン', romaji: 'n' },
+    // Additional markers for voiced and plosive sounds
+    { char: 'ガ', romaji: 'ga' }, { char: 'ギ', romaji: 'gi' }, { char: 'グ', romaji: 'gu' }, { char: 'ゲ', romaji: 'ge' }, { char: 'ゴ', romaji: 'go' },
+    { char: 'ザ', romaji: 'za' }, { char: 'ジ', romaji: 'ji' }, { char: 'ズ', romaji: 'zu' }, { char: 'ゼ', romaji: 'ze' }, { char: 'ゾ', romaji: 'zo' },
+    { char: 'ダ', romaji: 'da' }, { char: 'ヂ', romaji: 'ji' }, { char: 'ヅ', romaji: 'zu' }, { char: 'デ', romaji: 'de' }, { char: 'ド', romaji: 'do' },
+    { char: 'バ', romaji: 'ba' }, { char: 'ビ', romaji: 'bi' }, { char: 'ブ', romaji: 'bu' }, { char: 'ベ', romaji: 'be' }, { char: 'ボ', romaji: 'bo' },
+    { char: 'パ', romaji: 'pa' }, { char: 'ピ', romaji: 'pi' }, { char: 'プ', romaji: 'pu' }, { char: 'ペ', romaji: 'pe' }, { char: 'ポ', romaji: 'po' },
+  ];
+  
+
+//   Here's an array of Thai characters along with their common romajiization. Thai language has 44 consonants, 15 vowel symbols that combine into at least 28 vowel forms, and 4 tone diacritics. For simplicity, this array will include the primary consonants and some basic vowels. Thai romajiization can vary significantly, so the provided romajiizations are based on the Royal Thai General System of Transcription (RTGS), a commonly used method:
+
+
+  const thaiLetters = [
+    // Consonants
+    { char: 'ก', romaji: 'ko kai' }, { char: 'ข', romaji: 'kho khai' }, { char: 'ฃ', romaji: 'kho khuat' },
+    { char: 'ค', romaji: 'kho khwai' }, { char: 'ฅ', romaji: 'kho khon' }, { char: 'ฆ', romaji: 'kho ra-khang' },
+    { char: 'ง', romaji: 'ngo ngu' }, { char: 'จ', romaji: 'cho chan' }, { char: 'ฉ', romaji: 'cho ching' },
+    { char: 'ช', romaji: 'cho chang' }, { char: 'ซ', romaji: 'so so' }, { char: 'ฌ', romaji: 'cho choe' },
+    { char: 'ญ', romaji: 'yo ying' }, { char: 'ฎ', romaji: 'do chada' }, { char: 'ฏ', romaji: 'to patak' },
+    { char: 'ฐ', romaji: 'tho than' }, { char: 'ฑ', romaji: 'tho montho' }, { char: 'ฒ', romaji: 'tho phu-thao' },
+    { char: 'ณ', romaji: 'no nen' }, { char: 'ด', romaji: 'do dek' }, { char: 'ต', romaji: 'to tao' },
+    { char: 'ถ', romaji: 'tho thung' }, { char: 'ท', romaji: 'tho thahan' }, { char: 'ธ', romaji: 'tho thong' },
+    { char: 'น', romaji: 'no nu' }, { char: 'บ', romaji: 'bo baimai' }, { char: 'ป', romaji: 'po pla' },
+    { char: 'ผ', romaji: 'pho phueng' }, { char: 'ฝ', romaji: 'fo fa' }, { char: 'พ', romaji: 'pho phan' },
+    { char: 'ฟ', romaji: 'fo fan' }, { char: 'ภ', romaji: 'pho sam-phao' }, { char: 'ม', romaji: 'mo ma' },
+    { char: 'ย', romaji: 'yo yak' }, { char: 'ร', romaji: 'ro ruea' }, { char: 'ล', romaji: 'lo ling' },
+    { char: 'ว', romaji: 'wo waen' }, { char: 'ศ', romaji: 'so sala' }, { char: 'ษ', romaji: 'so rue-si' },
+    { char: 'ส', romaji: 'so suea' }, { char: 'ห', romaji: 'ho hip' }, { char: 'ฬ', romaji: 'lo chu-la' },
+    { char: 'อ', romaji: 'o ang' }, { char: 'ฮ', romaji: 'ho nok-huk' },
+
+    // Basic Vowels
+    { char: 'อะ', romaji: 'a' }, { char: 'อา', romaji: 'a:' }, { char: 'อิ', romaji: 'i' }, { char: 'อี', romaji: 'i:' },
+    { char: 'อุ', romaji: 'u' }, { char: 'อู', romaji: 'u:' }, { char: 'เอ', romaji: 'e' }, { char: 'โอ', romaji: 'o' },
+    // ... other vowels ... // they have like lots of vovel combinations, hence we will just list the basic ones
+  
+    // Tone Marks
+    { char: '่', romaji: 'mai ek' }, { char: '้', romaji: 'mai tho' }, { char: '๊', romaji: 'mai tri' }, { char: '๋', romaji: 'mai chattawa' },
+    { char: '์', romaji: 'thanthakhat' },
+  
+    // Other Characters
+    { char: 'ฯ', romaji: 'paiyannoi' }, // Ellipsis or abbreviation
+    { char: 'ๆ', romaji: 'mai yamok' } // Repetition sign
+
+  ];
+  
+
+
+//   Note:
+//   Consonants: This list includes all primary consonants. Thai uses these consonants in combination with vowels and tonal marks to create words.
+//   Vowels and Tones: Thai vowels and tones are not included here. They are represented differently than consonants and often modify the consonant's appearance and position. Vowels can be placed above, below, in front of, or after the consonant, and sometimes even around it. Including all vowel forms and combinations can significantly expand the list.
+//   romajiization: The romajiization used here is based on the RTGS, which is standard for transliterating Thai characters. Keep in mind that transliteration can vary, especially in different learning materials or dialects.
+
+
+//   Thai script includes consonants, vowels, and tone marks, with vowels and tones significantly impacting the pronunciation of words. Below is an array that includes the primary consonants, some basic vowel symbols, and tone marks. The romajiization follows the Royal Thai General System of Transcription (RTGS), but keep in mind that Thai pronunciation and romajiization can be quite complex due to the nature of the script and phonetics:
+  
+  
+//   important Notes:
+//   Vowels: Thai vowels can be complex because they can appear in front of, above, below, or after the consonant, and sometimes even surrounding it. The representation in this array is oversimplified. Normally, vowels adapt their position relative to the consonants they accompany. For a comprehensive learning tool, consider showing the vowels in their various positions relative to generic consonants.
+  
+//   Tone Marks: These are used in combination with consonants to indicate the tone of a syllable. The actual tone of a syllable is determined by a combination of the type of consonant, the type of syllable (live or dead), the length of the vowel, and the tone mark.
+  
+//   romajiization: The RTGS is the official system used by the Thai government for transliterating Thai characters into the Latin alphabet. However, due to the complexity and nuances of Thai pronunciation, romajiization can sometimes be an imperfect representation.
+  
+//   Learning Thai: When learning Thai, it's also important to understand the rules and patterns for how consonants, vowels, and tones interact, which is something that goes beyond just memorizing individual characters.
+  
+//   This array provides a basic set of Thai characters for a language learning tool. When creating learning materials or applications, especially for a complex script like Thai, it's beneficial to complement written materials with audio pronunciations and visual demonstrations of character placement and usage.
+
+
+
+// I think lots of useful combination letters are missing here, chat GPT didnt really know them as standalone alphabet stuff
+// it gave only doubles
+
+const koreanLetters = [
+    // Consonants
+    { char: 'ㄱ', romaji: 'g/k' }, { char: 'ㄴ', romaji: 'n' }, { char: 'ㄷ', romaji: 'd/t' },
+    { char: 'ㄹ', romaji: 'r/l' }, { char: 'ㅁ', romaji: 'm' }, { char: 'ㅂ', romaji: 'b/p' },
+    { char: 'ㅅ', romaji: 's' }, { char: 'ㅇ', romaji: '(ng)' }, { char: 'ㅈ', romaji: 'j/ch' },
+    { char: 'ㅊ', romaji: 'ch' }, { char: 'ㅋ', romaji: 'k' }, { char: 'ㅌ', romaji: 't' },
+    { char: 'ㅍ', romaji: 'p' }, { char: 'ㅎ', romaji: 'h' },
+
+    // Vowels
+    { char: 'ㅏ', romaji: 'a' }, { char: 'ㅑ', romaji: 'ya' }, { char: 'ㅓ', romaji: 'eo' },
+    { char: 'ㅕ', romaji: 'yeo' }, { char: 'ㅗ', romaji: 'o' }, { char: 'ㅛ', romaji: 'yo' },
+    { char: 'ㅜ', romaji: 'u' }, { char: 'ㅠ', romaji: 'yu' }, { char: 'ㅡ', romaji: 'eu' },
+    { char: 'ㅣ', romaji: 'i' },
+
+    // Compound Vowels
+    { char: 'ㅐ', romaji: 'ae' }, { char: 'ㅒ', romaji: 'yae' }, { char: 'ㅔ', romaji: 'e' },
+    { char: 'ㅖ', romaji: 'ye' }, { char: 'ㅘ', romaji: 'wa' }, { char: 'ㅙ', romaji: 'wae' },
+    { char: 'ㅚ', romaji: 'oe' }, { char: 'ㅝ', romaji: 'wo' }, { char: 'ㅞ', romaji: 'we' },
+    { char: 'ㅟ', romaji: 'wi' }, { char: 'ㅢ', romaji: 'ui' },
+
+    // Additional Compound Consonants (used less frequently)
+    { char: 'ㄲ', romaji: 'kk' }, { char: 'ㄸ', romaji: 'tt' }, { char: 'ㅃ', romaji: 'pp' },
+    { char: 'ㅆ', romaji: 'ss' }, { char: 'ㅉ', romaji: 'jj' }
+];
+
+// Korean is written in Hangul, a unique alphabetic system where letters are grouped into syllabic blocks. Each block contains at least one consonant and one vowel, forming a syllable. Hangul consists of 14 basic consonants, 10 basic vowels, and additional letters formed by combining these basic ones. Here is an array including all the basic Korean letters (consonants and vowels) with their common romajiization:
+
+// Notes:
+// Consonants: These are the basic consonants. Some can have slightly different pronunciations based on their position in a syllable or surrounding letters. The romajiization reflects the most common pronunciation.
+
+// Vowels: Basic vowels in Hangul are straightforward, but their pronunciation can slightly vary in different contexts. Compound vowels are combinations of basic vowels.
+
+// romajiization: The romajiization here is based on the Revised romajiization of Korean, which is the official system used in South Korea. Remember, romajiization is just an approximation of Korean sounds using the Latin alphabet.
+
+// Pronunciation: The actual pronunciation might be slightly different from the romajiized versions, especially with vowels, as they don't have direct equivalents in English in some cases. Learning the correct pronunciation often requires listening to native speakers and practice.
+
+// Additional Letters: Hangul also includes double consonants and additional compound vowels not frequently used but still part of the language. They're formed by combining or modifying the basic letters.
+
+// When learning Korean, it's beneficial to not just memorize the Hangul characters but also practice writing them, understanding their composition in syllabic blocks, and hearing their pronunciation in context. This helps in grasping how the language is constructed and used in everyday communication.
+
+
+
+
+
+
+  // HiraganaCard component inline
+  const HiraganaCard = ({ char, romaji }) => (
+    <div className="w-16 h-16">
+      {/* Hover Control */}
+      <div className="relative w-full h-full">
+        {/* Front Side */}
+        <div className="bg-slate-100 absolute inset-0 transition duration-75 ease-in-out transform hover:opacity-0 rounded-lg shadow-md flex items-center justify-center p-2 border border-gray-200">
+          <h5 className="text-2xl font-bold text-gray-900">{char}</h5>
+        </div>
+        {/* Back Side */}
+        <div className="bg-slate-300 absolute inset-0 transition duration-75 ease-in-out transform opacity-0 hover:opacity-100 rounded-lg shadow-md flex items-center justify-center p-2 border border-gray-200">
+          <h5 className="text-3xl text-gray-700">{romaji}</h5>
+        </div>
+      </div>
+    </div>
+  );
+
+
+
+// Furigana Component
+const Furigana = ({ kanji, reading }) => (
+  <ruby className="relative">
+    {kanji}
+    <rt className="text-xs text-gray-500 absolute -top-5">{reading}</rt>
+  </ruby>
+);
+
+  
+
+
+
+
+
+
+
+
+
+
+  return (
+    <div className="container mx-auto p-4">
+
+<TabComponent />
+
+
+<p className="text-base leading-normal">
+      This is an example of <Furigana kanji="漢字" reading="かんじ" /> with furigana.
+    </p>
+
+<h1 className="text-4xl font-bold text-center mb-8 mt-8">Learn Hangul</h1>
+      <div className="flex flex-wrap justify-center gap-4">
+        {koreanLetters.map((item, index) => (
+          <HiraganaCard key={index} char={item.char} romaji={item.romaji} />
+        ))}
+      </div>
+
+
+
+      <h1 className="text-4xl font-bold text-center mb-8 mt-8">Learn Thai</h1>
+      <div className="flex flex-wrap justify-center gap-4">
+        {thaiLetters.map((item, index) => (
+          <HiraganaCard key={index} char={item.char} romaji={item.romaji} />
+        ))}
+      </div>
+
+
+
+
+      <h1 className="text-4xl font-bold text-center mb-8 mt-8">Learn Hiragana</h1>
+      <div className="flex flex-wrap justify-center gap-4">
+        {hiragana.map((item, index) => (
+          <HiraganaCard key={index} char={item.char} romaji={item.romaji} />
+        ))}
+      </div>
+
+
+      <h1 className="text-4xl font-bold text-center mb-8 mt-8">Learn Katakana</h1>
+      <div className="flex flex-wrap justify-center gap-4">
+        {katakana.map((item, index) => (
+          <HiraganaCard key={index} char={item.char} romaji={item.romaji} />
+        ))}
+      </div>
+
+
+
+
+
+    </div>
+  );
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+const TabComponent = () => {
+  // State to manage which tab is active
+  const [activeTab, setActiveTab] = useState('hiragana');
+
+  return (
+    <div className="flex flex-col items-center justify-center p-4">
+      {/* Tabs */}
+      <div className="flex border-b overflow-auto">
+        {['Hiragana', 'Katakana', 'JLPT N5', 'JLPT N4', 'JLPT N3', 'JLPT N2', 'JLPT N1'].map((tab, index) => (
+          <button
+            key={index}
+            className={`px-4 py-2 text-lg font-medium ${activeTab === tab.toLowerCase() ? 'text-blue-500 border-b-2 border-blue-500' : 'text-gray-600'}`}
+            onClick={() => setActiveTab(tab.toLowerCase())}
+          >
+            {tab}
+          </button>
+        ))}
+      </div>
+
+      {/* Tab Content */}
+      <div className="mt-4">
+        {activeTab === 'hiragana' && <div><p>Hiragana content goes here...</p></div>}
+        {activeTab === 'katakana' && <div><p>Katakana content goes here...</p></div>}
+        {activeTab === 'jlpt n5' && <div><p>JLPT N5 content goes here...</p></div>}
+        {activeTab === 'jlpt n4' && <div><p>JLPT N4 content goes here...</p></div>}
+        {activeTab === 'jlpt n3' && <div><p>JLPT N3 content goes here...</p></div>}
+        {activeTab === 'jlpt n2' && <div><p>JLPT N2 content goes here...</p></div>}
+        {activeTab === 'jlpt n1' && <div><p>JLPT N1 content goes here...</p></div>}
+      </div>
+    </div>
+  );
+};
+

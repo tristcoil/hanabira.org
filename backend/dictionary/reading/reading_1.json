@@ -1,0 +1,192 @@
+{
+  "key": "reading_1",
+  "title": "reading 1",
+  "titleRomaji": "reading 1",
+  "titleJp": "reading 1",
+  "p_tag": "JLPT_N2",
+  "s_tag": "sci-fi",
+  "textAudio": "/audio/japanese/reading/reading_3.mp3",
+  "textAudio_1": "/audio/japanese/reading/reading_3.mp3",
+  "textAudioEn": "/audio/english/reading_1/ElevenLabs_2023-11-04T19_31_04_Rachel_pre_s50_sb75_se0_b_m2.mp3",
+  "textAudioEn_1": "/audio/english/reading_1/ElevenLabs_2023-11-04T19_31_04_Rachel_pre_s50_sb75_se0_b_m2.mp3",
+  "japaneseText": [
+    "2137年、地球はほとんどの天然資源を使い果たし、人類を宇宙の空間での救済を探るように駆り立てました。スターシップAeolisは、生命の潜在的な兆候を示している最近発見された太陽系外惑星、Zephyriaを調査するために銀河の外縁に派遣されました。このミッションには、資源だけでなく、新しい家としての潜在的な可能性もかかっていました。",
+    "AeolisがZephyriaに接近すると、初期のスキャンは有望な絵を描きました：広大な海、密な森、そして地球の大気と驚くほど似ている。しかし、一つの異常が乗組員の興味を引きました - 巨大な単一のモノリス構造、対称的で鋭い、空を突き刺すように。先進的なエイリアン生命の指標だと確信して、キャプテンのアナヤは近くに着陸するよう命じました。探検隊は、平和的な最初の接触を確立することを望んで、先進的な通信ツールを装備していました。",
+    "しかし、彼らがモノリスに近づくと、雰囲気は説明できない緊張で濃くなりました。チームのメンバーであるリン博士が、冷たい黒曜石の表面に触れるために手を伸ばしました。彼女の指が接触する瞬間、彼女を包み込む眩しい光が彼女を消失させました。パニックが広がりました。チームメンバーが構造に近づくたびに、彼らも次々と消えてしまい、空のスーツと浮かんでいる装備だけが残されました。",
+    "恐怖に取りつかれたアナヤ船長は、即時の撤退を命じました。しかし、残った乗組員がAeolisに戻る途中、彼らは通信機器で失われた仲間の声を聞き始めました。声は歪んでおり、モノリスの中から助けを求める絶望的な声でした。あらゆる直感に反して、アナヤ船長は彼女のチームを放棄することができず、戻ってきました。しかし、彼女が構造に近づいたとき、彼女は彼女のクルーではなく、人間の形をした影のようなシルエットを見つけました。それは、モノリスを礼拝するかのように、同期して動いていました。",
+    "Aeolisは、骨格のクルーによって急いでZephyriaを出発しました。地球に送り返された最後の伝送は警告でした：“Zephyriaから遠ざかってください。私たちは一人ではありません。”伝送は、失われたクルーの声の恐ろしい、歪んだ合唱で終わりました。地球のリーダーは、出来事に恐怖を感じ、Zephyriaを禁止されたとマークしました。しかし、地下派閥のデータベースの奥深くには、モノリスの謎が、それを求めるほど大胆または狂った人々を呼び出していました。"
+  ],
+  "romanizedText": [
+    "2137-nen, Chikyū wa hotondo no tennen shigen o tsukaihatashi, jinrui o uchū no kūkan de no kyūsai o saguru yō ni karitatemashita. Sutāshippu Aeolis wa, seimei no sentenzai-tekina chōkoku o shimeshite iru saikin hakken sa reta taiyō-keigai wakusei, Zephyria o chōsa suru tame ni ginga no gaien ni haken sa remashita. Kono misshon ni wa, shigen dake denaku, atarashī ie toshite no sentenzai-tekina kanō-sei mo kakatte imashita.",
+    "Aeolis ga Zephyria ni sekkin suru to, shoki no sukyan wa yūbōna e o egakimashita: kōdai na umi, mitsuna mori, soshite Chikyū no taiki to odoroku hodo nite iru. Shikashi, hitotsu no ijō ga jokyūin no kyōmi o hikimashita - kyodaina tan'itsu no monorisu kōzō, taishō-teki de surudoi, sora o tsukisasu yō ni. Senshinteki na eirian seimei no shihyō da to kakushin shite, Kyaputen no Anaya wa chikaku ni chakuriku suru yō meijimashita. Tanken-tai wa, heiwateki na saisho no sesshoku o kakuritsu suru koto o nozonde, senshinteki na tsūshin tsūru o sōbi shite imashita.",
+    "Shikashi, karera ga monorisu ni chikazuku to, fun'iki wa setsumei dekinai kinchō de koku kunarimashita. Chīmu no menbādearu Rin hakase ga, tsumetai kokuyō-seki no hyōmen ni fureru tame ni te o nobashimashita. Kanojo no yubi ga sesshoku suru shunkan, kanojo o tsutsumikomu mabushī hikari ga kanojo o shōshitsu sasemashita. Panikku ga hirogarimashita. Chīmu menbā ga kōzō ni chikazuku tabi ni, karera mo tsugitsugi to kiete shimai, kara no sūtsu to ukande iru sōbi dake ga nokosaremashita.",
+    "Kyōfu ni toritsukareta Anaya senchō wa, sokujitsunotettai o meijimashita. Shikashi, nokotta jokyūin ga Aeolis ni modoru tochū, karera wa tsūshin kiki de ushinawa reta nakama no koe o kiki hajimemashita. Koe wa yugande ori, monorisu no naka kara tasuke o motomeru zetsubō-teki na koe deshita. Arayuru chokkan ni hanshite, Anaya senchō wa kanojo no chīmu o hōki suru koto ga dekizu, modotte kimashita. Shikashi, kanojo ga kōzō ni chikazuita toki, kanojo wa kanojo no kurū de wa naku, ningen no katachi o shita kage no yōna shiruetto o mitsukemashita. Sore wa, monorisu o reihai suru ka no yō ni, dōki shite ugokite imashita.",
+    "Aeolis wa, kokkaku no kurū ni yotte isoide Zephyria o shuppatsu shimashita. Chikyū ni okurikaesa reta saigo no densō wa keikoku deshita: Zephyria kara tōzakatte kudasai. Watashitachi wa hitori de wa arimasen. Densō wa, ushinawa reta kurū no koe no osoroshī, yuganda gasshō de owarimashita. Chikyū no rīdā wa, dekigoto ni kyōfu o kanji, Zephyria o kinshi sa reta to māku shimashita. Shikashi, chika habutsu no dētabēsu no okufukaku ni wa, monorisu no nazo ga, sore o motomeru hodo daitan mata wa kyōtta hitobito o yobidashite imashita."
+  ],
+  "englishTranslation": [
+    "In the year 2137, Earth had exhausted most of its natural resources, compelling humanity to probe the void of space in search of salvation. Starship Aeolis, a high-tech exploratory vessel, was dispatched to the outer rims of our galaxy to investigate a recently discovered exoplanet, Zephyria, that displayed potential signs of life. The hopes of humanity rested on this mission, not just for resources, but for a potential new home.",
+    "As the Aeolis approached Zephyria, initial scans painted a promising picture: vast oceans, dense forests, and an atmosphere strikingly similar to Earth’s. But a singular anomaly piqued the crew's interest—an enormous monolithic structure, symmetric and sharp, piercing the sky. Convinced it was an indicator of advanced alien life, Captain Anaya gave the order to land nearby. The team of explorers, armed with advanced communication tools, hoped to establish a peaceful first contact.",
+    "But as they approached the monolith, the atmosphere grew dense with an unplaceable tension. A member of the team, Dr. Lin, reached out to touch the cold, obsidian surface. The moment her fingers made contact, a blinding light enveloped her, causing her to vanish. Panic ensued. One by one, as team members ventured too close to the structure, they too disappeared, leaving behind only empty suits and floating equipment.",
+    "Captain Anaya, now gripped by terror, ordered an immediate retreat. But as the remaining crew raced back to Aeolis, they began hearing their missing comrades' voices on their communication devices. The voices were distorted, desperate, pleading for help from inside the monolith. Against every instinct, Captain Anaya turned back, unable to abandon her team. But as she neared the structure, she found not her crew, but shadowy silhouettes of human forms, devoid of any identifiable features, moving synchronously around the monolith, as if worshipping it.",
+    "The Aeolis, now manned by a skeletal crew, frantically departed Zephyria. The last transmission sent back to Earth was a warning: “Stay away from Zephyria. We are not alone.” The transmission ended with a chilling, distorted chorus of voices from the lost crew, singing praises to the monolith. Earth's leaders, horrified by the events, marked Zephyria as forbidden. But deep within the databases of underground factions, the allure of the monolithic enigma called to those bold or mad enough to seek it out."
+  ],
+  "readingVocabulary": [
+    "天然資源 (てんねんしげん) - Ten'nen shigen - Natural resources",
+    "救済 (きゅうさい) - Kyūsai - Relief or salvation",
+    "太陽系外惑星 (たいようけいがいわくせい) - Taiyōkeigai wakusei - Exoplanet",
+    "潜在的 (せんざいてき) - Senzai-teki - Potential or latent",
+    "兆候 (ちょうこう) - Chōkō - Indication or sign",
+    "異常 (いじょう) - Ijō - Anomaly or abnormality",
+    "モノリス構造 (ものりすこうぞう) - Monorisu kōzō - Monolith structure",
+    "先進的 (せんしんてき) - Senshin-teki - Advanced or progressive",
+    "通信ツール (つうしんつーる) - Tsūshin tsūru - Communication tool",
+    "雰囲気 (ふんいき) - Fun'iki - Atmosphere or mood",
+    "撤退 (てったい) - Tettai - Retreat or withdrawal",
+    "通信機器 (つうしんきき) - Tsūshin kiki - Communication equipment",
+    "絶望的 (ぜつぼうてき) - Zetsubō-teki - Desperate",
+    "シルエット (しるえっと) - Shiruetto - Silhouette",
+    "伝送 (でんそう) - Densō - Transmission",
+    "地下派閥 (ちかはばつ) - Chika habatsu - Underground faction",
+    "データベース (でーたべーす) - Dētabēsu - Database",
+    "使い果たし (つかいはたし) - Tsukaihatashi - Exhaust or use up",
+    "駆り立てました (かりたてました) - Karitatemashita - Urged or drove",
+    "調査 (ちょうさ) - Chōsa - Investigation or survey",
+    "銀河 (ぎんが) - Ginga - Galaxy",
+    "外縁 (がいえん) - Gaien - Outer edge or fringe",
+    "接近 (せっきん) - Sekkin - Approach or get closer",
+    "描きました (えがきました) - Egakimashita - Drew or depicted",
+    "密な (みつな) - Mitsuna - Dense or thick",
+    "驚くほど (おどろくほど) - Odorokuhodo - Surprisingly or astonishingly",
+    "興味 (きょうみ) - Kyōmi - Interest or curiosity",
+    "対称的 (たいしょうてき) - Taishōteki - Symmetrical",
+    "突き刺す (つきさす) - Tsukisasu - Pierce or stab",
+    "探検隊 (たんけんたい) - Tankentai - Expedition team",
+    "装備 (そうび) - Sōbi - Equipment",
+    "緊張 (きんちょう) - Kinchō - Tension",
+    "消失 (しょうしつ) - Shōshitsu - Disappearance",
+    "恐怖 (きょうふ) - Kyōfu - Fear or terror",
+    "声 (こえ) - Koe - Voice",
+    "禁止された (きんしされた) - Kinshi sareta - Was prohibited or forbidden",
+    "謎 (なぞ) - Nazo - Mystery or enigma"
+  ],
+  "readingVocabularyEn": [
+    "exhausted (使い果たした) 地球はほとんどの自然資源を使い果たした。 自然資源を全てまたはほとんど使い尽くした状態。",
+    "compelling (強制的な) 人類を宇宙の空虚に探査させる強制的な事態。 強く影響を与える、説得力のある。",
+    "salvation (救済) 救済を求める。 危機や困難な状況からの救出や解放。",
+    "exploratory (探査の) 高技術の探査船。 探索や調査に関連すること。",
+    "vessel (船) 探査船。 船や他の大きな乗り物、特に宇宙船を指す。",
+    "outer rims (外縁) 私たちの銀河の外縁。 ある領域の最も遠い境界線。",
+    "exoplanet (系外惑星) 最近発見された系外惑星。 太陽系外の惑星。",
+    "dense (密集した) 密集した森林。 物事が非常に近くに集まっている状態。",
+    "anomaly (異常) 特異な異常。 通常とは異なるものや異常な状態。",
+    "monolithic (一枚岩の) 巨大な一枚岩の構造。 大きくて均一な固まりを指す。",
+    "symmetric (対称的な) 対称的で鋭い。 二つまたはそれ以上の部分が互いに対応している。",
+    "piercing (突き抜ける) 空を突き抜ける。 鋭くて強い印象を与える。",
+    "obsidian (黒曜石) 冷たい黒曜石の表面。 自然に出来るガラス状の火山岩。",
+    "enveloped (包まれた) 目くるめく光に包まれた。 完全に覆われること。",
+    "silhouettes (シルエット) 影のような人間の形。 人や物の外形だけを表す影の形。",
+    "synchronously (同時に) 同時に動く。 同時に行われる動作。",
+    "skeletal (骨だけの) 骨だけの乗組員。 最小限のまたは骨組みだけの。",
+    "transmission (通信) 最後の通信。 データや情報を送る行為。",
+    "distorted (歪んだ) 歪んだ声。 正常な形や音から変わってしまったもの。",
+    "enigma (謎) 一枚岩の謎。 解明が難しい謎や問題。"
+  ],
+  "readingGrammar": [
+    "使い果たし - This is the conjugation of the verb 使い果たす (to use up). The し ending indicates the past tense, so it means 'used up.'",
+    "駆り立てました - This is the past tense of 駆り立てる, which means 'to spur' or 'drive someone to do something.' The ました ending indicates politeness and past tense.",
+    "された in 発見された - This is the passive form of the verb する (to do). The passive form is used to indicate that something was done by someone or something. In this context, it means the planet 'was discovered.'",
+    "かかっていました - This is a combination of the verb かかる (to hang on, depend on) and the auxiliary verb いる in the past tense. It implies that something was at stake or depended on the mission.",
+    "接近すると - The と particle after a verb in dictionary form indicates a natural consequence. It means 'when' or 'as soon as' Aeolis approached Zephyria, something happened.",
+    "命じました - This is the past tense of 命じる, which means 'to order' or 'command.' The captain ordered to land near the location.",
+    "たびに in 近づくたびに - This grammar point indicates 'every time' or 'whenever.' In this context, it means 'every time they approached the structure.'",
+    "取りつかれた - This is the passive form of 取りつく (to be possessed or haunted). It indicates that Captain Anaya 'was possessed by' or 'was overtaken by' fear.",
+    "反して in あらゆる直感に反して - The verb 反す means 'to go against' or 'to oppose.' The grammar point here means 'against all intuition.'",
+    "動いていました - This is the past tense of the verb 動く (to move) combined with the auxiliary verb いる. It indicates an ongoing action in the past, so it means 'was moving.'"
+  ],
+
+  "readingGrammarEn": [
+    "過去完了時制 (Past Perfect Tense) - 'Earth had exhausted most of its natural resources' - 地球はほとんどの自然資源を使い果たしていた。過去のある時点より前に完了していた動作を表す。",
+    "現在分詞を形容詞として使用 (Present Participle as Adjective) - 'a high-tech exploratory vessel' - 高技術の探査船。動名詞が形容詞として名詞を修飾している。",
+    "過去進行形 (Past Continuous Tense) - 'was dispatched' - 派遣された。過去のある時点で進行していた動作を表す。",
+    "関係節 (Relative Clause) - 'that displayed potential signs of life' - 生命の可能性のある兆候を示していた。関係代名詞が先行詞を説明する節を導いている。",
+    "過去形 (Past Simple Tense) - 'painted a promising picture' - 有望な絵を描いた。過去のある時点で起こった動作を表す。",
+    "目的のための不定詞 (Infinitive of Purpose) - 'to land nearby' - 近くに着陸するために。動作の目的を示す。",
+    "比較級 (Comparative Form) - 'strikingly similar to Earth’s' - 地球のものと著しく似ている。二つの物の比較を示す形容詞の形。",
+    "可能性を示す助動詞 (Modal Verb for Possibility) - 'could be' - 〜かもしれない。可能性を示す。",
+    "複数形 (Plural Form) - 'voices' - 声たち。複数のものを示す名詞の形。",
+    "命令文 (Imperative Sentence) - 'Stay away from Zephyria.' - ゼフィリアから離れていろ。命令や指示を表す文。"
+  ],
+
+  "sentencePayload": [
+    {
+      "japanese": "2137年、地球はほとんどの天然資源を使い果たし。",
+      "romanization": "2137-nen, Chikyū wa hotondo no tennen shigen o tsukaihatashi.",
+      "translation": "In 2137, Earth had exhausted most of its natural resources.",
+      "audioPath": "/audio/japanese/reading_1/r_1.mp3",
+      "audioPathEn": "/audio/english/reading_1/r_1.mp3"
+    },
+    {
+      "japanese": "人類を宇宙の空間での救済を探るように駆り立てました。",
+      "romanization": "Jinrui o uchū no kūkan de no kyūsai o saguru yō ni karitatemashita.",
+      "translation": "It compelled humanity to probe the void of space in search of salvation.",
+      "audioPath": "/audio/japanese/reading_1/r_2.mp3",
+      "audioPathEn": "/audio/english/reading_1/r_2.mp3"
+    },
+    {
+      "japanese": "スターシップAeolisは、生命の潜在的な兆候を示している最近発見された太陽系外惑星、Zephyriaを調査するために銀河の外縁に派遣されました。",
+      "romanization": "Sutāshippu Aeolis wa, seimei no senzai-tekina chōkō o shimeshite iru saikin hakken sareta taiyōkeigai wakusei, Zephyria o chōsa suru tame ni ginga no gaien ni haken saremashita.",
+      "translation": "Starship Aeolis was dispatched to the outer edges of the galaxy to investigate Zephyria, a recently discovered exoplanet showing potential signs of life.",
+      "audioPath": "/audio/japanese/reading_1/r_3.mp3",
+      "audioPathEn": "/audio/english/reading_1/r_3.mp3"
+    },
+    {
+      "japanese": "このミッションには、資源だけでなく、新しい家としての潜在的な可能性もかかっていました。",
+      "romanization": "Kono misshon ni wa, shigen dake de naku, atarashī ie toshite no senzai-tekina kanōsei mo kakatte imashita.",
+      "translation": "This mission was not just about resources, but also about the potential of a new home.",
+      "audioPath": "/audio/japanese/reading_1/r_4.mp3",
+      "audioPathEn": "/audio/english/reading_1/r_4.mp3"
+    },
+    {
+      "japanese": "AeolisがZephyriaに接近すると、初期のスキャンは有望な絵を描きました：広大な海、密な森、そして地球の大気と驚くほど似ている。",
+      "romanization": "Aeolis ga Zephyria ni sekkin suru to, shoki no sukan wa yūbōna e o egakimashita: kōdana umi, mitsuna mori, soshite chikyū no taiki to odoroku hodo nite iru.",
+      "translation": "As Aeolis approached Zephyria, the initial scans painted a promising picture: vast seas, dense forests, and an atmosphere strikingly similar to Earth's.",
+      "audioPath": "/audio/japanese/reading_1/r_5.mp3",
+      "audioPathEn": "/audio/english/reading_1/r_5.mp3"
+    },
+    {
+      "japanese": "しかし、一つの異常が乗組員の興味を引きました - 巨大な単一のモノリス構造、対称的で鋭い、空を突き刺すように。",
+      "romanization": "Shikashi, hitotsu no ijō ga norikumiin no kyōmi o hikimashita - kyodai na tan'itsu no monorisu kōzō, taishōteki de surudoi, sora o tsukisasu yō ni.",
+      "translation": "However, one anomaly caught the crew's interest - a massive singular monolithic structure, symmetrical and sharp, piercing the sky.",
+      "audioPath": "/audio/japanese/reading_1/r_6.mp3",
+      "audioPathEn": "/audio/english/reading_1/r_6.mp3"
+    },
+    {
+      "japanese": "これは自然に形成されるものではなく、明らかに何者かの手によって作られました。",
+      "romanization": "Kore wa shizen ni keisei sareru mono de wa naku, akiraka ni nanimono ka no te ni yotte tsukuraremashita.",
+      "translation": "This was not something formed naturally, but clearly crafted by someone or something.",
+      "audioPath": "/audio/japanese/reading_1/r_7.mp3",
+      "audioPathEn": "/audio/english/reading_1/r_7.mp3"
+    },
+    {
+      "japanese": "探査隊は近づいて詳細を調査することを決定しました。",
+      "romanization": "Tansa-tai wa chikazuite shōsai o chōsa suru koto o kettei shimashita.",
+      "translation": "The exploration team decided to approach and investigate in detail.",
+      "audioPath": "/audio/japanese/reading_1/r_8.mp3",
+      "audioPathEn": "/audio/english/reading_1/r_8.mp3"
+    },
+    {
+      "japanese": "彼らがモノリスの基盤に到達すると、古代の文字が刻まれているのを発見しました。",
+      "romanization": "Karera ga monorisu no kiban ni tōtatsu suru to, kodai no moji ga kizamarete iru no o hakken shimashita.",
+      "translation": "Upon reaching the base of the monolith, they discovered ancient characters engraved on it.",
+      "audioPath": "/audio/japanese/reading_1/r_9.mp3",
+      "audioPathEn": "/audio/english/reading_1/r_9.mp3"
+    },
+    {
+      "japanese": "これらの文字は、地球上のどの言語とも一致しませんでした。",
+      "romanization": "Korera no moji wa, Chikyū-jō no dono gengo tomo icchi shimasendeshita.",
+      "translation": "These characters did not match any language known on Earth.",
+      "audioPath": "/audio/japanese/reading_1/r_10.mp3",
+      "audioPathEn": "/audio/english/reading_1/r_10.mp3"
+    }
+  ]
+}

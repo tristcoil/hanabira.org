@@ -1,0 +1,72 @@
+[
+  {
+    "id":"1",
+    "name": "n3kanji1",
+    "file": "n3kanji1.md"
+  },
+  {
+    "id":"2",
+    "name": "n3kanji2",
+    "file": "n3kanji2.md"
+  },
+  {
+    "id":"3",
+    "name": "n3kanji3",
+    "file": "n3kanji3.md"
+  },
+  {
+    "id":"4",
+    "name": "n3kanji4",
+    "file": "n3kanji4.md"
+  },
+  {
+    "id":"5",
+    "name": "n3kanji5",
+    "file": "n3kanji5.md"
+  },
+  {
+    "id":"6",
+    "name": "n3kanji6",
+    "file": "n3kanji6.md"
+  },
+  {
+    "id":"7",
+    "name": "n4kanji1",
+    "file": "n4kanji1.md"
+  },
+  {
+    "id":"8",
+    "name": "n4kanji2",
+    "file": "n4kanji2.md"
+  },
+  {
+    "id":"9",
+    "name": "n4kanji3",
+    "file": "n4kanji3.md"
+  },
+  {
+    "id": "11",
+    "name": "kanjitest",
+    "file": "article.md"
+  },
+  {
+    "id":"12",
+    "name": "amae",
+    "file": "gpt_amae.md"
+  },
+  {
+    "id":"13",
+    "name": "N3 Kanji single reading 1",
+    "file": "N3_kanji_week3.md"
+  },
+  {
+    "id":"14",
+    "name": "kanji",
+    "file": "kanji.md"
+  },
+  {
+    "id":"15",
+    "name": "kanji1",
+    "file": "kanji1.md"
+  }
+]

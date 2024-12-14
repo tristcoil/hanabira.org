@@ -1,0 +1,12 @@
+[
+  {
+    "id": "1",
+    "name": "article",
+    "file": "article.md"
+  },
+  {
+    "id":"2",
+    "name": "amae",
+    "file": "gpt_amae.md"
+  }
+]

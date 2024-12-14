@@ -1,0 +1,316 @@
+{
+  "key": "jlpt_n3_reading_01",
+  "title": "The Samurai’s Descendant",
+  "titleRomaji": "Samurai no Matsuei",
+  "titleJp": "侍の末裔",
+  "p_tag": "jlpt_n3",
+  "s_tag": "story",
+  "shortDescription": "A modern-day student discovers they are descended from a samurai and seeks to learn more about their ancestor's history and the way of the bushido.",
+  "shortDescriptionRomaji": "Aru gendai no gakusei ga, jibun ga samurai no shison de aru koto o shiri, senzo no rekishi to bushidō ni tsuite manabu koto o nozomu.",
+  "shortDescriptionJp": "ある現代の学生が、自分がサムライの子孫であることを知り、先祖の歴史と武士道について学ぶことを望む。",
+  "textAudio": "/audio/japanese/JLPT_N3_reading_01/JLPT_N3_jp_reading_01.mp3",
+  "textAudio_1": "/audio/japanese/JLPT_N3_reading_01/JLPT_N3_jp_reading_01.mp3",
+  "textAudioEn": "/audio/japanese/JLPT_N3_reading_01/JLPT_N3_en_reading_01.mp3",
+  "textAudioEn_1": "/audio/japanese/JLPT_N3_reading_01/JLPT_N3_en_reading_01.mp3",
+  "japaneseText": [
+    "日本の丘陵地帯に囲まれた小さな町に、勇人という名前の若い学生が住んでいました。彼は常に地元の歴史に対して説明できないつながりを感じており、古い寺院や博物館を懐かしさを感じながら歩き回っていました。",
+    "ある日、家族の屋根裏を整理していると、勇人はほこりをかぶった古い箱を見つけました。中には丁寧に畳まれた着物、古びた手紙の束、そして装飾的な刀が入っていました。刀には家紋が刻まれており、それは勇人が町の歴史記録で認識していたシンボルでした。それは侍の紋章でした。",
+    "好奇心に駆られた勇人は、自分の家系の物語を解き明かすための探求に乗り出しました。彼は町で最も年長の住民を訪ね、古文書や古いテキストを探偵のように精力的に調べました。彼の先祖が勇敢さと武士道 - 侍の名誉の規範 - に忠実であったことで知られる侍である武士という名前の人物であったことを学びました。",
+    "勇人が武士の生涯を深く掘り下げるにつれ、彼は勇気と犠牲の物語を発見しました。武士はかつて、剣ではなく、知恵と交渉によって町を盗賊から救ったことがあり、勇気と慈悲の武士道の美徳を体現していました。",
+    "武士道の道に魅了された勇人は、その原則を自分の生活に応用することに決めました。彼は先祖の規律につながる剣道、剣の道を練習し始めました。剣道の練習の中での一撃ごとに、勇人は忍耐と尊敬を学び、武士の遺産への理解を深めました。",
+    "また、勇人は武士道のもう一つの側面である教育の価値を心に留めました。彼は武道の訓練と学問をバランス良く行い、両方で卓越性を目指しました。彼は侍が相手に立ち向かうように、冷静な心で挑戦に対処することを学びました。",
+    "年に一度の文化祭が近づくにつれ、勇人は先祖を称えるためにその物語を発表することにしました。彼は古い着物を身につけ、昔年の物語をささやく布地、そして側に刀を持って町の前に立ちました。彼は武士の行いと武士道の普遍的な関連性について語りました。",
+    "町の人々は、勇人の言葉を通じて彼らの遺産の復活に魅了されて聞き入りました。彼らはただの学生ではなく、世代を超えて生き続ける侍の精神の具現者を見ました。",
+    "勇人は、自分の血筋の真の力は刀の鋼にあるのではなく、世紀を通じて伝えられる持続する価値観にあると気づきました。彼の心の中で、侍の精神は生き続け、名誉、誠実さ、そして奉仕の生活を送るように導きました。",
+    "勇人と侍の物語は町で大切に語り継がれる物語となり、過去はその教訓が未来を形作る限り、決して本当に過ぎ去ることはないという思い出になりました。"
+  ],
+  "romanizedText": [
+    "Nihon no kyūryō chitai ni kakomareta chiisana machi ni, Yūto to iu namae no wakai gakusei ga sunde imashita. Kare wa tsune ni jimoto no rekishi ni taishite setsumei dekinai tsunagari o kanjite ori, furui tera ya hakubutsukan o natsukashisa o kanjinagara arukimawatte imashita.",
+    "Aru hi, kazoku no yaneura o seiri shite iru to, Yūto wa hokori o kabutta furui hako o mitsukemashita. Naka ni wa teinei ni tatamareta kimono, furubita tegami no taba, soshite sōshokuteki na katana ga haitte imashita. Katana ni wa kamonn ga kizamarete ori, sore wa Yūto ga machi no rekishi kiroku de ninshiki shite ita shinbōru deshita. Sore wa samurai no monshō deshita.",
+    "Kōkishin ni karareta Yūto wa, jibun no kakei no monogatari o tokiakashitameno tankyū ni norimashita. Kare wa machi de mottomo nenrei no jūmin o otozure, kobunsho ya furui tekisuto o tantei no yō ni seiryoku ni shirabemashita. Kare no senzo ga yūkan-sa to bushidō - samurai no meiyo no kihan - ni chūjitsu deatta koto de shirareru samurai de aru bushi to iu namae no jinbutsu deatta koto o manabimashita.",
+    "Yūto ga bushi no shōgai o fukaku horisageru ni tsure, kare wa yūki to gisei no monogatari o hakken shimashita. Bushi wa katsute, ken de wa naku, chie to kōshō ni yotte machi o tōzoku kara sukutta koto ga ari, yūki to jihi no bushidō no bitoku o taiyō shite imashita.",
+    "Bushidō no michi ni miryō sareta Yūto wa, sono gensoku o jibun no seikatsu ni ōyō suru koto ni kimemashita. Kare wa senzo no kiritsu ni tsunagaru kendō, ken no michi o renshū shihajimemashita. Kendō no renshū no naka de no ichigeki goto ni, Yūto wa nintai to sonkei o manabi, bushi no isan e no rikai o fukamemashita.",
+    "Mata, Yūto wa bushidō no mō hitotsu no sokumen de aru kyōiku no kachi o kokoro ni todomemashita. Kare wa budō no kunren to gakumon o baransu yoku okonai, ryōhō de takuetsusei o mezashimashita. Kare wa samurai ga aite ni tachimukau yō ni, reisei na kokoro de chōsen ni taisho suru koto o manabimashita.",
+    "Toshi ni ichido no bunkasai ga chikazuku ni tsure, Yūto wa senzo o tataeru tame ni sono monogatari o happyō suru koto ni shimashita. Kare wa furui kimono o mi ni tsuke, mukashi toshi no monogatari o sasayaku fujichī, soshite gawa ni katana o motte machi no mae ni tachimashita. Kare wa bushi no okonai to bushidō no fuhensei na kanrensei ni tsuite katarimashita.",
+    "Machi no hitobito wa, Yūto no kotoba o tōshite karera no isan no fukkatsu ni miryō sarete kikiirimashita. Karera wa tada no gakusei de wa naku, sedai o koete ikitsuzukeru samurai no seishin no gugensha o mimashita.",
+    "Yūto wa, jibun no kettō no shin no chikara wa katana no hagane ni aru no de wa naku, seiki o tsūjite tsutaerareru jizoku suru kachikan ni aru to kizukimashita. Kare no kokoro no naka de, samurai no seishin wa ikitsuzuke, meiyo, seijitsu-sa, soshite hōshi no seikatsu o okuru yō ni michibikimashita.",
+    "Yūto to samurai no monogatari wa machi de taisetsu ni kataritsugareru monogatari to nari, kako wa sono kyōkun ga mirai o katachizukuru kagiri, kesshite hontō ni sugisaru koto wa nai to iu omoide ni narimashita."
+  ],
+  "englishTranslation": [
+    "In a small town nestled between the rolling hills of Japan, there lived a young student named Yuuto. He had always felt an inexplicable connection to the local history, often wandering through the ancient temples and museums with a sense of nostalgia tugging at his heart.",
+    "One day, while sifting through his family’s attic, Yuuto stumbled upon a dusty, old chest. Inside, he found a carefully folded kimono, a set of aged letters, and an ornate katana. The blade was engraved with the family crest, a symbol Yuuto recognized from the town's historical records. It was the crest of a samurai.",
+    "Curiosity consumed him, and Yuuto embarked on a quest to uncover the stories of his lineage. He visited the town's oldest residents, perusing archives and ancient texts with the diligence of a detective. He learned that his ancestor was a samurai named Takeshi, who was known for his bravery and adherence to the bushido - the samurai's code of honor.",
+    "As Yuuto delved deeper into Takeshi's life, he discovered tales of valor and sacrifice. Takeshi had once saved the town from bandits, not by the sword, but through wisdom and negotiation, embodying the bushido virtues of courage and benevolence.",
+    "Intrigued by the way of the bushido, Yuuto decided to apply its principles to his own life. He began practicing kendo, the way of the sword, to connect with his ancestor's discipline. Each strike and parry in his kendo practice taught Yuuto patience and respect, furthering his understanding of Takeshi's legacy.",
+    "Yuuto also took to heart the value of education, another aspect of the bushido. He balanced his martial arts training with his academic studies, striving for excellence in both. He learned to approach challenges with a calm mind, just as a samurai would face an opponent.",
+    "As the annual cultural festival approached, Yuuto decided to honor his ancestor by presenting his story. He donned the old kimono, the fabric whispering tales of yesteryears, and stood before the town, katana at his side. He spoke of Takeshi’s deeds and the timeless relevance of the bushido.",
+    "The townspeople listened, captivated by the resurgence of their heritage through Yuuto's words. They saw not just a student, but the embodiment of a samurai’s spirit, living on through the generations.",
+    "Yuuto realized that the true power of his lineage was not in the katana's steel, but in the enduring values passed down through the centuries. In his heart, the spirit of the samurai lived on, guiding him to live a life of honor, integrity, and service.",
+    "The story of Yuuto and the samurai became a cherished tale in the town, a reminder that the past is never truly gone, as long as its lessons continue to shape the future."
+  ],
+  "readingVocabulary": [
+    "末裔 (まつえい) - Matsuei - Descendant",
+    "丘陵地帯 (きゅうりょうちたい) - Kyūryō chitai - Hill area",
+    "歴史 (れきし) - Rekishi - History",
+    "寺院 (じいん) - Jiin - Temple",
+    "博物館 (はくぶつかん) - Hakubutsukan - Museum",
+    "屋根裏 (やねうら) - Yaneura - Attic",
+    "装飾的 (そうしょくてき) - Sōshokuteki - Decorative",
+    "家紋 (かもん) - Kamon - Family crest",
+    "紋章 (もんしょう) - Monshō - Emblem",
+    "探求 (たんきゅう) - Tankyū - Quest",
+    "武士道 (ぶしどう) - Bushidō - Samurai code of conduct",
+    "勇敢 (ゆうかん) - Yūkan - Bravery",
+    "交渉 (こうしょう) - Kōshō - Negotiation",
+    "教育 (きょういく) - Kyōiku - Education",
+    "剣道 (けんどう) - Kendō - The way of the sword",
+    "忍耐 (にんたい) - Nintai - Patience",
+    "尊敬 (そんけい) - Sonkei - Respect",
+    "卓越 (たくえつ) - Takue - Excellence",
+    "文化祭 (ぶんかさい) - Bunkasai - Cultural festival",
+    "普遍的 (ふへんてき) - Fuhen-teki - Universal",
+    "勇人 (ゆうと) - Yūto - A person's name, typically meaning brave person",
+    "説明 (せつめい) - Setsumei - Explanation",
+    "懐かしさ (なつかしさ) - Natsukashisa - Nostalgia",
+    "ほこり (ほこり) - Hokori - Dust",
+    "手紙の束 (てがみのたば) - Tegami no taba - Bundle of letters",
+    "刻まれる (きざまれる) - Kizamareru - Engraved",
+    "好奇心 (こうきしん) - Kōkishin - Curiosity",
+    "年長 (ねんちょう) - Nenchō - Elderly",
+    "古文書 (こもんじょ) - Komonjo - Ancient documents",
+    "武士 (ぶし) - Bushi - Warrior or samurai"
+  ],
+  "readingVocabularyEn": [
+    "nestled (隠れるように位置する) - 日本の丘陵地帯に隠れるように位置する小さな町。",
+    "inexplicable (説明できない) - 説明できないつながりを感じていた。",
+    "nostalgia (郷愁) - 郷愁を感じながら古代の寺院を歩いた。",
+    "stumbled upon (偶然見つける) - 家の屋根裏で偶然見つけた。",
+    "ornate (装飾的な) - 装飾的な刀。",
+    "engraved (彫り込まれた) - 家紋が彫り込まれた刀の刃。",
+    "lineage (血統) - 彼の血統の物語を明らかにするための探求。",
+    "perusing (熟読する) - 古い記録や古文書を熟読する。",
+    "diligence (勤勉) - 探偵のような勤勉さ。",
+    "bravery (勇気) - 勇気で知られる。",
+    "adherence (固守) - 武士道への固守。",
+    "valor (勇敢さ) - 勇敢さの話。",
+    "sacrifice (犠牲) - 犠牲の話。",
+    "wisdom (知恵) - 知恵を通して。",
+    "negotiation (交渉) - 交渉を通して。",
+    "embodiment (体現) - 武士道の美徳の体現。",
+    "principles (原則) - 原則を適用する。",
+    "discipline (規律) - 祖先の規律とつながる。",
+    "parry (かわす) - 攻撃をかわすこと。",
+    "patience (忍耐) - 忍耐を教わる。",
+    "legacy (遺産) - 遺産への理解。",
+    "education (教育) - 教育の価値。",
+    "academic (学問の) - 学問の研究。",
+    "challenges (課題) - 課題に冷静に対処する。",
+    "cultural (文化的な) - 年間の文化祭。",
+    "donned (身につける) - 古い着物を身につける。",
+    "resurgence (再起) - 遺産の再起。",
+    "embodiment (具体化) - 武士の精神の具体化。",
+    "integrity (誠実) - 名誉と誠実と奉仕の生活。",
+    "cherished (大切にされる) - 大切にされる話。"
+  ],
+  "readingGrammar": [
+    "に囲まれた (にかこまれた) - This is the passive form of the verb 囲む (to surround) in the past tense. When attached to a noun like '丘陵地帯' (hill area), it means 'surrounded by the hill area.'",
+    "感じており - This comes from the verb 感じる (to feel). The ており form is a polite and somewhat formal way to connect verbs in written Japanese. It's equivalent to 感じていて, indicating a continuous or ongoing state of feeling.",
+    "かぶった (かぶった) - This is the past tense of the verb かぶる, which can mean 'to cover' or 'to wear.' In this context, it means 'covered with dust.'",
+    "刻まれており - This is the passive form of the verb 刻む (to carve or engrave) in the ており form, indicating an ongoing state where something has been engraved.",
+    "解き明かすための - This is a grammatical construction that combines the verb 解き明かす (to unravel or solve), the purpose marker ため (indicating 'for the purpose of'), and the possessive の, creating the phrase 'for the purpose of unraveling.'",
+    "探偵のように精力的に調べました - Here, 探偵のように (like a detective) is an adverbial phrase modifying the verb 調べました (investigated). 精力的に is another adverb meaning 'vigorously' or 'energetically.'",
+    "侍の紋章でした - The noun 紋章 (crest) is followed by でした, which is the polite past form of the copula です. It is used here to assert that something 'was' a certain way.",
+    "練習の中での一撃ごとに - This phrase combines 練習の中で (in the midst of practice), の (possessive or linking particle), 一撃 (a strike), and ごとに (every), to mean 'with every strike during the practice.'",
+    "心に留めました - This comes from the expression 心に留める, which means 'to keep in mind.' 留めました is the past tense form, indicating that he 'kept it in mind' or 'took it to heart.'",
+    "語り継がれる物語となり - 語り継がれる is the passive form of 語り継ぐ, meaning 'to hand down (stories).' となり is from となる, which is a way to express 'to become' in a formal or literary style. Together, it means 'became a story that is handed down.'"
+  ],
+  "readingGrammarEn": [
+    "'In a small town nestled between the rolling hills of Japan, there lived a young student named Yuuto.' この文には過去進行形が使われています。日本語では「日本の丘陵地帯に囲まれた小さな町に、ユウトという若い学生が住んでいました」となります。",
+    "'He had always felt an inexplicable connection to the local history...' 過去完了形が使われており、日本語で「彼は常に地元の歴史に説明できないつながりを感じていた」と訳せます。過去のある時点より前の経験を表しています。",
+    "'...often wandering through the ancient temples and museums...' 現在分詞の用法です。「よく古代の寺院や博物館をぶらついていた」という継続的な行動を表しています。",
+    "'Yuuto stumbled upon a dusty, old chest.' 過去形の不規則動詞 'stumble upon' を使っています。「ユウトはほこりをかぶった古い箱につまずいた」と訳します。",
+    "'The blade was engraved with the family crest...' 受動態の過去形が使われています。日本語では「刀身には家紋が彫り込まれていた」となります。",
+    "'Curiosity consumed him, and Yuuto embarked on a quest...' この文では、「好奇心にかられて、ユウトは…の旅に出た」という形で、動名詞と過去形を組み合わせて使っています。",
+    "'He learned that his ancestor was a samurai named Takeshi...' 直接話法と間接話法の使い分けが見られます。「彼は先祖が武という名前の侍だったことを学んだ」と日本語に訳せます。",
+    "'Takeshi had once saved the town from bandits, not by the sword, but through wisdom and negotiation...' 過去完了形を使っています。「武はかつて、剣ではなく、知恵と交渉で町を盗賊から救った」と訳します。",
+    "'Each strike and parry in his kendo practice taught Yuuto patience and respect...' 動名詞を用いた原因と結果を表す文です。「剣道の練習での一撃ごとに、ユウトに忍耐と尊敬を教えた」となります。",
+    "'The story of Yuuto and the samurai became a cherished tale in the town...' 過去形を使い、文脈における影響を示しています。「ユウトと侍の話は町で大切にされる話となった」と訳せます。"
+  ],
+  "sentencePayload": [
+    {
+      "japanese": "日本の丘陵地帯に囲まれた小さな町に、勇人という名前の若い学生が住んでいました。",
+      "romanization": "Nihon no kyūryō chitai ni kakomareta chiisana machi ni, Yūto to iu namae no wakai gakusei ga sunde imashita.",
+      "translation": "In a small town nestled between the rolling hills of Japan, there lived a young student named Yuuto.",
+      "audioPath": "/audio/japanese/JLPT_N3_reading_01/r_jp_01.mp3",
+      "audioPathEn": "/audio/japanese/JLPT_N3_reading_01/r_en_01.mp3"
+    },
+    {
+      "japanese": "彼は常に地元の歴史に対して説明できないつながりを感じており、古い寺院や博物館を懐かしさを感じながら歩き回っていました。",
+      "romanization": "Kare wa tsune ni jimoto no rekishi ni taishite setsumei dekinai tsunagari o kanjite ori, furui tera ya hakubutsukan o natsukashisa o kanjinagara arukimawatte imashita.",
+      "translation": "He had always felt an inexplicable connection to the local history, often wandering through the ancient temples and museums with a sense of nostalgia tugging at his heart.",
+      "audioPath": "/audio/japanese/JLPT_N3_reading_01/r_jp_02.mp3",
+      "audioPathEn": "/audio/japanese/JLPT_N3_reading_01/r_en_02.mp3"
+    },
+    {
+      "japanese": "ある日、家族の屋根裏を整理していると、勇人はほこりをかぶった古い箱を見つけました。",
+      "romanization": "Aru hi, kazoku no yaneura o seiri shite iru to, Yūto wa hokori o kabutta furui hako o mitsukemashita.",
+      "translation": "One day, while sifting through his family’s attic, Yuuto stumbled upon a dusty, old chest.",
+      "audioPath": "/audio/japanese/JLPT_N3_reading_01/r_jp_03.mp3",
+      "audioPathEn": "/audio/japanese/JLPT_N3_reading_01/r_en_03.mp3"
+    },
+    {
+      "japanese": "中には丁寧に畳まれた着物、古びた手紙の束、そして装飾的な刀が入っていました。",
+      "romanization": "Naka ni wa teinei ni tatamareta kimono, furubita tegami no taba, soshite sōshokuteki na katana ga haitte imashita.",
+      "translation": "Inside, he found a carefully folded kimono, a set of aged letters, and an ornate katana.",
+      "audioPath": "/audio/japanese/JLPT_N3_reading_01/r_jp_04.mp3",
+      "audioPathEn": "/audio/japanese/JLPT_N3_reading_01/r_en_04.mp3"
+    },
+    {
+      "japanese": "刀には家紋が刻まれており、それは勇人が町の歴史記録で認識していたシンボルでした。",
+      "romanization": "Katana ni wa kamonn ga kizamarete ori, sore wa Yūto ga machi no rekishi kiroku de ninshiki shite ita shinbōru deshita.",
+      "translation": "The blade was engraved with the family crest, a symbol Yuuto recognized from the town's historical records.",
+      "audioPath": "/audio/japanese/JLPT_N3_reading_01/r_jp_05.mp3",
+      "audioPathEn": "/audio/japanese/JLPT_N3_reading_01/r_en_05.mp3"
+    },
+    {
+      "japanese": "それは侍の紋章でした。",
+      "romanization": "Sore wa samurai no monshō deshita.",
+      "translation": "It was the crest of a samurai.",
+      "audioPath": "/audio/japanese/JLPT_N3_reading_01/r_jp_06.mp3",
+      "audioPathEn": "/audio/japanese/JLPT_N3_reading_01/r_en_06.mp3"
+    },
+    {
+      "japanese": "好奇心に駆られた勇人は、自分の家系の物語を解き明かすための探求に乗り出しました。",
+      "romanization": "Kōkishin ni karareta Yūto wa, jibun no kakei no monogatari o tokiakashitameno tankyū ni norimashita.",
+      "translation": "Curiosity consumed him, and Yuuto embarked on a quest to uncover the stories of his lineage.",
+      "audioPath": "/audio/japanese/JLPT_N3_reading_01/r_jp_07.mp3",
+      "audioPathEn": "/audio/japanese/JLPT_N3_reading_01/r_en_07.mp3"
+    },
+    {
+      "japanese": "彼は町で最も年長の住民を訪ね、古文書や古いテキストを探偵のように精力的に調べました。",
+      "romanization": "Kare wa machi de mottomo nenrei no jūmin o otozure, kobunsho ya furui tekisuto o tantei no yō ni seiryoku ni shirabemashita.",
+      "translation": "He visited the town's oldest residents, perusing archives and ancient texts with the diligence of a detective.",
+      "audioPath": "/audio/japanese/JLPT_N3_reading_01/r_jp_08.mp3",
+      "audioPathEn": "/audio/japanese/JLPT_N3_reading_01/r_en_08.mp3"
+    },
+    {
+      "japanese": "彼の先祖が勇敢さと武士道 - 侍の名誉の規範 - に忠実であったことで知られる侍である武士という名前の人物であったことを学びました。",
+      "romanization": "Kare no senzo ga yūkan-sa to bushidō - samurai no meiyo no kihan - ni chūjitsu deatta koto de shirareru samurai de aru bushi to iu namae no jinbutsu deatta koto o manabimashita.",
+      "translation": "He learned that his ancestor was a samurai named Takeshi, who was known for his bravery and adherence to the bushido - the samurai's code of honor.",
+      "audioPath": "/audio/japanese/JLPT_N3_reading_01/r_jp_09.mp3",
+      "audioPathEn": "/audio/japanese/JLPT_N3_reading_01/r_en_09.mp3"
+    },
+    {
+      "japanese": "勇人が武士の生涯を深く掘り下げるにつれ、彼は勇気と犠牲の物語を発見しました。",
+      "romanization": "Yūto ga bushi no shōgai o fukaku horisageru ni tsure, kare wa yūki to gisei no monogatari o hakken shimashita.",
+      "translation": "As Yuuto delved deeper into Takeshi's life, he discovered tales of valor and sacrifice.",
+      "audioPath": "/audio/japanese/JLPT_N3_reading_01/r_jp_10.mp3",
+      "audioPathEn": "/audio/japanese/JLPT_N3_reading_01/r_en_10.mp3"
+    },
+    {
+      "japanese": "武士はかつて、剣ではなく、知恵と交渉によって町を盗賊から救ったことがあり、勇気と慈悲の武士道の美徳を体現していました。",
+      "romanization": "Bushi wa katsute, ken de wa naku, chie to kōshō ni yotte machi o tōzoku kara sukutta koto ga ari, yūki to jihi no bushidō no bitoku o taiyō shite imashita.",
+      "translation": "Takeshi had once saved the town from bandits, not by the sword, but through wisdom and negotiation, embodying the bushido virtues of courage and benevolence.",
+      "audioPath": "/audio/japanese/JLPT_N3_reading_01/r_jp_11.mp3",
+      "audioPathEn": "/audio/japanese/JLPT_N3_reading_01/r_en_11.mp3"
+    },
+    {
+      "japanese": "武士道の道に魅了された勇人は、その原則を自分の生活に応用することに決めました。",
+      "romanization": "Bushidō no michi ni miryō sareta Yūto wa, sono gensoku o jibun no seikatsu ni ōyō suru koto ni kimemashita.",
+      "translation": "Intrigued by the way of the bushido, Yuuto decided to apply its principles to his own life.",
+      "audioPath": "/audio/japanese/JLPT_N3_reading_01/r_jp_12.mp3",
+      "audioPathEn": "/audio/japanese/JLPT_N3_reading_01/r_en_12.mp3"
+    },
+    {
+      "japanese": "彼は先祖の規律につながる剣道、剣の道を練習し始めました。",
+      "romanization": "Kare wa senzo no kiritsu ni tsunagaru kendō, ken no michi o renshū shihajimemashita.",
+      "translation": "He began practicing kendo, the way of the sword, to connect with his ancestor's discipline.",
+      "audioPath": "/audio/japanese/JLPT_N3_reading_01/r_jp_13.mp3",
+      "audioPathEn": "/audio/japanese/JLPT_N3_reading_01/r_en_13.mp3"
+    },
+    {
+      "japanese": "剣道の練習の中での一撃ごとに、勇人は忍耐と尊敬を学び、武士の遺産への理解を深めました。",
+      "romanization": "Kendō no renshū no naka de no ichigeki goto ni, Yūto wa nintai to sonkei o manabi, bushi no isan e no rikai o fukamemashita.",
+      "translation": "Each strike and parry in his kendo practice taught Yuuto patience and respect, furthering his understanding of Takeshi's legacy.",
+      "audioPath": "/audio/japanese/JLPT_N3_reading_01/r_jp_14.mp3",
+      "audioPathEn": "/audio/japanese/JLPT_N3_reading_01/r_en_14.mp3"
+    },
+    {
+      "japanese": "また、勇人は武士道のもう一つの側面である教育の価値を心に留めました。",
+      "romanization": "Mata, Yūto wa bushidō no mō hitotsu no sokumen de aru kyōiku no kachi o kokoro ni todomemashita.",
+      "translation": "Yuuto also took to heart the value of education, another aspect of the bushido.",
+      "audioPath": "/audio/japanese/JLPT_N3_reading_01/r_jp_15.mp3",
+      "audioPathEn": "/audio/japanese/JLPT_N3_reading_01/r_en_15.mp3"
+    },
+    {
+      "japanese": "彼は武道の訓練と学問をバランス良く行い、両方で卓越性を目指しました。",
+      "romanization": "Kare wa budō no kunren to gakumon o baransu yoku okonai, ryōhō de takuetsusei o mezashimashita.",
+      "translation": "He balanced his martial arts training with his academic studies, striving for excellence in both.",
+      "audioPath": "/audio/japanese/JLPT_N3_reading_01/r_jp_16.mp3",
+      "audioPathEn": "/audio/japanese/JLPT_N3_reading_01/r_en_16.mp3"
+    },
+    {
+      "japanese": "彼は侍が相手に立ち向かうように、冷静な心で挑戦に対処することを学びました。",
+      "romanization": "Kare wa samurai ga aite ni tachimukau yō ni, reisei na kokoro de chōsen ni taisho suru koto o manabimashita.",
+      "translation": "He learned to approach challenges with a calm mind, just as a samurai would face an opponent.",
+      "audioPath": "/audio/japanese/JLPT_N3_reading_01/r_jp_17.mp3",
+      "audioPathEn": "/audio/japanese/JLPT_N3_reading_01/r_en_17.mp3"
+    },
+    {
+      "japanese": "年に一度の文化祭が近づくにつれ、勇人は先祖を称えるためにその物語を発表することにしました。",
+      "romanization": "Toshi ni ichido no bunkasai ga chikazuku ni tsure, Yūto wa senzo o tataeru tame ni sono monogatari o happyō suru koto ni shimashita.",
+      "translation": "As the annual cultural festival approached, Yuuto decided to honor his ancestor by presenting his story.",
+      "audioPath": "/audio/japanese/JLPT_N3_reading_01/r_jp_18.mp3",
+      "audioPathEn": "/audio/japanese/JLPT_N3_reading_01/r_en_18.mp3"
+    },
+    {
+      "japanese": "彼は古い着物を身につけ、昔年の物語をささやく布地、そして側に刀を持って町の前に立ちました。",
+      "romanization": "Kare wa furui kimono o mi ni tsuke, mukashi toshi no monogatari o sasayaku fujichī, soshite gawa ni katana o motte machi no mae ni tachimashita.",
+      "translation": "He donned the old kimono, the fabric whispering tales of yesteryears, and stood before the town, katana at his side.",
+      "audioPath": "/audio/japanese/JLPT_N3_reading_01/r_jp_19.mp3",
+      "audioPathEn": "/audio/japanese/JLPT_N3_reading_01/r_en_19.mp3"
+    },
+    {
+      "japanese": "彼は武士の行いと武士道の普遍的な関連性について語りました。",
+      "romanization": "Kare wa bushi no okonai to bushidō no fuhensei na kanrensei ni tsuite katarimashita.",
+      "translation": "He spoke of the samurai's deeds and the timeless relevance of the bushido.",
+      "audioPath": "/audio/japanese/JLPT_N3_reading_01/r_jp_20.mp3",
+      "audioPathEn": "/audio/japanese/JLPT_N3_reading_01/r_en_20.mp3"
+    },
+    {
+      "japanese": "町の人々は、勇人の言葉を通じて彼らの遺産の復活に魅了されて聞き入りました。",
+      "romanization": "Machi no hitobito wa, Yūto no kotoba o tōshite karera no isan no fukkatsu ni miryō sarete kikiirimashita.",
+      "translation": "The townspeople listened, captivated by the resurgence of their heritage through Yuuto's words.",
+      "audioPath": "/audio/japanese/JLPT_N3_reading_01/r_jp_21.mp3",
+      "audioPathEn": "/audio/japanese/JLPT_N3_reading_01/r_en_21.mp3"
+    },
+    {
+      "japanese": "彼らはただの学生ではなく、世代を超えて生き続ける侍の精神の具現者を見ました。",
+      "romanization": "Karera wa tada no gakusei de wa naku, sedai o koete ikitsuzukeru samurai no seishin no gugensha o mimashita.",
+      "translation": "They saw not just a student, but the embodiment of a samurai’s spirit, living on through the generations.",
+      "audioPath": "/audio/japanese/JLPT_N3_reading_01/r_jp_22.mp3",
+      "audioPathEn": "/audio/japanese/JLPT_N3_reading_01/r_en_22.mp3"
+    },
+    {
+      "japanese": "勇人は、自分の血筋の真の力は刀の鋼にあるのではなく、世紀を通じて伝えられる持続する価値観にあると気づきました。",
+      "romanization": "Yūto wa, jibun no kettō no shin no chikara wa katana no hagane ni aru no de wa naku, seiki o tsūjite tsutaerareru jizoku suru kachikan ni aru to kizukimashita.",
+      "translation": "Yuuto realized that the true power of his lineage was not in the katana's steel, but in the enduring values passed down through the centuries.",
+      "audioPath": "/audio/japanese/JLPT_N3_reading_01/r_jp_23.mp3",
+      "audioPathEn": "/audio/japanese/JLPT_N3_reading_01/r_en_23.mp3"
+    },
+    {
+      "japanese": "彼の心の中で、侍の精神は生き続け、名誉、誠実さ、そして奉仕の生活を送るように導きました。",
+      "romanization": "Kare no kokoro no naka de, samurai no seishin wa ikitsuzuke, meiyo, seijitsu-sa, soshite hōshi no seikatsu o okuru yō ni michibikimashita.",
+      "translation": "In his heart, the spirit of the samurai lived on, guiding him to live a life of honor, integrity, and service.",
+      "audioPath": "/audio/japanese/JLPT_N3_reading_01/r_jp_24.mp3",
+      "audioPathEn": "/audio/japanese/JLPT_N3_reading_01/r_en_24.mp3"
+    },
+    {
+      "japanese": "勇人と侍の物語は町で大切に語り継がれる物語となり、過去はその教訓が未来を形作る限り、決して本当に過ぎ去ることはないという思い出になりました。",
+      "romanization": "Yūto to samurai no monogatari wa machi de taisetsu ni kataritsugareru monogatari to nari, kako wa sono kyōkun ga mirai o katachizukuru kagiri, kesshite hontō ni sugisaru koto wa nai to iu omoide ni narimashita.",
+      "translation": "The story of Yuuto and the samurai became a cherished tale in the town, a reminder that the past is never truly gone, as long as its lessons continue to shape the future.",
+      "audioPath": "/audio/japanese/JLPT_N3_reading_01/r_jp_25.mp3",
+      "audioPathEn": "/audio/japanese/JLPT_N3_reading_01/r_en_25.mp3"
+    }
+  ]
+}

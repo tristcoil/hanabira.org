@@ -1,0 +1,604 @@
+how to make public Docker containers and make it easy to self host:
+
+
+--- dictionary container: ---
+sensitive files: config.json
+these files must be provided at container runtime from host machine
+
+--- flask container: ---
+no sensitive files yet
+
+--- express container: ---
+no sensitive files yet
+
+--- frontend container: ---
+sensitive files: config.json
+google tracking code must be in private config
+
+--- nginx ---
+nginx config needs to be copied to local instance
+and we should commit our self signed certs to repo, it is OK
+
+--- ansible ---
+we need to create ansible playbook to install stuff maybe - well just docker and nginx, so thats fine I guess
+
+
+
+
+// --------------------------------------------------------------- //
+
+
+ACCESS TOKEN DESCRIPTION
+token for zenbook laptop VM
+ACCESS PERMISSIONS
+Read, Write, Delete
+To use the access token from your Docker CLI client:
+
+1. Run docker login -u coil
+
+2. At the password prompt, enter the personal access token.
+
+when you modify IPTABLES rules, you then need to restart docker daemon, 
+otherwise docker compose cannot create default docker network
+
+------------------------------------------------------
+
+on the zen-lingo server
+docker compose pull 
+to get newest image version
+
+
+cleanup stuff
+docker image prune -a --filter "until=24h"
+docker container prune --filter "until=24h"
+
+
+
+
+my private dockerhub repo
+docker push coil/zen-lingo:tagname
+
+
+we have followed this source and all worked:
+https://jsramblings.com/dockerizing-a-react-app/
+
+other tutorials that look nice
+https://www.knowledgehut.com/blog/web-development/how-to-dockerize-react-app
+https://dev.to/karanpratapsingh/dockerize-your-react-app-4j2e
+https://www.geeksforgeeks.org/how-to-dockerize-a-reactjs-app/
+https://docs.docker.com/docker-hub/repos/
+
+
+
+
+------------------------------------------------------
+
+Pushing a Docker container image to Docker Hub
+To push an image to Docker Hub, you must first name your local image using your Docker Hub username and the repository name that you created through Docker Hub on the web.
+
+You can add multiple images to a repository by adding a specific :<tag> to them (for example docs/base:testing). If it’s not specified, the tag defaults to latest.
+
+Name your local images using one of these methods:
+
+When you build them, using docker build -t <hub-user>/<repo-name>[:<tag>]
+By re-tagging an existing local image docker tag <existing-image> <hub-user>/<repo-name>[:<tag>]
+By using docker commit <existing-container> <hub-user>/<repo-name>[:<tag>] to commit changes
+Now you can push this repository to the registry designated by its name or tag.
+
+
+ docker push <hub-user>/<repo-name>:<tag>
+
+
+
+HOW TO RUN ON SERVER
+
+docker run -d \
+  -p 3000:3000 \
+  -e REACT_APP_HOST_IP=$(hostname -I | awk '{print $1}') \
+  --restart=unless-stopped \
+  coil/zen-lingo:frontend-next
+
+docker run -d \
+  -p 8000:8000 \
+  -e REACT_APP_HOST_IP=$(hostname -I | awk '{print $1}') \
+  --restart=unless-stopped \
+  coil/zen-lingo:express-db
+
+docker run -d   -p 5100:5100   -v /home/coil/user_db:/var/lib/mongodb --add-host=host.docker.internal:host-gateway --restart=unless-stopped coil/zen-lingo:flask-dynamic-db
+
+
+------------------------------------------------------
+
+NGINX
+nginx is installed locally for now 
+on dev VM go to localhost:8080 and it will redirect to https 
+and will link to containers on ports 3000 and 8000
+
+
+on hanabira server:
+-------------------
+docker pull coil/zen-lingo:express-db
+docker pull coil/zen-lingo:frontend-next
+docker pull coil/zen-lingo:flask-dynamic-db
+docker pull coil/zen-lingo:dictionary-db 
+
+# we might need to get rid of old db structure occasionally
+rm -rf /home/coil/user_db
+
+docker run -d   -p 8000:8000   -e REACT_APP_HOST_IP=$(hostname -I | awk '{print $1}')   --restart=unless-stopped   coil/zen-lingo:express-db
+docker run -d   -p 5100:5100   -v /home/coil/user_db:/data/db --add-host=host.docker.internal:host-gateway --restart=unless-stopped coil/zen-lingo:flask-dynamic-db
+docker run -d   -p 5200:5200   --add-host=host.docker.internal:host-gateway --restart=unless-stopped coil/zen-lingo:dictionary-db 
+docker run -d   -p 3000:3000   -e REACT_APP_HOST_IP=$(hostname -I | awk '{print $1}')   --restart=unless-stopped   coil/zen-lingo:frontend-next
+
+
+note: in Firefox on your dev ubuntu, you can right click on the page and make nice screenshots of divs, it can recognize them, lol 
+great feature for creating about page
+
+
+
+
+
+// ---------------------------------------------------------------------------- //
+// ------------------------- PUBLIC CONTAINER BUILDS -------------------------- //
+// ---------------------------------------------------------------------------- //
+
+
+Tested on Ubuntu based system
+
+Setup reverse NGINX proxy:
+sudo apt-get install nginx 
+sudo systemctl enable nginx 
+sudo systemctl start nginx 
+# put hanabira.org file into /etc/nginx/sites-enabled directory, also delete file called "default" so it is not conflicting our new config and restart nginx
+sudo systemctl restart nginx 
+sudo systemctl status nginx
+
+Install Docker:
+sudo apt-get install docker-compose
+sudo usermod -aG docker $USER
+(then reboot VM for the changes to take effect, there are options without reboot, this one is just easy)
+
+
+FRONTEND-NEXT
+-------------
+cd /home/coil/Desktop/zen-lingo-website/prod/frontend-next
+
+docker buildx build . -t coil/hanabira.org:frontend-next
+docker push coil/hanabira.org:frontend-next
+docker pull coil/hanabira.org:frontend-next
+docker run -p 3000:3000 coil/hanabira.org:frontend-next
+docker run -it  -p 3000:3000 -e GA_MEASUREMENT_ID="G-P4SLLVSNCX" -e REACT_APP_HOST_IP=$(hostname -I | awk '{print $1}') -v $(pwd)/config.json:/app/config.json coil/hanabira.org:frontend-next   
+docker run -d   -p 3000:3000 -e GA_MEASUREMENT_ID="G-P4SLLVSNCX" -e REACT_APP_HOST_IP=$(hostname -I | awk '{print $1}') -v $(pwd)/config.json:/app/config.json --restart=unless-stopped   coil/hanabira.org:frontend-next
+
+
+STATIC BACKEND EXPRESS+DB
+-------------------------
+cd /home/coil/Desktop/zen-lingo-website/prod/backend/express
+
+docker buildx build . -t coil/hanabira.org:express-db
+docker push coil/hanabira.org:express-db
+docker pull coil/hanabira.org:express-db
+docker run -it -p 8000:8000 coil/hanabira.org:express-db
+docker run -it -p 8000:8000    -e REACT_APP_HOST_IP=$(hostname -I | awk '{print $1}') coil/hanabira.org:express-db
+docker run -d   -p 8000:8000   -e REACT_APP_HOST_IP=$(hostname -I | awk '{print $1}')   --restart=unless-stopped   coil/hanabira.org:express-db
+
+
+DYNAMIC BACKEND FLASK+DB
+------------------------
+cd /home/coil/Desktop/zen-lingo-website/prod/backend/flask
+
+docker buildx build . -t coil/hanabira.org:flask-dynamic-db
+docker push coil/hanabira.org:flask-dynamic-db
+docker pull coil/hanabira.org:flask-dynamic-db
+mkdir -p /home/$USER/user_db
+docker run -it -p 5100:5100 -v /home/coil/user_db:/data/db --add-host=host.docker.internal:host-gateway coil/hanabira.org:flask-dynamic-db # interactive
+docker run -d -p 5100:5100 -v /home/coil/user_db:/data/db --add-host=host.docker.internal:host-gateway --restart=unless-stopped coil/hanabira.org:flask-dynamic-db # daemonised
+
+
+DICTIONARY/TEXT PARSER/YOUTUBE backend image /d-api/v1              
+------------------------------------------------------
+cd /home/coil/Desktop/zen-lingo-website/prod/backend/dictionary       # kinda fails when we do not run container from this dir
+
+docker buildx build . -t coil/hanabira.org:dictionary-db
+docker push coil/hanabira.org:dictionary-db
+docker pull coil/hanabira.org:dictionary-db
+# run these from directory where you have the config files .env and config.json with API keys
+docker run -it -p 5200:5200 --add-host=host.docker.internal:host-gateway -v $(pwd)/config.json:/app/config.json coil/hanabira.org:dictionary-db # interactive
+docker run -d -p 5200:5200  --add-host=host.docker.internal:host-gateway -v $(pwd)/config.json:/app/config.json --restart=unless-stopped coil/hanabira.org:dictionary-db # daemonised
+
+
+you can start all these containers with 
+docker-compose up
+from prod/ directory
+
+
+
+
+
+
+
+how to get backup of the database directory from Hanabira server:
+related flask container needs to be stopped on the server before copying data (docker stop mongodbcont) otherwise database will be corrupt
+coil@coil-VM:user_db$ sudo chown -R coil:coil /home/coil/user_db
+coil@coil-VM:user_db$ scp -r root@hanabira.org:/home/coil/user_db /home/coil/
+chmod -R 777 user_db
+
+
+
+
+
+// ----------------------------------------------------------------------------------- //
+// ------------------------- END of PUBLIC CONTAINER BUILDS -------------------------- //
+// ----------------------------------------------------------------------------------- //
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+// ------------------------- LOCAL CONTAINER BUILDS -------------------------- //
+
+FRONTEND-NEXT
+-------------
+cd /home/coil/Desktop/zen-lingo-website/prod/frontend-next
+
+docker build . -t coil/zen-lingo:frontend-next
+docker push coil/zen-lingo:frontend-next
+(port 3000 exposed internally)
+docker run -p 3000:3000 coil/zen-lingo:frontend-next
+docker run -it -p 3000:3000 -e REACT_APP_HOST_IP=$(hostname -I | awk '{print $1}') coil/zen-lingo:frontend-next   
+
+
+
+STATIC BACKEND EXPRESS+DB 
+-------------------------
+(seeds db, creates relationships and starts actual API server that responds to GET requests)
+
+cd /home/coil/Desktop/zen-lingo-website/prod/backend/express
+
+docker build . -t coil/zen-lingo:express-db
+docker push coil/zen-lingo:express-db
+(port 8000 exposed internally)
+docker run -it -p 8000:8000 coil/zen-lingo:express-db
+docker run -it -p 8000:8000   -e REACT_APP_HOST_IP=$(hostname -I | awk '{print $1}') coil/zen-lingo:express-db
+
+our mongo content will be reachable via api - port 8000
+curl -X GET http://localhost:8000/api/v1/words
+curl -X GET 'http://localhost:8000/api/v1/words?p_tag=JLPT_N3&s_tag=i-adjective'     //must use quotes
+
+curl -X GET http://localhost:8000/api/v1/words
+curl -X GET 'http://localhost:8000/api/v1/words?p_tag=essential_600_verbs&s_tag=verbs-1'     //must use quotes
+
+curl -X GET http://localhost:8000/api/v1/words
+curl -X GET 'http://localhost:8000/api/v1/words?p_tag=suru_essential_600_verbs&s_tag=verbs-1'     //must use quotes
+
+to get tanos vocabulary in small chunks
+curl "http://localhost:8000/api/v1/tanos_words?p_tag=JLPT_N5&s_tag=100"
+
+
+
+DYNAMIC BACKEND FLASK+DB 
+------------------------
+(handles user specific data, has fast lifecycle)
+
+cd /home/coil/Desktop/zen-lingo-website/prod/backend/flask
+
+docker build . -t coil/zen-lingo:flask-dynamic-db
+docker push coil/zen-lingo:flask-dynamic-db
+
+mkdir -p /home/coil/user_db  # docker should create this by itself if needed
+
+docker run -it -p 5100:5100 -v /home/coil/user_db:/data/db --add-host=host.docker.internal:host-gateway coil/zen-lingo:flask-dynamic-db # interactive
+docker run -d -p 5100:5100 -v /home/coil/user_db:/data/db --add-host=host.docker.internal:host-gateway coil/zen-lingo:flask-dynamic-db # daemonised
+
+
+example queries to the APIs  using mounted persistent volume
+curl -X POST http://localhost:5100/f-api/v1/clone-static-collection-kanji -H "Content-Type: application/json" -d '{"userId": "testUser", "collection": "kanji", "p_tag": "JLPT_N3"}'
+
+
+if you want falshcards to work (vocab, kanji), you need to clone the collection first, otherwise API will just return words: []
+and card will not show anything
+
+static generation of grammar is tricky, we kinda have to build it while our backends are running??? I guess, so it gets baked in?
+I dont know how static generation works under the hood really 
+
+
+
+
+DICTIONARY/TEXT PARSER/YOUTUBE backend image /d-api/v1 --------------
+--------------------------------------------
+
+cd /home/coil/Desktop/zen-lingo-website/prod/backend/dictionary
+
+handles text parser/youtube/mecab/chat gpt/mecab logic, database has only static data (automatic seeding)
+
+docker build . -t coil/zen-lingo:dictionary-db
+docker push coil/zen-lingo:dictionary-db
+
+docker run -it -p 5200:5200 --add-host=host.docker.internal:host-gateway coil/zen-lingo:dictionary-db # interactive
+docker run -d -p 5200:5200  --add-host=host.docker.internal:host-gateway coil/zen-lingo:dictionary-db # daemonised
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# ---------------------------- OTHER NOTES ----------------------------- #
+
+
+To keep a Docker container running even after disconnecting from the server, you can use the detach option (-d or --detach) when running the container. This option allows the container to run in the background as a daemon.
+
+Here's an updated version of your Docker run command to keep the container running:
+
+shell
+Copy code
+docker run -d --rm -p 80:3000 coil/zen-lingo:hanabira-fe
+With the -d option, the container will run in the background, and you can disconnect from the server without stopping the container. The --rm option ensures that the container is automatically removed when it stops, while the -p option maps port 80 on the host to port 3000 inside the container.
+
+Remember to replace coil/zen-lingo:hanabira-fe with the appropriate image name and tag for your container.
+
+By running the container in detached mode, it will continue to run even after you disconnect from the server. You can use the docker ps command to check the running containers on the server, and the container will be listed there.
+
+
+---------------------------------- FIREWALLL SETUP FOR 2 BACKEND CONTS TO COMMUNICATE TOGETHER --------------------------------------
+via host.docker.internal 
+
+
+
+coil@coil-VM:~/Desktop$ curl -X GET https://hanabira.org/f-api/v1/get-logins/testUser
+[
+  {
+    "count": 4,
+    "date": "2024-04-08"
+  }
+]
+coil@coil-VM:~/Desktop$ 
+
+
+
+coil@coil-VM:~/Desktop$ curl "https://hanabira.org/api/v1/kanji?p_tag=JLPT_N3"
+[{"_id":"661447ba57296711fdf992e0","kanji":"駐","reading":"チュウ","k_audio":
+
+
+Im getting answers from outside, thats cool
+
+
+from within the flask container:
+--------------------------------
+
+port = "8000"  # port of static DB container
+host = "host.docker.internal" if env == "prod" else "localhost"
+
+
+
+
+
+this works in cont on redhat
+
+root@aad7e326c941:/app# curl "http://host.docker.internal:8000/api/v1/kanji?p_tag=JLPT_N3"
+[{"_id":"661300a50581a49db9623db1","kanji":"駐","reading":"チュウ","k_audio":"/audio/japa
+
+
+this fails in cont on ubuntu
+
+root@7d0db091a2aa:/app# curl "http://host.docker.internal:8000/api/v1/kanji?p_tag=JLPT_N3"
+
+
+
+this was ubuntu firewall issue !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+
+GPT answer that fixed it:
+
+could this be due to firewall on host system?
+
+
+this works in cont on redhat
+
+root@aad7e326c941:/app# curl "http://host.docker.internal:8000/api/v1/kanji?p_tag=JLPT_N3"
+[{"_id":"661300a50581a49db9623db1","kanji":"駐","reading":"チュウ","k_audio":"/audio/japa
+
+
+this fails in cont on ubuntu
+
+root@7d0db091a2aa:/app# curl "http://host.docker.internal:8000/api/v1/kanji?p_tag=JLPT_N3"
+
+ChatGPT
+Yes, the issue you're experiencing when trying to access a service running on the host from within a Docker container on Ubuntu (while it works on RedHat) could indeed be due to the firewall settings on the host system. Ubuntu often uses UFW (Uncomplicated Firewall) to manage iptables rules, and it might be configured in a way that blocks this specific type of access.
+
+Here's how you can diagnose and potentially resolve the issue:
+
+1. Check Firewall Status on Ubuntu
+First, check if UFW is active:
+
+bash
+Copy code
+sudo ufw status
+If it's active, you might see output indicating which ports are allowed or denied.
+
+2. Allow Traffic to the Specific Port
+If UFW is active, you need to make sure that traffic to and from the port your service is running on (in this case, 8000) is allowed. You can do this by running:
+
+bash
+Copy code
+sudo ufw allow 8000
+This command configures UFW to allow incoming and outgoing connections on port 8000. If your service requires a different port or specific network interfaces, adjust the command accordingly.
+
+3. Allow Docker Bridge Network
+Sometimes, the issue might not be with the service port directly but with how Docker's network is interfaced with UFW. Docker manages its network through a bridge, and UFW's default settings might block this. To allow Docker's default bridge network, you can add the following rule:
+
+bash
+Copy code
+sudo ufw allow in on docker0
+This command allows all incoming traffic on the docker0 interface, which is the default Docker bridge network interface.
+
+4. Reload UFW
+After making changes to the UFW rules, reload it to apply:
+
+bash
+Copy code
+sudo ufw reload
+5. Diagnosing Other Potential Issues
+Docker Network Configuration: If adjusting the firewall doesn't resolve the issue, it might be worth looking into Docker's network configurations. Docker's host.docker.internal DNS name is a special alias that points to the host's IP address from the container's perspective, and it should work out of the box on Docker for Ubuntu. However, network configurations or custom Docker network setups might affect this.
+
+Service Availability: Ensure the service running on port 8000 on the host is correctly configured to accept connections from Docker containers. It might be listening only on localhost or 127.0.0.1, in which case you'd need to adjust it to listen on 0.0.0.0 or the specific host interface Docker will communicate through.
+
+If after these steps the problem persists, you may need to investigate further into Docker's network settings, potential SELinux policies on RedHat (if applicable), or more specific UFW rules that could be affecting the traffic.
+
+User
+this was exactly the issue, you have solved it
+
+now write ansible playbook so we do not forget it
+ChatGPT
+Certainly! Below is an example Ansible playbook that configures UFW to allow traffic on port 8000 and ensures the Docker bridge network is permitted. This playbook can be adapted as needed for different environments or requirements.
+
+Playbook: allow_docker_communication.yml
+yaml
+Copy code
+---
+- name: Configure UFW for Docker communication
+  hosts: your_target_hosts
+  become: yes
+  tasks:
+    - name: Allow traffic on port 8000
+      ufw:
+        rule: allow
+        port: '8000'
+        proto: tcp
+
+    - name: Allow all incoming traffic on the docker0 interface
+      ufw:
+        rule: allow
+        interface: 'docker0'
+        direction: in
+
+    - name: Reload UFW
+      command: ufw reload
+Usage:
+Define Your Inventory: Make sure you have an inventory file (hosts.ini or any other name you prefer) that lists the hosts you want to run this playbook on. For example:
+
+ini
+Copy code
+[your_target_hosts]
+192.168.1.100 ansible_user=ubuntu
+Run the Playbook: Execute the playbook with the ansible-playbook command, specifying your inventory file. Replace hosts.ini with the name of your inventory file:
+
+bash
+Copy code
+ansible-playbook -i hosts.ini allow_docker_communication.yml
+Notes:
+This playbook assumes you have Ansible installed and set up to communicate with your target hosts. Ensure SSH access and necessary permissions are in place.
+Adjust the hosts: your_target_hosts line in the playbook to match the group or host defined in your inventory file.
+If your Docker setup uses a different interface than docker0, or if you have additional ports to configure, you'll need to modify the playbook accordingly.
+Running this playbook will make changes to the firewall configuration of your target hosts. Ensure this aligns with your security policies and requirements.
+This playbook provides a basic framework to automate the configuration changes you identified as the solution. Depending on the complexity of your environment or additional requirements, more tasks or roles might be necessary.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# ----------------------------- DEPRECATED containers: --------------------------------------- #
+
+MONGODB SEEDED CONTAINER (standalone mongo seeded db)
+docker build . -t coil/zen-lingo:mongodb-seeded
+docker run -it --rm -p 27018:27017 coil/zen-lingo:mongodb-seeded
+(port 27017 exposed internally)    
+# we run it on port 27018 for now since we have also regular mongo running locally
+# we also modified our 'my_server.js' to connect on port 27018 to container for now
+docker push coil/zen-lingo:mongodb-seeded
+
+HANABIRA frontend
+docker build . -t coil/zen-lingo:hanabira-fe
+docker run -it --rm -p 3001:3000 coil/zen-lingo:hanabira-fe
+docker run -it --rm -p 80:3000 coil/zen-lingo:hanabira-fe    # on hanabira server
+(port 3000 exposed internally)
+docker push coil/zen-lingo:hanabira-fe
+
+BACKEND FASTAPI
+docker build . -t coil/zen-lingo:backend-fastapi
+docker push coil/zen-lingo:backend-fastapi
+(port 8000 exposed internally)
+docker run -p 8000:8000 coil/zen-lingo:backend-fastapi
+
+FRONTEND-REACT
+
+building and pushing the actual image to dockerhub
+docker build . -t coil/zen-lingo:frontend
+docker push coil/zen-lingo:frontend
+(port 3000 exposed internally)
+docker run -p 3000:3000 coil/zen-lingo:frontend
+docker run -it -p 3000:3000 coil/zen-lingo:frontend
+
+
+
+
+
+
+
+
+
+
+
+
+--------------------------------------------
+remove all local docker containers and images if needed
+
+coil@coil-VM:~$ docker rm -vf $(docker ps -aq)
+bc91dc19c79b
+dbc719e79666
+coil@coil-VM:~$ docker rmi -f $(docker images -aq)
+Untagged: coil/zen-lingo:backend-fastapi
+Deleted: sha256:62a80bd41ea0f0a9358ecc348d7db5af8bba5c649ffec9602c7c5944754c60c7
+
+alternatively, prune all 
+docker system prune -a

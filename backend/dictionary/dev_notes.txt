@@ -1,0 +1,899 @@
+NEXT FLASH CARDS DEV NOTES:
+---------------------------
+---------------------------
+
+
+
+Docker container setup (for dictionary/text-parser/youtube functionality) for /d-api/v1:
+--------------------------------------------------------------------------
+for our backend to be able to run, we need to have mongodb instance running on port 27017 locally
+best is to use just mongdb image/container 
+
+docker run -it -p 27017:27017 --name mongodb mongo
+docker start mongodb
+
+we need to seed the database with basic data 
+
+dictionary data:
+//node seed_jitendex_data.js    # uses dir jitendex_json_data, NOT NEEDED YET (hard to parse)
+node seed_jmdict_data.js      # uses dir jmdict_json_data_simplified, NOW WE USE ONLY JMDICT
+
+kanjidic data (no need to seed to db, relatively small file):
+kanjidic/kanjidic2.json
+
+radical data (no need to seed to db, small file):
+radicals/kradfile_decoded_euc_jp.json
+radicals/radicals_wikipedia.json
+
+
+server-text-parser.js   
+
+needs configs 
+config.json   file for DEEPL API key
+.env          file for GPT API keys 
+
+is express daemon that manages all text-parser, mecab, youtube, kanji, radicals, dictionary 
+that is not user specific (user specific stuff managed by python dynamic backend)
+so for this express functionality we just need static seeded database
+
+
+// ------------ DOCKER BUILD /d-api/v1 -------------- //
+
+handles text parser/youtube/mecab/chat gpt/mecab logic, database has only static data (automatic seeding)
+
+docker build . -t coil/zen-lingo:dictionary-db
+docker push coil/zen-lingo:dictionary-db
+
+docker run -it -p 5200:5200 --add-host=host.docker.internal:host-gateway coil/zen-lingo:dictionary-db # interactive
+docker run -d -p 5200:5200  --add-host=host.docker.internal:host-gateway coil/zen-lingo:dictionary-db # daemonised
+
+
+
+
+
+
+
+
+
+
+
+
+
+// -------------------------- APIs --------------------------------- //
+
+go to http://localhost:3000/flashcards
+it is simplified flashcard endpoint that is using only python backend
+so is self sustaining
+
+---
+
+python API endpoints:
+
+@app.route("/api/clone-collection", methods=["POST"])
+def clone_collection():
+
+@app.route("/api/combine-data", methods=["GET", "POST"])
+def combine_data():
+
+@app.route("/api/flashcard/<userId>", methods=['GET'])
+def get_flashcard_states(userId):
+
+@app.route("/api/flashcard", methods=['POST'])
+def store_flashcard_state():
+---
+
+for streamlined flashcards we have separate page
+(using user specific python backend that combines flashcard data - dynamic db with static source db)
+
+
+
+// curl -X GET "http://localhost:5100/api/combine-data?userId=testUser&collectionName=kanji&p_tag=JLPT_N3&s_tag=part_1"
+const apiUrl = `http://localhost:5100/api/combine-data?userId=${userId}&collectionName=${collectionName}&p_tag=${p_tag}&s_tag=${s_tag}`;
+
+
+Interconnection with static DB API:
+-----------------------------------
+static DB will live in different container / different API will handle access to static DB
+hence we need to have the static backend up and running for our tests 
+the static express container runs locally on port 7000/8000
+
+our dynamic flask container runs classically on port 5100
+
+we need now to get static kanji data from the port 7000
+
+
+
+Tests:
+------
+health
+curl -X GET http://localhost:5100/health
+
+cloning kanji
+curl -X POST http://localhost:5100/f-api/v1/clone-static-collection-kanji -H "Content-Type: application/json" -d '{"userId": "testUser", "collection": "kanji", "p_tag": "JLPT_N3"}'
+
+cloning words
+# curl -X POST http://localhost:5100/f-api/v1/clone-static-collection-words -H "Content-Type: application/json" -d '{"userId": "testUser", "collection": "words", "p_tag": "suru_essential_600_verbs"}'  # w only p_tag
+# curl -X POST http://localhost:5100/f-api/v1/clone-static-collection-words -H "Content-Type: application/json" -d '{"userId": "testUser", "collection": "words", "p_tag": "essential_600_verbs"}'  # w only p_tag
+
+GET just static kanji data:
+curl -X GET "http://localhost:8000/api/v1/kanji?p_tag=JLPT_N3&s_tag=part_1"
+
+flashcard info combining - kanji
+# curl -X POST http://localhost:5100/f-api/v1/combine-flashcard-data-kanji -H "Content-Type: application/json" -d '{"userId": "testUser", "collectionName": "kanji", "p_tag": "JLPT_N3", "s_tag": "part_1"}'
+# curl -X GET -H "Content-Type: application/json" "http://localhost:5100/f-api/v1/combine-flashcard-data-kanji?userId=testUser&collectionName=kanji&p_tag=JLPT_N3&s_tag=part_1"
+
+flashcard info combining - words
+
+
+
+Containerization
+----------------
+
+
+so based on that we will find the volume to mount 
+and we should be good then
+
+docker build . -t coil/zen-lingo:flask-dynamic-db
+
+
+mkdir -p /home/coil/user_db  # docker should create this by itself if needed
+
+docker run -it -p 5100:5100 -v /home/coil/user_db:/var/lib/mongodb --add-host=host.docker.internal:host-gateway coil/zen-lingo:flask-dynamic-db # interactive
+docker run -d -p 5100:5100 -v /home/coil/user_db:/var/lib/mongodb --add-host=host.docker.internal:host-gateway coil/zen-lingo:flask-dynamic-db
+
+
+queries to the APIs  using mounted persistent volume
+curl -X POST http://localhost:5100/api/clone-static-collection -H "Content-Type: application/json" -d '{"userId": "testUser", "collection": "kanji", "p_tag": "JLPT_N3"}'
+
+
+calling host VM ports and apis:
+this is amazing, container can call other containers/ host VM nginx and so on, amazing!
+root@5461a2874a0a:/app# curl -X GET http://host.docker.internal:7000/api/v1/kanji
+{"error":"p_tag is required"}
+root@5461a2874a0a:/app# 
+
+
+
+
+TODO - add correct info
+DYNAMIC BACKEND FLASK+DB (handles user specific data)
+docker build . -t coil/zen-lingo:flask-dynamic-db
+docker push coil/zen-lingo:flask-dynamic-db
+(port 5100 exposed internally)
+docker run -it -p 5100:5100 coil/zen-lingo:flask-dynamic-db
+
+----------------------- Jitendex data DB seeding ---------------------------
+
+we seed jitendex json data to DB with 
+seed_jitendex_data.js 
+it expects data to be in 
+jitendex_json_data dir 
+new version of the seeding script is now ignoring index.jsonso we are fine 
+full data is in downloads folder on windows
+and also in the next-flashcards backend
+memory issues with seeding were fixed
+
+
+
+
+
+
+
+
+
+
+----------------------- Jitendex audio ---------------------------
+
+how to generate vocabulary audio for jitendex dictionary
+start jitendex api server
+
+rm test.json
+curl "http://localhost:5200/elements" >> test.json
+(curl was failing with regular redirect)
+
+it will have data like
+[
+  { "0": "自然観", "1": "しぜんかん", "_id": "661bd812dea6ac8a6b4d8ef7" },
+  { "0": "自腹", "1": "じばら", "_id": "661bd812dea6ac8a6b4d8ef8" },
+]
+
+we can then use this payload to generate audio with gtts
+
+then run shell script that generates audio for all dictionary vocab
+ ./generate_jitendex_audio.sh 
+
+audio generation can take days
+so we need to split the files somehow, lets split the big json to 
+like 10 smaller jsons
+
+
+
+----------------- Kanjidic -----------------------
+we are using kanji dictionary from
+https://www.edrdg.org/wiki/index.php/KANJIDIC_Project
+
+we took this file:
+the KANJIDIC2 file, which is in XML format and Unicode/UTF-8 coding, and contains information about all 13,108 kanji. (download)
+http://www.edrdg.org/kanjidic/kanjidic2.xml.gz
+
+then we extract it to xml file
+
+then we use our own python script to convert it to json file so it is easier to process
+json will have 50 MB
+
+
+---------------- Radicals radkfile ------------------------
+https://www.edrdg.org/krad/kradinf.html
+
+
+Copyright
+The RADKFILE and KRADFILE files are copright and available under the EDRDG Licence. 
+The copyright of the RADKFILE2 and KRADFILE2 files is held by Jim Rose.
+Jim Breen
+
+well, I need to read more about the licence, it might not allow commercial use
+https://www.edrdg.org/edrdg/licence.html
+
+3. Licence Conditions
+
+
+
+The dictionary files are made available under a Creative Commons Attribution-ShareAlike Licence (V4.0). The Licence Deed can be viewed here, and the full Licence Code is here.
+
+In summary (extract from the Licence Deed):
+
+You are free:
+to Share - to copy, distribute and transmit the work
+to Remix - to adapt the work
+Under the following conditions:
+Attribution. You must attribute the work in the manner specified by the author or licensor (but not in any way that suggests that they endorse you or your use of the work).
+Share Alike. If you alter, transform, or build upon this work, you may distribute the resulting work only under the same, similar or a compatible licence.
+
+
+but read more on the page, so far it looks like creative commons attribution, which is fine, but only for
+RADKFILE/KRADFILE - files relating to the decomposition of the 6,355 kanji in JIS X 0208 into their visible components.
+radkfile2/kradkfile2 is copyright by Jim Breen, so we would need to ask him personally :) lol
+
+
+how to solve encoding issues witht he files
+Resolving the Encoding Issue
+To handle this, you can try opening the file with different encodings typically used for Japanese text. Here's how you can attempt to open the file with Shift-JIS (cp932) or EUC-JP (euc_jp):
+
+python
+Copy code
+# Try opening with Shift-JIS
+try:
+    with open('radkfile', 'r', encoding='cp932') as file:
+        for line in file:
+            print(line.strip())
+except UnicodeDecodeError as e:
+    print("Failed to decode with Shift-JIS:", e)
+
+# If Shift-JIS fails, try EUC-JP
+try:
+    with open('radkfile', 'r', encoding='euc_jp') as file:
+        for line in file:
+            print(line.strip())
+except UnicodeDecodeError as e:
+    print("Failed to decode with EUC-JP:", e)
+
+the above approach worked
+
+radkfile file look like this:
+$ 亀 11
+穐竃亀縄蝿龝鬮龜
+$ 滴 11 3557
+嫡摘敵滴適鏑謫
+$ 黄 11
+横黄壙廣搆擴曠礦簧鑛黌
+$ 黒 11
+
+pretty useless, since it does not say what each radical means
+
+kradfile file is more useful, since shows given radicals
+
+薤 : 歹 艾 韭
+薈 : 日 買 个 艾 一
+薑 : 一 田 二 艾
+薊 : 刈 魚 田 杰 艾
+薨 : 買 夕 冖 匕 艾
+蕭 : ｜ ノ ヨ 米 艾 聿
+
+kradfile is pretty useful, but we might get better results with kanji alive project
+
+
+
+-------------------------- Kanji Alive ---------------------------
+https://github.com/kanjialive/kanji-data-media
+https://kanjialive.com/credits/
+
+vast majority of kanji alive content is creative commons attribution 
+we do not need memonics and some dictionary codes anyways, those are propriatery
+we can generate mnemonics with chat gpt
+when we know meanings of radicals and what radical is present in the kanjiwe can even write a script for that
+
+
+Licenses & Copyright for Kanji Alive
+Copyright for Kanji alive is held by Harumi Hibino Lory & Arno Bosse. 
+The language data and media files created for the Kanji alive web application and website 
+are freely available under a Creative Common Attribution International 4.0 license 
+with the exception of the four items listed below. 
+These may not be reproduced and/or re-used outside the Kanji alive web application 
+without the permission of Harumi Hibino Lory & Arno Bosse 
+and the respective copyright holders (where applicable):
+
+1) Mnemonic Hints and associated graphics
+2) Supported Dictionaries
+3) Supported Textbooks
+4) Commercial Fonts
+
+
+// --------------------------- MECAB text parser -------------------------------- //
+
+
+we need to install also mecab via apt on ubuntu and then mecab npm library, so it has 2 phases
+
+
+I just installed all mecab stuff from apt, lol
+coil@coil-VM:next-flash-cards$ sudo apt-get install mecab
+mecab                   mecab-jumandic          mecab-naist-jdic-eucjp
+mecab-ipadic            mecab-jumandic-utf8     mecab-utils
+mecab-ipadic-utf8       mecab-naist-jdic        
+coil@coil-VM:next-flash-cards$ sudo apt-get install mecab-*
+Reading package lists... Done
+Building dependency tree... Done
+Reading state information... Done
+Note, selecting 'mecab-jumandic' for glob 'mecab-*'
+
+huh, looks like we downloaded some chinese dict, lol
+
+just installing mecab and mecab-utils looks fine 
+
+
+found this in some howto:
+sudo apt-get install mecab libmecab-dev mecab-jumandic mecab-jumandic-utf8     # this looks to be the best approach
+
+mecab-ipadic mecab-ipadic-utf8       - looks like this is causing the issues with chinese - i have removed this and issue fixed
+mecab-jumandic mecab-jumandic-utf8  - fine
+
+mecab-naist-jdic mecab-naist-jdic-eucjp  - also looks like is causing issues, removed
+         
+
+
+The error message indicates that the mecab command is not found on your system. MeCab is a morphological analyzer for the Japanese language, and it needs to be installed for your application to work correctly.
+
+To install MeCab on your Ubuntu system, follow these steps:
+
+Update your package list:
+
+bash
+Copy code
+sudo apt update
+Install MeCab and its dependencies:
+
+bash
+Copy code
+sudo apt install mecab libmecab-dev mecab-ipadic-utf8
+Verify the installation:
+Check if MeCab is installed correctly by running:
+
+bash
+Copy code
+mecab --version
+Install Node.js MeCab binding (if not already installed):
+If you haven't already installed the MeCab binding for Node.js, you can do so with npm:
+
+bash
+Copy code
+npm install mecab-async
+After installing MeCab, your application should be able to find and use the mecab command. If the issue persists, make sure that the path to MeCab is correctly set in your environment variables.
+
+
+
+
+// ----- mecab continuing --------
+
+mecab is Japanese text tokenizer
+
+what we need:
+we provide japanese text, we need to get back text split by tokens
+
+actually we need the text to come back as an array with relevant furigana as well
+
+actually, we need to get an array of dictionary form as well
+so we can search our dictionaries
+
+so wakachi method is useful, but we need more
+
+彼女はまったく遅れていない。今日は学校に行きます。
+
+curl -X POST http://localhost:5300/parse-json -H "Content-Type: application/json" -d '{"text": "彼女はまったく遅れていない。"}'
+
+
+coil@coil-VM:~/Desktop/zen-lingo-website/next-flash-cards$ curl -X POST http://localhost:5300/parse-json -H "Content-Type: application/json" -d '{"text": "彼女はまったく遅れていない。"}'
+[
+    ["彼女","名詞","普通名詞","*","*","彼女","かのじょ","代表表記:彼女/かのじょ カテゴリ:人"],
+    ["は","助詞","副助詞","*","*","は","は","*"],
+    ["まったく","副詞","*","*","*","まったく","まったく","代表表記:全く/まったく"],
+    ["遅れて","動詞","*","母音動詞","タ系連用テ形","遅れる","おくれて","代表表記:遅れる/おくれる 付属動詞候補（基本） 自他動詞:他:遅らせる/おくらせる;他:遅らす/おくらす 反義:動詞:進む/すすむ 形容詞派生:遅い/おそい"],
+    ["い","接尾辞","動詞性接尾辞","母音動詞","未然形","いる","い","連語"],
+    ["ない","接尾辞","形容詞性述語接尾辞","イ形容詞アウオ段","基本形","ない","ない","連語"],
+    ["。","特殊","句点","*","*","。","。","連語"]
+]
+coil@coil-VM:~/Desktop/zen-lingo-website/next-flash-cards$ 
+
+
+0 - original
+5 - dictionary
+6 - furigana
+
+
+
+curl -X POST http://localhost:5300/parse-simple -H "Content-Type: application/json" -d '{"text": "彼女はまったく遅れていない。"}'
+
+coil@coil-VM:~/Desktop/zen-lingo-website/next-flash-cards$ curl -X POST http://localhost:5300/parse-simple -H "Content-Type: application/json" -d '{"text": "彼女はまったく遅れていない。"}'
+[
+    {"original":"彼女","dictionary":"彼女","furigana":"かのじょ"},
+    {"original":"は","dictionary":"は","furigana":"は"},
+    {"original":"まったく","dictionary":"まったく","furigana":"まったく"},
+    {"original":"遅れて","dictionary":"遅れる","furigana":"おくれて"},
+    {"original":"い","dictionary":"いる","furigana":"い"},
+    {"original":"ない","dictionary":"ない","furigana":"ない"},
+    {"original":"。","dictionary":"。","furigana":"。"}
+]coil@coil-VM:~/Desktop/zen-lingo-website/next-flash-cards$ 
+
+
+///////////////////////////
+
+
+curl -X POST http://localhost:5300/parse-json -H "Content-Type: application/json" -d '{"text": "彼女はまったく遅れていない。今日は学校に行きます。"}'
+
+coil@coil-VM:~/Desktop/zen-lingo-website/next-flash-cards$ curl -X POST http://localhost:5300/parse-json -H "Content-Type: application/json" -d '{"text": "彼女はまったく遅れていない。今日は学校に行きます。"}'
+[
+    ["彼女","名詞","普通名詞","*","*","彼女","かのじょ","代表表記:彼女/かのじょ カテゴリ:人"],
+    ["は","助詞","副助詞","*","*","は","は","*"],
+    ["まったく","副詞","*","*","*","まったく","まったく","代表表記:全く/まったく"],
+    ["遅れて","動詞","*","母音動詞","タ系連用テ形","遅れる","おくれて","代表表記:遅れる/おくれる 付属動詞候補（基本） 自他動詞:他:遅らせる/おくらせる;他:遅らす/おくらす 反義:動詞:進む/すすむ 形容詞派生:遅い/おそい"],
+    ["い","接尾辞","動詞性接尾辞","母音動詞","未然形","いる","い","連語"],
+    ["ない","接尾辞","形容詞性述語接尾辞","イ形容詞アウオ段","基本形","ない","ない","連語"],
+    ["。","特殊","句点","*","*","。","。","連語"],
+    ["今日","名詞","時相名詞","*","*","今日","きょう","代表表記:今日/きょう カテゴリ:時間"],
+    ["は","助詞","副助詞","*","*","は","は","*"],
+    ["学校","名詞","普通名詞","*","*","学校","がっこう","代表表記:学校/がっこう カテゴリ:場所-施設 ドメイン:教育・学習"],
+    ["に","助詞","格助詞","*","*","に","に","*"],
+    ["行き","動詞","*","子音動詞カ行促音便形","基本連用形","行く","いき","代表表記:行く/いく 付属動詞候補（タ系） ドメイン:交通 反義:動詞:帰る/かえる"],
+    ["ます","接尾辞","動詞性接尾辞","動詞性接尾辞ます型","基本形","ます","ます","代表表記:ます/ます"],
+    ["。","特殊","句点","*","*","。","。","連語"]
+]coil@coil-VM:~/Desktop/zen-lingo-website/next-flash-cards$ 
+
+
+
+
+
+
+
+[
+    [
+    {"original":"彼女","dictionary":"彼女","furigana":"かのじょ"},
+    {"original":"は","dictionary":"は","furigana":"は"},
+    {"original":"まったく","dictionary":"まったく","furigana":"まったく"},
+    {"original":"遅れて","dictionary":"遅れる","furigana":"おくれて"},
+    {"original":"い","dictionary":"いる","furigana":"い"},
+    {"original":"ない","dictionary":"ない","furigana":"ない"},
+    {"original":"。","dictionary":"。","furigana":"。"}
+    ],
+    [
+    {"original":"今日","dictionary":"今日","furigana":"きょう"},
+    {"original":"は","dictionary":"は","furigana":"は"},
+    {"original":"行き","dictionary":"行く","furigana":"いき"},
+    {"original":"ます","dictionary":"ます","furigana":"ます"},
+    {"original":"。","dictionary":"。","furigana":"。"}
+    ],
+]
+
+
+
+
+curl -X POST http://localhost:5300/parse-split -H "Content-Type: application/json" -d '{"text": "彼女はまったく遅れていない。今日は学校に行きます。"}'
+
+coil@coil-VM:~/Desktop/zen-lingo-website/next-flash-cards$ curl -X POST http://localhost:5300/parse-split -H "Content-Type: application/json" -d '{"text": "彼女はまったく遅れていない。今日は学校に行きます。"}'
+[
+    [
+        {"original":"彼女","dictionary":"彼女","furigana":"かのじょ"},
+        {"original":"は","dictionary":"は","furigana":"は"},
+        {"original":"まったく","dictionary":"まったく","furigana":"まったく"},
+        {"original":"遅れて","dictionary":"遅れる","furigana":"おくれて"},
+        {"original":"い","dictionary":"いる","furigana":"い"},
+        {"original":"ない","dictionary":"ない","furigana":"ない"}
+    ],
+    [
+        {"original":"今日","dictionary":"今日","furigana":"きょう"},
+        {"original":"は","dictionary":"は","furigana":"は"},
+        {"original":"学校","dictionary":"学校","furigana":"がっこう"},
+        {"original":"に","dictionary":"に","furigana":"に"},
+        {"original":"行き","dictionary":"行く","furigana":"いき"},
+        {"original":"ます","dictionary":"ます","furigana":"ます"}
+    ]
+]
+coil@coil-VM:~/Desktop/zen-lingo-website/next-flash-cards$ 
+
+
+
+coil@coil-VM:~/Desktop/zen-lingo-website/next-flash-cards$ curl -X POST http://localhost:5300/parse-split -H "Content-Type: application/json" -d '{"text": "彼女はまったく遅れていない。今日は学校に行きます。"}'
+[
+    [
+        {"original":"彼女","dictionary":"彼女","furigana":"かのじょ"},
+        {"original":"は","dictionary":"は","furigana":""},
+        {"original":"まったく","dictionary":"まったく","furigana":""},
+        {"original":"遅れて","dictionary":"遅れる","furigana":"おくれて"},
+        {"original":"い","dictionary":"いる","furigana":""},
+        {"original":"ない","dictionary":"ない","furigana":""},
+        {"original":"。","dictionary":"。","furigana":""}
+    ],
+    [
+        {"original":"今日","dictionary":"今日","furigana":"きょう"},
+        {"original":"は","dictionary":"は","furigana":""},
+        {"original":"学校","dictionary":"学校","furigana":"がっこう"},
+        {"original":"に","dictionary":"に","furigana":""},
+        {"original":"行き","dictionary":"行く","furigana":"いき"},
+        {"original":"ます","dictionary":"ます","furigana":""},
+        {"original":"。","dictionary":"。","furigana":""}
+    ]
+]
+coil@coil-VM:~/Desktop/zen-lingo-website/next-flash-cards$ 
+
+
+// ------------------------- KUROSHIRO Parser --------------------------- //
+
+https://kuroshiro.org/
+https://github.com/hexenq/kuroshiro
+
+MIT licence
+it is node package
+
+we need these 2 libraries:
+npm install kuroshiro
+npm install kuroshiro-analyzer-kuromoji
+
+        "kuroshiro": "^1.2.0",       this one didnt initialize
+        "kuroshiro-analyzer-kuromoji": "^1.1.0",
+
+doing this, fixed the issue:
+npm uninstall kuroshiro
+npm install kuroshiro@1.1.2
+
+coil@coil-VM:~/Desktop/zen-lingo-website/next-flash-cards/backend$ node kuroshiro_options.js 
+Hiragana: かんじとれたらてをつなごう、かさなるのはじんせいのライン and レミリアさいこう！
+Katakana: カンジトレタラテヲツナゴウ、カサナルノハジンセイノライン and レミリアサイコウ！
+Romaji (Hepburn): kanjitoretarateotsunagō,kasanarunowajinseinorain and remiriasaikō!
+Okurigana: 感(かん)じ取(と)れたら手(て)を繋(つな)ごう、重(かさ)なるのは人生(じんせい)のライン and レミリア最高(さいこう)！
+Furigana: <ruby>感<rp>(</rp><rt>かん</rt><rp>)</rp></ruby>じ<ruby>取<rp>(</rp><rt>と</rt><rp>)</rp></ruby>れたら<ruby>手<rp>(</rp><rt>て</rt><rp>)</rp></ruby>を<ruby>繋<rp>(</rp><rt>つな</rt><rp>)</rp></ruby>ごう、<ruby>重<rp>(</rp><rt>かさ</rt><rp>)</rp></ruby>なるのは<ruby>人生<rp>(</rp><rt>じんせい</rt><rp>)</rp></ruby>のライン and レミリア<ruby>最高<rp>(</rp><rt>さいこう</rt><rp>)</rp></ruby>！
+Is "あ" a Hiragana? true
+Is "感" a Kanji? true
+Does "東京" have Kanji? true
+coil@coil-VM:~/Desktop/zen-lingo-website/next-flash-cards/backend$ 
+
+the furigana looks promising
+
+WOW, this works amazing, we can convert everything on hanabira to use furigana
+there are massive possibilities with kuroshiro library
+
+    <div>
+      <p>Furigana:</p>
+      <p>
+        <ruby>感<rp>(</rp><rt>かん</rt><rp>)</rp></ruby>じ
+        <ruby>取<rp>(</rp><rt>と</rt><rp>)</rp></ruby>れたら
+        <ruby>手<rp>(</rp><rt>て</rt><rp>)</rp></ruby>を
+        <ruby>繋<rp>(</rp><rt>つな</rt><rp>)</rp></ruby>ごう、
+        <ruby>重<rp>(</rp><rt>かさ</rt><rp>)</rp></ruby>なるのは
+        <ruby>人生<rp>(</rp><rt>じんせい</rt><rp>)</rp></ruby>のライン and レミリア
+        <ruby>最高<rp>(</rp><rt>さいこう</rt><rp>)</rp></ruby>！
+      </p>
+    </div>
+
+
+// ------------------------- JMDIC --------------------------------- //
+
+jitendex payload is extremely complex and JSON structure is inconsistent, 
+for simple translations we need something else 
+pivoting to JMDIC
+
+https://www.edrdg.org/jmdict/j_jmdict.html
+https://www.edrdg.org/edrdg/licence.html
+
+Licence:
+The dictionary files are made available under a Creative Commons Attribution-ShareAlike Licence (V4.0). The Licence Deed can be viewed here, and the full Licence Code is here.
+For the EDICT, JMdict and KANJIDIC files, the following URLs may be used or quoted:
+https://www.edrdg.org/wiki/index.php/JMdict-EDICT_Dictionary_Project
+https://www.edrdg.org/wiki/index.php/KANJIDIC_Project
+
+unable to download files from theese old sites, full of errors
+
+but found this repo under MIT licence (just the code) (jmdic for yomitan), frequently updated
+https://github.com/themoeway/jmdict-yomitan?tab=readme-ov-file
+so downloaded jmdict file from there (without example tatoeba sentences)
+next time we can download the bigger file as well
+
+Licence (jmdict for yomitan):
+The code in this repository is licensed under the MIT license. 
+The released dictionaries are licensed under the Creative Commons Attribution-ShareAlike Licence (V4.0) that JMdict is.
+
+the jmdict json files have 2 types of payloads
+simple and 'structured-content' that contains lots of stuff 
+
+we have created script 'streamline_jmdict_json.js' that unifies greatly
+different types of jsons and just gives this format:
+
+{
+    "expression": "トランスジェニック生物",
+    "reading": "トランスジェニックせいぶつ",
+    "type": "n",
+    "meanings": [
+      "transgenic organism"
+    ]
+  },
+
+super easy to seed to db, we might have lost some data in the process (it is complex)
+but for alpha/beta we should be fine
+
+
+
+// ----------------------------------- common text-parser backend ------------------------------------ //
+
+we need to put all text parsing functionality to one backend container on some port 
+mecab, kuroshiro, jitendex, jmdict, kanjidic, radkfile, ...
+
+user specific stuff will be in the hardened python backend
+
+
+// ----------------------------- Radicals + KRADFILE ------------------------------------ //
+
+radical meanings taken from wikipedia:
+
+# source:
+# https://en.wikipedia.org/wiki/List_of_kanji_radicals_by_stroke_count
+
+KRADFILE 
+https://www.edrdg.org/krad/kradinf.html
+The RADKFILE and KRADFILE files are copright and available under the EDRDG Licence. The copyright of the RADKFILE2 and KRADFILE2 files is held by Jim Rose.
+
+the EDRDG licence:
+https://www.edrdg.org/edrdg/licence.html
+
+here are sample attribution texts:
+https://www.edrdg.org/edrdg/sample.html
+
+we are using just KRADFILE (NOT KRADFILE2, so we are good with licence)
+
+
+
+// ------------------------------- JAMDICT --------------------------------- //
+
+MIT licence 
+
+https://pypi.org/project/jamdict/
+https://github.com/tristcoil/jamdict?tab=readme-ov-file
+
+
+in venv:
+pip install setuptools wheel 
+otherwise it will not work
+
+      ModuleNotFoundError: No module named 'wheel'
+      [end of output]
+  
+  note: This error originates from a subprocess, and is likely not a problem with pip.
+error: subprocess-exited-with-error
+
+× Getting requirements to build wheel did not run successfully.
+│ exit code: 1
+╰─> See above for output.
+
+note: This error originates from a subprocess, and is likely not a problem with pip.
+(.env) coil@coil-VM:jamdict_testing$ pip install --upgrade setuptools wheel
+Collecting setuptools
+  Using cached setuptools-70.1.0-py3-none-any.whl.metadata (6.0 kB)
+Requirement already satisfied: wheel in ./.env/lib/python3.12/site-packages (0.43.0)
+Using cached setuptools-70.1.0-py3-none-any.whl (882 kB)
+Installing collected packages: setuptools
+Successfully installed setuptools-70.1.0
+(.env) coil@coil-VM:jamdict_testing$ python3 -m pip install --upgrade jamdict-data
+Collecting jamdict-data
+  Using cached jamdict_data-1.5.tar.gz (53.9 MB)
+  Preparing metadata (setup.py) ... done
+Building wheels for collected packages: jamdict-data
+  Building wheel for jamdict-data (setup.py) ... done
+  Created wheel for jamdict-data: filename=jamdict_data-1.5-py3-none-any.whl size=124546832 sha256=38ebc84b99bb26de6d0467f939e923c6f3a9cbea496b5c449b56db2dcf1b4c00
+  Stored in directory: /home/coil/.cache/pip/wheels/f9/78/2c/6220c8d1939235d7b8cff1f2576ab34c0805bb4a8434f9ebd6
+Successfully built jamdict-data
+Installing collected packages: jamdict-data
+Successfully installed jamdict-data-1.5
+(.env) coil@coil-VM:jamdict_testing$ python3 -m pip install --upgrade jamdict
+Requirement already satisfied: jamdict in ./.env/lib/python3.12/site-packages (0.1a11.post2)
+Requirement already satisfied: chirptext<=0.2,>=0.1 in ./.env/lib/python3.12/site-packages (from jamdict) (0.1.2)
+Requirement already satisfied: puchikarui<0.3,>=0.1 in ./.env/lib/python3.12/site-packages (from jamdict) (0.1)
+(.env) coil@coil-VM:jamdict_testing$ 
+(.env) coil@coil-VM:jamdict_testing$ 
+(.env) coil@coil-VM:jamdict_testing$ 
+(.env) coil@coil-VM:jamdict_testing$ 
+(.env) coil@coil-VM:jamdict_testing$ 
+(.env) coil@coil-VM:jamdict_testing$ python3
+Python 3.12.3 (main, Apr 10 2024, 05:33:47) [GCC 13.2.0] on linux
+Type "help", "copyright", "credits" or "license" for more information.
+>>> from jamdict import Jamdict
+>>> jam = Jamdict()
+>>> result = jam.lookup('食べ%る')
+>>> for entry in result.entries:
+...     print(entry)
+... 
+[id#1358280] たべる (食べる) : 1. to eat ((Ichidan verb|transitive verb)) 2. to live on (e.g. a salary)/to live off/to subsist on ((Ichidan verb|transitive verb))
+[id#1358300] たべすぎる (食べ過ぎる) : to overeat ((Ichidan verb|transitive verb))
+[id#1852290] たべつける (食べ付ける) : to be used to eating ((Ichidan verb|transitive verb))
+[id#2145280] たべはじめる (食べ始める) : to start eating ((Ichidan verb))
+[id#2449430] たべかける (食べ掛ける) : to start eating ((Ichidan verb))
+[id#2671010] たべなれる (食べ慣れる) : to be used to eating/to become used to eating/to be accustomed to eating/to acquire a taste for ((Ichidan verb))
+[id#2765050] たべられる (食べられる) : 1. to be able to eat ((Ichidan verb|intransitive verb)) 2. to be edible/to be good to eat ((pre-noun adjectival (rentaishi)))
+[id#2795790] たべくらべる (食べ比べる) : to taste and compare several dishes (or foods) of the same type ((Ichidan verb|transitive verb))
+[id#2807470] たべあわせる (食べ合わせる) : to eat together (various foods) ((Ichidan verb))
+[id#2841209] たべあきる (食べ飽きる) : to get tired of eating/to have enough of (a food) ((Ichidan verb|transitive verb))
+>>> 
+
+
+has nice explanations of different forms 
+
+study docs more, can create nice unusual dictionary 
+with flex forms
+
+
+uwate/jouzu example htat mecab just gives uwate
+
+(.env) coil@coil-VM:jamdict_testing$ python3 -m jamdict lookup 上手
+========================================
+Found entries
+========================================
+Entry: 1353320 | Kj:  上手 | Kn: じょうず, じょうて, じょうしゅ
+--------------------
+1. skillful/skilled/proficient/good (at)/adept/clever ((adjectival nouns or quasi-adjectives (keiyodoshi)|noun (common) (futsuumeishi)))
+2. flattery ((noun (common) (futsuumeishi)))
+
+Entry: 1580400 | Kj:  上手 | Kn: うわて, かみて
+--------------------
+1. upper part ((adjectival nouns or quasi-adjectives (keiyodoshi)|noun (common) (futsuumeishi)))
+2. upper stream/upper course of a river ((noun (common) (futsuumeishi)))
+3. right side of the stage (audience's or camera's POV)/stage left (actor's POV) ((noun (common) (futsuumeishi)))
+4. skillful (in comparisons)/dexterity ((adjectival nouns or quasi-adjectives (keiyodoshi)|noun (common) (futsuumeishi)))
+5. over-arm grip on opponent's belt ((noun (common) (futsuumeishi)))
+
+========================================
+Found characters
+========================================
+Char: 上 | Strokes: 3
+--------------------
+Readings: shang4, shang3, sang, 상, Thượng, Thướng, ジョウ, ショウ, シャン, うえ, -うえ, うわ-, かみ, あ.げる, -あ.げる, あ.がる, -あ.がる, あ.がり, -あ.がり, のぼ.る, のぼ.り, のぼ.せる, のぼ.す, たてまつ.る
+Meanings: above, up
+
+Char: 手 | Strokes: 4
+--------------------
+Readings: shou3, su, 수, Thủ, シュ, ズ, て, て-, -て, た-
+Meanings: hand
+
+
+========================================
+Found name entities
+========================================
+Names: 5393669 | Kj:  上手 | Kn: うえで
+--------------------
+1. Uede (place name)
+
+Names: 5393670 | Kj:  上手 | Kn: うわて
+--------------------
+1. Uwate (family or surname)
+
+Names: 5393671 | Kj:  上手 | Kn: かみたい
+--------------------
+1. Kamitai (family or surname)
+
+Names: 5393672 | Kj:  上手 | Kn: かみて
+--------------------
+1. Kamite (family or surname)
+
+Names: 5393673 | Kj:  上手 | Kn: かみで
+--------------------
+1. Kamide (place name/family or surname)
+
+Names: 5393674 | Kj:  上手 | Kn: じょうず
+--------------------
+1. Jouzu (family or surname)
+
+Names: 5393675 | Kj:  上手 | Kn: のぼて
+--------------------
+1. Nobote (place name)
+
+(.env) coil@coil-VM:jamdict_testing$ 
+
+
+
+
+
+
+
+
+
+
+// ------------------------ amazing tools to use ------------------- //
+
+
+jamdict, sudachi, konoha ...
+amazing things, can save lots of time
+
+https://github.com/tristcoil/awesome-japanese-nlp-resources?tab=readme-ov-file#javaScript
+https://github.com/tristcoil/jamdict?tab=readme-ov-file
+https://github.com/themoeway/jmdict-yomitan
+https://github.com/tristcoil/sudachi.rs
+https://github.com/mocobeta/janome
+https://github.com/tristcoil/konoha
+
+https://pypi.org/project/SudachiPy/
+
+
+
+
+
+
+//--------------- sudachi ------------------- //
+
+sudachipy
+License: Apache-2.0
+
+(.env) coil@coil-VM:jamdict_testing$ pip install sudachipy sudachidict_core
+Requirement already satisfied: sudachipy in ./.env/lib/python3.12/site-packages (0.6.8)
+Collecting sudachidict_core
+  Downloading SudachiDict_core-20240409-py3-none-any.whl.metadata (2.5 kB)
+Downloading SudachiDict_core-20240409-py3-none-any.whl (72.0 MB)
+   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 72.0/72.0 MB 5.5 MB/s eta 0:00:00
+Installing collected packages: sudachidict_core
+Successfully installed sudachidict_core-20240409
+(.env) coil@coil-VM:jamdict_testing$ python3 -m sudachipy 
+/home/coil/Desktop/jamdict_testing/.env/bin/python3: No module named sudachipy.__main__; 'sudachipy' is a package and cannot be directly executed
+(.env) coil@coil-VM:jamdict_testing$ echo "外国人参政権" | sudachipy -a
+外国人参政権    名詞,普通名詞,一般,*,*,*        外国人参政権    外国人参政権    ガイコクジンサンセイケン        0       []
+EOS
+(.env) coil@coil-VM:jamdict_testing$ 
+
+
+
+
+// ------------------ how to fix issues with lemma/dictionary forms by mecab ----------------------- //
+
+mecab kinda sucks in providing correct dictionary forms for many verbs 
+we should use something else eventually 
+
+
+nice overview of all tokenization options 
+https://is.muni.cz/th/opw9s/Thesis___Analyzer_of_Japanese_Texts_for_Language_Learning_Purposes.pdf
+
+fugashi whitepaper, also useful
+https://aclanthology.org/2020.nlposs-1.7.pdf
+
+sudachi tokenizer is apache licence, which is nice
+https://pypi.org/project/SudachiPy/0.2.1/
+
+
+
+// ------------------------ japanese dictionary APIs ------------------------ //
+
+https://pypi.org/project/jisho-api/
+https://kanjiapi.dev/
+https://www.reddit.com/r/LearnJapanese/comments/1456qj6/is_there_any_japanese_dictionary_api_available/
+
+
+// ------------------------ Mru Mori Ve ------------------------- //
+
+
+
+MaruMori uses Ve library - something like MeCab for lemmas
+https://github.com/Kimtaro/ve
+MIT licence
+might be Ruby I think
+
+

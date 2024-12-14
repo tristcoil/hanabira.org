@@ -1,0 +1,118 @@
+NEXT FLASH CARDS DEV NOTES:
+---------------------------
+---------------------------
+
+
+
+
+go to http://localhost:3000/flashcards
+it is simplified flashcard endpoint that is using only python backend
+so is self sustaining
+
+---
+
+python API endpoints:
+
+@app.route("/api/clone-collection", methods=["POST"])
+def clone_collection():
+
+@app.route("/api/combine-data", methods=["GET", "POST"])
+def combine_data():
+
+@app.route("/api/flashcard/<userId>", methods=['GET'])
+def get_flashcard_states(userId):
+
+@app.route("/api/flashcard", methods=['POST'])
+def store_flashcard_state():
+---
+
+for streamlined flashcards we have separate page
+(using user specific python backend that combines flashcard data - dynamic db with static source db)
+
+
+
+// curl -X GET "http://localhost:5100/api/combine-data?userId=testUser&collectionName=kanji&p_tag=JLPT_N3&s_tag=part_1"
+const apiUrl = `http://localhost:5100/api/combine-data?userId=${userId}&collectionName=${collectionName}&p_tag=${p_tag}&s_tag=${s_tag}`;
+
+
+Interconnection with static DB API:
+-----------------------------------
+static DB will live in different container / different API will handle access to static DB
+hence we need to have the static backend up and running for our tests 
+the static express container runs locally on port 7000/8000
+
+our dynamic flask container runs classically on port 5100
+
+we need now to get static kanji data from the port 7000
+
+
+
+Tests:
+------
+health
+curl -X GET http://localhost:5100/health
+
+cloning kanji
+curl -X POST http://localhost:5100/f-api/v1/clone-static-collection-kanji -H "Content-Type: application/json" -d '{"userId": "testUser", "collection": "kanji", "p_tag": "JLPT_N3"}'
+
+cloning words
+# curl -X POST http://localhost:5100/f-api/v1/clone-static-collection-words -H "Content-Type: application/json" -d '{"userId": "testUser", "collection": "words", "p_tag": "suru_essential_600_verbs"}'  # w only p_tag
+# curl -X POST http://localhost:5100/f-api/v1/clone-static-collection-words -H "Content-Type: application/json" -d '{"userId": "testUser", "collection": "words", "p_tag": "essential_600_verbs"}'  # w only p_tag
+
+GET just static kanji data:
+curl -X GET "http://localhost:8000/api/v1/kanji?p_tag=JLPT_N3&s_tag=part_1"
+
+flashcard info combining - kanji
+# curl -X POST http://localhost:5100/f-api/v1/combine-flashcard-data-kanji -H "Content-Type: application/json" -d '{"userId": "testUser", "collectionName": "kanji", "p_tag": "JLPT_N3", "s_tag": "part_1"}'
+# curl -X GET -H "Content-Type: application/json" "http://localhost:5100/f-api/v1/combine-flashcard-data-kanji?userId=testUser&collectionName=kanji&p_tag=JLPT_N3&s_tag=part_1"
+
+flashcard info combining - words
+
+
+
+Containerization
+----------------
+
+
+so based on that we will find the volume to mount 
+and we should be good then
+
+docker build . -t coil/zen-lingo:flask-dynamic-db
+
+
+mkdir -p /home/coil/user_db  # docker should create this by itself if needed
+
+docker run -it -p 5100:5100 -v /home/coil/user_db:/var/lib/mongodb --add-host=host.docker.internal:host-gateway coil/zen-lingo:flask-dynamic-db # interactive
+docker run -d -p 5100:5100 -v /home/coil/user_db:/var/lib/mongodb --add-host=host.docker.internal:host-gateway coil/zen-lingo:flask-dynamic-db
+
+
+queries to the APIs  using mounted persistent volume
+curl -X POST http://localhost:5100/api/clone-static-collection -H "Content-Type: application/json" -d '{"userId": "testUser", "collection": "kanji", "p_tag": "JLPT_N3"}'
+
+
+calling host VM ports and apis:
+this is amazing, container can call other containers/ host VM nginx and so on, amazing!
+root@5461a2874a0a:/app# curl -X GET http://host.docker.internal:7000/api/v1/kanji
+{"error":"p_tag is required"}
+root@5461a2874a0a:/app# 
+
+
+
+
+TODO - add correct info
+DYNAMIC BACKEND FLASK+DB (handles user specific data)
+docker build . -t coil/zen-lingo:flask-dynamic-db
+docker push coil/zen-lingo:flask-dynamic-db
+(port 5100 exposed internally)
+docker run -it -p 5100:5100 coil/zen-lingo:flask-dynamic-db
+
+
+
+
+
+
+
+
+
+
+

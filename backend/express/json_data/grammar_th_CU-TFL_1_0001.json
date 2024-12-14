@@ -1,0 +1,2042 @@
+[
+  {
+    "title": "ครับ/ค่ะ (khrap/kha) - Polite ending particle for male/female speakers",
+    "short_explanation": "Used at the end of statements or questions to show respect or politeness.",
+    "long_explanation": "The words 'ครับ (khrap)' for male speakers and 'ค่ะ (kha)' for female speakers are polite particles in Thai. They are often placed at the end of statements or questions, thereby making the sentence more formal and respectful. They are used in formal, professional, or polite conversations, showing respect to the person you are speaking with. These particles are versatile and can be used across a wide range of statements or questions, irrespective of the context.",
+    "formation": "Statement or Question + ครับ/ค่ะ",
+    "examples": [
+      {
+        "th": "คุณ ชอบ กิน อาหาร ไทย ครับ ?",
+        "romaji": "Khun chop gin a-han Thai khrap?",
+        "en": "Do you like eating Thai food, sir/madam?",
+        "grammar_audio": "/audio/thai/grammar/s_ครับ/ค่ะ_khrap/kha_-_Polite_ending_particle_for_male/female_speakers_20231230_คุณ_ชอบ_กิน_อาหาร_ไทย_ครับ_.mp3"
+      },
+      {
+        "th": "ฉัน จะ กลับ บ้าน ก่อน นะ ค่ะ",
+        "romaji": "Chan ja glap baan kon na kha",
+        "en": "I will go home first, okay?",
+        "grammar_audio": "/audio/thai/grammar/s_ครับ/ค่ะ_khrap/kha_-_Polite_ending_particle_for_male/female_speakers_20231230_ฉัน_จะ_กลับ_บ้าน_ก่อน_นะ_ค่ะ.mp3"
+      },
+      {
+        "th": "อากาศ วัน นี้ ร้อน มาก ครับ",
+        "romaji": "A-gat wan ni ron maak khrap",
+        "en": "The weather is very hot today, sir/madam.",
+        "grammar_audio": "/audio/thai/grammar/s_ครับ/ค่ะ_khrap/kha_-_Polite_ending_particle_for_male/female_speakers_20231230_อากาศ_วัน_นี้_ร้อน_มาก_ครับ.mp3"
+      },
+      {
+        "th": "คุณ รู้จัก เขา ไหม ค่ะ ?",
+        "romaji": "Khun roojak khao mai kha?",
+        "en": "Do you know him, sir/madam?",
+        "grammar_audio": "/audio/thai/grammar/s_ครับ/ค่ะ_khrap/kha_-_Polite_ending_particle_for_male/female_speakers_20231230_คุณ_รู้จัก_เขา_ไหม_ค่ะ_.mp3"
+      }
+    ],
+    "p_tag": "CU-TFL_1",
+    "s_tag": "25"
+  },
+  {
+    "title": "ไม่ (mâi) - Not (Negation)",
+    "short_explanation": "Used to make negative sentences, 'not'.",
+    "long_explanation": "The word 'ไม่ (mâi)' is used in Thai to make sentences negative, just like the English 'not'. It usually precedes the verb, adjective, or the noun to express the negation. Moreover, it can also be used in conjunction with a verb to express that a certain action did not or will not take place.",
+    "formation": "ไม่ + Statement",
+    "examples": [
+      {
+        "th": "เขา ไม่ ชอบ กิน อาหาร ทะเล",
+        "romaji": "Khao mâi chôp gin aa-hăan tà-lae",
+        "en": "He does not like to eat seafood.",
+        "grammar_audio": "/audio/thai/grammar/s_ไม่_mâi_-_Not_Negation_20231230_เขา_ไม่_ชอบ_กิน_อาหาร_ทะเล.mp3"
+      },
+      {
+        "th": "ฉัน ไม่ สามารถ ทำ งาน นี้ ได้",
+        "romaji": "Chan mâi săa-mâat tam ngaan nii dâai",
+        "en": "I can not do this work.",
+        "grammar_audio": "/audio/thai/grammar/s_ไม่_mâi_-_Not_Negation_20231230_ฉัน_ไม่_สามารถ_ทำ_งาน_นี้_ได้.mp3"
+      },
+      {
+        "th": "มัน ไม่ ใช่ ว่า ฉัน ไม่ รัก เธอ, แต่ ฉัน ไม่ สามารถ อยู่ กับ เธอ ได้",
+        "romaji": "Man mâi châi wâa chan mâi rák thoe, dtàe chăn mâi sǎa-màat yùu gàp thoe dâi.",
+        "en": "It's not that I don't love you, but I can't live with you.",
+        "grammar_audio": "/audio/thai/grammar/s_ไม่_mâi_-_Not_Negation_20231230_มัน_ไม่_ใช่_ว่า_ฉัน_ไม่_รัก_เธอ_แต่_ฉัน_ไม่_สามารถ_อยู่_กับ_เธอ_ได้.mp3"
+      },
+      {
+        "th": "ฉัน ไม่ ถนัด การ ขับ รถ",
+        "romaji": "Chan mâi thà-nát gaan khup rót",
+        "en": "I am not good at driving.",
+        "grammar_audio": "/audio/thai/grammar/s_ไม่_mâi_-_Not_Negation_20231230_ฉัน_ไม่_ถนัด_การ_ขับ_รถ.mp3"
+      }
+    ],
+    "p_tag": "CU-TFL_1",
+    "s_tag": "25"
+  },
+  {
+    "title": "ว่า (wâa) - That",
+    "short_explanation": "Used as a conjunction to introduce quoted speech or thought.",
+    "long_explanation": "In Thai language, 'ว่า (wâa)' is used as a conjunction to introduce quoted speech or thought. It is equivalent to 'that' in English when used to quote someone's words or thoughts. This term is usually placed right before the quoted speech or thought in a sentence. It should be noted that 'ว่า' is not used when referring to things or objects. It is specifically used for speech or thought introduction.",
+    "formation": "Speaker/Thinker + ว่า + Quoted Speech/Thought",
+    "examples": [
+      {
+        "th": "เขา บอก ว่า จะ มา สาย นิด หน่อย",
+        "romaji": "Khao bok wâa ja ma sai nid noi",
+        "en": "He said that he would be a little late.",
+        "grammar_audio": "/audio/thai/grammar/s_ว่า_wâa_-_That_20231230_เขา_บอก_ว่า_จะ_มา_สาย_นิด_หน่อย.mp3"
+      },
+      {
+        "th": "ฉัน คิด ว่า เธอ น่ารัก เกินไป",
+        "romaji": "Chan khid wâa thoe na-rak goen pai",
+        "en": "I think that she is too cute.",
+        "grammar_audio": "/audio/thai/grammar/s_ว่า_wâa_-_That_20231230_ฉัน_คิด_ว่า_เธอ_น่ารัก_เกินไป.mp3"
+      },
+      {
+        "th": "ผม ต้องการ ให้ คุณ รู้ ว่า ผม รัก คุณ",
+        "romaji": "Phom tong gan hai khun ru wâa phom rak khun",
+        "en": "I want you to know that I love you.",
+        "grammar_audio": "/audio/thai/grammar/s_ว่า_wâa_-_That_20231230_ผม_ต้องการ_ให้_คุณ_รู้_ว่า_ผม_รัก_คุณ.mp3"
+      },
+      {
+        "th": "เธอ ทำ ให้ ฉัน รู้ ว่า ความรัก ที่ แท้จริง คือ อะไร",
+        "romaji": "Thoe tham hai chan ru wâa khwam rak thi tae jing keu a rai",
+        "en": "She made me realize what true love is.",
+        "grammar_audio": "/audio/thai/grammar/s_ว่า_wâa_-_That_20231230_เธอ_ทำ_ให้_ฉัน_รู้_ว่า_ความรัก_ที่_แท้จริง_คือ_อะไร.mp3"
+      }
+    ],
+    "p_tag": "CU-TFL_1",
+    "s_tag": "25"
+  },
+  {
+    "title": "และ (láe) - And",
+    "short_explanation": "Connects two words, phrases or clauses; 'and'.",
+    "long_explanation": "The conjunction 'และ (láe)' is used in Thai to connect words, phrases or clauses similar to the English 'and'. It can be used to join two or more nouns, verbs, adjectives or sentences. However, it's primarily used in written or formal language. In colloquial Thai, people often use 'กับ (gàp)' or eliminate the conjunction altogether.",
+    "formation": "Phrase 1 + และ + Phrase 2",
+    "examples": [
+      {
+        "th": "ฉัน อ่าน หนังสือ และ ฟัง เพลง ทุก วัน",
+        "romaji": "Chan an nang-sue láe fang pleng thuk wan",
+        "en": "I read books and listen to music every day.",
+        "grammar_audio": "/audio/thai/grammar/s_และ_láe_-_And_20231230_ฉัน_อ่าน_หนังสือ_และ_ฟัง_เพลง_ทุก_วัน.mp3"
+      },
+      {
+        "th": "เธอ สวย และ ฉลาด",
+        "romaji": "Thoe suay láe chà-làat",
+        "en": "She is beautiful and smart.",
+        "grammar_audio": "/audio/thai/grammar/s_และ_láe_-_And_20231230_เธอ_สวย_และ_ฉลาด.mp3"
+      },
+      {
+        "th": "หมอ ตรวจ สุขภาพ และ ให้ คำ แนะนำ วิธี การ ดูแล ร่างกาย",
+        "romaji": "Mor truat suk-kha-phap láe hai kam nae-nam wi-thi kaan du-lae rang-kai",
+        "en": "The doctor checks health and gives advice on how to take care of the body.",
+        "grammar_audio": "/audio/thai/grammar/s_และ_láe_-_And_20231230_หมอ_ตรวจ_สุขภาพ_และ_ให้_คำ_แนะนำ_วิธี_การ_ดูแล_ร่างกาย.mp3"
+      },
+      {
+        "th": "วัน นี้ ฉัน จะ ทำการบ้าน และ ทบทวน บทเรียน",
+        "romaji": "Wan nee chan ja tham kaan baan láe thap-thu-wan bot-riian",
+        "en": "Today, I will do homework and review the lesson.",
+        "grammar_audio": "/audio/thai/grammar/s_และ_láe_-_And_20231230_วัน_นี้_ฉัน_จะ_ทำการบ้าน_และ_ทบทวน_บทเรียน.mp3"
+      }
+    ],
+    "p_tag": "CU-TFL_1",
+    "s_tag": "25"
+  },
+  {
+    "title": "กับ (gàp) - With",
+    "short_explanation": "Used to indicate association, companionship, or comparison; 'with'.",
+    "long_explanation": "The term 'กับ (gàp)' in Thai is used to express the ideas of association or companionship, similar to the English preposition 'with'. In addition, it can also indicate comparison when used between two nouns or adjectives. It is placed between the actions, or people, or objects indicating that they are doing something together or are associated with each other in some way.",
+    "formation": "Noun/Verb/Adjective + กับ + Noun/Verb/Adjective",
+    "examples": [
+      {
+        "th": "ฉัน ต้องการ ที่จะ แวะ ไป เที่ยว ที่ ทะเล กับ ครอบครัว ของ ฉัน ใน สุดสัปดาห์ นี้",
+        "romaji": "Chan tong kan thi ja wae pai tiao thi ta le gàp khrop khrua kong chan nai sut sa pda heng nee",
+        "en": "I want to go on a trip to the sea with my family this weekend.",
+        "grammar_audio": "/audio/thai/grammar/s_กับ_gàp_-_With_20231230_ฉัน_ต้องการ_ที่จะ_แวะ_ไป_เที่ยว_ที่_ทะเล_กับ_ครอบครัว_ของ_ฉัน_ใน_สุดสัปดาห์_นี้.mp3"
+      },
+      {
+        "th": "เธอ ชอบ ศึกษา ประวัติศาสตร์ กับ พ่อ ของ เธอ",
+        "romaji": "Thoe chop suek sa prawat sa quarter gàp phor kong thoe",
+        "en": "She likes to study history with her father.",
+        "grammar_audio": "/audio/thai/grammar/s_กับ_gàp_-_With_20231230_เธอ_ชอบ_ศึกษา_ประวัติศาสตร์_กับ_พ่อ_ของ_เธอ.mp3"
+      },
+      {
+        "th": "ฉัน รู้สึก หิว กับ ความ ร้อน",
+        "romaji": "Chan ru suk hiw gàp khwam ron",
+        "en": "I feel hungry and hot.",
+        "grammar_audio": "/audio/thai/grammar/s_กับ_gàp_-_With_20231230_ฉัน_รู้สึก_หิว_กับ_ความ_ร้อน.mp3"
+      },
+      {
+        "th": "ไม่มี ใคร สามารถ ต่อสู้ กับ การเวลา",
+        "romaji": "Mai mee khrai sa marat tor su gàp kan wela",
+        "en": "No one can fight with time.",
+        "grammar_audio": "/audio/thai/grammar/s_กับ_gàp_-_With_20231230_ไม่มี_ใคร_สามารถ_ต่อสู้_กับ_การเวลา.mp3"
+      }
+    ],
+    "p_tag": "CU-TFL_1",
+    "s_tag": "25"
+  },
+  {
+    "title": "ใน (nai) - In, inside",
+    "short_explanation": "Indicates location; 'in', 'inside', 'within'.",
+    "long_explanation": "The term 'ใน (nai)' is commonly used in Thai to indicate location, similar to the English 'in', 'inside', or 'within'. It is usually placed before its noun phrase to denote that something is inside or within the limits of something else. It can be used with a wide variety of nouns to express a physical or metaphorical containment.",
+    "formation": "ใน + Noun Phrase",
+    "examples": [
+      {
+        "th": "พวกเรา พบ กัน อีกครั้ง ใน งานปาร์ตี้ ที่ บ้าน ของ เขา",
+        "romaji": "Phuak rao pop kan iik khrang nai ngan paati thi baan kong khao",
+        "en": "We met again at his house party.",
+        "grammar_audio": "/audio/thai/grammar/s_ใน_nai_-_In_inside_20231230_พวกเรา_พบ_กัน_อีกครั้ง_ใน_งานปาร์ตี้_ที่_บ้าน_ของ_เขา.mp3"
+      },
+      {
+        "th": "เขา หลับ ไป ใน สายตา ของ ฉัน เหมือน ว่า ฉัน เป็น เรื่อง เฝ้า มอง ที่ เขา ชื่นชอบ",
+        "romaji": "Khao lup pai nai saai dtaa kong chan meuang wa chan pen reuang faw mong thi khao chuen chorp",
+        "en": "He fell asleep in my sight as if I were a spectacle he enjoyed observing.",
+        "grammar_audio": "/audio/thai/grammar/s_ใน_nai_-_In_inside_20231230_เขา_หลับ_ไป_ใน_สายตา_ของ_ฉัน_เหมือน_ว่า_ฉัน_เป็น_เรื่อง_เฝ้า_มอง_ที่_เขา_ชื่นชอบ.mp3"
+      },
+      {
+        "th": "มัมมี่ อยู่ ใน หีบ ที่ สมดุลย์ภูมิ",
+        "romaji": "Mammi you nai hip thi somdul-phumi",
+        "en": "The mummy is in the sarcophagus.",
+        "grammar_audio": "/audio/thai/grammar/s_ใน_nai_-_In_inside_20231230_มัมมี่_อยู่_ใน_หีบ_ที่_สมดุลย์ภูมิ.mp3"
+      },
+      {
+        "th": "ไฟ ใน ห้อง นั้น ถูก ดับ ไป แล้ว",
+        "romaji": "Fai nai hong nan thuk dap pai laew",
+        "en": "The light in that room is off.",
+        "grammar_audio": "/audio/thai/grammar/s_ใน_nai_-_In_inside_20231230_ไฟ_ใน_ห้อง_นั้น_ถูก_ดับ_ไป_แล้ว.mp3"
+      }
+    ],
+    "p_tag": "CU-TFL_1",
+    "s_tag": "25"
+  },
+  {
+    "title": "บน (bon) - On, Above",
+    "short_explanation": "Used to denote location on a higher plane or surface; 'on' or 'above'.",
+    "long_explanation": "The term 'บน (bon)' in Thai language is used to denote a position in regard to another object, which is understood to be 'below' or 'beneath'. It is equivalent to 'on' or 'above' in English. It is used to refer to something that is directly on or above another object. It can be used with most nouns, though context is important as there might be more appropriate words to use depending on the particular situation.",
+    "formation": "Reference point + บน + Object",
+    "examples": [
+      {
+        "th": "ฉัน วาง หนังสือ บน โต๊ะ",
+        "romaji": "Chan wang nang sue bon toh",
+        "en": "I put the book on the table.",
+        "grammar_audio": "/audio/thai/grammar/s_บน_bon_-_On_Above_20231230_ฉัน_วาง_หนังสือ_บน_โต๊ะ.mp3"
+      },
+      {
+        "th": "เขา นั่ง บน แผ่น อากาศ ร้อน",
+        "romaji": "Khao nang bon phaen a-gat ron",
+        "en": "He is sitting on a hot air balloon.",
+        "grammar_audio": "/audio/thai/grammar/s_บน_bon_-_On_Above_20231230_เขา_นั่ง_บน_แผ่น_อากาศ_ร้อน.mp3"
+      },
+      {
+        "th": "ภูเขา สูง ๆ ตั้งอยู่ บน เมือง นี้",
+        "romaji": "Phukao soong soong tang yu bon muang nee",
+        "en": "High mountains are above this city.",
+        "grammar_audio": "/audio/thai/grammar/s_บน_bon_-_On_Above_20231230_ภูเขา_สูง_ๆ_ตั้งอยู่_บน_เมือง_นี้.mp3"
+      },
+      {
+        "th": "ลิง กระโดด จาก มะพร้าว ที่ อยู่ บน ต้น มะพร้าว ไป ยัง อีก ต้นหนึ่ง",
+        "romaji": "Ling gra-dod jak ma praew thi yu bon ton ma praew pai yang eek ton neung",
+        "en": "The monkey jumps from the coconut on one coconut tree to another.",
+        "grammar_audio": "/audio/thai/grammar/s_บน_bon_-_On_Above_20231230_ลิง_กระโดด_จาก_มะพร้าว_ที่_อยู่_บน_ต้น_มะพร้าว_ไป_ยัง_อีก_ต้นหนึ่ง.mp3"
+      }
+    ],
+    "p_tag": "CU-TFL_1",
+    "s_tag": "25"
+  },
+  {
+    "title": "ใต้ (tâi) - Under, below",
+    "short_explanation": "Used to show location; 'under' or 'below'.",
+    "long_explanation": "The Thai word 'ใต้ (tâi)' is used to indicate the location of something being 'under' or 'below' another thing. It is very similar to the English prepositions 'under' or 'below'. It can be used with a wide range of nouns to indicate a specific location. It is usually placed in front of the noun to describe its position.",
+    "formation": "ใต้ + noun (location)",
+    "examples": [
+      {
+        "th": "หมา ของ เขา กำลัง นอน ใต้ โต๊ะ",
+        "romaji": "Ma kong khao gamlang non tâi to",
+        "en": "His dog is sleeping under the table.",
+        "grammar_audio": "/audio/thai/grammar/s_ใต้_tâi_-_Under_below_20231230_หมา_ของ_เขา_กำลัง_นอน_ใต้_โต๊ะ.mp3"
+      },
+      {
+        "th": "เธอ ซ่อน เงิน ใต้ ที่นอน",
+        "romaji": "Thoe son nguen tâi thi non",
+        "en": "She hides her money under the mattress.",
+        "grammar_audio": "/audio/thai/grammar/s_ใต้_tâi_-_Under_below_20231230_เธอ_ซ่อน_เงิน_ใต้_ที่นอน.mp3"
+      },
+      {
+        "th": "ไปมา ใต้ แสง แดด เรารู้สึก ร้อน",
+        "romaji": "Pai ma tâi saeng daet rao roo suek ron",
+        "en": "Walking under the sun, we feel hot.",
+        "grammar_audio": "/audio/thai/grammar/s_ใต้_tâi_-_Under_below_20231230_ไปมา_ใต้_แสง_แดด_เรารู้สึก_ร้อน.mp3"
+      },
+      {
+        "th": "วิน รถ สอง ล้อ วิ่ง ผ่าน ใต้ สะพาน",
+        "romaji": "Win rot song loh wing phan tâi saphan",
+        "en": "The motorcycle ran under the bridge.",
+        "grammar_audio": "/audio/thai/grammar/s_ใต้_tâi_-_Under_below_20231230_วิน_รถ_สอง_ล้อ_วิ่ง_ผ่าน_ใต้_สะพาน.mp3"
+      }
+    ],
+    "p_tag": "CU-TFL_1",
+    "s_tag": "25"
+  },
+  {
+    "title": "หรือ (rǔe) - Or",
+    "short_explanation": "Used as a conjunction to present alternatives; 'or'.",
+    "long_explanation": "The term 'หรือ (rǔe)' in Thai is used as a conjunction, similar to the English 'or', to present alternatives or choices. It implies that only one of the options may be selected. It is placed between the two elements it connects, and can be used within a sentence or at the end of a question to denote the expectation of a response. ",
+    "formation": "Option A + หรือ + Option B",
+    "examples": [
+      {
+        "th": "คุณ อยาก ดื่ม กาแฟ หรือ น้ำ ผลไม้",
+        "romaji": "Khun yak deum gaa-fe rǔe nam pon-lamai",
+        "en": "Do you want to drink coffee or fruit juice?",
+        "grammar_audio": "/audio/thai/grammar/s_หรือ_rǔe_-_Or_20231230_คุณ_อยาก_ดื่ม_กาแฟ_หรือ_น้ำ_ผลไม้.mp3"
+      },
+      {
+        "th": "เรา ควร ไป ชาย ทะเล หรือ เขา , ปลาย สัปดาห์ นี้",
+        "romaji": "Rao khuan pai chai ta-le rǔe khao, plai sap-da hok nee",
+        "en": "Should we go to the beach or the mountains this weekend?",
+        "grammar_audio": "/audio/thai/grammar/s_หรือ_rǔe_-_Or_20231230_เรา_ควร_ไป_ชาย_ทะเล_หรือ_เขา__ปลาย_สัปดาห์_นี้.mp3"
+      },
+      {
+        "th": "เขา มี เพื่อน ชาย หรือ พี่สาว",
+        "romaji": "Khao mee pheuan chai rǔe phi sao",
+        "en": "Does he have a brother or a sister?",
+        "grammar_audio": "/audio/thai/grammar/s_หรือ_rǔe_-_Or_20231230_เขา_มี_เพื่อน_ชาย_หรือ_พี่สาว.mp3"
+      },
+      {
+        "th": "คุณ ชอบ สี แดง หรือ สี ฟ้า",
+        "romaji": "Khun chop see daeng rǔe see fa",
+        "en": "Do you prefer red or blue?",
+        "grammar_audio": "/audio/thai/grammar/s_หรือ_rǔe_-_Or_20231230_คุณ_ชอบ_สี_แดง_หรือ_สี_ฟ้า.mp3"
+      }
+    ],
+    "p_tag": "CU-TFL_1",
+    "s_tag": "25"
+  },
+  {
+    "title": "แล้ว (láew) - Already, then",
+    "short_explanation": "Denotes completion of action or event, 'already' or indicates sequence of events, 'then'.",
+    "long_explanation": "The term 'แล้ว (láew)' is often used in Thai to suggest that an action or event has already been completed, similar to the English term 'already'. It comes after the verb or adjetive to express the completion. Additionally, it can be used to indicate the sequence of events, similar to the English 'then'. It can be found between two clauses to express that one action follows another.",
+    "formation": "[Completion] Verb/Adjective + แล้ว, [Sequence] Statement1 + แล้ว + Statement2",
+    "examples": [
+      {
+        "th": "ฉัน ทำ การบ้าน แล้ว ตอนนี้ ฉัน สามารถ ไป นอน ได้",
+        "romaji": "Chan tam kan baan láew, dton nee chan saa maat bpai nawn dai",
+        "en": "I've already done my homework, now I can go to sleep.",
+        "grammar_audio": "/audio/thai/grammar/s_แล้ว_láew_-_Already_then_20231230_ฉัน_ทำ_การบ้าน_แล้ว_ตอนนี้_ฉัน_สามารถ_ไป_นอน_ได้.mp3"
+      },
+      {
+        "th": "ฉัน กิน ข้าวเที่ยง แล้ว ฉัน จะ ออกไป ข้าง นอก",
+        "romaji": "Chan gin kao thiang láew, chan ja awk bpai khang nawk",
+        "en": "I've already had lunch, then I'll go outside.",
+        "grammar_audio": "/audio/thai/grammar/s_แล้ว_láew_-_Already_then_20231230_ฉัน_กิน_ข้าวเที่ยง_แล้ว_ฉัน_จะ_ออกไป_ข้าง_นอก.mp3"
+      },
+      {
+        "th": "เธอ เรียน จบ แล้ว ทำงาน",
+        "romaji": "Thoe riian job láew, tham ngan",
+        "en": "You've already finished studying, then work.",
+        "grammar_audio": "/audio/thai/grammar/s_แล้ว_láew_-_Already_then_20231230_เธอ_เรียน_จบ_แล้ว_ทำงาน.mp3"
+      },
+      {
+        "th": "ผม ผ่าน การ สอบ แล้ว นี้ ผม จะ ไป เที่ยว",
+        "romaji": "Phom phaan kan sohp láew, nee phom ja bpai thio",
+        "en": "I've already passed the test, now I'll go travelling.",
+        "grammar_audio": "/audio/thai/grammar/s_แล้ว_láew_-_Already_then_20231230_ผม_ผ่าน_การ_สอบ_แล้ว_นี้_ผม_จะ_ไป_เที่ยว.mp3"
+      }
+    ],
+    "p_tag": "CU-TFL_1",
+    "s_tag": "25"
+  },
+  {
+    "title": "ที่ (thîi) - Which, that (Relative pronoun)",
+    "short_explanation": "A Thai relative pronoun used to introduce a relative clause in a sentence.",
+    "long_explanation": "'ที่ (thîi)' is a relative pronoun in Thai, acting similarly to 'which', 'that', 'who', or 'whom' in English. It is used to introduce a relative clause, providing more information about a noun mentioned previously. By using 'ที่ (thîi)', you can connect sentences or clauses together, contributing to the complexity of your expressions.",
+    "formation": "Noun + ที่ + Verb Phrase",
+    "examples": [
+      {
+        "th": "หนังสือ ที่ ฉัน อ่าน ตอนนี้ มี เรื่องราว ที่ น่าสนใจ",
+        "romaji": "Nang sue thîi chan an toon nii mee reuang rao thîi naa son jai",
+        "en": "The book that I am reading now has an interesting story.",
+        "grammar_audio": "/audio/thai/grammar/s_ที่_thîi_-_Which_that_Relative_pronoun_20231230_หนังสือ_ที่_ฉัน_อ่าน_ตอนนี้_มี_เรื่องราว_ที่_น่าสนใจ.mp3"
+      },
+      {
+        "th": "คน ที่ เรา ไว้ใจ บางครั้ง ก็ เดินหน้า ไป อยู่ แล้ว",
+        "romaji": "Kon thîi rao wai jai baang krang gor deon naa pai yuu laew",
+        "en": "The person whom we trust sometimes just moves on.",
+        "grammar_audio": "/audio/thai/grammar/s_ที่_thîi_-_Which_that_Relative_pronoun_20231230_คน_ที่_เรา_ไว้ใจ_บางครั้ง_ก็_เดินหน้า_ไป_อยู่_แล้ว.mp3"
+      },
+      {
+        "th": "ร้าน ที่ เรา เข้าไป ทาน ข้าว มักจะ มี อาหาร ที่ ดี",
+        "romaji": "Raan thîi rao khao pai than khao mak ja mee ahaan thîi dii",
+        "en": "The restaurant that we go to often has good food.",
+        "grammar_audio": "/audio/thai/grammar/s_ที่_thîi_-_Which_that_Relative_pronoun_20231230_ร้าน_ที่_เรา_เข้าไป_ทาน_ข้าว_มักจะ_มี_อาหาร_ที่_ดี.mp3"
+      },
+      {
+        "th": "มือถือ ที่ ฉัน ซื้อ มี คุณภาพ ที่ ดี",
+        "romaji": "Mue thue thîi chan sueu mee khun na phap thîi dii",
+        "en": "The mobile phone that I bought has good quality.",
+        "grammar_audio": "/audio/thai/grammar/s_ที่_thîi_-_Which_that_Relative_pronoun_20231230_มือถือ_ที่_ฉัน_ซื้อ_มี_คุณภาพ_ที่_ดี.mp3"
+      }
+    ],
+    "p_tag": "CU-TFL_1",
+    "s_tag": "25"
+  },
+  {
+    "title": "จะ (jà) - Will (Future marker)",
+    "short_explanation": "Used to denote the future or a future action.",
+    "long_explanation": "The term 'จะ (jà)' in Thai is a future tense marker. It is used before a verb to indicate a future occurrence of the action contained in that verb. Generally, 'จะ' is similar to the English term 'will'. It denotes the future intention or prediction of an action or state.",
+    "formation": "จะ + Verb / Adjective",
+    "examples": [
+      {
+        "th": "ฉัน จะ ไป ซื้อ ของ ใช้ หลังจาก ทำงาน วัน นี้",
+        "romaji": "Chan jà pai seu khong chai lang jàk tham-ngan wan ni",
+        "en": "I will go shopping after work today.",
+        "grammar_audio": "/audio/thai/grammar/s_จะ_jà_-_Will_Future_marker_20231230_ฉัน_จะ_ไป_ซื้อ_ของ_ใช้_หลังจาก_ทำงาน_วัน_นี้.mp3"
+      },
+      {
+        "th": "เขา ไม่ จะ มา งาน ปาร์ตี้ ของ เรา เพราะ ว่า เขา มี งาน อื่น ที่ ต้อง ทำ",
+        "romaji": "Khao mai jà ma ngan paati kong rao phro wa khao mee ngan euēn thi tong tham",
+        "en": "He will not come to our party because he has other work to do.",
+        "grammar_audio": "/audio/thai/grammar/s_จะ_jà_-_Will_Future_marker_20231230_เขา_ไม่_จะ_มา_งาน_ปาร์ตี้_ของ_เรา_เพราะ_ว่า_เขา_มี_งาน_อื่น_ที่_ต้อง_ทำ.mp3"
+      },
+      {
+        "th": "วัน พรุ่ง นี้ ฉัน จะ ดูแล แมว ของ ฉัน ด้วย ตัวเอง ทั้งวัน",
+        "romaji": "Wan phrung ni chan jà du lae maew kong chan duay tua-eng thang-wan",
+        "en": "Tomorrow, I will take care of my cat by myself all day.",
+        "grammar_audio": "/audio/thai/grammar/s_จะ_jà_-_Will_Future_marker_20231230_วัน_พรุ่ง_นี้_ฉัน_จะ_ดูแล_แมว_ของ_ฉัน_ด้วย_ตัวเอง_ทั้งวัน.mp3"
+      },
+      {
+        "th": "ผม จะ นำ รายงาน นี้ ไป ส่ง ให้ ผู้ บริหาร วัน พรุ่ง นี้",
+        "romaji": "Phom jà nam raay-ngan ni pai song hai phu bori-han wan phrung ni",
+        "en": "I will bring this report to the executive tomorrow.",
+        "grammar_audio": "/audio/thai/grammar/s_จะ_jà_-_Will_Future_marker_20231230_ผม_จะ_นำ_รายงาน_นี้_ไป_ส่ง_ให้_ผู้_บริหาร_วัน_พรุ่ง_นี้.mp3"
+      }
+    ],
+    "p_tag": "CU-TFL_1",
+    "s_tag": "25"
+  },
+  {
+    "title": "เป็น (pen) - To be (For nouns and adjectives)",
+    "short_explanation": "The term 'เป็น (pen)' is used to link subjects and predicates, similar to the English 'is'. It is used with nouns or adjectives.",
+    "long_explanation": "This grammar point 'เป็น (pen)' is used to link a subject and predicate in a sentence, serving as the equivalent Thai word for the English term 'is'. It is used with both nouns and adjectives. This word specifically helps in identifying, classifying, or describing things or people.",
+    "formation": "Subject + เป็น + Noun/Adjective",
+    "examples": [
+      {
+        "th": "เพื่อน ของ เธอ เป็น คน สุจริต",
+        "romaji": "Pheuan kong thoe pen kon su jarit",
+        "en": "Her friend is an honest person.",
+        "grammar_audio": "/audio/thai/grammar/s_เป็น_pen_-_To_be_For_nouns_and_adjectives_20231230_เพื่อน_ของ_เธอ_เป็น_คน_สุจริต.mp3"
+      },
+      {
+        "th": "ข้าว ที่ เรา ทาน เป็น ข้าว อินทรีย์",
+        "romaji": "Khao thi rao than pen khao in thrian",
+        "en": "The rice that we eat is organic rice.",
+        "grammar_audio": "/audio/thai/grammar/s_เป็น_pen_-_To_be_For_nouns_and_adjectives_20231230_ข้าว_ที่_เรา_ทาน_เป็น_ข้าว_อินทรีย์.mp3"
+      },
+      {
+        "th": "เขา เป็น นัก สู้สาย เครื่อง สู้สยาม เจ้าบ้าน",
+        "romaji": "Khao pen nak soo sai khruang soo sayam jao baan",
+        "en": "He is a traditional Siamese fighter.",
+        "grammar_audio": "/audio/thai/grammar/s_เป็น_pen_-_To_be_For_nouns_and_adjectives_20231230_เขา_เป็น_นัก_สู้สาย_เครื่อง_สู้สยาม_เจ้าบ้าน.mp3"
+      },
+      {
+        "th": "ห้อง ของ ฉัน เป็น ห้อง สี ฟ้า",
+        "romaji": "Hong kong chan pen hong see faa",
+        "en": "My room is blue.",
+        "grammar_audio": "/audio/thai/grammar/s_เป็น_pen_-_To_be_For_nouns_and_adjectives_20231230_ห้อง_ของ_ฉัน_เป็น_ห้อง_สี_ฟ้า.mp3"
+      }
+    ],
+    "p_tag": "CU-TFL_1",
+    "s_tag": "25"
+  },
+  {
+    "title": "มี (mii) - To have",
+    "short_explanation": "This verb means 'to have' or 'There is'. It indicates possession or existence.",
+    "long_explanation": "The term 'มี (mii)' is a very basic verb used in the Thai language to denote the state of possession or existence, much like the English verbs 'to have' or 'there is'. It is always followed by the object that is being had or exists. It can also be used to describe feelings or conditions.",
+    "formation": "Subject + มี + Object",
+    "examples": [
+      {
+        "th": "พี่ชาย ของ ฉัน มี เพื่อน ที่ ดี มาก",
+        "romaji": "Phi chai kong chan mii pheuan thi di maak",
+        "en": "My older brother has a lot of good friends.",
+        "grammar_audio": "/audio/thai/grammar/s_มี_mii_-_To_have_20231230_พี่ชาย_ของ_ฉัน_มี_เพื่อน_ที่_ดี_มาก.mp3"
+      },
+      {
+        "th": "ที่ โรงเรียน มี ครู ที่ ใจดี และ รู้ ใจ นักเรียน",
+        "romaji": "Thi rong rian mii khru thi jai dee lae ru jai nak rian",
+        "en": "There are teachers at school who are kind and understand the students well.",
+        "grammar_audio": "/audio/thai/grammar/s_มี_mii_-_To_have_20231230_ที่_โรงเรียน_มี_ครู_ที่_ใจดี_และ_รู้_ใจ_นักเรียน.mp3"
+      },
+      {
+        "th": "ฉัน มี ความสุข เมื่อ ดู อาทิตย์ ยาม เช้า",
+        "romaji": "Chan mii khwam suk meua du a-thit yam chao",
+        "en": "I feel happy when I look at the sun in the morning.",
+        "grammar_audio": "/audio/thai/grammar/s_มี_mii_-_To_have_20231230_ฉัน_มี_ความสุข_เมื่อ_ดู_อาทิตย์_ยาม_เช้า.mp3"
+      },
+      {
+        "th": "ฉัน มี แมว สอง ตัว ที่ บ้าน",
+        "romaji": "Chan mii maeo song tua thi ban",
+        "en": "I have two cats at home.",
+        "grammar_audio": "/audio/thai/grammar/s_มี_mii_-_To_have_20231230_ฉัน_มี_แมว_สอง_ตัว_ที่_บ้าน.mp3"
+      }
+    ],
+    "p_tag": "CU-TFL_1",
+    "s_tag": "25"
+  },
+  {
+    "title": "อยู่ (yùu) - To be (Location/Existence)",
+    "short_explanation": "Indicates current location or existence; 'to be'.",
+    "long_explanation": "The term 'อยู่ (yùu)' is used in Thai to indicate the current location of someone or something, or the existence of someone or something. Similar to the English verb 'to be', it is used to connect the subject of a sentence to the place or situation it is in. This term is typically used in statements to describe a present condition or situation. It can be used with a wide range of nouns and pronouns, making it a versatile and essential part of Thai language structure.",
+    "formation": "Subject + อยู่ + Location/Condition",
+    "examples": [
+      {
+        "th": "เขา อยู่ ที่ บ้าน ตอนนี้",
+        "romaji": "Khao yùu thi bâan dtawn-níi",
+        "en": "He is at home right now.",
+        "grammar_audio": "/audio/thai/grammar/s_อยู่_yùu_-_To_be_Location/Existence_20231230_เขา_อยู่_ที่_บ้าน_ตอนนี้.mp3"
+      },
+      {
+        "th": "วันนี้ ฉัน อยู่ ที่ มหาวิทยาลัย",
+        "romaji": "Wan-níi chăn yùu thi máhăa-wítthá-yaa-lai",
+        "en": "Today, I am at the university.",
+        "grammar_audio": "/audio/thai/grammar/s_อยู่_yùu_-_To_be_Location/Existence_20231230_วันนี้_ฉัน_อยู่_ที่_มหาวิทยาลัย.mp3"
+      },
+      {
+        "th": "เรา อยู่ บน กองทัพ เรือ ของ สหรัฐ",
+        "romaji": "Rao yùu bon gawng-tháp ruea kăwng Sàh-rát",
+        "en": "We are on the United States fleet.",
+        "grammar_audio": "/audio/thai/grammar/s_อยู่_yùu_-_To_be_Location/Existence_20231230_เรา_อยู่_บน_กองทัพ_เรือ_ของ_สหรัฐ.mp3"
+      },
+      {
+        "th": "วัย อยู่ ใน อาคาร สูง ริม แม่น้ำ",
+        "romaji": "Wai yùu nai aa-kaan soong rim mae-nam",
+        "en": "Wai is in a tall building by the river.",
+        "grammar_audio": "/audio/thai/grammar/s_อยู่_yùu_-_To_be_Location/Existence_20231230_วัย_อยู่_ใน_อาคาร_สูง_ริม_แม่น้ำ.mp3"
+      }
+    ],
+    "p_tag": "CU-TFL_1",
+    "s_tag": "25"
+  },
+  {
+    "title": "ก่อน (gòn) - Before",
+    "short_explanation": "Indicate the action that occurred before another action or event.",
+    "long_explanation": "The word 'ก่อน (gòn)' is used in Thai to represent the English word 'before'. It is used to indicate that one action or event happened before another. It is typically placed after a verb or a clause to denote the action that took place prior to the main verb or clause of the sentence.",
+    "formation": "Verb/Clause + ก่อน",
+    "examples": [
+      {
+        "th": "บอก ให้ ฉัน ทราบ ก่อน ที่ จะ ทำ ปัญหา ให้ ฉัน",
+        "romaji": "Bok hai chan traab gòn thi ja tham pan-ha hai chan",
+        "en": "Let me know before making trouble for me.",
+        "grammar_audio": "/audio/thai/grammar/s_ก่อน_gòn_-_Before_20231230_บอก_ให้_ฉัน_ทราบ_ก่อน_ที่_จะ_ทำ_ปัญหา_ให้_ฉัน.mp3"
+      },
+      {
+        "th": "เธอ ควร นอน ก่อน เวลา 10 ทุ่ม ทุกวัน",
+        "romaji": "Thoe khuan non gòn we-la sip thum thuk wan",
+        "en": "You should sleep before 10 PM every day.",
+        "grammar_audio": "/audio/thai/grammar/s_ก่อน_gòn_-_Before_20231230_เธอ_ควร_นอน_ก่อน_เวลา_10_ทุ่ม_ทุกวัน.mp3"
+      },
+      {
+        "th": "ฉัน ต้อง ทำการบ้าน ก่อน ที่ จะ ไป สนามฟุตบอล",
+        "romaji": "Chan tong tham kan baan gòn thi ja pai sanam fut bon",
+        "en": "I have to do my homework before going to the football field.",
+        "grammar_audio": "/audio/thai/grammar/s_ก่อน_gòn_-_Before_20231230_ฉัน_ต้อง_ทำการบ้าน_ก่อน_ที่_จะ_ไป_สนามฟุตบอล.mp3"
+      },
+      {
+        "th": "อย่า ออก จาก บ้าน ก่อน ที่ ฉัน กลับ มา",
+        "romaji": "Ya ok jak baan gòn thi chan glap ma",
+        "en": "Don't leave the house before I come back.",
+        "grammar_audio": "/audio/thai/grammar/s_ก่อน_gòn_-_Before_20231230_อย่า_ออก_จาก_บ้าน_ก่อน_ที่_ฉัน_กลับ_มา.mp3"
+      }
+    ],
+    "p_tag": "CU-TFL_1",
+    "s_tag": "25"
+  },
+  {
+    "title": "หลัง (lǎng) - After",
+    "short_explanation": "Used to indicate a sequence of events or that one action follows another.",
+    "long_explanation": "The Thai word 'หลัง (lǎng)' is used to denote the sequence in which actions take place. It is similar to the English word 'after', indicating that one event occurs after another. It is typically used before verbs and can be used in a wide range of sentences to express the chronological order of events.",
+    "formation": "First action + หลัง + Second action",
+    "examples": [
+      {
+        "th": "หลัง จาก ที่ เรียน เสร็จ เขา กิน ข้าว",
+        "romaji": "Lang jak thi rian set, khao gin khao",
+        "en": "After he finished studying, he ate.",
+        "grammar_audio": "/audio/thai/grammar/s_หลัง_lǎng_-_After_20231230_หลัง_จาก_ที่_เรียน_เสร็จ_เขา_กิน_ข้าว.mp3"
+      },
+      {
+        "th": "เธอ ทำการบ้าน หลัง จาก ที่ กลับ บ้าน",
+        "romaji": "Thoe tham kan baan lang jak thi glap baan",
+        "en": "She does her homework after coming home.",
+        "grammar_audio": "/audio/thai/grammar/s_หลัง_lǎng_-_After_20231230_เธอ_ทำการบ้าน_หลัง_จาก_ที่_กลับ_บ้าน.mp3"
+      },
+      {
+        "th": "ผม ไป ออกกำลังกาย ใน โรง ยิม หลัง จาก ทำงาน",
+        "romaji": "Phom pai ok kam lang gai nai roong yim lang jak tham ngan",
+        "en": "I go to workout at the gym after work.",
+        "grammar_audio": "/audio/thai/grammar/s_หลัง_lǎng_-_After_20231230_ผม_ไป_ออกกำลังกาย_ใน_โรง_ยิม_หลัง_จาก_ทำงาน.mp3"
+      },
+      {
+        "th": "เขา ส่ง อีเมล์ หลัง จาก ประชุม เสร็จ",
+        "romaji": "Khao song i mel lang jak prachum set",
+        "en": "He sends an email after the meeting is over.",
+        "grammar_audio": "/audio/thai/grammar/s_หลัง_lǎng_-_After_20231230_เขา_ส่ง_อีเมล์_หลัง_จาก_ประชุม_เสร็จ.mp3"
+      }
+    ],
+    "p_tag": "CU-TFL_1",
+    "s_tag": "25"
+  },
+  {
+    "title": "ถ้า (thâa) - If",
+    "short_explanation": "Used to form conditional statements; 'if'.",
+    "long_explanation": "The word 'ถ้า (thâa)' is used in Thai to form conditional or 'if' clauses, similar to how 'if' is used in English. It is a conjunction that introduces a condition or requirement in a sentence. It is commonly placed at the beginning of a sentence to set up a condition that is addressed in the main clause of the sentence.",
+    "formation": "ถ้า + Condition, Main Clause",
+    "examples": [
+      {
+        "th": "ถ้า ฉัน มีเงิน ฉัน จะ ซื้อ รถ ใหม่",
+        "romaji": "Thâa chan mee ngern, chan ja sue rot mai",
+        "en": "If I have money, I will buy a new car.",
+        "grammar_audio": "/audio/thai/grammar/s_ถ้า_thâa_-_If_20231230_ถ้า_ฉัน_มีเงิน_ฉัน_จะ_ซื้อ_รถ_ใหม่.mp3"
+      },
+      {
+        "th": "ถ้า คุณ ง่วง ควร ไป นอน",
+        "romaji": "Thâa khun nguang, khuan pai non",
+        "en": "If you are sleepy, you should go to bed.",
+        "grammar_audio": "/audio/thai/grammar/s_ถ้า_thâa_-_If_20231230_ถ้า_คุณ_ง่วง_ควร_ไป_นอน.mp3"
+      },
+      {
+        "th": "ฉัน จะ ไป ทะเล ถ้า มี เวลา",
+        "romaji": "Chan ja pai thale thâa mee wela",
+        "en": "I will go to the sea if I have time.",
+        "grammar_audio": "/audio/thai/grammar/s_ถ้า_thâa_-_If_20231230_ฉัน_จะ_ไป_ทะเล_ถ้า_มี_เวลา.mp3"
+      },
+      {
+        "th": "ถ้า ฝน ตก ฉัน จะ ไม่ ออกจากบ้าน",
+        "romaji": "Thâa fon tok, chan ja mai ok jak baan",
+        "en": "If it rains, I will not leave the house.",
+        "grammar_audio": "/audio/thai/grammar/s_ถ้า_thâa_-_If_20231230_ถ้า_ฝน_ตก_ฉัน_จะ_ไม่_ออกจากบ้าน.mp3"
+      }
+    ],
+    "p_tag": "CU-TFL_1",
+    "s_tag": "25"
+  },
+  {
+    "title": "เมื่อ (mûea) - When",
+    "short_explanation": "Indicates an instance, or specific point in time; 'when'.",
+    "long_explanation": "The term 'เมื่อ (mûea)' is used in Thai to indicate a specific point in time or a specific instance, similar to the English 'when'. It is used at the beginning of a sentence to indicate the time when something happens. It can be used to refer to the past, present, or future, depending on the context of sentence.",
+    "formation": "เมื่อ + Time/Event + Statement",
+    "examples": [
+      {
+        "th": "เมื่อ ฉัน เดิน เข้า เมือง แล้ว ฉัน ต้อง หา ที่ พัก",
+        "romaji": "Mûea chan deon kao mueang laeo, chan dtong ha thi pak",
+        "en": "When I arrive in the city, I have to find a place to stay.",
+        "grammar_audio": "/audio/thai/grammar/s_เมื่อ_mûea_-_When_20231230_เมื่อ_ฉัน_เดิน_เข้า_เมือง_แล้ว_ฉัน_ต้อง_หา_ที่_พัก.mp3"
+      },
+      {
+        "th": "เมื่อ กิน อาหาร แล้ว คุณ จะ รู้สึก ดี ขึ้น",
+        "romaji": "Mûea gin ahaan laeo, khun ja roo seuk dee kuen",
+        "en": "When you eat, you will feel better.",
+        "grammar_audio": "/audio/thai/grammar/s_เมื่อ_mûea_-_When_20231230_เมื่อ_กิน_อาหาร_แล้ว_คุณ_จะ_รู้สึก_ดี_ขึ้น.mp3"
+      },
+      {
+        "th": "เมื่อ ฝน ตก ต้อง ใช้ ร่ม",
+        "romaji": "Mûea fon dtok, dtong chai rom",
+        "en": "When it rains, one must use an umbrella.",
+        "grammar_audio": "/audio/thai/grammar/s_เมื่อ_mûea_-_When_20231230_เมื่อ_ฝน_ตก_ต้อง_ใช้_ร่ม.mp3"
+      },
+      {
+        "th": "เมื่อ คุณ มี เวลา ว่าง คุณ ชอบ ทำ อะไร",
+        "romaji": "Mûea khun mee welaa waang, khun chop tham a-rai",
+        "en": "When you have free time, what do you like to do?",
+        "grammar_audio": "/audio/thai/grammar/s_เมื่อ_mûea_-_When_20231230_เมื่อ_คุณ_มี_เวลา_ว่าง_คุณ_ชอบ_ทำ_อะไร.mp3"
+      }
+    ],
+    "p_tag": "CU-TFL_1",
+    "s_tag": "25"
+  },
+  {
+    "title": "ทำไม (tham-mai) - Why",
+    "short_explanation": "This word is used to ask 'why' or 'for what reason' in Thai.",
+    "long_explanation": "The term 'ทำไม (tham-mai)' is a question word in Thai language, equivalent to the English 'why'. It is commonly used to ask for reasons, motivations, or causes of an event or situation. It is generally placed at the beginning of a sentence to form a question, followed by the action or situation that is being questioned.",
+    "formation": "ทำไม + Statement",
+    "examples": [
+      {
+        "th": "ทำไมคุณอยู่ที่นี่",
+        "romaji": "Tham-mai khun yu thi ni",
+        "en": "Why are you here?",
+        "grammar_audio": "/audio/thai/grammar/s_ทำไม_tham-mai_-_Why_20231230_ทำไมคุณอยู่ที่นี่.mp3"
+      },
+      {
+        "th": "ทำไมเธอเป็นเพื่อนที่ดีของฉัน",
+        "romaji": "Tham-mai thoe pen pheuan thi di kong chan",
+        "en": "Why are you my good friend?",
+        "grammar_audio": "/audio/thai/grammar/s_ทำไม_tham-mai_-_Why_20231230_ทำไมเธอเป็นเพื่อนที่ดีของฉัน.mp3"
+      },
+      {
+        "th": "ทำไมเขาทำงานอย่างหนัก",
+        "romaji": "Tham-mai Khao tham ngan yang nak",
+        "en": "Why does he work so hard?",
+        "grammar_audio": "/audio/thai/grammar/s_ทำไม_tham-mai_-_Why_20231230_ทำไมเขาทำงานอย่างหนัก.mp3"
+      },
+      {
+        "th": "ทำไมผมต้องพยายามทำให้ดีที่สุด",
+        "romaji": "Tham-mai Phom tong pha-yam tam hai dee thi sut",
+        "en": "Why do I have to try to do my best?",
+        "grammar_audio": "/audio/thai/grammar/s_ทำไม_tham-mai_-_Why_20231230_ทำไมผมต้องพยายามทำให้ดีที่สุด.mp3"
+      }
+    ],
+    "p_tag": "CU-TFL_1",
+    "s_tag": "25"
+  },
+  {
+    "title": "ให้ (hâi) - To give, let, for",
+    "short_explanation": "Used as a verb 'to give', and also as a preposition 'for' or a conjunction 'so that'. It also indicates permission 'let'.",
+    "long_explanation": "'ให้ (hâi)' in Thai has various functions: it can serve as a verb meaning 'to give', as a preposition that means 'for', or as a conjunction 'so that'. It's also used to express the idea of permission or enablement, similar to 'let' or 'allow' in English. Placement in a sentence depends on the role it's playing, but when used as a verb, it typically follows the subject.",
+    "formation": "Subject + ให้ + Object (when used as a verb), ให้ + Subject + Verb (when used to express permission)",
+    "examples": [
+      {
+        "th": "แม่ ให้ ผม น้ำ ดื่ม",
+        "romaji": "Mae hâi phom nam duem",
+        "en": "Mom gave me water to drink.",
+        "grammar_audio": "/audio/thai/grammar/s_ให้_hâi_-_To_give_let_for_20231230_แม่_ให้_ผม_น้ำ_ดื่ม.mp3"
+      },
+      {
+        "th": "ครู ให้ นักเรียน เขียน บทความ ภาษา ไทย",
+        "romaji": "Khru hâi nakrian khian botkhawam phasa Thai",
+        "en": "The teacher gave the students a task to write a Thai language article.",
+        "grammar_audio": "/audio/thai/grammar/s_ให้_hâi_-_To_give_let_for_20231230_ครู_ให้_นักเรียน_เขียน_บทความ_ภาษา_ไทย.mp3"
+      },
+      {
+        "th": "ฉัน จะ ให้ น้องสาว ไป ซื้อ ของ ให้",
+        "romaji": "Chan ja hâi nong sao pai seu khong hâi",
+        "en": "I will let my younger sister go shopping for me.",
+        "grammar_audio": "/audio/thai/grammar/s_ให้_hâi_-_To_give_let_for_20231230_ฉัน_จะ_ให้_น้องสาว_ไป_ซื้อ_ของ_ให้.mp3"
+      },
+      {
+        "th": "ผม ให้ ลูก ไป หา คุณครู",
+        "romaji": "Phom hâi luk pai ha khun khru",
+        "en": "I let my child go to the teacher.",
+        "grammar_audio": "/audio/thai/grammar/s_ให้_hâi_-_To_give_let_for_20231230_ผม_ให้_ลูก_ไป_หา_คุณครู.mp3"
+      }
+    ],
+    "p_tag": "CU-TFL_1",
+    "s_tag": "25"
+  },
+  {
+    "title": "ไป (pai) - To go",
+    "short_explanation": "Indicates motion towards some place or some future point; 'to go'.",
+    "long_explanation": "The term 'ไป (pai)' is a basic action verb in Thai language, equivalent to the English 'to go'. It describes the action of moving from one place to another or proceeding with an action with an implied direction. Apart from its literal meaning, it can also be used to express time aspect when placed after a verb, indicating a complete action in the past.",
+    "formation": "Subject + ไป + Location / Verb + ไป",
+    "examples": [
+      {
+        "th": "เหมือนกับ ว่า เธอ กำลัง ยิ้ม ไป ที่ ฉัน แบบ นั้น",
+        "romaji": "Meuan kap wa thoe kam lang yim pai thi chan baeap nan",
+        "en": "It seems like you are smiling at me like that.",
+        "grammar_audio": "/audio/thai/grammar/s_ไป_pai_-_To_go_20231230_เหมือนกับ_ว่า_เธอ_กำลัง_ยิ้ม_ไป_ที่_ฉัน_แบบ_นั้น.mp3"
+      },
+      {
+        "th": "เขา จะ ไป ตัดผม ใน คืน นี้",
+        "romaji": "Khao ja pai tat phom nai keun ni",
+        "en": "He will go to get his hair cut tonight.",
+        "grammar_audio": "/audio/thai/grammar/s_ไป_pai_-_To_go_20231230_เขา_จะ_ไป_ตัดผม_ใน_คืน_นี้.mp3"
+      },
+      {
+        "th": "ไม่มี ความ เข้าใจ ที่ จะ คุย ไป",
+        "romaji": "Mai mee khwam khao jai thi ja khuy pai",
+        "en": "There is no understanding to continue the conversation.",
+        "grammar_audio": "/audio/thai/grammar/s_ไป_pai_-_To_go_20231230_ไม่มี_ความ_เข้าใจ_ที่_จะ_คุย_ไป.mp3"
+      },
+      {
+        "th": "เมื่อ ฉัน ไป ร้าน ซักรีด ฉัน ได้รับ เสื้อ ที่ ฉัน ไม่ เคย เห็น มาก่อน",
+        "romaji": "Muea chan pai raan sak rit, chan dai rap seu thi chan mai koey hen maakorn",
+        "en": "When I went to the laundry shop, I received a shirt that I had never seen before.",
+        "grammar_audio": "/audio/thai/grammar/s_ไป_pai_-_To_go_20231230_เมื่อ_ฉัน_ไป_ร้าน_ซักรีด_ฉัน_ได้รับ_เสื้อ_ที่_ฉัน_ไม่_เคย_เห็น_มาก่อน.mp3"
+      }
+    ],
+    "p_tag": "CU-TFL_1",
+    "s_tag": "25"
+  },
+  {
+    "title": "มา (maa) - To come",
+    "short_explanation": "Signifies the action of coming or moving towards the speaker, similar to the English 'to come'.",
+    "long_explanation": "The term 'มา (maa)' is used in Thai to denote the action of moving towards the speaker or the object of discussion, similar to the action verb 'to come' in English. It can be used alone as a main verb, or in conjunction with another verb to clarify direction where the action is headed towards the speaker. It's a core verb that is commonly used in numerous situations or contexts.",
+    "formation": "Subject + มา",
+    "examples": [
+      {
+        "th": "เธอ มา ที่ นี่ โดย รถ เมล์ หรือ รถไฟ ?",
+        "romaji": "Thoe maa thi nii doai rot meel rue rot fai?",
+        "en": "Did you come here by bus or train?",
+        "grammar_audio": "/audio/thai/grammar/s_มา_maa_-_To_come_20231230_เธอ_มา_ที่_นี่_โดย_รถ_เมล์_หรือ_รถไฟ_.mp3"
+      },
+      {
+        "th": "เรา ควร จะ มา พบ กัน อีก ครั้ง หนึ่ง ถ้า มี โอกาส",
+        "romaji": "Rao khuan ja maa phop gan eek krang neung thaa mee okat",
+        "en": "We should come to meet each other again if there's a chance.",
+        "grammar_audio": "/audio/thai/grammar/s_มา_maa_-_To_come_20231230_เรา_ควร_จะ_มา_พบ_กัน_อีก_ครั้ง_หนึ่ง_ถ้า_มี_โอกาส.mp3"
+      },
+      {
+        "th": "พ่อ และ แม่ ของ ฉัน จะ มา เยี่ยม ฉัน ที่ แบงค์ค็อก ใน สัปดาห์ หน้า",
+        "romaji": "Phaw lae mae kong chan ja maa yi-yam chan thi baeng kok nai sap-daa naa",
+        "en": "My father and mother will come to visit me in Bangkok next week.",
+        "grammar_audio": "/audio/thai/grammar/s_มา_maa_-_To_come_20231230_พ่อ_และ_แม่_ของ_ฉัน_จะ_มา_เยี่ยม_ฉัน_ที่_แบงค์ค็อก_ใน_สัปดาห์_หน้า.mp3"
+      },
+      {
+        "th": "เพื่อน ฉัน มา เยี่ยม ฉัน ได้ เป็น ครั้ง คราว",
+        "romaji": "Pheuan chan maa yi-yam chan dai pen krang krao",
+        "en": "My friend comes to visit me occasionally.",
+        "grammar_audio": "/audio/thai/grammar/s_มา_maa_-_To_come_20231230_เพื่อน_ฉัน_มา_เยี่ยม_ฉัน_ได้_เป็น_ครั้ง_คราว.mp3"
+      }
+    ],
+    "p_tag": "CU-TFL_1",
+    "s_tag": "25"
+  },
+  {
+    "title": "ได้ (dâi) - Can, to get",
+    "short_explanation": "Expresses ability, possibility, or obtaining something; 'can', 'to get'.",
+    "long_explanation": "The term 'ได้ (dâi)' is widely used in Thai to indicate ability or possibility, similar to the English 'can'. Alternatively, it can also mean 'to get' something. It is normally situated before the main verb in a sentence. When denoting ability, the typical formation is subject + ได้ + verb, and for conveying the sense of 'to get', the pattern is subject + verb + object + ได้.",
+    "formation": "Subject + ได้ + Verb (for ability) / Subject + Verb + Object + ได้ (for obtaining)",
+    "examples": [
+      {
+        "th": "ฉัน ได้ รับ อีเมล จาก ผู้ จัดการ ของ ฉัน เมื่อ เช้า",
+        "romaji": "Chan dâi rap email jak phu chat kan kong chan meua chao",
+        "en": "I got an email from my manager this morning.",
+        "grammar_audio": "/audio/thai/grammar/s_ได้_dâi_-_Can_to_get_20231230_ฉัน_ได้_รับ_อีเมล_จาก_ผู้_จัดการ_ของ_ฉัน_เมื่อ_เช้า.mp3"
+      },
+      {
+        "th": "เขา ไม่ ได้ มา โรงเรียน วันนี้ ทั้งนั้น เพราะ ว่า เขา ป่วย",
+        "romaji": "Khao mai dai ma roong rien wan nee thang nan phro wa khao puy",
+        "en": "He didn't come to school today because he was sick.",
+        "grammar_audio": "/audio/thai/grammar/s_ได้_dâi_-_Can_to_get_20231230_เขา_ไม่_ได้_มา_โรงเรียน_วันนี้_ทั้งนั้น_เพราะ_ว่า_เขา_ป่วย.mp3"
+      },
+      {
+        "th": "เรา สามารถ ไป ท่องเที่ยว ต่างประเทศ ได้ หลังจาก ที่ วัคซีน ผ่าน การ อนุมัติ",
+        "romaji": "Rao sa-mart pai thong thiao taang prathet dai lang jak thi wak seen pan kan a-nu-mat",
+        "en": "We can travel abroad once the vaccine is approved.",
+        "grammar_audio": "/audio/thai/grammar/s_ได้_dâi_-_Can_to_get_20231230_เรา_สามารถ_ไป_ท่องเที่ยว_ต่างประเทศ_ได้_หลังจาก_ที่_วัคซีน_ผ่าน_การ_อนุมัติ.mp3"
+      },
+      {
+        "th": "นุช ซื้อ ชุด ใหม่ ได้ จาก ร้าน ที่ ตั้ง อยู่ ใกล้ บ้าน",
+        "romaji": "Nuch seu chut mai dai jak raan thi tang yu glai ban",
+        "en": "Nuch was able to buy a new dress from a shop near her house.",
+        "grammar_audio": "/audio/thai/grammar/s_ได้_dâi_-_Can_to_get_20231230_นุช_ซื้อ_ชุด_ใหม่_ได้_จาก_ร้าน_ที่_ตั้ง_อยู่_ใกล้_บ้าน.mp3"
+      }
+    ],
+    "p_tag": "CU-TFL_1",
+    "s_tag": "25"
+  },
+  {
+    "title": "ขอ (khǒr) - To request, to ask for",
+    "short_explanation": "This is a verb used in making a request or asking for something.",
+    "long_explanation": "'ขอ (khǒr)' is a common Thai word used in the context of requesting or asking for something. This word is positioned after the subject and before the object that the subject is requesting. It can be used to ask for both tangible (like food, items) and non-tangible (like help, permission) things. It could also express the idea of wanting or wishing for something.",
+    "formation": "Subject + ขอ + Object",
+    "examples": [
+      {
+        "th": "ฉัน ขอ แก้ว น้ำ หนึ่ง แก้ว ค่ะ",
+        "romaji": "Chan khǒr kaew nam nung kaew kha",
+        "en": "I would like a glass of water, please.",
+        "grammar_audio": "/audio/thai/grammar/s_ขอ_khǒr_-_To_request_to_ask_for_20231230_ฉัน_ขอ_แก้ว_น้ำ_หนึ่ง_แก้ว_ค่ะ.mp3"
+      },
+      {
+        "th": "ท่าน ขอ อนุญาต ไป พัก ได้ ไหม ครับ",
+        "romaji": "Than khǒr a-nuyat pai pak dai mai khrap",
+        "en": "May I request permission to take a rest?",
+        "grammar_audio": "/audio/thai/grammar/s_ขอ_khǒr_-_To_request_to_ask_for_20231230_ท่าน_ขอ_อนุญาต_ไป_พัก_ได้_ไหม_ครับ.mp3"
+      },
+      {
+        "th": "เขา ขอ โทษ ฉัน ที่ ทำ ผิด",
+        "romaji": "Khao khǒr thot chan thi tham phit",
+        "en": "He asked me for forgiveness for his mistake.",
+        "grammar_audio": "/audio/thai/grammar/s_ขอ_khǒr_-_To_request_to_ask_for_20231230_เขา_ขอ_โทษ_ฉัน_ที่_ทำ_ผิด.mp3"
+      },
+      {
+        "th": "เธอ ขอ แว่นตา ที่ อยู่ บน โต๊ะ ของ ฉัน",
+        "romaji": "Thoe khǒr waen ta thi yu bon to kong chan",
+        "en": "She asked for my glasses that are on the table.",
+        "grammar_audio": "/audio/thai/grammar/s_ขอ_khǒr_-_To_request_to_ask_for_20231230_เธอ_ขอ_แว่นตา_ที่_อยู่_บน_โต๊ะ_ของ_ฉัน.mp3"
+      }
+    ],
+    "p_tag": "CU-TFL_1",
+    "s_tag": "25"
+  },
+  {
+    "title": "นี่ (nîi) - This",
+    "short_explanation": "It's used as a demonstrative pronoun to indicate 'this' or 'these'.",
+    "long_explanation": "The term 'นี่ (nîi)' is commonly used in Thai to indicate 'this' or 'these' in reference to something that is close to the speaker in physical or psychological distance. It's used to refer to people or things that are in the immediate environment of the speaker or are being discussed or thought about. This can also be used when introducing something or someone, or to specify a particular thing or person out of a group.",
+    "formation": "นี่ + noun",
+    "examples": [
+      {
+        "th": "นี่ คือ หนังสือ ที่ ฉัน อ่าน อยู่",
+        "romaji": "nîi keu nang-sue thi chan an yù",
+        "en": "This is the book I'm reading.",
+        "grammar_audio": "/audio/thai/grammar/s_นี่_nîi_-_This_20231230_นี่_คือ_หนังสือ_ที่_ฉัน_อ่าน_อยู่.mp3"
+      },
+      {
+        "th": "นี่ คือ ร้าน ขนม ที่ ฉัน ชอบ มากที่สุด",
+        "romaji": "nîi keu raan khanom thi chan chob mak thi sut",
+        "en": "This is the dessert shop I like the most.",
+        "grammar_audio": "/audio/thai/grammar/s_นี่_nîi_-_This_20231230_นี่_คือ_ร้าน_ขนม_ที่_ฉัน_ชอบ_มากที่สุด.mp3"
+      },
+      {
+        "th": "นี่ คือ แม่ ของ ฉัน",
+        "romaji": "nîi keu mae kong chan",
+        "en": "This is my mother.",
+        "grammar_audio": "/audio/thai/grammar/s_นี่_nîi_-_This_20231230_นี่_คือ_แม่_ของ_ฉัน.mp3"
+      },
+      {
+        "th": "นี่ คือ สิ่ง ที่ ฉัน ต้องการ จาก คุณ",
+        "romaji": "nîi keu sing thi chan tong-kan jak khun",
+        "en": "This is what I want from you.",
+        "grammar_audio": "/audio/thai/grammar/s_นี่_nîi_-_This_20231230_นี่_คือ_สิ่ง_ที่_ฉัน_ต้องการ_จาก_คุณ.mp3"
+      }
+    ],
+    "p_tag": "CU-TFL_1",
+    "s_tag": "50"
+  },
+  {
+    "title": "นั้น (nán) - That",
+    "short_explanation": "Used to refer to a specific thing or person mentioned before; 'that'.",
+    "long_explanation": "The term 'นั้น (nán)' is a fundamental part of Thai language and works as a demonstrative pronoun. It essentially means 'that' and is commonly used to refer back to something or someone that has been previously mentioned, or is already known to the speaker and listener. It provides context and clarity and is used to ensure that communication is precise and understood.",
+    "formation": "Noun + นั้น",
+    "examples": [
+      {
+        "th": "เมื่อ วัน พรุ่ง นี้ คุณ จะ ไป ที่ สถานที่ นั้น อีก หรือ ไม่",
+        "romaji": "Muea wan phrung ni, khun ja pai thi sathani thi nán eek rue mai",
+        "en": "Will you go to that place again tomorrow?",
+        "grammar_audio": "/audio/thai/grammar/s_นั้น_nán_-_That_20231230_เมื่อ_วัน_พรุ่ง_นี้_คุณ_จะ_ไป_ที่_สถานที่_นั้น_อีก_หรือ_ไม่.mp3"
+      },
+      {
+        "th": "เขารัก หนังสือ นั้น มาก จน ไม่ สามารถ หยุด การ อ่าน",
+        "romaji": "Khao rak nang sue nán mak jon mai sa mar rat yut kan an",
+        "en": "He loves that book so much that he cannot stop reading it.",
+        "grammar_audio": "/audio/thai/grammar/s_นั้น_nán_-_That_20231230_เขารัก_หนังสือ_นั้น_มาก_จน_ไม่_สามารถ_หยุด_การ_อ่าน.mp3"
+      },
+      {
+        "th": "ร้าน อาหาร นั้น หลากหลาย มาก ด้วย อาหาร จาก ทั่ว โลก",
+        "romaji": "Ran ahan nán lak lai mak duay ahan jak thua lok",
+        "en": "That restaurant is very diverse with food from all over the world.",
+        "grammar_audio": "/audio/thai/grammar/s_นั้น_nán_-_That_20231230_ร้าน_อาหาร_นั้น_หลากหลาย_มาก_ด้วย_อาหาร_จาก_ทั่ว_โลก.mp3"
+      },
+      {
+        "th": "คน รุ่น ใหม่ อาจ ไม่ รู้จัก ดารา นั้น ซึ่ง เป็น ดารา หนัง ยุค 70 ",
+        "romaji": "Kon run mai arat mai ru jak dara nán seung pen dara nang yuk 70",
+        "en": "The new generation may not know that actor who is a movie star from the 70s.",
+        "grammar_audio": "/audio/thai/grammar/s_นั้น_nán_-_That_20231230_คน_รุ่น_ใหม่_อาจ_ไม่_รู้จัก_ดารา_นั้น_ซึ่ง_เป็น_ดารา_หนัง_ยุค_70_.mp3"
+      }
+    ],
+    "p_tag": "CU-TFL_1",
+    "s_tag": "50"
+  },
+  {
+    "title": "นี้ (níi) - Here",
+    "short_explanation": "Used to refer to something that is physically or conceptually 'here' or 'this'.",
+    "long_explanation": "The term 'นี้ (níi)' is commonly used in Thai to refer to something that is physically or conceptually close to the speaker, similar to the English 'here' or 'this'. It is used to specify a particular object or person in immediate proximity or the idea currently being discussed.",
+    "formation": "<Noun or Pronoun> + นี้",
+    "examples": [
+      {
+        "th": "แมว นี้ น่ารัก มาก ค่ะ",
+        "romaji": "Maeo níi naa-rak maak kha",
+        "en": "This cat is very cute.",
+        "grammar_audio": "/audio/thai/grammar/s_นี้_níi_-_Here_20231230_แมว_นี้_น่ารัก_มาก_ค่ะ.mp3"
+      },
+      {
+        "th": "หนังสือ นี้ เขียน โดย ซา ลิ่ง เกอร์",
+        "romaji": "Nang-sue níi khiian dooy sa ling ger",
+        "en": "This book is written by Salinger.",
+        "grammar_audio": "/audio/thai/grammar/s_นี้_níi_-_Here_20231230_หนังสือ_นี้_เขียน_โดย_ซา_ลิ่ง_เกอร์.mp3"
+      },
+      {
+        "th": "ร้าน อาหาร นี้ อยู่ ใกล้ ที่ ฉัน อยู่",
+        "romaji": "Raan aa-haan níi yoo glai thi chan yoo",
+        "en": "This restaurant is close to where I live.",
+        "grammar_audio": "/audio/thai/grammar/s_นี้_níi_-_Here_20231230_ร้าน_อาหาร_นี้_อยู่_ใกล้_ที่_ฉัน_อยู่.mp3"
+      },
+      {
+        "th": "ค่ะ คุณ สามารถ คลิก ที่ ลิงค์ นี้ ได้",
+        "romaji": "Kha, khun sa-mart klick thi link níi dai",
+        "en": "Yes, you can click on this link.",
+        "grammar_audio": "/audio/thai/grammar/s_นี้_níi_-_Here_20231230_ค่ะ_คุณ_สามารถ_คลิก_ที่_ลิงค์_นี้_ได้.mp3"
+      }
+    ],
+    "p_tag": "CU-TFL_1",
+    "s_tag": "50"
+  },
+  {
+    "title": "ทาง (thaang) - Way, direction",
+    "short_explanation": "Used to indicate the way or direction something is done or the way to go somewhere.",
+    "long_explanation": "ทาง (thaang) is a common term in Thai that, for our purposes, is used to refer to the way or direction in which something is done, or the way to reach a certain place. It is comparable to the English words 'way' or 'direction'. In Thai, ทาง is usually used with various verbs to indicate the method of doing something or the route to a location.",
+    "formation": "ทาง + Verb (to indicate the way of doing something) / ทางไป + Location (to indicate the way to a place)",
+    "examples": [
+      {
+        "th": "ทาง ทำปลานิล ทอด มัน ที่ ท่าน ว่า เรียบร้อย",
+        "romaji": "Thaang tham pla nil thot man thi than wa riyab roi",
+        "en": "The way to fry tilapia as you said is straightforward.",
+        "grammar_audio": "/audio/thai/grammar/s_ทาง_thaang_-_Way_direction_20231230_ทาง_ทำปลานิล_ทอด_มัน_ที่_ท่าน_ว่า_เรียบร้อย.mp3"
+      },
+      {
+        "th": "ใช้ ทางนี้ ไป ด่าน ตรวจ หรือ ไม่",
+        "romaji": "Chai thaang nii pai dan truat reu mai",
+        "en": "Do you use this way to go to the inspection point or not?",
+        "grammar_audio": "/audio/thai/grammar/s_ทาง_thaang_-_Way_direction_20231230_ใช้_ทางนี้_ไป_ด่าน_ตรวจ_หรือ_ไม่.mp3"
+      },
+      {
+        "th": "ทาง ทำ กาแฟ ของ คุณ มัน แตกต่าง จาก ที่ ฉัน พบ",
+        "romaji": "Thaang tham gaa-fae khong khun, man taek tang jak thi chan phob",
+        "en": "Your way of making coffee is different from what I found.",
+        "grammar_audio": "/audio/thai/grammar/s_ทาง_thaang_-_Way_direction_20231230_ทาง_ทำ_กาแฟ_ของ_คุณ_มัน_แตกต่าง_จาก_ที่_ฉัน_พบ.mp3"
+      },
+      {
+        "th": "ทางไป โรงเรียน ของ ผม จาก ที่ นี่ มัน ยาว จริง ๆ",
+        "romaji": "Thaang pai roong-rian khong phom jak thi nii, man yaao jing-jing",
+        "en": "The way to my school from here is really long.",
+        "grammar_audio": "/audio/thai/grammar/s_ทาง_thaang_-_Way_direction_20231230_ทางไป_โรงเรียน_ของ_ผม_จาก_ที่_นี่_มัน_ยาว_จริง_ๆ.mp3"
+      }
+    ],
+    "p_tag": "CU-TFL_1",
+    "s_tag": "50"
+  },
+  {
+    "title": "ระหว่าง (rá-wàang) - Between",
+    "short_explanation": "Used to show placement in a middle point or intermediate position.",
+    "long_explanation": "The word 'ระหว่าง (rá-wàang)' is used in Thai language to indicate a position that is 'between' two points or elements, similar to the English use of 'between'. It refers to an intermediate position in both time and space. It can be used with various objects, times, places, and even between abstract concepts.",
+    "formation": "ระหว่าง + noun/object A + และ (láe) + noun/object B (Between A and B)",
+    "examples": [
+      {
+        "th": "ระหว่าง การ เดินทาง ไป และ กลับ จาก สถานที่ นั้น ผม ได้ ฟัง ดนตรี ที่ ผม ชื่นชอบ",
+        "romaji": "Rá-wàang gan dern thaang pai láe glap jak sa-tha-ni nun, phom dai fung don tri thi phom chuen chorb",
+        "en": "Between the journey there and back, I listened to the music that I love.",
+        "grammar_audio": "/audio/thai/grammar/s_ระหว่าง_rá-wàang_-_Between_20231230_ระหว่าง_การ_เดินทาง_ไป_และ_กลับ_จาก_สถานที่_นั้น_ผม_ได้_ฟัง_ดนตรี_ที่_ผม_ชื่นชอบ.mp3"
+      },
+      {
+        "th": "ระหว่าง ทำ งาน และ การ เรียน ฉัน หา วิธี มา ทำ โยคะ",
+        "romaji": "Rá-wàang tham ngan láe gan rian, chan ha wi-thi ma tham yo-ga",
+        "en": "Between work and studying, I found a way to do yoga.",
+        "grammar_audio": "/audio/thai/grammar/s_ระหว่าง_rá-wàang_-_Between_20231230_ระหว่าง_ทำ_งาน_และ_การ_เรียน_ฉัน_หา_วิธี_มา_ทำ_โยคะ.mp3"
+      },
+      {
+        "th": "สามารถ จอง ห้อง พัก ระหว่าง วัน ที่ 1 และ 30 ของ เดือน ธันวาคม",
+        "romaji": "Sa-mart jong hong phak rá-wàang wan thi nueng láe saam sip kong duean Than-waa-khom",
+        "en": "You can book a room between the 1st and 30th of December.",
+        "grammar_audio": "/audio/thai/grammar/s_ระหว่าง_rá-wàang_-_Between_20231230_สามารถ_จอง_ห้อง_พัก_ระหว่าง_วัน_ที่_1_และ_30_ของ_เดือน_ธันวาคม.mp3"
+      },
+      {
+        "th": "ระหว่าง วัน ทำงาน และ วัน หยุด ฉัน ชอบ ที่จะ นอน นานๆ",
+        "romaji": "Rá-wàang wan tham ngan láe wan yut, chan chop thi ja non naan naan",
+        "en": "Between workdays and holidays, I like to sleep in.",
+        "grammar_audio": "/audio/thai/grammar/s_ระหว่าง_rá-wàang_-_Between_20231230_ระหว่าง_วัน_ทำงาน_และ_วัน_หยุด_ฉัน_ชอบ_ที่จะ_นอน_นานๆ.mp3"
+      }
+    ],
+    "p_tag": "CU-TFL_1",
+    "s_tag": "50"
+  },
+  {
+    "title": "แต่ (dtàe) - But, however",
+    "short_explanation": "Indicates contrast or unexpected results; 'but' or 'however'.",
+    "long_explanation": "The term 'แต่ (dtàe)' is commonly used in Thai to indicate contrast, unexpected results, or to introduce an exception, similar to the English 'but' or 'however'. It is usually used in the middle of sentences to connect two clauses that have different or contrasting information.",
+    "formation": "Clause 1 + แต่ + Clause 2",
+    "examples": [
+      {
+        "th": "ผม อยาก จะ ชนะ แต่ ผม ไม่ แข็งแรง พอ",
+        "romaji": "Phom yak ja chana dtàe phom mai khæng raeng phaw",
+        "en": "I want to win but I'm not strong enough.",
+        "grammar_audio": "/audio/thai/grammar/s_แต่_dtàe_-_But_however_20231230_ผม_อยาก_จะ_ชนะ_แต่_ผม_ไม่_แข็งแรง_พอ.mp3"
+      },
+      {
+        "th": "เธอ สวย และ น่ารัก แต่ เธอ ไม่ ใช่ คน ที่ ผม กำลัง มองหา",
+        "romaji": "Thoe suay lae na rak dtàe thoe mai chai khon thi phom kamlang mawng ha",
+        "en": "You're beautiful and cute, but you're not the person I'm looking for.",
+        "grammar_audio": "/audio/thai/grammar/s_แต่_dtàe_-_But_however_20231230_เธอ_สวย_และ_น่ารัก_แต่_เธอ_ไม่_ใช่_คน_ที่_ผม_กำลัง_มองหา.mp3"
+      },
+      {
+        "th": "เรา อยู่ ใกล้ กัน แต่ นับ ว่า ห่างกัน มาก",
+        "romaji": "Rao yoo glai kan dtàe nap wa hang kan maak",
+        "en": "We are close to each other but seem very far away.",
+        "grammar_audio": "/audio/thai/grammar/s_แต่_dtàe_-_But_however_20231230_เรา_อยู่_ใกล้_กัน_แต่_นับ_ว่า_ห่างกัน_มาก.mp3"
+      },
+      {
+        "th": "สนามบอล นี้ ใหญ่ แต่ ไม่ สะอาด",
+        "romaji": "Sanam bon ni yai dtàe mai sa-at",
+        "en": "This football field is big, but it's not clean.",
+        "grammar_audio": "/audio/thai/grammar/s_แต่_dtàe_-_But_however_20231230_สนามบอล_นี้_ใหญ่_แต่_ไม่_สะอาด.mp3"
+      }
+    ],
+    "p_tag": "CU-TFL_1",
+    "s_tag": "50"
+  },
+  {
+    "title": "หมด (mòt) - All/End",
+    "short_explanation": "The word 'หมด' which signifies the end or completeness of something.",
+    "long_explanation": "'หมด (mòt)' is a common word in the Thai language and can mean 'all' or 'end'. It is often used to indicate the completion or the end of something. It can be used with a variety of nouns to indicate that everything has been used or that an event or action has finished. As well as this, 'หมด' can also mean 'all' in the sense that everything of a particular noun is included. Typically, the noun that 'หมด' refers to will come before 'หมด' in the sentence, although this is not always the case.",
+    "formation": "Statement + หมด",
+    "examples": [
+      {
+        "th": "เขา กิน ข้าว แล้ว เขา ก็ หมด แรง ขึ้น จาก เตียง",
+        "romaji": "Khao gin khao laeo khao koe mot raeng kheun jak tiang",
+        "en": "He ate food and then he was all out of energy to get up from the bed.",
+        "grammar_audio": "/audio/thai/grammar/s_หมด_mòt_-_All/End_20231230_เขา_กิน_ข้าว_แล้ว_เขา_ก็_หมด_แรง_ขึ้น_จาก_เตียง.mp3"
+      },
+      {
+        "th": "ฉัน เดินทาง มา กรุงเทพฯ ใน เวลา หมด สอง ชั่วโมง",
+        "romaji": "Chan deun-thang ma krung-thep nai we-laa mot song chua-mong",
+        "en": "I traveled to Bangkok in less than two hours.",
+        "grammar_audio": "/audio/thai/grammar/s_หมด_mòt_-_All/End_20231230_ฉัน_เดินทาง_มา_กรุงเทพฯ_ใน_เวลา_หมด_สอง_ชั่วโมง.mp3"
+      },
+      {
+        "th": "ฉัน อ่าน หนังสือ หมด แล้ว",
+        "romaji": "Chan an nang-sue mot laeo",
+        "en": "I have finished reading the book.",
+        "grammar_audio": "/audio/thai/grammar/s_หมด_mòt_-_All/End_20231230_ฉัน_อ่าน_หนังสือ_หมด_แล้ว.mp3"
+      },
+      {
+        "th": "ผม มี กระเป๋าเงิน หมด",
+        "romaji": "Phom mee gra-peo ngern mot",
+        "en": "I have spent all my money.",
+        "grammar_audio": "/audio/thai/grammar/s_หมด_mòt_-_All/End_20231230_ผม_มี_กระเป๋าเงิน_หมด.mp3"
+      }
+    ],
+    "p_tag": "CU-TFL_1",
+    "s_tag": "50"
+  },
+  {
+    "title": "บาง (baang) - Some",
+    "short_explanation": "'บาง (baang)' is used to indicate an unspecified quantity or part of a whole. It's similar to 'some' in English.",
+    "long_explanation": "In Thai, 'บาง (baang)' is a common way to refer to an unspecified amount or a certain part of a whole, similar to the English term 'some'. It's often used to express a part of a whole, smaller groups within a larger group, some amount that is not the whole or the total, or a certain number or quantity that is not specified. Essentially, it's used when you don't want to or cannot give an exact number or amount. It is often placed before the noun it is describing.",
+    "formation": "บาง + Noun",
+    "examples": [
+      {
+        "th": "บาง คน อาจ รู้สึก ว่า การทำงาน อยู่ ที่บ้าน ไม่ สะดวก สบาย",
+        "romaji": "Baang khon aaj ruu-suek wa gaan tam-ngan yuu thi baan mai sabai sabai",
+        "en": "Some people might feel that working from home is not comfortable.",
+        "grammar_audio": "/audio/thai/grammar/s_บาง_baang_-_Some_20231230_บาง_คน_อาจ_รู้สึก_ว่า_การทำงาน_อยู่_ที่บ้าน_ไม่_สะดวก_สบาย.mp3"
+      },
+      {
+        "th": "ฉัน มี บาง ปัญหา ที่ ฉัน ต้องการ ความ ช่วยเหลือ",
+        "romaji": "Chan mee baang panha thi chan tong-karn khwam chuay-leo",
+        "en": "I have some problems that I need help with.",
+        "grammar_audio": "/audio/thai/grammar/s_บาง_baang_-_Some_20231230_ฉัน_มี_บาง_ปัญหา_ที่_ฉัน_ต้องการ_ความ_ช่วยเหลือ.mp3"
+      },
+      {
+        "th": "เค้า กำลัง คุย กับ บาง คน ใน ห้อง",
+        "romaji": "Khao gam-lang khui kab baang khon nai hong",
+        "en": "He/She is talking to some people in the room.",
+        "grammar_audio": "/audio/thai/grammar/s_บาง_baang_-_Some_20231230_เค้า_กำลัง_คุย_กับ_บาง_คน_ใน_ห้อง.mp3"
+      },
+      {
+        "th": "เขา มี บาง สิ่ง ที่ ต้อง จำ",
+        "romaji": "Khao mee baang sing thi tong jam",
+        "en": "He has some things that he needs to remember.",
+        "grammar_audio": "/audio/thai/grammar/s_บาง_baang_-_Some_20231230_เขา_มี_บาง_สิ่ง_ที่_ต้อง_จำ.mp3"
+      }
+    ],
+    "p_tag": "CU-TFL_1",
+    "s_tag": "50"
+  },
+  {
+    "title": "หลาย (lǎai) - Many",
+    "short_explanation": "Denotes quantity, similar to 'many' or 'several' in English.",
+    "long_explanation": "The word 'หลาย (lǎai)' in Thai is used to indicate a substantial quantity, much like 'many' or 'several' in English. It's generally placed before nouns to signify a large amount or number. It is compatible with a broad selection of nouns and can be used in various contexts to communicate abundance or a significant number.",
+    "formation": "หลาย + Noun",
+    "examples": [
+      {
+        "th": "ฉัน มี หลาย เพื่อน ที่ คุ้น หน้า คุ้น ตา ใน เมือง นี้",
+        "romaji": "Chan mee lǎai pheuan thi khun nah khun dtah nai mueang nee",
+        "en": "I have many friends that I recognize well in this town.",
+        "grammar_audio": "/audio/thai/grammar/s_หลาย_lǎai_-_Many_20231230_ฉัน_มี_หลาย_เพื่อน_ที่_คุ้น_หน้า_คุ้น_ตา_ใน_เมือง_นี้.mp3"
+      },
+      {
+        "th": "เขา มี หลาย งาน ที่ ต้อง ทำ ใน วัน นี้",
+        "romaji": "Khao mee lǎai ngan thi tong tham nai wan nee",
+        "en": "He has many tasks to do today.",
+        "grammar_audio": "/audio/thai/grammar/s_หลาย_lǎai_-_Many_20231230_เขา_มี_หลาย_งาน_ที่_ต้อง_ทำ_ใน_วัน_นี้.mp3"
+      },
+      {
+        "th": "เรา มี หลาย ตัวเลือก สำหรับ การ เดินทาง ไป เที่ยว ทะเล",
+        "romaji": "Rao mee lǎai tua leuak sam-rap gaan dern tang pai thiao tha-le",
+        "en": "We have many options for traveling to the sea.",
+        "grammar_audio": "/audio/thai/grammar/s_หลาย_lǎai_-_Many_20231230_เรา_มี_หลาย_ตัวเลือก_สำหรับ_การ_เดินทาง_ไป_เที่ยว_ทะเล.mp3"
+      },
+      {
+        "th": "ผม ยัง มี หลาย สิ่ง ที่ ต้องการ ทำ ใน ชีวิต นี้",
+        "romaji": "Phom yang mee lǎai sing thi tong-gaan tham nai chee-wit nee",
+        "en": "I still have many things that I want to do in this life.",
+        "grammar_audio": "/audio/thai/grammar/s_หลาย_lǎai_-_Many_20231230_ผม_ยัง_มี_หลาย_สิ่ง_ที่_ต้องการ_ทำ_ใน_ชีวิต_นี้.mp3"
+      }
+    ],
+    "p_tag": "CU-TFL_1",
+    "s_tag": "50"
+  },
+  {
+    "title": "ค่อย (khôi) - Gradually",
+    "short_explanation": "Used to describe actions that happen gradually or slowly over time, equivalent to 'gradually' or 'slowly'.",
+    "long_explanation": "The word 'ค่อย (khôi)' in Thai is used to express actions that are gradually happening or things that are performed slowly. It's similar to the English 'gradually' or 'slowly'. In sentences, 'ค่อย' is often placed before the verb. Also, this word can be used to say that the speaker will do something little by little.",
+    "formation": "ค่อย + Verb",
+    "examples": [
+      {
+        "th": "คุณ ค่อย พัฒนา ทักษะ การ พูด ภาษา ไทย จน การ สื่อสาร ใน ภาษา นี้ ดู ง่าย ขึ้น",
+        "romaji": "Khun khôi phatthana taksa kan phut phaasa Thai jon kan sue-san nai phaasa nii du ngai kheun",
+        "en": "You gradually improved your Thai speaking skills until communicating in this language seemed easier.",
+        "grammar_audio": "/audio/thai/grammar/s_ค่อย_khôi_-_Gradually_20231230_คุณ_ค่อย_พัฒนา_ทักษะ_การ_พูด_ภาษา_ไทย_จน_การ_สื่อสาร_ใน_ภาษา_นี้_ดู_ง่าย_ขึ้น.mp3"
+      },
+      {
+        "th": "เธอ ค่อย เรียนรู้ วิธี การ ทำงาน ใหม่ และ ค่อย พัฒนา ความสามารถ ใน งาน ของ เธอ",
+        "romaji": "Tho khôi rian-ru witi kan tham-ngan mai lae khôi phatthana khwam-samart nai ngan kong tho",
+        "en": "She gradually learned the new work methods and gradually developed her abilities in her job.",
+        "grammar_audio": "/audio/thai/grammar/s_ค่อย_khôi_-_Gradually_20231230_เธอ_ค่อย_เรียนรู้_วิธี_การ_ทำงาน_ใหม่_และ_ค่อย_พัฒนา_ความสามารถ_ใน_งาน_ของ_เธอ.mp3"
+      },
+      {
+        "th": "ปัญหา ที่ มีอยู่ จะ ไม่ หายไป ทันที แต่ คุณ สามารถ จัดการ ด้วย การ ค่อย ปรับปรุง",
+        "romaji": "Pan-ha thi mee-yu ja mai hai pai than-thee, tae khun sa-mart jat-kan duay kan khôi prap-prung",
+        "en": "Existing problems won't disappear immediately, but you can manage them by gradually improving.",
+        "grammar_audio": "/audio/thai/grammar/s_ค่อย_khôi_-_Gradually_20231230_ปัญหา_ที่_มีอยู่_จะ_ไม่_หายไป_ทันที_แต่_คุณ_สามารถ_จัดการ_ด้วย_การ_ค่อย_ปรับปรุง.mp3"
+      },
+      {
+        "th": "ฉัน ค่อย ตัด สินใจ จะ ออก เดินทาง ไปใน ทิศทาง ที่ ไม่ รู้ จัก",
+        "romaji": "Chan khôi tat sin-jai ja ok dein-tang pai nai thit-thang thi mai roo jak",
+        "en": "I gradually decided to travel to a direction I did not know.",
+        "grammar_audio": "/audio/thai/grammar/s_ค่อย_khôi_-_Gradually_20231230_ฉัน_ค่อย_ตัด_สินใจ_จะ_ออก_เดินทาง_ไปใน_ทิศทาง_ที่_ไม่_รู้_จัก.mp3"
+      }
+    ],
+    "p_tag": "CU-TFL_1",
+    "s_tag": "50"
+  },
+  {
+    "title": "ทุก (thúk) - Every",
+    "short_explanation": "Expresses the meaning of 'every' or 'all' before a noun.",
+    "long_explanation": "The word 'ทุก (thúk)' in Thai is utilized to convey the meaning of 'every' or 'all' and is always followed by a noun. It's used to refer to every instance or member of a category, implying that there are no exclusions within the set. It can be paired with time words (like day, week, year), place names or even general nouns.",
+    "formation": "ทุก + Noun",
+    "examples": [
+      {
+        "th": "ทุกวัน เขา ขับรถ ไป ทำงาน",
+        "romaji": "Thúk wan khao khap rot pai tham-ngan",
+        "en": "He drives to work every day.",
+        "grammar_audio": "/audio/thai/grammar/s_ทุก_thúk_-_Every_20231230_ทุกวัน_เขา_ขับรถ_ไป_ทำงาน.mp3"
+      },
+      {
+        "th": "ฉัน ไป ออกกำลังกาย ทุก สัปดาห์",
+        "romaji": "Chan pai ok-kam-lang-gaai thúk sap-daah",
+        "en": "I exercise every week.",
+        "grammar_audio": "/audio/thai/grammar/s_ทุก_thúk_-_Every_20231230_ฉัน_ไป_ออกกำลังกาย_ทุก_สัปดาห์.mp3"
+      },
+      {
+        "th": "ทุกครั้งที่ ฉัน ดู ดวง ดาว ฉัน จะ รู้สึก สุข",
+        "romaji": "Thúk krang thi chan do duang dao, chan ja roo-seuk sook",
+        "en": "Every time I look at the stars, I feel happy.",
+        "grammar_audio": "/audio/thai/grammar/s_ทุก_thúk_-_Every_20231230_ทุกครั้งที่_ฉัน_ดู_ดวง_ดาว_ฉัน_จะ_รู้สึก_สุข.mp3"
+      },
+      {
+        "th": "เจ้าหน้าที่ ต้อง ตรวจสอบ ทุก โซน ก่อน อนุญาตให้ ผู้คน เข้ามา",
+        "romaji": "Jao-naa-thi tong truat-sorb thúk sohn gaawn anu-yat-hai phuu-khon khao-maa",
+        "en": "The officials have to check every zone before allowing people to enter.",
+        "grammar_audio": "/audio/thai/grammar/s_ทุก_thúk_-_Every_20231230_เจ้าหน้าที่_ต้อง_ตรวจสอบ_ทุก_โซน_ก่อน_อนุญาตให้_ผู้คน_เข้ามา.mp3"
+      }
+    ],
+    "p_tag": "CU-TFL_1",
+    "s_tag": "50"
+  },
+  {
+    "title": "กำลัง (gam-lang) - In the process of, currently (present continuous)",
+    "short_explanation": "Indicates that an action is in progress or currently happening, similar to English present continuous tense.",
+    "long_explanation": "The term 'กำลัง (gam-lang)' is commonly used in Thai language to denote that an action is currently happening or in process, equivalent to English present continuous tense. It is typically placed before the verb. However, it could also be used at the beginning of a sentence, especially in informal spoken Thai, to underscore the ongoing nature of an event or action.",
+    "formation": "กำลัง + Verb",
+    "examples": [
+      {
+        "th": "ฉัน กำลัง ทำ งาน อยู่",
+        "romaji": "Chan gam-lang tham ngan yu",
+        "en": "I'm currently working.",
+        "grammar_audio": "/audio/thai/grammar/s_กำลัง_gam-lang_-_In_the_process_of_currently_present_continuous_20231230_ฉัน_กำลัง_ทำ_งาน_อยู่.mp3"
+      },
+      {
+        "th": "เขา กำลัง อ่าน หนังสือ อย่าง ตั้งใจ",
+        "romaji": "Khao gam-lang aan nang-sue yang tang-jai",
+        "en": "He is reading a book intently.",
+        "grammar_audio": "/audio/thai/grammar/s_กำลัง_gam-lang_-_In_the_process_of_currently_present_continuous_20231230_เขา_กำลัง_อ่าน_หนังสือ_อย่าง_ตั้งใจ.mp3"
+      },
+      {
+        "th": "เธอ กำลัง ดื่ม กาแฟ ขณะ นี้",
+        "romaji": "Thoe gam-lang duem ga-fae khan-ni",
+        "en": "She is drinking coffee right now.",
+        "grammar_audio": "/audio/thai/grammar/s_กำลัง_gam-lang_-_In_the_process_of_currently_present_continuous_20231230_เธอ_กำลัง_ดื่ม_กาแฟ_ขณะ_นี้.mp3"
+      },
+      {
+        "th": "พวกเรา กำลัง ฝึกซ้อม กีฬา อยู่",
+        "romaji": "Phuak-rao gam-lang fek-som ki-la yu",
+        "en": "We are practicing sports.",
+        "grammar_audio": "/audio/thai/grammar/s_กำลัง_gam-lang_-_In_the_process_of_currently_present_continuous_20231230_พวกเรา_กำลัง_ฝึกซ้อม_กีฬา_อยู่.mp3"
+      }
+    ],
+    "p_tag": "CU-TFL_1",
+    "s_tag": "50"
+  },
+  {
+    "title": "ยัง (yang) - Still, yet",
+    "short_explanation": "Thai word 'ยัง (yang)' is used to express the continuance of an action or situation, similar to 'still' or 'yet' in English.",
+    "long_explanation": "The word 'ยัง (yang)' is a versatile tool in the Thai language, frequently used to indicate the continuation of an action or state of being. It is similar to the English terms 'still' or 'yet'. Placed before verbs, 'ยัง (yang)' indicates that the action is still ongoing. When 'ยัง' is used in questions, it usually means 'yet', enquiring whether an action or state continues to be true. Thus, the usage of 'ยัง' will depend on the context, but always involves the continuity or the ongoing nature of an action or state.",
+    "formation": "ยัง + Verb",
+    "examples": [
+      {
+        "th": "ฉัน ยัง ทำงาน อยู่ ที่ บริษัท เดิม",
+        "romaji": "Chan yang tham ngan yu thi borisat doem",
+        "en": "I am still working at the same company.",
+        "grammar_audio": "/audio/thai/grammar/s_ยัง_yang_-_Still_yet_20231230_ฉัน_ยัง_ทำงาน_อยู่_ที่_บริษัท_เดิม.mp3"
+      },
+      {
+        "th": "เธอ ยัง คิดถึง เขา หรือ ไม่",
+        "romaji": "Thoe yang khid theung khao rue mai",
+        "en": "Do you still miss him?",
+        "grammar_audio": "/audio/thai/grammar/s_ยัง_yang_-_Still_yet_20231230_เธอ_ยัง_คิดถึง_เขา_หรือ_ไม่.mp3"
+      },
+      {
+        "th": "ฉัน ยัง รอ รถ เมล์ อยู่",
+        "romaji": "Chan yang ror rot maey yu",
+        "en": "I'm still waiting for the bus.",
+        "grammar_audio": "/audio/thai/grammar/s_ยัง_yang_-_Still_yet_20231230_ฉัน_ยัง_รอ_รถ_เมล์_อยู่.mp3"
+      },
+      {
+        "th": "แม่ ยัง ทำอาหาร อยู่ อยาก กิน อะไร หรือ ไม่",
+        "romaji": "Mae yang tham a-han yu, yark gin a-ri rue mai",
+        "en": "Mom is still cooking, do you want to eat anything?",
+        "grammar_audio": "/audio/thai/grammar/s_ยัง_yang_-_Still_yet_20231230_แม่_ยัง_ทำอาหาร_อยู่_อยาก_กิน_อะไร_หรือ_ไม่.mp3"
+      }
+    ],
+    "p_tag": "CU-TFL_1",
+    "s_tag": "50"
+  },
+  {
+    "title": "ด้วย (dûai) - Also, too",
+    "short_explanation": "This word is used to imply 'also', 'too', or 'as well' in English.",
+    "long_explanation": "'ด้วย (dûai)' in Thai language is used to imply that along with the action stated in the main clause, the subject or object is also doing another action or is in another state. Providing additional information, it functions similarly to the english words 'also', 'too', or 'as well'. It is versatile and can be used with different verbs and phrases to express additional action or state. 'ด้วย (dûai)' is typically placed after the verb or at the end of the sentence.",
+    "formation": "Statement + ด้วย",
+    "examples": [
+      {
+        "th": "เขา ชอบ ร้อน ด้วย",
+        "romaji": "Khao chorb ron dûai",
+        "en": "He also likes spicy food.",
+        "grammar_audio": "/audio/thai/grammar/s_ด้วย_dûai_-_Also_too_20231230_เขา_ชอบ_ร้อน_ด้วย.mp3"
+      },
+      {
+        "th": "ฉัน จะ ไป ห้าง ซื้อ รองเท้า ด้วย",
+        "romaji": "Chan ja pai haang seu rong thao dûai",
+        "en": "I will go to the mall to buy shoes as well.",
+        "grammar_audio": "/audio/thai/grammar/s_ด้วย_dûai_-_Also_too_20231230_ฉัน_จะ_ไป_ห้าง_ซื้อ_รองเท้า_ด้วย.mp3"
+      },
+      {
+        "th": "เธอ ต้อง ทำ การบ้าน ด้วย",
+        "romaji": "Thoe tong tham gan baan dûai",
+        "en": "You also have to do your homework.",
+        "grammar_audio": "/audio/thai/grammar/s_ด้วย_dûai_-_Also_too_20231230_เธอ_ต้อง_ทำ_การบ้าน_ด้วย.mp3"
+      },
+      {
+        "th": "วันนี้ ฉัน รู้สึก ท้อแท้ ด้วย",
+        "romaji": "Wan ni chan ru suek thor thae dûai",
+        "en": "I feel really tired today as well.",
+        "grammar_audio": "/audio/thai/grammar/s_ด้วย_dûai_-_Also_too_20231230_วันนี้_ฉัน_รู้สึก_ท้อแท้_ด้วย.mp3"
+      }
+    ],
+    "p_tag": "CU-TFL_1",
+    "s_tag": "50"
+  },
+  {
+    "title": "สุด (sùt) - Most, very",
+    "short_explanation": "Indicates the maximum degree or extent; 'most' or 'very'.",
+    "long_explanation": "The word 'สุด (sùt)' is used in Thai language for indicating the maximum degree or extent of something, similar to English 'most' or 'very'. It is usually placed after an adjective or verb to emphasize the degree or extent of the action or state. This term can be used with a variety of adjectives, verbs, and phrases to express extreme or maximum conditions.",
+    "formation": "Adjective/Verb + สุด",
+    "examples": [
+      {
+        "th": "พระอาทิตย์ ตก ดิน ที่ ภูเก็ต เป็น ทิวทัศน์ สวยงาม สุด ที่ ฉัน เคย ได้ เห็น",
+        "romaji": "Phra athit tok din thi Phuket pen thiwtatsan suayngam sùt thi chan koey dai hen",
+        "en": "The sunset in Phuket is the most beautiful scenery I've ever seen.",
+        "grammar_audio": "/audio/thai/grammar/s_สุด_sùt_-_Most_very_20231230_พระอาทิตย์_ตก_ดิน_ที่_ภูเก็ต_เป็น_ทิวทัศน์_สวยงาม_สุด_ที่_ฉัน_เคย_ได้_เห็น.mp3"
+      },
+      {
+        "th": "เขา วิ่ง เร็ว สุด ที่ เขา สามารถ ทำ ได้ เพื่อ ชนะ ใน การ แข่งขัน",
+        "romaji": "Khao wing reo sùt thi khao samart tam dai phuea chana nai kan khaeng kan",
+        "en": "He ran as fast as he could to win the competition.",
+        "grammar_audio": "/audio/thai/grammar/s_สุด_sùt_-_Most_very_20231230_เขา_วิ่ง_เร็ว_สุด_ที่_เขา_สามารถ_ทำ_ได้_เพื่อ_ชนะ_ใน_การ_แข่งขัน.mp3"
+      },
+      {
+        "th": "ผม รัก เธอ มาก สุด ใน โลก นี้",
+        "romaji": "Phom rak thoe mak sùt nai lok ni",
+        "en": "I love you the most in this world.",
+        "grammar_audio": "/audio/thai/grammar/s_สุด_sùt_-_Most_very_20231230_ผม_รัก_เธอ_มาก_สุด_ใน_โลก_นี้.mp3"
+      },
+      {
+        "th": "สถานที่ นี้ เป็น สถานที่ ที่ ฉัน อยาก ไป เยี่ยมชม มาก สุด",
+        "romaji": "Sathani thi ni pen sathani thi chan yak pai yi-yomchom mak sùt",
+        "en": "This place is the place I want to visit the most.",
+        "grammar_audio": "/audio/thai/grammar/s_สุด_sùt_-_Most_very_20231230_สถานที่_นี้_เป็น_สถานที่_ที่_ฉัน_อยาก_ไป_เยี่ยมชม_มาก_สุด.mp3"
+      }
+    ],
+    "p_tag": "CU-TFL_1",
+    "s_tag": "50"
+  },
+  {
+    "title": "เสมอ (sà-mǒer) - Always",
+    "short_explanation": "Used to signify 'always' to indicate a habitual action or general truth.",
+    "long_explanation": "In Thai, 'เสมอ (sà-mǒer)' is utilised to express an action or fact which habitually occurs or is a general truth, much like the English word 'always'. This word is situated at the end of sentences and implies the regularity or consistency of a situation or action. It's a versatile word which may be used with a variety of verbs, adjectives and phrases according to what the speaker wishes to communicate.",
+    "formation": "Statement + เสมอ",
+    "examples": [
+      {
+        "th": "ผม ออกกำลังกาย เพื่อ สุขภาพ ทุก วัน เสมอ",
+        "romaji": "Phom auk kam lang gai pheua sùk-ka-phaap tuk wan sà-mǒer",
+        "en": "I always exercise for health every day.",
+        "grammar_audio": "/audio/thai/grammar/s_เสมอ_sà-mǒer_-_Always_20231230_ผม_ออกกำลังกาย_เพื่อ_สุขภาพ_ทุก_วัน_เสมอ.mp3"
+      },
+      {
+        "th": "เธอ หัวเราะ เมื่อ อ่าน อนิเมะ ตลก เสมอ",
+        "romaji": "Thoe hua roe mûea àan a-ni-me talok sà-mǒer",
+        "en": "She always laughs when reading funny anime.",
+        "grammar_audio": "/audio/thai/grammar/s_เสมอ_sà-mǒer_-_Always_20231230_เธอ_หัวเราะ_เมื่อ_อ่าน_อนิเมะ_ตลก_เสมอ.mp3"
+      },
+      {
+        "th": "ฉัน เดินทาง ไป โรงเรียน ด้วย รถ ตู้ เสมอ",
+        "romaji": "Chan deon thang pai roong rian duay rot too sà-mǒer",
+        "en": "I always travel to school by van.",
+        "grammar_audio": "/audio/thai/grammar/s_เสมอ_sà-mǒer_-_Always_20231230_ฉัน_เดินทาง_ไป_โรงเรียน_ด้วย_รถ_ตู้_เสมอ.mp3"
+      },
+      {
+        "th": "เรา ทำ การบ้าน ก่อน นอน เสมอ",
+        "romaji": "Rao tham gaan baan gaawn nohn sà-mǒer",
+        "en": "We always do homework before going to bed.",
+        "grammar_audio": "/audio/thai/grammar/s_เสมอ_sà-mǒer_-_Always_20231230_เรา_ทำ_การบ้าน_ก่อน_นอน_เสมอ.mp3"
+      }
+    ],
+    "p_tag": "CU-TFL_1",
+    "s_tag": "50"
+  },
+  {
+    "title": "แค่ (kâe) - Just, only",
+    "short_explanation": "Indicates limitation or restriction; 'just', 'only'.",
+    "long_explanation": "The term 'แค่ (kâe)' is commonly used in Thai to denote limitation or restriction, similar to the English words 'just' or 'only'. It is generally placed before the verb or adjective to show the limit or restriction applied to the action or state being described. It is versatile and can be used with a range of verbs and adjectives to express different degrees of limitation or restriction.",
+    "formation": "แค่ + Verb/Adjective",
+    "examples": [
+      {
+        "th": "คุณ ไม่ ต้อง ทำ อะไร มาก มาย แค่ ยิ้ม ให้ ฉัน ฉัน ก็ สุขใจ แล้ว",
+        "romaji": "Khun mai tong tham a-rai mak mai, kâe yim hai chan, chan gor suk-jai laew",
+        "en": "You don't have to do anything special, just smile for me and I'm already happy.",
+        "grammar_audio": "/audio/thai/grammar/s_แค่_kâe_-_Just_only_20231230_คุณ_ไม่_ต้อง_ทำ_อะไร_มาก_มาย_แค่_ยิ้ม_ให้_ฉัน_ฉัน_ก็_สุขใจ_แล้ว.mp3"
+      },
+      {
+        "th": "ทำไม วันนี้ คุณ ดู เหนื่อย แค่ ไหน เนี่ย",
+        "romaji": "Tham-mai wan-ni khun du nuay kâe nai niya",
+        "en": "Why do you look so tired today?",
+        "grammar_audio": "/audio/thai/grammar/s_แค่_kâe_-_Just_only_20231230_ทำไม_วันนี้_คุณ_ดู_เหนื่อย_แค่_ไหน_เนี่ย.mp3"
+      },
+      {
+        "th": "ฉัน แค่ อยาก ได้ เวลา เงียบๆ สัก ครู่",
+        "romaji": "Chan kâe yak dai we-la ngiap-ngiap sak kru",
+        "en": "I just want a moment of quiet time.",
+        "grammar_audio": "/audio/thai/grammar/s_แค่_kâe_-_Just_only_20231230_ฉัน_แค่_อยาก_ได้_เวลา_เงียบๆ_สัก_ครู่.mp3"
+      },
+      {
+        "th": "เธอ ไม่ จำเป็น ต้อง เตรียม ทุกอย่าง ให้ พร้อม ฉัน แค่ ต้องการ ที่ จะ รู้ทัน ทุก การ เปลี่ยนแปลง ที่เกิด ขึ้น",
+        "romaji": "Thoe mai jam-pen tong triam thuk-yang hai phrom, chan kâe tong-kan thi ja ru-thun thuk kan plian-plaeng thi-keut kheun",
+        "en": "You don't need to prepare everything, I just want to be kept informed about every change that happens.",
+        "grammar_audio": "/audio/thai/grammar/s_แค่_kâe_-_Just_only_20231230_เธอ_ไม่_จำเป็น_ต้อง_เตรียม_ทุกอย่าง_ให้_พร้อม_ฉัน_แค่_ต้องการ_ที่_จะ_รู้ทัน_ทุก_การ_เปลี่ยนแปลง_ที่เกิด_ขึ้น.mp3"
+      }
+    ],
+    "p_tag": "CU-TFL_1",
+    "s_tag": "50"
+  },
+  {
+    "title": "ดี (dii) - Good",
+    "short_explanation": "Commonly used adjective which translates to 'good' in English.",
+    "long_explanation": "The term 'ดี (dii)' is a commonly used adjective in Thai language which translates to 'good' in English. It is typically used to express the positive state or condition of a noun. It can be used to imply good quality, good condition, good character, or even to compliment someone or something. It is versatile and can be used with a wide range of nouns and verbs to express positivity.",
+    "formation": "Noun + ดี",
+    "examples": [
+      {
+        "th": "ข้าว ของ ร้าน นี้ อร่อย และ ประทับใจ ดี",
+        "romaji": "Khao kong ran ni arroy lae pratap jai dii",
+        "en": "The food in this restaurant is delicious and impressively good.",
+        "grammar_audio": "/audio/thai/grammar/s_ดี_dii_-_Good_20231230_ข้าว_ของ_ร้าน_นี้_อร่อย_และ_ประทับใจ_ดี.mp3"
+      },
+      {
+        "th": "เขา เป็น คน ที่ ใจ ดี และ พร้อม ที่จะ ช่วยเหลือ คนอื่น",
+        "romaji": "Khao pen kon thi jai dii lae prom thi ja chuay leua kon uen",
+        "en": "He is a good-natured person who is ready to help others.",
+        "grammar_audio": "/audio/thai/grammar/s_ดี_dii_-_Good_20231230_เขา_เป็น_คน_ที่_ใจ_ดี_และ_พร้อม_ที่จะ_ช่วยเหลือ_คนอื่น.mp3"
+      },
+      {
+        "th": "หนังสือ นี้ เขียน ดี และ มี ข้อมูล ที่ มี ประโยชน์",
+        "romaji": "Nang sue ni khian dii lae mee khomun thi mee prayout",
+        "en": "This book is well-written and has useful information.",
+        "grammar_audio": "/audio/thai/grammar/s_ดี_dii_-_Good_20231230_หนังสือ_นี้_เขียน_ดี_และ_มี_ข้อมูล_ที่_มี_ประโยชน์.mp3"
+      },
+      {
+        "th": "เธอ ร้องเพลง ดี จน ทุกคน ต้อง ชื่นชม",
+        "romaji": "Thoe rong pleng dii jon thuk kon tong chuen chom",
+        "en": "She sings so well that everyone has to admire her.",
+        "grammar_audio": "/audio/thai/grammar/s_ดี_dii_-_Good_20231230_เธอ_ร้องเพลง_ดี_จน_ทุกคน_ต้อง_ชื่นชม.mp3"
+      }
+    ],
+    "p_tag": "CU-TFL_1",
+    "s_tag": "50"
+  },
+  {
+    "title": "ร้าย (ráai) - Bad",
+    "short_explanation": "Used to describe something or someone as 'bad' in various contexts.",
+    "long_explanation": "The word 'ร้าย (ráai)' in Thai language is commonly used as an adjective which means 'bad'. It can be used to describe people, situations, experiences or any noun that carries a negative connotation. It is a versatile word that can fit in multiple contexts, ranging from character traits, taste of food, quality of items to the outcome of events.",
+    "formation": "Noun + ร้าย",
+    "examples": [
+      {
+        "th": "หนัง ที่ เรา ดู คืน นี้ ร้าย มาก เรา ไม่ ชอบ มัน เลย",
+        "romaji": "Nang thi rao du khuen ni ráai maak, rao mai chob man loei",
+        "en": "The movie we watched tonight was really bad, we didn't like it at all.",
+        "grammar_audio": "/audio/thai/grammar/s_ร้าย_ráai_-_Bad_20231230_หนัง_ที่_เรา_ดู_คืน_นี้_ร้าย_มาก_เรา_ไม่_ชอบ_มัน_เลย.mp3"
+      },
+      {
+        "th": "คน ร้าย บางคน อาจ ดู ดี หน้า แต่ ใจ ร้าย",
+        "romaji": "Khon ráai baang khon aat du di naa, tae jai ráai",
+        "en": "Some bad people might look good, but they have bad hearts.",
+        "grammar_audio": "/audio/thai/grammar/s_ร้าย_ráai_-_Bad_20231230_คน_ร้าย_บางคน_อาจ_ดู_ดี_หน้า_แต่_ใจ_ร้าย.mp3"
+      },
+      {
+        "th": "อาหาร ที่ ร้านนี้ รสชาติ ร้าย มาก ฉัน ไม่ อยาก ที่ จะ กิน อีก",
+        "romaji": "A-haan thi raan ni ros chaa ti ráai maak, chan mai yaak thi ja gin ik",
+        "en": "The food at this restaurant tastes really bad, I don't want to eat it again.",
+        "grammar_audio": "/audio/thai/grammar/s_ร้าย_ráai_-_Bad_20231230_อาหาร_ที่_ร้านนี้_รสชาติ_ร้าย_มาก_ฉัน_ไม่_อยาก_ที่_จะ_กิน_อีก.mp3"
+      },
+      {
+        "th": "เขา มี วัน ร้าย ประจำ สัปดาห์ นี้ เพราะ ทุก อย่าง ไม่ วางใจ",
+        "romaji": "Khao mee wan ráai prajam sap daa hèet ni, phrò thúk yàang mâi waang jai",
+        "en": "He has had a bad week because nothing is going as planned.",
+        "grammar_audio": "/audio/thai/grammar/s_ร้าย_ráai_-_Bad_20231230_เขา_มี_วัน_ร้าย_ประจำ_สัปดาห์_นี้_เพราะ_ทุก_อย่าง_ไม่_วางใจ.mp3"
+      }
+    ],
+    "p_tag": "CU-TFL_1",
+    "s_tag": "50"
+  },
+  {
+    "title": "มาก (mâak) - Very, much",
+    "short_explanation": "Used to intensify adjectives or verbs; 'very' or 'much'.",
+    "long_explanation": "The word 'มาก (mâak)' is frequently used in Thai to intensify an action or a characteristic, akin to the English expressions 'very' or 'much'. It is positioned after adjectives or verbs in a sentence to denote a greater degree or extent. This term is versatile as it can be paired with a wide array of verbs or adjectives, delivering an emphasis on the intensity or degree of a particular action or state.",
+    "formation": "Verb or Adjective + มาก",
+    "examples": [
+      {
+        "th": "เธอ สวย มาก จน ทุก คน ต้อง หัน มา มอง",
+        "romaji": "Thoe suay mâak jon thook khon dtong han ma mawng",
+        "en": "She is so beautiful that everyone has to turn and look.",
+        "grammar_audio": "/audio/thai/grammar/s_มาก_mâak_-_Very_much_20231230_เธอ_สวย_มาก_จน_ทุก_คน_ต้อง_หัน_มา_มอง.mp3"
+      },
+      {
+        "th": "ผม รู้สึก หิว มาก จน ไม่ สามารถ ทำงาน กับ ความ สนใจ ได้",
+        "romaji": "Phom ruu seuk hiw mâak jon mai sa maa rut tham ngaan kap khwam so ni jai dai",
+        "en": "I feel so hungry that I can't work with concentration.",
+        "grammar_audio": "/audio/thai/grammar/s_มาก_mâak_-_Very_much_20231230_ผม_รู้สึก_หิว_มาก_จน_ไม่_สามารถ_ทำงาน_กับ_ความ_สนใจ_ได้.mp3"
+      },
+      {
+        "th": "เขา ปรารถนา มี ความสุข มาก ๆ",
+        "romaji": "Khao praa that naa mee khwaam suk mâak mâak",
+        "en": "He desires to have a lot of happiness.",
+        "grammar_audio": "/audio/thai/grammar/s_มาก_mâak_-_Very_much_20231230_เขา_ปรารถนา_มี_ความสุข_มาก_ๆ.mp3"
+      },
+      {
+        "th": "ฉัน เห็น ความ พยายาม ของ เธอ มาก",
+        "romaji": "Chan hen khwaam pha ya yaam kong thoe mâak",
+        "en": "I see your effort a lot.",
+        "grammar_audio": "/audio/thai/grammar/s_มาก_mâak_-_Very_much_20231230_ฉัน_เห็น_ความ_พยายาม_ของ_เธอ_มาก.mp3"
+      }
+    ],
+    "p_tag": "CU-TFL_1",
+    "s_tag": "50"
+  },
+  {
+    "title": "เร็ว (reo) - Fast, quickly",
+    "short_explanation": "This is used to describe speed or rate of doing something or how something occurs.",
+    "long_explanation": "The word 'เร็ว (reo)' is used in Thai to describe the speed at which an action is taken or how quickly something happens. It is equivalent to the English words 'fast' or 'quickly'. This word is usually used before the verb it modifies, acting as an adverb. It can also be used after an adjective to intensify the meaning.",
+    "formation": "เร็ว + Verb or Adjective + เร็ว",
+    "examples": [
+      {
+        "th": "เขา วิ่ง เร็ว มาก จน ไม่ สามารถ รับรู้ สิ่ง รอบ ตัว",
+        "romaji": "Khao wing reo mak jon mai sa maat rap ru sing rob tua",
+        "en": "He ran so fast that he couldn't perceive things around him.",
+        "grammar_audio": "/audio/thai/grammar/s_เร็ว_reo_-_Fast_quickly_20231230_เขา_วิ่ง_เร็ว_มาก_จน_ไม่_สามารถ_รับรู้_สิ่ง_รอบ_ตัว.mp3"
+      },
+      {
+        "th": "มัน เป็น การ เติบโต เร็ว ของ พืช ที่ ต้อง ดูแล อย่าง ดี",
+        "romaji": "Man pen kan toe bot reo kong phuet thi tong du lae yang di",
+        "en": "It is a fast growth of plants that need to be taken good care of.",
+        "grammar_audio": "/audio/thai/grammar/s_เร็ว_reo_-_Fast_quickly_20231230_มัน_เป็น_การ_เติบโต_เร็ว_ของ_พืช_ที่_ต้อง_ดูแล_อย่าง_ดี.mp3"
+      },
+      {
+        "th": "ผม ต้อง ออก จาก บ้าน เร็ว เพื่อ ทัน รถ ประจำทาง",
+        "romaji": "Phom tong ok jak ban reo phuea than rot pra jam taang",
+        "en": "I have to leave the house quickly to catch the bus.",
+        "grammar_audio": "/audio/thai/grammar/s_เร็ว_reo_-_Fast_quickly_20231230_ผม_ต้อง_ออก_จาก_บ้าน_เร็ว_เพื่อ_ทัน_รถ_ประจำทาง.mp3"
+      },
+      {
+        "th": "เธอ เรียน รู้ ภาษา ไทย เร็ว มาก จน ทุกคน ประทับใจ",
+        "romaji": "Thoe rian ru pha sa thai reo mak jon thuk kon pra thap jai",
+        "en": "She learned Thai so quickly that everyone was impressed.",
+        "grammar_audio": "/audio/thai/grammar/s_เร็ว_reo_-_Fast_quickly_20231230_เธอ_เรียน_รู้_ภาษา_ไทย_เร็ว_มาก_จน_ทุกคน_ประทับใจ.mp3"
+      }
+    ],
+    "p_tag": "CU-TFL_1",
+    "s_tag": "50"
+  },
+  {
+    "title": "ช้า (cháa) - Slow, slowly",
+    "short_explanation": "The adjective or adverb 'ช้า (cháa)' demonstrates a slow pace or less speed in Thai.",
+    "long_explanation": "In Thai language, 'ช้า (cháa)' is a common adjective used to describe anything slow in pace or low in speed. However, it can also be used as an adverb when it is placed after a verb, just like ‘slowly’ is used in English. 'ช้า (cháa)' is an essential word to use while describing someone's speed or the speed of something happening.",
+    "formation": "Statement + ช้า",
+    "examples": [
+      {
+        "th": "เด็ก นั้น วิ่ง ช้า กว่า ทุกคน ใน สนาม",
+        "romaji": "Dek nan wing cháa kwa thuk khon nai sanam",
+        "en": "That kid runs slower than everyone on the field.",
+        "grammar_audio": "/audio/thai/grammar/s_ช้า_cháa_-_Slow_slowly_20231230_เด็ก_นั้น_วิ่ง_ช้า_กว่า_ทุกคน_ใน_สนาม.mp3"
+      },
+      {
+        "th": "การ เที่ยว เรือ ช้า ช่วย ให้ เรา ได้ เห็น ทุก สิ่ง ที่ ผ่าน มา",
+        "romaji": "Kan thiaw ruea cháa chuay hai rao dai hen thuk sing thi phan ma",
+        "en": "Travelling by slow boat allows us to see everything that passes by.",
+        "grammar_audio": "/audio/thai/grammar/s_ช้า_cháa_-_Slow_slowly_20231230_การ_เที่ยว_เรือ_ช้า_ช่วย_ให้_เรา_ได้_เห็น_ทุก_สิ่ง_ที่_ผ่าน_มา.mp3"
+      },
+      {
+        "th": "คนขับ รถ เลี้ยว ช้า เพื่อ ความ ปลอดภัย",
+        "romaji": "Khon khap rot liaw cháa phuea khwam plod phai",
+        "en": "The driver turns slowly for safety.",
+        "grammar_audio": "/audio/thai/grammar/s_ช้า_cháa_-_Slow_slowly_20231230_คนขับ_รถ_เลี้ยว_ช้า_เพื่อ_ความ_ปลอดภัย.mp3"
+      },
+      {
+        "th": "กาแฟ ของ ฉัน หมด ช้า เพราะ ฉัน ชอบ ดื่ม โดยเรื่อย เที่ยว",
+        "romaji": "Kafe khong chan mot cháa pror chan chob deum doi ruei thiao",
+        "en": "My coffee runs out slowly because I like to sip it leisurely.",
+        "grammar_audio": "/audio/thai/grammar/s_ช้า_cháa_-_Slow_slowly_20231230_กาแฟ_ของ_ฉัน_หมด_ช้า_เพราะ_ฉัน_ชอบ_ดื่ม_โดยเรื่อย_เที่ยว.mp3"
+      }
+    ],
+    "p_tag": "CU-TFL_1",
+    "s_tag": "50"
+  },
+  {
+    "title": "ก็ (gâw) - Then, So",
+    "short_explanation": "Indicates consequence, effect, or explanation; 'then' or 'so'.",
+    "long_explanation": "The term 'ก็ (gâw)' in Thai is often used to indicate a consequence, effect, or explanation, similar to the English 'then' or 'so'. It is often found in middle of sentences connecting two related clauses, where the first clause represents the cause or situation and the second clause represents the effect or explanation.",
+    "formation": "Situation Clause + ก็ + Effect/Explanation Clause",
+    "examples": [
+      {
+        "th": "ฉัน เหนื่อย จาก การ ทำงาน ทั้งวัน ก็ ฉัน ไป นอน ก่อน",
+        "romaji": "Chan nui jak kan tham-ngan thang wan gâw chan pai non gon",
+        "en": "I am tired from working all day so I went to sleep earlier.",
+        "grammar_audio": "/audio/thai/grammar/s_ก็_gâw_-_Then_So_20231230_ฉัน_เหนื่อย_จาก_การ_ทำงาน_ทั้งวัน_ก็_ฉัน_ไป_นอน_ก่อน.mp3"
+      },
+      {
+        "th": "ถ้า คุณ ไม่ อยาก ไป ก็ ไม่ ต้อง ไป",
+        "romaji": "Tha khun mai yaak pai gâw mai tong pai",
+        "en": "If you don't want to go then you don't have to.",
+        "grammar_audio": "/audio/thai/grammar/s_ก็_gâw_-_Then_So_20231230_ถ้า_คุณ_ไม่_อยาก_ไป_ก็_ไม่_ต้อง_ไป.mp3"
+      },
+      {
+        "th": "เขา ลืม ตั้ง ปลุก ก็ เลย ตื่น สาย",
+        "romaji": "Khao leum tang pluk gâw loei tuean sai",
+        "en": "He forgot to set an alarm, so he woke up late.",
+        "grammar_audio": "/audio/thai/grammar/s_ก็_gâw_-_Then_So_20231230_เขา_ลืม_ตั้ง_ปลุก_ก็_เลย_ตื่น_สาย.mp3"
+      },
+      {
+        "th": "ฉัน ไม่ มี รถ ก็ ฉัน ใช้ รถ ประจำทาง",
+        "romaji": "Chan mai mee rot gâw chan chai rot prajam thang",
+        "en": "I don't have a car, so I use public transportation.",
+        "grammar_audio": "/audio/thai/grammar/s_ก็_gâw_-_Then_So_20231230_ฉัน_ไม่_มี_รถ_ก็_ฉัน_ใช้_รถ_ประจำทาง.mp3"
+      }
+    ],
+    "p_tag": "CU-TFL_1",
+    "s_tag": "50"
+  },
+  {
+    "title": "เป็นไง (pen ngai) - How is it? (Casual greeting)",
+    "short_explanation": "Used as a casual greeting or to inquire about someone's state or condition.",
+    "long_explanation": "The term 'เป็นไง (pen ngai)' is commonly used in Thai as a casual greeting, similar to the English 'how is it?' or 'how's it going?'. It is typically used at the beginning of conversations to inquire about the person's state or condition. It's also frequently used to ask about a specific situation or event.",
+    "formation": "เป็นไง + Statement",
+    "examples": [
+      {
+        "th": "เป็นไง วันนี้ รู้สึก อย่างไร บ้าง ",
+        "romaji": "Pen ngai wan nei ru suek yang rai bang",
+        "en": "How is it going today, how are you feeling?",
+        "grammar_audio": "/audio/thai/grammar/s_เป็นไง_pen_ngai_-_How_is_it_Casual_greeting_20231230_เป็นไง_วันนี้_รู้สึก_อย่างไร_บ้าง_.mp3"
+      },
+      {
+        "th": "เป็นไง กับ การ ทำงาน ที่ สำนักงาน ใหม่",
+        "romaji": "Pen ngai kap karn tham ngan thi sam nak ngan mai",
+        "en": "How's it going with the work at the new office?",
+        "grammar_audio": "/audio/thai/grammar/s_เป็นไง_pen_ngai_-_How_is_it_Casual_greeting_20231230_เป็นไง_กับ_การ_ทำงาน_ที่_สำนักงาน_ใหม่.mp3"
+      },
+      {
+        "th": "เป็นไง ลูก ชาย ของ คุณ ดู ไม่ค่อย สบาย",
+        "romaji": "Pen ngai look chai kong khun du mai koi sabai",
+        "en": "How is your son? He doesn't seem very well.",
+        "grammar_audio": "/audio/thai/grammar/s_เป็นไง_pen_ngai_-_How_is_it_Casual_greeting_20231230_เป็นไง_ลูก_ชาย_ของ_คุณ_ดู_ไม่ค่อย_สบาย.mp3"
+      },
+      {
+        "th": "เป็นไง กับ ความ คืบหน้า ของ งาน โปรเจค",
+        "romaji": "Pen ngai kap khwaam kheub na kong ngan pro jek",
+        "en": "How is the progress of the project work?",
+        "grammar_audio": "/audio/thai/grammar/s_เป็นไง_pen_ngai_-_How_is_it_Casual_greeting_20231230_เป็นไง_กับ_ความ_คืบหน้า_ของ_งาน_โปรเจค.mp3"
+      }
+    ],
+    "p_tag": "CU-TFL_1",
+    "s_tag": "50"
+  },
+  {
+    "title": "เพราะ (phráw) - Because",
+    "short_explanation": "Used to indicate the reason or cause for something; 'because'.",
+    "long_explanation": "The term 'เพราะ (phráw)' is used in Thai to provide the reasoning or cause for a statement, similar to 'because' in English. It is utilized to connect two clauses, where the first clause is an outcome or result, and the second one offers the reason for the first. It is usually placed before the clause explaining the reason.",
+    "formation": "Outcome/Result + เพราะ + Reason/Cause",
+    "examples": [
+      {
+        "th": "เธอ เหน็ด เพราะ คน ที่ คุณ ชอบ ไม่ ชอบ คุณ คืน กลับ",
+        "romaji": "Thoe hnet phráw khon thi khun chawp mai chawp khun kheun glap",
+        "en": "You are upset because the person you like doesn't like you back.",
+        "grammar_audio": "/audio/thai/grammar/s_เพราะ_phráw_-_Because_20231230_เธอ_เหน็ด_เพราะ_คน_ที่_คุณ_ชอบ_ไม่_ชอบ_คุณ_คืน_กลับ.mp3"
+      },
+      {
+        "th": "ฉัน อยาก เรียน ภาษา ไทย เพราะ ฉัน อยาก ทำงาน ใน ประเทศ ไทย",
+        "romaji": "Chan yark rien phasa Thai phráw chan yark tham-ngan nai prathet Thai",
+        "en": "I want to study Thai because I want to work in Thailand.",
+        "grammar_audio": "/audio/thai/grammar/s_เพราะ_phráw_-_Because_20231230_ฉัน_อยาก_เรียน_ภาษา_ไทย_เพราะ_ฉัน_อยาก_ทำงาน_ใน_ประเทศ_ไทย.mp3"
+      },
+      {
+        "th": "เขา ไม่ ได้ มา สู่ การ สอบ เพราะ เขา ท้อแท้",
+        "romaji": "Khao mai dai ma soo gan sob phráw khao thaw-thae",
+        "en": "He didn't come to the exam because he was discouraged.",
+        "grammar_audio": "/audio/thai/grammar/s_เพราะ_phráw_-_Because_20231230_เขา_ไม่_ได้_มา_สู่_การ_สอบ_เพราะ_เขา_ท้อแท้.mp3"
+      },
+      {
+        "th": "ฉัน หยุด กิน ขนม พร้อมกับ เพราะ ฉัน ต้องการ ลด น้ำหนัก",
+        "romaji": "Chan yud gin khanom phráw khob phráw chan tong gaan lod nam-nak",
+        "en": "I stopped eating desserts because I want to lose weight.",
+        "grammar_audio": "/audio/thai/grammar/s_เพราะ_phráw_-_Because_20231230_ฉัน_หยุด_กิน_ขนม_พร้อมกับ_เพราะ_ฉัน_ต้องการ_ลด_น้ำหนัก.mp3"
+      }
+    ],
+    "p_tag": "CU-TFL_1",
+    "s_tag": "50"
+  },
+  {
+    "title": "เกือบ (gèuap) - Almost, nearly",
+    "short_explanation": "Denotes that something is close to, but not quite, the described status or action.",
+    "long_explanation": "The term 'เกือบ (gèuap)' is used in Thai to indicate 'almost' or 'nearly.' This is used to show that a particular action or state was very close to being fulfilled but did not actually occur or become fully completed. It is usually placed before verbs, and can be used with a wide range of verbs and nouns to denote the near-completion or closeness of an action or state.",
+    "formation": "เกือบ + Verb/Noun",
+    "examples": [
+      {
+        "th": "ฉัน เกือบ ลืม ว่า วันนี้ คือ วันเกิด ของ เธอ",
+        "romaji": "Chan gèuap leum wa wan nii kue wan gerd kong thoe",
+        "en": "I almost forgot that today is her birthday.",
+        "grammar_audio": "/audio/thai/grammar/s_เกือบ_gèuap_-_Almost_nearly_20231230_ฉัน_เกือบ_ลืม_ว่า_วันนี้_คือ_วันเกิด_ของ_เธอ.mp3"
+      },
+      {
+        "th": "เธอ วิ่ง เกือบ ตก ใน ซอก ถนน เนื่องจาก เน้น มากเกินไป",
+        "romaji": "Thoe wing gèuap tok nai sok thanon neuang jak nen maak geun bpai",
+        "en": "She ran and almost fell into a ditch because she was too focused.",
+        "grammar_audio": "/audio/thai/grammar/s_เกือบ_gèuap_-_Almost_nearly_20231230_เธอ_วิ่ง_เกือบ_ตก_ใน_ซอก_ถนน_เนื่องจาก_เน้น_มากเกินไป.mp3"
+      },
+      {
+        "th": "เรา เกือบ ทัน รถไฟ แต่ มัน ได้ ออกจาก สถานี ก่อน ที่ เรา จะ ถึง",
+        "romaji": "Rao gèuap than rot fai, tae man dai ohk jak sa-thanii kon tee rao ja theung",
+        "en": "We almost caught the train, but it left the station before we arrived.",
+        "grammar_audio": "/audio/thai/grammar/s_เกือบ_gèuap_-_Almost_nearly_20231230_เรา_เกือบ_ทัน_รถไฟ_แต่_มัน_ได้_ออกจาก_สถานี_ก่อน_ที่_เรา_จะ_ถึง.mp3"
+      },
+      {
+        "th": "เขา เกือบ ชน รถ ซิ่ง ที่ ตี ฮิต ผ่าน ไป ด้วย ความเร็ว สูง",
+        "romaji": "Khao gèuap chon rot sing thi tee hit phâan bpai duai khwaam-reo soong",
+        "en": "He almost hit a racing car that sped by.",
+        "grammar_audio": "/audio/thai/grammar/s_เกือบ_gèuap_-_Almost_nearly_20231230_เขา_เกือบ_ชน_รถ_ซิ่ง_ที่_ตี_ฮิต_ผ่าน_ไป_ด้วย_ความเร็ว_สูง.mp3"
+      }
+    ],
+    "p_tag": "CU-TFL_1",
+    "s_tag": "75"
+  },
+  {
+    "title": "จน (jon) - Until",
+    "short_explanation": "Used to indicate 'until' or 'to the point that'.",
+    "long_explanation": "In Thai, 'จน (jon)' is used to express a level of degree to the point that something occurs or up until a certain moment. It's similar to the English 'until' and is usually used for explaining the duration of time or situations, leading to a specific outcome or result. Also, it can introduce a new clause that shows a result when something is done to an extreme.",
+    "formation": "Main Clause + จน + Subordinate Clause",
+    "examples": [
+      {
+        "th": "ฉัน รอ เธอ จน ตอน ที่ ดวงอาทิตย์ ตก ลง",
+        "romaji": "Chan ror thoe jon dton thi duang athit tok long",
+        "en": "I waited for you until the sun set.",
+        "grammar_audio": "/audio/thai/grammar/s_จน_jon_-_Until_20231230_ฉัน_รอ_เธอ_จน_ตอน_ที่_ดวงอาทิตย์_ตก_ลง.mp3"
+      },
+      {
+        "th": "เขา ฝึก ภาษาไทย จน ประสบ ความ สำ เร็จ",
+        "romaji": "Khao fuk phasa Thai jon prasop khwam sam ret",
+        "en": "He practiced Thai until he succeeded.",
+        "grammar_audio": "/audio/thai/grammar/s_จน_jon_-_Until_20231230_เขา_ฝึก_ภาษาไทย_จน_ประสบ_ความ_สำ_เร็จ.mp3"
+      },
+      {
+        "th": "ฉัน ทำ งาน จน ลืม ว่า เวลา ผ่าน ไป เท่าไหร่",
+        "romaji": "Chan tham ngan jon leum wa wela pan pai thao rai",
+        "en": "I worked until I forgot how much time had passed.",
+        "grammar_audio": "/audio/thai/grammar/s_จน_jon_-_Until_20231230_ฉัน_ทำ_งาน_จน_ลืม_ว่า_เวลา_ผ่าน_ไป_เท่าไหร่.mp3"
+      },
+      {
+        "th": "เขา เดินทาง จน ถึง สถานที่ ที่ เรา สัญญา จะ พบ กัน",
+        "romaji": "Khao dein thang jon theung sathan thi thi rao sanya ja pob gan",
+        "en": "He traveled until he reached the place where we promised to meet.",
+        "grammar_audio": "/audio/thai/grammar/s_จน_jon_-_Until_20231230_เขา_เดินทาง_จน_ถึง_สถานที่_ที่_เรา_สัญญา_จะ_พบ_กัน.mp3"
+      }
+    ],
+    "p_tag": "CU-TFL_1",
+    "s_tag": "75"
+  },
+  {
+    "title": "กว่า (kwàa) - Than",
+    "short_explanation": "Used to express comparisons; the Thai equivalent of 'than'.",
+    "long_explanation": "The word 'กว่า (kwàa)' is used in Thai to make comparisons between two things or persons, much like the English term 'than'. It is placed in between the two objects being compared, preceded by the characteristic or quality being compared, and usually followed by a comparative adjective or verb.",
+    "formation": "Object 1 + Comparative Word + กว่า + Object 2",
+    "examples": [
+      {
+        "th": "การ ทำงาน ของ ฉัน เป็นเรื่อง ที่ ยาก กว่า การ เล่น เกม",
+        "romaji": "Kan tham-ngan kong chan pen rueang thi yak kwàa kan len kem",
+        "en": "My work is harder than playing games.",
+        "grammar_audio": "/audio/thai/grammar/s_กว่า_kwàa_-_Than_20231230_การ_ทำงาน_ของ_ฉัน_เป็นเรื่อง_ที่_ยาก_กว่า_การ_เล่น_เกม.mp3"
+      },
+      {
+        "th": "สมชาย นั่ง เรียน อยู่ หลังคาย กว่า สมจิตร",
+        "romaji": "Somchai nang rian yu lang khai kwàa Somjit",
+        "en": "Somchai sits further in the back than Somjit.",
+        "grammar_audio": "/audio/thai/grammar/s_กว่า_kwàa_-_Than_20231230_สมชาย_นั่ง_เรียน_อยู่_หลังคาย_กว่า_สมจิตร.mp3"
+      },
+      {
+        "th": "ร้านอาหาร สไตล์ การ์เด้น นี้ สวย กว่า ที่ ฉัน เคย มา",
+        "romaji": "Raan-aa-haan sai ga-den nee suai kwàa thi chan koei ma",
+        "en": "This garden-style restaurant is more beautiful than the one I've been to before.",
+        "grammar_audio": "/audio/thai/grammar/s_กว่า_kwàa_-_Than_20231230_ร้านอาหาร_สไตล์_การ์เด้น_นี้_สวย_กว่า_ที่_ฉัน_เคย_มา.mp3"
+      },
+      {
+        "th": "เขา มี ความรู้ ด้าน คณิตศาสตร์ กว่า ฉัน",
+        "romaji": "Khao mee kwam roo dan khanit-sat kwàa chan",
+        "en": "He knows more about mathematics than I do.",
+        "grammar_audio": "/audio/thai/grammar/s_กว่า_kwàa_-_Than_20231230_เขา_มี_ความรู้_ด้าน_คณิตศาสตร์_กว่า_ฉัน.mp3"
+      }
+    ],
+    "p_tag": "CU-TFL_1",
+    "s_tag": "75"
+  },
+  {
+    "title": "ดัง (dang) - As (like, similar to)",
+    "short_explanation": "Used to draw comparisons; 'like' or 'as'.",
+    "long_explanation": "The word 'ดัง (dang)' in Thai is used to draw comparisons and can be translated into English as 'like' or 'as'. It is typically used after the subject and before the object that you are comparing the subject to. This comparision could be in terms of an action, a state or a characteristic.",
+    "formation": "Subject + ดัง + Object being compared to",
+    "examples": [
+      {
+        "th": "เขา ร้องเพลง ดัง นกยูง ที่ ร้องเพลง อย่าง เบิกบาน",
+        "romaji": "Khao rong pleeng dang nok yung thi rong pleeng yang berk baan",
+        "en": "He sings like a lark that sings brightly.",
+        "grammar_audio": "/audio/thai/grammar/s_ดัง_dang_-_As_like_similar_to_20231230_เขา_ร้องเพลง_ดัง_นกยูง_ที่_ร้องเพลง_อย่าง_เบิกบาน.mp3"
+      },
+      {
+        "th": "การ วิ่ง ของ เขา ดัง เสือ ที่ วิ่ง เร็ว และ แรง",
+        "romaji": "Kan wing kong khao dang suea thi wing reo lae raeng",
+        "en": "His running is like a tiger that runs fast and strong.",
+        "grammar_audio": "/audio/thai/grammar/s_ดัง_dang_-_As_like_similar_to_20231230_การ_วิ่ง_ของ_เขา_ดัง_เสือ_ที่_วิ่ง_เร็ว_และ_แรง.mp3"
+      },
+      {
+        "th": "คุณ ต้อง มี ความอดทน ดัง ทหาร ที่ ต้อง อดทน กับ หนาว สุดโต่ง",
+        "romaji": "Khun tong mee khwam-ad-than dang thahan thi tong ad-than gap nao sut tong",
+        "en": "You must have endurance like a soldier who has to endure extreme cold.",
+        "grammar_audio": "/audio/thai/grammar/s_ดัง_dang_-_As_like_similar_to_20231230_คุณ_ต้อง_มี_ความอดทน_ดัง_ทหาร_ที่_ต้อง_อดทน_กับ_หนาว_สุดโต่ง.mp3"
+      },
+      {
+        "th": "ฉัน ชอบ กิน แอปเปิ้ล ดัง พี่สาว ของ ฉัน ที่ ชอบ กิน แอปเปิ้ล มาก",
+        "romaji": "Chan chop gin apple dang phi sao kong chan thi chop gin apple mak",
+        "en": "I like to eat apples like my older sister who really likes to eat apples.",
+        "grammar_audio": "/audio/thai/grammar/s_ดัง_dang_-_As_like_similar_to_20231230_ฉัน_ชอบ_กิน_แอปเปิ้ล_ดัง_พี่สาว_ของ_ฉัน_ที่_ชอบ_กิน_แอปเปิ้ล_มาก.mp3"
+      }
+    ],
+    "p_tag": "CU-TFL_1",
+    "s_tag": "75"
+  },
+  {
+    "title": "คง (khong) - Probably, must be",
+    "short_explanation": "Used to express certainty or probability about a situation; 'probably' or 'must be'.",
+    "long_explanation": "'คง (khong)' is a Thai word that is used to express a level of certainty or probability about a situation. In English, this would translate to 'probably' or 'must be'. It is not an absolute assertion of fact, but rather shows a strong belief that something is true. It is typically used at the beginning or within a sentence.",
+    "formation": "คง + Statement",
+    "examples": [
+      {
+        "th": "คง จะ ฝน ตก วัน นี้ เพราะ ว่า มี แสง ระยิบระยับ",
+        "romaji": "Khong ja fon tok wan ni pror wa mee saeng ra-yib ra-yap",
+        "en": "It's probably going to rain today because the light is flickering.",
+        "grammar_audio": "/audio/thai/grammar/s_คง_khong_-_Probably_must_be_20231230_คง_จะ_ฝน_ตก_วัน_นี้_เพราะ_ว่า_มี_แสง_ระยิบระยับ.mp3"
+      },
+      {
+        "th": "คุณ คง รู้สึก หิว แล้ว นะ ครับ เพราะ ว่า คุณ ไม่ ได้ กิน อะไร ทั้ง วัน",
+        "romaji": "Khun khong ruu suuk hiw laew na krap pror wa khun mai dai gin a-rai thang wan",
+        "en": "You must be hungry now, right? Because you haven't eaten anything all day.",
+        "grammar_audio": "/audio/thai/grammar/s_คง_khong_-_Probably_must_be_20231230_คุณ_คง_รู้สึก_หิว_แล้ว_นะ_ครับ_เพราะ_ว่า_คุณ_ไม่_ได้_กิน_อะไร_ทั้ง_วัน.mp3"
+      },
+      {
+        "th": "เขา คง พา แฟน ของ ตน เดิน เล่น ที่ สวน สาธารณะ",
+        "romaji": "Khao khong pha faen kong ton deon len thi suan sa-tha-rana",
+        "en": "He is probably taking his girlfriend for a walk in the public park.",
+        "grammar_audio": "/audio/thai/grammar/s_คง_khong_-_Probably_must_be_20231230_เขา_คง_พา_แฟน_ของ_ตน_เดิน_เล่น_ที่_สวน_สาธารณะ.mp3"
+      },
+      {
+        "th": "เวลา ที่ เธอ ดู ไม่ ค่อยจะ สนใจ ผม คง รู้ ว่า ผม ทำ ผิด อย่างไร",
+        "romaji": "We-la thi thoe du mai khoi ja son jai, phom khong ruu wa phom tham phit yang rai",
+        "en": "When you seem not to care, I probably know what I did wrong.",
+        "grammar_audio": "/audio/thai/grammar/s_คง_khong_-_Probably_must_be_20231230_เวลา_ที่_เธอ_ดู_ไม่_ค่อยจะ_สนใจ_ผม_คง_รู้_ว่า_ผม_ทำ_ผิด_อย่างไร.mp3"
+      }
+    ],
+    "p_tag": "CU-TFL_1",
+    "s_tag": "75"
+  },
+  {
+    "title": "รู้ (rúu) - To know",
+    "short_explanation": "It is a basic verb that indicates the state of knowing something, being aware of something or having knowledge about something.",
+    "long_explanation": "The term 'รู้ (rúu)' in Thai language is used to express the state or condition of having information or understanding about something. This verb is commonly used in conversation and text regardless of the formality or informality of the situation. Generally, it is used before the topic or the object that one knows about.",
+    "formation": "รู้ + information/object",
+    "examples": [
+      {
+        "th": "ฉัน รู้ ว่า เธอ ต้องการ อะไร จาก ฉัน",
+        "romaji": "Chan rúu wa thoe tong gaan a-rai jaak chan",
+        "en": "I know what you want from me.",
+        "grammar_audio": "/audio/thai/grammar/s_รู้_rúu_-_To_know_20231230_ฉัน_รู้_ว่า_เธอ_ต้องการ_อะไร_จาก_ฉัน.mp3"
+      },
+      {
+        "th": "ผม รู้ เขา ไม่ พอใจ กับ การ ทำงาน ของ ฉัน",
+        "romaji": "Phom rúu khao mai pho-jai gap gaan tham-ngan kong chan",
+        "en": "I know he's not satisfied with my work.",
+        "grammar_audio": "/audio/thai/grammar/s_รู้_rúu_-_To_know_20231230_ผม_รู้_เขา_ไม่_พอใจ_กับ_การ_ทำงาน_ของ_ฉัน.mp3"
+      },
+      {
+        "th": "เธอ รู้ ว่า ฉัน รัก เธอ มั้ย ?",
+        "romaji": "Thoe rúu wa chan rak thoe mai?",
+        "en": "Do you know that I love you?",
+        "grammar_audio": "/audio/thai/grammar/s_รู้_rúu_-_To_know_20231230_เธอ_รู้_ว่า_ฉัน_รัก_เธอ_มั้ย_.mp3"
+      },
+      {
+        "th": "แม่ รู้ ว่า เรา จะ ไป ปาร์ตี้ วัน นี้",
+        "romaji": "Mae rúu wa rao ja pai party wan ni",
+        "en": "Mom knows we're going to the party today.",
+        "grammar_audio": "/audio/thai/grammar/s_รู้_rúu_-_To_know_20231230_แม่_รู้_ว่า_เรา_จะ_ไป_ปาร์ตี้_วัน_นี้.mp3"
+      }
+    ],
+    "p_tag": "CU-TFL_1",
+    "s_tag": "75"
+  },
+  {
+    "title": "เชื่อ (chûea) - To believe, trust",
+    "short_explanation": "Represents the action of 'believing or trusting' something or someone.",
+    "long_explanation": "'เชื่อ (chûea)' is a Thai word which translates to 'believe' or 'trust' in English. It is used when you want to express that you believe in or trust something or someone. It is usually followed by the object or person you believe in or trust. The word can be used in different situations and with various verb forms to express different levels or types of trust or belief.",
+    "formation": "เชื่อ + object/ person",
+    "examples": [
+      {
+        "th": "ฉัน เชื่อ ว่า เธอ จะ ทำ ได้ ประสบความสำเร็จ",
+        "romaji": "Chan chûea wa thoe ja tam dai prasop khwam samret",
+        "en": "I believe that you will succeed.",
+        "grammar_audio": "/audio/thai/grammar/s_เชื่อ_chûea_-_To_believe_trust_20231230_ฉัน_เชื่อ_ว่า_เธอ_จะ_ทำ_ได้_ประสบความสำเร็จ.mp3"
+      },
+      {
+        "th": "เธอ ควร เชื่อ ใน ตนเอง และ ยังไง ก็ ตั้งใจ ทำงาน",
+        "romaji": "Thoe khuan chûea nai ton eng, lae yang ngai gor tang jai tham ngan",
+        "en": "You should believe in yourself and anyway, focus on your work.",
+        "grammar_audio": "/audio/thai/grammar/s_เชื่อ_chûea_-_To_believe_trust_20231230_เธอ_ควร_เชื่อ_ใน_ตนเอง_และ_ยังไง_ก็_ตั้งใจ_ทำงาน.mp3"
+      },
+      {
+        "th": "ผม เชื่อ ใน ความ รัก แม้ ครั้ง นี้ ผม ถูก ทำร้าย",
+        "romaji": "Phom chûea nai khwam rak, mae krung ni, phom thuuk tham rai",
+        "en": "I believe in love even though I got hurt this time.",
+        "grammar_audio": "/audio/thai/grammar/s_เชื่อ_chûea_-_To_believe_trust_20231230_ผม_เชื่อ_ใน_ความ_รัก_แม้_ครั้ง_นี้_ผม_ถูก_ทำร้าย.mp3"
+      },
+      {
+        "th": "เธอ เชื่อ ป่าว ว่า ผม ตั้งใจ ที่ จะ ยกเลิก การ สูบ บุหรี่",
+        "romaji": "Thoe chûea paw wa phom tang jai thi ja yok lek kan soop bu-ri",
+        "en": "Do you believe that I am serious about quitting smoking?",
+        "grammar_audio": "/audio/thai/grammar/s_เชื่อ_chûea_-_To_believe_trust_20231230_เธอ_เชื่อ_ป่าว_ว่า_ผม_ตั้งใจ_ที่_จะ_ยกเลิก_การ_สูบ_บุหรี่.mp3"
+      }
+    ],
+    "p_tag": "CU-TFL_1",
+    "s_tag": "75"
+  },
+  {
+    "title": "ส่ง (sòng) - To send, to deliver",
+    "short_explanation": "Used to describe the action of sending or delivering something physically or digitally.",
+    "long_explanation": "The word 'ส่ง (sòng)' translates to 'send' or 'deliver' in English, and is used to describe the action of transferring or transmitting something from one place, person or digital platform to another. It can be used in a variety of contexts, including sending a physical item, sending a message or email, or even sending someone away. The objects being sent or delivered generally follows right after the verb 'ส่ง'.",
+    "formation": "Subject + ส่ง + Object",
+    "examples": [
+      {
+        "th": "เธอ ส่ง จดหมาย ถึง ฉัน ผ่าน ระบบ อีเมล์",
+        "romaji": "thoe sòng jot-maai thueang chan phaan ra-bob e-mail",
+        "en": "You send a letter to me via email.",
+        "grammar_audio": "/audio/thai/grammar/s_ส่ง_sòng_-_To_send_to_deliver_20231230_เธอ_ส่ง_จดหมาย_ถึง_ฉัน_ผ่าน_ระบบ_อีเมล์.mp3"
+      },
+      {
+        "th": "ผม ต้อง ไป ส่ง พัสดุ ที่ สถานี ไปรษณีย์",
+        "romaji": "phom tong pai sòng pat-su thati sa-thani pras-ni",
+        "en": "I need to go deliver a package at the post office.",
+        "grammar_audio": "/audio/thai/grammar/s_ส่ง_sòng_-_To_send_to_deliver_20231230_ผม_ต้อง_ไป_ส่ง_พัสดุ_ที่_สถานี_ไปรษณีย์.mp3"
+      },
+      {
+        "th": "พ่อ ส่ง ป้า กลับบ้าน ด้วย รถ",
+        "romaji": "por sòng pa glap baan duay rot",
+        "en": "Dad sends Aunt home by car.",
+        "grammar_audio": "/audio/thai/grammar/s_ส่ง_sòng_-_To_send_to_deliver_20231230_พ่อ_ส่ง_ป้า_กลับบ้าน_ด้วย_รถ.mp3"
+      },
+      {
+        "th": "ร้าน ส่ง อาหาร มา ถึง บ้าน ของ ฉัน",
+        "romaji": "raan sòng a-haan ma thueang baan kong chan",
+        "en": "The restaurant delivers food to my house.",
+        "grammar_audio": "/audio/thai/grammar/s_ส่ง_sòng_-_To_send_to_deliver_20231230_ร้าน_ส่ง_อาหาร_มา_ถึง_บ้าน_ของ_ฉัน.mp3"
+      }
+    ],
+    "p_tag": "CU-TFL_1",
+    "s_tag": "75"
+  },
+  {
+    "title": "นำ (nam) - To lead, bring",
+    "short_explanation": "Used to indicate the action of 'leading' or 'bringing' something or someone.",
+    "long_explanation": "The word 'นำ (nam)' is commonly used in Thai language to show the action of leading or bringing. This can refer to leading a person or group, bringing an object from one place to another, or more abstractly, leading or bringing a concept or idea forward. When used with a pronoun, it can indicate the person carrying out the action of leading or bringing.",
+    "formation": "Subject + นำ + Object/Person",
+    "examples": [
+      {
+        "th": "วัน นี้ ฉัน จะ นำ น้องสาว ของ ฉัน ไป ดู หนัง ที่ โรงภาพยนตร์",
+        "romaji": "Wan níi, chǎn jà nam nóngsǎao kǒng chǎn pai duu nǎng thîi roongpâapyntr",
+        "en": "Today, I will bring my younger sister to watch a movie at the cinema.",
+        "grammar_audio": "/audio/thai/grammar/s_นำ_nam_-_To_lead_bring_20231230_วัน_นี้_ฉัน_จะ_นำ_น้องสาว_ของ_ฉัน_ไป_ดู_หนัง_ที่_โรงภาพยนตร์.mp3"
+      },
+      {
+        "th": "เขา นำ ทีม ใน การ แข่งขัน ฟุตบอล และ ชนะ ได้",
+        "romaji": "Khao nam teem nai kaan khaengkhan footbon lae chana dai",
+        "en": "He lead the team in the football match and won.",
+        "grammar_audio": "/audio/thai/grammar/s_นำ_nam_-_To_lead_bring_20231230_เขา_นำ_ทีม_ใน_การ_แข่งขัน_ฟุตบอล_และ_ชนะ_ได้.mp3"
+      },
+      {
+        "th": "แม่ นำ ผัก ที่ ซื้อ มาจาก ตลาด ใส่ ตู้เย็น",
+        "romaji": "Mae nam phak thi suea majak talat sai tuu yen.",
+        "en": "Mother puts the vegetables she bought from the market into the refrigerator.",
+        "grammar_audio": "/audio/thai/grammar/s_นำ_nam_-_To_lead_bring_20231230_แม่_นำ_ผัก_ที่_ซื้อ_มาจาก_ตลาด_ใส่_ตู้เย็น.mp3"
+      },
+      {
+        "th": "ผม นำ ความคิด ใหม่ มา สู่ การประชุม ใน วัน นี้",
+        "romaji": "Phom nam khwam kit mai ma suu kaan prachum nai wan nii",
+        "en": "I bring new ideas to the meeting today.",
+        "grammar_audio": "/audio/thai/grammar/s_นำ_nam_-_To_lead_bring_20231230_ผม_นำ_ความคิด_ใหม่_มา_สู่_การประชุม_ใน_วัน_นี้.mp3"
+      }
+    ],
+    "p_tag": "CU-TFL_1",
+    "s_tag": "75"
+  },
+  {
+    "title": "เสีย (sǐa) - To lose, broken, unfortunately",
+    "short_explanation": "Used to indicate loss, damage, destruction, or misfortune.",
+    "long_explanation": "The word 'เสีย (sǐa)' is used in Thai language for expressing different situations such as loss of something, a thing being broken or damaged, or an unfortunate event. This multifaceted word can be placed after a verb to intensify the negative aspect or undesired outcome of the action, hence it is often translated as 'unfortunately'.",
+    "formation": "Verb + เสีย",
+    "examples": [
+      {
+        "th": "ผม ทำ งาน อยู่ แล้ว เต็ม ที่ แต่ ต้อง ยอม รับ เครียด เสีย",
+        "romaji": "Phom tham ngan yu laew tem thi tae dtong yom rap khriat sǐa",
+        "en": "I am working as hard as I can but, unfortunately, I must admit that I'm stressed.",
+        "grammar_audio": "/audio/thai/grammar/s_เสีย_sǐa_-_To_lose_broken_unfortunately_20231230_ผม_ทำ_งาน_อยู่_แล้ว_เต็ม_ที่_แต่_ต้อง_ยอม_รับ_เครียด_เสีย.mp3"
+      },
+      {
+        "th": "을 가지고 สิ่ง ที่ เขา รัก ของ ของ เขา เสีย",
+        "romaji": "Khao ji siang thi khao rak kong kong khao sǐa",
+        "en": "He lost his beloved thing.",
+        "grammar_audio": "/audio/thai/grammar/s_เสีย_sǐa_-_To_lose_broken_unfortunately_20231230_을_가지고_สิ่ง_ที่_เขา_รัก_ของ_ของ_เขา_เสีย.mp3"
+      },
+      {
+        "th": "ใคร ไม่ บางครั้ง ทำ เรื่อง ดี พอ ใจ แล้ว จะ รู้สึก เศร้า เสีย",
+        "romaji": "Krai mai bang khrang tham rueang dee pho jai laew ja ru suek sao sǐa",
+        "en": "Who hasn't felt sad after trying to do good things, only to find it wasn't enough?",
+        "grammar_audio": "/audio/thai/grammar/s_เสีย_sǐa_-_To_lose_broken_unfortunately_20231230_ใคร_ไม่_บางครั้ง_ทำ_เรื่อง_ดี_พอ_ใจ_แล้ว_จะ_รู้สึก_เศร้า_เสีย.mp3"
+      },
+      {
+        "th": "ยิ่ง รู้ แต่ ทว่า ไม่ได้ ลงมือ ทำ จริงๆ ก็ ทำให้ ความรู้ เสีย",
+        "romaji": "Ying ru tae thwa mai dai long mue tam jing jing gor tham hai khwam ru sǐa",
+        "en": "The more you know but don't actually do, the more knowledge you lose.",
+        "grammar_audio": "/audio/thai/grammar/s_เสีย_sǐa_-_To_lose_broken_unfortunately_20231230_ยิ่ง_รู้_แต่_ทว่า_ไม่ได้_ลงมือ_ทำ_จริงๆ_ก็_ทำให้_ความรู้_เสีย.mp3"
+      }
+    ],
+    "p_tag": "CU-TFL_1",
+    "s_tag": "75"
+  }
+]

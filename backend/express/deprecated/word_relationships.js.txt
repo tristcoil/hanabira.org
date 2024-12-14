@@ -1,0 +1,279 @@
+// --------------------------------------------------
+// --- DATABASE SEEDING FILE TO BE RUN SEPARATELY ---
+// --------------------------------------------------
+// takes care of the relationship creation
+// how to check if populated correctly:
+//
+// >mongo
+// >show dbs             (zenRelationships)
+// >use zenRelationships
+// >show collections     (words, sentences)
+// >db.words.find({})
+// >db.sentences.find({})
+//
+// drop db if needed
+//> use zenRelationships
+//> db.dropDatabase();
+//{ "dropped" : "zenRelationships", "ok" : 1 }
+
+// all code is asynchronous, we cannot print something and expect result to be below it
+
+// Why am i getting all those errors?
+// The error in this code is that the Word.insertMany() and Sentence.insertMany() methods are not being awaited. As a result, the script is likely to complete before the documents are inserted into the database.
+
+// To fix this, you should change
+
+// Word.insertMany([...]);
+// Sentence.insertMany([...]);
+
+// to
+
+// await Word.insertMany([...]);
+// await Sentence.insertMany([...]);
+
+// This will ensure that the script waits for the documents to be inserted into the database before continuing.
+
+// Additionally, instead of using insertMany, you should use create which is more secure and will handle errors in a more organized way.
+
+// It should look like this
+
+// await Word.create([...], { ordered: false});
+// await Sentence.create([...], { ordered: false});
+
+// ordered: false is added so that you can insert many documents and if some of them fail, it will not stop the execution.
+
+// The await keyword should be used in an async function. The code containing await connectToDb() should be wrapped in an async function, or the connectToDb function should be called as connectToDb().then() or await connectToDb().catch()
+// The Word.insertMany and Sentence.insertMany methods are not part of the mongoose library, should use create method instead of insertMany.
+// you should use mongoose.connection.close() after all the async operations are done, to close the connection to the MongoDB server.
+
+
+const mongoose = require("mongoose");
+const { Schema } = mongoose;
+
+
+
+const connectToDb = async () => {
+  const dbHost = "localhost";
+  const dbPort = 27017;
+  const dbName = "zenRelationshipsAutomated";
+
+  try {
+    await mongoose.connect("mongodb://" + dbHost + ":" + dbPort + "/" + dbName, {
+      useNewUrlParser: true,
+      useUnifiedTopology: true,
+    });
+    console.log("Mongo Connection Open.");
+  } catch (err) {
+    console.log("Mongo Connection ERROR!!!!");
+    console.log(err);
+  }
+}
+
+
+// parent object
+const wordSchema = new Schema({
+  vocabulary_japanese: { type: String, unique: true, required: true },
+  vocabulary_simplified: String,
+  vocabulary_english: { type: String, required: true },
+  vocabulary_audio: String,
+  word_type: String,
+  p_tag: String, // parent tag 'JLPT N3'
+  s_tag: String, // sub tag '100'
+  sentences: [{ type: Schema.Types.ObjectId, ref: "Sentence" }],
+});
+
+
+// child object
+const sentenceSchema = new Schema({
+  sentence_japanese: { type: String, unique: true, required: true },
+  sentence_simplified: String,
+  sentence_english: { type: String, required: true },
+  sentence_audio: String,
+  sentence_picture: String,
+  key: { type: String, required: true },
+});
+
+// model compilation
+const Word = mongoose.model("Word", wordSchema);
+const Sentence = mongoose.model("Sentence", sentenceSchema);
+
+
+(async (wordSchema, sentenceSchema) => {
+  await connectToDb();
+
+await Word.insertMany([
+  {
+    vocabulary_japanese: "入場券",
+    vocabulary_simplified: "にゅうじょうけん",
+    vocabulary_english: "entrance ticket",
+    word_type: "Verb",
+    vocabulary_audio: "/audio/vocab/v_入場券.mp3",
+  },
+]);
+
+await Sentence.insertMany([
+  {
+    sentence_japanese: "入場券は3000円です。",
+    sentence_simplified: "にゅうじょう けん は 3000 えん です。",
+    sentence_english: "The admission ticket is 3,000 yen.",
+    sentence_audio: "/audio/sentences/s_入場券_20230121_入場券は3000円です.mp3",
+    sentence_picture: "/assets/3.jpg",
+    key: "入場券",
+  },
+]);
+
+
+
+
+// ------------------------ END OF DEFINITIONS v2 ----------------------------
+
+// words and sentences are (should be) already seeded
+// const addSentenceRelationship = async (vocab) => {
+//   console.log("func processing vocab word: " + vocab);
+
+//   const word = await Word.findOne({ vocabulary_japanese: vocab });
+//   const tkt_sentences = await Sentence.find({ key: vocab });
+//   tkt_sentences.forEach((item, idx) => {
+//     console.log(idx);
+//     console.log(item);
+//     word.sentences.push(item);
+//   });
+//   await word.save();
+//   console.log(word);
+
+//   // join word with all found related sentences
+//   // this will bake in our word-sentences relationship
+//   console.log("populated word: ");
+//   Word.findOne({ vocabulary_japanese: vocab })
+//     .populate("sentences")
+//     .then((word) => console.log(word));
+// };
+
+// code that waits until words and sentences are found
+// then executes the rest of the code
+const addSentenceRelationship = async (vocab) => {
+  console.log("func processing vocab word: " + vocab);
+  try {
+    const word = await Word.findOne({ vocabulary_japanese: vocab });
+    const tkt_sentences = await Sentence.find({ key: vocab });
+    if (tkt_sentences.length === 0) {
+      console.log("No sentences found for the given vocab: " + vocab);
+    } else {
+      word.sentences = [];
+      tkt_sentences.forEach((item) => {
+        word.sentences.push(item);
+      });
+      const savedWord = await word.save();
+      console.log(savedWord);
+      console.log("populated word: ");
+      const populatedWord = await Word.findOne({
+        vocabulary_japanese: vocab,
+      }).populate("sentences");
+      console.log(populatedWord);
+    }
+  } catch (error) {
+    console.log(error);
+  }
+};
+
+
+//manually creating relationships
+//let vocab1 = "入場券";
+//console.log("vocab word outside function: " + vocab1);
+//addSentenceRelationship(vocab1);
+
+//let vocab2 = "切る";
+//console.log("vocab word outside function: " + vocab2);
+//addSentenceRelationship(vocab2);
+
+//let vocab3 = "楽しい";
+//console.log("vocab word outside function: " + vocab3);
+//addSentenceRelationship(vocab3);
+
+// ------------------------------------------------------
+// Chat GPT generalization:
+// ------------------------------------------------------
+
+// automatically creating relationships
+const addSentencesRelationships = (vocabulary) => {
+  vocabulary.forEach((vocab) => {
+    console.log("vocab word outside function: " + vocab);
+    addSentenceRelationship(vocab);
+  });
+};
+
+let vocabulary = ["入場券", "切る", "楽しい"];
+addSentencesRelationships(vocabulary);
+
+// -------------------------------------------
+// ------- unused code for reference ---------
+// -------------------------------------------
+
+// ------------------ DEFINITIONS v1 ----------------------
+
+// parent object
+//const wordSchema = new Schema({
+//    jap: { type: String, unique: true, required: true },
+//    sim: String,
+//    eng: { type: String, required: true },
+//    path: String,
+//    type: String,
+//    p_tag: String,      // parent tag 'JLPT N3'
+//    s_tag: String,      // sub tag '100'
+//    sentences: [{ type: Schema.Types.ObjectId, ref: 'Sentence' }]
+//})
+
+// child object
+//const sentenceSchema = new Schema({
+//    jap: { type: String, unique: true, required: true },
+//    sim: String,
+//    eng: { type: String, required: true },
+//    path: String,
+//    key: { type: String, required: true },
+//});
+
+// model compilation
+//const Word = mongoose.model('Word', wordSchema);
+//const Sentence = mongoose.model('Sentence', sentenceSchema);
+
+// db seeding
+//const word = new Word({ jap: '入場券', sim: 'にゅうじょうけん', eng: 'entrance ticket' });
+//word.save();
+//
+
+//Word.insertMany([
+//    { jap: '入場券。', sim: 'にゅうじょうけん', eng: 'entrance ticket'},
+// ])
+//
+//Sentence.insertMany([
+//     { jap: '入場券は3000円です。', sim: 'にゅうじょう けん は 3000 えん です。', eng: 'The admission ticket is 3,000 yen.', key: '入場券' },
+//     { jap: '入場券をお持ちですか。', sim: 'にゅうじょう けん を おもち です か。', eng: 'Do you have an admission ticket?', key: '入場券' },
+// ])
+
+// ------------------------ END OF DEFINITIONS v1 ----------------------------
+
+// we will have all words seeded
+//const makeWord = async () => {
+//    console.log('makeWord:');
+//    const word = new Word({ jap: '入場券', sim: 'にゅうじょうけん', eng: 'entrance ticket' });
+//    //const ticket = await Sentence.findOne({ key: '入場券' });
+//    //word.sentences.push(ticket)
+//    await word.save()
+//    console.log(word);
+//}
+
+// gets all sentences containing given word
+// we get array of objects and then loop over the array
+//const loopSentences = async () => {
+//    console.log('loopSentences:');
+//    const tkt_sentences = await Sentence.find({ key: '入場券' });
+//    console.log(tkt_sentences);
+//
+//    console.log('looping over arr:');
+//    tkt_sentences.forEach((item, idx) => {
+//        console.log(item);
+//        console.log('index:' + idx);
+//    });
+//}
+
+//loopSentences();

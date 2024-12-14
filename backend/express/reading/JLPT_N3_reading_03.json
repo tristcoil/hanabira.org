@@ -1,0 +1,305 @@
+{
+  "key": "jlpt_n3_reading_03",
+  "title": "The Haiku Challenge",
+  "titleRomaji": "Haiku Charenji",
+  "titleJp": "俳句チャレンジ",
+  "p_tag": "jlpt_n3",
+  "s_tag": "story",
+  "shortDescription": "A character takes on the challenge to write a haiku every day, with each poem reflecting an aspect of their daily life and inner thoughts.",
+  "shortDescriptionRomaji": "Aru kyarakutā ga mainichi haiku o yomu chōsen ni torikumi, sorezore no shi ga hibi no seikatsu to naimen no shikō o han'ei shiteimasu.",
+  "shortDescriptionJp": "あるキャラクターが毎日俳句を詠む挑戦に取り組み、それぞれの詩が日々の生活と内面の思考を反映しています。",
+  "textAudio": "/audio/japanese/JLPT_N3_reading_03/JLPT_N3_jp_reading_03.mp3",
+  "textAudio_1": "/audio/japanese/JLPT_N3_reading_03/JLPT_N3_jp_reading_03.mp3",
+  "textAudioEn": "/audio/japanese/JLPT_N3_reading_03/JLPT_N3_en_reading_03.mp3",
+  "textAudioEn_1": "/audio/japanese/JLPT_N3_reading_03/JLPT_N3_en_reading_03.mp3",
+  "japaneseText": [
+    "賑やかな大阪市に、詩への情熱を持つオフィスワーカー、健二という若者が住んでいました。健二は日常の重圧を感じており、人生についての反省を表現する創造的なはけ口を探していました。彼は個人的な挑戦を始めることにしました: 毎日俳句を詠み、彼の経験の本質としばしば見過ごされがちな儚い瞬間を捉えること。",
+    "健二は毎朝、小さなアパートのバルコニーから日の出を思索しながら新しい俳句を詠み始めました。彼の最初の詩は夜明けの反映として現れました:",
+    "琥珀色が広がり、眠い街が下でざわめき、一日の最初の息が囁く。",
+    "日々が過ぎるにつれて、健二の俳句は彼の日常生活のタペストリーを織りなし始めました。彼は公園で遊ぶ子供たちの笑い声、ネオンサインの上にぶら下がる月の孤独、春風に舞う桜のダンスについて詠みました。各俳句は彼の一日のスナップショットであり、彼の思考と観察を通じた十七音節の旅でした。",
+    "桜が散る、無言のピンク色の滝、儚い美しさ。",
+    "挑戦は困難を伴うものでした。健二は疲れすぎたり、詠むインスピレーションがない日もありました。しかし、彼は持ちこたえ、ありふれたことにインスピレーションを見出しました: 夕方のお茶から立ち昇る蒸気、窓に打ちつける雨の音、見知らぬ人の微笑み。",
+    "雨がガラスにたたく、リズミカルで慰めの子守唄、自然の優しい抱擁。",
+    "毎日の俳句を詠むことで、健二の周囲の世界に対する認識は深まりました。彼は光と影の遊び、空のさまざまな色合い、自然の複雑なパターンに気づき始めました。彼の日常的な練習は瞑想となり、都市生活の混沌の中で自分自身を中心に据える方法となりました。",
+    "年が終わる頃、健二は彼の挑戦が彼を変えたことに気づきました。彼は人生の瞬間を凝縮した365の俳句を集めていました。彼は地元のカフェで小さな展示会を開くことにしました。彼の俳句は多くの人々に響き、彼らに平和の瞬間と日常生活の美しさに対する新たな視点を提供しました。",
+    "終わりが始まりにつながる、毎日の詩が種を植える、詩の中の人生のサイクル。",
+    "健二の俳句チャレンジは自己発見とつながりの旅となり、世界のささやきに注意を払い、普通の中に非凡なものを見出す力の証となりました。"
+  ],
+  "romanizedText": [
+    "Nigiyakana Ōsaka-shi ni, shi e no jōnetsu o motsu ofisuwākā, Kenji to iu wakamono ga sunde imashita. Kenji wa nichijō no jūatsu o kanjite ori, jinsei ni tsuite no hansei o hyōgen suru sōzōteki na hakeguchi o sagashite imashita. Kare wa kojinteki na chōsen o hajimeru koto ni shimashita: Mainichi haiku o yomi, kare no keiken no honshitsu to shibashiba misugosaregachi na hakanai shunkan o toraeru koto.",
+    "Kenji wa maiasa, chīsana apāto no barukonī kara hinode o shisō shinagara atarashii haiku o yomihajimemashita. Kare no saisho no shi wa yoake no han'ei toshite arawaremashita:",
+    "Kohakuiro ga hirogari, nemui machi ga shita de zawameki, ichinichi no saisho no iki ga sasayaku.",
+    "Hibi ga sugiru ni tsurete, Kenji no haiku wa kare no nichijō seikatsu no tapesutorī o orinashihajimemashita. Kare wa kōen de asobu kodomo-tachi no waraigoe, neon sain no ue ni burasagaru tsuki no kodoku, harukaze ni mau sakura no dansu ni tsuite yomimashita. Kaku haiku wa kare no ichinichi no sunappushotto de ari, kare no shikō to kansatsu o tōshita jūshichion no tabi deshita.",
+    "Sakura ga chiru, mugon no pinku-iro no taki, hakanai utsukushisa.",
+    "Chōsen wa konnan o tomonau mono deshita. Kenji wa tsukaresugitari, yomu insupirēshon ga nai hi mo arimashita. Shikashi, kare wa mochikotaete, arifureta koto ni insupirēshon o miidashimashita: Yūgata no ocha kara tachinoboru jōki, mado ni uchitsukeru ame no oto, mishiranu hito no hohoemi.",
+    "Ame ga garasu ni tataku, rizumikaru de nagusame no komoriuta, shizen no yasashī hōyō.",
+    "Mainichi no haiku o yomu koto de, Kenji no shūi no sekai ni taisuru ninshiki wa fukamarimashita. Kare wa hikari to kage no asobi, sora no samazama na iroai, shizen no fukuzatsu na patān ni kizukihajimemashita. Kare no nichijō-teki na renshū wa meiso tonari, toshi seikatsu no konton no naka de jibun jishin o chūshin ni sueru hōhō to narimashita.",
+    "Toshi ga owaru koro, Kenji wa kare no chōsen ga kare o kaeta koto ni kizukimashita. Kare wa jinsei no shunkan o gyōshuku shita 365 no haiku o atsumete imashita. Kare wa jimoto no kafe de chīsana tenjikai o hiraku koto ni shimashita. Kare no haiku wa ōku no hitobito ni hibiki, karera ni heiwa no shunkan to nichijō seikatsu no utsukushisa ni taisuru aratana shiten o teikyō shimashita.",
+    "Owari ga hajimari ni tsunagaru, mainichi no shi ga tane o ueru, shi no naka no jinsei no saikuru.",
+    "Kenji no haiku charenji wa jiko hakken to tsunagari no tabi to nari, sekai no sasayaki ni chūi o harai, futsū no naka ni hijō na mono o miidasu chikara no akashi to narimashita."
+  ],
+  "englishTranslation": [
+    "In the bustling city of Osaka, there lived a young man named Kenji, an office worker with a passion for poetry. Kenji felt the weight of his daily routine and sought a creative outlet to express his reflections on life. He decided to embark on a personal challenge: to write a haiku every day, capturing the essence of his experiences and the fleeting moments that often went unnoticed.",
+    "Kenji began each morning with a fresh haiku, contemplating the sunrise from his tiny apartment's balcony. His first poem emerged as a reflection of the dawn:",
+    "Amber light unfurls, Sleepy city stirs below, Day's first breath whispers.",
+    "As the days passed, Kenji's haikus started to weave a tapestry of his daily life. He wrote about the laughter of children playing in the park, the solitude of the moon hanging above neon signs, and the dance of cherry blossoms in the spring breeze. Each haiku was a snapshot of his day, a seventeen-syllable journey through his thoughts and observations.",
+    "Cherry blossoms fall, A silent, pink-hued cascade, Transient beauty.",
+    "The challenge was not without its difficulties. There were days when Kenji felt too tired or uninspired to write. Yet, he persisted, finding inspiration in the mundane: the steam rising from his evening tea, the patter of rain against his window, or the smile of a stranger.",
+    "Rain taps on the glass, Rhythmic, soothing lullaby, Nature's soft embrace.",
+    "With every haiku, Kenji's perception of the world around him deepened. He began to notice the play of light and shadow, the varied hues of the sky, and the intricate patterns of nature. His daily practice became a meditation, a way to center himself amidst the chaos of urban life.",
+    "As the year came to a close, Kenji realized that his challenge had transformed him. He had a collection of 365 haikus, each a distilled moment of his life. He decided to share his work in a small exhibition at a local café. To his surprise, his haikus resonated with many, offering them a moment of peace and a new perspective on the beauty of everyday life.",
+    "Endings lead to starts, Each day's poem plants a seed, Life's cycle in verse.",
+    "Kenji's haiku challenge became a journey of self-discovery and connection, a testament to the power of paying attention to the world's whispers and finding the extraordinary within the ordinary."
+  ],
+  "readingVocabulary": [
+    "賑やか (にぎやか) - Nigiyaka - Bustling, lively",
+    "情熱 (じょうねつ) - Jōnetsu - Passion",
+    "重圧 (じゅうあつ) - Jūatsu - Pressure, stress",
+    "反省 (はんせい) - Hansei - Reflection, introspection",
+    "創造的 (そうぞうてき) - Sōzōteki - Creative",
+    "本質 (ほんしつ) - Honshitsu - Essence, true nature",
+    "儚い (はかない) - Hakanai - Fleeting, ephemeral",
+    "思索 (しさく) - Shisaku - Contemplation, meditation",
+    "反映 (はんえい) - Han'ei - Reflection, mirroring",
+    "琥珀色 (こはくいろ) - Kohakuiro - Amber color",
+    "ざわめき (ざわめき) - Zawameki - Murmur, bustle",
+    "タペストリー (タペストリー) - Tapesutorī - Tapestry",
+    "孤独 (こどく) - Kodoku - Solitude, loneliness",
+    "瞑想 (めいそう) - Meisō - Meditation",
+    "混沌 (こんとん) - Konton - Chaos, disorder",
+    "凝縮 (ぎょうしゅく) - Gyōshuku - Condense, concentrate",
+    "展示会 (てんじかい) - Tenjikai - Exhibition",
+    "響き (ひびき) - Hibiki - Resonance, echo",
+    "サイクル (サイクル) - Saikuru - Cycle",
+    "自己発見 (じこはっけん) - Jikohakken - Self-discovery",
+    "ささやき (ささやき) - Sasayaki - Whisper",
+    "非凡 (ひぼん) - Hibon - Extraordinary, remarkable",
+    "日の出 (ひので) - Hinode - Sunrise",
+    "季語 (きご) - Kigo - Seasonal word (in haiku)",
+    "瞬間 (しゅんかん) - Shunkan - Moment, instant",
+    "重圧感 (じゅうあつかん) - Jūatsukan - Sense of pressure",
+    "創作 (そうさく) - Sōsaku - Creation, work of art",
+    "日常生活 (にちじょうせいかつ) - Nichijō seikatsu - Daily life",
+    "複雑 (ふくざつ) - Fukuzatsu - Complex, complicated",
+    "自己表現 (じこひょうげん) - Jikohyōgen - Self-expression"
+  ],
+  "readingVocabularyEn": [
+    "bustling (にぎやかな) - 都会的で活気があり、多忙な様子。",
+    "passion (情熱) - 強い感情や熱意。",
+    "reflections (反省) - 思考や考察、内省。",
+    "essence (本質) - 何かの最も重要または基本的な特質や性質。",
+    "fleeting (儚い) - すぐに過ぎ去る、短命の。",
+    "unnoticed (見過ごされがちな) - 注意されない、見落とされがちな。",
+    "contemplating (思索する) - 深く考える、熟考する。",
+    "emerged (現れた) - 姿を現す、出現する。",
+    "tapestry (タペストリー) - 織り成すこと、複雑で詳細な様子。",
+    "solitude (孤独) - ひとりでいる状態、孤立。",
+    "cascade (滝) - 滝のように流れ落ちること。",
+    "transient (一時的な) - 一時的で、永続しない。",
+    "persisted (持ちこたえる) - 諦めずに続ける。",
+    "mundane (ありふれた) - 平凡な、日常の。",
+    "rhythmic (リズミカルな) - 規則的なリズムや調子を持つ。",
+    "soothing (慰めの) - 心を落ち着かせる、和らげる。",
+    "embrace (抱擁) - 抱きしめる行為、受け入れ。",
+    "perception (認識) - 物事を理解する能力や方法。",
+    "intricate (複雑な) - 非常に詳細で複雑な。",
+    "meditation (瞑想) - 深い思索や精神的な集中。",
+    "amidst (～の中で) - 真ん中にある、～の間に。",
+    "transformed (変えられた) - 変化させる、変形させる。",
+    "distilled (凝縮した) - 精製された、本質だけを抽出した。",
+    "resonated (響き) - 共感や反響を呼ぶ。",
+    "perspective (視点) - 見る角度、考え方。",
+    "extraordinary (非凡な) - 普通ではない、並外れた。",
+    "testament (証) - 証拠、証明。",
+    "self-discovery (自己発見) - 自己理解を深める過程。",
+    "connection (つながり) - 関係や結びつき。",
+    "cycle (サイクル) - 周期、循環。"
+  ],
+  "readingGrammar": [
+    "賑やかな - This is an adjective that describes something as bustling or lively. The 'な' suffix is used because it modifies the noun 大阪市 (Osaka city), showing that it is a na-adjective.",
+    "情熱を持つ - This phrase means 'to have a passion for.' 情熱 (jōnetsu) means 'passion,' and 持つ (motsu) means 'to have.' This is a relative clause that modifies オフィスワーカー (office worker).",
+    "重圧を感じており - The phrase 重圧を感じる means 'to feel pressure,' with 重圧 (jūatsu) meaning 'pressure' or 'heavy burden.' The おり form is the continuative form of いる, which, when used in written language, suggests a state of being or continuation.",
+    "個人的な挑戦を始めることにしました - This sentence means 'decided to start a personal challenge.' 個人的な (kojintekina) means 'personal,' 挑戦 (chōsen) means 'challenge,' and 始める (hajimeru) means 'to start.' The structure ことにする indicates a decision was made.",
+    "俳句を詠み - This is the verb 詠む (yomu) in its base form, which means 'to compose (a poem),' specifically used for Japanese poetry like 俳句 (haiku).",
+    "日々が過ぎるにつれて - This construction uses につれて (nitsurete), which means 'as' or 'with,' and it indicates that one action or state progresses or changes with another. 日々 (hibi) means 'days,' and 過ぎる (sugiru) means 'to pass,' so it describes changes over time.",
+    "観察を通じた - This phrase means 'through observation,' with 観察 (kansatsu) meaning 'observation' and 通じる (tsūjiru) meaning 'through' or 'by means of.' It shows the method or means by which something is done.",
+    "持ちこたえ - This verb, 持ちこたえる (mochikotaeru), means 'to hold out' or 'to endure.' The form used here is the stem form, which can imply a continuation or readiness to perform the next action.",
+    "光と影の遊び - The phrase means 'play of light and shadow,' with 遊び (asobi) meaning 'play' or 'interplay,' describing the visual effect of light and shadow.",
+    "終わりが始まりにつながる - This phrase means 'the end leads to a beginning.' 終わり (owari) means 'end,' 始まり (hajimari) means 'beginning,' and つながる (tsunagaru) means 'to connect' or 'to lead to.' It's a poetic way of saying that one phase's conclusion is the inception of another."
+  ],
+  "readingGrammarEn": [
+    "現在完了形 - 'has transformed him' は動作が過去に始まって現在まで続いていることを示す現在完了形です。日本語では「〜してしまった」と訳されることがあります。",
+    "過去進行形 - 'was not without' は過去の継続した状態を示す過去進行形です。否定形を使っているため、何かが存在したことを間接的に示しています。",
+    "過去完了形 - 'had a collection' は過去のある時点で完了していた動作を示す過去完了形です。これはその時点より前に集めたコレクションがあったことを意味します。",
+    "不定詞の完了形 - 'to have written' は不定詞の完了形で、動作が未来のある時点で完了することを示します。",
+    "分詞構文 - 'capturing the essence' では、動名詞「capturing」が主動詞「write」の動作を説明しており、並行して行われる動作を表しています。",
+    "比喩的表現 - 'tapestry of his daily life' は日常生活を織物に例えた比喩的な表現で、様々な出来事が複雑に絡み合っている様子を示しています。",
+    "条件節 - 'If the user references' は条件節であり、「もしユーザーが参照したら」という仮定の状況を示しています。",
+    "仮定法過去 - 'were days when Kenji felt' は仮定法の過去形で、実際に経験したことではなく、ある時点での可能性を示しています。",
+    "現在分詞 - 'offering them a moment of peace' では、「offering」が現在分詞で使われ、主動詞「resonated」の結果を示しています。",
+    "動名詞 - 'finding inspiration in the mundane' では、「finding」が動名詞で、持続的な動作または状態を示しています。"
+  ],
+  "sentencePayload": [
+    {
+      "japanese": "賑やかな大阪市に、詩への情熱を持つオフィスワーカー、健二という若者が住んでいました。",
+      "romanization": "Nigiyakana Ōsaka-shi ni, shi e no jōnetsu o motsu ofisuwākā, Kenji to iu wakamono ga sunde imashita.",
+      "translation": "In the bustling city of Osaka, there lived a young man named Kenji, an office worker with a passion for poetry.",
+      "audioPath": "/audio/japanese/JLPT_N3_reading_03/r_jp_01.mp3",
+      "audioPathEn": "/audio/japanese/JLPT_N3_reading_03/r_en_01.mp3"
+    },
+    {
+      "japanese": "健二は日常の重圧を感じており、人生についての反省を表現する創造的なはけ口を探していました。",
+      "romanization": "Kenji wa nichijō no jūatsu o kanjite ori, jinsei ni tsuite no hansei o hyōgen suru sōzōteki na hakeguchi o sagashite imashita.",
+      "translation": "Kenji felt the weight of his daily routine and sought a creative outlet to express his reflections on life.",
+      "audioPath": "/audio/japanese/JLPT_N3_reading_03/r_jp_02.mp3",
+      "audioPathEn": "/audio/japanese/JLPT_N3_reading_03/r_en_02.mp3"
+    },
+    {
+      "japanese": "彼は個人的な挑戦を始めることにしました: 毎日俳句を詠み、彼の経験の本質としばしば見過ごされがちな儚い瞬間を捉えること。",
+      "romanization": "Kare wa kojinteki na chōsen o hajimeru koto ni shimashita: Mainichi haiku o yomi, kare no keiken no honshitsu to shibashiba misugosaregachi na hakanai shunkan o toraeru koto.",
+      "translation": "He decided to embark on a personal challenge: to write a haiku every day, capturing the essence of his experiences and the fleeting moments that often went unnoticed.",
+      "audioPath": "/audio/japanese/JLPT_N3_reading_03/r_jp_03.mp3",
+      "audioPathEn": "/audio/japanese/JLPT_N3_reading_03/r_en_03.mp3"
+    },
+    {
+      "japanese": "健二は毎朝、小さなアパートのバルコニーから日の出を思索しながら新しい俳句を詠み始めました。",
+      "romanization": "Kenji wa maiasa, chīsana apāto no barukonī kara hinode o shisō shinagara atarashii haiku o yomihajimemashita.",
+      "translation": "Kenji began each morning with a fresh haiku, contemplating the sunrise from his tiny apartment's balcony.",
+      "audioPath": "/audio/japanese/JLPT_N3_reading_03/r_jp_04.mp3",
+      "audioPathEn": "/audio/japanese/JLPT_N3_reading_03/r_en_04.mp3"
+    },
+    {
+      "japanese": "彼の最初の詩は夜明けの反映として現れました:",
+      "romanization": "Kare no saisho no shi wa yoake no han'ei toshite arawaremashita:",
+      "translation": "His first poem emerged as a reflection of the dawn:",
+      "audioPath": "/audio/japanese/JLPT_N3_reading_03/r_jp_05.mp3",
+      "audioPathEn": "/audio/japanese/JLPT_N3_reading_03/r_en_05.mp3"
+    },
+    {
+      "japanese": "琥珀色が広がり、眠い街が下でざわめき、一日の最初の息が囁く。",
+      "romanization": "Kohakuiro ga hirogari, nemui machi ga shita de zawameki, ichinichi no saisho no iki ga sasayaku.",
+      "translation": "Amber light unfurls, Sleepy city stirs below, Day's first breath whispers.",
+      "audioPath": "/audio/japanese/JLPT_N3_reading_03/r_jp_06.mp3",
+      "audioPathEn": "/audio/japanese/JLPT_N3_reading_03/r_en_06.mp3"
+    },
+    {
+      "japanese": "日々が過ぎるにつれて、健二の俳句は彼の日常生活のタペストリーを織りなし始めました。",
+      "romanization": "Hibi ga sugiru ni tsurete, Kenji no haiku wa kare no nichijō seikatsu no tapesutorī o orinashihajimemashita.",
+      "translation": "As the days passed, Kenji's haikus started to weave a tapestry of his daily life.",
+      "audioPath": "/audio/japanese/JLPT_N3_reading_03/r_jp_07.mp3",
+      "audioPathEn": "/audio/japanese/JLPT_N3_reading_03/r_en_07.mp3"
+    },
+    {
+      "japanese": "彼は公園で遊ぶ子供たちの笑い声、ネオンサインの上にぶら下がる月の孤独、春風に舞う桜のダンスについて詠みました。",
+      "romanization": "Kare wa kōen de asobu kodomo-tachi no waraigoe, neon sain no ue ni burasagaru tsuki no kodoku, harukaze ni mau sakura no dansu ni tsuite yomimashita.",
+      "translation": "He wrote about the laughter of children playing in the park, the solitude of the moon hanging above neon signs, and the dance of cherry blossoms in the spring breeze.",
+      "audioPath": "/audio/japanese/JLPT_N3_reading_03/r_jp_08.mp3",
+      "audioPathEn": "/audio/japanese/JLPT_N3_reading_03/r_en_08.mp3"
+    },
+    {
+      "japanese": "各俳句は彼の一日のスナップショットであり、彼の思考と観察を通じた十七音節の旅でした。",
+      "romanization": "Kaku haiku wa kare no ichinichi no sunappushotto de ari, kare no shikō to kansatsu o tōshita jūshichion no tabi deshita.",
+      "translation": "Each haiku was a snapshot of his day, a seventeen-syllable journey through his thoughts and observations.",
+      "audioPath": "/audio/japanese/JLPT_N3_reading_03/r_jp_09.mp3",
+      "audioPathEn": "/audio/japanese/JLPT_N3_reading_03/r_en_09.mp3"
+    },
+    {
+      "japanese": "桜が散る、無言のピンク色の滝、儚い美しさ。",
+      "romanization": "Sakura ga chiru, mugon no pinku-iro no taki, hakanai utsukushisa.",
+      "translation": "Cherry blossoms fall, A silent, pink-hued cascade, Transient beauty.",
+      "audioPath": "/audio/japanese/JLPT_N3_reading_03/r_jp_10.mp3",
+      "audioPathEn": "/audio/japanese/JLPT_N3_reading_03/r_en_10.mp3"
+    },
+    {
+      "japanese": "挑戦は困難を伴うものでした。",
+      "romanization": "Chōsen wa konnan o tomonau mono deshita.",
+      "translation": "The challenge was not without its difficulties.",
+      "audioPath": "/audio/japanese/JLPT_N3_reading_03/r_jp_11.mp3",
+      "audioPathEn": "/audio/japanese/JLPT_N3_reading_03/r_en_11.mp3"
+    },
+    {
+      "japanese": "健二は疲れすぎたり、詠むインスピレーションがない日もありました。",
+      "romanization": "Kenji wa tsukaresugitari, yomu insupirēshon ga nai hi mo arimashita.",
+      "translation": "There were days when Kenji felt too tired or uninspired to write.",
+      "audioPath": "/audio/japanese/JLPT_N3_reading_03/r_jp_12.mp3",
+      "audioPathEn": "/audio/japanese/JLPT_N3_reading_03/r_en_12.mp3"
+    },
+    {
+      "japanese": "しかし、彼は持ちこたえ、ありふれたことにインスピレーションを見出しました: 夕方のお茶から立ち昇る蒸気、窓に打ちつける雨の音、見知らぬ人の微笑み。",
+      "romanization": "Shikashi, kare wa mochikotaete, arifureta koto ni insupirēshon o miidashimashita: Yūgata no ocha kara tachinoboru jōki, mado ni uchitsukeru ame no oto, mishiranu hito no hohoemi.",
+      "translation": "Yet, he persisted, finding inspiration in the mundane: the steam rising from his evening tea, the patter of rain against his window, or the smile of a stranger.",
+      "audioPath": "/audio/japanese/JLPT_N3_reading_03/r_jp_13.mp3",
+      "audioPathEn": "/audio/japanese/JLPT_N3_reading_03/r_en_13.mp3"
+    },
+    {
+      "japanese": "雨がガラスにたたく、リズミカルで慰めの子守唄、自然の優しい抱擁。",
+      "romanization": "Ame ga garasu ni tataku, rizumikaru de nagusame no komoriuta, shizen no yasashī hōyō.",
+      "translation": "Rain taps on the glass, Rhythmic, soothing lullaby, Nature's soft embrace.",
+      "audioPath": "/audio/japanese/JLPT_N3_reading_03/r_jp_14.mp3",
+      "audioPathEn": "/audio/japanese/JLPT_N3_reading_03/r_en_14.mp3"
+    },
+    {
+      "japanese": "毎日の俳句を詠むことで、健二の周囲の世界に対する認識は深まりました。",
+      "romanization": "Mainichi no haiku o yomu koto de, Kenji no shūi no sekai ni taisuru ninshiki wa fukamarimashita.",
+      "translation": "With every haiku, Kenji's perception of the world around him deepened.",
+      "audioPath": "/audio/japanese/JLPT_N3_reading_03/r_jp_15.mp3",
+      "audioPathEn": "/audio/japanese/JLPT_N3_reading_03/r_en_15.mp3"
+    },
+    {
+      "japanese": "彼は光と影の遊び、空のさまざまな色合い、自然の複雑なパターンに気づき始めました。",
+      "romanization": "Kare wa hikari to kage no asobi, sora no samazama na iroai, shizen no fukuzatsu na patān ni kizukihajimemashita.",
+      "translation": "He began to notice the play of light and shadow, the varied hues of the sky, and the intricate patterns of nature.",
+      "audioPath": "/audio/japanese/JLPT_N3_reading_03/r_jp_16.mp3",
+      "audioPathEn": "/audio/japanese/JLPT_N3_reading_03/r_en_16.mp3"
+    },
+    {
+      "japanese": "彼の日常的な練習は瞑想となり、都市生活の混沌の中で自分自身を中心に据える方法となりました。",
+      "romanization": "Kare no nichijō-teki na renshū wa meiso tonari, toshi seikatsu no konton no naka de jibun jishin o chūshin ni sueru hōhō to narimashita.",
+      "translation": "His daily practice became a meditation, a way to center himself amidst the chaos of urban life.",
+      "audioPath": "/audio/japanese/JLPT_N3_reading_03/r_jp_17.mp3",
+      "audioPathEn": "/audio/japanese/JLPT_N3_reading_03/r_en_17.mp3"
+    },
+    {
+      "japanese": "年が終わる頃、健二は彼の挑戦が彼を変えたことに気づきました。",
+      "romanization": "Toshi ga owaru koro, Kenji wa kare no chōsen ga kare o kaeta koto ni kizukimashita.",
+      "translation": "As the year came to a close, Kenji realized that his challenge had transformed him.",
+      "audioPath": "/audio/japanese/JLPT_N3_reading_03/r_jp_18.mp3",
+      "audioPathEn": "/audio/japanese/JLPT_N3_reading_03/r_en_18.mp3"
+    },
+    {
+      "japanese": "彼は人生の瞬間を凝縮した365の俳句を集めていました。",
+      "romanization": "Kare wa jinsei no shunkan o gyōshuku shita 365 no haiku o atsumete imashita.",
+      "translation": "He had a collection of 365 haikus, each a distilled moment of his life.",
+      "audioPath": "/audio/japanese/JLPT_N3_reading_03/r_jp_19.mp3",
+      "audioPathEn": "/audio/japanese/JLPT_N3_reading_03/r_en_19.mp3"
+    },
+    {
+      "japanese": "彼は地元のカフェで小さな展示会を開くことにしました。",
+      "romanization": "Kare wa jimoto no kafe de chīsana tenjikai o hiraku koto ni shimashita.",
+      "translation": "He decided to share his work in a small exhibition at a local café.",
+      "audioPath": "/audio/japanese/JLPT_N3_reading_03/r_jp_20.mp3",
+      "audioPathEn": "/audio/japanese/JLPT_N3_reading_03/r_en_20.mp3"
+    },
+    {
+      "japanese": "彼の俳句は多くの人々に響き、彼らに平和の瞬間と日常生活の美しさに対する新たな視点を提供しました。",
+      "romanization": "Kare no haiku wa ōku no hitobito ni hibiki, karera ni heiwa no shunkan to nichijō seikatsu no utsukushisa ni taisuru aratana shiten o teikyō shimashita.",
+      "translation": "To his surprise, his haikus resonated with many, offering them a moment of peace and a new perspective on the beauty of everyday life.",
+      "audioPath": "/audio/japanese/JLPT_N3_reading_03/r_jp_21.mp3",
+      "audioPathEn": "/audio/japanese/JLPT_N3_reading_03/r_en_21.mp3"
+    },
+    {
+      "japanese": "終わりが始まりにつながる、毎日の詩が種を植える、詩の中の人生のサイクル。",
+      "romanization": "Owari ga hajimari ni tsunagaru, mainichi no shi ga tane o ueru, shi no naka no jinsei no saikuru.",
+      "translation": "Endings lead to starts, Each day's poem plants a seed, Life's cycle in verse.",
+      "audioPath": "/audio/japanese/JLPT_N3_reading_03/r_jp_22.mp3",
+      "audioPathEn": "/audio/japanese/JLPT_N3_reading_03/r_en_22.mp3"
+    },
+    {
+      "japanese": "健二の俳句チャレンジは自己発見とつながりの旅となり、世界のささやきに注意を払い、普通の中に非凡なものを見出す力の証となりました。",
+      "romanization": "Kenji no haiku charenji wa jiko hakken to tsunagari no tabi to nari, sekai no sasayaki ni chūi o harai, futsū no naka ni hijō na mono o miidasu chikara no akashi to narimashita.",
+      "translation": "Kenji's haiku challenge became a journey of self-discovery and connection, a testament to the power of paying attention to the world's whispers and finding the extraordinary within the ordinary.",
+      "audioPath": "/audio/japanese/JLPT_N3_reading_03/r_jp_23.mp3",
+      "audioPathEn": "/audio/japanese/JLPT_N3_reading_03/r_en_23.mp3"
+    }
+  ]
+}

@@ -1,0 +1,524 @@
+[
+      {
+        "vocabulary_japanese": "不幸",
+        "vocabulary_simplified": "ふこう",
+        "vocabulary_english": "unhappy (な adj.)",
+        "word_type": "Adjective",
+        "vocabulary_audio": "/audio/vocab/v_不幸.mp3",
+        "p_tag": "JLPT_N3",
+        "s_tag": "na-adjective"
+      },
+      {
+        "vocabulary_japanese": "地味",
+        "vocabulary_simplified": "じみ",
+        "vocabulary_english": "conservative, sober, quiet (な adj.)",
+        "word_type": "Adjective",
+        "vocabulary_audio": "/audio/vocab/v_地味.mp3",
+        "p_tag": "JLPT_N3",
+        "s_tag": "na-adjective"
+      },
+      {
+        "vocabulary_japanese": "ぜいたく",
+        "vocabulary_simplified": "",
+        "vocabulary_english": "luxurious, extravagant (な adj.)",
+        "word_type": "Adjective",
+        "vocabulary_audio": "/audio/vocab/v_ぜいたく.mp3",
+        "p_tag": "JLPT_N3",
+        "s_tag": "na-adjective"
+      },
+      {
+        "vocabulary_japanese": "素敵",
+        "vocabulary_simplified": "すてき",
+        "vocabulary_english": "lovely, beautiful (な adj.)",
+        "word_type": "Adjective",
+        "vocabulary_audio": "/audio/vocab/v_素敵.mp3",
+        "p_tag": "JLPT_N3",
+        "s_tag": "na-adjective"
+      },
+      {
+        "vocabulary_japanese": "真っ青",
+        "vocabulary_simplified": "まっさお",
+        "vocabulary_english": "deep blue (な adj.)",
+        "word_type": "Adjective",
+        "vocabulary_audio": "/audio/vocab/v_真っ青.mp3",
+        "p_tag": "JLPT_N3",
+        "s_tag": "na-adjective"
+      },
+      {
+        "vocabulary_japanese": "さまざま",
+        "vocabulary_simplified": "",
+        "vocabulary_english": "various (な adj.)",
+        "word_type": "Adjective",
+        "vocabulary_audio": "/audio/vocab/v_さまざま.mp3",
+        "p_tag": "JLPT_N3",
+        "s_tag": "na-adjective"
+      },
+      {
+        "vocabulary_japanese": "異常",
+        "vocabulary_simplified": "いじょう",
+        "vocabulary_english": "unusual, abnormal (な adj.)",
+        "word_type": "Adjective",
+        "vocabulary_audio": "/audio/vocab/v_異常.mp3",
+        "p_tag": "JLPT_N3",
+        "s_tag": "na-adjective"
+      },
+      {
+        "vocabulary_japanese": "派手",
+        "vocabulary_simplified": "はで",
+        "vocabulary_english": "bright, loud (な adj.)",
+        "word_type": "Adjective",
+        "vocabulary_audio": "/audio/vocab/v_派手.mp3",
+        "p_tag": "JLPT_N3",
+        "s_tag": "na-adjective"
+      },
+      {
+        "vocabulary_japanese": "不規則",
+        "vocabulary_simplified": "ふきそく",
+        "vocabulary_english": "irregular (な adj.)",
+        "word_type": "Adjective",
+        "vocabulary_audio": "/audio/vocab/v_不規則.mp3",
+        "p_tag": "JLPT_N3",
+        "s_tag": "na-adjective"
+      },
+      {
+        "vocabulary_japanese": "豊か",
+        "vocabulary_simplified": "ゆたか",
+        "vocabulary_english": "rich, abundant (な adj.)",
+        "word_type": "Adjective",
+        "vocabulary_audio": "/audio/vocab/v_豊か.mp3",
+        "p_tag": "JLPT_N3",
+        "s_tag": "na-adjective"
+      },
+      {
+        "vocabulary_japanese": "重要",
+        "vocabulary_simplified": "じゅうよう",
+        "vocabulary_english": "important (な adj.)",
+        "word_type": "Adjective",
+        "vocabulary_audio": "/audio/vocab/v_重要.mp3",
+        "p_tag": "JLPT_N3",
+        "s_tag": "na-adjective"
+      },
+      {
+        "vocabulary_japanese": "一般的",
+        "vocabulary_simplified": "いっぱんてき",
+        "vocabulary_english": "general, common (な adj.)",
+        "word_type": "Adjective",
+        "vocabulary_audio": "/audio/vocab/v_一般的.mp3",
+        "p_tag": "JLPT_N3",
+        "s_tag": "na-adjective"
+      },
+      {
+        "vocabulary_japanese": "苦手",
+        "vocabulary_simplified": "にがて",
+        "vocabulary_english": "weak in, poor in (な adj.)",
+        "word_type": "Adjective",
+        "vocabulary_audio": "/audio/vocab/v_苦手.mp3",
+        "p_tag": "JLPT_N3",
+        "s_tag": "na-adjective"
+      },
+      {
+        "vocabulary_japanese": "スペシャル",
+        "vocabulary_simplified": "",
+        "vocabulary_english": "special (な adj.)",
+        "word_type": "Adjective",
+        "vocabulary_audio": "/audio/vocab/v_スペシャル.mp3",
+        "p_tag": "JLPT_N3",
+        "s_tag": "na-adjective"
+      },
+      {
+        "vocabulary_japanese": "貧乏",
+        "vocabulary_simplified": "びんぼう",
+        "vocabulary_english": "poor (な adj.)",
+        "word_type": "Adjective",
+        "vocabulary_audio": "/audio/vocab/v_貧乏.mp3",
+        "p_tag": "JLPT_N3",
+        "s_tag": "na-adjective"
+      },
+      {
+        "vocabulary_japanese": "かわいそう",
+        "vocabulary_simplified": "",
+        "vocabulary_english": "pitiful, poor (な adj.)",
+        "word_type": "Adjective",
+        "vocabulary_audio": "/audio/vocab/v_かわいそう.mp3",
+        "p_tag": "JLPT_N3",
+        "s_tag": "na-adjective"
+      },
+      {
+        "vocabulary_japanese": "適当",
+        "vocabulary_simplified": "てきとう",
+        "vocabulary_english": "appropriate (な adj.)",
+        "word_type": "Adjective",
+        "vocabulary_audio": "/audio/vocab/v_適当.mp3",
+        "p_tag": "JLPT_N3",
+        "s_tag": "na-adjective"
+      },
+      {
+        "vocabulary_japanese": "具体的",
+        "vocabulary_simplified": "ぐたいてき",
+        "vocabulary_english": "concrete, specific (な adj.)",
+        "word_type": "Adjective",
+        "vocabulary_audio": "/audio/vocab/v_具体的.mp3",
+        "p_tag": "JLPT_N3",
+        "s_tag": "na-adjective"
+      },
+      {
+        "vocabulary_japanese": "重大",
+        "vocabulary_simplified": "じゅうだい",
+        "vocabulary_english": "of consequence, grave, important (な adj.)",
+        "word_type": "Adjective",
+        "vocabulary_audio": "/audio/vocab/v_重大.mp3",
+        "p_tag": "JLPT_N3",
+        "s_tag": "na-adjective"
+      },
+      {
+        "vocabulary_japanese": "そっくり",
+        "vocabulary_simplified": "",
+        "vocabulary_english": "exactly like/the same (な adj.)",
+        "word_type": "Adjective",
+        "vocabulary_audio": "/audio/vocab/v_そっくり.mp3",
+        "p_tag": "JLPT_N3",
+        "s_tag": "na-adjective"
+      },
+      {
+        "vocabulary_japanese": "可能",
+        "vocabulary_simplified": "かのう",
+        "vocabulary_english": "possible (な adj.)",
+        "word_type": "Adjective",
+        "vocabulary_audio": "/audio/vocab/v_可能.mp3",
+        "p_tag": "JLPT_N3",
+        "s_tag": "na-adjective"
+      },
+      {
+        "vocabulary_japanese": "真っ赤",
+        "vocabulary_simplified": "まっか",
+        "vocabulary_english": "bright red (な adj.)",
+        "word_type": "Adjective",
+        "vocabulary_audio": "/audio/vocab/v_真っ赤.mp3",
+        "p_tag": "JLPT_N3",
+        "s_tag": "na-adjective"
+      },
+      {
+        "vocabulary_japanese": "不思議",
+        "vocabulary_simplified": "ふしぎ",
+        "vocabulary_english": "strange, mysterious (な adj.)",
+        "word_type": "Adjective",
+        "vocabulary_audio": "/audio/vocab/v_不思議.mp3",
+        "p_tag": "JLPT_N3",
+        "s_tag": "na-adjective"
+      },
+      {
+        "vocabulary_japanese": "余分",
+        "vocabulary_simplified": "よぶん",
+        "vocabulary_english": "extra, surplus (な adj.)",
+        "word_type": "Adjective",
+        "vocabulary_audio": "/audio/vocab/v_余分.mp3",
+        "p_tag": "JLPT_N3",
+        "s_tag": "na-adjective"
+      },
+      {
+        "vocabulary_japanese": "不満",
+        "vocabulary_simplified": "ふまん",
+        "vocabulary_english": "dissatisfied (な adj.)",
+        "word_type": "Adjective",
+        "vocabulary_audio": "/audio/vocab/v_不満.mp3",
+        "p_tag": "JLPT_N3",
+        "s_tag": "na-adjective"
+      },
+      {
+        "vocabulary_japanese": "意外",
+        "vocabulary_simplified": "いがい",
+        "vocabulary_english": "unexpected (な adj.)",
+        "word_type": "Adjective",
+        "vocabulary_audio": "/audio/vocab/v_意外.mp3",
+        "p_tag": "JLPT_N3",
+        "s_tag": "na-adjective"
+      },
+      {
+        "vocabulary_japanese": "面倒",
+        "vocabulary_simplified": "めんどう",
+        "vocabulary_english": "troublesome, complicated (な adj.)",
+        "word_type": "Adjective",
+        "vocabulary_audio": "/audio/vocab/v_面倒.mp3",
+        "p_tag": "JLPT_N3",
+        "s_tag": "na-adjective"
+      },
+      {
+        "vocabulary_japanese": "勝手",
+        "vocabulary_simplified": "かって",
+        "vocabulary_english": "selfish (な adj.)",
+        "word_type": "Adjective",
+        "vocabulary_audio": "/audio/vocab/v_勝手.mp3",
+        "p_tag": "JLPT_N3",
+        "s_tag": "na-adjective"
+      },
+      {
+        "vocabulary_japanese": "満足",
+        "vocabulary_simplified": "まんぞく",
+        "vocabulary_english": "satisfied (な adj.)",
+        "word_type": "Adjective",
+        "vocabulary_audio": "/audio/vocab/v_満足.mp3",
+        "p_tag": "JLPT_N3",
+        "s_tag": "na-adjective"
+      },
+      {
+        "vocabulary_japanese": "ソフト",
+        "vocabulary_simplified": "",
+        "vocabulary_english": "soft (な adj.)",
+        "word_type": "Adjective",
+        "vocabulary_audio": "/audio/vocab/v_ソフト.mp3",
+        "p_tag": "JLPT_N3",
+        "s_tag": "na-adjective"
+      },
+      {
+        "vocabulary_japanese": "無事",
+        "vocabulary_simplified": "ぶじ",
+        "vocabulary_english": "safe (な adj.)",
+        "word_type": "Adjective",
+        "vocabulary_audio": "/audio/vocab/v_無事.mp3",
+        "p_tag": "JLPT_N3",
+        "s_tag": "na-adjective"
+      },
+      {
+        "vocabulary_japanese": "平和",
+        "vocabulary_simplified": "へいわ",
+        "vocabulary_english": "peaceful (な adj.)",
+        "word_type": "Adjective",
+        "vocabulary_audio": "/audio/vocab/v_平和.mp3",
+        "p_tag": "JLPT_N3",
+        "s_tag": "na-adjective"
+      },
+      {
+        "vocabulary_japanese": "国際的",
+        "vocabulary_simplified": "こくさいてき",
+        "vocabulary_english": "international (な adj.)",
+        "word_type": "Adjective",
+        "vocabulary_audio": "/audio/vocab/v_国際的.mp3",
+        "p_tag": "JLPT_N3",
+        "s_tag": "na-adjective"
+      },
+      {
+        "vocabulary_japanese": "退屈",
+        "vocabulary_simplified": "たいくつ",
+        "vocabulary_english": "bored, boring (な adj.)",
+        "word_type": "Adjective",
+        "vocabulary_audio": "/audio/vocab/v_退屈.mp3",
+        "p_tag": "JLPT_N3",
+        "s_tag": "na-adjective"
+      },
+      {
+        "vocabulary_japanese": "単純",
+        "vocabulary_simplified": "たんじゅん",
+        "vocabulary_english": "simple (な adj.)",
+        "word_type": "Adjective",
+        "vocabulary_audio": "/audio/vocab/v_単純.mp3",
+        "p_tag": "JLPT_N3",
+        "s_tag": "na-adjective"
+      },
+      {
+        "vocabulary_japanese": "楽",
+        "vocabulary_simplified": "らく",
+        "vocabulary_english": "easy, comfortable (な adj.)",
+        "word_type": "Adjective",
+        "vocabulary_audio": "/audio/vocab/v_楽.mp3",
+        "p_tag": "JLPT_N3",
+        "s_tag": "na-adjective"
+      },
+      {
+        "vocabulary_japanese": "新鮮",
+        "vocabulary_simplified": "しんせん",
+        "vocabulary_english": "fresh (な adj.)",
+        "word_type": "Adjective",
+        "vocabulary_audio": "/audio/vocab/v_新鮮.mp3",
+        "p_tag": "JLPT_N3",
+        "s_tag": "na-adjective"
+      },
+      {
+        "vocabulary_japanese": "得意",
+        "vocabulary_simplified": "とくい",
+        "vocabulary_english": "good at, clever at (な adj.)",
+        "word_type": "Adjective",
+        "vocabulary_audio": "/audio/vocab/v_得意.mp3",
+        "p_tag": "JLPT_N3",
+        "s_tag": "na-adjective"
+      },
+      {
+        "vocabulary_japanese": "迷惑",
+        "vocabulary_simplified": "めいわく",
+        "vocabulary_english": "annoying, nuisance (な adj.)",
+        "word_type": "Adjective",
+        "vocabulary_audio": "/audio/vocab/v_迷惑.mp3",
+        "p_tag": "JLPT_N3",
+        "s_tag": "na-adjective"
+      },
+      {
+        "vocabulary_japanese": "頑固",
+        "vocabulary_simplified": "かんご",
+        "vocabulary_english": "stubborn (な adj.)",
+        "word_type": "Adjective",
+        "vocabulary_audio": "/audio/vocab/v_頑固.mp3",
+        "p_tag": "JLPT_N3",
+        "s_tag": "na-adjective"
+      },
+      {
+        "vocabulary_japanese": "完全",
+        "vocabulary_simplified": "かんぜん",
+        "vocabulary_english": "perfect, complete (な adj.)",
+        "word_type": "Adjective",
+        "vocabulary_audio": "/audio/vocab/v_完全.mp3",
+        "p_tag": "JLPT_N3",
+        "s_tag": "na-adjective"
+      },
+      {
+        "vocabulary_japanese": "消極的",
+        "vocabulary_simplified": "しょうきょくてき",
+        "vocabulary_english": "passive, negative (な adj.)",
+        "word_type": "Adjective",
+        "vocabulary_audio": "/audio/vocab/v_消極的.mp3",
+        "p_tag": "JLPT_N3",
+        "s_tag": "na-adjective"
+      },
+      {
+        "vocabulary_japanese": "無駄",
+        "vocabulary_simplified": "むだ",
+        "vocabulary_english": "wasteful, useless (な adj.)",
+        "word_type": "Adjective",
+        "vocabulary_audio": "/audio/vocab/v_無駄.mp3",
+        "p_tag": "JLPT_N3",
+        "s_tag": "na-adjective"
+      },
+      {
+        "vocabulary_japanese": "複雑",
+        "vocabulary_simplified": "ふくざつ",
+        "vocabulary_english": "complicated (な adj.)",
+        "word_type": "Adjective",
+        "vocabulary_audio": "/audio/vocab/v_複雑.mp3",
+        "p_tag": "JLPT_N3",
+        "s_tag": "na-adjective"
+      },
+      {
+        "vocabulary_japanese": "確実",
+        "vocabulary_simplified": "かくじつ",
+        "vocabulary_english": "sure, certain (な adj.)",
+        "word_type": "Adjective",
+        "vocabulary_audio": "/audio/vocab/v_確実.mp3",
+        "p_tag": "JLPT_N3",
+        "s_tag": "na-adjective"
+      },
+      {
+        "vocabulary_japanese": "正確",
+        "vocabulary_simplified": "せいかく",
+        "vocabulary_english": "precise, accurate (な adj.)",
+        "word_type": "Adjective",
+        "vocabulary_audio": "/audio/vocab/v_正確.mp3",
+        "p_tag": "JLPT_N3",
+        "s_tag": "na-adjective"
+      },
+      {
+        "vocabulary_japanese": "経済的",
+        "vocabulary_simplified": "けいざいてき",
+        "vocabulary_english": "economic, economical (な adj.)",
+        "word_type": "Adjective",
+        "vocabulary_audio": "/audio/vocab/v_経済的.mp3",
+        "p_tag": "JLPT_N3",
+        "s_tag": "na-adjective"
+      },
+      {
+        "vocabulary_japanese": "客観的",
+        "vocabulary_simplified": "きゃっかんてき",
+        "vocabulary_english": "objective (な adj.)",
+        "word_type": "Adjective",
+        "vocabulary_audio": "/audio/vocab/v_客観的.mp3",
+        "p_tag": "JLPT_N3",
+        "s_tag": "na-adjective"
+      },
+      {
+        "vocabulary_japanese": "積極的",
+        "vocabulary_simplified": "せっきょくてき",
+        "vocabulary_english": "positive, active (な adj.)",
+        "word_type": "Adjective",
+        "vocabulary_audio": "/audio/vocab/v_積極的.mp3",
+        "p_tag": "JLPT_N3",
+        "s_tag": "na-adjective"
+      },
+      {
+        "vocabulary_japanese": "真っ暗",
+        "vocabulary_simplified": "まっくら",
+        "vocabulary_english": "pitch black (な adj.)",
+        "word_type": "Adjective",
+        "vocabulary_audio": "/audio/vocab/v_真っ暗.mp3",
+        "p_tag": "JLPT_N3",
+        "s_tag": "na-adjective"
+      },
+      {
+        "vocabulary_japanese": "わがまま",
+        "vocabulary_simplified": "",
+        "vocabulary_english": "selfish (な adj.)",
+        "word_type": "Adjective",
+        "vocabulary_audio": "/audio/vocab/v_わがまま.mp3",
+        "p_tag": "JLPT_N3",
+        "s_tag": "na-adjective"
+      },
+      {
+        "vocabulary_japanese": "優秀",
+        "vocabulary_simplified": "ゆうしゅう",
+        "vocabulary_english": "excellent (な adj.)",
+        "word_type": "Adjective",
+        "vocabulary_audio": "/audio/vocab/v_優秀.mp3",
+        "p_tag": "JLPT_N3",
+        "s_tag": "na-adjective"
+      },
+      {
+        "vocabulary_japanese": "幸福",
+        "vocabulary_simplified": "こうふく",
+        "vocabulary_english": "happy (な adj.)",
+        "word_type": "Adjective",
+        "vocabulary_audio": "/audio/vocab/v_幸福.mp3",
+        "p_tag": "JLPT_N3",
+        "s_tag": "na-adjective"
+      },
+      {
+        "vocabulary_japanese": "幸せ",
+        "vocabulary_simplified": "しあわせ",
+        "vocabulary_english": "happy (な adj.)",
+        "word_type": "Adjective",
+        "vocabulary_audio": "/audio/vocab/v_幸せ.mp3",
+        "p_tag": "JLPT_N3",
+        "s_tag": "na-adjective"
+      },
+      {
+        "vocabulary_japanese": "不安",
+        "vocabulary_simplified": "ふあん",
+        "vocabulary_english": "uneasy, nervous (な adj.)",
+        "word_type": "Adjective",
+        "vocabulary_audio": "/audio/vocab/v_不安.mp3",
+        "p_tag": "JLPT_N3",
+        "s_tag": "na-adjective"
+      },
+      {
+        "vocabulary_japanese": "盛ん",
+        "vocabulary_simplified": "さかん",
+        "vocabulary_english": "flourishing (な adj.)",
+        "word_type": "Adjective",
+        "vocabulary_audio": "/audio/vocab/v_盛ん.mp3",
+        "p_tag": "JLPT_N3",
+        "s_tag": "na-adjective"
+      },
+      {
+        "vocabulary_japanese": "穏やか",
+        "vocabulary_simplified": "おだやか",
+        "vocabulary_english": "calm, mild (な adj.)",
+        "word_type": "Adjective",
+        "vocabulary_audio": "/audio/vocab/v_穏やか.mp3",
+        "p_tag": "JLPT_N3",
+        "s_tag": "na-adjective"
+      },
+      {
+        "vocabulary_japanese": "確か",
+        "vocabulary_simplified": "たしか",
+        "vocabulary_english": "reliable, certain (な adj.)",
+        "word_type": "Adjective",
+        "vocabulary_audio": "/audio/vocab/v_確か.mp3",
+        "p_tag": "JLPT_N3",
+        "s_tag": "na-adjective"
+      }
+]

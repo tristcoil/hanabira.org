@@ -1,0 +1,56 @@
+
+------------- Reading Section Audio Generation -------------
+
+to generate complete audio for reading story, we need 3 files:
+
+JLPT_N3_en_reading_01.txt     # main english text
+JLPT_N3_jp_reading_01.txt     # main japanese text
+JLPT_N3_reading_01.json       # 1-1 jp en equivalents
+
+
+generate all en audio:
+----------------------
+python3 app_reading_en_audio.py
+
+generate all jp audio:
+----------------------
+python3 app_reading_jp_audio.py
+
+generate 1-1 payload:
+---------------------
+python3 app_reading_payload_extended_audio.py JLPT_N3_reading_01.json
+python3 app_reading_payload_extended_audio.py JLPT_N3_reading_02.json
+python3 app_reading_payload_extended_audio.py JLPT_N3_reading_03.json
+python3 app_reading_payload_extended_audio.py JLPT_N3_reading_04.json
+python3 app_reading_payload_extended_audio.py JLPT_N3_reading_05.json
+python3 app_reading_payload_extended_audio.py JLPT_N3_reading_06.json
+python3 app_reading_payload_extended_audio.py JLPT_N3_reading_07.json
+python3 app_reading_payload_extended_audio.py JLPT_N3_reading_08.json
+python3 app_reading_payload_extended_audio.py JLPT_N3_reading_09.json
+python3 app_reading_payload_extended_audio.py JLPT_N3_reading_10.json
+
+
+then manually copy individual files to proper dirs in public frontend dir
+
+we have english audio under japanese directory, so we have simpler dir structure
+"audioPath": "/audio/japanese/JLPT_N3_reading_09/r_jp_01.mp3",
+"audioPathEn": "/audio/japanese/JLPT_N3_reading_09/r_en_01.mp3"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,303 @@
+{
+  "key": "jlpt_n3_reading_09",
+  "title": "The Haiku-Speaking Parrot",
+  "titleRomaji": "Haiku o Hanasu Ōmu",
+  "titleJp": "俳句を話すオウム",
+  "p_tag": "jlpt_n3",
+  "s_tag": "story",
+  "shortDescription": "A tale of a parrot that only speaks in the form of haikus, leading its owner to unravel a mystery guided by the cryptic poems. This would introduce students to the structure of haiku and incorporate seasonal words (kigo) and cutting words (kireji).",
+  "shortDescriptionRomaji": "Aru ōmu no hanashi de, sono ōmu wa haiku no katachi de shika hanasezu, sono nazo meita shi ni michibikarete kainushi ga nazo o tokiakashimasu. Kore wa gakusei ni haiku no kōzō to, kigo ya kireji no tsukaikata o shōkai suru koto ni narimasu.",
+  "shortDescriptionJp": "あるオウムの話で、そのオウムは俳句の形でしか話せず、その謎めいた詩に導かれて飼い主が謎を解き明かす。これは学生に俳句の構造と、季語や切れ字の使い方を紹介することになる。",
+  "textAudio": "/audio/japanese/JLPT_N3_reading_09/JLPT_N3_jp_reading_09.mp3",
+  "textAudio_1": "/audio/japanese/JLPT_N3_reading_09/JLPT_N3_jp_reading_09.mp3",
+  "textAudioEn": "/audio/japanese/JLPT_N3_reading_09/JLPT_N3_en_reading_09.mp3",
+  "textAudioEn_1": "/audio/japanese/JLPT_N3_reading_09/JLPT_N3_en_reading_09.mp3",
+  "japaneseText": [
+    "健二はいつも俳句に魅了されていた、その瞬間の本質を捉える伝統的な日本の詩に。だから、俳句を詠むことができるオウムをペットショップで見つけた時、彼はそれを家に連れて行くことを躊躇しなかった。彼がツバメと名付けたそのオウムは、普通の鳥ではなかった。毎朝、太陽が昇ると、新しい俳句を鳴くのだが、それはいつも深遠で、しばしば謎めいたものだった：",
+    "「朝の光が明るく輝く、穏やかな風に稲田が揺れる、失われた鍵が光る。」",
+    "健二はツバメの言葉を思いめぐらし、それぞれの俳句に手掛かりが隠されていることに気づいた。彼はこれらの日々の詩を日記に記録し、その意味を理解しようとした。日々が過ぎるにつれて、俳句は物語を形成していき、健二の町の特定の場所を指し示していた。ある詩は彼を神社に導き、そこで朝の光が古い隠れた道を明らかにした。別の詩は彼を地元の祭りに導き、そこで笑いと音楽の中で、鍵のない古い錠前を見つけた。",
+    "「夏の盛りを過ぎ、蝉の殻が残る、笑い声のこだま。」",
+    "健二は、「蝉」という季語が夏の盛りを示し、空の殻の情景が何かが残されたことを暗示しているような、季節の言葉に打たれた。好奇心は執着に変わり、彼はツバメの俳句に導かれて様々な名所を訪れた。俳句は日常の雑音を切り裂き、切れ字の使用によって詩のリズムに感動的な休止を与えて、反省の瞬間を提供していた。最後の俳句は秋の葉が色づき始めた時に来た：**",
+    "「赤い橋の下、流れる水は秘密を持つ、秋を越えて見よ。」",
+    "健二は町の川に架かる赤い橋の上に立ち、彼の下で流れる水を見つめていた。そこで彼は橋のアーチの下の石の間に挟まれた何かを見つけた―錆びた金属の箱だ。慎重にそれを取り出し、こじ開けた。中には古い手紙と、ペットショップの店主が話していたツバメの前の飼い主に似た女性の白黒写真が入っていた。手紙には、あまりにも早く終わった恋物語、二つの心を分かつ戦争、そして桜の花が散った後に再会するという約束が綴られていた。",
+    "健二は、ツバメの俳句が単なるランダムな詩ではなく、共有され、思い出されることを望む飼い主の記憶であることを悟った。オウムの俳句を通じて、健二は愛と喪失の物語を、季節の変化と自然の美しさという、多くの伝統的な俳句の核心的なテーマを通して組み立てた。謎が解けた後も、健二はツバメを大切にし続けた。今や、彼は鳥が過去の使者としての役割を果たし、俳句の普遍的な芸術とそれに絡み合う人間の物語とを彼につなげていることを理解していた。"
+  ],
+  "romanizedText": [
+    "Kenji wa itsumo haiku ni miryō sarete ita, sono shunkan no honshitsu o toraeru dentō-teki na Nihon no shi ni. Dakara, haiku o yomu koto ga dekiru ōmu o pettoshoppu de mitsuketa toki, kare wa sore o ie ni tsurete iku koto o chūcho shinakatta. Kare ga Tsubame to nazuketa sono ōmu wa, futsū no tori de wa nakatta. Maiasa, taiyō ga noboru to, atarashii haiku o naku no da ga, sore wa itsumo shin'en de, shibashiba nazo meita mono datta:",
+    "'Asa no hikari ga akaruku kagayaku, odayaka na kaze ni inada ga yureru, ushinawareta kagi ga hikaru.'",
+    "Kenji wa Tsubame no kotoba o omoimegurashi, sorezore no haiku ni tegakari ga kakusarete iru koto ni kizuita. Kare wa korera no hibi no shi o nikki ni kiroku shi, sono imi o rikai shiyō to shita. Hibi ga sugiru ni tsurete, haiku wa monogatari o keisei shite iki, Kenji no machi no tokutei no basho o shishimeshite ita. Aru shi wa kare o jinja ni michibiki, soko de asa no hikari ga furui kakureta michi o akiraka ni shita. Betsu no shi wa kare o jimoto no matsuri ni michibiki, soko de warai to ongaku no naka de, kagi no nai furui jōmae o mitsuketa.",
+    "'Natsu no sakari o sugi, semi no kara ga nokoru, waraigoe no kodama.'",
+    "Kenji wa, 'semi' to iu kigo ga natsu no sakari o shimeshi, kara no kara no jōkei ga nanika ga nokosareta koto o anji shite iru yō na, kisetsu no kotoba ni utareta. Kōkishin wa shūchaku ni kawari, kare wa Tsubame no haiku ni michibikarete samazama na meisho o otozureta. Haiku wa nichijō no zatsuon o kirisaite, kireji no shiyō ni yotte shi no rizumu ni kandō-teki na kyūshi o ataete, hansei no shunkan o teikyō shite ita. Saigo no haiku wa aki no ha ga irozuki hajimeta toki ni kita:",
+    "'Akai hashi no shita, nagareru mizu wa himitsu o motsu, aki o koete miyo.'",
+    "Kenji wa machi no kawa ni kakaru akai hashi no ue ni tachi, kare no shita de nagareru mizu o mitsumete ita. Sokode kare wa hashi no āchi no shita no ishi no aida ni hasamareta nanika o mitsuketa - sabita kinzoku no hako da. Shinchō ni sore o toridashi, kojiaketa. Naka ni wa furui tegami to, pettoshoppu no tenchō ga hanashite ita Tsubame no mae no kainushi ni nita josei no shirokuro shashin ga haitte ita. Tegami ni wa, amarini mo hayaku owatta ren'ai monogatari, futatsu no kokoro o wakatsu sensō, soshite sakura no hana ga chitta ato ni saikai suru to iu yakusoku ga tsuzurarete ita.",
+    "Kenji wa, Tsubame no haiku ga tannaru randamu na shi de wa naku, kyōyū sare, omoide sareru koto o nozomu kainushi no kioku de aru koto o satotta. Ōmu no haiku o tōshite, Kenji wa ai to sōshitsu no monogatari o, kisetsu no henka to shizen no utsukushisa to iu, ōku no dentō-teki na haiku no kakushin-teki na tēma o tōshite kumitateta. Nazo ga toketa ato mo, Kenji wa Tsubame o taisetsu ni shi tsuzuketa. Ima ya, kare wa tori ga kako no shisha to shite no yakuwari o hatashi, haiku no fuhenteki na geijutsu to sore ni karamiau ningen no monogatari to o kare ni tsunagete iru koto o rikai shite ita."
+  ],
+  "englishTranslation": [
+    "Kenji had always been fascinated by haikus, the traditional Japanese poems that capture the essence of a moment. So, when he found a parrot in a pet shop that could recite haikus, he didn't hesitate to bring it home. The parrot, which he named Tsubame, was no ordinary bird. Every morning, as the sun rose, it would squawk a new haiku, always profound and often cryptic:",
+    "'Morning light glows bright, Rice fields stir in the soft breeze, A lost key shines.'",
+    "Kenji pondered Tsubame's words, realizing that each haiku contained a clue. He began to document these daily poems in a journal, trying to understand their meaning. As days passed, the haikus seemed to form a narrative, pointing to specific locations around Kenji's town. One poem led him to a shrine where the morning light revealed an old, hidden path. Another guided him to a local festival, where amidst the laughter and music, he found an old lock without a key. ",
+    "'Summer’s peak has passed, The cicada’s shell remains, Echoes of laughter.'",
+    "Kenji was struck by the seasonal words (kigo) like 'cicada,' signaling the height of summer, and the poignant imagery of an empty shell, suggesting something left behind. Curiosity turned into obsession as he followed Tsubame's haikus to various landmarks. The haikus had a way of cutting through the noise of daily life, offering moments of reflection marked by the use of cutting words (kireji) that gave a poignant pause to the rhythm of the verses. The final haiku came as autumn leaves began to turn: ",
+    "'Under the red bridge, Flowing water holds secrets, Look beyond the fall.'",
+    "Kenji stood on the red bridge that stretched over the town’s river, watching the water flow beneath him. It was then he noticed something wedged between the stones below the bridge's arch— a rusted metal box. Carefully, he retrieved it and pried it open. Inside, he found old letters and a black-and-white photograph of a woman who resembled Tsubame's previous owner, whom the pet shop owner had mentioned in passing. The letters spoke of a love story that ended too soon, a war that separated two hearts, and a promise to reunite after the cherry blossoms fell.",
+    "Kenji realized that Tsubame's haikus were not just random poems; they were the memories of its owner, longing to be shared and remembered. Through the parrot's haikus, Kenji had uncovered a tale of love and loss, pieced together through the lens of seasonal change and the beauty of nature—core themes of many traditional haikus. The mystery solved, Kenji continued to cherish Tsubame, now understanding the bird’s role as a messenger of the past, connecting him to the timeless art of haiku and the human stories interwoven with it."
+  ],
+  "readingVocabulary": [
+    "俳句 (はいく) - Haiku - Haiku (a form of Japanese poetry)",
+    "謎めいた (なぞめいた) - Nazomeita - Mysterious",
+    "導かれて (みちびかれて) - Michibikarete - Guided",
+    "解き明かす (ときあかす) - Tokiakasu - Unravel",
+    "構造 (こうぞう) - Kōzō - Structure",
+    "季語 (きご) - Kigo - Seasonal words (in haiku)",
+    "切れ字 (きれじ) - Kireji - Cutting words (in haiku)",
+    "魅了 (みりょう) - Miryō - Fascination",
+    "本質 (ほんしつ) - Honshitsu - Essence",
+    "伝統的 (でんとうてき) - Dentō-teki - Traditional",
+    "詠む (よむ) - Yomu - Recite",
+    "躊躇 (ちゅうちょ) - Chūcho - Hesitate",
+    "深遠 (しんえん) - Shin'en - Profound",
+    "手掛かり (てがかり) - Tegakari - Clue",
+    "指し示す (さししめす) - Sashishimesu - Indicate",
+    "暗示 (あんじ) - Anji - Suggest, imply",
+    "好奇心 (こうきしん) - Kōkishin - Curiosity",
+    "執着 (しゅうちゃく) - Shūchaku - Obsession",
+    "名所 (めいしょ) - Meisho - Landmarks",
+    "切り裂き (きりさき) - Kirisaki - Cutting through",
+    "感動的 (かんどうてき) - Kandō-teki - Moving, touching",
+    "休止 (きゅうし) - Kyūshi - Pause",
+    "反省 (はんせい) - Hansei - Reflection",
+    "色づき (いろづき) - Irozuki - Begin to turn color",
+    "挟まれた (はさまれた) - Hasamareta - Wedged",
+    "慎重 (しんちょう) - Shinchō - Carefully",
+    "こじ開けた (こじあけた) - Kojiaketa - Pried open",
+    "綴られていた (つづられていた) - Tsuzurarete ita - Was written",
+    "記憶 (きおく) - Kioku - Memory",
+    "組み立てた (くみたてた) - Kumitateta - Pieced together"
+  ],
+  "readingVocabularyEn": [
+    "Cryptic (謎めいた) - パズルや秘密のように理解しにくい。",
+    "Incorporate (取り入れる) - 何かを一部として組み入れること。",
+    "Fascinated (魅了されて) - 強く引きつけられる、魅了される状態。",
+    "Essence (本質) - 何かの最も重要な特性または特徴。",
+    "Recite (朗読する) - 言葉や文を暗記から話すこと。",
+    "Profound (深遠な) - 深い意味や影響を持つ。",
+    "Narrative (物語) - 語られた話、物語。",
+    "Shrine (神社) - 宗教的または精神的な重要性の場所。",
+    "Amidst (～の最中に) - 何かの間中に、中に。",
+    "Poignant (心を打つ) - 感情的に影響を与える、心に深く訴える。",
+    "Imagery (イメージ) - 言葉や表現を使って作り出される心象風景。",
+    "Obsession (執着) - 異常なほどの関心または心配。",
+    "Landmarks (名所) - 目立つまたは重要な場所、目印。",
+    "Reflection (反省) - 考えまたは検討の過程。",
+    "Rhythm (リズム) - 一定のパターンやビートを持つ動きまたは音。",
+    "Autumn (秋) - 一年の四季の一つ、夏と冬の間。",
+    "Wedge (くさび) - 何かを固定するために使われる細長い物体。",
+    "Rusted (錆びた) - 鉄が酸化し、茶色または赤色に変わること。",
+    "Pried (こじ開ける) - 力を使って何かを開ける行為。",
+    "Cherish (大切にする) - 大切に扱う、心から愛する。",
+    "Messenger (使者) - 伝言または情報を運ぶ人。",
+    "Timeless (時代を超越した) - 時間の影響を受けない、永遠の。",
+    "Interwoven (絡み合った) - 密接に結びついている。",
+    "Unravel (解き明かす) - 複雑なものを理解または解明する。",
+    "Stretched (広がった) - 伸ばされた、広がった状態。",
+    "Beneath (～の下に) - 何かの下方に位置する。",
+    "Retrieved (回収する) - 取り戻す、回収する。",
+    "Resembled (似ている) - 似ている、類似している。",
+    "Uncovered (明らかにする) - 明らかにする、暴露する。",
+    "Pieced Together (組み立てる) - 別々の部分を一つにまとめる。"
+  ],
+  "readingGrammar": [
+    "でしか (ではない) - This is a negative form used for expressing exclusivity, meaning 'only' or 'nothing but.' In the text, '俳句の形でしか話せず' (haiku no katachi de shika hanasezu) means 'could only speak in the form of haikus.'",
+    "に導かれて (にみちびかれて) - This is the passive form of the verb '導く' (michibiku, to guide). The passive form '導かれて' (michibikarete) means 'being guided.'",
+    "に気づいた (にきづいた) - This phrase means 'noticed' or 'realized.' It is formed by combining the particle 'に' with the verb '気づく' (kizuku, to notice).",
+    "することになる - This expression is used to indicate something that has been decided or has become a certain way. In '紹介することになる' (shōkai suru koto ni naru), it means 'it has been decided to introduce.'",
+    "と (quotation particle) - Used here as a quotation particle in '俳句を詠むことができるオウムと' (haiku o yomu koto ga dekiru ōmu to), it implies 'a parrot that can recite haikus.'",
+    "た (past tense) - This is the past tense form of verbs, as seen in '魅了されていた' (miryō sarete ita), meaning 'had been fascinated.'",
+    "ことを躊躇しなかった - This phrase means 'did not hesitate to.' '躊躇する' (chūcho suru) means to hesitate, and 'しなかった' is the negative past form.",
+    "によって - This is a particle used to indicate the means or method by which something is done. In '切れ字の使用によって' (kireji no shiyō ni yotte), it means 'by the use of cutting words.'",
+    "ことができる - This phrase is used to express potential or ability, as in '詠むことができる' (yomu koto ga dekiru), meaning 'can recite.'",
+    "ような - This is used to make similes or comparisons, meaning 'like' or 'such as.' In '何かが残されたことを暗示しているような' (nanika ga nokosareta koto o anji shite iru yō na), it means 'suggesting something like.'"
+  ],
+  "readingGrammarEn": [
+    "'that only speaks in the form of haikus' (俳句の形でしか話せない) - これは関係代名詞「that」を使った限定用法の節です。「only」と「in the form of」は、オウムが話す特定の方法（俳句の形）を強調しています。",
+    "'leading its owner to unravel' (飼い主が謎を解くよう導く) - ここでの「leading」は現在分詞で、原因や結果を示すために使われています。「its owner to unravel」は目的語の役割を果たします。",
+    "'had always been fascinated' (いつも魅了されていた) - 「had been」は過去完了進行形で、過去のある時点より前の一定期間にわたって続いていた行為や状態を示します。",
+    "'would squawk a new haiku' (新しい俳句を鳴くだろう) - 「would」は過去の習慣を示すために使用されています。ここでは、毎朝オウムが俳句を鳴く習慣を表しています。",
+    "'realizing that each haiku contained a clue' (それぞれの俳句に手がかりが含まれていると気づく) - 「realizing」は現在分詞で、主節の動作と同時に起こる動作や状態を表します。",
+    "'He began to document' (彼は記録し始めた) - 「began to」は「始める」という意味の動詞「begin」と不定詞「to document」を組み合わせた表現です。",
+    "'the morning light revealed' (朝の光が明らかにした) - 「revealed」は過去形の動詞で、過去の特定の瞬間に起こった行動を示しています。",
+    "'Curiosity turned into obsession' (好奇心が執着に変わった) - ここでは「turned into」は「～に変わる」という意味の句動詞で、状態の変化を表しています。",
+    "'watching the water flow beneath him' (彼の下で水が流れるのを見て) - 「watching」は現在分詞で、他の行動（橋の上に立つ）と同時に起こる動作を示しています。",
+    "'pieced together through the lens of' (～の観点を通して組み立てる) - 「pieced together」は「組み立てる」という意味の句動詞で、複数の部分から全体を作ることを示しています。「through the lens of」は「～の観点から」という意味の表現です。"
+  ],
+  "sentencePayload": [
+    {
+      "japanese": "健二はいつも俳句に魅了されていた、その瞬間の本質を捉える伝統的な日本の詩に。",
+      "romanization": "Kenji wa itsumo haiku ni miryō sarete ita, sono shunkan no honshitsu o toraeru dentō-teki na Nihon no shi ni.",
+      "translation": "Kenji had always been fascinated by haikus, the traditional Japanese poems that capture the essence of a moment.",
+      "audioPath": "/audio/japanese/JLPT_N3_reading_09/r_jp_01.mp3",
+      "audioPathEn": "/audio/japanese/JLPT_N3_reading_09/r_en_01.mp3"
+    },
+    {
+      "japanese": "だから、俳句を詠むことができるオウムをペットショップで見つけた時、彼はそれを家に連れて行くことを躊躇しなかった。",
+      "romanization": "Dakara, haiku o yomu koto ga dekiru ōmu o pettoshoppu de mitsuketa toki, kare wa sore o ie ni tsurete iku koto o chūcho shinakatta.",
+      "translation": "So, when he found a parrot in a pet shop that could recite haikus, he didn't hesitate to bring it home.",
+      "audioPath": "/audio/japanese/JLPT_N3_reading_09/r_jp_02.mp3",
+      "audioPathEn": "/audio/japanese/JLPT_N3_reading_09/r_en_02.mp3"
+    },
+    {
+      "japanese": "彼がツバメと名付けたそのオウムは、普通の鳥ではなかった。",
+      "romanization": "Kare ga Tsubame to nazuketa sono ōmu wa, futsū no tori de wa nakatta.",
+      "translation": "The parrot, which he named Tsubame, was no ordinary bird.",
+      "audioPath": "/audio/japanese/JLPT_N3_reading_09/r_jp_03.mp3",
+      "audioPathEn": "/audio/japanese/JLPT_N3_reading_09/r_en_03.mp3"
+    },
+    {
+      "japanese": "毎朝、太陽が昇ると、新しい俳句を鳴くのだが、それはいつも深遠で、しばしば謎めいたものだった",
+      "romanization": "Maiasa, taiyō ga noboru to, atarashii haiku o naku no da ga, sore wa itsumo shin'en de, shibashiba nazo meita mono datta",
+      "translation": "Every morning, as the sun rose, it would squawk a new haiku, always profound and often cryptic",
+      "audioPath": "/audio/japanese/JLPT_N3_reading_09/r_jp_04.mp3",
+      "audioPathEn": "/audio/japanese/JLPT_N3_reading_09/r_en_04.mp3"
+    },
+    {
+      "japanese": "「朝の光が明るく輝く、穏やかな風に稲田が揺れる、失われた鍵が光る。」",
+      "romanization": "'Asa no hikari ga akaruku kagayaku, odayaka na kaze ni inada ga yureru, ushinawareta kagi ga hikaru.'",
+      "translation": "'Morning light glows bright, Rice fields stir in the soft breeze, A lost key shines.'",
+      "audioPath": "/audio/japanese/JLPT_N3_reading_09/r_jp_05.mp3",
+      "audioPathEn": "/audio/japanese/JLPT_N3_reading_09/r_en_05.mp3"
+    },
+    {
+      "japanese": "健二はツバメの言葉を思いめぐらし、それぞれの俳句に手掛かりが隠されていることに気づいた。",
+      "romanization": "Kenji wa Tsubame no kotoba o omoimegurashi, sorezore no haiku ni tegakari ga kakusarete iru koto ni kizuita.",
+      "translation": "Kenji pondered Tsubame's words, realizing that each haiku contained a clue.",
+      "audioPath": "/audio/japanese/JLPT_N3_reading_09/r_jp_06.mp3",
+      "audioPathEn": "/audio/japanese/JLPT_N3_reading_09/r_en_06.mp3"
+    },
+    {
+      "japanese": "彼はこれらの日々の詩を日記に記録し、その意味を理解しようとした。",
+      "romanization": "Kare wa korera no hibi no shi o nikki ni kiroku shi, sono imi o rikai shiyō to shita.",
+      "translation": "He began to document these daily poems in a journal, trying to understand their meaning.",
+      "audioPath": "/audio/japanese/JLPT_N3_reading_09/r_jp_07.mp3",
+      "audioPathEn": "/audio/japanese/JLPT_N3_reading_09/r_en_07.mp3"
+    },
+    {
+      "japanese": "日々が過ぎるにつれて、俳句は物語を形成していき、健二の町の特定の場所を指し示していた。",
+      "romanization": "Hibi ga sugiru ni tsurete, haiku wa monogatari o keisei shite iki, Kenji no machi no tokutei no basho o shishimeshite ita.",
+      "translation": "As days passed, the haikus seemed to form a narrative, pointing to specific locations around Kenji's town.",
+      "audioPath": "/audio/japanese/JLPT_N3_reading_09/r_jp_08.mp3",
+      "audioPathEn": "/audio/japanese/JLPT_N3_reading_09/r_en_08.mp3"
+    },
+    {
+      "japanese": "ある詩は彼を神社に導き、そこで朝の光が古い隠れた道を明らかにした。",
+      "romanization": "Aru shi wa kare o jinja ni michibiki, soko de asa no hikari ga furui kakureta michi o akiraka ni shita.",
+      "translation": "One poem led him to a shrine where the morning light revealed an old, hidden path.",
+      "audioPath": "/audio/japanese/JLPT_N3_reading_09/r_jp_09.mp3",
+      "audioPathEn": "/audio/japanese/JLPT_N3_reading_09/r_en_09.mp3"
+    },
+    {
+      "japanese": "別の詩は彼を地元の祭りに導き、そこで笑いと音楽の中で、鍵のない古い錠前を見つけた。",
+      "romanization": "Betsu no shi wa kare o jimoto no matsuri ni michibiki, soko de warai to ongaku no naka de, kagi no nai furui jōmae o mitsuketa.",
+      "translation": "Another guided him to a local festival, where amidst the laughter and music, he found an old lock without a key.",
+      "audioPath": "/audio/japanese/JLPT_N3_reading_09/r_jp_10.mp3",
+      "audioPathEn": "/audio/japanese/JLPT_N3_reading_09/r_en_10.mp3"
+    },
+    {
+      "japanese": "「夏の盛りを過ぎ、蝉の殻が残る、笑い声のこだま。」",
+      "romanization": "'Natsu no sakari o sugi, semi no kara ga nokoru, waraigoe no kodama.'",
+      "translation": "'Summer’s peak has passed, The cicada’s shell remains, Echoes of laughter.'",
+      "audioPath": "/audio/japanese/JLPT_N3_reading_09/r_jp_11.mp3",
+      "audioPathEn": "/audio/japanese/JLPT_N3_reading_09/r_en_11.mp3"
+    },
+    {
+      "japanese": "健二は、「蝉」という季語が夏の盛りを示し、空の殻の情景が何かが残されたことを暗示しているような、季節の言葉に打たれた。",
+      "romanization": "Kenji wa, 'semi' to iu kigo ga natsu no sakari o shimeshi, kara no kara no jōkei ga nanika ga nokosareta koto o anji shite iru yō na, kisetsu no kotoba ni utareta.",
+      "translation": "Kenji was struck by the seasonal words (kigo) like 'cicada,' signaling the height of summer, and the poignant imagery of an empty shell, suggesting something left behind.",
+      "audioPath": "/audio/japanese/JLPT_N3_reading_09/r_jp_12.mp3",
+      "audioPathEn": "/audio/japanese/JLPT_N3_reading_09/r_en_12.mp3"
+    },
+    {
+      "japanese": "好奇心は執着に変わり、彼はツバメの俳句に導かれて様々な名所を訪れた。",
+      "romanization": "Kōkishin wa shūchaku ni kawari, kare wa Tsubame no haiku ni michibikarete samazama na meisho o otozureta.",
+      "translation": "Curiosity turned into obsession as he followed Tsubame's haikus to various landmarks.",
+      "audioPath": "/audio/japanese/JLPT_N3_reading_09/r_jp_13.mp3",
+      "audioPathEn": "/audio/japanese/JLPT_N3_reading_09/r_en_13.mp3"
+    },
+    {
+      "japanese": "俳句は日常の雑音を切り裂き、切れ字の使用によって詩のリズムに感動的な休止を与えて、反省の瞬間を提供していた。",
+      "romanization": "Haiku wa nichijō no zatsuon o kirisaite, kireji no shiyō ni yotte shi no rizumu ni kandō-teki na kyūshi o ataete, hansei no shunkan o teikyō shite ita.",
+      "translation": "The haikus had a way of cutting through the noise of daily life, offering moments of reflection marked by the use of cutting words (kireji) that gave a poignant pause to the rhythm of the verses.",
+      "audioPath": "/audio/japanese/JLPT_N3_reading_09/r_jp_14.mp3",
+      "audioPathEn": "/audio/japanese/JLPT_N3_reading_09/r_en_14.mp3"
+    },
+    {
+      "japanese": "最後の俳句は秋の葉が色づき始めた時に来た。",
+      "romanization": "Saigo no haiku wa aki no ha ga irozuki hajimeta toki ni kita.",
+      "translation": "The final haiku came as autumn leaves began to turn.",
+      "audioPath": "/audio/japanese/JLPT_N3_reading_09/r_jp_15.mp3",
+      "audioPathEn": "/audio/japanese/JLPT_N3_reading_09/r_en_15.mp3"
+    },
+    {
+      "japanese": "「赤い橋の下、流れる水は秘密を持つ、秋を越えて見よ。」",
+      "romanization": "'Akai hashi no shita, nagareru mizu wa himitsu o motsu, aki o koete miyo.'",
+      "translation": "'Under the red bridge, Flowing water holds secrets, Look beyond the fall.'",
+      "audioPath": "/audio/japanese/JLPT_N3_reading_09/r_jp_16.mp3",
+      "audioPathEn": "/audio/japanese/JLPT_N3_reading_09/r_en_16.mp3"
+    },
+    {
+      "japanese": "健二は町の川に架かる赤い橋の上に立ち、彼の下で流れる水を見つめていた。",
+      "romanization": "Kenji wa machi no kawa ni kakaru akai hashi no ue ni tachi, kare no shita de nagareru mizu o mitsumete ita.",
+      "translation": "Kenji stood on the red bridge that stretched over the town’s river, watching the water flow beneath him.",
+      "audioPath": "/audio/japanese/JLPT_N3_reading_09/r_jp_17.mp3",
+      "audioPathEn": "/audio/japanese/JLPT_N3_reading_09/r_en_17.mp3"
+    },
+    {
+      "japanese": "そこで彼は橋のアーチの下の石の間に挟まれた何かを見つけた―錆びた金属の箱だ。",
+      "romanization": "Sokode kare wa hashi no āchi no shita no ishi no aida ni hasamareta nanika o mitsuketa - sabita kinzoku no hako da.",
+      "translation": "It was then he noticed something wedged between the stones below the bridge's arch— a rusted metal box.",
+      "audioPath": "/audio/japanese/JLPT_N3_reading_09/r_jp_18.mp3",
+      "audioPathEn": "/audio/japanese/JLPT_N3_reading_09/r_en_18.mp3"
+    },
+    {
+      "japanese": "慎重にそれを取り出し、こじ開けた。",
+      "romanization": "Shinchō ni sore o toridashi, kojiaketa.",
+      "translation": "Carefully, he retrieved it and pried it open.",
+      "audioPath": "/audio/japanese/JLPT_N3_reading_09/r_jp_19.mp3",
+      "audioPathEn": "/audio/japanese/JLPT_N3_reading_09/r_en_19.mp3"
+    },
+    {
+      "japanese": "中には古い手紙と、ペットショップの店主が話していたツバメの前の飼い主に似た女性の白黒写真が入っていた。",
+      "romanization": "Naka ni wa furui tegami to, pettoshoppu no tenchō ga hanashite ita Tsubame no mae no kainushi ni nita josei no shirokuro shashin ga haitte ita.",
+      "translation": "Inside, he found old letters and a black-and-white photograph of a woman who resembled Tsubame's previous owner, whom the pet shop owner had mentioned in passing.",
+      "audioPath": "/audio/japanese/JLPT_N3_reading_09/r_jp_20.mp3",
+      "audioPathEn": "/audio/japanese/JLPT_N3_reading_09/r_en_20.mp3"
+    },
+    {
+      "japanese": "手紙には、あまりにも早く終わった恋物語、二つの心を分かつ戦争、そして桜の花が散った後に再会するという約束が綴られていた。",
+      "romanization": "Tegami ni wa, amarini mo hayaku owatta ren'ai monogatari, futatsu no kokoro o wakatsu sensō, soshite sakura no hana ga chitta ato ni saikai suru to iu yakusoku ga tsuzurarete ita.",
+      "translation": "The letters spoke of a love story that ended too soon, a war that separated two hearts, and a promise to reunite after the cherry blossoms fell.",
+      "audioPath": "/audio/japanese/JLPT_N3_reading_09/r_jp_21.mp3",
+      "audioPathEn": "/audio/japanese/JLPT_N3_reading_09/r_en_21.mp3"
+    },
+    {
+      "japanese": "健二は、ツバメの俳句が単なるランダムな詩ではなく、共有され、思い出されることを望む飼い主の記憶であることを悟った。",
+      "romanization": "Kenji wa, Tsubame no haiku ga tannaru randamu na shi de wa naku, kyōyū sare, omoide sareru koto o nozomu kainushi no kioku de aru koto o satotta.",
+      "translation": "Kenji realized that Tsubame's haikus were not just random poems; they were the memories of its owner, longing to be shared and remembered.",
+      "audioPath": "/audio/japanese/JLPT_N3_reading_09/r_jp_22.mp3",
+      "audioPathEn": "/audio/japanese/JLPT_N3_reading_09/r_en_22.mp3"
+    },
+    {
+      "japanese": "オウムの俳句を通じて、健二は愛と喪失の物語を、季節の変化と自然の美しさという、多くの伝統的な俳句の核心的なテーマを通して組み立てた。",
+      "romanization": "Ōmu no haiku o tōshite, Kenji wa ai to sōshitsu no monogatari o, kisetsu no henka to shizen no utsukushisa to iu, ōku no dentō-teki na haiku no kakushin-teki na tēma o tōshite kumitateta.",
+      "translation": "Through the parrot's haikus, Kenji had uncovered a tale of love and loss, pieced together through the lens of seasonal change and the beauty of nature—core themes of many traditional haikus.",
+      "audioPath": "/audio/japanese/JLPT_N3_reading_09/r_jp_23.mp3",
+      "audioPathEn": "/audio/japanese/JLPT_N3_reading_09/r_en_23.mp3"
+    },
+    {
+      "japanese": "謎が解けた後も、健二はツバメを大切にし続けた。今や、彼は鳥が過去の使者としての役割を果たし、俳句の普遍的な芸術とそれに絡み合う人間の物語とを彼につなげていることを理解していた。",
+      "romanization": "Nazo ga toketa ato mo, Kenji wa Tsubame o taisetsu ni shi tsuzuketa. Ima ya, kare wa tori ga kako no shisha to shite no yakuwari o hatashi, haiku no fuhenteki na geijutsu to sore ni karamiau ningen no monogatari to o kare ni tsunagete iru koto o rikai shite ita.",
+      "translation": "The mystery solved, Kenji continued to cherish Tsubame, now understanding the bird’s role as a messenger of the past, connecting him to the timeless art of haiku and the human stories interwoven with it.",
+      "audioPath": "/audio/japanese/JLPT_N3_reading_09/r_jp_24.mp3",
+      "audioPathEn": "/audio/japanese/JLPT_N3_reading_09/r_en_24.mp3"
+    }
+  ]
+}

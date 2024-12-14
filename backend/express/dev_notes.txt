@@ -1,0 +1,15 @@
+
+--- Dev Notes for actual express seeding backend ---
+
+content of this directory is intended to populate Mongo DB with
+vocabulary, sentences, kanji and reading data
+
+there is shell wrapper that calls all other JS seeding scripts.
+
+
+Production JSON data resides in:
+json_data/
+kanji/
+reading/
+
+

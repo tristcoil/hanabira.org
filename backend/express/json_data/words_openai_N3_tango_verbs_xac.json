@@ -1,0 +1,461 @@
+[
+      {
+        "vocabulary_japanese": "越える",
+        "vocabulary_simplified": "こえる",
+        "vocabulary_english": "to go over, to pass through",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_越える.mp3",
+        "p_tag": "JLPT_N3",
+        "s_tag": "verbs-3"
+      },
+      {
+        "vocabulary_japanese": "枯れる",
+        "vocabulary_simplified": "かれる",
+        "vocabulary_english": "to wither and die",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_枯れる.mp3",
+        "p_tag": "JLPT_N3",
+        "s_tag": "verbs-3"
+      },
+      {
+        "vocabulary_japanese": "散る",
+        "vocabulary_simplified": "ちる",
+        "vocabulary_english": "to fall, to scatter",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_散る.mp3",
+        "p_tag": "JLPT_N3",
+        "s_tag": "verbs-3"
+      },
+      {
+        "vocabulary_japanese": "向かう",
+        "vocabulary_simplified": "むかう",
+        "vocabulary_english": "to head toward",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_向かう.mp3",
+        "p_tag": "JLPT_N3",
+        "s_tag": "verbs-3"
+      },
+      {
+        "vocabulary_japanese": "見直す",
+        "vocabulary_simplified": "みなおす",
+        "vocabulary_english": "to look again, to re-examine",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_見直す.mp3",
+        "p_tag": "JLPT_N3",
+        "s_tag": "verbs-3"
+      },
+      {
+        "vocabulary_japanese": "残す",
+        "vocabulary_simplified": "のこす",
+        "vocabulary_english": "to leave",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_残す.mp3",
+        "p_tag": "JLPT_N3",
+        "s_tag": "verbs-3"
+      },
+      {
+        "vocabulary_japanese": "許す",
+        "vocabulary_simplified": "ゆるす",
+        "vocabulary_english": "to forgive",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_許す.mp3",
+        "p_tag": "JLPT_N3",
+        "s_tag": "verbs-3"
+      },
+      {
+        "vocabulary_japanese": "減る",
+        "vocabulary_simplified": "へる",
+        "vocabulary_english": "to decrease",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_減る.mp3",
+        "p_tag": "JLPT_N3",
+        "s_tag": "verbs-3"
+      },
+      {
+        "vocabulary_japanese": "載せる",
+        "vocabulary_simplified": "のせる",
+        "vocabulary_english": "to carry, to load",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_載せる.mp3",
+        "p_tag": "JLPT_N3",
+        "s_tag": "verbs-3"
+      },
+      {
+        "vocabulary_japanese": "そる",
+        "vocabulary_simplified": "",
+        "vocabulary_english": "to shave",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_そる.mp3",
+        "p_tag": "JLPT_N3",
+        "s_tag": "verbs-3"
+      },
+      {
+        "vocabulary_japanese": "追い付く",
+        "vocabulary_simplified": "おいつく",
+        "vocabulary_english": "to catch up",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_追い付く.mp3",
+        "p_tag": "JLPT_N3",
+        "s_tag": "verbs-3"
+      },
+      {
+        "vocabulary_japanese": "蹴る",
+        "vocabulary_simplified": "ける",
+        "vocabulary_english": "to kick",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_蹴る.mp3",
+        "p_tag": "JLPT_N3",
+        "s_tag": "verbs-3"
+      },
+      {
+        "vocabulary_japanese": "ぶつかる",
+        "vocabulary_simplified": "",
+        "vocabulary_english": "to bump, to collide with",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_ぶつかる.mp3",
+        "p_tag": "JLPT_N3",
+        "s_tag": "verbs-3"
+      },
+      {
+        "vocabulary_japanese": "払戻す",
+        "vocabulary_simplified": "はらいもどす",
+        "vocabulary_english": "to give a refund",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_払戻す.mp3",
+        "p_tag": "JLPT_N3",
+        "s_tag": "verbs-3"
+      },
+      {
+        "vocabulary_japanese": "延びる",
+        "vocabulary_simplified": "のびる",
+        "vocabulary_english": "to be extended",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_延びる.mp3",
+        "p_tag": "JLPT_N3",
+        "s_tag": "verbs-3"
+      },
+      {
+        "vocabulary_japanese": "似合う",
+        "vocabulary_simplified": "にあう",
+        "vocabulary_english": "to suit",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_似合う.mp3",
+        "p_tag": "JLPT_N3",
+        "s_tag": "verbs-3"
+      },
+      {
+        "vocabulary_japanese": "いらいらする",
+        "vocabulary_simplified": "",
+        "vocabulary_english": "to be irritated",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_いらいらする.mp3",
+        "p_tag": "JLPT_N3",
+        "s_tag": "verbs-3"
+      },
+      {
+        "vocabulary_japanese": "汗をかく",
+        "vocabulary_simplified": "あせをかく",
+        "vocabulary_english": "to sweat",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_汗をかく.mp3",
+        "p_tag": "JLPT_N3",
+        "s_tag": "verbs-3"
+      },
+      {
+        "vocabulary_japanese": "断る",
+        "vocabulary_simplified": "ことわる",
+        "vocabulary_english": "to decline, to refuse",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_断る.mp3",
+        "p_tag": "JLPT_N3",
+        "s_tag": "verbs-3"
+      },
+      {
+        "vocabulary_japanese": "かむ",
+        "vocabulary_simplified": "",
+        "vocabulary_english": "to chew",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_かむ.mp3",
+        "p_tag": "JLPT_N3",
+        "s_tag": "verbs-3"
+      },
+      {
+        "vocabulary_japanese": "足す",
+        "vocabulary_simplified": "たす",
+        "vocabulary_english": "to add",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_足す.mp3",
+        "p_tag": "JLPT_N3",
+        "s_tag": "verbs-3"
+      },
+      {
+        "vocabulary_japanese": "受け取る",
+        "vocabulary_simplified": "うけとる",
+        "vocabulary_english": "to receive",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_受け取る.mp3",
+        "p_tag": "JLPT_N3",
+        "s_tag": "verbs-3"
+      },
+      {
+        "vocabulary_japanese": "祝う",
+        "vocabulary_simplified": "いわう",
+        "vocabulary_english": "to celebrate",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_祝う.mp3",
+        "p_tag": "JLPT_N3",
+        "s_tag": "verbs-3"
+      },
+      {
+        "vocabulary_japanese": "ためる",
+        "vocabulary_simplified": "",
+        "vocabulary_english": "to save",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_ためる.mp3",
+        "p_tag": "JLPT_N3",
+        "s_tag": "verbs-3"
+      },
+      {
+        "vocabulary_japanese": "掘る",
+        "vocabulary_simplified": "ほる",
+        "vocabulary_english": "to dig",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_掘る.mp3",
+        "p_tag": "JLPT_N3",
+        "s_tag": "verbs-3"
+      },
+      {
+        "vocabulary_japanese": "着ける",
+        "vocabulary_simplified": "つける",
+        "vocabulary_english": "to wear, to put on",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_着ける.mp3",
+        "p_tag": "JLPT_N3",
+        "s_tag": "verbs-3"
+      },
+      {
+        "vocabulary_japanese": "煮る",
+        "vocabulary_simplified": "にる",
+        "vocabulary_english": "to boil, to cook",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_煮る.mp3",
+        "p_tag": "JLPT_N3",
+        "s_tag": "verbs-3"
+      },
+      {
+        "vocabulary_japanese": "受け付ける",
+        "vocabulary_simplified": "うけつける",
+        "vocabulary_english": "to accept",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_受け付ける.mp3",
+        "p_tag": "JLPT_N3",
+        "s_tag": "verbs-3"
+      },
+      {
+        "vocabulary_japanese": "嫌がる",
+        "vocabulary_simplified": "いやがる",
+        "vocabulary_english": "to hate",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_嫌がる.mp3",
+        "p_tag": "JLPT_N3",
+        "s_tag": "verbs-3"
+      },
+      {
+        "vocabulary_japanese": "祈る",
+        "vocabulary_simplified": "いのる",
+        "vocabulary_english": "to pray",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_祈る.mp3",
+        "p_tag": "JLPT_N3",
+        "s_tag": "verbs-3"
+      },
+      {
+        "vocabulary_japanese": "飛び出す",
+        "vocabulary_simplified": "とびだす",
+        "vocabulary_english": "to dash/fly out",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_飛び出す.mp3",
+        "p_tag": "JLPT_N3",
+        "s_tag": "verbs-3"
+      },
+      {
+        "vocabulary_japanese": "膨らむ",
+        "vocabulary_simplified": "ふくらむ",
+        "vocabulary_english": "Tango swell, to expand",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_膨らむ.mp3",
+        "p_tag": "JLPT_N3",
+        "s_tag": "verbs-3"
+      },
+      {
+        "vocabulary_japanese": "積む",
+        "vocabulary_simplified": "つむ",
+        "vocabulary_english": "to pile up, to stack",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_積む.mp3",
+        "p_tag": "JLPT_N3",
+        "s_tag": "verbs-3"
+      },
+      {
+        "vocabulary_japanese": "暮れる",
+        "vocabulary_simplified": "くれる",
+        "vocabulary_english": "to get dark",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_暮れる.mp3",
+        "p_tag": "JLPT_N3",
+        "s_tag": "verbs-3"
+      },
+      {
+        "vocabulary_japanese": "着せる",
+        "vocabulary_simplified": "きせる",
+        "vocabulary_english": "to dress, to put on, to clothe",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_着せる.mp3",
+        "p_tag": "JLPT_N3",
+        "s_tag": "verbs-3"
+      },
+      {
+        "vocabulary_japanese": "雇う",
+        "vocabulary_simplified": "やとう",
+        "vocabulary_english": "to employ",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_雇う.mp3",
+        "p_tag": "JLPT_N3",
+        "s_tag": "verbs-3"
+      },
+      {
+        "vocabulary_japanese": "動かす",
+        "vocabulary_simplified": "うごかす",
+        "vocabulary_english": "to move",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_動かす.mp3",
+        "p_tag": "JLPT_N3",
+        "s_tag": "verbs-3"
+      },
+      {
+        "vocabulary_japanese": "預ける",
+        "vocabulary_simplified": "あずける",
+        "vocabulary_english": "to deposit, to entrust",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_預ける.mp3",
+        "p_tag": "JLPT_N3",
+        "s_tag": "verbs-3"
+      },
+      {
+        "vocabulary_japanese": "配る",
+        "vocabulary_simplified": "くばる",
+        "vocabulary_english": "to hand out",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_配る.mp3",
+        "p_tag": "JLPT_N3",
+        "s_tag": "verbs-3"
+      },
+      {
+        "vocabulary_japanese": "溶ける",
+        "vocabulary_simplified": "とける",
+        "vocabulary_english": "to melt",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_溶ける.mp3",
+        "p_tag": "JLPT_N3",
+        "s_tag": "verbs-3"
+      },
+      {
+        "vocabulary_japanese": "かく",
+        "vocabulary_simplified": "",
+        "vocabulary_english": "to scratch",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_かく.mp3",
+        "p_tag": "JLPT_N3",
+        "s_tag": "verbs-3"
+      },
+      {
+        "vocabulary_japanese": "間違う",
+        "vocabulary_simplified": "まちがう",
+        "vocabulary_english": "to be wrong, to mistake",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_間違う.mp3",
+        "p_tag": "JLPT_N3",
+        "s_tag": "verbs-3"
+      },
+      {
+        "vocabulary_japanese": "縫う",
+        "vocabulary_simplified": "ぬう",
+        "vocabulary_english": "to sew, to stitch",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_縫う.mp3",
+        "p_tag": "JLPT_N3",
+        "s_tag": "verbs-3"
+      },
+      {
+        "vocabulary_japanese": "腐る",
+        "vocabulary_simplified": "くさる",
+        "vocabulary_english": "to rot, to go bad",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_腐る.mp3",
+        "p_tag": "JLPT_N3",
+        "s_tag": "verbs-3"
+      },
+      {
+        "vocabulary_japanese": "近づく",
+        "vocabulary_simplified": "ちかづく",
+        "vocabulary_english": "to approach, to get near",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_近づく.mp3",
+        "p_tag": "JLPT_N3",
+        "s_tag": "verbs-3"
+      },
+      {
+        "vocabulary_japanese": "押さえる",
+        "vocabulary_simplified": "おさえる",
+        "vocabulary_english": "to hold (down), to press",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_押さえる.mp3",
+        "p_tag": "JLPT_N3",
+        "s_tag": "verbs-3"
+      },
+      {
+        "vocabulary_japanese": "ぬれる",
+        "vocabulary_simplified": "",
+        "vocabulary_english": "to get wet",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_ぬれる.mp3",
+        "p_tag": "JLPT_N3",
+        "s_tag": "verbs-3"
+      },
+      {
+        "vocabulary_japanese": "付く",
+        "vocabulary_simplified": "つく",
+        "vocabulary_english": "to have, to get (something on something)",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_付く.mp3",
+        "p_tag": "JLPT_N3",
+        "s_tag": "verbs-3"
+      },
+      {
+        "vocabulary_japanese": "燃やす",
+        "vocabulary_simplified": "もやす",
+        "vocabulary_english": "to burn",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_燃やす.mp3",
+        "p_tag": "JLPT_N3",
+        "s_tag": "verbs-3"
+      },
+      {
+        "vocabulary_japanese": "潰れる",
+        "vocabulary_simplified": "つぶれる",
+        "vocabulary_english": "to be crushed, to be smashed",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_潰れる.mp3",
+        "p_tag": "JLPT_N3",
+        "s_tag": "verbs-3"
+      },
+      {
+        "vocabulary_japanese": "効く",
+        "vocabulary_simplified": "きく",
+        "vocabulary_english": "to be effective",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_効く.mp3",
+        "p_tag": "JLPT_N3",
+        "s_tag": "verbs-3"
+      }
+]

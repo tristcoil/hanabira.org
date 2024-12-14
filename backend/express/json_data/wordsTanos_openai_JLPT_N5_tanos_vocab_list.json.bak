@@ -1,0 +1,6023 @@
+[
+      {
+        "vocabulary_japanese": "会う",
+        "vocabulary_simplified": "あう",
+        "vocabulary_english": "to meet",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_会う.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "100"
+      },
+      {
+        "vocabulary_japanese": "青",
+        "vocabulary_simplified": "あお",
+        "vocabulary_english": "blue",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_青.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "100"
+      },
+      {
+        "vocabulary_japanese": "青い",
+        "vocabulary_simplified": "あおい",
+        "vocabulary_english": "blue",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_青い.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "100"
+      },
+      {
+        "vocabulary_japanese": "赤",
+        "vocabulary_simplified": "あか",
+        "vocabulary_english": "red",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_赤.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "100"
+      },
+      {
+        "vocabulary_japanese": "赤い",
+        "vocabulary_simplified": "あかい",
+        "vocabulary_english": "red",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_赤い.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "100"
+      },
+      {
+        "vocabulary_japanese": "明い",
+        "vocabulary_simplified": "あかるい",
+        "vocabulary_english": "bright",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_明い.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "100"
+      },
+      {
+        "vocabulary_japanese": "秋",
+        "vocabulary_simplified": "あき",
+        "vocabulary_english": "autumn",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_秋.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "100"
+      },
+      {
+        "vocabulary_japanese": "開く",
+        "vocabulary_simplified": "あく",
+        "vocabulary_english": "to open, to become open",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_開く.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "100"
+      },
+      {
+        "vocabulary_japanese": "開ける",
+        "vocabulary_simplified": "あける",
+        "vocabulary_english": "to open",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_開ける.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "100"
+      },
+      {
+        "vocabulary_japanese": "上げる",
+        "vocabulary_simplified": "あげる",
+        "vocabulary_english": "to give",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_上げる.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "100"
+      },
+      {
+        "vocabulary_japanese": "朝",
+        "vocabulary_simplified": "あさ",
+        "vocabulary_english": "morning",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_朝.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "100"
+      },
+      {
+        "vocabulary_japanese": "朝御飯",
+        "vocabulary_simplified": "あさごはん",
+        "vocabulary_english": "breakfast",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_朝御飯.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "100"
+      },
+      {
+        "vocabulary_japanese": "あさって",
+        "vocabulary_simplified": "あさって",
+        "vocabulary_english": "day after tomorrow",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_あさって.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "100"
+      },
+      {
+        "vocabulary_japanese": "足",
+        "vocabulary_simplified": "あし",
+        "vocabulary_english": "foot, leg",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_足.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "100"
+      },
+      {
+        "vocabulary_japanese": "明日",
+        "vocabulary_simplified": "あした",
+        "vocabulary_english": "tomorrow",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_明日.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "100"
+      },
+      {
+        "vocabulary_japanese": "あそこ",
+        "vocabulary_simplified": "あそこ",
+        "vocabulary_english": "over there",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_あそこ.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "100"
+      },
+      {
+        "vocabulary_japanese": "遊ぶ",
+        "vocabulary_simplified": "あそぶ",
+        "vocabulary_english": "to play, to make a visit",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_遊ぶ.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "100"
+      },
+      {
+        "vocabulary_japanese": "暖かい",
+        "vocabulary_simplified": "あたたかい",
+        "vocabulary_english": "warm",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_暖かい.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "100"
+      },
+      {
+        "vocabulary_japanese": "頭",
+        "vocabulary_simplified": "あたま",
+        "vocabulary_english": "head",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_頭.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "100"
+      },
+      {
+        "vocabulary_japanese": "新しい",
+        "vocabulary_simplified": "あたらしい",
+        "vocabulary_english": "new",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_新しい.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "100"
+      },
+      {
+        "vocabulary_japanese": "あちら",
+        "vocabulary_simplified": "あちら",
+        "vocabulary_english": "there",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_あちら.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "100"
+      },
+      {
+        "vocabulary_japanese": "暑い",
+        "vocabulary_simplified": "あつい",
+        "vocabulary_english": "hot",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_暑い.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "100"
+      },
+      {
+        "vocabulary_japanese": "熱い",
+        "vocabulary_simplified": "あつい",
+        "vocabulary_english": "hot to the touch",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_熱い.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "100"
+      },
+      {
+        "vocabulary_japanese": "厚い",
+        "vocabulary_simplified": "あつい",
+        "vocabulary_english": "kind, deep, thick",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_厚い.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "100"
+      },
+      {
+        "vocabulary_japanese": "あっち",
+        "vocabulary_simplified": "あっち",
+        "vocabulary_english": "over there",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_あっち.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "100"
+      },
+      {
+        "vocabulary_japanese": "後",
+        "vocabulary_simplified": "あと",
+        "vocabulary_english": "afterwards",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_後.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "100"
+      },
+      {
+        "vocabulary_japanese": "あなた",
+        "vocabulary_simplified": "あなた",
+        "vocabulary_english": "you",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_あなた.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "100"
+      },
+      {
+        "vocabulary_japanese": "兄",
+        "vocabulary_simplified": "あに",
+        "vocabulary_english": "(humble) older brother",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_兄.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "100"
+      },
+      {
+        "vocabulary_japanese": "姉",
+        "vocabulary_simplified": "あね",
+        "vocabulary_english": "(humble) older sister",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_姉.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "100"
+      },
+      {
+        "vocabulary_japanese": "あの",
+        "vocabulary_simplified": "あの",
+        "vocabulary_english": "that over there",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_あの.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "100"
+      },
+      {
+        "vocabulary_japanese": "あの",
+        "vocabulary_simplified": "あの",
+        "vocabulary_english": "um...",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_あの.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "100"
+      },
+      {
+        "vocabulary_japanese": "アパート",
+        "vocabulary_simplified": "アパート",
+        "vocabulary_english": "apartment",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_アパート.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "100"
+      },
+      {
+        "vocabulary_japanese": "あびる",
+        "vocabulary_simplified": "あびる",
+        "vocabulary_english": "to bathe, to shower",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_あびる.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "100"
+      },
+      {
+        "vocabulary_japanese": "危ない",
+        "vocabulary_simplified": "あぶない",
+        "vocabulary_english": "dangerous",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_危ない.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "100"
+      },
+      {
+        "vocabulary_japanese": "甘い",
+        "vocabulary_simplified": "あまい",
+        "vocabulary_english": "sweet",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_甘い.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "100"
+      },
+      {
+        "vocabulary_japanese": "あまり",
+        "vocabulary_simplified": "あまり",
+        "vocabulary_english": "not very",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_あまり.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "100"
+      },
+      {
+        "vocabulary_japanese": "雨",
+        "vocabulary_simplified": "あめ",
+        "vocabulary_english": "rain",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_雨.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "100"
+      },
+      {
+        "vocabulary_japanese": "飴",
+        "vocabulary_simplified": "あめ",
+        "vocabulary_english": "candy",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_飴.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "100"
+      },
+      {
+        "vocabulary_japanese": "洗う",
+        "vocabulary_simplified": "あらう",
+        "vocabulary_english": "to wash",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_洗う.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "100"
+      },
+      {
+        "vocabulary_japanese": "ある",
+        "vocabulary_simplified": "ある",
+        "vocabulary_english": "to be,to have (used for inanimate objects)",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_ある.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "100"
+      },
+      {
+        "vocabulary_japanese": "歩く",
+        "vocabulary_simplified": "あるく",
+        "vocabulary_english": "to walk",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_歩く.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "100"
+      },
+      {
+        "vocabulary_japanese": "あれ",
+        "vocabulary_simplified": "あれ",
+        "vocabulary_english": "that",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_あれ.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "100"
+      },
+      {
+        "vocabulary_japanese": "いい/よい",
+        "vocabulary_simplified": "いい/よい",
+        "vocabulary_english": "good",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_いい/よい.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "100"
+      },
+      {
+        "vocabulary_japanese": "いいえ",
+        "vocabulary_simplified": "いいえ",
+        "vocabulary_english": "no",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_いいえ.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "100"
+      },
+      {
+        "vocabulary_japanese": "言う",
+        "vocabulary_simplified": "いう",
+        "vocabulary_english": "to say",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_言う.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "100"
+      },
+      {
+        "vocabulary_japanese": "家",
+        "vocabulary_simplified": "いえ",
+        "vocabulary_english": "house",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_家.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "100"
+      },
+      {
+        "vocabulary_japanese": "いかが",
+        "vocabulary_simplified": "いかが",
+        "vocabulary_english": "how",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_いかが.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "100"
+      },
+      {
+        "vocabulary_japanese": "行く",
+        "vocabulary_simplified": "いく",
+        "vocabulary_english": "to go",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_行く.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "100"
+      },
+      {
+        "vocabulary_japanese": "いくつ",
+        "vocabulary_simplified": "いくつ",
+        "vocabulary_english": "how many?,how old?",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_いくつ.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "100"
+      },
+      {
+        "vocabulary_japanese": "いくら",
+        "vocabulary_simplified": "いくら",
+        "vocabulary_english": "how much?",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_いくら.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "100"
+      },
+      {
+        "vocabulary_japanese": "池",
+        "vocabulary_simplified": "いけ",
+        "vocabulary_english": "pond",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_池.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "100"
+      },
+      {
+        "vocabulary_japanese": "医者",
+        "vocabulary_simplified": "いしゃ",
+        "vocabulary_english": "medical doctor",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_医者.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "100"
+      },
+      {
+        "vocabulary_japanese": "いす",
+        "vocabulary_simplified": "いす",
+        "vocabulary_english": "chair",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_いす.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "100"
+      },
+      {
+        "vocabulary_japanese": "忙しい",
+        "vocabulary_simplified": "いそがしい",
+        "vocabulary_english": "busy, irritated",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_忙しい.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "100"
+      },
+      {
+        "vocabulary_japanese": "痛い",
+        "vocabulary_simplified": "いたい",
+        "vocabulary_english": "painful",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_痛い.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "100"
+      },
+      {
+        "vocabulary_japanese": "一",
+        "vocabulary_simplified": "いち",
+        "vocabulary_english": "one",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_一.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "100"
+      },
+      {
+        "vocabulary_japanese": "一日",
+        "vocabulary_simplified": "いちにち",
+        "vocabulary_english": "first of the month",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_一日.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "100"
+      },
+      {
+        "vocabulary_japanese": "いちばん",
+        "vocabulary_simplified": "いちばん",
+        "vocabulary_english": "best, first",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_いちばん.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "100"
+      },
+      {
+        "vocabulary_japanese": "いつ",
+        "vocabulary_simplified": "いつ",
+        "vocabulary_english": "when",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_いつ.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "100"
+      },
+      {
+        "vocabulary_japanese": "五日",
+        "vocabulary_simplified": "いつか",
+        "vocabulary_english": "five days, fifth day",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_五日.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "100"
+      },
+      {
+        "vocabulary_japanese": "一緒",
+        "vocabulary_simplified": "いっしょ",
+        "vocabulary_english": "together",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_一緒.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "100"
+      },
+      {
+        "vocabulary_japanese": "五つ",
+        "vocabulary_simplified": "いつつ",
+        "vocabulary_english": "five",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_五つ.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "100"
+      },
+      {
+        "vocabulary_japanese": "いつも",
+        "vocabulary_simplified": "いつも",
+        "vocabulary_english": "always",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_いつも.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "100"
+      },
+      {
+        "vocabulary_japanese": "犬",
+        "vocabulary_simplified": "いぬ",
+        "vocabulary_english": "dog",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_犬.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "100"
+      },
+      {
+        "vocabulary_japanese": "今",
+        "vocabulary_simplified": "いま",
+        "vocabulary_english": "now",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_今.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "100"
+      },
+      {
+        "vocabulary_japanese": "意味",
+        "vocabulary_simplified": "いみ",
+        "vocabulary_english": "meaning",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_意味.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "100"
+      },
+      {
+        "vocabulary_japanese": "妹",
+        "vocabulary_simplified": "いもうと",
+        "vocabulary_english": "(humble) younger sister",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_妹.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "100"
+      },
+      {
+        "vocabulary_japanese": "嫌",
+        "vocabulary_simplified": "いや",
+        "vocabulary_english": "unpleasant",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_嫌.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "100"
+      },
+      {
+        "vocabulary_japanese": "入口",
+        "vocabulary_simplified": "いりぐち",
+        "vocabulary_english": "entrance",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_入口.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "100"
+      },
+      {
+        "vocabulary_japanese": "居る",
+        "vocabulary_simplified": "いる",
+        "vocabulary_english": "to be, to have (used for people and animals)",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_居る.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "100"
+      },
+      {
+        "vocabulary_japanese": "要る",
+        "vocabulary_simplified": "いる",
+        "vocabulary_english": "to need",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_要る.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "100"
+      },
+      {
+        "vocabulary_japanese": "入れる",
+        "vocabulary_simplified": "いれる",
+        "vocabulary_english": "to put in",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_入れる.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "100"
+      },
+      {
+        "vocabulary_japanese": "色",
+        "vocabulary_simplified": "いろ",
+        "vocabulary_english": "colour",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_色.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "100"
+      },
+      {
+        "vocabulary_japanese": "いろいろ",
+        "vocabulary_simplified": "いろいろ",
+        "vocabulary_english": "various",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_いろいろ.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "100"
+      },
+      {
+        "vocabulary_japanese": "上",
+        "vocabulary_simplified": "うえ",
+        "vocabulary_english": "on top of",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_上.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "100"
+      },
+      {
+        "vocabulary_japanese": "後ろ",
+        "vocabulary_simplified": "うしろ",
+        "vocabulary_english": "behind",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_後ろ.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "100"
+      },
+      {
+        "vocabulary_japanese": "薄い",
+        "vocabulary_simplified": "うすい",
+        "vocabulary_english": "thin,weak",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_薄い.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "100"
+      },
+      {
+        "vocabulary_japanese": "歌",
+        "vocabulary_simplified": "うた",
+        "vocabulary_english": "song",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_歌.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "100"
+      },
+      {
+        "vocabulary_japanese": "歌う",
+        "vocabulary_simplified": "うたう",
+        "vocabulary_english": "to sing",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_歌う.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "100"
+      },
+      {
+        "vocabulary_japanese": "生まれる",
+        "vocabulary_simplified": "うまれる",
+        "vocabulary_english": "to be born",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_生まれる.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "100"
+      },
+      {
+        "vocabulary_japanese": "海",
+        "vocabulary_simplified": "うみ",
+        "vocabulary_english": "sea",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_海.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "100"
+      },
+      {
+        "vocabulary_japanese": "売る",
+        "vocabulary_simplified": "うる",
+        "vocabulary_english": "to sell",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_売る.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "100"
+      },
+      {
+        "vocabulary_japanese": "煩い",
+        "vocabulary_simplified": "うるさい",
+        "vocabulary_english": "noisy, annoying",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_煩い.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "100"
+      },
+      {
+        "vocabulary_japanese": "上着",
+        "vocabulary_simplified": "うわぎ",
+        "vocabulary_english": "jacket",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_上着.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "100"
+      },
+      {
+        "vocabulary_japanese": "絵",
+        "vocabulary_simplified": "え",
+        "vocabulary_english": "picture",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_絵.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "100"
+      },
+      {
+        "vocabulary_japanese": "映画",
+        "vocabulary_simplified": "えいが",
+        "vocabulary_english": "movie",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_映画.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "100"
+      },
+      {
+        "vocabulary_japanese": "映画館",
+        "vocabulary_simplified": "えいがかん",
+        "vocabulary_english": "cinema",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_映画館.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "100"
+      },
+      {
+        "vocabulary_japanese": "英語",
+        "vocabulary_simplified": "えいご",
+        "vocabulary_english": "English language",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_英語.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "100"
+      },
+      {
+        "vocabulary_japanese": "ええ",
+        "vocabulary_simplified": "ええ",
+        "vocabulary_english": "yes",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_ええ.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "100"
+      },
+      {
+        "vocabulary_japanese": "駅",
+        "vocabulary_simplified": "えき",
+        "vocabulary_english": "station",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_駅.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "100"
+      },
+      {
+        "vocabulary_japanese": "エレベーター",
+        "vocabulary_simplified": "エレベーター",
+        "vocabulary_english": "elevator",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_エレベーター.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "100"
+      },
+      {
+        "vocabulary_japanese": "鉛筆",
+        "vocabulary_simplified": "えんぴつ",
+        "vocabulary_english": "pencil",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_鉛筆.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "100"
+      },
+      {
+        "vocabulary_japanese": "おいしい",
+        "vocabulary_simplified": "おいしい",
+        "vocabulary_english": "delicious",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_おいしい.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "100"
+      },
+      {
+        "vocabulary_japanese": "多い",
+        "vocabulary_simplified": "おおい",
+        "vocabulary_english": "many",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_多い.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "100"
+      },
+      {
+        "vocabulary_japanese": "大きい",
+        "vocabulary_simplified": "おおきい",
+        "vocabulary_english": "big",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_大きい.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "100"
+      },
+      {
+        "vocabulary_japanese": "大きな",
+        "vocabulary_simplified": "おおきな",
+        "vocabulary_english": "big",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_大きな.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "100"
+      },
+      {
+        "vocabulary_japanese": "大勢",
+        "vocabulary_simplified": "おおぜい",
+        "vocabulary_english": "great number of people",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_大勢.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "100"
+      },
+      {
+        "vocabulary_japanese": "お母さん",
+        "vocabulary_simplified": "おかあさん",
+        "vocabulary_english": "(honorable) mother",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_お母さん.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "100"
+      },
+      {
+        "vocabulary_japanese": "お菓子",
+        "vocabulary_simplified": "おかし",
+        "vocabulary_english": "sweets, candy",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_お菓子.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "100"
+      },
+      {
+        "vocabulary_japanese": "お金",
+        "vocabulary_simplified": "おかね",
+        "vocabulary_english": "money",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_お金.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "100"
+      },
+      {
+        "vocabulary_japanese": "起きる",
+        "vocabulary_simplified": "おきる",
+        "vocabulary_english": "to get up",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_起きる.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "200"
+      },
+      {
+        "vocabulary_japanese": "置く",
+        "vocabulary_simplified": "おく",
+        "vocabulary_english": "to put",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_置く.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "200"
+      },
+      {
+        "vocabulary_japanese": "奥さん",
+        "vocabulary_simplified": "おくさん",
+        "vocabulary_english": "(honorable) wife",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_奥さん.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "200"
+      },
+      {
+        "vocabulary_japanese": "お酒",
+        "vocabulary_simplified": "おさけ",
+        "vocabulary_english": "alcohol, rice wine",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_お酒.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "200"
+      },
+      {
+        "vocabulary_japanese": "お皿",
+        "vocabulary_simplified": "おさら",
+        "vocabulary_english": "plate, dish",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_お皿.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "200"
+      },
+      {
+        "vocabulary_japanese": "伯父/叔父",
+        "vocabulary_simplified": "おじいさん",
+        "vocabulary_english": "grandfather, male senior citizen",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_伯父/叔父.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "200"
+      },
+      {
+        "vocabulary_japanese": "教える",
+        "vocabulary_simplified": "おしえる",
+        "vocabulary_english": "to teach, to tell",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_教える.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "200"
+      },
+      {
+        "vocabulary_japanese": "伯父/叔父",
+        "vocabulary_simplified": "おじさん",
+        "vocabulary_english": "uncle, middle aged gentleman",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_伯父/叔父.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "200"
+      },
+      {
+        "vocabulary_japanese": "押す",
+        "vocabulary_simplified": "おす",
+        "vocabulary_english": "to push, to stamp something",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_押す.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "200"
+      },
+      {
+        "vocabulary_japanese": "遅い",
+        "vocabulary_simplified": "おそい",
+        "vocabulary_english": "late, slow",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_遅い.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "200"
+      },
+      {
+        "vocabulary_japanese": "お茶",
+        "vocabulary_simplified": "おちゃ",
+        "vocabulary_english": "green tea",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_お茶.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "200"
+      },
+      {
+        "vocabulary_japanese": "お手洗い",
+        "vocabulary_simplified": "おてあらい",
+        "vocabulary_english": "bathroom",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_お手洗い.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "200"
+      },
+      {
+        "vocabulary_japanese": "お父さん",
+        "vocabulary_simplified": "おとうさん",
+        "vocabulary_english": "(honorable) father",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_お父さん.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "200"
+      },
+      {
+        "vocabulary_japanese": "弟",
+        "vocabulary_simplified": "おとうと",
+        "vocabulary_english": "younger brother",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_弟.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "200"
+      },
+      {
+        "vocabulary_japanese": "男",
+        "vocabulary_simplified": "おとこ",
+        "vocabulary_english": "Man",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_男.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "200"
+      },
+      {
+        "vocabulary_japanese": "男の子",
+        "vocabulary_simplified": "おとこのこ",
+        "vocabulary_english": "Boy",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_男の子.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "200"
+      },
+      {
+        "vocabulary_japanese": "一昨日",
+        "vocabulary_simplified": "おととい",
+        "vocabulary_english": "day before yesterday",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_一昨日.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "200"
+      },
+      {
+        "vocabulary_japanese": "一昨年",
+        "vocabulary_simplified": "おととし",
+        "vocabulary_english": "year before last",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_一昨年.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "200"
+      },
+      {
+        "vocabulary_japanese": "大人",
+        "vocabulary_simplified": "おとな",
+        "vocabulary_english": "Adult",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_大人.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "200"
+      },
+      {
+        "vocabulary_japanese": "おなか",
+        "vocabulary_simplified": "おなか",
+        "vocabulary_english": "stomach",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_おなか.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "200"
+      },
+      {
+        "vocabulary_japanese": "同じ",
+        "vocabulary_simplified": "おなじ",
+        "vocabulary_english": "same",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_同じ.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "200"
+      },
+      {
+        "vocabulary_japanese": "お兄さん",
+        "vocabulary_simplified": "おにいさん",
+        "vocabulary_english": "(honorable) older brother",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_お兄さん.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "200"
+      },
+      {
+        "vocabulary_japanese": "お姉さん",
+        "vocabulary_simplified": "おねえさん",
+        "vocabulary_english": "(honorable) older sister",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_お姉さん.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "200"
+      },
+      {
+        "vocabulary_japanese": "おばあさん",
+        "vocabulary_simplified": "おばあさん",
+        "vocabulary_english": "grandmother, female senior-citizen",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_おばあさん.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "200"
+      },
+      {
+        "vocabulary_japanese": "伯母さん/叔母さん",
+        "vocabulary_simplified": "おばさん",
+        "vocabulary_english": "Aunt",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_伯母さん/叔母さん.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "200"
+      },
+      {
+        "vocabulary_japanese": "お風呂",
+        "vocabulary_simplified": "おふろ",
+        "vocabulary_english": "Bath",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_お風呂.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "200"
+      },
+      {
+        "vocabulary_japanese": "お弁当",
+        "vocabulary_simplified": "おべんとう",
+        "vocabulary_english": "boxed lunch",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_お弁当.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "200"
+      },
+      {
+        "vocabulary_japanese": "覚える",
+        "vocabulary_simplified": "おぼえる",
+        "vocabulary_english": "to remember",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_覚える.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "200"
+      },
+      {
+        "vocabulary_japanese": "おまわりさん",
+        "vocabulary_simplified": "おまわりさん",
+        "vocabulary_english": "friendly term for policeman",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_おまわりさん.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "200"
+      },
+      {
+        "vocabulary_japanese": "重い",
+        "vocabulary_simplified": "おもい",
+        "vocabulary_english": "Heavy",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_重い.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "200"
+      },
+      {
+        "vocabulary_japanese": "おもしろい",
+        "vocabulary_simplified": "おもしろい",
+        "vocabulary_english": "Interesting",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_おもしろい.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "200"
+      },
+      {
+        "vocabulary_japanese": "泳ぐ",
+        "vocabulary_simplified": "およぐ",
+        "vocabulary_english": "to swim",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_泳ぐ.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "200"
+      },
+      {
+        "vocabulary_japanese": "降りる",
+        "vocabulary_simplified": "おりる",
+        "vocabulary_english": "to get off, to descend",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_降りる.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "200"
+      },
+      {
+        "vocabulary_japanese": "終る",
+        "vocabulary_simplified": "おわる",
+        "vocabulary_english": "to finish",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_終る.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "200"
+      },
+      {
+        "vocabulary_japanese": "音楽",
+        "vocabulary_simplified": "おんがく",
+        "vocabulary_english": "Music",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_音楽.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "200"
+      },
+      {
+        "vocabulary_japanese": "女",
+        "vocabulary_simplified": "おんな",
+        "vocabulary_english": "Woman",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_女.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "200"
+      },
+      {
+        "vocabulary_japanese": "女の子",
+        "vocabulary_simplified": "おんなのこ",
+        "vocabulary_english": "Girl",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_女の子.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "200"
+      },
+      {
+        "vocabulary_japanese": "外国",
+        "vocabulary_simplified": "がいこく",
+        "vocabulary_english": "foreign country",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_外国.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "200"
+      },
+      {
+        "vocabulary_japanese": "外国人",
+        "vocabulary_simplified": "がいこくじん",
+        "vocabulary_english": "Foreigner",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_外国人.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "200"
+      },
+      {
+        "vocabulary_japanese": "会社",
+        "vocabulary_simplified": "かいしゃ",
+        "vocabulary_english": "Company",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_会社.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "200"
+      },
+      {
+        "vocabulary_japanese": "階段",
+        "vocabulary_simplified": "かいだん",
+        "vocabulary_english": "Stairs",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_階段.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "200"
+      },
+      {
+        "vocabulary_japanese": "買い物",
+        "vocabulary_simplified": "かいもの",
+        "vocabulary_english": "Shopping",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_買い物.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "200"
+      },
+      {
+        "vocabulary_japanese": "買う",
+        "vocabulary_simplified": "かう",
+        "vocabulary_english": "to buy",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_買う.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "200"
+      },
+      {
+        "vocabulary_japanese": "返す",
+        "vocabulary_simplified": "かえす",
+        "vocabulary_english": "to return something",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_返す.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "200"
+      },
+      {
+        "vocabulary_japanese": "帰る",
+        "vocabulary_simplified": "かえる",
+        "vocabulary_english": "to go back",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_帰る.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "200"
+      },
+      {
+        "vocabulary_japanese": "かかる",
+        "vocabulary_simplified": "かかる",
+        "vocabulary_english": "to take time or money",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_かかる.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "200"
+      },
+      {
+        "vocabulary_japanese": "かぎ",
+        "vocabulary_simplified": "かぎ",
+        "vocabulary_english": "Key",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_かぎ.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "200"
+      },
+      {
+        "vocabulary_japanese": "書く",
+        "vocabulary_simplified": "かく",
+        "vocabulary_english": "to write",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_書く.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "200"
+      },
+      {
+        "vocabulary_japanese": "学生",
+        "vocabulary_simplified": "がくせい",
+        "vocabulary_english": "Student",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_学生.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "200"
+      },
+      {
+        "vocabulary_japanese": "かける",
+        "vocabulary_simplified": "かける",
+        "vocabulary_english": "to call by phone",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_かける.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "200"
+      },
+      {
+        "vocabulary_japanese": "傘",
+        "vocabulary_simplified": "かさ",
+        "vocabulary_english": "Umbrella",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_傘.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "200"
+      },
+      {
+        "vocabulary_japanese": "貸す",
+        "vocabulary_simplified": "かす",
+        "vocabulary_english": "to lend",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_貸す.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "200"
+      },
+      {
+        "vocabulary_japanese": "風",
+        "vocabulary_simplified": "かぜ",
+        "vocabulary_english": "Wind",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_風.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "200"
+      },
+      {
+        "vocabulary_japanese": "風邪",
+        "vocabulary_simplified": "かぜ",
+        "vocabulary_english": "a cold",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_風邪.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "200"
+      },
+      {
+        "vocabulary_japanese": "家族",
+        "vocabulary_simplified": "かぞく",
+        "vocabulary_english": "Family",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_家族.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "200"
+      },
+      {
+        "vocabulary_japanese": "方",
+        "vocabulary_simplified": "かた",
+        "vocabulary_english": "person, way of doing",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_方.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "200"
+      },
+      {
+        "vocabulary_japanese": "学校",
+        "vocabulary_simplified": "がっこう",
+        "vocabulary_english": "School",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_学校.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "200"
+      },
+      {
+        "vocabulary_japanese": "カップ",
+        "vocabulary_simplified": "カップ",
+        "vocabulary_english": "Cup",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_カップ.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "200"
+      },
+      {
+        "vocabulary_japanese": "家庭",
+        "vocabulary_simplified": "かてい",
+        "vocabulary_english": "Household",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_家庭.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "200"
+      },
+      {
+        "vocabulary_japanese": "角",
+        "vocabulary_simplified": "かど",
+        "vocabulary_english": "a corner",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_角.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "200"
+      },
+      {
+        "vocabulary_japanese": "かばん",
+        "vocabulary_simplified": "かばん",
+        "vocabulary_english": "bag, basket",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_かばん.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "200"
+      },
+      {
+        "vocabulary_japanese": "花瓶",
+        "vocabulary_simplified": "かびん",
+        "vocabulary_english": "a vase",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_花瓶.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "200"
+      },
+      {
+        "vocabulary_japanese": "紙",
+        "vocabulary_simplified": "かみ",
+        "vocabulary_english": "paper",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_紙.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "200"
+      },
+      {
+        "vocabulary_japanese": "カメラ",
+        "vocabulary_simplified": "カメラ",
+        "vocabulary_english": "camera",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_カメラ.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "200"
+      },
+      {
+        "vocabulary_japanese": "火曜日",
+        "vocabulary_simplified": "かようび",
+        "vocabulary_english": "Tuesday",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_火曜日.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "200"
+      },
+      {
+        "vocabulary_japanese": "辛い",
+        "vocabulary_simplified": "からい",
+        "vocabulary_english": "Spicy",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_辛い.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "200"
+      },
+      {
+        "vocabulary_japanese": "体",
+        "vocabulary_simplified": "からだ",
+        "vocabulary_english": "Body",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_体.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "200"
+      },
+      {
+        "vocabulary_japanese": "借りる",
+        "vocabulary_simplified": "かりる",
+        "vocabulary_english": "to borrow",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_借りる.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "200"
+      },
+      {
+        "vocabulary_japanese": "軽い",
+        "vocabulary_simplified": "かるい",
+        "vocabulary_english": "Light",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_軽い.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "200"
+      },
+      {
+        "vocabulary_japanese": "カレー",
+        "vocabulary_simplified": "カレー",
+        "vocabulary_english": "Curry",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_カレー.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "200"
+      },
+      {
+        "vocabulary_japanese": "カレンダー",
+        "vocabulary_simplified": "カレンダー",
+        "vocabulary_english": "calendar",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_カレンダー.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "200"
+      },
+      {
+        "vocabulary_japanese": "川/河",
+        "vocabulary_simplified": "かわ",
+        "vocabulary_english": "River",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_川/河.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "200"
+      },
+      {
+        "vocabulary_japanese": "かわいい",
+        "vocabulary_simplified": "かわいい",
+        "vocabulary_english": "Cute",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_かわいい.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "200"
+      },
+      {
+        "vocabulary_japanese": "漢字",
+        "vocabulary_simplified": "かんじ",
+        "vocabulary_english": "Chinese character",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_漢字.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "200"
+      },
+      {
+        "vocabulary_japanese": "木",
+        "vocabulary_simplified": "き",
+        "vocabulary_english": "tree, wood",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_木.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "200"
+      },
+      {
+        "vocabulary_japanese": "黄色",
+        "vocabulary_simplified": "きいろ",
+        "vocabulary_english": "yellow",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_黄色.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "200"
+      },
+      {
+        "vocabulary_japanese": "黄色い",
+        "vocabulary_simplified": "きいろい",
+        "vocabulary_english": "yellow",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_黄色い.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "200"
+      },
+      {
+        "vocabulary_japanese": "消える",
+        "vocabulary_simplified": "きえる",
+        "vocabulary_english": "to disappear",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_消える.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "200"
+      },
+      {
+        "vocabulary_japanese": "聞く",
+        "vocabulary_simplified": "きく",
+        "vocabulary_english": "to hear, to listen to, to ask",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_聞く.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "200"
+      },
+      {
+        "vocabulary_japanese": "北",
+        "vocabulary_simplified": "きた",
+        "vocabulary_english": "North",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_北.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "200"
+      },
+      {
+        "vocabulary_japanese": "ギター",
+        "vocabulary_simplified": "ギター",
+        "vocabulary_english": "Guitar",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_ギター.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "200"
+      },
+      {
+        "vocabulary_japanese": "汚い",
+        "vocabulary_simplified": "きたない",
+        "vocabulary_english": "Dirty",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_汚い.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "200"
+      },
+      {
+        "vocabulary_japanese": "喫茶店",
+        "vocabulary_simplified": "きっさてん",
+        "vocabulary_english": "coffee lounge",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_喫茶店.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "200"
+      },
+      {
+        "vocabulary_japanese": "切手",
+        "vocabulary_simplified": "きって",
+        "vocabulary_english": "postage stamp",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_切手.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "200"
+      },
+      {
+        "vocabulary_japanese": "切符",
+        "vocabulary_simplified": "きっぷ",
+        "vocabulary_english": "Ticket",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_切符.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "200"
+      },
+      {
+        "vocabulary_japanese": "昨日",
+        "vocabulary_simplified": "きのう",
+        "vocabulary_english": "Yesterday",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_昨日.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "200"
+      },
+      {
+        "vocabulary_japanese": "九",
+        "vocabulary_simplified": "きゅう / く",
+        "vocabulary_english": "Nine",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_九.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "200"
+      },
+      {
+        "vocabulary_japanese": "牛肉",
+        "vocabulary_simplified": "ぎゅうにく",
+        "vocabulary_english": "Beef",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_牛肉.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "200"
+      },
+      {
+        "vocabulary_japanese": "牛乳",
+        "vocabulary_simplified": "ぎゅうにゅう",
+        "vocabulary_english": "Milk",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_牛乳.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "200"
+      },
+      {
+        "vocabulary_japanese": "今日",
+        "vocabulary_simplified": "きょう",
+        "vocabulary_english": "Today",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_今日.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "200"
+      },
+      {
+        "vocabulary_japanese": "教室",
+        "vocabulary_simplified": "きょうしつ",
+        "vocabulary_english": "Classroom",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_教室.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "200"
+      },
+      {
+        "vocabulary_japanese": "兄弟",
+        "vocabulary_simplified": "きょうだい",
+        "vocabulary_english": "(humble) siblings",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_兄弟.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "200"
+      },
+      {
+        "vocabulary_japanese": "去年",
+        "vocabulary_simplified": "きょねん",
+        "vocabulary_english": "last year",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_去年.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "200"
+      },
+      {
+        "vocabulary_japanese": "嫌い",
+        "vocabulary_simplified": "きらい",
+        "vocabulary_english": "Hate",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_嫌い.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "200"
+      },
+      {
+        "vocabulary_japanese": "切る",
+        "vocabulary_simplified": "きる",
+        "vocabulary_english": "to cut",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_切る.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "200"
+      },
+      {
+        "vocabulary_japanese": "着る",
+        "vocabulary_simplified": "きる",
+        "vocabulary_english": "to put on from the shoulders down",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_着る.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "200"
+      },
+      {
+        "vocabulary_japanese": "きれい",
+        "vocabulary_simplified": "きれい",
+        "vocabulary_english": "pretty, clean",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_きれい.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "200"
+      },
+      {
+        "vocabulary_japanese": "キロ/キログラム",
+        "vocabulary_simplified": "キロ/キログラム",
+        "vocabulary_english": "Kilogram",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_キロ/キログラム.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "200"
+      },
+      {
+        "vocabulary_japanese": "キロ/キロメートル",
+        "vocabulary_simplified": "キロ/キロメートル",
+        "vocabulary_english": "Kilometer",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_キロ/キロメートル.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "200"
+      },
+      {
+        "vocabulary_japanese": "銀行",
+        "vocabulary_simplified": "ぎんこう",
+        "vocabulary_english": "Bank",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_銀行.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "200"
+      },
+      {
+        "vocabulary_japanese": "金曜日",
+        "vocabulary_simplified": "きんようび",
+        "vocabulary_english": "Friday",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_金曜日.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "300"
+      },
+      {
+        "vocabulary_japanese": "薬",
+        "vocabulary_simplified": "くすり",
+        "vocabulary_english": "medicine",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_薬.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "300"
+      },
+      {
+        "vocabulary_japanese": "ください",
+        "vocabulary_simplified": "ください",
+        "vocabulary_english": "Please",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_ください.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "300"
+      },
+      {
+        "vocabulary_japanese": "果物",
+        "vocabulary_simplified": "くだもの",
+        "vocabulary_english": "Fruit",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_果物.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "300"
+      },
+      {
+        "vocabulary_japanese": "口",
+        "vocabulary_simplified": "くち",
+        "vocabulary_english": "mouth, opening",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_口.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "300"
+      },
+      {
+        "vocabulary_japanese": "靴",
+        "vocabulary_simplified": "くつ",
+        "vocabulary_english": "Shoes",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_靴.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "300"
+      },
+      {
+        "vocabulary_japanese": "靴下",
+        "vocabulary_simplified": "くつした",
+        "vocabulary_english": "Socks",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_靴下.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "300"
+      },
+      {
+        "vocabulary_japanese": "国",
+        "vocabulary_simplified": "くに",
+        "vocabulary_english": "Country",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_国.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "300"
+      },
+      {
+        "vocabulary_japanese": "曇り",
+        "vocabulary_simplified": "くもり",
+        "vocabulary_english": "cloudy weather",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_曇り.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "300"
+      },
+      {
+        "vocabulary_japanese": "曇る",
+        "vocabulary_simplified": "くもる",
+        "vocabulary_english": "to become cloudy, to become dim",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_曇る.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "300"
+      },
+      {
+        "vocabulary_japanese": "暗い",
+        "vocabulary_simplified": "くらい",
+        "vocabulary_english": "Gloomy",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_暗い.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "300"
+      },
+      {
+        "vocabulary_japanese": "クラス",
+        "vocabulary_simplified": "クラス",
+        "vocabulary_english": "Class",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_クラス.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "300"
+      },
+      {
+        "vocabulary_japanese": "グラム",
+        "vocabulary_simplified": "グラム",
+        "vocabulary_english": "Gram",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_グラム.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "300"
+      },
+      {
+        "vocabulary_japanese": "来る",
+        "vocabulary_simplified": "くる",
+        "vocabulary_english": "to come",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_来る.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "300"
+      },
+      {
+        "vocabulary_japanese": "車",
+        "vocabulary_simplified": "くるま",
+        "vocabulary_english": "car, vehicle",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_車.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "300"
+      },
+      {
+        "vocabulary_japanese": "黒",
+        "vocabulary_simplified": "くろ",
+        "vocabulary_english": "Black",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_黒.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "300"
+      },
+      {
+        "vocabulary_japanese": "黒い",
+        "vocabulary_simplified": "くろい",
+        "vocabulary_english": "black",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_黒い.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "300"
+      },
+      {
+        "vocabulary_japanese": "警官",
+        "vocabulary_simplified": "けいかん",
+        "vocabulary_english": "policeman",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_警官.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "300"
+      },
+      {
+        "vocabulary_japanese": "今朝",
+        "vocabulary_simplified": "けさ",
+        "vocabulary_english": "this morning",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_今朝.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "300"
+      },
+      {
+        "vocabulary_japanese": "消す",
+        "vocabulary_simplified": "けす",
+        "vocabulary_english": "to erase, to turn off power",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_消す.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "300"
+      },
+      {
+        "vocabulary_japanese": "結構",
+        "vocabulary_simplified": "けっこう",
+        "vocabulary_english": "splendid, enough",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_結構.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "300"
+      },
+      {
+        "vocabulary_japanese": "結婚",
+        "vocabulary_simplified": "けっこん",
+        "vocabulary_english": "Marriage",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_結婚.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "300"
+      },
+      {
+        "vocabulary_japanese": "月曜日",
+        "vocabulary_simplified": "げつようび",
+        "vocabulary_english": "Monday",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_月曜日.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "300"
+      },
+      {
+        "vocabulary_japanese": "玄関",
+        "vocabulary_simplified": "げんかん",
+        "vocabulary_english": "entry hall",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_玄関.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "300"
+      },
+      {
+        "vocabulary_japanese": "元気",
+        "vocabulary_simplified": "げんき",
+        "vocabulary_english": "health, vitality",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_元気.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "300"
+      },
+      {
+        "vocabulary_japanese": "五",
+        "vocabulary_simplified": "ご",
+        "vocabulary_english": "Five",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_五.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "300"
+      },
+      {
+        "vocabulary_japanese": "公園",
+        "vocabulary_simplified": "こうえん",
+        "vocabulary_english": "Park",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_公園.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "300"
+      },
+      {
+        "vocabulary_japanese": "交差点",
+        "vocabulary_simplified": "こうさてん",
+        "vocabulary_english": "intersection",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_交差点.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "300"
+      },
+      {
+        "vocabulary_japanese": "紅茶",
+        "vocabulary_simplified": "こうちゃ",
+        "vocabulary_english": "black tea",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_紅茶.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "300"
+      },
+      {
+        "vocabulary_japanese": "交番",
+        "vocabulary_simplified": "こうばん",
+        "vocabulary_english": "police box",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_交番.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "300"
+      },
+      {
+        "vocabulary_japanese": "声",
+        "vocabulary_simplified": "こえ",
+        "vocabulary_english": "Voice",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_声.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "300"
+      },
+      {
+        "vocabulary_japanese": "コート",
+        "vocabulary_simplified": "コート",
+        "vocabulary_english": "coat, tennis court",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_コート.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "300"
+      },
+      {
+        "vocabulary_japanese": "コーヒー",
+        "vocabulary_simplified": "コーヒー",
+        "vocabulary_english": "Coffee",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_コーヒー.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "300"
+      },
+      {
+        "vocabulary_japanese": "ここ",
+        "vocabulary_simplified": "ここ",
+        "vocabulary_english": "Here",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_ここ.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "300"
+      },
+      {
+        "vocabulary_japanese": "午後",
+        "vocabulary_simplified": "ごご",
+        "vocabulary_english": "afternoon",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_午後.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "300"
+      },
+      {
+        "vocabulary_japanese": "九日",
+        "vocabulary_simplified": "ここのか",
+        "vocabulary_english": "nine days, ninth day",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_九日.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "300"
+      },
+      {
+        "vocabulary_japanese": "九つ",
+        "vocabulary_simplified": "ここのつ",
+        "vocabulary_english": "Nine",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_九つ.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "300"
+      },
+      {
+        "vocabulary_japanese": "午前",
+        "vocabulary_simplified": "ごぜん",
+        "vocabulary_english": "morning",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_午前.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "300"
+      },
+      {
+        "vocabulary_japanese": "答える",
+        "vocabulary_simplified": "こたえる",
+        "vocabulary_english": "to answer",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_答える.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "300"
+      },
+      {
+        "vocabulary_japanese": "こちら",
+        "vocabulary_simplified": "こちら",
+        "vocabulary_english": "this person or way",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_こちら.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "300"
+      },
+      {
+        "vocabulary_japanese": "こっち",
+        "vocabulary_simplified": "こっち",
+        "vocabulary_english": "this person or way",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_こっち.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "300"
+      },
+      {
+        "vocabulary_japanese": "コップ",
+        "vocabulary_simplified": "コップ",
+        "vocabulary_english": "a glass",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_コップ.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "300"
+      },
+      {
+        "vocabulary_japanese": "今年",
+        "vocabulary_simplified": "ことし",
+        "vocabulary_english": "this year",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_今年.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "300"
+      },
+      {
+        "vocabulary_japanese": "言葉",
+        "vocabulary_simplified": "ことば",
+        "vocabulary_english": "word, language",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_言葉.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "300"
+      },
+      {
+        "vocabulary_japanese": "子供",
+        "vocabulary_simplified": "こども",
+        "vocabulary_english": "Child",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_子供.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "300"
+      },
+      {
+        "vocabulary_japanese": "この",
+        "vocabulary_simplified": "この",
+        "vocabulary_english": "This",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_この.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "300"
+      },
+      {
+        "vocabulary_japanese": "御飯",
+        "vocabulary_simplified": "ごはん",
+        "vocabulary_english": "cooked rice, meal",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_御飯.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "300"
+      },
+      {
+        "vocabulary_japanese": "コピーする",
+        "vocabulary_simplified": "コピーする",
+        "vocabulary_english": "to copy",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_コピーする.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "300"
+      },
+      {
+        "vocabulary_japanese": "困る",
+        "vocabulary_simplified": "こまる",
+        "vocabulary_english": "to be worried",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_困る.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "300"
+      },
+      {
+        "vocabulary_japanese": "これ",
+        "vocabulary_simplified": "これ",
+        "vocabulary_english": "This",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_これ.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "300"
+      },
+      {
+        "vocabulary_japanese": "今月",
+        "vocabulary_simplified": "こんげつ",
+        "vocabulary_english": "this month",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_今月.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "300"
+      },
+      {
+        "vocabulary_japanese": "今週",
+        "vocabulary_simplified": "こんしゅう",
+        "vocabulary_english": "this week",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_今週.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "300"
+      },
+      {
+        "vocabulary_japanese": "こんな",
+        "vocabulary_simplified": "こんな",
+        "vocabulary_english": "Such",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_こんな.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "300"
+      },
+      {
+        "vocabulary_japanese": "今晩",
+        "vocabulary_simplified": "こんばん",
+        "vocabulary_english": "this evening",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_今晩.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "300"
+      },
+      {
+        "vocabulary_japanese": "さあ",
+        "vocabulary_simplified": "さあ",
+        "vocabulary_english": "well…",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_さあ.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "300"
+      },
+      {
+        "vocabulary_japanese": "財布",
+        "vocabulary_simplified": "さいふ",
+        "vocabulary_english": "Wallet",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_財布.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "300"
+      },
+      {
+        "vocabulary_japanese": "魚",
+        "vocabulary_simplified": "さかな",
+        "vocabulary_english": "Fish",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_魚.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "300"
+      },
+      {
+        "vocabulary_japanese": "先",
+        "vocabulary_simplified": "さき",
+        "vocabulary_english": "the future, previous",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_先.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "300"
+      },
+      {
+        "vocabulary_japanese": "咲く",
+        "vocabulary_simplified": "さく",
+        "vocabulary_english": "to bloom",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_咲く.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "300"
+      },
+      {
+        "vocabulary_japanese": "作文",
+        "vocabulary_simplified": "さくぶん",
+        "vocabulary_english": "composition, writing",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_作文.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "300"
+      },
+      {
+        "vocabulary_japanese": "差す",
+        "vocabulary_simplified": "さす",
+        "vocabulary_english": "to stretch out hands, to raise an umbrella",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_差す.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "300"
+      },
+      {
+        "vocabulary_japanese": "雑誌",
+        "vocabulary_simplified": "ざっし",
+        "vocabulary_english": "Magazine",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_雑誌.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "300"
+      },
+      {
+        "vocabulary_japanese": "砂糖",
+        "vocabulary_simplified": "さとう",
+        "vocabulary_english": "Sugar",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_砂糖.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "300"
+      },
+      {
+        "vocabulary_japanese": "寒い",
+        "vocabulary_simplified": "さむい",
+        "vocabulary_english": "Cold",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_寒い.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "300"
+      },
+      {
+        "vocabulary_japanese": "さ来年",
+        "vocabulary_simplified": "さらいねん",
+        "vocabulary_english": "year after next",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_さ来年.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "300"
+      },
+      {
+        "vocabulary_japanese": "三",
+        "vocabulary_simplified": "さん",
+        "vocabulary_english": "Three",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_三.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "300"
+      },
+      {
+        "vocabulary_japanese": "散歩",
+        "vocabulary_simplified": "さんぽする",
+        "vocabulary_english": "to stroll",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_散歩.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "300"
+      },
+      {
+        "vocabulary_japanese": "四",
+        "vocabulary_simplified": "し / よん",
+        "vocabulary_english": "Four",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_四.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "300"
+      },
+      {
+        "vocabulary_japanese": "塩",
+        "vocabulary_simplified": "しお",
+        "vocabulary_english": "Salt",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_塩.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "300"
+      },
+      {
+        "vocabulary_japanese": "しかし",
+        "vocabulary_simplified": "しかし",
+        "vocabulary_english": "However",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_しかし.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "300"
+      },
+      {
+        "vocabulary_japanese": "時間",
+        "vocabulary_simplified": "じかん",
+        "vocabulary_english": "Time",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_時間.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "300"
+      },
+      {
+        "vocabulary_japanese": "仕事",
+        "vocabulary_simplified": "しごと",
+        "vocabulary_english": "Job",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_仕事.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "300"
+      },
+      {
+        "vocabulary_japanese": "辞書",
+        "vocabulary_simplified": "じしょ",
+        "vocabulary_english": "Dictionary",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_辞書.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "300"
+      },
+      {
+        "vocabulary_japanese": "静か",
+        "vocabulary_simplified": "しずか",
+        "vocabulary_english": "Quiet",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_静か.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "300"
+      },
+      {
+        "vocabulary_japanese": "下",
+        "vocabulary_simplified": "した",
+        "vocabulary_english": "Below",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_下.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "300"
+      },
+      {
+        "vocabulary_japanese": "七",
+        "vocabulary_simplified": "しち / なな",
+        "vocabulary_english": "Seven",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_七.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "300"
+      },
+      {
+        "vocabulary_japanese": "質問",
+        "vocabulary_simplified": "しつもん",
+        "vocabulary_english": "Question",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_質問.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "300"
+      },
+      {
+        "vocabulary_japanese": "自転車",
+        "vocabulary_simplified": "じてんしゃ",
+        "vocabulary_english": "Bicycle",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_自転車.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "300"
+      },
+      {
+        "vocabulary_japanese": "自動車",
+        "vocabulary_simplified": "じどうしゃ",
+        "vocabulary_english": "Automobile",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_自動車.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "300"
+      },
+      {
+        "vocabulary_japanese": "死ぬ",
+        "vocabulary_simplified": "しぬ",
+        "vocabulary_english": "to die",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_死ぬ.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "300"
+      },
+      {
+        "vocabulary_japanese": "字引",
+        "vocabulary_simplified": "じびき",
+        "vocabulary_english": "Dictionary",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_字引.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "300"
+      },
+      {
+        "vocabulary_japanese": "自分",
+        "vocabulary_simplified": "じぶん",
+        "vocabulary_english": "Oneself",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_自分.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "300"
+      },
+      {
+        "vocabulary_japanese": "閉まる",
+        "vocabulary_simplified": "しまる",
+        "vocabulary_english": "to close, to be closed",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_閉まる.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "300"
+      },
+      {
+        "vocabulary_japanese": "閉める",
+        "vocabulary_simplified": "しめる",
+        "vocabulary_english": "to close something",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_閉める.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "300"
+      },
+      {
+        "vocabulary_japanese": "締める",
+        "vocabulary_simplified": "しめる",
+        "vocabulary_english": "to tie",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_締める.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "300"
+      },
+      {
+        "vocabulary_japanese": "じゃ/じゃあ",
+        "vocabulary_simplified": "じゃ/じゃあ",
+        "vocabulary_english": "well then…",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_じゃ/じゃあ.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "300"
+      },
+      {
+        "vocabulary_japanese": "写真",
+        "vocabulary_simplified": "しゃしん",
+        "vocabulary_english": "photograph",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_写真.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "300"
+      },
+      {
+        "vocabulary_japanese": "シャツ",
+        "vocabulary_simplified": "シャツ",
+        "vocabulary_english": "Shirt",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_シャツ.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "300"
+      },
+      {
+        "vocabulary_japanese": "シャワー",
+        "vocabulary_simplified": "シャワー",
+        "vocabulary_english": "Shower",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_シャワー.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "300"
+      },
+      {
+        "vocabulary_japanese": "十",
+        "vocabulary_simplified": "じゅう とお",
+        "vocabulary_english": "Ten",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_十.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "300"
+      },
+      {
+        "vocabulary_japanese": "授業",
+        "vocabulary_simplified": "じゅぎょう",
+        "vocabulary_english": "lesson, class work",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_授業.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "300"
+      },
+      {
+        "vocabulary_japanese": "宿題",
+        "vocabulary_simplified": "しゅくだい",
+        "vocabulary_english": "homework",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_宿題.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "300"
+      },
+      {
+        "vocabulary_japanese": "上手",
+        "vocabulary_simplified": "じょうず",
+        "vocabulary_english": "Skillful",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_上手.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "300"
+      },
+      {
+        "vocabulary_japanese": "丈夫",
+        "vocabulary_simplified": "じょうぶ",
+        "vocabulary_english": "strong, durable",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_丈夫.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "300"
+      },
+      {
+        "vocabulary_japanese": "しょうゆ",
+        "vocabulary_simplified": "しょうゆ",
+        "vocabulary_english": "soy sauce",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_しょうゆ.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "300"
+      },
+      {
+        "vocabulary_japanese": "食堂",
+        "vocabulary_simplified": "しょくどう",
+        "vocabulary_english": "dining hall",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_食堂.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "300"
+      },
+      {
+        "vocabulary_japanese": "知る",
+        "vocabulary_simplified": "しる",
+        "vocabulary_english": "to know",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_知る.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "300"
+      },
+      {
+        "vocabulary_japanese": "白",
+        "vocabulary_simplified": "しろ",
+        "vocabulary_english": "White",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_白.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "300"
+      },
+      {
+        "vocabulary_japanese": "白い",
+        "vocabulary_simplified": "しろい",
+        "vocabulary_english": "White",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_白い.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "300"
+      },
+      {
+        "vocabulary_japanese": "新聞",
+        "vocabulary_simplified": "しんぶん",
+        "vocabulary_english": "newspaper",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_新聞.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "300"
+      },
+      {
+        "vocabulary_japanese": "水曜日",
+        "vocabulary_simplified": "すいようび",
+        "vocabulary_english": "Wednesday",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_水曜日.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "400"
+      },
+      {
+        "vocabulary_japanese": "吸う",
+        "vocabulary_simplified": "すう",
+        "vocabulary_english": "to smoke, to suck",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_吸う.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "400"
+      },
+      {
+        "vocabulary_japanese": "スカート",
+        "vocabulary_simplified": "スカート",
+        "vocabulary_english": "Skirt",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_スカート.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "400"
+      },
+      {
+        "vocabulary_japanese": "好き",
+        "vocabulary_simplified": "すき",
+        "vocabulary_english": "Likeable",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_好き.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "400"
+      },
+      {
+        "vocabulary_japanese": "少ない",
+        "vocabulary_simplified": "すくない",
+        "vocabulary_english": "a few",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_少ない.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "400"
+      },
+      {
+        "vocabulary_japanese": "すぐに",
+        "vocabulary_simplified": "すぐに",
+        "vocabulary_english": "Instantly",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_すぐに.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "400"
+      },
+      {
+        "vocabulary_japanese": "少し",
+        "vocabulary_simplified": "すこし",
+        "vocabulary_english": "Few",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_少し.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "400"
+      },
+      {
+        "vocabulary_japanese": "涼しい",
+        "vocabulary_simplified": "すずしい",
+        "vocabulary_english": "Refreshing",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_涼しい.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "400"
+      },
+      {
+        "vocabulary_japanese": "ストーブ",
+        "vocabulary_simplified": "ストーブ",
+        "vocabulary_english": "Heater",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_ストーブ.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "400"
+      },
+      {
+        "vocabulary_japanese": "スプーン",
+        "vocabulary_simplified": "スプーン",
+        "vocabulary_english": "Spoon",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_スプーン.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "400"
+      },
+      {
+        "vocabulary_japanese": "スポーツ",
+        "vocabulary_simplified": "スポーツ",
+        "vocabulary_english": "Sport",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_スポーツ.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "400"
+      },
+      {
+        "vocabulary_japanese": "ズボン",
+        "vocabulary_simplified": "ズボン",
+        "vocabulary_english": "Trousers",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_ズボン.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "400"
+      },
+      {
+        "vocabulary_japanese": "住む",
+        "vocabulary_simplified": "すむ",
+        "vocabulary_english": "to live in",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_住む.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "400"
+      },
+      {
+        "vocabulary_japanese": "スリッパ",
+        "vocabulary_simplified": "スリッパ",
+        "vocabulary_english": "Slippers",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_スリッパ.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "400"
+      },
+      {
+        "vocabulary_japanese": "する",
+        "vocabulary_simplified": "する",
+        "vocabulary_english": "to do",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_する.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "400"
+      },
+      {
+        "vocabulary_japanese": "座る",
+        "vocabulary_simplified": "すわる",
+        "vocabulary_english": "to sit",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_座る.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "400"
+      },
+      {
+        "vocabulary_japanese": "背",
+        "vocabulary_simplified": "せ",
+        "vocabulary_english": "height, stature",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_背.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "400"
+      },
+      {
+        "vocabulary_japanese": "生徒",
+        "vocabulary_simplified": "せいと",
+        "vocabulary_english": "Pupil",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_生徒.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "400"
+      },
+      {
+        "vocabulary_japanese": "セーター",
+        "vocabulary_simplified": "セーター",
+        "vocabulary_english": "sweater, jumper",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_セーター.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "400"
+      },
+      {
+        "vocabulary_japanese": "せっけん",
+        "vocabulary_simplified": "せっけん",
+        "vocabulary_english": "Economy",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_せっけん.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "400"
+      },
+      {
+        "vocabulary_japanese": "背広",
+        "vocabulary_simplified": "せびろ",
+        "vocabulary_english": "business suit",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_背広.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "400"
+      },
+      {
+        "vocabulary_japanese": "狭い",
+        "vocabulary_simplified": "せまい",
+        "vocabulary_english": "Narrow",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_狭い.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "400"
+      },
+      {
+        "vocabulary_japanese": "ゼロ",
+        "vocabulary_simplified": "ゼロ",
+        "vocabulary_english": "Zero",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_ゼロ.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "400"
+      },
+      {
+        "vocabulary_japanese": "千",
+        "vocabulary_simplified": "せん",
+        "vocabulary_english": "Thousand",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_千.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "400"
+      },
+      {
+        "vocabulary_japanese": "先月",
+        "vocabulary_simplified": "せんげつ",
+        "vocabulary_english": "last month",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_先月.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "400"
+      },
+      {
+        "vocabulary_japanese": "先週",
+        "vocabulary_simplified": "せんしゅう",
+        "vocabulary_english": "last week",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_先週.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "400"
+      },
+      {
+        "vocabulary_japanese": "先生",
+        "vocabulary_simplified": "せんせい",
+        "vocabulary_english": "teacher, doctor",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_先生.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "400"
+      },
+      {
+        "vocabulary_japanese": "洗濯",
+        "vocabulary_simplified": "せんたく",
+        "vocabulary_english": "Washing",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_洗濯.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "400"
+      },
+      {
+        "vocabulary_japanese": "全部",
+        "vocabulary_simplified": "ぜんぶ",
+        "vocabulary_english": "All",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_全部.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "400"
+      },
+      {
+        "vocabulary_japanese": "掃除",
+        "vocabulary_simplified": "そうじする",
+        "vocabulary_english": "to clean, to sweep",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_掃除.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "400"
+      },
+      {
+        "vocabulary_japanese": "そうして/そして",
+        "vocabulary_simplified": "そうして/そして",
+        "vocabulary_english": "And",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_そうして/そして.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "400"
+      },
+      {
+        "vocabulary_japanese": "そこ",
+        "vocabulary_simplified": "そこ",
+        "vocabulary_english": "that place",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_そこ.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "400"
+      },
+      {
+        "vocabulary_japanese": "そちら",
+        "vocabulary_simplified": "そちら",
+        "vocabulary_english": "over there",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_そちら.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "400"
+      },
+      {
+        "vocabulary_japanese": "そっち",
+        "vocabulary_simplified": "そっち",
+        "vocabulary_english": "over there",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_そっち.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "400"
+      },
+      {
+        "vocabulary_japanese": "外",
+        "vocabulary_simplified": "そと",
+        "vocabulary_english": "Outside",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_外.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "400"
+      },
+      {
+        "vocabulary_japanese": "その",
+        "vocabulary_simplified": "その",
+        "vocabulary_english": "That",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_その.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "400"
+      },
+      {
+        "vocabulary_japanese": "そば",
+        "vocabulary_simplified": "そば",
+        "vocabulary_english": "near, beside",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_そば.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "400"
+      },
+      {
+        "vocabulary_japanese": "空",
+        "vocabulary_simplified": "そら",
+        "vocabulary_english": "Sky",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_空.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "400"
+      },
+      {
+        "vocabulary_japanese": "それ",
+        "vocabulary_simplified": "それ",
+        "vocabulary_english": "that",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_それ.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "400"
+      },
+      {
+        "vocabulary_japanese": "それから",
+        "vocabulary_simplified": "それから",
+        "vocabulary_english": "after that",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_それから.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "400"
+      },
+      {
+        "vocabulary_japanese": "それでは",
+        "vocabulary_simplified": "それでは",
+        "vocabulary_english": "in that situation",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_それでは.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "400"
+      },
+      {
+        "vocabulary_japanese": "大学",
+        "vocabulary_simplified": "だいがく",
+        "vocabulary_english": "university",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_大学.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "400"
+      },
+      {
+        "vocabulary_japanese": "大使館",
+        "vocabulary_simplified": "たいしかん",
+        "vocabulary_english": "embassy",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_大使館.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "400"
+      },
+      {
+        "vocabulary_japanese": "大丈夫",
+        "vocabulary_simplified": "だいじょうぶ",
+        "vocabulary_english": "all right",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_大丈夫.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "400"
+      },
+      {
+        "vocabulary_japanese": "大好き",
+        "vocabulary_simplified": "だいすき",
+        "vocabulary_english": "to be very likeable",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_大好き.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "400"
+      },
+      {
+        "vocabulary_japanese": "大切",
+        "vocabulary_simplified": "たいせつ",
+        "vocabulary_english": "important",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_大切.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "400"
+      },
+      {
+        "vocabulary_japanese": "台所",
+        "vocabulary_simplified": "だいどころ",
+        "vocabulary_english": "kitchen",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_台所.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "400"
+      },
+      {
+        "vocabulary_japanese": "たいへん",
+        "vocabulary_simplified": "たいへん",
+        "vocabulary_english": "very",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_たいへん.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "400"
+      },
+      {
+        "vocabulary_japanese": "たいへん",
+        "vocabulary_simplified": "たいへん",
+        "vocabulary_english": "difficult situation",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_たいへん.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "400"
+      },
+      {
+        "vocabulary_japanese": "高い",
+        "vocabulary_simplified": "たかい",
+        "vocabulary_english": "tall, expensive",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_高い.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "400"
+      },
+      {
+        "vocabulary_japanese": "たくさん",
+        "vocabulary_simplified": "たくさん",
+        "vocabulary_english": "many",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_たくさん.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "400"
+      },
+      {
+        "vocabulary_japanese": "タクシー",
+        "vocabulary_simplified": "タクシー",
+        "vocabulary_english": "taxi",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_タクシー.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "400"
+      },
+      {
+        "vocabulary_japanese": "出す",
+        "vocabulary_simplified": "だす",
+        "vocabulary_english": "to put out",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_出す.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "400"
+      },
+      {
+        "vocabulary_japanese": "立つ",
+        "vocabulary_simplified": "たつ",
+        "vocabulary_english": "to stand",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_立つ.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "400"
+      },
+      {
+        "vocabulary_japanese": "たて",
+        "vocabulary_simplified": "たて",
+        "vocabulary_english": "length,height",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_たて.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "400"
+      },
+      {
+        "vocabulary_japanese": "建物",
+        "vocabulary_simplified": "たてもの",
+        "vocabulary_english": "building",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_建物.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "400"
+      },
+      {
+        "vocabulary_japanese": "楽しい",
+        "vocabulary_simplified": "たのしい",
+        "vocabulary_english": "enjoyable",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_楽しい.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "400"
+      },
+      {
+        "vocabulary_japanese": "頼む",
+        "vocabulary_simplified": "たのむ",
+        "vocabulary_english": "to ask",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_頼む.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "400"
+      },
+      {
+        "vocabulary_japanese": "たばこ",
+        "vocabulary_simplified": "たばこ",
+        "vocabulary_english": "tobacco,cigarettes",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_たばこ.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "400"
+      },
+      {
+        "vocabulary_japanese": "たぶん",
+        "vocabulary_simplified": "たぶん",
+        "vocabulary_english": "probably",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_たぶん.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "400"
+      },
+      {
+        "vocabulary_japanese": "食べ物",
+        "vocabulary_simplified": "たべもの",
+        "vocabulary_english": "food",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_食べ物.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "400"
+      },
+      {
+        "vocabulary_japanese": "食べる",
+        "vocabulary_simplified": "たべる",
+        "vocabulary_english": "to eat",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_食べる.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "400"
+      },
+      {
+        "vocabulary_japanese": "卵",
+        "vocabulary_simplified": "たまご",
+        "vocabulary_english": "egg",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_卵.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "400"
+      },
+      {
+        "vocabulary_japanese": "誰",
+        "vocabulary_simplified": "だれ",
+        "vocabulary_english": "who",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_誰.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "400"
+      },
+      {
+        "vocabulary_japanese": "誰",
+        "vocabulary_simplified": "だれか",
+        "vocabulary_english": "somebody",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_誰.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "400"
+      },
+      {
+        "vocabulary_japanese": "誕生日",
+        "vocabulary_simplified": "たんじょうび",
+        "vocabulary_english": "birthday",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_誕生日.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "400"
+      },
+      {
+        "vocabulary_japanese": "だんだん",
+        "vocabulary_simplified": "だんだん",
+        "vocabulary_english": "gradually",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_だんだん.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "400"
+      },
+      {
+        "vocabulary_japanese": "小さい",
+        "vocabulary_simplified": "ちいさい",
+        "vocabulary_english": "little",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_小さい.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "400"
+      },
+      {
+        "vocabulary_japanese": "小さな",
+        "vocabulary_simplified": "ちいさな",
+        "vocabulary_english": "little",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_小さな.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "400"
+      },
+      {
+        "vocabulary_japanese": "近い",
+        "vocabulary_simplified": "ちかい",
+        "vocabulary_english": "near",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_近い.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "400"
+      },
+      {
+        "vocabulary_japanese": "違う",
+        "vocabulary_simplified": "ちがう",
+        "vocabulary_english": "to differ",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_違う.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "400"
+      },
+      {
+        "vocabulary_japanese": "近く",
+        "vocabulary_simplified": "ちかく",
+        "vocabulary_english": "near",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_近く.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "400"
+      },
+      {
+        "vocabulary_japanese": "地下鉄",
+        "vocabulary_simplified": "ちかてつ",
+        "vocabulary_english": "underground train",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_地下鉄.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "400"
+      },
+      {
+        "vocabulary_japanese": "地図",
+        "vocabulary_simplified": "ちず",
+        "vocabulary_english": "map",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_地図.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "400"
+      },
+      {
+        "vocabulary_japanese": "茶色",
+        "vocabulary_simplified": "ちゃいろ",
+        "vocabulary_english": "brown",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_茶色.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "400"
+      },
+      {
+        "vocabulary_japanese": "ちゃわん",
+        "vocabulary_simplified": "ちゃわん",
+        "vocabulary_english": "rice bowl",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_ちゃわん.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "400"
+      },
+      {
+        "vocabulary_japanese": "ちょうど",
+        "vocabulary_simplified": "ちょうど",
+        "vocabulary_english": "exactly",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_ちょうど.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "400"
+      },
+      {
+        "vocabulary_japanese": "ちょっと",
+        "vocabulary_simplified": "ちょっと",
+        "vocabulary_english": "somewhat",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_ちょっと.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "400"
+      },
+      {
+        "vocabulary_japanese": "一日",
+        "vocabulary_simplified": "ついたち",
+        "vocabulary_english": "first of month",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_一日.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "400"
+      },
+      {
+        "vocabulary_japanese": "使う",
+        "vocabulary_simplified": "つかう",
+        "vocabulary_english": "to use",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_使う.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "400"
+      },
+      {
+        "vocabulary_japanese": "疲れる",
+        "vocabulary_simplified": "つかれる",
+        "vocabulary_english": "to get tired",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_疲れる.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "400"
+      },
+      {
+        "vocabulary_japanese": "次",
+        "vocabulary_simplified": "つぎ",
+        "vocabulary_english": "next",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_次.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "400"
+      },
+      {
+        "vocabulary_japanese": "着く",
+        "vocabulary_simplified": "つく",
+        "vocabulary_english": "to arrive at",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_着く.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "400"
+      },
+      {
+        "vocabulary_japanese": "机",
+        "vocabulary_simplified": "つくえ",
+        "vocabulary_english": "desk",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_机.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "400"
+      },
+      {
+        "vocabulary_japanese": "作る",
+        "vocabulary_simplified": "つくる",
+        "vocabulary_english": "to make",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_作る.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "400"
+      },
+      {
+        "vocabulary_japanese": "つける",
+        "vocabulary_simplified": "つける",
+        "vocabulary_english": "to turn on",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_つける.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "400"
+      },
+      {
+        "vocabulary_japanese": "勤める",
+        "vocabulary_simplified": "つとめる",
+        "vocabulary_english": "to work for someone",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_勤める.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "400"
+      },
+      {
+        "vocabulary_japanese": "つまらない",
+        "vocabulary_simplified": "つまらない",
+        "vocabulary_english": "boring",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_つまらない.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "400"
+      },
+      {
+        "vocabulary_japanese": "冷たい",
+        "vocabulary_simplified": "つめたい",
+        "vocabulary_english": "cold to the touch",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_冷たい.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "400"
+      },
+      {
+        "vocabulary_japanese": "強い",
+        "vocabulary_simplified": "つよい",
+        "vocabulary_english": "powerful",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_強い.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "400"
+      },
+      {
+        "vocabulary_japanese": "手",
+        "vocabulary_simplified": "て",
+        "vocabulary_english": "hand",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_手.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "400"
+      },
+      {
+        "vocabulary_japanese": "テープ",
+        "vocabulary_simplified": "テープ",
+        "vocabulary_english": "tape",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_テープ.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "400"
+      },
+      {
+        "vocabulary_japanese": "テーブル",
+        "vocabulary_simplified": "テーブル",
+        "vocabulary_english": "table",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_テーブル.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "400"
+      },
+      {
+        "vocabulary_japanese": "テープレコーダー",
+        "vocabulary_simplified": "テープレコーダー",
+        "vocabulary_english": "tape recorder",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_テープレコーダー.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "400"
+      },
+      {
+        "vocabulary_japanese": "出かける",
+        "vocabulary_simplified": "でかける",
+        "vocabulary_english": "to go out",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_出かける.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "400"
+      },
+      {
+        "vocabulary_japanese": "手紙",
+        "vocabulary_simplified": "てがみ",
+        "vocabulary_english": "letter",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_手紙.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "400"
+      },
+      {
+        "vocabulary_japanese": "できる",
+        "vocabulary_simplified": "できる",
+        "vocabulary_english": "to be able to",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_できる.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "400"
+      },
+      {
+        "vocabulary_japanese": "出口",
+        "vocabulary_simplified": "でぐち",
+        "vocabulary_english": "exit",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_出口.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "400"
+      },
+      {
+        "vocabulary_japanese": "テスト",
+        "vocabulary_simplified": "テスト",
+        "vocabulary_english": "test",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_テスト.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "400"
+      },
+      {
+        "vocabulary_japanese": "では",
+        "vocabulary_simplified": "では",
+        "vocabulary_english": "with that...",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_では.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "400"
+      },
+      {
+        "vocabulary_japanese": "デパート",
+        "vocabulary_simplified": "デパート",
+        "vocabulary_english": "department store",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_デパート.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "500"
+      },
+      {
+        "vocabulary_japanese": "でも",
+        "vocabulary_simplified": "でも",
+        "vocabulary_english": "but",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_でも.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "500"
+      },
+      {
+        "vocabulary_japanese": "出る",
+        "vocabulary_simplified": "でる",
+        "vocabulary_english": "to appear,to leave",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_出る.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "500"
+      },
+      {
+        "vocabulary_japanese": "テレビ",
+        "vocabulary_simplified": "テレビ",
+        "vocabulary_english": "television",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_テレビ.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "500"
+      },
+      {
+        "vocabulary_japanese": "天気",
+        "vocabulary_simplified": "てんき",
+        "vocabulary_english": "weather",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_天気.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "500"
+      },
+      {
+        "vocabulary_japanese": "電気",
+        "vocabulary_simplified": "でんき",
+        "vocabulary_english": "electricity,electric light",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_電気.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "500"
+      },
+      {
+        "vocabulary_japanese": "電車",
+        "vocabulary_simplified": "でんしゃ",
+        "vocabulary_english": "electric train",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_電車.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "500"
+      },
+      {
+        "vocabulary_japanese": "電話",
+        "vocabulary_simplified": "でんわ",
+        "vocabulary_english": "telephone",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_電話.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "500"
+      },
+      {
+        "vocabulary_japanese": "戸",
+        "vocabulary_simplified": "と",
+        "vocabulary_english": "Japanese style door",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_戸.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "500"
+      },
+      {
+        "vocabulary_japanese": "ドア",
+        "vocabulary_simplified": "ドア",
+        "vocabulary_english": "Western style door",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_ドア.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "500"
+      },
+      {
+        "vocabulary_japanese": "トイレ",
+        "vocabulary_simplified": "トイレ",
+        "vocabulary_english": "toilet",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_トイレ.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "500"
+      },
+      {
+        "vocabulary_japanese": "どう",
+        "vocabulary_simplified": "どう",
+        "vocabulary_english": "how,in what way",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_どう.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "500"
+      },
+      {
+        "vocabulary_japanese": "どうして",
+        "vocabulary_simplified": "どうして",
+        "vocabulary_english": "for what reason",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_どうして.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "500"
+      },
+      {
+        "vocabulary_japanese": "どうぞ",
+        "vocabulary_simplified": "どうぞ",
+        "vocabulary_english": "please",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_どうぞ.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "500"
+      },
+      {
+        "vocabulary_japanese": "動物",
+        "vocabulary_simplified": "どうぶつ",
+        "vocabulary_english": "animal",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_動物.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "500"
+      },
+      {
+        "vocabulary_japanese": "どうも",
+        "vocabulary_simplified": "どうも",
+        "vocabulary_english": "thanks",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_どうも.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "500"
+      },
+      {
+        "vocabulary_japanese": "遠い",
+        "vocabulary_simplified": "とおい",
+        "vocabulary_english": "far",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_遠い.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "500"
+      },
+      {
+        "vocabulary_japanese": "十日",
+        "vocabulary_simplified": "とおか",
+        "vocabulary_english": "ten days,the tenth day",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_十日.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "500"
+      },
+      {
+        "vocabulary_japanese": "時々",
+        "vocabulary_simplified": "ときどき",
+        "vocabulary_english": "sometimes",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_時々.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "500"
+      },
+      {
+        "vocabulary_japanese": "時計",
+        "vocabulary_simplified": "とけい",
+        "vocabulary_english": "watch,clock",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_時計.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "500"
+      },
+      {
+        "vocabulary_japanese": "どこ",
+        "vocabulary_simplified": "どこ",
+        "vocabulary_english": "where",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_どこ.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "500"
+      },
+      {
+        "vocabulary_japanese": "所",
+        "vocabulary_simplified": "ところ",
+        "vocabulary_english": "place",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_所.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "500"
+      },
+      {
+        "vocabulary_japanese": "年",
+        "vocabulary_simplified": "とし",
+        "vocabulary_english": "year",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_年.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "500"
+      },
+      {
+        "vocabulary_japanese": "図書館",
+        "vocabulary_simplified": "としょかん",
+        "vocabulary_english": "library",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_図書館.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "500"
+      },
+      {
+        "vocabulary_japanese": "どちら",
+        "vocabulary_simplified": "どちら",
+        "vocabulary_english": "which of two",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_どちら.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "500"
+      },
+      {
+        "vocabulary_japanese": "どっち",
+        "vocabulary_simplified": "どっち",
+        "vocabulary_english": "which",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_どっち.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "500"
+      },
+      {
+        "vocabulary_japanese": "とても",
+        "vocabulary_simplified": "とても",
+        "vocabulary_english": "very",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_とても.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "500"
+      },
+      {
+        "vocabulary_japanese": "どなた",
+        "vocabulary_simplified": "どなた",
+        "vocabulary_english": "who",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_どなた.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "500"
+      },
+      {
+        "vocabulary_japanese": "隣",
+        "vocabulary_simplified": "となり",
+        "vocabulary_english": "next door to",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_隣.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "500"
+      },
+      {
+        "vocabulary_japanese": "どの",
+        "vocabulary_simplified": "どの",
+        "vocabulary_english": "which",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_どの.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "500"
+      },
+      {
+        "vocabulary_japanese": "飛ぶ",
+        "vocabulary_simplified": "とぶ",
+        "vocabulary_english": "to fly,to hop",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_飛ぶ.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "500"
+      },
+      {
+        "vocabulary_japanese": "止まる",
+        "vocabulary_simplified": "とまる",
+        "vocabulary_english": "to come to a halt",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_止まる.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "500"
+      },
+      {
+        "vocabulary_japanese": "友達",
+        "vocabulary_simplified": "ともだち",
+        "vocabulary_english": "friend",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_友達.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "500"
+      },
+      {
+        "vocabulary_japanese": "土曜日",
+        "vocabulary_simplified": "どようび",
+        "vocabulary_english": "Saturday",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_土曜日.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "500"
+      },
+      {
+        "vocabulary_japanese": "鳥",
+        "vocabulary_simplified": "とり",
+        "vocabulary_english": "bird",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_鳥.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "500"
+      },
+      {
+        "vocabulary_japanese": "とり肉",
+        "vocabulary_simplified": "とりにく",
+        "vocabulary_english": "chicken meat",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_とり肉.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "500"
+      },
+      {
+        "vocabulary_japanese": "取る",
+        "vocabulary_simplified": "とる",
+        "vocabulary_english": "to take something",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_取る.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "500"
+      },
+      {
+        "vocabulary_japanese": "撮る",
+        "vocabulary_simplified": "とる",
+        "vocabulary_english": "to take a photo or record a film",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_撮る.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "500"
+      },
+      {
+        "vocabulary_japanese": "どれ",
+        "vocabulary_simplified": "どれ",
+        "vocabulary_english": "which (of three or more)",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_どれ.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "500"
+      },
+      {
+        "vocabulary_japanese": "ナイフ",
+        "vocabulary_simplified": "ナイフ",
+        "vocabulary_english": "knife",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_ナイフ.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "500"
+      },
+      {
+        "vocabulary_japanese": "中",
+        "vocabulary_simplified": "なか",
+        "vocabulary_english": "middle",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_中.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "500"
+      },
+      {
+        "vocabulary_japanese": "長い",
+        "vocabulary_simplified": "ながい",
+        "vocabulary_english": "long",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_長い.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "500"
+      },
+      {
+        "vocabulary_japanese": "鳴く",
+        "vocabulary_simplified": "なく",
+        "vocabulary_english": "animal noise. to chirp, roar or croak etc.",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_鳴く.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "500"
+      },
+      {
+        "vocabulary_japanese": "無くす",
+        "vocabulary_simplified": "なくす",
+        "vocabulary_english": "to lose something",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_無くす.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "500"
+      },
+      {
+        "vocabulary_japanese": "なぜ",
+        "vocabulary_simplified": "なぜ",
+        "vocabulary_english": "why",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_なぜ.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "500"
+      },
+      {
+        "vocabulary_japanese": "夏",
+        "vocabulary_simplified": "なつ",
+        "vocabulary_english": "summer",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_夏.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "500"
+      },
+      {
+        "vocabulary_japanese": "夏休み",
+        "vocabulary_simplified": "なつやすみ",
+        "vocabulary_english": "summer holiday",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_夏休み.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "500"
+      },
+      {
+        "vocabulary_japanese": "など",
+        "vocabulary_simplified": "など",
+        "vocabulary_english": "et cetera",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_など.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "500"
+      },
+      {
+        "vocabulary_japanese": "七つ",
+        "vocabulary_simplified": "ななつ",
+        "vocabulary_english": "seven",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_七つ.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "500"
+      },
+      {
+        "vocabulary_japanese": "七日",
+        "vocabulary_simplified": "なのか",
+        "vocabulary_english": "seven days,the seventh day",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_七日.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "500"
+      },
+      {
+        "vocabulary_japanese": "名前",
+        "vocabulary_simplified": "なまえ",
+        "vocabulary_english": "name",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_名前.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "500"
+      },
+      {
+        "vocabulary_japanese": "習う",
+        "vocabulary_simplified": "ならう",
+        "vocabulary_english": "to learn",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_習う.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "500"
+      },
+      {
+        "vocabulary_japanese": "並ぶ",
+        "vocabulary_simplified": "ならぶ",
+        "vocabulary_english": "to line up,to stand in a line",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_並ぶ.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "500"
+      },
+      {
+        "vocabulary_japanese": "並べる",
+        "vocabulary_simplified": "ならべる",
+        "vocabulary_english": "to line up,to set up",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_並べる.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "500"
+      },
+      {
+        "vocabulary_japanese": "なる",
+        "vocabulary_simplified": "なる",
+        "vocabulary_english": "to become",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_なる.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "500"
+      },
+      {
+        "vocabulary_japanese": "何",
+        "vocabulary_simplified": "なん/なに",
+        "vocabulary_english": "what",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_何.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "500"
+      },
+      {
+        "vocabulary_japanese": "二",
+        "vocabulary_simplified": "に",
+        "vocabulary_english": "two",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_二.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "500"
+      },
+      {
+        "vocabulary_japanese": "賑やか",
+        "vocabulary_simplified": "にぎやか",
+        "vocabulary_english": "bustling,busy",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_賑やか.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "500"
+      },
+      {
+        "vocabulary_japanese": "肉",
+        "vocabulary_simplified": "にく",
+        "vocabulary_english": "meat",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_肉.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "500"
+      },
+      {
+        "vocabulary_japanese": "西",
+        "vocabulary_simplified": "にし",
+        "vocabulary_english": "west",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_西.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "500"
+      },
+      {
+        "vocabulary_japanese": "日曜日",
+        "vocabulary_simplified": "にちようび",
+        "vocabulary_english": "Sunday",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_日曜日.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "500"
+      },
+      {
+        "vocabulary_japanese": "荷物",
+        "vocabulary_simplified": "にもつ",
+        "vocabulary_english": "luggage",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_荷物.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "500"
+      },
+      {
+        "vocabulary_japanese": "ニュース",
+        "vocabulary_simplified": "ニュース",
+        "vocabulary_english": "news",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_ニュース.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "500"
+      },
+      {
+        "vocabulary_japanese": "庭",
+        "vocabulary_simplified": "にわ",
+        "vocabulary_english": "garden",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_庭.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "500"
+      },
+      {
+        "vocabulary_japanese": "脱ぐ",
+        "vocabulary_simplified": "ぬぐ",
+        "vocabulary_english": "to take off clothes",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_脱ぐ.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "500"
+      },
+      {
+        "vocabulary_japanese": "温い",
+        "vocabulary_simplified": "ぬるい",
+        "vocabulary_english": "luke warm",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_温い.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "500"
+      },
+      {
+        "vocabulary_japanese": "ネクタイ",
+        "vocabulary_simplified": "ネクタイ",
+        "vocabulary_english": "tie,necktie",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_ネクタイ.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "500"
+      },
+      {
+        "vocabulary_japanese": "猫",
+        "vocabulary_simplified": "ねこ",
+        "vocabulary_english": "cat",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_猫.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "500"
+      },
+      {
+        "vocabulary_japanese": "寝る",
+        "vocabulary_simplified": "ねる",
+        "vocabulary_english": "to go to bed,to sleep",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_寝る.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "500"
+      },
+      {
+        "vocabulary_japanese": "ノート",
+        "vocabulary_simplified": "ノート",
+        "vocabulary_english": "notebook,exercise book",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_ノート.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "500"
+      },
+      {
+        "vocabulary_japanese": "登る",
+        "vocabulary_simplified": "のぼる",
+        "vocabulary_english": "to climb",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_登る.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "500"
+      },
+      {
+        "vocabulary_japanese": "飲み物",
+        "vocabulary_simplified": "のみもの",
+        "vocabulary_english": "a drink",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_飲み物.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "500"
+      },
+      {
+        "vocabulary_japanese": "飲む",
+        "vocabulary_simplified": "のむ",
+        "vocabulary_english": "to drink",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_飲む.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "500"
+      },
+      {
+        "vocabulary_japanese": "乗る",
+        "vocabulary_simplified": "のる",
+        "vocabulary_english": "to get on,to ride",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_乗る.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "500"
+      },
+      {
+        "vocabulary_japanese": "歯",
+        "vocabulary_simplified": "は",
+        "vocabulary_english": "tooth",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_歯.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "500"
+      },
+      {
+        "vocabulary_japanese": "パーティー",
+        "vocabulary_simplified": "パーティー",
+        "vocabulary_english": "party",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_パーティー.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "500"
+      },
+      {
+        "vocabulary_japanese": "はい",
+        "vocabulary_simplified": "はい",
+        "vocabulary_english": "yes",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_はい.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "500"
+      },
+      {
+        "vocabulary_japanese": "灰皿",
+        "vocabulary_simplified": "はいざら",
+        "vocabulary_english": "ashtray",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_灰皿.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "500"
+      },
+      {
+        "vocabulary_japanese": "入る",
+        "vocabulary_simplified": "はいる",
+        "vocabulary_english": "to enter,to contain",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_入る.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "500"
+      },
+      {
+        "vocabulary_japanese": "葉書",
+        "vocabulary_simplified": "はがき",
+        "vocabulary_english": "postcard",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_葉書.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "500"
+      },
+      {
+        "vocabulary_japanese": "はく",
+        "vocabulary_simplified": "はく",
+        "vocabulary_english": "to wear,to put on trousers",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_はく.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "500"
+      },
+      {
+        "vocabulary_japanese": "箱",
+        "vocabulary_simplified": "はこ",
+        "vocabulary_english": "box",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_箱.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "500"
+      },
+      {
+        "vocabulary_japanese": "橋",
+        "vocabulary_simplified": "はし",
+        "vocabulary_english": "bridge",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_橋.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "500"
+      },
+      {
+        "vocabulary_japanese": "はし",
+        "vocabulary_simplified": "はし",
+        "vocabulary_english": "chopsticks",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_はし.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "500"
+      },
+      {
+        "vocabulary_japanese": "始まる",
+        "vocabulary_simplified": "はじまる",
+        "vocabulary_english": "to begin",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_始まる.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "500"
+      },
+      {
+        "vocabulary_japanese": "初め/始め",
+        "vocabulary_simplified": "はじめ",
+        "vocabulary_english": "beginning",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_初め/始め.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "500"
+      },
+      {
+        "vocabulary_japanese": "初めて",
+        "vocabulary_simplified": "はじめて",
+        "vocabulary_english": "for the first time",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_初めて.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "500"
+      },
+      {
+        "vocabulary_japanese": "走る",
+        "vocabulary_simplified": "はしる",
+        "vocabulary_english": "to run",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_走る.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "500"
+      },
+      {
+        "vocabulary_japanese": "バス",
+        "vocabulary_simplified": "バス",
+        "vocabulary_english": "bus",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_バス.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "500"
+      },
+      {
+        "vocabulary_japanese": "バター",
+        "vocabulary_simplified": "バター",
+        "vocabulary_english": "butter",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_バター.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "500"
+      },
+      {
+        "vocabulary_japanese": "二十歳",
+        "vocabulary_simplified": "はたち",
+        "vocabulary_english": "20 years old,20th year",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_二十歳.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "500"
+      },
+      {
+        "vocabulary_japanese": "働く",
+        "vocabulary_simplified": "はたらく",
+        "vocabulary_english": "to work",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_働く.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "500"
+      },
+      {
+        "vocabulary_japanese": "八",
+        "vocabulary_simplified": "はち",
+        "vocabulary_english": "eight",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_八.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "500"
+      },
+      {
+        "vocabulary_japanese": "二十日",
+        "vocabulary_simplified": "はつか",
+        "vocabulary_english": "twenty days,twentieth",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_二十日.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "500"
+      },
+      {
+        "vocabulary_japanese": "花",
+        "vocabulary_simplified": "はな",
+        "vocabulary_english": "flower",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_花.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "500"
+      },
+      {
+        "vocabulary_japanese": "鼻",
+        "vocabulary_simplified": "はな",
+        "vocabulary_english": "nose",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_鼻.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "500"
+      },
+      {
+        "vocabulary_japanese": "話",
+        "vocabulary_simplified": "はなし",
+        "vocabulary_english": "talk,story",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_話.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "500"
+      },
+      {
+        "vocabulary_japanese": "話す",
+        "vocabulary_simplified": "はなす",
+        "vocabulary_english": "to speak",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_話す.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "500"
+      },
+      {
+        "vocabulary_japanese": "早い",
+        "vocabulary_simplified": "はやい",
+        "vocabulary_english": "early",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_早い.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "500"
+      },
+      {
+        "vocabulary_japanese": "速い",
+        "vocabulary_simplified": "はやい",
+        "vocabulary_english": "quick",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_速い.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "500"
+      },
+      {
+        "vocabulary_japanese": "春",
+        "vocabulary_simplified": "はる",
+        "vocabulary_english": "spring",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_春.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "600"
+      },
+      {
+        "vocabulary_japanese": "貼る",
+        "vocabulary_simplified": "はる",
+        "vocabulary_english": "to stick",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_貼る.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "600"
+      },
+      {
+        "vocabulary_japanese": "晴れ",
+        "vocabulary_simplified": "はれ",
+        "vocabulary_english": "clear weather",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_晴れ.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "600"
+      },
+      {
+        "vocabulary_japanese": "晴れる",
+        "vocabulary_simplified": "はれる",
+        "vocabulary_english": "to be sunny",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_晴れる.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "600"
+      },
+      {
+        "vocabulary_japanese": "半",
+        "vocabulary_simplified": "はん",
+        "vocabulary_english": "half",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_半.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "600"
+      },
+      {
+        "vocabulary_japanese": "晩",
+        "vocabulary_simplified": "ばん",
+        "vocabulary_english": "evening",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_晩.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "600"
+      },
+      {
+        "vocabulary_japanese": "パン",
+        "vocabulary_simplified": "パン",
+        "vocabulary_english": "bread",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_パン.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "600"
+      },
+      {
+        "vocabulary_japanese": "ハンカチ",
+        "vocabulary_simplified": "ハンカチ",
+        "vocabulary_english": "handkerchief",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_ハンカチ.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "600"
+      },
+      {
+        "vocabulary_japanese": "番号",
+        "vocabulary_simplified": "ばんごう",
+        "vocabulary_english": "number",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_番号.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "600"
+      },
+      {
+        "vocabulary_japanese": "晩御飯",
+        "vocabulary_simplified": "ばんごはん",
+        "vocabulary_english": "evening meal",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_晩御飯.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "600"
+      },
+      {
+        "vocabulary_japanese": "半分",
+        "vocabulary_simplified": "はんぶん",
+        "vocabulary_english": "half minute",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_半分.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "600"
+      },
+      {
+        "vocabulary_japanese": "東",
+        "vocabulary_simplified": "ひがし",
+        "vocabulary_english": "east",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_東.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "600"
+      },
+      {
+        "vocabulary_japanese": "引く",
+        "vocabulary_simplified": "ひく",
+        "vocabulary_english": "to pull",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_引く.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "600"
+      },
+      {
+        "vocabulary_japanese": "弾く",
+        "vocabulary_simplified": "ひく",
+        "vocabulary_english": "to play an instrument with strings, including piano",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_弾く.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "600"
+      },
+      {
+        "vocabulary_japanese": "低い",
+        "vocabulary_simplified": "ひくい",
+        "vocabulary_english": "short,low",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_低い.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "600"
+      },
+      {
+        "vocabulary_japanese": "飛行機",
+        "vocabulary_simplified": "ひこうき",
+        "vocabulary_english": "aeroplane",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_飛行機.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "600"
+      },
+      {
+        "vocabulary_japanese": "左",
+        "vocabulary_simplified": "ひだり",
+        "vocabulary_english": "left hand side",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_左.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "600"
+      },
+      {
+        "vocabulary_japanese": "人",
+        "vocabulary_simplified": "ひと",
+        "vocabulary_english": "person",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_人.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "600"
+      },
+      {
+        "vocabulary_japanese": "一つ",
+        "vocabulary_simplified": "ひとつ",
+        "vocabulary_english": "one",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_一つ.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "600"
+      },
+      {
+        "vocabulary_japanese": "一月",
+        "vocabulary_simplified": "ひとつき",
+        "vocabulary_english": "one month",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_一月.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "600"
+      },
+      {
+        "vocabulary_japanese": "一人",
+        "vocabulary_simplified": "ひとり",
+        "vocabulary_english": "one person",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_一人.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "600"
+      },
+      {
+        "vocabulary_japanese": "暇",
+        "vocabulary_simplified": "ひま",
+        "vocabulary_english": "free time",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_暇.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "600"
+      },
+      {
+        "vocabulary_japanese": "百",
+        "vocabulary_simplified": "ひゃく",
+        "vocabulary_english": "hundred",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_百.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "600"
+      },
+      {
+        "vocabulary_japanese": "病院",
+        "vocabulary_simplified": "びょういん",
+        "vocabulary_english": "hospital",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_病院.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "600"
+      },
+      {
+        "vocabulary_japanese": "病気",
+        "vocabulary_simplified": "びょうき",
+        "vocabulary_english": "illness",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_病気.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "600"
+      },
+      {
+        "vocabulary_japanese": "昼",
+        "vocabulary_simplified": "ひる",
+        "vocabulary_english": "noon, daytime",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_昼.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "600"
+      },
+      {
+        "vocabulary_japanese": "昼御飯",
+        "vocabulary_simplified": "ひるごはん",
+        "vocabulary_english": "midday meal",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_昼御飯.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "600"
+      },
+      {
+        "vocabulary_japanese": "広い",
+        "vocabulary_simplified": "ひろい",
+        "vocabulary_english": "spacious,wide",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_広い.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "600"
+      },
+      {
+        "vocabulary_japanese": "フィルム",
+        "vocabulary_simplified": "フィルム",
+        "vocabulary_english": "roll of film",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_フィルム.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "600"
+      },
+      {
+        "vocabulary_japanese": "封筒",
+        "vocabulary_simplified": "ふうとう",
+        "vocabulary_english": "envelope",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_封筒.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "600"
+      },
+      {
+        "vocabulary_japanese": "プール",
+        "vocabulary_simplified": "プール",
+        "vocabulary_english": "swimming pool",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_プール.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "600"
+      },
+      {
+        "vocabulary_japanese": "フォーク",
+        "vocabulary_simplified": "フォーク",
+        "vocabulary_english": "fork",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_フォーク.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "600"
+      },
+      {
+        "vocabulary_japanese": "吹く",
+        "vocabulary_simplified": "ふく",
+        "vocabulary_english": "to blow",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_吹く.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "600"
+      },
+      {
+        "vocabulary_japanese": "服",
+        "vocabulary_simplified": "ふく",
+        "vocabulary_english": "clothes",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_服.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "600"
+      },
+      {
+        "vocabulary_japanese": "二つ",
+        "vocabulary_simplified": "ふたつ",
+        "vocabulary_english": "two",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_二つ.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "600"
+      },
+      {
+        "vocabulary_japanese": "豚肉",
+        "vocabulary_simplified": "ぶたにく",
+        "vocabulary_english": "pork",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_豚肉.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "600"
+      },
+      {
+        "vocabulary_japanese": "二人",
+        "vocabulary_simplified": "ふたり",
+        "vocabulary_english": "two people",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_二人.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "600"
+      },
+      {
+        "vocabulary_japanese": "二日",
+        "vocabulary_simplified": "ふつか",
+        "vocabulary_english": "two days, second day of the month",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_二日.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "600"
+      },
+      {
+        "vocabulary_japanese": "太い",
+        "vocabulary_simplified": "ふとい",
+        "vocabulary_english": "fat",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_太い.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "600"
+      },
+      {
+        "vocabulary_japanese": "冬",
+        "vocabulary_simplified": "ふゆ",
+        "vocabulary_english": "winter",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_冬.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "600"
+      },
+      {
+        "vocabulary_japanese": "降る",
+        "vocabulary_simplified": "ふる",
+        "vocabulary_english": "to fall, e.g. rain or snow",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_降る.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "600"
+      },
+      {
+        "vocabulary_japanese": "古い",
+        "vocabulary_simplified": "ふるい",
+        "vocabulary_english": "old (not used for people)",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_古い.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "600"
+      },
+      {
+        "vocabulary_japanese": "ふろ",
+        "vocabulary_simplified": "ふろ",
+        "vocabulary_english": "bath",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_ふろ.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "600"
+      },
+      {
+        "vocabulary_japanese": "文章",
+        "vocabulary_simplified": "ぶんしょう",
+        "vocabulary_english": "sentence,text",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_文章.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "600"
+      },
+      {
+        "vocabulary_japanese": "ページ",
+        "vocabulary_simplified": "ページ",
+        "vocabulary_english": "page",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_ページ.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "600"
+      },
+      {
+        "vocabulary_japanese": "下手",
+        "vocabulary_simplified": "へた",
+        "vocabulary_english": "unskillful",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_下手.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "600"
+      },
+      {
+        "vocabulary_japanese": "ベッド",
+        "vocabulary_simplified": "ベッド",
+        "vocabulary_english": "bed",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_ベッド.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "600"
+      },
+      {
+        "vocabulary_japanese": "ペット",
+        "vocabulary_simplified": "ペット",
+        "vocabulary_english": "pet",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_ペット.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "600"
+      },
+      {
+        "vocabulary_japanese": "部屋",
+        "vocabulary_simplified": "へや",
+        "vocabulary_english": "room",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_部屋.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "600"
+      },
+      {
+        "vocabulary_japanese": "辺",
+        "vocabulary_simplified": "へん",
+        "vocabulary_english": "area",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_辺.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "600"
+      },
+      {
+        "vocabulary_japanese": "ペン",
+        "vocabulary_simplified": "ペン",
+        "vocabulary_english": "pen",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_ペン.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "600"
+      },
+      {
+        "vocabulary_japanese": "勉強",
+        "vocabulary_simplified": "べんきょうする",
+        "vocabulary_english": "to study",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_勉強.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "600"
+      },
+      {
+        "vocabulary_japanese": "便利",
+        "vocabulary_simplified": "べんり",
+        "vocabulary_english": "useful, convenient",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_便利.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "600"
+      },
+      {
+        "vocabulary_japanese": "帽子",
+        "vocabulary_simplified": "ぼうし",
+        "vocabulary_english": "hat",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_帽子.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "600"
+      },
+      {
+        "vocabulary_japanese": "ボールペン",
+        "vocabulary_simplified": "ボールペン",
+        "vocabulary_english": "ball-point pen",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_ボールペン.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "600"
+      },
+      {
+        "vocabulary_japanese": "ほか",
+        "vocabulary_simplified": "ほか",
+        "vocabulary_english": "other, the rest",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_ほか.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "600"
+      },
+      {
+        "vocabulary_japanese": "ポケット",
+        "vocabulary_simplified": "ポケット",
+        "vocabulary_english": "pocket",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_ポケット.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "600"
+      },
+      {
+        "vocabulary_japanese": "欲しい",
+        "vocabulary_simplified": "ほしい",
+        "vocabulary_english": "want",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_欲しい.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "600"
+      },
+      {
+        "vocabulary_japanese": "ポスト",
+        "vocabulary_simplified": "ポスト",
+        "vocabulary_english": "post",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_ポスト.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "600"
+      },
+      {
+        "vocabulary_japanese": "細い",
+        "vocabulary_simplified": "ほそい",
+        "vocabulary_english": "thin",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_細い.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "600"
+      },
+      {
+        "vocabulary_japanese": "ボタン",
+        "vocabulary_simplified": "ボタン",
+        "vocabulary_english": "button",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_ボタン.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "600"
+      },
+      {
+        "vocabulary_japanese": "ホテル",
+        "vocabulary_simplified": "ホテル",
+        "vocabulary_english": "hotel",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_ホテル.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "600"
+      },
+      {
+        "vocabulary_japanese": "本",
+        "vocabulary_simplified": "ほん",
+        "vocabulary_english": "book",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_本.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "600"
+      },
+      {
+        "vocabulary_japanese": "本棚",
+        "vocabulary_simplified": "ほんだな",
+        "vocabulary_english": "bookshelves",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_本棚.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "600"
+      },
+      {
+        "vocabulary_japanese": "ほんとう",
+        "vocabulary_simplified": "ほんとう",
+        "vocabulary_english": "truth",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_ほんとう.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "600"
+      },
+      {
+        "vocabulary_japanese": "毎朝",
+        "vocabulary_simplified": "まいあさ",
+        "vocabulary_english": "every morning",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_毎朝.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "600"
+      },
+      {
+        "vocabulary_japanese": "毎月",
+        "vocabulary_simplified": "まいげつ/まいつき",
+        "vocabulary_english": "every month",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_毎月.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "600"
+      },
+      {
+        "vocabulary_japanese": "毎週",
+        "vocabulary_simplified": "まいしゅう",
+        "vocabulary_english": "every week",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_毎週.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "600"
+      },
+      {
+        "vocabulary_japanese": "毎日",
+        "vocabulary_simplified": "まいにち",
+        "vocabulary_english": "every day",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_毎日.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "600"
+      },
+      {
+        "vocabulary_japanese": "毎年",
+        "vocabulary_simplified": "まいねん/まいとし",
+        "vocabulary_english": "every year",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_毎年.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "600"
+      },
+      {
+        "vocabulary_japanese": "毎晩",
+        "vocabulary_simplified": "まいばん",
+        "vocabulary_english": "every night",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_毎晩.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "600"
+      },
+      {
+        "vocabulary_japanese": "前",
+        "vocabulary_simplified": "まえ",
+        "vocabulary_english": "before",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_前.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "600"
+      },
+      {
+        "vocabulary_japanese": "曲る",
+        "vocabulary_simplified": "まがる",
+        "vocabulary_english": "to turn,to bend",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_曲る.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "600"
+      },
+      {
+        "vocabulary_japanese": "まずい",
+        "vocabulary_simplified": "まずい",
+        "vocabulary_english": "unpleasant",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_まずい.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "600"
+      },
+      {
+        "vocabulary_japanese": "また",
+        "vocabulary_simplified": "また",
+        "vocabulary_english": "again,and",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_また.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "600"
+      },
+      {
+        "vocabulary_japanese": "まだ",
+        "vocabulary_simplified": "まだ",
+        "vocabulary_english": "yet,still",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_まだ.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "600"
+      },
+      {
+        "vocabulary_japanese": "町",
+        "vocabulary_simplified": "まち",
+        "vocabulary_english": "town,city",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_町.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "600"
+      },
+      {
+        "vocabulary_japanese": "待つ",
+        "vocabulary_simplified": "まつ",
+        "vocabulary_english": "to wait",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_待つ.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "600"
+      },
+      {
+        "vocabulary_japanese": "まっすぐ",
+        "vocabulary_simplified": "まっすぐ",
+        "vocabulary_english": "straight ahead,direct",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_まっすぐ.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "600"
+      },
+      {
+        "vocabulary_japanese": "マッチ",
+        "vocabulary_simplified": "マッチ",
+        "vocabulary_english": "match",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_マッチ.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "600"
+      },
+      {
+        "vocabulary_japanese": "窓",
+        "vocabulary_simplified": "まど",
+        "vocabulary_english": "window",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_窓.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "600"
+      },
+      {
+        "vocabulary_japanese": "丸い/円い",
+        "vocabulary_simplified": "まるい",
+        "vocabulary_english": "round,circular",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_丸い/円い.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "600"
+      },
+      {
+        "vocabulary_japanese": "万",
+        "vocabulary_simplified": "まん",
+        "vocabulary_english": "ten thousand",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_万.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "600"
+      },
+      {
+        "vocabulary_japanese": "万年筆",
+        "vocabulary_simplified": "まんねんひつ",
+        "vocabulary_english": "fountain pen",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_万年筆.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "600"
+      },
+      {
+        "vocabulary_japanese": "磨く",
+        "vocabulary_simplified": "みがく",
+        "vocabulary_english": "to brush teeth, to polish",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_磨く.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "600"
+      },
+      {
+        "vocabulary_japanese": "右",
+        "vocabulary_simplified": "みぎ",
+        "vocabulary_english": "right side",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_右.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "600"
+      },
+      {
+        "vocabulary_japanese": "短い",
+        "vocabulary_simplified": "みじかい",
+        "vocabulary_english": "short",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_短い.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "600"
+      },
+      {
+        "vocabulary_japanese": "水",
+        "vocabulary_simplified": "みず",
+        "vocabulary_english": "water",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_水.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "600"
+      },
+      {
+        "vocabulary_japanese": "店",
+        "vocabulary_simplified": "みせ",
+        "vocabulary_english": "shop",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_店.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "600"
+      },
+      {
+        "vocabulary_japanese": "見せる",
+        "vocabulary_simplified": "みせる",
+        "vocabulary_english": "to show",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_見せる.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "600"
+      },
+      {
+        "vocabulary_japanese": "道",
+        "vocabulary_simplified": "みち",
+        "vocabulary_english": "street",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_道.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "600"
+      },
+      {
+        "vocabulary_japanese": "三日",
+        "vocabulary_simplified": "みっか",
+        "vocabulary_english": "three days, third day of the month",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_三日.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "600"
+      },
+      {
+        "vocabulary_japanese": "三つ",
+        "vocabulary_simplified": "みっつ",
+        "vocabulary_english": "three",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_三つ.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "600"
+      },
+      {
+        "vocabulary_japanese": "緑",
+        "vocabulary_simplified": "みどり",
+        "vocabulary_english": "green",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_緑.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "600"
+      },
+      {
+        "vocabulary_japanese": "皆さん",
+        "vocabulary_simplified": "みなさん",
+        "vocabulary_english": "everyone",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_皆さん.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "600"
+      },
+      {
+        "vocabulary_japanese": "南",
+        "vocabulary_simplified": "みなみ",
+        "vocabulary_english": "south",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_南.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "600"
+      },
+      {
+        "vocabulary_japanese": "耳",
+        "vocabulary_simplified": "みみ",
+        "vocabulary_english": "ear",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_耳.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "600"
+      },
+      {
+        "vocabulary_japanese": "見る 観る",
+        "vocabulary_simplified": "みる",
+        "vocabulary_english": "to see, to watch",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_見る 観る.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "600"
+      },
+      {
+        "vocabulary_japanese": "みんな",
+        "vocabulary_simplified": "みんな",
+        "vocabulary_english": "everyone",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_みんな.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "600"
+      },
+      {
+        "vocabulary_japanese": "六日",
+        "vocabulary_simplified": "むいか",
+        "vocabulary_english": "six days, sixth day of the month",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_六日.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "600"
+      },
+      {
+        "vocabulary_japanese": "向こう",
+        "vocabulary_simplified": "むこう",
+        "vocabulary_english": "over there",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_向こう.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "700"
+      },
+      {
+        "vocabulary_japanese": "難しい",
+        "vocabulary_simplified": "むずかしい",
+        "vocabulary_english": "difficult",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_難しい.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "700"
+      },
+      {
+        "vocabulary_japanese": "六つ",
+        "vocabulary_simplified": "むっつ",
+        "vocabulary_english": "six",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_六つ.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "700"
+      },
+      {
+        "vocabulary_japanese": "村",
+        "vocabulary_simplified": "むら",
+        "vocabulary_english": "village",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_村.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "700"
+      },
+      {
+        "vocabulary_japanese": "目",
+        "vocabulary_simplified": "め",
+        "vocabulary_english": "eye",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_目.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "700"
+      },
+      {
+        "vocabulary_japanese": "メートル",
+        "vocabulary_simplified": "メートル",
+        "vocabulary_english": "metre",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_メートル.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "700"
+      },
+      {
+        "vocabulary_japanese": "眼鏡",
+        "vocabulary_simplified": "めがね",
+        "vocabulary_english": "glasses",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_眼鏡.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "700"
+      },
+      {
+        "vocabulary_japanese": "もう",
+        "vocabulary_simplified": "もう",
+        "vocabulary_english": "already",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_もう.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "700"
+      },
+      {
+        "vocabulary_japanese": "もう一度",
+        "vocabulary_simplified": "もういちど",
+        "vocabulary_english": "again",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_もう一度.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "700"
+      },
+      {
+        "vocabulary_japanese": "木曜日",
+        "vocabulary_simplified": "もくようび",
+        "vocabulary_english": "Thursday",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_木曜日.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "700"
+      },
+      {
+        "vocabulary_japanese": "持つ",
+        "vocabulary_simplified": "もつ",
+        "vocabulary_english": "to hold",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_持つ.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "700"
+      },
+      {
+        "vocabulary_japanese": "もっと",
+        "vocabulary_simplified": "もっと",
+        "vocabulary_english": "more",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_もっと.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "700"
+      },
+      {
+        "vocabulary_japanese": "物",
+        "vocabulary_simplified": "もの",
+        "vocabulary_english": "thing",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_物.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "700"
+      },
+      {
+        "vocabulary_japanese": "門",
+        "vocabulary_simplified": "もん",
+        "vocabulary_english": "gate",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_門.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "700"
+      },
+      {
+        "vocabulary_japanese": "問題",
+        "vocabulary_simplified": "もんだい",
+        "vocabulary_english": "problem",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_問題.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "700"
+      },
+      {
+        "vocabulary_japanese": "八百屋",
+        "vocabulary_simplified": "やおや",
+        "vocabulary_english": "greengrocer",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_八百屋.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "700"
+      },
+      {
+        "vocabulary_japanese": "野菜",
+        "vocabulary_simplified": "やさい",
+        "vocabulary_english": "vegetable",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_野菜.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "700"
+      },
+      {
+        "vocabulary_japanese": "易しい",
+        "vocabulary_simplified": "やさしい",
+        "vocabulary_english": "easy, simple",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_易しい.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "700"
+      },
+      {
+        "vocabulary_japanese": "安い",
+        "vocabulary_simplified": "やすい",
+        "vocabulary_english": "cheap",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_安い.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "700"
+      },
+      {
+        "vocabulary_japanese": "休み",
+        "vocabulary_simplified": "やすみ",
+        "vocabulary_english": "rest,holiday",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_休み.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "700"
+      },
+      {
+        "vocabulary_japanese": "休む",
+        "vocabulary_simplified": "やすむ",
+        "vocabulary_english": "to rest",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_休む.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "700"
+      },
+      {
+        "vocabulary_japanese": "八つ",
+        "vocabulary_simplified": "やっつ",
+        "vocabulary_english": "eight",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_八つ.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "700"
+      },
+      {
+        "vocabulary_japanese": "山",
+        "vocabulary_simplified": "やま",
+        "vocabulary_english": "mountain",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_山.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "700"
+      },
+      {
+        "vocabulary_japanese": "やる",
+        "vocabulary_simplified": "やる",
+        "vocabulary_english": "to do",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_やる.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "700"
+      },
+      {
+        "vocabulary_japanese": "夕方",
+        "vocabulary_simplified": "ゆうがた",
+        "vocabulary_english": "evening",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_夕方.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "700"
+      },
+      {
+        "vocabulary_japanese": "夕飯",
+        "vocabulary_simplified": "ゆうはん",
+        "vocabulary_english": "dinner",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_夕飯.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "700"
+      },
+      {
+        "vocabulary_japanese": "郵便局",
+        "vocabulary_simplified": "ゆうびんきょく",
+        "vocabulary_english": "post office",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_郵便局.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "700"
+      },
+      {
+        "vocabulary_japanese": "昨夜",
+        "vocabulary_simplified": "ゆうべ",
+        "vocabulary_english": "last night",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_昨夜.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "700"
+      },
+      {
+        "vocabulary_japanese": "有名",
+        "vocabulary_simplified": "ゆうめい",
+        "vocabulary_english": "famous",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_有名.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "700"
+      },
+      {
+        "vocabulary_japanese": "雪",
+        "vocabulary_simplified": "ゆき",
+        "vocabulary_english": "snow",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_雪.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "700"
+      },
+      {
+        "vocabulary_japanese": "行く",
+        "vocabulary_simplified": "ゆく",
+        "vocabulary_english": "to go",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_行く.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "700"
+      },
+      {
+        "vocabulary_japanese": "ゆっくりと",
+        "vocabulary_simplified": "ゆっくりと",
+        "vocabulary_english": "slowly",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_ゆっくりと.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "700"
+      },
+      {
+        "vocabulary_japanese": "八日",
+        "vocabulary_simplified": "ようか",
+        "vocabulary_english": "eight days, eighth day of the month",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_八日.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "700"
+      },
+      {
+        "vocabulary_japanese": "洋服",
+        "vocabulary_simplified": "ようふく",
+        "vocabulary_english": "western-style clothes",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_洋服.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "700"
+      },
+      {
+        "vocabulary_japanese": "よく",
+        "vocabulary_simplified": "よく",
+        "vocabulary_english": "often, well",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_よく.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "700"
+      },
+      {
+        "vocabulary_japanese": "横",
+        "vocabulary_simplified": "よこ",
+        "vocabulary_english": "beside,side,width",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_横.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "700"
+      },
+      {
+        "vocabulary_japanese": "四日",
+        "vocabulary_simplified": "よっか",
+        "vocabulary_english": "four days, fouth day of the month",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_四日.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "700"
+      },
+      {
+        "vocabulary_japanese": "四つ",
+        "vocabulary_simplified": "よっつ",
+        "vocabulary_english": "four",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_四つ.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "700"
+      },
+      {
+        "vocabulary_japanese": "呼ぶ",
+        "vocabulary_simplified": "よぶ",
+        "vocabulary_english": "to call out,to invite",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_呼ぶ.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "700"
+      },
+      {
+        "vocabulary_japanese": "読む",
+        "vocabulary_simplified": "よむ",
+        "vocabulary_english": "to read",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_読む.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "700"
+      },
+      {
+        "vocabulary_japanese": "夜",
+        "vocabulary_simplified": "よる",
+        "vocabulary_english": "evening,night",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_夜.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "700"
+      },
+      {
+        "vocabulary_japanese": "弱い",
+        "vocabulary_simplified": "よわい",
+        "vocabulary_english": "weak",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_弱い.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "700"
+      },
+      {
+        "vocabulary_japanese": "来月",
+        "vocabulary_simplified": "らいげつ",
+        "vocabulary_english": "next month",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_来月.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "700"
+      },
+      {
+        "vocabulary_japanese": "来週",
+        "vocabulary_simplified": "らいしゅう",
+        "vocabulary_english": "next week",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_来週.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "700"
+      },
+      {
+        "vocabulary_japanese": "来年",
+        "vocabulary_simplified": "らいねん",
+        "vocabulary_english": "next year",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_来年.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "700"
+      },
+      {
+        "vocabulary_japanese": "ラジオ",
+        "vocabulary_simplified": "ラジオ",
+        "vocabulary_english": "radio",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_ラジオ.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "700"
+      },
+      {
+        "vocabulary_japanese": "ラジカセ / ラジオカセット",
+        "vocabulary_simplified": "ラジカセ / ラジオカセット",
+        "vocabulary_english": "radio cassette player",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_ラジカセ / ラジオカセット.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "700"
+      },
+      {
+        "vocabulary_japanese": "りっぱ",
+        "vocabulary_simplified": "りっぱ",
+        "vocabulary_english": "splendid",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_りっぱ.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "700"
+      },
+      {
+        "vocabulary_japanese": "留学生",
+        "vocabulary_simplified": "りゅうがくせい",
+        "vocabulary_english": "overseas student",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_留学生.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "700"
+      },
+      {
+        "vocabulary_japanese": "両親",
+        "vocabulary_simplified": "りょうしん",
+        "vocabulary_english": "both parents",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_両親.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "700"
+      },
+      {
+        "vocabulary_japanese": "料理",
+        "vocabulary_simplified": "りょうり",
+        "vocabulary_english": "cuisine",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_料理.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "700"
+      },
+      {
+        "vocabulary_japanese": "旅行",
+        "vocabulary_simplified": "りょこう",
+        "vocabulary_english": "travel",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_旅行.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "700"
+      },
+      {
+        "vocabulary_japanese": "零",
+        "vocabulary_simplified": "れい",
+        "vocabulary_english": "zero",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_零.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "700"
+      },
+      {
+        "vocabulary_japanese": "冷蔵庫",
+        "vocabulary_simplified": "れいぞうこ",
+        "vocabulary_english": "refrigerator",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_冷蔵庫.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "700"
+      },
+      {
+        "vocabulary_japanese": "レコード",
+        "vocabulary_simplified": "レコード",
+        "vocabulary_english": "record",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_レコード.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "700"
+      },
+      {
+        "vocabulary_japanese": "レストラン",
+        "vocabulary_simplified": "レストラン",
+        "vocabulary_english": "restaurant",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_レストラン.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "700"
+      },
+      {
+        "vocabulary_japanese": "練習",
+        "vocabulary_simplified": "れんしゅうする",
+        "vocabulary_english": "to practice",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_練習.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "700"
+      },
+      {
+        "vocabulary_japanese": "廊下",
+        "vocabulary_simplified": "ろうか",
+        "vocabulary_english": "corridor",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_廊下.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "700"
+      },
+      {
+        "vocabulary_japanese": "六",
+        "vocabulary_simplified": "ろく",
+        "vocabulary_english": "six",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_六.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "700"
+      },
+      {
+        "vocabulary_japanese": "ワイシャツ",
+        "vocabulary_simplified": "ワイシャツ",
+        "vocabulary_english": "business shirt",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_ワイシャツ.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "700"
+      },
+      {
+        "vocabulary_japanese": "若い",
+        "vocabulary_simplified": "わかい",
+        "vocabulary_english": "young",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_若い.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "700"
+      },
+      {
+        "vocabulary_japanese": "分かる",
+        "vocabulary_simplified": "わかる",
+        "vocabulary_english": "to be understood",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_分かる.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "700"
+      },
+      {
+        "vocabulary_japanese": "忘れる",
+        "vocabulary_simplified": "わすれる",
+        "vocabulary_english": "to forget",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_忘れる.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "700"
+      },
+      {
+        "vocabulary_japanese": "私",
+        "vocabulary_simplified": "わたくし",
+        "vocabulary_english": "(humble) I,myself",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_私.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "700"
+      },
+      {
+        "vocabulary_japanese": "私",
+        "vocabulary_simplified": "わたし",
+        "vocabulary_english": "I,myself",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_私.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "700"
+      },
+      {
+        "vocabulary_japanese": "渡す",
+        "vocabulary_simplified": "わたす",
+        "vocabulary_english": "to hand over",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_渡す.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "700"
+      },
+      {
+        "vocabulary_japanese": "渡る",
+        "vocabulary_simplified": "わたる",
+        "vocabulary_english": "to go across",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_渡る.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "700"
+      },
+      {
+        "vocabulary_japanese": "悪い",
+        "vocabulary_simplified": "わるい",
+        "vocabulary_english": "bad",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_悪い.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "700"
+      },
+      {
+        "vocabulary_japanese": "より、ほう",
+        "vocabulary_simplified": "より、ほう",
+        "vocabulary_english": "Used for comparison.",
+        "word_type": "nan",
+        "vocabulary_audio": "/audio/vocab/v_より、ほう.mp3",
+        "p_tag": "JLPT_N5",
+        "s_tag": "700"
+      }
+]

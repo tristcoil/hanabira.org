@@ -1,0 +1,40 @@
+{
+  "name": "next-flash-cards",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "axios": "^1.5.1",
+    "body-parser": "^1.20.2",
+    "cors": "^2.8.5",
+    "decode-uri-component": "^0.4.1",
+    "deepl-node": "^1.13.0",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "he": "^1.2.0",
+    "js-cookie": "^3.0.5",
+    "kuroshiro": "^1.1.2",
+    "kuroshiro-analyzer-kuromoji": "^1.1.0",
+    "mecab-async": "^0.1.2",
+    "mongoose": "^8.3.2",
+    "morgan": "^1.10.0",
+    "openai": "^4.47.1",
+    "swr": "^2.2.4",
+    "youtube-transcript": "^1.2.1"
+  },
+  "devDependencies": {
+    "@types/js-cookie": "^3.0.6",
+    "@types/node": "^20",
+    "autoprefixer": "^10",
+    "eslint": "^8",
+    "eslint-config-next": "^14.0.0",
+    "postcss": "^8",
+    "tailwindcss": "^3",
+    "typescript": "^5"
+  }
+}
