@@ -137,6 +137,11 @@ const Sentence = mongoose.model("Sentence", sentenceSchema);
   try {
     await connectToDb();
 
+    // Clear existing data
+    await Word.deleteMany({});
+    await Sentence.deleteMany({});
+    console.log("Cleared existing data in Word and Sentence collections.");
+
     //simplified seeding
     //await Word.insertMany(words_data);
     //await Sentence.insertMany(sentences_data);
