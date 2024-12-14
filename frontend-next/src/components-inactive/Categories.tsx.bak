@@ -1,0 +1,57 @@
+import { CategoriesHeader, Category, Footer, Nav } from "../components";
+import { DashboardHead, DashboardNav, DashboardSidebar, ItemsSentences } from "../components";
+import React from "react";
+import { Link } from "react-router-dom";
+
+
+
+// GRID approach with left sidebar menu
+export default function Categories() {
+  return (
+    <div className="grid lg:grid-cols-body">
+      <div className="lg:col-span-2 grid-row-start-1 grid-column-start-1">
+        <DashboardSidebar />
+      </div>
+      <div className="lg:col-span-10">
+        {/* <Link to="/categories">Get Started</Link> */}
+        <Nav />
+        <CategoriesHeader />
+        
+        {/* JLPT N3 Overall Content */}
+        <Category
+          img="/img/Japanese6000.png"
+          title="JLPT Japanese Essentials"
+          titleDes="Essential Japanese Vocabulary, Grammar and Kanji for JLPT N5-N1 level."
+          icon="/img/grammer.png"
+          courses="22"
+          series="5"
+          des="
+          Master Japanese with our focused JLPT N5-N1 course, designed to strengthen your 
+          vocabulary, grammar, and kanji knowledge. 
+          Dive into straightforward lessons that make learning enjoyable. 
+          Improve your language skills and gain confidence as you tackle our JLPT learning materials. 
+          Join our course now and start your exciting Japanese learning adventure!"
+        />
+
+        {/* JLPT N3 Content for example */}
+        {/* <Category
+          img="/img/Japanese6000.png"
+          title="kanji JLPT N3 with only one reading prop"
+          titleDes="Lorem ipsum, dolor sit amet consectetur adipisicing elit. Illum quos"
+          icon="/img/grammer.png"
+          courses="62"
+          series="7"
+          des="kanji This is prop to Category component. Learn the 6,000 most common Japanese words. popular Japanese voice talents. Master these 6,000 words to master Japanese!"
+        /> */}
+
+
+
+
+        {/* <Footer />       */}
+      </div>
+             <div className="lg:col-span-12">
+         <Footer />
+       </div>
+    </div>
+  );
+}

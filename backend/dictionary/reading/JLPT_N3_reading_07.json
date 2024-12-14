@@ -1,0 +1,310 @@
+{
+  "key": "jlpt_n3_reading_07",
+  "title": "The Samurai's Garden",
+  "titleRomaji": "Samurai no niwa",
+  "titleJp": "侍の庭",
+  "p_tag": "jlpt_n3",
+  "s_tag": "story",
+  "shortDescription": "A tale of a retired samurai who dedicates his life to creating the perfect garden. Each plant and rock placement contains historical significance and life lessons, which he shares with a young neighbor.",
+  "shortDescriptionRomaji": "Intai shita samurai ga kanpeki na niwa o tsukuru koto ni jinsei o sasageta hanashi. Shokubutsu hitotsu hitotsu to ishi no haichi ni wa rekishi-teki na imi to jinsei no kyōkun ga komerarete ori, sore o wakai rinjin ni oshiete iku.",
+  "shortDescriptionJp": "引退した侍が完璧な庭を作ることに人生を捧げた話。植物一つ一つと石の配置には歴史的な意味と人生の教訓が込められており、それを若い隣人に教えていく。",
+  "textAudio": "/audio/japanese/JLPT_N3_reading_07/JLPT_N3_jp_reading_07.mp3",
+  "textAudio_1": "/audio/japanese/JLPT_N3_reading_07/JLPT_N3_jp_reading_07.mp3",
+  "textAudioEn": "/audio/japanese/JLPT_N3_reading_07/JLPT_N3_en_reading_07.mp3",
+  "textAudioEn_1": "/audio/japanese/JLPT_N3_reading_07/JLPT_N3_en_reading_07.mp3",
+  "japaneseText": [
+    "静かな村の中心に立つ庭は、引退した侍である達男の手によって細心に織りなされた自然のタペストリーだった。彼の家は質素で、壁にはかつて刃の端に立った生活のかすかなこだまが飾られていた。今は彼の剣が休んでおり、その場所には一対の園芸用はさみがある。",
+    "達男の庭は彼の聖域であり、彼の旅の生きた年代記だった。毎朝、太陽が地平線を越えてのぼると、彼は象徴と歴史を持つ植物の世話をしているところに見つけられた。桜の木は生命の儚さを象徴しており、その花は存在の移り変わりを思い起こさせる。竹は強靭さを代表し、嵐の中で曲がっても決して折れない。",
+    "石の小道が緑の中を曲がりくねり、中央の鯉の池へと続いていた。これは穏やかな鏡で、色とりどりの魚の踊りや上空の空を映していた。ここでは石は単なる石ではなく、水と気、達男が庭と庭師の両方を養うと信じる生命力の流れを導くために戦略的に配置された侍の不屈の精神だった。",
+    "達男の平和な隠れ家の隣には、十夏を迎えた好奇心旺盛な少年、ユキが住んでいた。彼の若さあふれる活気はしばしば彼を竹の垣根を覗き込むことにし、庭の静けさに魅了された。教える機会を感じた達男は、若い隣人を自分の緑と静寂の世界へと招いた。",
+    "先生の忍耐で、達男はユキに庭の秘密を共有した。各レッスンは彼の先祖と侍道の話と絡み合っており、少年に名誉、尊敬、そして目的を持って生きることの重要性を教えた。彼は庭が人生のたとえであることを説明した：慎重に計画されつつも野生であり、美しさととげとが満ちている。",
+    "学ぶことに熱心なユキの手はすぐに達男の指導のもとで働き始めた。引退した侍は彼に藤の剪定の仕方、菊の手入れ、古人の知恵をささやく松の木の言葉を理解する方法を教えた。",
+    "季節は変わり、彼らの共同の世話のもとで庭は栄えた。ユキは理解と技術で成長し、種をまき、石を置くごとに世界の見方が広がった。庭は彼らの絆の証となり、過去と現在が一緒に成長している。",
+    "年月が過ぎ、庭は頂点に達し、達男の遺産として遠く広く知られるようになった。そこは歴史が地に根ざし、人生の教訓が豊かに咲く空間だった。そして、達男が最後にはさみを置く時が来たとき、庭は生き続けた。侍の道を侍の庭の花と葉の中で学んだ若い少年の手に託された遺産として。"
+  ],
+  "romanizedText": [
+    "Shizuka na mura no chūshin ni tatsu niwa wa, intai shita samurai de aru Tatsuo no te ni yotte saishin ni orinasa reta shizen no tapesutorī datta. Kare no ie wa shisso de, kabe ni wa katsute yaiba no hashi ni tatta seikatsu no kasuka na kodama ga kazara rete ita. Ima wa kare no ken ga yasunde ori, sono basho ni wa issō no engei-yō hasami ga aru.",
+    "Tatsuo no niwa wa kare no seichi de ari, kare no tabi no ikita nendai-ki datta. Maiasa, taiyō ga chiheisen o koete noboru to, kare wa shōchō to rekishi o motsu shokubutsu no sewa o shite iru tokoro ni mitsukerareta. Sakura no ki wa seimei no hakanasa o shōchō shite ori, sono hana wa sonzai no utsurikawari o omoiokosaseru. Take wa kyōjin-sa o daihyō shi, arashi no naka de magatte mo kesshite orenai.",
+    "Ishi no komichi ga midori no naka o magarikuneru, chūō no koi no ike e to tsudzuite ita. Kore wa odayaka na kagami de, iro toridori no sakana no odori ya jōkū no sora o utsushite ita. Koko de wa ishi wa tannaru ishi de wa naku, mizu to ki, Tatsuo ga niwa to niwashi no ryōhō o yashinau to shinjiru seimeiryoku no nagare o michibiku tame ni senryaku-teki ni haichi sa reta samurai no fukutsu no seishin datta.",
+    "Tatsuo no heiwa na kakurega no tonari ni wa, jūka o mukae ta kōkishin ōseina shōnen, Yuki ga sunde ita. Kare no wakasa afureru katsuryoku wa shibashiba kare o take no kakine o nozoki komu koto ni shi, niwa no shizukesa ni miryō sa reta. Oshieru kikai o kanjita Tatsuo wa, wakai rinjin o jibun no midori to seijaku no sekai e to maneita.",
+    "Sensei no nintai de, Tatsuo wa Yuki ni niwa no himitsu o kyōyū shita. Kaku ressun wa kare no senzo to samuraidō no hanashi to karami atte ori, shōnen ni meiyo, sonkei, soshite mokuteki o motte ikiru koto no jūyōsei o oshieta. Kare wa niwa ga jinsei no tatoe de aru koto o setsumei shita: shinchō ni keikaku sa retsutsu mo yasei de ari, utsukushisa to toge to ga michite iru.",
+    "Manabu koto ni nesshin na Yuki no te wa sugu ni Tatsuo no shidō no moto de hataraki hajimeta. Intai shita samurai wa kare ni fuji no sentei no shikata, kiku no teire, korjin no chie o sasayaku matsu no ki no kotoba o rikai suru hōhō o oshieta.",
+    "Kisetsu wa kawari, karera no kyōdō no sewa no moto de niwa wa sakae ta. Yuki wa rikai to gijutsu de seichō shi, tane o maki, ishi o oku goto ni sekai no mikata ga hirogatta. Niwa wa karera no kizuna no akashi to nari, kako to genzai ga issho ni seichō shite iru.",
+    "Nengetsu ga sugi, niwa wa chōten ni tasshi, Tatsuo no isan to shite tōku hiroku shirareru yō ni natta. Soko wa rekishi ga chi ni nezashi, jinsei no kyōkun ga yutaka ni saku kūkan datta. Soshite, Tatsuo ga saigo ni hasami o oku toki ga kita toki, niwa wa iki tsudzuketa. Samurai no michi o samurai no niwa no hana to ha no naka de mananda wakai shōnen no te ni takusareta isan to shite."
+  ],
+  "englishTranslation": [
+    "In the heart of a quiet village stood a garden, a tapestry of nature meticulously woven by the hands of Tatsuo, a retired samurai. His home was modest, the walls adorned with the faint echoes of a life once lived at the edge of a blade. Now, his sword lay resting, and in its place, a pair of gardening shears.",
+    "Tatsuo's garden was his sanctuary, a living chronicle of his journey. Each morning, as the sun crept over the horizon, he would be found tending to his plants, each chosen for its symbolism and history. The cherry tree stood for the impermanence of life, its blossoms a reminder of the fleeting nature of existence. The bamboo represented resilience, bending in the storm but never breaking.",
+    "A stone path wound through the greenery, leading to a central koi pond, a tranquil mirror reflecting the dance of colorful fish and the sky above. Here, rocks were not merely rocks but the unyielding spirit of a samurai, strategically placed to guide the flow of water and chi, the life force that Tatsuo believed nourished both garden and gardener.",
+    "Adjacent to Tatsuo's tranquil retreat lived Yuki, a curious boy of ten summers, whose youthful exuberance often found him peering through the bamboo fence, entranced by the garden's serenity. Sensing a teaching opportunity, Tatsuo invited the young neighbor to step into his world of greenery and silence.",
+    "With the patience of a sensei, Tatsuo shared his garden's secrets with Yuki. Each lesson was intertwined with stories of his ancestors and the samurai way, teaching the boy about honor, respect, and the importance of living with purpose. He explained how the garden was a metaphor for life: carefully planned yet wild, full of beauty and thorns.",
+    "Yuki, with hands eager to learn, soon found himself under Tatsuo's tutelage. The retired samurai taught him how to trim the wisteria, to care for the chrysanthemums, and to understand the language of the pine trees that whispered with the wisdom of the ancients.",
+    "Seasons changed, and the garden flourished under their joint care. Yuki grew in understanding and skill, his view of the world expanding with each seed sown and each stone laid. The garden became a testament to their bond, a blend of past and present growing together.",
+    "As years passed, the garden reached its zenith, becoming known far and wide as Tatsuo's legacy, a space where history was rooted in the earth and where life lessons bloomed in abundance. And when the time came for Tatsuo to lay down his shears for good, the garden lived on, a legacy entrusted to the hands of a young boy who had learned the way of the samurai amidst the petals and leaves of The Samurai's Garden."
+  ],
+  "readingVocabulary": [
+    "細心 (さいしん) - Saishin - Meticulous",
+    "タペストリー (たぺすとりー) - Tapesutorī - Tapestry",
+    "質素 (しっそ) - Shisso - Modest",
+    "隠れ家 (かくれが) - Kakurega - Hideaway",
+    "旅 (たび) - Tabi - Journey",
+    "年代記 (ねんだいき) - Nendaiki - Chronicle",
+    "象徴 (しょうちょう) - Shōchō - Symbol",
+    "強靭 (きょうじん) - Kyōjin - Resilience",
+    "不屈 (ふくつ) - Fukutsu - Unyielding",
+    "戦略的 (せんりゃくてき) - Senryakuteki - Strategic",
+    "生命力 (せいめいりょく) - Seimeiryoku - Vitality",
+    "好奇心 (こうきしん) - Kōkishin - Curiosity",
+    "静寂 (せいじゃく) - Seijaku - Silence",
+    "忍耐 (にんたい) - Nintai - Patience",
+    "秘密 (ひみつ) - Himitsu - Secret",
+    "侍道 (さむらいどう) - Samuraidō - The way of the samurai",
+    "名誉 (めいよ) - Meiyō - Honor",
+    "尊敬 (そんけい) - Sonkei - Respect",
+    "慎重 (しんちょう) - Shinchō - Careful",
+    "野生 (やせい) - Yasei - Wild",
+    "剪定 (せんてい) - Sentei - Pruning",
+    "手入れ (ていれ) - Teire - Care (of plants)",
+    "古人 (こじん) - Kojin - Ancients",
+    "知恵 (ちえ) - Chie - Wisdom",
+    "成長 (せいちょう) - Seichō - Growth",
+    "絆 (きずな) - Kizuna - Bond",
+    "頂点 (ちょうてん) - Chōten - Zenith",
+    "遺産 (いさん) - Isan - Legacy",
+    "根ざし (ねざし) - Nezashi - Rooted",
+    "教訓 (きょうくん) - Kyōkun - Life lesson"
+  ],
+  "readingVocabularyEn": [
+    "'tapestry (タペストリー)' - 自然の模様や絵が織り込まれた布。",
+    "'meticulously (細心の注意を払って)' - 細部にわたって注意深く行うさま。",
+    "'modest (質素な)' - 控えめで華美でないさま。",
+    "'adorned (飾られた)' - 装飾された、美しくする。",
+    "'echoes (こだま)' - 反響、繰り返し聞こえる音。",
+    "'sanctuary (聖域)' - 安全な場所、聖所。",
+    "'chronicle (年代記)' - 歴史的な出来事を記録したもの。",
+    "'symbolism (象徴)' - 象徴性、物事が表す意味や象徴。",
+    "'impermanence (無常)' - はかないこと、永続しない性質。",
+    "'resilience (強靭さ)' - 困難に対する回復力や柔軟性。",
+    "'unyielding (不屈の)' - 屈しない、頑固な。",
+    "'strategically (戦略的に)' - 戦略に基づいて、計画的に。",
+    "'tranquil (穏やかな)' - 静かで平和な。",
+    "'entranced (魅了された)' - 魅惑されて心を奪われた。",
+    "'serenity (静けさ)' - 静寂、穏やかさ。",
+    "'patience (忍耐)' - 我慢強さ、辛抱。",
+    "'intertwined (絡み合った)' - 互いに結びついている。",
+    "'metaphor (隠喩)' - 他のものを示唆するために使われる表現。",
+    "'tutelage (指導)' - 教えること、保護。",
+    "'trim (剪定する)' - 刈り込む、整える。",
+    "'chrysanthemums (菊)' - 菊の花。",
+    "'flourished (栄えた)' - 繁栄した、成長した。",
+    "'testament (証)' - 証明、証拠。",
+    "'zenith (頂点)' - 最高点、頂点。",
+    "'legacy (遺産)' - 遺されたもの、遺産。",
+    "'rooted (根ざした)' - 根付いている、確立された。",
+    "'bloomed (咲いた)' - 花が開いた、発展した。",
+    "'abundance (豊富)' - 豊かさ、多量。",
+    "'entrusted (託された)' - 任せられた、委ねられた。",
+    "'amidst (～の中で)' - ～の中で、～に囲まれて。"
+  ],
+  "readingGrammar": [
+    "によって (ni yotte) - This is a grammatical structure used to indicate the means or agent by which something is done. In this context, it means 'by the hands of' or 'due to.'",
+    "たる (taru) - This is a literary form that is equivalent to である (de aru), which is the formal version of です (desu), used to describe what something is. In the text, '引退した侍である' (intai shita samurai de aru) means 'a samurai who has retired.'",
+    "ており (te ori) - This is a form that combines the te-form of a verb with おる (oru), which is a more formal or literary way to express the verb いる (iru), meaning 'to be' or 'to exist.' It's used to describe a state or an ongoing action.",
+    "ところに見つけられた (tokoro ni mitsukerareta) - This is a structure that indicates where someone or something was found doing an action. It combines ところ (tokoro), which means 'place' or 'scene,' with a passive form of the verb 見つける (mitsukeru), meaning 'to be found.'",
+    "ており (te ori) - This is another instance of the te-form combined with おる (oru). It's used here to describe the continuous state of the sword being at rest.",
+    "たとえである (tatoe de aru) - This is a phrase used to indicate a metaphor or simile. It means 'is an example of' or 'is a metaphor for.'",
+    "に続いていた (ni tsudzuite ita) - This is a verb phrase that combines the te-form of 続く (tsuzuku), meaning 'to continue,' with いた, the past tense of いる (iru). It's used to describe a path that continued through the garden.",
+    "たるもの (taru mono) - Similar to たる, this is a literary form used to describe something with a qualifying phrase, often translated as 'the one who is' or 'that which is.' It's used to emphasize the characteristics of something or someone.",
+    "もので (mono de) - This is a structure that gives a reason or explanation for something. It can often be translated as 'because' or 'due to the fact that.'",
+    "に託された (ni takusareta) - This is a passive form of the verb 託す (takusu), meaning 'to entrust' or 'to leave to someone's care.' It indicates that something has been entrusted to someone, in this case, the garden to the young boy."
+  ],
+  "readingGrammarEn": [
+    "'stood a garden' - 「あった庭」 立つの過去形を使って、庭がそこに存在したことを表す。",
+    "'meticulously woven' - 「細心に織り込まれた」 細かい注意を払いながら作り上げたことを表す形容詞句。",
+    "'adorned with' - 「～で飾られた」 何かで装飾されている様子を表す。",
+    "'lay resting' - 「休んで横たわる」 layはlieの過去形で、横たわっている静的な状態を示す。",
+    "'crept over' - 「忍び寄る」 creepの過去形で、ゆっくりと移動する様子を表す。",
+    "'stood for' - 「象徴する」 何かが何かを象徴していることを表す。",
+    "'bending in the storm but never breaking' - 「嵐の中で曲がるが決して折れない」 比喩的な表現で、逆境に耐える強さを表す。",
+    "'entranced by' - 「～に魅了されて」 何かに完全に引き込まれる様子を表す。",
+    "'intertwined with' - 「～と絡み合った」 二つ以上のものが密接に関連している様子を表す。",
+    "'a testament to' - 「～の証」 何かが何かを証明している様子を表す。"
+  ],
+  "sentencePayload": [
+    {
+      "japanese": "静かな村の中心に立つ庭は、引退した侍である達男の手によって細心に織りなされた自然のタペストリーだった。",
+      "romanization": "Shizuka na mura no chūshin ni tatsu niwa wa, intai shita samurai de aru Tatsuo no te ni yotte saishin ni orinasa reta shizen no tapesutorī datta.",
+      "translation": "In the heart of a quiet village stood a garden, a tapestry of nature meticulously woven by the hands of Tatsuo, a retired samurai.",
+      "audioPath": "/audio/japanese/JLPT_N3_reading_07/r_jp_01.mp3",
+      "audioPathEn": "/audio/japanese/JLPT_N3_reading_07/r_en_01.mp3"
+    },
+    {
+      "japanese": "彼の家は質素で、壁にはかつて刃の端に立った生活のかすかなこだまが飾られていた。",
+      "romanization": "Kare no ie wa shisso de, kabe ni wa katsute yaiba no hashi ni tatta seikatsu no kasuka na kodama ga kazara rete ita.",
+      "translation": "His home was modest, the walls adorned with the faint echoes of a life once lived at the edge of a blade.",
+      "audioPath": "/audio/japanese/JLPT_N3_reading_07/r_jp_02.mp3",
+      "audioPathEn": "/audio/japanese/JLPT_N3_reading_07/r_en_02.mp3"
+    },
+    {
+      "japanese": "今は彼の剣が休んでおり、その場所には一対の園芸用はさみがある。",
+      "romanization": "Ima wa kare no ken ga yasunde ori, sono basho ni wa issō no engei-yō hasami ga aru.",
+      "translation": "Now, his sword lay resting, and in its place, a pair of gardening shears.",
+      "audioPath": "/audio/japanese/JLPT_N3_reading_07/r_jp_03.mp3",
+      "audioPathEn": "/audio/japanese/JLPT_N3_reading_07/r_en_03.mp3"
+    },
+    {
+      "japanese": "達男の庭は彼の聖域であり、彼の旅の生きた年代記だった。",
+      "romanization": "Tatsuo no niwa wa kare no seichi de ari, kare no tabi no ikita nendai-ki datta.",
+      "translation": "Tatsuo's garden was his sanctuary, a living chronicle of his journey.",
+      "audioPath": "/audio/japanese/JLPT_N3_reading_07/r_jp_04.mp3",
+      "audioPathEn": "/audio/japanese/JLPT_N3_reading_07/r_en_04.mp3"
+    },
+    {
+      "japanese": "毎朝、太陽が地平線を越えてのぼると、彼は象徴と歴史を持つ植物の世話をしているところに見つけられた。",
+      "romanization": "Maiasa, taiyō ga chiheisen o koete noboru to, kare wa shōchō to rekishi o motsu shokubutsu no sewa o shite iru tokoro ni mitsukerareta.",
+      "translation": "Each morning, as the sun crept over the horizon, he would be found tending to his plants, each chosen for its symbolism and history.",
+      "audioPath": "/audio/japanese/JLPT_N3_reading_07/r_jp_05.mp3",
+      "audioPathEn": "/audio/japanese/JLPT_N3_reading_07/r_en_05.mp3"
+    },
+    {
+      "japanese": "桜の木は生命の儚さを象徴しており、その花は存在の移り変わりを思い起こさせる。",
+      "romanization": "Sakura no ki wa seimei no hakanasa o shōchō shite ori, sono hana wa sonzai no utsurikawari o omoiokosaseru.",
+      "translation": "The cherry tree stood for the impermanence of life, its blossoms a reminder of the fleeting nature of existence.",
+      "audioPath": "/audio/japanese/JLPT_N3_reading_07/r_jp_06.mp3",
+      "audioPathEn": "/audio/japanese/JLPT_N3_reading_07/r_en_06.mp3"
+    },
+    {
+      "japanese": "竹は強靭さを代表し、嵐の中で曲がっても決して折れない。",
+      "romanization": "Take wa kyōjin-sa o daihyō shi, arashi no naka de magatte mo kesshite orenai.",
+      "translation": "The bamboo represented resilience, bending in the storm but never breaking.",
+      "audioPath": "/audio/japanese/JLPT_N3_reading_07/r_jp_07.mp3",
+      "audioPathEn": "/audio/japanese/JLPT_N3_reading_07/r_en_07.mp3"
+    },
+    {
+      "japanese": "石の小道が緑の中を曲がりくねり、中央の鯉の池へと続いていた。",
+      "romanization": "Ishi no komichi ga midori no naka o magarikuneru, chūō no koi no ike e to tsudzuite ita.",
+      "translation": "A stone path wound through the greenery, leading to a central koi pond.",
+      "audioPath": "/audio/japanese/JLPT_N3_reading_07/r_jp_08.mp3",
+      "audioPathEn": "/audio/japanese/JLPT_N3_reading_07/r_en_08.mp3"
+    },
+    {
+      "japanese": "これは穏やかな鏡で、色とりどりの魚の踊りや上空の空を映していた。",
+      "romanization": "Kore wa odayaka na kagami de, iro toridori no sakana no odori ya jōkū no sora o utsushite ita.",
+      "translation": "It was a tranquil mirror reflecting the dance of colorful fish and the sky above.",
+      "audioPath": "/audio/japanese/JLPT_N3_reading_07/r_jp_09.mp3",
+      "audioPathEn": "/audio/japanese/JLPT_N3_reading_07/r_en_09.mp3"
+    },
+    {
+      "japanese": "ここでは石は単なる石ではなく、水と気、達男が庭と庭師の両方を養うと信じる生命力の流れを導くために戦略的に配置された侍の不屈の精神だった。",
+      "romanization": "Koko de wa ishi wa tannaru ishi de wa naku, mizu to ki, Tatsuo ga niwa to niwashi no ryōhō o yashinau to shinjiru seimeiryoku no nagare o michibiku tame ni senryaku-teki ni haichi sa reta samurai no fukutsu no seishin datta.",
+      "translation": "Here, rocks were not merely rocks but the unyielding spirit of a samurai, strategically placed to guide the flow of water and chi, the life force that Tatsuo believed nourished both garden and gardener.",
+      "audioPath": "/audio/japanese/JLPT_N3_reading_07/r_jp_10.mp3",
+      "audioPathEn": "/audio/japanese/JLPT_N3_reading_07/r_en_10.mp3"
+    },
+    {
+      "japanese": "達男の平和な隠れ家の隣には、十夏を迎えた好奇心旺盛な少年、ユキが住んでいた。",
+      "romanization": "Tatsuo no heiwa na kakurega no tonari ni wa, jūka o mukae ta kōkishin ōseina shōnen, Yuki ga sunde ita.",
+      "translation": "Adjacent to Tatsuo's tranquil retreat lived Yuki, a curious boy of ten summers.",
+      "audioPath": "/audio/japanese/JLPT_N3_reading_07/r_jp_11.mp3",
+      "audioPathEn": "/audio/japanese/JLPT_N3_reading_07/r_en_11.mp3"
+    },
+    {
+      "japanese": "彼の若さあふれる活気はしばしば彼を竹の垣根を覗き込むことにし、庭の静けさに魅了された。",
+      "romanization": "Kare no wakasa afureru katsuryoku wa shibashiba kare o take no kakine o nozoki komu koto ni shi, niwa no shizukesa ni miryō sa reta.",
+      "translation": "His youthful exuberance often found him peering through the bamboo fence, entranced by the garden's serenity.",
+      "audioPath": "/audio/japanese/JLPT_N3_reading_07/r_jp_12.mp3",
+      "audioPathEn": "/audio/japanese/JLPT_N3_reading_07/r_en_12.mp3"
+    },
+    {
+      "japanese": "教える機会を感じた達男は、若い隣人を自分の緑と静寂の世界へと招いた。",
+      "romanization": "Oshieru kikai o kanjita Tatsuo wa, wakai rinjin o jibun no midori to seijaku no sekai e to maneita.",
+      "translation": "Sensing a teaching opportunity, Tatsuo invited the young neighbor to step into his world of greenery and silence.",
+      "audioPath": "/audio/japanese/JLPT_N3_reading_07/r_jp_13.mp3",
+      "audioPathEn": "/audio/japanese/JLPT_N3_reading_07/r_en_13.mp3"
+    },
+    {
+      "japanese": "先生の忍耐で、達男はユキに庭の秘密を共有した。",
+      "romanization": "Sensei no nintai de, Tatsuo wa Yuki ni niwa no himitsu o kyōyū shita.",
+      "translation": "With the patience of a sensei, Tatsuo shared his garden's secrets with Yuki.",
+      "audioPath": "/audio/japanese/JLPT_N3_reading_07/r_jp_14.mp3",
+      "audioPathEn": "/audio/japanese/JLPT_N3_reading_07/r_en_14.mp3"
+    },
+    {
+      "japanese": "各レッスンは彼の先祖と侍道の話と絡み合っており、少年に名誉、尊敬、そして目的を持って生きることの重要性を教えた。",
+      "romanization": "Kaku ressun wa kare no senzo to samuraidō no hanashi to karami atte ori, shōnen ni meiyo, sonkei, soshite mokuteki o motte ikiru koto no jūyōsei o oshieta.",
+      "translation": "Each lesson was intertwined with stories of his ancestors and the samurai way, teaching the boy about honor, respect, and the importance of living with purpose.",
+      "audioPath": "/audio/japanese/JLPT_N3_reading_07/r_jp_15.mp3",
+      "audioPathEn": "/audio/japanese/JLPT_N3_reading_07/r_en_15.mp3"
+    },
+    {
+      "japanese": "彼は庭が人生のたとえであることを説明した：慎重に計画されつつも野生であり、美しさととげとが満ちている。",
+      "romanization": "Kare wa niwa ga jinsei no tatoe de aru koto o setsumei shita: shinchō ni keikaku sa retsutsu mo yasei de ari, utsukushisa to toge to ga michite iru.",
+      "translation": "He explained how the garden was a metaphor for life: carefully planned yet wild, full of beauty and thorns.",
+      "audioPath": "/audio/japanese/JLPT_N3_reading_07/r_jp_16.mp3",
+      "audioPathEn": "/audio/japanese/JLPT_N3_reading_07/r_en_16.mp3"
+    },
+    {
+      "japanese": "学ぶことに熱心なユキの手はすぐに達男の指導のもとで働き始めた。",
+      "romanization": "Manabu koto ni nesshin na Yuki no te wa sugu ni Tatsuo no shidō no moto de hataraki hajimeta.",
+      "translation": "Yuki, with hands eager to learn, soon found himself under Tatsuo's tutelage.",
+      "audioPath": "/audio/japanese/JLPT_N3_reading_07/r_jp_17.mp3",
+      "audioPathEn": "/audio/japanese/JLPT_N3_reading_07/r_en_17.mp3"
+    },
+    {
+      "japanese": "引退した侍は彼に藤の剪定の仕方、菊の手入れ、古人の知恵をささやく松の木の言葉を理解する方法を教えた。",
+      "romanization": "Intai shita samurai wa kare ni fuji no sentei no shikata, kiku no teire, korjin no chie o sasayaku matsu no ki no kotoba o rikai suru hōhō o oshieta.",
+      "translation": "The retired samurai taught him how to trim the wisteria, to care for the chrysanthemums, and to understand the language of the pine trees that whispered with the wisdom of the ancients.",
+      "audioPath": "/audio/japanese/JLPT_N3_reading_07/r_jp_18.mp3",
+      "audioPathEn": "/audio/japanese/JLPT_N3_reading_07/r_en_18.mp3"
+    },
+    {
+      "japanese": "季節は変わり、彼らの共同の世話のもとで庭は栄えた。",
+      "romanization": "Kisetsu wa kawari, karera no kyōdō no sewa no moto de niwa wa sakae ta.",
+      "translation": "Seasons changed, and the garden flourished under their joint care.",
+      "audioPath": "/audio/japanese/JLPT_N3_reading_07/r_jp_19.mp3",
+      "audioPathEn": "/audio/japanese/JLPT_N3_reading_07/r_en_19.mp3"
+    },
+    {
+      "japanese": "ユキは理解と技術で成長し、種をまき、石を置くごとに世界の見方が広がった。",
+      "romanization": "Yuki wa rikai to gijutsu de seichō shi, tane o maki, ishi o oku goto ni sekai no mikata ga hirogatta.",
+      "translation": "Yuki grew in understanding and skill, his view of the world expanding with each seed sown and each stone laid.",
+      "audioPath": "/audio/japanese/JLPT_N3_reading_07/r_jp_20.mp3",
+      "audioPathEn": "/audio/japanese/JLPT_N3_reading_07/r_en_20.mp3"
+    },
+    {
+      "japanese": "庭は彼らの絆の証となり、過去と現在が一緒に成長している。",
+      "romanization": "Niwa wa karera no kizuna no akashi to nari, kako to genzai ga issho ni seichō shite iru.",
+      "translation": "The garden became a testament to their bond, a blend of past and present growing together.",
+      "audioPath": "/audio/japanese/JLPT_N3_reading_07/r_jp_21.mp3",
+      "audioPathEn": "/audio/japanese/JLPT_N3_reading_07/r_en_21.mp3"
+    },
+    {
+      "japanese": "年月が過ぎ、庭は頂点に達し、達男の遺産として遠く広く知られるようになった。",
+      "romanization": "Nengetsu ga sugi, niwa wa chōten ni tasshi, Tatsuo no isan to shite tōku hiroku shirareru yō ni natta.",
+      "translation": "As years passed, the garden reached its zenith, becoming known far and wide as Tatsuo's legacy.",
+      "audioPath": "/audio/japanese/JLPT_N3_reading_07/r_jp_22.mp3",
+      "audioPathEn": "/audio/japanese/JLPT_N3_reading_07/r_en_22.mp3"
+    },
+    {
+      "japanese": "そこは歴史が地に根ざし、人生の教訓が豊かに咲く空間だった。",
+      "romanization": "Soko wa rekishi ga chi ni nezashi, jinsei no kyōkun ga yutaka ni saku kūkan datta.",
+      "translation": "It was a space where history was rooted in the earth and where life lessons bloomed in abundance.",
+      "audioPath": "/audio/japanese/JLPT_N3_reading_07/r_jp_23.mp3",
+      "audioPathEn": "/audio/japanese/JLPT_N3_reading_07/r_en_23.mp3"
+    },
+    {
+      "japanese": "そして、達男が最後にはさみを置く時が来たとき、庭は生き続けた。",
+      "romanization": "Soshite, Tatsuo ga saigo ni hasami o oku toki ga kita toki, niwa wa iki tsudzuketa.",
+      "translation": "And when the time came for Tatsuo to lay down his shears for good, the garden lived on.",
+      "audioPath": "/audio/japanese/JLPT_N3_reading_07/r_jp_24.mp3",
+      "audioPathEn": "/audio/japanese/JLPT_N3_reading_07/r_en_24.mp3"
+    },
+    {
+      "japanese": "侍の道を侍の庭の花と葉の中で学んだ若い少年の手に託された遺産として。",
+      "romanization": "Samurai no michi o samurai no niwa no hana to ha no naka de mananda wakai shōnen no te ni takusareta isan to shite.",
+      "translation": "A legacy entrusted to the hands of a young boy who had learned the way of the samurai amidst the petals and leaves of The Samurai's Garden.",
+      "audioPath": "/audio/japanese/JLPT_N3_reading_07/r_jp_25.mp3",
+      "audioPathEn": "/audio/japanese/JLPT_N3_reading_07/r_en_25.mp3"
+    }
+  ]
+}

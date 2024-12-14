@@ -1,0 +1,394 @@
+{
+  "key": "jlpt_n3_reading_10",
+  "title": "A Samurai’s Dilemma",
+  "titleRomaji": "Samurai no Jirenma",
+  "titleJp": "侍のジレンマ",
+  "p_tag": "jlpt_n3",
+  "s_tag": "story",
+  "shortDescription": "A samurai is torn between duty and personal desires, set during the Edo period. The story would offer insight into the societal structure of the time and introduce terms related to samurai life, honor, and moral conflicts, all within the N3 level.",
+  "shortDescriptionRomaji": "Edo jidai ni okareta, gimu to kojin-teki na ganbō no aida de hikisakareta samurai no monogatari. Kono hanashi wa tōji no shakai kōzō e no insight o teikyō shi, samurai no seikatsu, meiyo, soshite dōtoku-teki na kattō ni kanren suru yōgo o, N3 reberu no han'i-nai de shōkai shimasu.",
+  "shortDescriptionJp": "江戸時代に置かれた、義務と個人的な願望の間で引き裂かれた侍の物語。この話は当時の社会構造への洞察を提供し、侍の生活、名誉、そして道徳的な葛藤に関連する用語を、N3レベルの範囲内で紹介します。",
+  "textAudio": "/audio/japanese/JLPT_N3_reading_10/JLPT_N3_jp_reading_10.mp3",
+  "textAudio_1": "/audio/japanese/JLPT_N3_reading_10/JLPT_N3_jp_reading_10.mp3",
+  "textAudioEn": "/audio/japanese/JLPT_N3_reading_10/JLPT_N3_en_reading_10.mp3",
+  "textAudioEn_1": "/audio/japanese/JLPT_N3_reading_10/JLPT_N3_en_reading_10.mp3",
+  "japaneseText": [
+    "江戸時代、侍の生活は厳格な武士道の規範によって支配されていた時代、ひろしという名の若き戦士がいました。彼は慈悲深い大名に仕え、揺るぎない忠誠心と卓越した剣術で知られていました。彼の生活は規律と奉仕のものでしたが、彼は義務と矛盾する個人的な願望を抱いていました。",
+    "ひろしは、商人階級の優しい女性、えみこに恋をしました。彼らの愛は、当時の厳格な階級構造に対する静かな反逆でした。侍として、ひろしの人生は自分自身のものではなく、身分の低い女性との結婚は禁じられていました。えみことの盗まれたひと時は、ひろしの心に喜びと悲しみのタペストリーを織りなしていました。",
+    "賢明で洞察力のある大名は、やがてひろしの態度の変化に気づきました。彼はひろしを主殿に呼び出し、大名の先祖の鎧や旗で飾られた壮大な部屋で話をしました。その空気は畳の香りと歴史の静かな威厳で満たされていました。",
+    "「我が忠実なひろしよ」と大名は始めました。その声には権威と心配がこもっていました。「君の心に何か重荷があるようだ。侍の生き方は、澄んだ心と精神で仕えることだ。何が君を悩ませているのか？」ひろしはひざまずき、頭を垂れました。主君に対する正直さの義務と、えみこを失う恐れとの間で引き裂かれていました。沈黙は、午後の影のように長く伸びるものでした。",
+    "ついに、彼は話しました。声はかすかなささやきに過ぎませんでした。「主君、確かに私の心は乱れています。私は自分の身分にない者に心を捧げてしまいました。しかし、それを引き裂くことは、私の魂を見捨てることになります。」",
+    "大名の視線は厳しくも、非難するものでもありませんでしたが、むしろ反省的でした。「戦士の道は厳しいものだ、ひろし。私たちは義務と名誉のために個人的な願望を犠牲にする。しかし、心は体が剣に屈するように容易く法には屈しない。」彼は言葉を選びながら一時停止しました。「私は君の心を命じることはできないが、君の忠誠心を命じる必要がある。君は簡単な道がないジレンマに直面している。」",
+    "ひろしの葛藤は、多くの侍が直面した内面的な戦いの象徴でした。彼の個人的な願望は、彼の地位の厳格な期待と矛盾していました。大名は彼に選択を提供しました。愛への主張を放棄して侍としての孤独な人生を受け入れるか、彼の称号を放棄してえみこと共に平民として生きるか。",
+    "大名の広間の静けさの中で、先祖たちのこだまに囲まれて、ひろしは彼の名誉の真の試練が、彼の欲望を抑えることではなく、自分にとって正しい道を選ぶ勇気にあることに気づきました。ひろしの選択の物語は、桜の花の間で代々ささやかれることになります。愛、義務、そしてその二つの間の繊細なバランスの物語として。"
+  ],
+  "romanizedText": [
+    "Edo jidai, samurai no seikatsu wa genkaku na bushidō no kihan ni yotte shihai sarete ita jidai, Hiroshi to iu na no wakaki senshi ga imashita. Kare wa jihideepu na daimyō ni tsukaete, yuruginai chūsei-shin to tōetsu shita kenshutsu de shirarete imashita. Kare no seikatsu wa kiritsu to hōshi no mono deshita ga, kare wa gimu to mujun suru kojin-teki na ganbō o idaite imashita.",
+    "Hiroshi wa, shōnin kaikyū no yasashii josei, Emiko ni koi o shimashita. Karera no ai wa, tōji no genkaku na kaikyū kōzō ni taisuru shizuka na hangyaku deshita. Samurai toshite, Hiroshi no jinsei wa jibun jishin no mono dewa nakute, mibun no hikui josei to no kekkon wa kinjirarete imashita. Emiko to no nusumareta hitotoki wa, Hiroshi no kokoro ni yorokobi to kanashimi no tapestry o orinashite imashita.",
+    "Kenmei de dōsatsu-ryoku no aru daimyō wa, yagate Hiroshi no taido no henka ni kizukimashita. Kare wa Hiroshi o shuden ni yobidashi, daimyō no senzo no yoroi ya hata de kazaru sareta sōdai na heya de hanashi o shimashita. Sono kūki wa tatami no kaori to rekishi no shizuka na igi de mitasarete imashita.",
+    "'Waga chūjitsu na Hiroshi yo,' to daimyō wa hajimemashita. Sono koe ni wa ken'i to shinpai ga komotte imashita. 'Kimi no kokoro ni nanika jūka ga aru yō da. Samurai no ikikata wa, sunda kokoro to seishin de tsukaeru koto da. Nani ga kimi o nayamasete iru no ka?' Hiroshi wa hizamazuki, atama o tare mashita. Shukun ni tai suru shōjiki-sa no gimu to, Emiko o ushinau osore to no aida de hikisakarete imashita. Chinmoku wa, gogo no kage no yō ni nagaku nobiru mono deshita.",
+    "Tsui ni, kare wa hanashimashita. Koe wa kasukana sasayaki ni sugimasen deshita. 'Shukun, tashika ni watashi no kokoro wa midarete imasu. Watashi wa jibun no mibun ni nai mono ni kokoro o sasagete shimaimashita. Shikashi, sore o hikisaku koto wa, watashi no tamashii o misuteru koto ni narimasu.'",
+    "Daimyō no shisen wa kibishiku mo, hinan suru mono demo arimasen deshita ga, mushiro hansei-teki deshita. 'Senshi no michi wa kibishii mono da, Hiroshi. Watashitachi wa gimu to meiyo no tame ni kojin-teki na ganbō o gisei ni suru. Shikashi, kokoro wa tai ga ken ni kutsu suru yō ni yasuku hō ni wa kutsu shinai.' Kare wa kotoba o erabinagara ichiji teishi shimashita. 'Watashi wa kimi no kokoro o meijiru koto wa dekinai ga, kimi no chūsei-shin o meijiru hitsuyō ga aru. Kimi wa kantan na michi ga nai jirenma ni chokumen shite iru.'",
+    "Hiroshi no kattō wa, ōku no samurai ga chokumen shita naibu-teki na tatakai no shōchō deshita. Kare no kojin-teki na ganbō wa, kare no chii no genkaku na kitai to mujun shite imashita. Daimyō wa kare ni sentaku o teikyō shimashita. Ai e no shuchō o hōki shite samurai toshite no kodoku na jinsei o ukeireru ka, kare no shōgō o hōki shite Emiko to tomo ni heimin to shite ikiru ka.",
+    "Daimyō no hiromajō no shizukesa no naka de, senzo-tachi no kodama ni kakomarete, Hiroshi wa kare no meiyo no shin no shiren ga, kare no yokubō o osaeru koto de wa naku, jibun ni totte tadashī michi o erabu yūki ni aru koto ni kizukimashita. Hiroshi no sentaku no monogatari wa, sakura no hana no aida de daidai sasayakareru koto ni narimasu. Ai, gimu, soshite sono futatsu no aida no sensai na baransu no monogatari to shite."
+  ],
+  "englishTranslation": [
+    "In the Edo period, when the life of a samurai was governed by the strict code of bushido, there lived a young warrior named Hiroshi. He served a benevolent daimyo and was known for his unwavering loyalty and exceptional swordsmanship. His life was one of discipline and service, but Hiroshi harbored a personal desire that conflicted with his duty.",
+    "Hiroshi had fallen in love with Emiko, a gentle woman of the merchant class. Their love was a silent rebellion against the rigid class structures of the time. As a samurai, Hiroshi's life was not his own, and marrying a woman of lower status was forbidden. Each stolen moment with Emiko was a thread weaving a tapestry of joy and sorrow in Hiroshi's heart.",
+    "The daimyo, wise and perceptive, eventually noticed a change in Hiroshi's demeanor. He summoned Hiroshi to the main hall, a grand room adorned with the daimyo's ancestral armor and banners. The air was filled with the scent of tatami and the quiet dignity of history.",
+    "'My loyal Hiroshi,' the daimyo began, his voice resonating with authority and concern, 'I sense your spirit is troubled. A samurai's life is to serve with a clear mind and heart. What weighs upon you?' Hiroshi knelt, his head bowed, torn between his duty to be honest with his lord and the fear of losing Emiko. The silence stretched like the shadow of an afternoon, long and lingering. ",
+    "Finally, he spoke, his voice barely above a whisper, 'My lord, my heart is indeed in turmoil. I have given it to one who is not of my standing, and yet, I cannot withdraw it without forsaking my very soul.'",
+    "The daimyo's gaze was neither harsh nor judgmental, but rather, reflective. 'The way of the warrior is harsh, Hiroshi. We sacrifice personal desires for duty and honor. Yet, the heart does not bend to laws as easily as the body bows to the sword.' He paused, choosing his words with care, 'I cannot command your heart, but I must command your loyalty. You stand before a dilemma that has no easy path.'",
+    "Hiroshi's struggle was emblematic of the internal battles many samurai faced—his personal desires at odds with the rigid expectations of his station. The daimyo offered him a choice: relinquish his claim to love and embrace the solitary life of a samurai, or renounce his title and live as a commoner with Emiko.",
+    "In the stillness of the daimyo's hall, surrounded by the echoes of his ancestors, Hiroshi realized that the true test of his honor was not in the suppression of his desires, but in the courage to choose a path that was right for him. The story of Hiroshi's choice would be whispered among the cherry blossoms for generations, a tale of love, duty, and the delicate balance between the two."
+  ],
+  "readingVocabulary": [
+    "江戸時代 (えどじだい) - Edo jidai - Edo period",
+    "武士道 (ぶしどう) - Bushidō - Way of the warrior/Samurai code",
+    "規範 (きはん) - Kihan - Norms, standards",
+    "慈悲深い (じひぶかい) - Jihī bukai - Benevolent, compassionate",
+    "忠誠心 (ちゅうせいしん) - Chūsei-shin - Loyalty",
+    "卓越 (たくえつ) - Takūetsu - Excellence",
+    "剣術 (けんじゅつ) - Kenjutsu - Swordsmanship",
+    "義務 (ぎむ) - Gimu - Duty, obligation",
+    "矛盾 (むじゅん) - Mujun - Contradiction",
+    "商人階級 (しょうにんかいきゅう) - Shōnin kaikyū - Merchant class",
+    "反逆 (はんぎゃく) - Hangyaku - Rebellion",
+    "身分 (みぶん) - Mibun - Social status",
+    "賢明 (けんめい) - Kenmei - Wisdom, sagacity",
+    "洞察力 (どうさつりょく) - Dōsatsu-ryoku - Insight, perceptiveness",
+    "権威 (けんい) - Ken'i - Authority",
+    "重荷 (じゅうか) - Jūka - Burden",
+    "澄んだ (すんだ) - Sunda - Clear, pure",
+    "精神 (せいしん) - Seishin - Mind, spirit",
+    "正直 (しょうじき) - Shōjiki - Honesty",
+    "沈黙 (ちんもく) - Chinmoku - Silence",
+    "乱れる (みだれる) - Midareru - To be disturbed, disordered",
+    "捧げる (ささげる) - Sasageru - To devote, offer",
+    "非難 (ひなん) - Hinan - Criticism, blame",
+    "反省的 (はんせいてき) - Hansei-teki - Reflective, introspective",
+    "犠牲 (ぎせい) - Gisei - Sacrifice",
+    "屈する (くっする) - Kutsu suru - To yield, submit",
+    "葛藤 (かっとう) - Kattō - Conflict, struggle",
+    "選択 (せんたく) - Sentaku - Choice, selection",
+    "広間 (ひろま) - Hiroma - Hall, large room",
+    "先祖 (せんぞ) - Senzo - Ancestors"
+  ],
+  "readingVocabularyEn": [
+    "Governed (支配された) - 政治や規則によって統制された状態。",
+    "Bushido (武士道) - 日本の武士の道徳的な原則や行動規範。",
+    "Benevolent (慈悲深い) - 思いやりがあり、親切な。",
+    "Unwavering (揺るぎない) - 堅固で、揺るがない。",
+    "Exceptional (卓越した) - 通常より優れている、例外的な。",
+    "Discipline (規律) - 規則正しい行動や秩序。",
+    "Harbored (抱いていた) - 心に秘めている、持続させる。",
+    "Merchant class (商人階級) - 商業に従事する人々の社会的階層。",
+    "Rebellion (反逆) - 抵抗や反乱、反対行動。",
+    "Rigid (厳格な) - 厳しい、柔軟性のない。",
+    "Forbidden (禁じられた) - 許されていない、禁止された。",
+    "Tapestry (タペストリー) - 織物の芸術作品、複雑な構造や模様。",
+    "Perceptive (洞察力のある) - 洞察力がある、鋭敏な。",
+    "Ancestral (先祖の) - 先祖からの、系譜上の。",
+    "Dignity (威厳) - 尊厳、威厳。",
+    "Resonating (共鳴する) - 共感を呼ぶ、影響を与える。",
+    "Turmoil (乱れ) - 混乱や動揺の状態。",
+    "Forsaking (見捨てる) - 放棄する、見捨てる。",
+    "Reflective (反省的な) - 思慮深い、内省的な。",
+    "Sacrifice (犠牲) - 何かを犠牲にすること、捧げること。",
+    "Dilemma (ジレンマ) - 二つの困難な選択肢の間の窮地。",
+    "Emblematic (象徴的な) - あることを象徴する、代表する。",
+    "Relinquish (放棄する) - 手放す、諦める。",
+    "Renounce (放棄する) - 正式に放棄する、捨てる。",
+    "Commoner (平民) - 一般市民、貴族以外の人。",
+    "Suppression (抑圧) - 制圧、抑制。",
+    "Courage (勇気) - 勇敢さ、勇気。",
+    "Whispered (ささやかれた) - ひそひそと話す、ささやく。",
+    "Delicate (繊細な) - 繊細で、微妙な。",
+    "Balance (バランス) - 均衡、バランス。"
+  ],
+  "readingGrammar": [
+    "されていた (されていた) - This is the past passive form of the verb する (to do). It indicates something that was being done or was in a certain state in the past. For example, '支配されていた' (shihai sarete ita) means 'was being dominated' or 'was under control.'",
+    "という (という) - This is a common Japanese construction used to indicate a name or a title. It's akin to 'called' or 'named' in English. For instance, 'ひろしという名の' (Hiroshi to iu na no) translates to 'a young warrior named Hiroshi.'",
+    "抱いていました (いだいていました) - This is the past tense of the verb 抱く (idaku), meaning 'to embrace' or 'to hold,' but also used metaphorically to mean 'to have' or 'to harbor' (feelings, thoughts, etc.). So, '抱いていました' (idaite imashita) means 'had' or 'harbored.'",
+    "に対する (にたいする) - This phrase indicates an action or feeling directed towards something or someone. For example, '階級構造に対する' (kaikyū kōzō ni taisuru) translates to 'against the class structure.'",
+    "ない者に (ないものに) - This construction, using ない (nai, the negative form of ある, to be/exist) followed by 者 (mono, person), indicates a person who does not possess a certain quality or status. In this context, '身分にない者' (mibun ni nai mono) means 'a person who is not of my status.'",
+    "てしまいました (てしまいました) - The verb ending しまう (shimau) indicates the completion of an action, often with a sense of regret or finality. Here, '捧げてしまいました' (sasagete shimaimashita) means 'have completely given' or 'ended up giving.'",
+    "として (として) - This is used to indicate a role or capacity in which someone or something functions. For example, '侍として' (samurai toshite) means 'as a samurai.'",
+    "たちの (たちの) - The suffix たち (tachi) is used to pluralize or indicate a group. In this text, '先祖たちの' (senzo-tachi no) refers to 'the ancestors.'",
+    "によって (によって) - This is a common construction used to indicate the means or agent by which something is done. '規範によって' (kihan ni yotte) translates to 'by the code.'",
+    "との間で (とのあいだで) - This phrase indicates a state or action existing between two entities. For example, '正直さの義務と、えみこを失う恐れとの間で' (shōjiki-sa no gimu to, Emiko o ushinau osore to no aida de) means 'between the duty of honesty and the fear of losing Emiko.'"
+  ],
+  "readingGrammarEn": [
+    "'was governed by' (〜によって支配された) - これは受動態の過去形です。何かが特定の原則や規則によって支配されていたことを示します。",
+    "'there lived' (〜が住んでいた) - これは過去の状態を表す表現で、特定の時期に誰かが住んでいたことを示します。",
+    "'was known for' (〜で知られていた) - これも受動態の過去形で、誰かが特定の理由や特徴で知られていたことを示します。",
+    "'had fallen in love with' (〜と恋に落ちていた) - これは過去完了形を使った表現で、過去のある時点で恋に落ちていたことを示します。",
+    "'was forbidden' (禁じられていた) - これは受動態の過去形で、何かが許されていなかったことを示します。",
+    "'was filled with' (〜で満たされていた) - これは受動態の過去形で、何かが特定のもので満たされていた状態を示します。",
+    "'torn between' (〜と〜の間で引き裂かれた) - これは「〜と〜の間で決断できない」状態を表す表現です。",
+    "'barely above a whisper' (かすかなささやき以上に) - これは「非常に静かな声」を表す表現で、ほとんど聞こえないほどの静かな声のことを言います。",
+    "'was neither harsh nor judgmental' (厳しくも批判的でもなかった) - これは二つの否定を使った表現で、どちらの特徴も持っていないことを示します。",
+    "'at odds with' (〜と矛盾して) - これは「〜と対立する」または「〜と矛盾する」ことを表す表現です。"
+  ],
+  "sentencePayload": [
+    {
+      "japanese": "江戸時代、侍の生活は厳格な武士道の規範によって支配されていた時代、ひろしという名の若き戦士がいました。",
+      "romanization": "Edo jidai, samurai no seikatsu wa genkaku na bushidō no kihan ni yotte shihai sarete ita jidai, Hiroshi to iu na no wakaki senshi ga imashita.",
+      "translation": "In the Edo period, when the life of a samurai was governed by the strict code of bushido, there lived a young warrior named Hiroshi.",
+      "audioPath": "/audio/japanese/JLPT_N3_reading_10/r_jp_01.mp3",
+      "audioPathEn": "/audio/japanese/JLPT_N3_reading_10/r_en_01.mp3"
+    },
+    {
+      "japanese": "彼は慈悲深い大名に仕え、揺るぎない忠誠心と卓越した剣術で知られていました。",
+      "romanization": "Kare wa jihideepu na daimyō ni tsukaete, yuruginai chūsei-shin to tōetsu shita kenshutsu de shirarete imashita.",
+      "translation": "He served a benevolent daimyo and was known for his unwavering loyalty and exceptional swordsmanship.",
+      "audioPath": "/audio/japanese/JLPT_N3_reading_10/r_jp_02.mp3",
+      "audioPathEn": "/audio/japanese/JLPT_N3_reading_10/r_en_02.mp3"
+    },
+    {
+      "japanese": "彼の生活は規律と奉仕のものでしたが、彼は義務と矛盾する個人的な願望を抱いていました。",
+      "romanization": "Kare no seikatsu wa kiritsu to hōshi no mono deshita ga, kare wa gimu to mujun suru kojin-teki na ganbō o idaite imashita.",
+      "translation": "His life was one of discipline and service, but Hiroshi harbored a personal desire that conflicted with his duty.",
+      "audioPath": "/audio/japanese/JLPT_N3_reading_10/r_jp_03.mp3",
+      "audioPathEn": "/audio/japanese/JLPT_N3_reading_10/r_en_03.mp3"
+    },
+    {
+      "japanese": "ひろしは、商人階級の優しい女性、えみこに恋をしました。",
+      "romanization": "Hiroshi wa, shōnin kaikyū no yasashii josei, Emiko ni koi o shimashita.",
+      "translation": "Hiroshi had fallen in love with Emiko, a gentle woman of the merchant class.",
+      "audioPath": "/audio/japanese/JLPT_N3_reading_10/r_jp_04.mp3",
+      "audioPathEn": "/audio/japanese/JLPT_N3_reading_10/r_en_04.mp3"
+    },
+    {
+      "japanese": "彼らの愛は、当時の厳格な階級構造に対する静かな反逆でした。",
+      "romanization": "Karera no ai wa, tōji no genkaku na kaikyū kōzō ni taisuru shizuka na hangyaku deshita.",
+      "translation": "Their love was a silent rebellion against the rigid class structures of the time.",
+      "audioPath": "/audio/japanese/JLPT_N3_reading_10/r_jp_05.mp3",
+      "audioPathEn": "/audio/japanese/JLPT_N3_reading_10/r_en_05.mp3"
+    },
+    {
+      "japanese": "侍として、ひろしの人生は自分自身のものではなく、身分の低い女性との結婚は禁じられていました。",
+      "romanization": "Samurai toshite, Hiroshi no jinsei wa jibun jishin no mono dewa nakute, mibun no hikui josei to no kekkon wa kinjirarete imashita.",
+      "translation": "As a samurai, Hiroshi's life was not his own, and marrying a woman of lower status was forbidden.",
+      "audioPath": "/audio/japanese/JLPT_N3_reading_10/r_jp_06.mp3",
+      "audioPathEn": "/audio/japanese/JLPT_N3_reading_10/r_en_06.mp3"
+    },
+    {
+      "japanese": "えみことの盗まれたひと時は、ひろしの心に喜びと悲しみのタペストリーを織りなしていました。",
+      "romanization": "Emiko to no nusumareta hitotoki wa, Hiroshi no kokoro ni yorokobi to kanashimi no tapestry o orinashite imashita.",
+      "translation": "Each stolen moment with Emiko was a thread weaving a tapestry of joy and sorrow in Hiroshi's heart.",
+      "audioPath": "/audio/japanese/JLPT_N3_reading_10/r_jp_07.mp3",
+      "audioPathEn": "/audio/japanese/JLPT_N3_reading_10/r_en_07.mp3"
+    },
+    {
+      "japanese": "賢明で洞察力のある大名は、やがてひろしの態度の変化に気づきました。",
+      "romanization": "Kenmei de dōsatsu-ryoku no aru daimyō wa, yagate Hiroshi no taido no henka ni kizukimashita.",
+      "translation": "The daimyo, wise and perceptive, eventually noticed a change in Hiroshi's demeanor.",
+      "audioPath": "/audio/japanese/JLPT_N3_reading_10/r_jp_08.mp3",
+      "audioPathEn": "/audio/japanese/JLPT_N3_reading_10/r_en_08.mp3"
+    },
+    {
+      "japanese": "彼はひろしを主殿に呼び出し、大名の先祖の鎧や旗で飾られた壮大な部屋で話をしました。",
+      "romanization": "Kare wa Hiroshi o shuden ni yobidashi, daimyō no senzo no yoroi ya hata de kazaru sareta sōdai na heya de hanashi o shimashita.",
+      "translation": "He summoned Hiroshi to the main hall, a grand room adorned with the daimyo's ancestral armor and banners.",
+      "audioPath": "/audio/japanese/JLPT_N3_reading_10/r_jp_09.mp3",
+      "audioPathEn": "/audio/japanese/JLPT_N3_reading_10/r_en_09.mp3"
+    },
+    {
+      "japanese": "その空気は畳の香りと歴史の静かな威厳で満たされていました。",
+      "romanization": "Sono kūki wa tatami no kaori to rekishi no shizuka na igi de mitasarete imashita.",
+      "translation": "The air was filled with the scent of tatami and the quiet dignity of history.",
+      "audioPath": "/audio/japanese/JLPT_N3_reading_10/r_jp_10.mp3",
+      "audioPathEn": "/audio/japanese/JLPT_N3_reading_10/r_en_10.mp3"
+    },
+    {
+      "japanese": "「我が忠実なひろしよ」と大名は始めました。",
+      "romanization": "'Waga chūjitsu na Hiroshi yo,' to daimyō wa hajimemashita.",
+      "translation": "'My loyal Hiroshi,' the daimyo began.",
+      "audioPath": "/audio/japanese/JLPT_N3_reading_10/r_jp_11.mp3",
+      "audioPathEn": "/audio/japanese/JLPT_N3_reading_10/r_en_11.mp3"
+    },
+    {
+      "japanese": "その声には権威と心配がこもっていました。",
+      "romanization": "Sono koe ni wa ken'i to shinpai ga komotte imashita.",
+      "translation": "His voice resonating with authority and concern.",
+      "audioPath": "/audio/japanese/JLPT_N3_reading_10/r_jp_12.mp3",
+      "audioPathEn": "/audio/japanese/JLPT_N3_reading_10/r_en_12.mp3"
+    },
+    {
+      "japanese": "「君の心に何か重荷があるようだ。",
+      "romanization": "'Kimi no kokoro ni nanika jūka ga aru yō da.",
+      "translation": "'I sense your spirit is troubled.",
+      "audioPath": "/audio/japanese/JLPT_N3_reading_10/r_jp_13.mp3",
+      "audioPathEn": "/audio/japanese/JLPT_N3_reading_10/r_en_13.mp3"
+    },
+    {
+      "japanese": "侍の生き方は、澄んだ心と精神で仕えることだ。",
+      "romanization": "Samurai no ikikata wa, sunda kokoro to seishin de tsukaeru koto da.",
+      "translation": "A samurai's life is to serve with a clear mind and heart.",
+      "audioPath": "/audio/japanese/JLPT_N3_reading_10/r_jp_14.mp3",
+      "audioPathEn": "/audio/japanese/JLPT_N3_reading_10/r_en_14.mp3"
+    },
+    {
+      "japanese": "何が君を悩ませているのか？」",
+      "romanization": "Nani ga kimi o nayamasete iru no ka?'",
+      "translation": "What weighs upon you?'",
+      "audioPath": "/audio/japanese/JLPT_N3_reading_10/r_jp_15.mp3",
+      "audioPathEn": "/audio/japanese/JLPT_N3_reading_10/r_en_15.mp3"
+    },
+    {
+      "japanese": "ひろしはひざまずき、頭を垂れました。",
+      "romanization": "Hiroshi wa hizamazuki, atama o tare mashita.",
+      "translation": "Hiroshi knelt, his head bowed.",
+      "audioPath": "/audio/japanese/JLPT_N3_reading_10/r_jp_16.mp3",
+      "audioPathEn": "/audio/japanese/JLPT_N3_reading_10/r_en_16.mp3"
+    },
+    {
+      "japanese": "主君に対する正直さの義務と、えみこを失う恐れとの間で引き裂かれていました。",
+      "romanization": "Shukun ni tai suru shōjiki-sa no gimu to, Emiko o ushinau osore to no aida de hikisakarete imashita.",
+      "translation": "Torn between his duty to be honest with his lord and the fear of losing Emiko.",
+      "audioPath": "/audio/japanese/JLPT_N3_reading_10/r_jp_17.mp3",
+      "audioPathEn": "/audio/japanese/JLPT_N3_reading_10/r_en_17.mp3"
+    },
+    {
+      "japanese": "沈黙は、午後の影のように長く伸びるものでした。",
+      "romanization": "Chinmoku wa, gogo no kage no yō ni nagaku nobiru mono deshita.",
+      "translation": "The silence stretched like the shadow of an afternoon, long and lingering.",
+      "audioPath": "/audio/japanese/JLPT_N3_reading_10/r_jp_18.mp3",
+      "audioPathEn": "/audio/japanese/JLPT_N3_reading_10/r_en_18.mp3"
+    },
+    {
+      "japanese": "ついに、彼は話しました。",
+      "romanization": "Tsui ni, kare wa hanashimashita.",
+      "translation": "Finally, he spoke.",
+      "audioPath": "/audio/japanese/JLPT_N3_reading_10/r_jp_19.mp3",
+      "audioPathEn": "/audio/japanese/JLPT_N3_reading_10/r_en_19.mp3"
+    },
+    {
+      "japanese": "声はかすかなささやきに過ぎませんでした。",
+      "romanization": "Koe wa kasukana sasayaki ni sugimasen deshita.",
+      "translation": "His voice barely above a whisper.",
+      "audioPath": "/audio/japanese/JLPT_N3_reading_10/r_jp_20.mp3",
+      "audioPathEn": "/audio/japanese/JLPT_N3_reading_10/r_en_20.mp3"
+    },
+    {
+      "japanese": "「主君、確かに私の心は乱れています。",
+      "romanization": "'Shukun, tashika ni watashi no kokoro wa midarete imasu.",
+      "translation": "'My lord, my heart is indeed in turmoil.",
+      "audioPath": "/audio/japanese/JLPT_N3_reading_10/r_jp_21.mp3",
+      "audioPathEn": "/audio/japanese/JLPT_N3_reading_10/r_en_21.mp3"
+    },
+    {
+      "japanese": "私は自分の身分にない者に心を捧げてしまいました。",
+      "romanization": "Watashi wa jibun no mibun ni nai mono ni kokoro o sasagete shimaimashita.",
+      "translation": "I have given it to one who is not of my standing.",
+      "audioPath": "/audio/japanese/JLPT_N3_reading_10/r_jp_22.mp3",
+      "audioPathEn": "/audio/japanese/JLPT_N3_reading_10/r_en_22.mp3"
+    },
+    {
+      "japanese": "しかし、それを引き裂くことは、私の魂を見捨てることになります。」",
+      "romanization": "Shikashi, sore o hikisaku koto wa, watashi no tamashii o misuteru koto ni narimasu.'",
+      "translation": "And yet, I cannot withdraw it without forsaking my very soul.'",
+      "audioPath": "/audio/japanese/JLPT_N3_reading_10/r_jp_23.mp3",
+      "audioPathEn": "/audio/japanese/JLPT_N3_reading_10/r_en_23.mp3"
+    },
+    {
+      "japanese": "大名の視線は厳しくも、非難するものでもありませんでしたが、むしろ反省的でした。",
+      "romanization": "Daimyō no shisen wa kibishiku mo, hinan suru mono demo arimasen deshita ga, mushiro hansei-teki deshita.",
+      "translation": "The daimyo's gaze was neither harsh nor judgmental, but rather, reflective.",
+      "audioPath": "/audio/japanese/JLPT_N3_reading_10/r_jp_24.mp3",
+      "audioPathEn": "/audio/japanese/JLPT_N3_reading_10/r_en_24.mp3"
+    },
+    {
+      "japanese": "「戦士の道は厳しいものだ、ひろし。",
+      "romanization": "'Senshi no michi wa kibishii mono da, Hiroshi.",
+      "translation": "'The way of the warrior is harsh, Hiroshi.",
+      "audioPath": "/audio/japanese/JLPT_N3_reading_10/r_jp_25.mp3",
+      "audioPathEn": "/audio/japanese/JLPT_N3_reading_10/r_en_25.mp3"
+    },
+    {
+      "japanese": "私たちは義務と名誉のために個人的な願望を犠牲にする。",
+      "romanization": "Watashitachi wa gimu to meiyo no tame ni kojin-teki na ganbō o gisei ni suru.",
+      "translation": "We sacrifice personal desires for duty and honor.",
+      "audioPath": "/audio/japanese/JLPT_N3_reading_10/r_jp_26.mp3",
+      "audioPathEn": "/audio/japanese/JLPT_N3_reading_10/r_en_26.mp3"
+    },
+    {
+      "japanese": "しかし、心は体が剣に屈するように容易く法には屈しない。",
+      "romanization": "Shikashi, kokoro wa tai ga ken ni kutsu suru yō ni yasuku hō ni wa kutsu shinai.",
+      "translation": "Yet, the heart does not bend to laws as easily as the body bows to the sword.",
+      "audioPath": "/audio/japanese/JLPT_N3_reading_10/r_jp_27.mp3",
+      "audioPathEn": "/audio/japanese/JLPT_N3_reading_10/r_en_27.mp3"
+    },
+    {
+      "japanese": "彼は言葉を選びながら一時停止しました。",
+      "romanization": "Kare wa kotoba o erabinagara ichiji teishi shimashita.",
+      "translation": "He paused, choosing his words with care.",
+      "audioPath": "/audio/japanese/JLPT_N3_reading_10/r_jp_28.mp3",
+      "audioPathEn": "/audio/japanese/JLPT_N3_reading_10/r_en_28.mp3"
+    },
+    {
+      "japanese": "「私は君の心を命じることはできないが、君の忠誠心を命じる必要がある。",
+      "romanization": "'Watashi wa kimi no kokoro o meijiru koto wa dekinai ga, kimi no chūsei-shin o meijiru hitsuyō ga aru.",
+      "translation": "'I cannot command your heart, but I must command your loyalty.",
+      "audioPath": "/audio/japanese/JLPT_N3_reading_10/r_jp_29.mp3",
+      "audioPathEn": "/audio/japanese/JLPT_N3_reading_10/r_en_29.mp3"
+    },
+    {
+      "japanese": "君は簡単な道がないジレンマに直面している。",
+      "romanization": "Kimi wa kantan na michi ga nai jirenma ni chokumen shite iru.",
+      "translation": "You stand before a dilemma that has no easy path.'",
+      "audioPath": "/audio/japanese/JLPT_N3_reading_10/r_jp_30.mp3",
+      "audioPathEn": "/audio/japanese/JLPT_N3_reading_10/r_en_30.mp3"
+    },
+    {
+      "japanese": "ひろしの葛藤は、多くの侍が直面した内面的な戦いの象徴でした。",
+      "romanization": "Hiroshi no kattō wa, ōku no samurai ga chokumen shita naibu-teki na tatakai no shōchō deshita.",
+      "translation": "Hiroshi's struggle was emblematic of the internal battles many samurai faced.",
+      "audioPath": "/audio/japanese/JLPT_N3_reading_10/r_jp_31.mp3",
+      "audioPathEn": "/audio/japanese/JLPT_N3_reading_10/r_en_31.mp3"
+    },
+    {
+      "japanese": "彼の個人的な願望は、彼の地位の厳格な期待と矛盾していました。",
+      "romanization": "Kare no kojin-teki na ganbō wa, kare no chii no genkaku na kitai to mujun shite imashita.",
+      "translation": "His personal desires at odds with the rigid expectations of his station.",
+      "audioPath": "/audio/japanese/JLPT_N3_reading_10/r_jp_32.mp3",
+      "audioPathEn": "/audio/japanese/JLPT_N3_reading_10/r_en_32.mp3"
+    },
+    {
+      "japanese": "大名は彼に選択を提供しました。",
+      "romanization": "Daimyō wa kare ni sentaku o teikyō shimashita.",
+      "translation": "The daimyo offered him a choice.",
+      "audioPath": "/audio/japanese/JLPT_N3_reading_10/r_jp_33.mp3",
+      "audioPathEn": "/audio/japanese/JLPT_N3_reading_10/r_en_33.mp3"
+    },
+    {
+      "japanese": "愛への主張を放棄して侍としての孤独な人生を受け入れるか、彼の称号を放棄してえみこと共に平民として生きるか。",
+      "romanization": "Ai e no shuchō o hōki shite samurai toshite no kodoku na jinsei o ukeireru ka, kare no shōgō o hōki shite Emiko to tomo ni heimin to shite ikiru ka.",
+      "translation": "Relinquish his claim to love and embrace the solitary life of a samurai, or renounce his title and live as a commoner with Emiko.",
+      "audioPath": "/audio/japanese/JLPT_N3_reading_10/r_jp_34.mp3",
+      "audioPathEn": "/audio/japanese/JLPT_N3_reading_10/r_en_34.mp3"
+    },
+    {
+      "japanese": "大名の広間の静けさの中で、先祖たちのこだまに囲まれて、ひろしは彼の名誉の真の試練が、彼の欲望を抑えることではなく、自分にとって正しい道を選ぶ勇気にあることに気づきました。",
+      "romanization": "Daimyō no hiromajō no shizukesa no naka de, senzo-tachi no kodama ni kakomarete, Hiroshi wa kare no meiyo no shin no shiren ga, kare no yokubō o osaeru koto de wa naku, jibun ni totte tadashī michi o erabu yūki ni aru koto ni kizukimashita.",
+      "translation": "In the stillness of the daimyo's hall, surrounded by the echoes of his ancestors, Hiroshi realized that the true test of his honor was not in the suppression of his desires, but in the courage to choose a path that was right for him.",
+      "audioPath": "/audio/japanese/JLPT_N3_reading_10/r_jp_35.mp3",
+      "audioPathEn": "/audio/japanese/JLPT_N3_reading_10/r_en_35.mp3"
+    },
+    {
+      "japanese": "ひろしの選択の物語は、桜の花の間で代々ささやかれることになります。",
+      "romanization": "Hiroshi no sentaku no monogatari wa, sakura no hana no aida de daidai sasayakareru koto ni narimasu.",
+      "translation": "The story of Hiroshi's choice would be whispered among the cherry blossoms for generations.",
+      "audioPath": "/audio/japanese/JLPT_N3_reading_10/r_jp_36.mp3",
+      "audioPathEn": "/audio/japanese/JLPT_N3_reading_10/r_en_36.mp3"
+    },
+    {
+      "japanese": "愛、義務、そしてその二つの間の繊細なバランスの物語として。",
+      "romanization": "Ai, gimu, soshite sono futatsu no aida no sensai na baransu no monogatari to shite.",
+      "translation": "A tale of love, duty, and the delicate balance between the two.",
+      "audioPath": "/audio/japanese/JLPT_N3_reading_10/r_jp_37.mp3",
+      "audioPathEn": "/audio/japanese/JLPT_N3_reading_10/r_en_37.mp3"
+    }
+  ]
+}

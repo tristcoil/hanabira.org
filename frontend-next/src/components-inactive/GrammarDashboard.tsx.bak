@@ -1,0 +1,753 @@
+import React from "react";
+import {
+  DashboardHead,
+  DashboardNav,
+  DashboardSidebar,
+  ItemsSentences,
+} from "../components";
+import { CategoriesHeader, Category, Footer, Nav } from "../components";
+
+import { useState, useEffect } from "react";
+import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
+import { faPlayCircle } from "@fortawesome/free-solid-svg-icons";
+
+import { useParams } from "react-router-dom";
+
+import { Grid, Row, Col } from "react-flexbox-grid";
+import "./GrammarCard.css";
+
+import Accordion from "@mui/material/Accordion";
+import AccordionSummary from "@mui/material/AccordionSummary";
+import AccordionDetails from "@mui/material/AccordionDetails";
+import Typography from "@mui/material/Typography";
+import ExpandMoreIcon from "@mui/icons-material/ExpandMore";
+
+import axios from "axios";
+
+type GrammarCardProps = {
+  _id: any;
+  title: string;
+  short_explanation: string;
+  long_explanation: string;
+  formation: string;
+  p_tag: string;
+  s_tag: any;
+  examples: {
+    jp: string;
+    romaji: string;
+    en: string;
+    grammar_audio: string;
+  }[];
+};
+
+const GrammarCard: React.FC<GrammarCardProps> = (props) => {
+  const [audio, setAudio] = useState<HTMLAudioElement | null>(null);
+
+  useEffect(() => {
+    return () => {
+      if (audio) {
+        audio.pause();
+      }
+    };
+  }, [audio]);
+
+  const handlePlayAudio = (audioSrc: string) => {
+    if (audio) {
+      audio.pause();
+    }
+
+    const newAudio = new Audio(audioSrc);
+    newAudio.play();
+    setAudio(newAudio);
+  };
+
+  return (
+    <div className="grammar-card">
+      <div className="grammar-card__title">{props.title}</div>
+      <div className="grammar-card__grid">
+        <p className="font-bold">Short explanation:</p>
+        <div className="grammar-card__explanation">
+          {props.short_explanation}
+        </div>
+
+        <p className="font-bold">Formation:</p>
+        <div className="grammar-card__formation">{props.formation}</div>
+
+        <div>
+          <p className="font-bold">Examples:</p>
+          <div className="grammar-card__examples">
+            {props.examples.map((example, index) => (
+              <div key={index} className="grammar-card__example">
+                <div className="grammar-card__example-jp">
+                  <FontAwesomeIcon
+                    icon={faPlayCircle}
+                    className="grammar-card__audio-icon"
+                    onClick={() => handlePlayAudio(example.grammar_audio)}
+                  />
+                  {example.jp}
+                </div>
+                <div className="grammar-card__example-romaji">
+                  {example.romaji}
+                </div>
+                <div className="grammar-card__example-en">{example.en}</div>
+              </div>
+            ))}
+          </div>
+        </div>
+
+        <div className="grammar-card__explanation">
+          <p className="font-bold">Long explanation:</p>
+          <div>{props.long_explanation}</div>
+        </div>
+      </div>
+    </div>
+  );
+};
+
+const AccordionGrammarCard: React.FC<GrammarCardProps> = (props) => {
+  return (
+    <Accordion>
+      <AccordionSummary
+        expandIcon={<ExpandMoreIcon />}
+        aria-controls="panel1a-content"
+        id="panel1a-header"
+        sx={{
+          backgroundColor: "#748BA0",
+          borderRadius: "4px",
+          borderColor: "#ccc",
+          borderStyle: "solid",
+          borderWidth: "1px",
+          marginBottom: "8px",
+          color: "white",
+        }}
+      >
+        <Typography>{props.title}</Typography>
+      </AccordionSummary>
+      <AccordionDetails>
+        <div>
+          <GrammarCard {...props} />
+        </div>
+      </AccordionDetails>
+    </Accordion>
+  );
+};
+
+// the _id is from mongodb api response
+// const grammarCardData: GrammarCardProps[] = [
+//   {
+//     _id: "64503724544eb35093176707",
+//     title: "～としたら (〜to shitara)",
+//     short_explanation:
+//       "Express a hypothetical situation; 'if', 'suppose', 'assuming'.",
+//     long_explanation:
+//       "Express a hypothetical situation; 'if', 'suppose', 'assuming'. Express a hypothetical situation; 'if', 'suppose', 'assuming'. Express a hypothetical situation; 'if', 'suppose', 'assuming'. Express a hypothetical situation; 'if', 'suppose', 'assuming'.",
+//     formation:
+//       "Verb-casual + としたら\nい-Adjective + としたら\nな-Adjective + だとしたら\nNoun + だとしたら",
+//     examples: [
+//       {
+//         jp: "明日雨が降るとしたら、傘を持って行きましょう。",
+//         romaji: "Ashita ame ga furu to shitara, kasa wo motte ikimashou.",
+//         en: "If it rains tomorrow, let's bring an umbrella.",
+//         grammar_audio:
+//           "/audio/grammar/s_としたらtoshitara_20230501_明日雨が降るとしたら傘を持って行きましょう.mp3",
+//       },
+//       {
+//         jp: "このケーキが美味しくないとしたら、誰も食べないでしょう。",
+//         romaji: "Kono keeki ga oishikunai to shitara, daremo tabenai deshou.",
+//         en: "If this cake is not delicious, nobody will eat it.",
+//         grammar_audio:
+//           "/audio/grammar/s_としたらtoshitara_20230501_このケーキが美味しくないとしたら誰も食べないでしょう.mp3",
+//       },
+//       {
+//         jp: "彼が病気だとしたら、すぐに病院に行かせてあげてください。",
+//         romaji:
+//           "Kare ga byouki da to shitara, sugu ni byouin ni ikasete agete kudasai.",
+//         en: "If he is sick, please take him to the hospital right away.",
+//         grammar_audio:
+//           "/audio/grammar/s_としたらtoshitara_20230501_彼が病気だとしたらすぐに病院に行かせてあげてください.mp3",
+//       },
+//       {
+//         jp: "彼女が学生だとしたら、このレストランは割引があるでしょう。",
+//         romaji:
+//           "Kanojo ga gakusei da to shitara, kono resutoran wa waribiki ga aru deshou.",
+//         en: "If she is a student, there will be a discount at this restaurant.",
+//         grammar_audio:
+//           "/audio/grammar/s_としたらtoshitara_20230501_彼女が学生だとしたらこのレストランは割引があるでしょう.mp3",
+//       },
+//     ],
+//     p_tag: "JLPT_N3",
+//     s_tag: "100",
+//   },
+// ];
+
+const GrammarDashboard = () => {
+  const { p_dashboardId, s_dashboardId } = useParams();
+  const [grammarCardData, setGrammarCardData] = useState<GrammarCardProps[]>(
+    []
+  );
+  const [error, setError] = useState<Error | null>(null);
+  const [loading, setLoading] = useState<boolean>(true);
+
+  useEffect(() => {
+    window.onload = () => {
+      window.scrollTo(0, 0); // Scroll to the top when the page finishes loading, doesnt seem to be working though
+    };
+  }, []);
+
+  useEffect(() => {
+    async function fetchData() {
+      try {
+        const response = await axios.get<{ grammars: GrammarCardProps[] }>(
+          `/api/v1/grammars?p_tag=${p_dashboardId}&s_tag=${s_dashboardId}`
+        );
+        // const response = await axios.get<{ grammars: GrammarCardProps[] }>(
+        //   `http://localhost:8000/api/v1/grammars?p_tag=${p_dashboardId}&s_tag=${s_dashboardId}`
+        // );
+
+
+        if (response.data.grammars) {
+          setGrammarCardData(response.data.grammars);
+        } else {
+          setGrammarCardData([]);
+        }
+        setError(null);
+        setLoading(false);
+      } catch (err) {
+        setError(err as Error);
+        setLoading(false);
+      }
+    }
+    fetchData();
+  }, [p_dashboardId, s_dashboardId]);
+
+  console.log("loading:", loading);
+  console.log("error:", error);
+  console.log("grammarCardData:", grammarCardData);
+
+  return (
+    <div className="h-screen flex flex-col">
+      <div className="flex-grow flex flex-col">
+        <div className="grid lg:grid-cols-body flex-grow">
+          <DashboardSidebar />
+          <div className="flex flex-col flex-shrink-0">
+            <Nav />
+            <DashboardNav />
+            <DashboardHead />
+            <Grid fluid>
+              <Row>
+                <Col> Test Row element </Col>
+              </Row>
+              <Row>
+                <div>Parent Dashboard ID: {p_dashboardId}</div>
+              </Row>
+              <Row>
+                <div>Sub Dashboard ID: {s_dashboardId}</div>
+              </Row>
+
+              <Row>
+                {loading ? (
+                  <div className="loading-message">
+                    <p>Loading data...</p>
+                  </div>
+                ) : error ? (
+                  <div className="error-message">
+                    <p>Failed to load data. Please try again later.</p>
+                  </div>
+                ) : (
+                  <div className="app">
+                    {grammarCardData.map((grammarPoint, index) => (
+                      <AccordionGrammarCard key={index} {...grammarPoint} />
+                    ))}
+                  </div>
+                )}
+              </Row>
+            </Grid>
+          </div>
+        </div>
+      </div>
+      <div className="h-auto">
+        <Footer />
+      </div>
+    </div>
+  );
+};
+
+export default GrammarDashboard;
+
+// const GrammarDashboard = () => {
+//   const { p_dashboardId, s_dashboardId } = useParams();
+//   const [grammarCardData, setGrammarCardData] = useState<GrammarCardProps[]>([]);
+
+//   useEffect(() => {
+//     async function fetchData() {
+//       const response = await axios.get<{ words: GrammarCardProps[] }>(`/api/v1/grammars?p_tag=${p_dashboardId}&s_tag=${s_dashboardId}`);
+//       setGrammarCardData(response.data.words);
+//     }
+//     fetchData();
+//   }, [p_dashboardId, s_dashboardId]);
+
+//   return (
+//     <div className="h-screen flex flex-col">
+//       <div className="flex-grow flex flex-col">
+//         <div className="grid lg:grid-cols-body flex-grow">
+//           <DashboardSidebar />
+//           <div className="flex flex-col flex-shrink-0">
+//             <Nav />
+//             <DashboardNav />
+//             <DashboardHead />
+//             <Grid fluid>
+//               <Row>
+//                 <Col> Test Row element </Col>
+//               </Row>
+//               <Row>
+//                 <div>
+//                   Parent Dashboard ID: {p_dashboardId}
+//                 </div>
+//               </Row>
+//               <Row>
+//                 <div>
+//                   Sub Dashboard ID: {s_dashboardId}
+//                 </div>
+//               </Row>
+
+//               <Row>
+//                 {/* {grammarCardData.map(card => (
+//                   <GrammarCard key={card.title} {...card} />
+//                 ))} */}
+
+//                 <div className="app">
+//                   {grammarCardData.map((grammarPoint, index) => (
+//                     <AccordionGrammarCard key={index} {...grammarPoint} />
+//                   ))}
+//                 </div>
+
+//               </Row>
+//             </Grid>
+//           </div>
+//         </div>
+//       </div>
+//       <div className="h-auto">
+//         <Footer />
+//       </div>
+//     </div>
+//   );
+// };
+
+// export default GrammarDashboard;
+
+// # ---------------------------------------------------------------------------------------------- #
+
+// export default function GrammarDashboard() {
+//   // the axios call should likely be here with useEffect hook
+//   const { p_dashboardId, s_dashboardId } = useParams();
+//   return (
+//     <div className="h-screen flex flex-col">
+//       <div className="flex-grow flex flex-col">
+//         <div className="grid lg:grid-cols-body flex-grow">
+//           <DashboardSidebar />
+//           <div className="flex flex-col flex-shrink-0">
+//             <Nav />
+//             <DashboardNav />
+//             <DashboardHead />
+//             <Grid fluid>
+//               <Row>
+//                 <Col> Test Row element </Col>
+//               </Row>
+//               <Row>
+//                 <div>
+//                   Parent Dashboard ID: {p_dashboardId}
+//                 </div>
+//               </Row>
+//               <Row>
+//                 <div>
+//                   Sub Dashboard ID: {s_dashboardId}
+//                 </div>
+//               </Row>
+
+//               <Row>
+//                 {/* {grammarCardData.map(card => (
+//                   <GrammarCard key={card.title} {...card} />
+//                 ))} */}
+
+//                 <div className="app">
+//                   {grammarCardData.map((grammarPoint, index) => (
+//                     <AccordionGrammarCard key={index} {...grammarPoint} />
+//                   ))}
+//                 </div>
+//               </Row>
+//             </Grid>
+//           </div>
+//         </div>
+//       </div>
+//       <div className="h-auto">
+//         <Footer />
+//       </div>
+//     </div>
+//   );
+// }
+
+// old table with vocabulary
+//<ItemsSentences />
+
+//const GrammarCard = (props) => {
+//  return (
+//    <div className="grammar-card">
+//      <h3 className="grammar-card__title">{props.title}</h3>
+//      <p className="grammar-card__explanation">{props.explanation}</p>
+//      <p className="grammar-card__example">Example: {props.example}</p>
+//    </div>
+//  );
+//};
+
+//<GrammarCard
+//title="Grammar Point Title"
+//explanation="Explanation of the grammar point"
+//example="Example sentence using the grammar point"
+///>
+
+//type GrammarCardProps = {
+//  title: string;
+//  explanation: string;
+//  example: string;
+//};
+//
+//const GrammarCard: React.FC<GrammarCardProps> = (props) => {
+//  return (
+//    <div style={{ width: '300px', height: '200px', backgroundColor: 'white', borderRadius: '5px', boxShadow: '0 4px 8px 0 rgba(0, 0, 0, 0.2)', margin: '10px' }}>
+//      <h3 className="grammar-card__title">{props.title}</h3>
+//      <p className="grammar-card__explanation">{props.explanation}</p>
+//      <p className="grammar-card__example">Example: {props.example}</p>
+//    </div>
+//  );
+//};
+
+// type GrammarCardProps = {
+//   title: string;
+//   explanation: string;
+//   logic: string;
+//   exampleJP: string;
+//   exampleEN: string;
+// };
+
+// const grammarCardData: GrammarCardProps[] = [
+//   {
+//     title: "Te-Form + いる",
+//     explanation: "The te-form + いる is used to describe an ongoing action or state that is being done or experienced by someone or something.",
+//     logic: "To form the te-form + いる, take the stem of the verb and add て. For い-adjectives, take the stem of the adjective and add くて. いる can then be added to the end.",
+//     exampleJP: "彼は今、本を読んでいる。",
+//     exampleEN: "He is reading a book right now."
+//   },
+//   {
+//     title: "Te-Form + たい",
+//     explanation: "The te-form + たい is used to express a desire or request to do something.",
+//     logic: "To form the te-form + たい, take the stem of the verb and add て. For い-adjectives, take the stem of the adjective and add くて. たい can then be added to the end.",
+//     exampleJP: "私は日本語をもっと勉強したいです。",
+//     exampleEN: "I want to study Japanese more."
+//   }
+// ];
+
+// const GrammarCard: React.FC<GrammarCardProps> = (props) => {
+//   return (
+//     <div className="grammar-card">
+//       <div className="grammar-card__title">{props.title}</div>
+//       <div className="grammar-card__grid">
+//         <div className="grammar-card__explanation">{props.explanation}</div>
+//         <div className="grammar-card__logic">{props.logic}</div>
+//         <div className="grammar-card__example-jp">Example (Japanese): {props.exampleJP}</div>
+//         <div className="grammar-card__example-en">Example (English): {props.exampleEN}</div>
+//       </div>
+//     </div>
+//   );
+// }
+
+// type GrammarCardProps = {
+//   title: string;
+//   explanation: string;
+//   formation: string;
+//   examples: {
+//     jp: string;
+//     romaji: string;
+//     en: string;
+//   }[];
+// };
+
+// const grammarCardData: GrammarCardProps[] = [
+//   // ... other grammar points
+//   {
+//     title: "～としたら (〜to shitara)",
+//     explanation: "Express a hypothetical situation; 'if', 'suppose', 'assuming'.",
+//     formation: "Verb-casual + としたら\nい-Adjective + としたら\nな-Adjective + だとしたら\nNoun + だとしたら",
+//     examples: [
+//       {
+//         jp: "明日雨が降るとしたら、傘を持って行きましょう。",
+//         romaji: "Ashita ame ga furu to shitara, kasa wo motte ikimashou.",
+//         en: "If it rains tomorrow, let's bring an umbrella."
+//       },
+//       {
+//         jp: "このケーキが美味しくないとしたら、誰も食べないでしょう。",
+//         romaji: "Kono keeki ga oishikunai to shitara, daremo tabenai deshou.",
+//         en: "If this cake is not delicious, nobody will eat it."
+//       },
+//       {
+//         jp: "彼が病気だとしたら、すぐに病院に行かせてあげてください。",
+//         romaji: "Kare ga byouki da to shitara, sugu ni byouin ni ikasete agete kudasai.",
+//         en: "If he is sick, please take him to the hospital right away."
+//       },
+//       {
+//         jp: "彼女が学生だとしたら、このレストランは割引があるでしょう。",
+//         romaji: "Kanojo ga gakusei da to shitara, kono resutoran wa waribiki ga aru deshou.",
+//         en: "If she is a student, there will be a discount at this restaurant."
+//       }
+//     ]
+//   }
+// ];
+
+// const GrammarCard: React.FC<GrammarCardProps> = (props) => {
+//   return (
+//     <div className="grammar-card">
+//       <div className="grammar-card__title">{props.title}</div>
+//       <div className="grammar-card__grid">
+//         <div className="grammar-card__explanation">{props.explanation}</div>
+//         <div className="grammar-card__formation">{props.formation}</div>
+//         <div className="grammar-card__examples">
+//           {props.examples.map((example, index) => (
+//             <div key={index} className="grammar-card__example">
+//               <div className="grammar-card__example-jp">{example.jp}</div>
+//               <div className="grammar-card__example-romaji">{example.romaji}</div>
+//               <div className="grammar-card__example-en">{example.en}</div>
+//             </div>
+//           ))}
+//         </div>
+//       </div>
+//     </div>
+//   );
+// };
+
+// ORIGINAL APPROACH
+// export default function GrammarDashboard() {
+//
+//   // the axios call should likely be here with useEffect hook
+//
+//
+//
+//   return (
+//     <div className="grid lg:grid-cols-body h-screen">
+//       <DashboardSidebar />
+//       <div className="flex flex-col">
+//         <DashboardNav />
+//         <DashboardHead />
+//
+//         <Grid fluid>
+//           <Row>
+//             <Col> Hello </Col>
+//           </Row>
+//
+//           <Row>
+//
+//               {grammarCardData.map(card => (
+//                 <GrammarCard key={card.title} {...card} />
+//               ))}
+//
+//             {/*
+//               <GrammarCard
+//               title="Te-Form + いる"
+//               explanation="The te-form + いる is used to describe an ongoing action or state that is being done or experienced by someone or something."
+//               logic="To form the te-form + いる, take the stem of the verb and add て. For い-adjectives, take the stem of the adjective and add くて. いる can then be added to the end."
+//               exampleJP="彼は今、本を読んでいる。"
+//               exampleEN="He is reading a book right now."
+//             />
+//
+//             <GrammarCard
+//               title="Te-Form + いる"
+//               explanation="The te-form + いる is used to describe an ongoing action or state that is being done or experienced by someone or something."
+//               logic="To form the te-form + いる, take the stem of the verb and add て. For い-adjectives, take the stem of the adjective and add くて. いる can then be added to the end."
+//               exampleJP="彼は今、本を読んでいる。"
+//               exampleEN="He is reading a book right now."
+//             />
+//             */}
+//
+//
+//           </Row>
+//
+//         </Grid>
+//
+//
+//
+//       </div>
+//     </div>
+//   );
+// }
+
+// I want to have a catchy naming to have most important JLPT N3 grammar points.
+// Write cool synonyms for
+// Japanese core grammar
+// Japanese essential grammar
+
+// ChatGPT
+// Japanese Grammar Foundations
+// Japanese Grammar Essentials
+// Japanese Grammar Cornerstones
+// Japanese Grammar Pillars
+// Japanese Grammar Keystone
+// Japanese Grammar Fundamentals
+// Japanese Grammar Mastery
+// Japanese Grammar Building Blocks
+// Japanese Grammar Powerhouse
+// Japanese Grammar Blueprint
+// Japanese Grammar Nexus
+// Japanese Grammar Core Concepts
+// Japanese Grammar Prime
+// Japanese Grammar Roots
+// Japanese Grammar Scaffold
+// Japanese Grammar Crux
+// Japanese Grammar Basecamp
+// Japanese Grammar Trailblazers
+// Japanese Grammar Command
+// Japanese Grammar Springboard
+// Japanese Grammar Keystone
+// Japanese Grammar Pillars
+// Japanese Grammar Backbone
+// Japanese Grammar Cornerstones
+// Japanese Grammar Fundamentals
+// Japanese Grammar Launchpad
+// Japanese Grammar Powerhouse
+// Japanese Grammar Blueprint
+// Japanese Grammar Essentials Hub
+// Japanese Grammar Lighthouse
+
+// What other sections would you add to the explanation so students could understand the topic better?
+// ChatGPT
+// In addition to the explanation provided above, you can consider adding the following sections to help students understand the ～としたら (to shitara) grammar point better:
+
+// Comparison with similar grammar points:
+// Briefly compare ～としたら with other similar conditional grammar points, such as ～ば, ～たら, and ～なら. Explain the differences in nuance and usage to help students distinguish between them.
+
+// Usage tips and common mistakes:
+// Provide some tips on when to use ～としたら and point out common mistakes students might make when using this grammar point. Offer guidance on how to avoid these mistakes.
+
+// Practice exercises:
+// Include a variety of practice exercises that allow students to apply their understanding of ～としたら. These exercises can range from fill-in-the-blank and sentence transformation to writing their own sentences using the grammar point.
+
+// Real-life examples:
+// Share some real-life examples of ～としたら being used in conversations, advertisements, or other media. This will help students see how the grammar point is used in context and make it easier for them to remember and apply it.
+
+// Additional resources:
+// Recommend supplementary resources, such as textbooks, websites, or videos, that provide more in-depth explanations or practice exercises for the ～としたら grammar point. This will give students the opportunity to explore the topic further if they need more help.
+
+// implement
+// Comparison with similar grammar points
+// and
+// Usage tips and common mistakes
+// ChatGPT
+// Comparison with Similar Grammar Points:
+
+// ～としたら (to shitara) vs. ～ば (ba):
+// ～としたら (to shitara) and ～ば (ba) both express a hypothetical situation, but their nuances are slightly different. ～としたら focuses more on the assumption or supposition, whereas ～ば emphasizes the condition.
+
+// For example:
+// a. 明日雨が降るとしたら、試合は中止になるでしょう。
+// (Ashita ame ga furu to shitara, shiai wa chuushi ni naru deshou.)
+// If it rains tomorrow, the match will probably be canceled.
+
+// b. 明日雨が降れば、試合は中止になるでしょう。
+// (Ashita ame ga fureba, shiai wa chuushi ni naru deshou.)
+// If it rains tomorrow, the match will probably be canceled.
+
+// In both sentences, the meaning is similar. However, sentence (a) focuses more on the hypothetical situation of rain, while sentence (b) emphasizes the condition of rain leading to the cancellation of the match.
+
+// ～としたら (to shitara) vs. ～たら (tara):
+// Both ～としたら and ～たら express a condition, but ～としたら is more focused on a hypothetical or assumed situation, while ～たら is more general and can be used for both real and hypothetical situations.
+
+// For example:
+// a. もし彼女に会ったら、挨拶しよう。
+// (Moshi kanojo ni attara, aisatsu shiyou.)
+// If I meet her, I'll greet her.
+
+// b. 彼女に会うとしたら、どこで話しかけるべきですか？
+// (Kanojo ni au to shitara, doko de hanashikakeru beki desu ka?)
+// If I were to meet her, where should I start a conversation?
+
+// Usage Tips and Common Mistakes:
+
+// Pay attention to the verb forms used with ～としたら:
+// Always use the plain form of verbs when using ～としたら. For example, 食べるとしたら (taberu to shitara) is correct, while 食べますとしたら (tabemasu to shitara) is incorrect.
+
+// Do not use ～としたら to express natural consequences:
+// ～としたら is used for hypothetical situations or assumptions, not for expressing natural consequences. Instead, use ～と (to) or ～たら (tara) to convey natural consequences.
+
+// For example, the following sentence is incorrect:
+// × 雨が降るとしたら、濡れる。
+// (× Ame ga furu to shitara, nureru.)
+// (× If it rains, [I/you/someone] will get wet.)
+
+// Instead, use ～と (to) or ～たら (tara):
+// ◯ 雨が降ると、濡れる。
+// (◯ Ame ga furu to, nureru.)
+// (◯ If it rains, [I/you/someone] will get wet.)
+
+// ◯ 雨が降ったら、濡れる。
+// (◯ Ame ga futtara, nureru.)
+// (◯ If it rains, [I/you/someone] will get wet.)
+
+// By paying attention
+
+// const AccordionGrammarCard: React.FC<GrammarCardProps> = (props) => {
+//   return (
+//     <Accordion>
+//       <AccordionSummary
+//         expandIcon={<ExpandMoreIcon />}
+//         aria-controls="panel1a-content"
+//         id="panel1a-header"
+//       >
+//         <Typography>{props.title}</Typography>
+//       </AccordionSummary>
+//       <AccordionDetails>
+//         <GrammarCard {...props} />
+//       </AccordionDetails>
+//     </Accordion>
+//   );
+// };
+
+// export default function GrammarDashboard() {
+//   // the axios call should likely be here with useEffect hook
+//   const { dashboardId } = useParams();
+//   return (
+//     <div className="h-screen flex flex-col">
+//       <div className="flex-1">
+//         <div className="grid lg:grid-cols-body h-screen">
+//           <DashboardSidebar />
+//           <div className="flex flex-col flex-shrink-0">
+//             <Nav />
+//             <DashboardNav />
+//             <DashboardHead />
+//             <Grid fluid>
+//               <Row>
+//                 <Col> Test Row element </Col>
+//               </Row>
+//               <Row>
+//                 <div>
+//                   Dashboard ID: {dashboardId}
+//                 </div>
+//               </Row>
+//               <Row>
+//                 {grammarCardData.map(card => (
+//                   <GrammarCard key={card.title} {...card} />
+//                 ))}
+
+//                 <div className="app">
+//                   {grammarCardData.map((grammarPoint, index) => (
+//                     <AccordionGrammarCard key={index} {...grammarPoint} />
+//                   ))}
+//                 </div>
+
+//               </Row>
+//             </Grid>
+//           </div>
+//           <Footer />
+//         </div>
+
+//       </div>
+
+//     </div>
+//   );
+// }

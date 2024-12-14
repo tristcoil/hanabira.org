@@ -1,0 +1,235 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* https://webflow.com/blog/fonts-for-web-design */
+
+/* * {
+  font-family: "Satoshi", sans-serif;
+} */
+
+* {
+  font-family: "Cormorant", serif;
+}
+
+/* Montserrat:
+
+Font Family: "Montserrat", sans-serif
+Description: A popular geometric sans-serif font with a clean and modern design.
+Roboto:
+
+Font Family: "Roboto", sans-serif
+Description: A versatile and widely used sans-serif font with a modern and friendly appearance.
+Open Sans:
+
+Font Family: "Open Sans", sans-serif
+Description: A humanist sans-serif font that is legible and works well for both headings and body text.
+Lato:
+
+Font Family: "Lato", sans-serif
+Description: A semi-rounded sans-serif font with a warm and friendly character, suitable for various design applications.
+Poppins:
+
+Font Family: "Poppins", sans-serif
+Description: A modern and elegant sans-serif font with a high legibility and a variety of weights.
+Nunito:
+
+Font Family: "Nunito", sans-serif
+Description: A rounded sans-serif font that provides a clean and contemporary look.
+Playfair Display:
+
+Font Family: "Playfair Display", serif
+Description: A classy serif font often used for headings and elegant designs.
+Roboto Slab:
+
+Font Family: "Roboto Slab", serif
+Description: A robust slab serif font that adds a modern and professional touch.
+Source Sans Pro:
+
+Font Family: "Source Sans Pro", sans-serif
+Description: A simple and legible sans-serif font designed for easy reading on screens.
+Avenir Next:
+
+Font Family: "Avenir Next", sans-serif
+Description: A premium sans-serif font with a contemporary and sophisticated look. */
+
+
+/* Cormorant:
+
+Font Family: "Cormorant", serif
+Description: A contemporary serif font with a range of styles, including some condensed variants, offering a sleek and slender look.
+Playfair Display SC:
+
+Font Family: "Playfair Display SC", serif
+Description: A condensed version of Playfair Display, perfect for headlines and titles, providing a more compact appearance.
+Roboto Slab:
+
+Font Family: "Roboto Slab", serif
+Description: A sturdy slab serif font with condensed styles, ideal for a modern and professional look with narrower letters.
+Crimson Pro:
+
+Font Family: "Crimson Pro", serif
+Description: A classic serif font with various weights and styles, including condensed variants, giving it a more slender design.
+Libre Baskerville:
+
+Font Family: "Libre Baskerville", serif
+Description: A classic, elegant serif font with slightly narrower letterforms compared to traditional Baskerville.
+PT Serif:
+
+Font Family: "PT Serif", serif
+Description: A versatile serif font with condensed styles, providing a modern and slender appearance.
+Vollkorn:
+
+Font Family: "Vollkorn", serif
+Description: A well-balanced serif font with slightly narrower letterforms, making it a great choice for a more refined look.
+Josefin Slab:
+
+Font Family: "Josefin Slab", serif
+Description: A geometric slab serif font with a condensed style, exuding a modern and sleek vibe.
+Chivo:
+
+Font Family: "Chivo", sans-serif
+Description: A sans-serif font with condensed styles, providing a clean and slender appearance suitable for a modern, professional design.
+Archivo Narrow:
+
+Font Family: "Archivo Narrow", sans-serif
+Description: A sans-serif font with a condensed design, offering a more compact and slim look. */
+
+
+
+
+
+
+@layer components {
+  .dashboardOption {
+    @apply flex items-center p-3 cursor-pointer text-gray-600 transition-all rounded w-full
+  }
+
+  .dashboardOption:hover {
+    @apply text-blue-900 bg-blue-400/20
+  }
+
+  .blogButton{
+    @apply font-medium w-full flex items-center justify-center text-center px-5 py-2 bg-white shadow-md shadow-gray-300 rounded-md
+  }
+  .blogButton:hover{
+    @apply bg-blue-100 text-primary
+  }
+}
+
+.containers {
+  max-width: 50rem;
+  margin: 0 auto;
+  padding: 0 0.5rem 0 0.5rem;
+  display: flex;
+  align-items: center;
+  height: 100%;
+}
+
+.code__icons {
+  position: absolute;
+  right: 12px;
+  top: 12px;
+  z-index: 1;
+  display: flex;
+  gap: 5px;
+}
+
+.code {
+  position: relative;
+}
+
+@layer components {
+  .webPage {
+    @apply flex flex-col items-center w-full;
+  }
+
+  .btnPrimary {
+    @apply py-3 px-8 border text-white bg-primary font-medium border-primary rounded-md;
+  }
+
+  .btnSecondary {
+    @apply py-3 px-8 mr-6 border text-primary font-medium border-primary rounded-md;
+  }
+}
+
+@layer base {
+  :root {
+    --background: 0 0% 100%;
+    --foreground: 240 10% 3.9%;
+    --card: 0 0% 100%;
+    --card-foreground: 240 10% 3.9%;
+    --popover: 0 0% 100%;
+    --popover-foreground: 240 10% 3.9%;
+    --primary: 240 5.9% 10%;
+    --primary-foreground: 0 0% 98%;
+    --secondary: 240 4.8% 95.9%;
+    --secondary-foreground: 240 5.9% 10%;
+    --muted: 240 4.8% 95.9%;
+    --muted-foreground: 240 3.8% 46.1%;
+    --accent: 240 4.8% 95.9%;
+    --accent-foreground: 240 5.9% 10%;
+    --destructive: 0 84.2% 60.2%;
+    --destructive-foreground: 0 0% 98%;
+    --border: 240 5.9% 90%;
+    --input: 240 5.9% 90%;
+    --ring: 240 10% 3.9%;
+    --chart-1: 12 76% 61%;
+    --chart-2: 173 58% 39%;
+    --chart-3: 197 37% 24%;
+    --chart-4: 43 74% 66%;
+    --chart-5: 27 87% 67%;
+    --radius: 0.5rem;
+    --sidebar-background: 0 0% 98%;
+    --sidebar-foreground: 240 5.3% 26.1%;
+    --sidebar-primary: 240 5.9% 10%;
+    --sidebar-primary-foreground: 0 0% 98%;
+    --sidebar-accent: 240 4.8% 95.9%;
+    --sidebar-accent-foreground: 240 5.9% 10%;
+    --sidebar-border: 220 13% 91%;
+    --sidebar-ring: 217.2 91.2% 59.8%;
+  }
+  .dark {
+    --background: 240 10% 3.9%;
+    --foreground: 0 0% 98%;
+    --card: 240 10% 3.9%;
+    --card-foreground: 0 0% 98%;
+    --popover: 240 10% 3.9%;
+    --popover-foreground: 0 0% 98%;
+    --primary: 0 0% 98%;
+    --primary-foreground: 240 5.9% 10%;
+    --secondary: 240 3.7% 15.9%;
+    --secondary-foreground: 0 0% 98%;
+    --muted: 240 3.7% 15.9%;
+    --muted-foreground: 240 5% 64.9%;
+    --accent: 240 3.7% 15.9%;
+    --accent-foreground: 0 0% 98%;
+    --destructive: 0 62.8% 30.6%;
+    --destructive-foreground: 0 0% 98%;
+    --border: 240 3.7% 15.9%;
+    --input: 240 3.7% 15.9%;
+    --ring: 240 4.9% 83.9%;
+    --chart-1: 220 70% 50%;
+    --chart-2: 160 60% 45%;
+    --chart-3: 30 80% 55%;
+    --chart-4: 280 65% 60%;
+    --chart-5: 340 75% 55%;
+    --sidebar-background: 240 5.9% 10%;
+    --sidebar-foreground: 240 4.8% 95.9%;
+    --sidebar-primary: 224.3 76.3% 48%;
+    --sidebar-primary-foreground: 0 0% 100%;
+    --sidebar-accent: 240 3.7% 15.9%;
+    --sidebar-accent-foreground: 240 4.8% 95.9%;
+    --sidebar-border: 240 3.7% 15.9%;
+    --sidebar-ring: 217.2 91.2% 59.8%;
+  }
+}
+
+@layer base {
+  * {
+    @apply border-border;
+  }
+  body {
+    @apply bg-background text-foreground;
+  }
+}

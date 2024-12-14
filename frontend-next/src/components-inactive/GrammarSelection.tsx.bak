@@ -1,0 +1,486 @@
+import { DashboardHead, DashboardNav, DashboardSidebar, ItemsSentences } from "../components";
+import { CategoriesHeader, Category, Footer, Nav } from "../components";
+
+import Markdown from "markdown-to-jsx";
+import { useEffect, useState } from "react";
+import { useParams } from "react-router-dom";
+import Code from "../components/Code";
+import blogs from "../components/blog/blogs.json";
+
+import { Link } from "react-router-dom";
+
+type RouteParams = {
+  p_dashboardId?: string;
+}
+
+export default function Dashboard() {
+  const { p_dashboardId } = useParams<RouteParams>();
+  const vocabCardsProps = getVocabCardsProps(p_dashboardId || '');
+
+
+  return (
+    <div className="h-screen flex flex-col">
+      <div className="flex-shrink-0">
+        {/* <Nav /> */}
+      </div>
+      <div className="flex-1">
+        <div className="grid lg:grid-cols-body">
+          <DashboardSidebar />
+          <div className="flex flex-col flex-shrink-0">
+            <Nav />
+            <DashboardNav />
+            {/* <DashboardHead /> */}
+            <VocabCards cards={vocabCardsProps} level={p_dashboardId || 'JLPT_N3'} />
+          </div>
+        </div>
+        <Footer />
+      </div>
+    </div>
+  );
+}
+
+interface VocabCardProps {
+  id: string;
+  name: string;
+  link: string;
+  file: string;
+  description: string;
+}
+
+interface VocabCardsProps {
+  cards: VocabCardProps[];
+  level: string;
+}
+
+const getVocabCardsProps = (level: string) => {
+  switch (level) {
+    case "JLPT_N5":
+      return [
+        {
+          id: "1",
+          name: "JLPT N5 Grammar 25",
+          link: "/gdashboard/JLPT_N5/25",
+          file: "/img/jlpt_universal_01.jpg",
+          description: "",
+        },
+        {
+          id: "2",
+          name: "JLPT N5 Grammar 50",
+          link: "/gdashboard/JLPT_N5/50",
+          file: "/img/jlpt_universal_02.jpg",
+          description: "",
+        },
+        {
+          id: "3",
+          name: "JLPT N5 Grammar 75",
+          link: "/gdashboard/JLPT_N5/75",
+          file: "/img/jlpt_universal_03.jpg",
+          description: "",
+        },
+        {
+          id: "4",
+          name: "JLPT N5 Grammar 100",
+          link: "/gdashboard/JLPT_N5/100",
+          file: "/img/jlpt_universal_04.jpg",
+          description: "",
+        },
+        {
+          id: "5",
+          name: "JLPT N5 Grammar 125",
+          link: "/gdashboard/JLPT_N5/125",
+          file: "/img/jlpt_universal_05.jpg",
+          description: "",
+        },
+        {
+          id: "6",
+          name: "JLPT N5 Grammar 150",
+          link: "/gdashboard/JLPT_N5/150",
+          file: "/img/jlpt_universal_06.jpg",
+          description: "",
+        },
+      ];
+
+    case "JLPT_N4":
+      return [
+        {
+          id: "1",
+          name: "JLPT N4 Grammar 25",
+          link: "/gdashboard/JLPT_N4/25",
+          file: "/img/jlpt_universal_01.jpg",
+          description: "",
+        },
+        {
+          id: "2",
+          name: "JLPT N4 Grammar 50",
+          link: "/gdashboard/JLPT_N4/50",
+          file: "/img/jlpt_universal_02.jpg",
+          description: "",
+        },
+        {
+          id: "3",
+          name: "JLPT N4 Grammar 75",
+          link: "/gdashboard/JLPT_N4/75",
+          file: "/img/jlpt_universal_03.jpg",
+          description: "",
+        },
+        {
+          id: "4",
+          name: "JLPT N4 Grammar 100",
+          link: "/gdashboard/JLPT_N4/100",
+          file: "/img/jlpt_universal_04.jpg",
+          description: "",
+        },
+        {
+          id: "5",
+          name: "JLPT N4 Grammar 125",
+          link: "/gdashboard/JLPT_N4/125",
+          file: "/img/jlpt_universal_05.jpg",
+          description: "",
+        },
+      ];
+
+    case "JLPT_N3":
+      return [
+        {
+          id: "1",
+          name: "JLPT N3 Grammar 10",
+          link: "/gdashboard/JLPT_N3/10",
+          file: "/img/jlpt_universal_01.jpg",
+          description: ""
+        },
+        {
+          id: "2",
+          name: "JLPT N3 Grammar 20",
+          link: "/gdashboard/JLPT_N3/20",
+          file: "/img/jlpt_universal_02.jpg",
+          description: ""
+        },
+        {
+          id: "3",
+          name: "JLPT N3 Grammar 30",
+          link: "/gdashboard/JLPT_N3/30",
+          file: "/img/jlpt_universal_03.jpg",
+          description: ""
+        },
+        {
+          id: "4",
+          name: "JLPT N3 Grammar 40",
+          link: "/gdashboard/JLPT_N3/40",
+          file: "/img/jlpt_universal_04.jpg",
+          description: ""
+        },
+        {
+          id: "5",
+          name: "JLPT N3 Grammar 50",
+          link: "/gdashboard/JLPT_N3/50",
+          file: "/img/jlpt_universal_05.jpg",
+          description: ""
+        },
+        {
+          id: "6",
+          name: "JLPT N3 Grammar 60",
+          link: "/gdashboard/JLPT_N3/60",
+          file: "/img/jlpt_universal_06.jpg",
+          description: ""
+        },
+        {
+          id: "7",
+          name: "JLPT N3 Grammar 70",
+          link: "/gdashboard/JLPT_N3/70",
+          file: "/img/jlpt_universal_07.jpg",
+          description: ""
+        },
+        {
+          id: "8",
+          name: "JLPT N3 Grammar 80",
+          link: "/gdashboard/JLPT_N3/80",
+          file: "/img/jlpt_universal_08.jpg",
+          description: ""
+        },
+        {
+          id: "9",
+          name: "JLPT N3 Grammar 90",
+          link: "/gdashboard/JLPT_N3/90",
+          file: "/img/jlpt_universal_09.jpg",
+          description: ""
+        },
+        {
+          id: "10",
+          name: "JLPT N3 Grammar 100",
+          link: "/gdashboard/JLPT_N3/100",
+          file: "/img/jlpt_universal_10.jpg",
+          description: ""
+        },
+        {
+          id: "11",
+          name: "JLPT N3 Grammar 110",
+          link: "/gdashboard/JLPT_N3/110",
+          file: "/img/jlpt_universal_11.jpg",
+          description: ""
+        },
+        {
+          id: "12",
+          name: "JLPT N3 Grammar 120",
+          link: "/gdashboard/JLPT_N3/120",
+          file: "/img/jlpt_universal_12.jpg",
+          description: ""
+        },
+        {
+          id: "13",
+          name: "JLPT N3 Grammar 130",
+          link: "/gdashboard/JLPT_N3/130",
+          file: "/img/jlpt_universal_13.jpg",
+          description: ""
+        },
+        {
+          id: "14",
+          name: "JLPT N3 Grammar 140",
+          link: "/gdashboard/JLPT_N3/140",
+          file: "/img/jlpt_universal_14.jpg",
+          description: ""
+        }
+      ];
+
+    case "JLPT_N2":
+      return [
+        {
+          id: "1",
+          name: "JLPT N2 Grammar 25",
+          link: "/gdashboard/JLPT_N2/25",
+          file: "/img/jlpt_universal_01.jpg",
+          description: "",
+        },
+        {
+          id: "2",
+          name: "JLPT N2 Grammar 50",
+          link: "/gdashboard/JLPT_N2/50",
+          file: "/img/jlpt_universal_02.jpg",
+          description: "",
+        },
+        {
+          id: "3",
+          name: "JLPT N2 Grammar 75",
+          link: "/gdashboard/JLPT_N2/75",
+          file: "/img/jlpt_universal_03.jpg",
+          description: "",
+        },
+        {
+          id: "4",
+          name: "JLPT N2 Grammar 100",
+          link: "/gdashboard/JLPT_N2/100",
+          file: "/img/jlpt_universal_04.jpg",
+          description: "",
+        },
+        {
+          id: "5",
+          name: "JLPT N2 Grammar 125",
+          link: "/gdashboard/JLPT_N2/125",
+          file: "/img/jlpt_universal_05.jpg",
+          description: "",
+        },
+        {
+          id: "6",
+          name: "JLPT N2 Grammar 150",
+          link: "/gdashboard/JLPT_N2/150",
+          file: "/img/jlpt_universal_06.jpg",
+          description: "",
+        },
+        {
+          id: "7",
+          name: "JLPT N2 Grammar 175",
+          link: "/gdashboard/JLPT_N2/175",
+          file: "/img/jlpt_universal_07.jpg",
+          description: "",
+        },
+        {
+          id: "8",
+          name: "JLPT N2 Grammar 200",
+          link: "/gdashboard/JLPT_N2/200",
+          file: "/img/jlpt_universal_08.jpg",
+          description: "",
+        },
+      ];
+
+
+      case "JLPT_N1":
+        return [
+          {
+            id: "1",
+            name: "JLPT N1 Grammar 25",
+            link: "/gdashboard/JLPT_N1/25",
+            file: "/img/jlpt_universal_01.jpg",
+            description: "",
+          },
+          {
+            id: "2",
+            name: "JLPT N1 Grammar 50",
+            link: "/gdashboard/JLPT_N1/50",
+            file: "/img/jlpt_universal_02.jpg",
+            description: "",
+          },
+          {
+            id: "3",
+            name: "JLPT N1 Grammar 75",
+            link: "/gdashboard/JLPT_N1/75",
+            file: "/img/jlpt_universal_03.jpg",
+            description: "",
+          },
+          {
+            id: "4",
+            name: "JLPT N1 Grammar 100",
+            link: "/gdashboard/JLPT_N1/100",
+            file: "/img/jlpt_universal_04.jpg",
+            description: "",
+          },
+          {
+            id: "5",
+            name: "JLPT N1 Grammar 125",
+            link: "/gdashboard/JLPT_N1/125",
+            file: "/img/jlpt_universal_05.jpg",
+            description: "",
+          },
+          {
+            id: "6",
+            name: "JLPT N1 Grammar 150",
+            link: "/gdashboard/JLPT_N1/150",
+            file: "/img/jlpt_universal_06.jpg",
+            description: "",
+          },
+          {
+            id: "7",
+            name: "JLPT N1 Grammar 175",
+            link: "/gdashboard/JLPT_N1/175",
+            file: "/img/jlpt_universal_07.jpg",
+            description: "",
+          },
+          {
+            id: "8",
+            name: "JLPT N1 Grammar 200",
+            link: "/gdashboard/JLPT_N1/200",
+            file: "/img/jlpt_universal_08.jpg",
+            description: "",
+          },
+          {
+            id: "9",
+            name: "JLPT N1 Grammar 225",
+            link: "/gdashboard/JLPT_N1/225",
+            file: "/img/jlpt_universal_09.jpg",
+            description: "",
+          },
+          {
+            id: "10",
+            name: "JLPT N1 Grammar 250",
+            link: "/gdashboard/JLPT_N1/250",
+            file: "/img/jlpt_universal_10.jpg",
+            description: "",
+          },
+        ];
+
+
+
+
+    // Add more cases for other levels
+    default:
+      return [];
+  }
+};
+
+const VocabCards = ({ cards, level }: VocabCardsProps) => {
+  const levelText: { [key: string]: { title: string; subtitle: string } } = {
+    JLPT_N5: {
+      title: "JLPT N5 Grammar",
+      subtitle: "N5 grammar with explanation and example sentences.",
+    },
+    JLPT_N4: {
+      title: "JLPT N4 Grammar",
+      subtitle: "N4 grammar with explanation and example sentences.",
+    },
+    JLPT_N3: {
+      title: "JLPT N3 Grammar",
+      subtitle: "N3 grammar with explanation and example sentences.",
+    },
+    JLPT_N2: {
+      title: "JLPT N2 Grammar",
+      subtitle: "N2 grammar with explanation and example sentences.",
+    },
+    // JLPT_N1: {
+    //   title: "JLPT N1 Grammar",
+    //   subtitle: "N1 grammar with explanation and example sentences.",
+    // },
+    // Add more level texts for other levels
+  };
+
+  return (
+    <div>
+      <div>
+        <div className="flex items-end justify-between mb-12 header p-6">
+          <div className="title">
+            <p className="mb-4 text-4xl font-bold text-gray-800">
+              {levelText[level]?.title || ""}
+            </p>
+            <p className="text-2xl font-light text-gray-400">
+              {levelText[level]?.subtitle || ""}
+            </p>
+          </div>
+          <div className="text-end"></div>
+        </div>
+      </div>
+
+
+      <div className="grid grid-cols-1 sm:grid-cols-2 xl:grid-cols-2 gap-6">
+        {cards.map((card) => (
+          <div key={card.id} className="bg-white shadow rounded-md overflow-hidden flex p-6">
+            <div className="w-2/3 p-4">
+              <Link to={card.link}>
+                <h3 className="text-lg font-medium text-gray-800">{card.name}</h3>
+              </Link>  
+              <p className="mt-2 text-sm text-gray-500">{card.description}</p>
+              <div className="mt-4 flex justify-between">
+                <div className="flex items-center">
+                  <img alt="profile" className="h-8 w-8 object-cover rounded-full" src="/img/jlpt_universal_01.jpg" />
+                  <p className="ml-2 text-sm font-medium text-gray-700">Zen Lingo</p>
+                </div>
+                <Link to={card.link}>
+                  <button className="bg-primary py-2 px-4 text-white rounded-md">
+                    Learn More
+                  </button>
+                </Link>
+              </div>
+            </div>
+            <div className="w-1/3">
+              <img alt="card image" className="object-cover w-full h-full" src={card.file} />
+            </div>
+          </div>
+        ))}
+      </div>
+    </div>
+  );
+};
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

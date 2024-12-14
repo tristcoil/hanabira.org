@@ -1,0 +1,292 @@
+{
+  "key": "jlpt_n3_reading_08",
+  "title": "The Time-Traveling Kimono",
+  "titleRomaji": "Toki o koeru kimono",
+  "titleJp": "時を超える着物",
+  "p_tag": "jlpt_n3",
+  "s_tag": "story",
+  "shortDescription": "A story about a vintage kimono that, when worn, transports the wearer to different periods in Japanese history. The protagonist must navigate historical events and return to the present day, using N3 grammar and vocabulary related to time, history, and traditional culture.",
+  "shortDescriptionRomaji": "Mukashi no kimono ni tsuite no hanashi de, kore o kiru to Nihon no rekishi no samazama na jidai ni idō suru koto ga dekiru. Shujinkō wa rekishi-teki na dekigoto o norikoete, gendai ni modoru tame ni, jikan, rekishi, soshite dentō bunka ni kanren suru N3 reberu no bunpō to goi o shiyō shinakereba naranai.",
+  "shortDescriptionJp": "昔の着物についての話で、これを着ると日本の歴史の様々な時代に移動することができる。主人公は歴史的な出来事を乗り越え、現代に戻るために、時間、歴史、そして伝統文化に関連するN3レベルの文法と語彙を使用しなければならない。",
+  "textAudio": "/audio/japanese/JLPT_N3_reading_08/JLPT_N3_jp_reading_08.mp3",
+  "textAudio_1": "/audio/japanese/JLPT_N3_reading_08/JLPT_N3_jp_reading_08.mp3",
+  "textAudioEn": "/audio/japanese/JLPT_N3_reading_08/JLPT_N3_en_reading_08.mp3",
+  "textAudioEn_1": "/audio/japanese/JLPT_N3_reading_08/JLPT_N3_en_reading_08.mp3",
+  "japaneseText": [
+    "あゆみは祖母の屋根裏で古い着物を見つけた。それは菊と波の模様がインディゴと金色の色合いで施された美しい衣装だった。祖母はあゆみの興味を見て、それが家宝で、魔法の力があると噂されていると説明した。",
+    "ある静かな夜、あゆみは着物を試着する衝動に抗えなかった。彼女が帯をウエストに結びつけると、目がくらむような風が彼女を取り巻き、屋根裏は影に溶けていった。",
+    "世界が再び固まった時、あゆみは江戸時代の賑やかな市場の真ん中に立っていた。驚いた彼女は人々の群れを通り抜け、木製の露店や通りを巡回する侍、そして遠い過去の生活の細かいディテールを観察した。",
+    "あゆみの冒険はそこで終わらなかった。彼女が着物を着るたびに、別の時代に連れて行かれた。彼女は徳川幕府による日本の統一、ペリー提督の黒船の到来、そして明治維新の急速な近代化を目の当たりにした。",
+    "旅を重ねるごとに、あゆみは適応し、歴史の知識と勉強していたN3レベルの日本語を使用した。彼女は丁寧な丁寧語で商人と会話し、尊敬語を使って役人と交渉し、レッスンで覚えた関西弁を使って窮地を脱出することさえできた。",
+    "しかし、あゆみは永遠に過去に留まることはできないと知っていた。彼女は自分の時代に戻る秘密を探し始めた。歴史の書物や巻物を調べ、時間の流れと歴史における自分の位置の理解の重要性について学んだ。",
+    "ついに、あゆみは過去に何か目的を果たすことが現在に戻る鍵であることを発見した。路地の子供に読み書きを教えることから、商人の帳簿を整える手伝いまで、どんな小さな行動も彼女を自分の時代に近づけた。",
+    "最後に、一群の職人が伝統工芸を保存するのを手伝った後、着物は暖かい光で輝き、あゆみは時間が解き放たれる馴染みのある感覚を感じた。彼女は目を閉じて旋風を抱きしめた。",
+    "ほこりだらけの屋根裏に再び目を開けると、あゆみは時を超える着物を丁寧に畳み、その真の力を理解した。それは時間を越える橋だけでなく、人生の無常と歴史と現代の相互関係の教師だった。あゆみの旅は、日本の過去だけでなく、彼女自身の内なる強さと知恵の発見でもあった。"
+  ],
+  "romanizedText": [
+    "Ayumi wa sobo no yaneura de furui kimono o mitsuketa. Sore wa kiku to nami no moyō ga indigo to kin'iro no iroai de shi sa reta utsukushī ishō datta. Sobo wa Ayumi no kyōmi o mite, sore ga kahō de, mahō no chikara ga aru to uwasa sa rete iru to setsumei shita.",
+    "Aru shizuka na yoru, Ayumi wa kimono o shichaku suru shōdō ni aragaenakatta. Kanojo ga obi o uesuto ni musubitsukeru to, me ga kuramu yōna kaze ga kanojo o torimaki, yaneura wa kage ni tokete itta.",
+    "Sekai ga futatabi katamatta toki, Ayumi wa Edo jidai no nigiyaka na ichiba no mannaka ni tatte ita. Odoroita kanojo wa hitobito no mure o tōrinuke, mokusei no roten ya tōri o junkai suru samurai, soshite tōi kako no seikatsu no komakai diteiru o kansatsu shita.",
+    "Ayumi no bōken wa soko de owaranakatta. Kanojo ga kimono o kiru tabi ni, betsu no jidai ni tsurete ikareta. Kanojo wa Tokugawa bakufu ni yoru Nihon no tōitsu, Perī-teidoku no kurofune no tōrai, soshite Meiji ishin no kyūsoku na kindaika o me no ma ni shita.",
+    "Tabi o kasaneru goto ni, Ayumi wa tekio shi, rekishi no chishiki to benkyo shite ita N3 reberu no nihongo o shiyoshita. Kanojo wa teinei na teineigo de shonin to kaiwa shi, sonkeigo o tsukatte yakunin to koshō shi, ressun de oboeta Kansaiben o tsukatte kyūchi o dasshutsu suru koto sae dekita.",
+    "Shikashi, Ayumi wa eien ni kako ni tomaru koto wa dekinai to shitte ita. Kanojo wa jibun no jidai ni modoru himitsu o sagashi hajimeta. Rekishi no shomotsu ya makimono o shirabe, jikan no nagare to rekishi ni okeru jibun no ichi no rikai no jūyōsei ni tsuite mananda.",
+    "Tsui ni, Ayumi wa kako ni nanika mokuteki o hatasu koto ga genzai ni modoru kagi de aru koto o hakken shita. Roji no kodomo ni yomi kaki o oshieru koto kara, shonin no chōbo o totonoeru tetsudai made, donna chiisana kōdō mo kanojo o jibun no jidai ni chikazuketa.",
+    "Saigo ni, ichigun no shokunin ga dentō kōgei o hozon suru no o tetsudatta ato, kimono wa atatakai hikari de kagayaki, Ayumi wa jikan ga tokihanatareru najimi no aru kankaku o kanjita. Kanojo wa me o tojite senpū o dakishimeta.",
+    "Hokori darake no yaneura ni futatabi me o akeru to, Ayumi wa toki o koeru kimono o teinei ni tatami, sono shin no chikara o rikai shita. Sore wa jikan o koeru hashi dake de naku, jinsei no mujō to rekishi to gendai no sōgo kankei no kyōshi datta. Ayumi no tabi wa, Nihon no kako dake de naku, kanojo jishin no uchinaru tsuyosa to chie no hakken demo atta."
+  ],
+  "englishTranslation": [
+    "Ayumi stumbled upon the old kimono tucked away in a corner of her grandmother's attic. It was a beautiful garment, patterned with chrysanthemums and waves in shades of indigo and gold. Her grandmother, upon seeing Ayumi's interest, explained that it was a family heirloom, rumored to have magical properties.",
+    "One quiet evening, Ayumi couldn't resist the urge to try on the kimono. As she tied the obi around her waist, a dizzying rush of wind encircled her, and the attic dissolved into shadows.",
+    "When the world solidified once more, Ayumi found herself standing in the midst of a bustling Edo-period marketplace. Astonished, she navigated through the throngs of people, observing the wooden stalls, the samurai patrolling the streets, and the intricate details of life in a time long past.",
+    "Ayumi's adventures didn't end there. Each time she wore the kimono, she was whisked away to another era. She witnessed the unification of Japan under the Tokugawa shogunate, the arrival of Commodore Perry's black ships, and the rapid modernization of the Meiji Restoration.",
+    "With each travel, Ayumi learned to adapt, using her knowledge of history and the N3-level Japanese she had studied. She conversed with merchants in polite teineigo, negotiated with officials using sonkeigo, and even managed to escape a tight spot with some well-chosen kansai-ben that she remembered from her lessons.",
+    "However, Ayumi knew she couldn't stay in the past forever. She began to search for the secret that would return her to her own time. Delving into historical texts and scrolls, she learned about the flow of time and the importance of understanding one's place in history.",
+    "Finally, Ayumi discovered that the key to returning to the present was to fulfill a purpose in the past—to leave a positive impact, no matter how small. Whether it was teaching a street urchin to read or helping a vendor balance their accounts, each action brought her closer to her own era.",
+    "At last, after helping a group of artisans preserve their traditional craft, the kimono glowed with a warm light, and Ayumi felt the familiar sensation of time unraveling. She closed her eyes and embraced the whirlwind.",
+    "Opening her eyes to the dusty attic once more, Ayumi carefully folded the time-traveling kimono, now understanding its true power. It was not just a bridge through time; it was a teacher of life's impermanence and the interconnectedness of history and the present day. Ayumi's journey had been one of discovery, not only of Japan's past but also of her own inner strength and wisdom."
+  ],
+  "readingVocabulary": [
+    "時を超える (ときをこえる) - Toki o koeru - Time-traveling",
+    "屋根裏 (やねうら) - Yaneura - Attic",
+    "家宝 (かほう) - Kahō - Family heirloom",
+    "魔法 (まほう) - Mahō - Magic",
+    "衝動 (しょうどう) - Shōdō - Impulse, urge",
+    "服装 (ふくそう) - Fukusō - Attire, outfit",
+    "解き放たれる (ときはなたれる) - Tokihanatareru - Unleashed, released",
+    "江戸時代 (えどじだい) - Edo jidai - Edo period",
+    "通り抜ける (とおりぬける) - Tōrinukeru - To pass through",
+    "露店 (ろてん) - Roten - Stall, booth",
+    "巡回 (じゅんかい) - Junkai - Patrol",
+    "適応 (てきおう) - Tekiō - Adaptation",
+    "丁寧語 (ていねいご) - Teineigo - Polite language",
+    "尊敬語 (そんけいご) - Sonkeigo - Respectful language",
+    "関西弁 (かんさいべん) - Kansaiben - Kansai dialect",
+    "窮地 (きゅうち) - Kyūchi - Predicament, tight spot",
+    "永遠 (えいえん) - Eien - Forever, eternity",
+    "秘密 (ひみつ) - Himitsu - Secret",
+    "重要性 (じゅうようせい) - Jūyōsei - Importance, significance",
+    "過去 (かこ) - Kako - Past",
+    "目的 (もくてき) - Mokuteki - Purpose, objective",
+    "帳簿 (ちょうぼ) - Chōbo - Account book",
+    "整える (ととのえる) - Totonoeru - To arrange, put in order",
+    "伝統工芸 (でんとうこうげい) - Dentō kōgei - Traditional crafts",
+    "暖かい光 (あたたかいひかり) - Atatakai hikari - Warm light",
+    "馴染みのある (なじみのある) - Najimi no aru - Familiar",
+    "旋風 (せんぷう) - Senpū - Whirlwind",
+    "ほこりだらけ (ほこりだらけ) - Hokoridarake - Dusty",
+    "無常 (むじょう) - Mujō - Impermanence",
+    "相互関係 (そうごかんけい) - Sōgo kankei - Interrelation"
+  ],
+  "readingVocabularyEn": [
+    "'stumbled upon (偶然見つける) - ふとしたことから見つけること。'",
+    "'tucked away (隠れている) - 人目につかないように隠されている状態。'",
+    "'garment (衣服) - 衣類、服。'",
+    "'chrysanthemums (菊) - 菊の花。'",
+    "'heirloom (家宝) - 家族から受け継がれる価値ある物。'",
+    "'rumored (噂されている) - 人々の間で噂されている、言い伝えられている。'",
+    "'magical properties (魔法の力) - 魔法のような特別な能力や効果。'",
+    "'urge (衝動) - 強い欲求や衝動。'",
+    "'dizzying (目眩がするような) - 目が回るような、めまいを引き起こす。'",
+    "'encircled (取り囲む) - 完全に囲むこと。'",
+    "'solidified (固まる) - 固体になること。'",
+    "'bustling (にぎやかな) - 活気に満ちた、忙しい。'",
+    "'throng (群衆) - 大勢の人々、群れ。'",
+    "'patrolling (巡回する) - 巡回して監視すること。'",
+    "'intricate (複雑な) - 細かく複雑な。'",
+    "'whisked away (素早く連れ去る) - 素早くどこかへ連れて行くこと。'",
+    "'unification (統一) - 一つにまとめること。'",
+    "'shogunate (幕府) - 歴史上の日本における武士の政治組織。'",
+    "'modernization (近代化) - 近代的なものにすること。'",
+    "'adapt (適応する) - 環境や状況に合わせて変わること。'",
+    "'conversed (会話する) - 話をする、会話を交わす。'",
+    "'negotiated (交渉する) - 交渉によって合意に達すること。'",
+    "'tight spot (窮地) - 非常に困難な状況。'",
+    "'delving into (掘り下げる) - 徹底的に調べること。'",
+    "'scrolls (巻物) - 古い手書きの文書や絵が書かれた巻物。'",
+    "'fulfill (果たす) - 義務や要求を満たすこと。'",
+    "'impact (影響) - 効果や影響。'",
+    "'artisan (職人) - 手工芸品を作る熟練工。'",
+    "'impermanence (無常) - 恒常性がないこと、はかないこと。'",
+    "'interconnectedness (相互関連) - 互いに深く関連していること。'"
+  ],
+  "readingGrammar": [
+    "見つけた (みつけた) - Mitsuketa: This is the past tense form of the verb 見つける (mitsukeru), meaning 'to find.' The た (ta) ending indicates that the action was completed in the past, translating to 'found' in English.",
+    "施された (ほどこされた) - Hodokosareta: This is the passive form of the verb 施す (hodokosu), which means 'to apply' or 'to bestow.' The passive form indicates that the action was done to the subject, translating to 'was applied' or 'was bestowed.'",
+    "抗えなかった (あらがえなかった) - Aragaenakatta: This is the negative past form of the potential verb 抗う (aragau), meaning 'to resist.' 抗える (araeru) is the potential form, and adding なかった (nakatta) indicates the past negative, translating to 'could not resist.'",
+    "結びつける (むすびつける) - Musubitsukeru: This is a compound verb made up of 結ぶ (musubu, 'to tie') and つける (tsukeru, 'to attach'). This form suggests the action of tying something in place, translating to 'tied around.'",
+    "溶けていった (とけていった) - Toketeitta: This is a combination of the verb 溶ける (tokeru, 'to melt' or 'to dissolve') in the te-form, followed by いく (iku) in its past tense いった (itta), indicating a gradual change or transition, translating to 'melted away' or 'dissolved away.'",
+    "立っていた (たっていた) - Tatteita: This is the past continuous form of 立つ (tatsu, 'to stand'). The ている (teiru) form is used for ongoing actions or states, and いた (ita) makes it past tense, translating to 'was standing.'",
+    "通り抜け (とおりぬけ) - Tōrinuke: This is a noun form of the verb 通り抜ける (tōrinukeru, 'to pass through'). By using the noun form, it emphasizes the act of passing through, often used in descriptions.",
+    "目の当たりにした (めのまのあたりにした) - Me no ma ni shita: This phrase combines 目の当たり (me no ma, 'before one's eyes') with にする (ni suru), a form that emphasizes experiencing or witnessing something firsthand, translating to 'witnessed.'",
+    "使用した (しようした) - Shiyō shita: This is the past tense form of 使用する (shiyō suru, 'to use'). The した (shita) ending indicates a completed action in the past, translating to 'used.'",
+    "教えることから (おしえることから) - Oshieru koto kara: This construction uses the verb 教える (oshieru, 'to teach') in its dictionary form, followed by こと (koto, 'thing' or 'act of') and から (kara, 'from'). It emphasizes the starting point or the basis of an action, translating to 'starting from teaching.'"
+  ],
+  "readingGrammarEn": [
+    "'stumbled upon' - 「偶然見つける」という意味の句動詞。'stumble' は「つまずく」を意味し、'upon'と組み合わさることで「偶然出会う」や「偶然見つける」という意味になります。",
+    "'tucked away' - 「隠れている」という意味の句動詞。'tuck' は「押し込む」や「しまい込む」という意味で、'away'と組み合わさることで「人目につかない場所に置く」という意味になります。",
+    "'couldn't resist' - 「抵抗できなかった」という過去形の否定表現。'could not' は過去の「できなかった」という意味で、'resist'は「抵抗する」という意味です。",
+    "'tied the obi' - 「帯を結ぶ」という直接的な行為を表す表現。'tied' は「結んだ」という過去形で、'the obi'は「帯」という意味の名詞です。",
+    "'found herself' - 「自分自身を見つける」という反射的な意味を持つ表現。'found' は「見つけた」という過去形で、'herself'は「自分自身」という反射代名詞です。",
+    "'navigated through' - 「通り抜ける」という意味の句動詞。'navigate' は「航行する」や「道を進む」という意味で、'through'と組み合わさることで「～を通って」という意味になります。",
+    "'witnessed the unification' - 「統一を目撃した」という過去形の表現。'witnessed' は「目撃した」という過去形で、'the unification'は「統一」という意味の名詞です。",
+    "'managed to escape' - 「何とか脱出することができた」という意味の表現。'managed' は「何とかする」という意味で、「to escape」は「脱出する」という無限形動詞です。",
+    "'delving into' - 「掘り下げる」という意味の句動詞。'delving' は「掘り下げる」という意味で、'into'は「～の中に」という前置詞です。",
+    "'embraced the whirlwind' - 「旋風を抱きしめる」という意味の表現。'embraced' は「抱きしめた」という過去形で、「the whirlwind」は「旋風」という意味の名詞です。"
+  ],
+  "sentencePayload": [
+    {
+      "japanese": "あゆみは祖母の屋根裏で古い着物を見つけた。",
+      "romanization": "Ayumi wa sobo no yaneura de furui kimono o mitsuketa.",
+      "translation": "Ayumi stumbled upon the old kimono tucked away in a corner of her grandmother's attic.",
+      "audioPath": "/audio/japanese/JLPT_N3_reading_08/r_jp_01.mp3",
+      "audioPathEn": "/audio/japanese/JLPT_N3_reading_08/r_en_01.mp3"
+    },
+    {
+      "japanese": "それは菊と波の模様がインディゴと金色の色合いで施された美しい衣装だった。",
+      "romanization": "Sore wa kiku to nami no moyō ga indigo to kin'iro no iroai de shi sa reta utsukushī ishō datta.",
+      "translation": "It was a beautiful garment, patterned with chrysanthemums and waves in shades of indigo and gold.",
+      "audioPath": "/audio/japanese/JLPT_N3_reading_08/r_jp_02.mp3",
+      "audioPathEn": "/audio/japanese/JLPT_N3_reading_08/r_en_02.mp3"
+    },
+    {
+      "japanese": "祖母はあゆみの興味を見て、それが家宝で、魔法の力があると噂されていると説明した。",
+      "romanization": "Sobo wa Ayumi no kyōmi o mite, sore ga kahō de, mahō no chikara ga aru to uwasa sa rete iru to setsumei shita.",
+      "translation": "Her grandmother, upon seeing Ayumi's interest, explained that it was a family heirloom, rumored to have magical properties.",
+      "audioPath": "/audio/japanese/JLPT_N3_reading_08/r_jp_03.mp3",
+      "audioPathEn": "/audio/japanese/JLPT_N3_reading_08/r_en_03.mp3"
+    },
+    {
+      "japanese": "ある静かな夜、あゆみは着物を試着する衝動に抗えなかった。",
+      "romanization": "Aru shizuka na yoru, Ayumi wa kimono o shichaku suru shōdō ni aragaenakatta.",
+      "translation": "One quiet evening, Ayumi couldn't resist the urge to try on the kimono.",
+      "audioPath": "/audio/japanese/JLPT_N3_reading_08/r_jp_04.mp3",
+      "audioPathEn": "/audio/japanese/JLPT_N3_reading_08/r_en_04.mp3"
+    },
+    {
+      "japanese": "彼女が帯をウエストに結びつけると、目がくらむような風が彼女を取り巻き、屋根裏は影に溶けていった。",
+      "romanization": "Kanojo ga obi o uesuto ni musubitsukeru to, me ga kuramu yōna kaze ga kanojo o torimaki, yaneura wa kage ni tokete itta.",
+      "translation": "As she tied the obi around her waist, a dizzying rush of wind encircled her, and the attic dissolved into shadows.",
+      "audioPath": "/audio/japanese/JLPT_N3_reading_08/r_jp_05.mp3",
+      "audioPathEn": "/audio/japanese/JLPT_N3_reading_08/r_en_05.mp3"
+    },
+    {
+      "japanese": "世界が再び固まった時、あゆみは江戸時代の賑やかな市場の真ん中に立っていた。",
+      "romanization": "Sekai ga futatabi katamatta toki, Ayumi wa Edo jidai no nigiyaka na ichiba no mannaka ni tatte ita.",
+      "translation": "When the world solidified once more, Ayumi found herself standing in the midst of a bustling Edo-period marketplace.",
+      "audioPath": "/audio/japanese/JLPT_N3_reading_08/r_jp_06.mp3",
+      "audioPathEn": "/audio/japanese/JLPT_N3_reading_08/r_en_06.mp3"
+    },
+    {
+      "japanese": "驚いた彼女は人々の群れを通り抜け、木製の露店や通りを巡回する侍、そして遠い過去の生活の細かいディテールを観察した。",
+      "romanization": "Odoroita kanojo wa hitobito no mure o tōrinuke, mokusei no roten ya tōri o junkai suru samurai, soshite tōi kako no seikatsu no komakai diteiru o kansatsu shita.",
+      "translation": "Astonished, she navigated through the throngs of people, observing the wooden stalls, the samurai patrolling the streets, and the intricate details of life in a time long past.",
+      "audioPath": "/audio/japanese/JLPT_N3_reading_08/r_jp_07.mp3",
+      "audioPathEn": "/audio/japanese/JLPT_N3_reading_08/r_en_07.mp3"
+    },
+    {
+      "japanese": "あゆみの冒険はそこで終わらなかった。",
+      "romanization": "Ayumi no bōken wa soko de owaranakatta.",
+      "translation": "Ayumi's adventures didn't end there.",
+      "audioPath": "/audio/japanese/JLPT_N3_reading_08/r_jp_08.mp3",
+      "audioPathEn": "/audio/japanese/JLPT_N3_reading_08/r_en_08.mp3"
+    },
+    {
+      "japanese": "彼女が着物を着るたびに、別の時代に連れて行かれた。",
+      "romanization": "Kanojo ga kimono o kiru tabi ni, betsu no jidai ni tsurete ikareta.",
+      "translation": "Each time she wore the kimono, she was whisked away to another era.",
+      "audioPath": "/audio/japanese/JLPT_N3_reading_08/r_jp_09.mp3",
+      "audioPathEn": "/audio/japanese/JLPT_N3_reading_08/r_en_09.mp3"
+    },
+    {
+      "japanese": "彼女は徳川幕府による日本の統一、ペリー提督の黒船の到来、そして明治維新の急速な近代化を目の当たりにした。",
+      "romanization": "Kanojo wa Tokugawa bakufu ni yoru Nihon no tōitsu, Perī-teidoku no kurofune no tōrai, soshite Meiji ishin no kyūsoku na kindaika o me no ma ni shita.",
+      "translation": "She witnessed the unification of Japan under the Tokugawa shogunate, the arrival of Commodore Perry's black ships, and the rapid modernization of the Meiji Restoration.",
+      "audioPath": "/audio/japanese/JLPT_N3_reading_08/r_jp_10.mp3",
+      "audioPathEn": "/audio/japanese/JLPT_N3_reading_08/r_en_10.mp3"
+    },
+    {
+      "japanese": "旅を重ねるごとに、あゆみは適応し、歴史の知識と勉強していたN3レベルの日本語を使用した。",
+      "romanization": "Tabi o kasaneru goto ni, Ayumi wa tekio shi, rekishi no chishiki to benkyo shite ita N3 reberu no nihongo o shiyoshita.",
+      "translation": "With each travel, Ayumi learned to adapt, using her knowledge of history and the N3-level Japanese she had studied.",
+      "audioPath": "/audio/japanese/JLPT_N3_reading_08/r_jp_11.mp3",
+      "audioPathEn": "/audio/japanese/JLPT_N3_reading_08/r_en_11.mp3"
+    },
+    {
+      "japanese": "彼女は丁寧な丁寧語で商人と会話し、尊敬語を使って役人と交渉し、レッスンで覚えた関西弁を使って窮地を脱出することさえできた。",
+      "romanization": "Kanojo wa teinei na teineigo de shonin to kaiwa shi, sonkeigo o tsukatte yakunin to koshō shi, ressun de oboeta Kansaiben o tsukatte kyūchi o dasshutsu suru koto sae dekita.",
+      "translation": "She conversed with merchants in polite teineigo, negotiated with officials using sonkeigo, and even managed to escape a tight spot with some well-chosen kansai-ben that she remembered from her lessons.",
+      "audioPath": "/audio/japanese/JLPT_N3_reading_08/r_jp_12.mp3",
+      "audioPathEn": "/audio/japanese/JLPT_N3_reading_08/r_en_12.mp3"
+    },
+    {
+      "japanese": "しかし、あゆみは永遠に過去に留まることはできないと知っていた。",
+      "romanization": "Shikashi, Ayumi wa eien ni kako ni tomaru koto wa dekinai to shitte ita.",
+      "translation": "However, Ayumi knew she couldn't stay in the past forever.",
+      "audioPath": "/audio/japanese/JLPT_N3_reading_08/r_jp_13.mp3",
+      "audioPathEn": "/audio/japanese/JLPT_N3_reading_08/r_en_13.mp3"
+    },
+    {
+      "japanese": "彼女は自分の時代に戻る秘密を探し始めた。",
+      "romanization": "Kanojo wa jibun no jidai ni modoru himitsu o sagashi hajimeta.",
+      "translation": "She began to search for the secret that would return her to her own time.",
+      "audioPath": "/audio/japanese/JLPT_N3_reading_08/r_jp_14.mp3",
+      "audioPathEn": "/audio/japanese/JLPT_N3_reading_08/r_en_14.mp3"
+    },
+    {
+      "japanese": "歴史の書物や巻物を調べ、時間の流れと歴史における自分の位置の理解の重要性について学んだ。",
+      "romanization": "Rekishi no shomotsu ya makimono o shirabe, jikan no nagare to rekishi ni okeru jibun no ichi no rikai no jūyōsei ni tsuite mananda.",
+      "translation": "Delving into historical texts and scrolls, she learned about the flow of time and the importance of understanding one's place in history.",
+      "audioPath": "/audio/japanese/JLPT_N3_reading_08/r_jp_15.mp3",
+      "audioPathEn": "/audio/japanese/JLPT_N3_reading_08/r_en_15.mp3"
+    },
+    {
+      "japanese": "ついに、あゆみは過去に何か目的を果たすことが現在に戻る鍵であることを発見した。",
+      "romanization": "Tsui ni, Ayumi wa kako ni nanika mokuteki o hatasu koto ga genzai ni modoru kagi de aru koto o hakken shita.",
+      "translation": "Finally, Ayumi discovered that the key to returning to the present was to fulfill a purpose in the past—to leave a positive impact, no matter how small.",
+      "audioPath": "/audio/japanese/JLPT_N3_reading_08/r_jp_16.mp3",
+      "audioPathEn": "/audio/japanese/JLPT_N3_reading_08/r_en_16.mp3"
+    },
+    {
+      "japanese": "路地の子供に読み書きを教えることから、商人の帳簿を整える手伝いまで、どんな小さな行動も彼女を自分の時代に近づけた。",
+      "romanization": "Roji no kodomo ni yomi kaki o oshieru koto kara, shonin no chōbo o totonoeru tetsudai made, donna chiisana kōdō mo kanojo o jibun no jidai ni chikazuketa.",
+      "translation": "Whether it was teaching a street urchin to read or helping a vendor balance their accounts, each action brought her closer to her own era.",
+      "audioPath": "/audio/japanese/JLPT_N3_reading_08/r_jp_17.mp3",
+      "audioPathEn": "/audio/japanese/JLPT_N3_reading_08/r_en_17.mp3"
+    },
+    {
+      "japanese": "最後に、一群の職人が伝統工芸を保存するのを手伝った後、着物は暖かい光で輝き、あゆみは時間が解き放たれる馴染みのある感覚を感じた。",
+      "romanization": "Saigo ni, ichigun no shokunin ga dentō kōgei o hozon suru no o tetsudatta ato, kimono wa atatakai hikari de kagayaki, Ayumi wa jikan ga tokihanatareru najimi no aru kankaku o kanjita.",
+      "translation": "At last, after helping a group of artisans preserve their traditional craft, the kimono glowed with a warm light, and Ayumi felt the familiar sensation of time unraveling.",
+      "audioPath": "/audio/japanese/JLPT_N3_reading_08/r_jp_18.mp3",
+      "audioPathEn": "/audio/japanese/JLPT_N3_reading_08/r_en_18.mp3"
+    },
+    {
+      "japanese": "彼女は目を閉じて旋風を抱きしめた。",
+      "romanization": "Kanojo wa me o tojite senpū o dakishimeta.",
+      "translation": "She closed her eyes and embraced the whirlwind.",
+      "audioPath": "/audio/japanese/JLPT_N3_reading_08/r_jp_19.mp3",
+      "audioPathEn": "/audio/japanese/JLPT_N3_reading_08/r_en_19.mp3"
+    },
+    {
+      "japanese": "ほこりだらけの屋根裏に再び目を開けると、あゆみは時を超える着物を丁寧に畳み、その真の力を理解した。",
+      "romanization": "Hokori darake no yaneura ni futatabi me o akeru to, Ayumi wa toki o koeru kimono o teinei ni tatami, sono shin no chikara o rikai shita.",
+      "translation": "Opening her eyes to the dusty attic once more, Ayumi carefully folded the time-traveling kimono, now understanding its true power.",
+      "audioPath": "/audio/japanese/JLPT_N3_reading_08/r_jp_20.mp3",
+      "audioPathEn": "/audio/japanese/JLPT_N3_reading_08/r_en_20.mp3"
+    },
+    {
+      "japanese": "それは時間を越える橋だけでなく、人生の無常と歴史と現代の相互関係の教師だった。",
+      "romanization": "Sore wa jikan o koeru hashi dake de naku, jinsei no mujō to rekishi to gendai no sōgo kankei no kyōshi datta.",
+      "translation": "It was not just a bridge through time; it was a teacher of life's impermanence and the interconnectedness of history and the present day.",
+      "audioPath": "/audio/japanese/JLPT_N3_reading_08/r_jp_21.mp3",
+      "audioPathEn": "/audio/japanese/JLPT_N3_reading_08/r_en_21.mp3"
+    },
+    {
+      "japanese": "あゆみの旅は、日本の過去だけでなく、彼女自身の内なる強さと知恵の発見でもあった。",
+      "romanization": "Ayumi no tabi wa, Nihon no kako dake de naku, kanojo jishin no uchinaru tsuyosa to chie no hakken demo atta.",
+      "translation": "Ayumi's journey had been one of discovery, not only of Japan's past but also of her own inner strength and wisdom.",
+      "audioPath": "/audio/japanese/JLPT_N3_reading_08/r_jp_22.mp3",
+      "audioPathEn": "/audio/japanese/JLPT_N3_reading_08/r_en_22.mp3"
+    }
+  ]
+}

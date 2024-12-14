@@ -1,0 +1,61 @@
+{
+  "key": "reading_0",
+  "title": "reading 0",
+  "titleRomaji": "reading 0",
+  "titleJp": "reading 0",
+  "p_tag": "JLPT_N2",
+  "s_tag": "sci-fi",
+  "textAudio": "/audio/japanese/reading/reading_3.mp3",
+  "textAudio_1": "/audio/japanese/reading/reading_3.mp3",
+  "textAudioEn": "/audio/english/reading_1/ElevenLabs_2023-11-04T19_31_04_Rachel_pre_s50_sb75_se0_b_m2.mp3",
+  "textAudioEn_1": "/audio/english/reading_1/ElevenLabs_2023-11-04T19_31_04_Rachel_pre_s50_sb75_se0_b_m2.mp3",
+  "japaneseText": [
+    "2137年、地球はほとんどの天然資源を使い果たし、人類を宇宙の空間での救済を探るように駆り立てました。スターシップAeolisは、生命の潜在的な兆候を示している最近発見された太陽系外惑星、Zephyriaを調査するために銀河の外縁に派遣されました。このミッションには、資源だけでなく、新しい家としての潜在的な可能性もかかっていました。",
+    "AeolisがZephyriaに接近すると、初期のスキャンは有望な絵を描きました：広大な海、密な森、そして地球の大気と驚くほど似ている。しかし、一つの異常が乗組員の興味を引きました - 巨大な単一のモノリス構造、対称的で鋭い、空を突き刺すように。先進的なエイリアン生命の指標だと確信して、キャプテンのアナヤは近くに着陸するよう命じました。探検隊は、平和的な最初の接触を確立することを望んで、先進的な通信ツールを装備していました。"
+  ],
+  "romanizedText": [
+    "2137-nen, Chikyū wa hotondo no tennen shigen o tsukaihatashi, jinrui o uchū no kūkan de no kyūsai o saguru yō ni karitatemashita. Sutāshippu Aeolis wa, seimei no sentenzai-tekina chōkoku o shimeshite iru saikin hakken sa reta taiyō-keigai wakusei, Zephyria o chōsa suru tame ni ginga no gaien ni haken sa remashita. Kono misshon ni wa, shigen dake denaku, atarashī ie toshite no sentenzai-tekina kanō-sei mo kakatte imashita.",
+    "Aeolis ga Zephyria ni sekkin suru to, shoki no sukyan wa yūbōna e o egakimashita: kōdai na umi, mitsuna mori, soshite Chikyū no taiki to odoroku hodo nite iru. Shikashi, hitotsu no ijō ga jokyūin no kyōmi o hikimashita - kyodaina tan'itsu no monorisu kōzō, taishō-teki de surudoi, sora o tsukisasu yō ni. Senshinteki na eirian seimei no shihyō da to kakushin shite, Kyaputen no Anaya wa chikaku ni chakuriku suru yō meijimashita. Tanken-tai wa, heiwateki na saisho no sesshoku o kakuritsu suru koto o nozonde, senshinteki na tsūshin tsūru o sōbi shite imashita."
+  ],
+  "englishTranslation": [
+    "In the year 2137, Earth had exhausted most of its natural resources, compelling humanity to probe the void of space in search of salvation. Starship Aeolis, a high-tech exploratory vessel, was dispatched to the outer rims of our galaxy to investigate a recently discovered exoplanet, Zephyria, that displayed potential signs of life. The hopes of humanity rested on this mission, not just for resources, but for a potential new home.",
+    "As the Aeolis approached Zephyria, initial scans painted a promising picture: vast oceans, dense forests, and an atmosphere strikingly similar to Earth’s. But a singular anomaly piqued the crew's interest—an enormous monolithic structure, symmetric and sharp, piercing the sky. Convinced it was an indicator of advanced alien life, Captain Anaya gave the order to land nearby. The team of explorers, armed with advanced communication tools, hoped to establish a peaceful first contact."
+  ],
+  "readingVocabulary": [
+    "天然資源 (てんねんしげん) - Ten'nen shigen - Natural resources",
+    "救済 (きゅうさい) - Kyūsai - Relief or salvation",
+    "太陽系外惑星 (たいようけいがいわくせい) - Taiyōkeigai wakusei - Exoplanet",
+    "潜在的 (せんざいてき) - Senzai-teki - Potential or latent",
+    "兆候 (ちょうこう) - Chōkō - Indication or sign"
+  ],
+  "readingVocabularyEn": [
+    "exhausted (使い果たした) 地球はほとんどの自然資源を使い果たした。 自然資源を全てまたはほとんど使い尽くした状態。",
+    "compelling (強制的な) 人類を宇宙の空虚に探査させる強制的な事態。 強く影響を与える、説得力のある。",
+    "salvation (救済) 救済を求める。 危機や困難な状況からの救出や解放。"
+  ],
+  "readingGrammar": [
+    "使い果たし - This is the conjugation of the verb 使い果たす (to use up). The し ending indicates the past tense, so it means 'used up.'",
+    "駆り立てました - This is the past tense of 駆り立てる, which means 'to spur' or 'drive someone to do something.' The ました ending indicates politeness and past tense.",
+    "された in 発見された - This is the passive form of the verb する (to do). The passive form is used to indicate that something was done by someone or something. In this context, it means the planet 'was discovered.'"
+  ],
+  "readingGrammarEn": [
+    "Past Perfect Tense (過去完了時制) - 'Earth had exhausted most of its natural resources' - 地球はほとんどの自然資源を使い果たしていた。過去のある時点より前に完了していた動作を表す。",
+    "Present Participle as Adjective (現在分詞を形容詞として使用) - 'a high-tech exploratory vessel' - 高技術の探査船。動名詞が形容詞として名詞を修飾している。"
+  ],
+  "sentencePayload": [
+    {
+      "japanese": "2137年、地球はほとんどの天然資源を使い果たし。",
+      "romanization": "2137-nen, Chikyū wa hotondo no tennen shigen o tsukaihatashi.",
+      "translation": "In 2137, Earth had exhausted most of its natural resources.",
+      "audioPath": "/audio/japanese/reading_1/r_1.mp3",
+      "audioPathEn": "/audio/english/reading_1/r_1.mp3"
+    },
+    {
+      "japanese": "人類を宇宙の空間での救済を探るように駆り立てました。",
+      "romanization": "Jinrui o uchū no kūkan de no kyūsai o saguru yō ni karitatemashita.",
+      "translation": "It compelled humanity to probe the void of space in search of salvation.",
+      "audioPath": "/audio/japanese/reading_1/r_2.mp3",
+      "audioPathEn": "/audio/english/reading_1/r_2.mp3"
+    }
+  ]
+}

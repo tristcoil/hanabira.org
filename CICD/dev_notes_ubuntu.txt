@@ -1,0 +1,4 @@
+--- Ubuntu ---
+
+looks like we just installed docker via apt and we already have docker compose 
+so all cool on Ubuntu

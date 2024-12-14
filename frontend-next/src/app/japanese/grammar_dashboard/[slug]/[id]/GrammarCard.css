@@ -1,0 +1,103 @@
+
+.grammar-card {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 99%;
+    max-width: 2000px;
+    height: auto;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    background-color: #f5f5f5; /* Slightly darker background color */
+    overflow: hidden;
+    margin: 4px; /* Adjust the left margin as needed */
+    padding: 24px;
+  }
+  
+  .grammar-card__title {
+    font-size: 24px;
+    font-weight: bold;
+    text-align: center;
+    margin-bottom: 24px;
+  }
+  
+  .grammar-card__grid {
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-gap: 10px;
+    width: 100%;
+  }
+  
+  .grammar-card__explanation,
+  .grammar-card__formation,
+  .grammar-card__example {
+    font-size: 16px;
+    text-align: left;
+    line-height: 1.5;
+    margin-bottom: 5px;
+  }
+  
+  .grammar-card__example {
+    border-top: 1px solid #eee;
+    padding-top: 5px;
+  }
+
+  .grammar-card__example-jp {
+    font-size: 18px;
+    font-weight: normal; /* Instead of bold, use normal font-weight */
+    text-align: left;
+    margin-bottom: 8px;
+    line-height: 1.6; /* Adjust line-height to give more space between lines */
+    letter-spacing: 0.05em; /* Add some letter-spacing for better character separation */
+    font-family: "Hiragino Kaku Gothic Pro", "Hiragino Mincho Pro", "游ゴシック", "游明朝", "Yu Gothic", "Yu Mincho", sans-serif; /* Use a suitable font-family for Japanese text */
+  }
+    
+  .grammar-card__example-romaji,
+  .grammar-card__example-en {
+    font-size: 16px;
+    font-style: italic;
+    text-align: left;
+    margin-bottom: 8px;
+  }
+  
+  .grammar-card__examples {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 16px;
+    width: 100%;
+  }
+  
+  /* Media query for mobile devices */
+  @media (max-width: 768px) {
+    .grammar-card__grid {
+      grid-template-columns: 1fr;
+    }
+  }
+  
+  /* Media query for larger devices */
+  @media (min-width: 769px) and (max-width: 1199px) {
+    .grammar-card__grid {
+      grid-template-columns: 1fr 1fr;
+    }
+  }
+  
+  /* Media query for extra-large devices */
+  @media (min-width: 1200px) {
+    .grammar-card__grid {
+      grid-template-columns: 1fr 1fr;
+    }
+  
+    .grammar-card__examples {
+      grid-template-columns: 1fr 1fr;
+    }
+  }
+
+  
+  .grammar-card__audio-icon {
+    margin-right: 8px;
+    cursor: pointer;
+  }
+  
+  
+  

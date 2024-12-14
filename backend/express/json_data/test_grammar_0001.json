@@ -1,0 +1,35 @@
+[
+    {
+        "title": "～としたら (〜to shitara)",
+        "explanation": "Express a hypothetical situation; 'if', 'suppose', 'assuming'.",
+        "formation": "Verb-casual + としたら\nい-Adjective + としたら\nな-Adjective + だとしたら\nNoun + だとしたら",
+        "examples": [
+            {
+                "jp": "明日雨が降るとしたら、傘を持って行きましょう。",
+                "romaji": "Ashita ame ga furu to shitara, kasa wo motte ikimashou.",
+                "en": "If it rains tomorrow, let's bring an umbrella.",
+                "grammar_audio": "/audio/sentences/s_下ろす_20230315_プログラムを下ろす.mp3"
+            },
+            {
+                "jp": "このケーキが美味しくないとしたら、誰も食べないでしょう。",
+                "romaji": "Kono keeki ga oishikunai to shitara, daremo tabenai deshou.",
+                "en": "If this cake is not delicious, nobody will eat it.",
+                "grammar_audio": "/audio/sentences/s_下ろす_20230315_プログラムを下ろす.mp3"
+            },
+            {
+                "jp": "彼が病気だとしたら、すぐに病院に行かせてあげてください。",
+                "romaji": "Kare ga byouki da to shitara, sugu ni byouin ni ikasete agete kudasai.",
+                "en": "If he is sick, please take him to the hospital right away.",
+                "grammar_audio": "/audio/sentences/s_下ろす_20230315_プログラムを下ろす.mp3"
+            },
+            {
+                "jp": "彼女が学生だとしたら、このレストランは割引があるでしょう。",
+                "romaji": "Kanojo ga gakusei da to shitara, kono resutoran wa waribiki ga aru deshou.",
+                "en": "If she is a student, there will be a discount at this restaurant.",
+                "grammar_audio": "/audio/sentences/s_下ろす_20230315_プログラムを下ろす.mp3"
+            }
+        ],
+        "p_tag": "JLPT_N3",
+        "s_tag": "100"
+    }
+]

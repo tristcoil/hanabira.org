@@ -1,0 +1,44 @@
+import { DashboardHead, DashboardNav, DashboardSidebar, ItemsSentences } from "../components";
+import { CategoriesHeader, Category, Footer, Nav } from "../components";
+
+//export default function Dashboard() {
+//  return (
+//    
+//    <div className="grid lg:grid-cols-body h-screen">
+//      <DashboardSidebar />
+//      <div className="flex flex-col">
+//        <DashboardNav />
+//        <DashboardHead />
+//        {/*   <ItemsSentences />    */}
+//        <ItemsSentences />
+//      </div>
+//    </div>
+//  );
+//}
+
+// with added top navbar
+export default function Dashboard() {
+  return (
+    <div className="h-screen flex flex-col">
+      <div className="flex-shrink-0">
+        {/* <Nav /> */}
+      </div>
+      <div className="flex-1">
+        <div className="grid lg:grid-cols-body">
+          <DashboardSidebar />
+          <div className="flex flex-col flex-shrink-0">
+            <Nav />
+            <DashboardNav />
+            <DashboardHead />
+            <ItemsSentences />
+          </div>
+        </div>
+      </div>
+      <Footer />
+    </div>
+  );
+}
+
+
+
+

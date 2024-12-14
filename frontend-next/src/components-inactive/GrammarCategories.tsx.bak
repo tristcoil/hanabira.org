@@ -1,0 +1,99 @@
+import { CategoriesHeader, Category, GrammarCategory, Footer, Nav } from "../components";
+import { DashboardHead, DashboardNav, DashboardSidebar, ItemsSentences } from "../components";
+import React from "react";
+import { Link } from "react-router-dom";
+
+
+
+
+
+// GRID approach with left sidebar menu
+export default function GrammarCategories() {
+  return (
+    <div className="grid lg:grid-cols-body">
+      <div className="lg:col-span-2 grid-row-start-1 grid-column-start-1">
+        <DashboardSidebar />
+      </div>
+      <div className="lg:col-span-10">
+        <Link to="/categories">Get Started</Link>
+        <Nav />
+        <CategoriesHeader />
+        <GrammarCategory
+          img="/img/Japanese6000.png"
+          title="GRAMMAR JLPT N3 Japanese Core 2000 prop"
+          titleDes="grammar section Lorem ipsum, dolor sit amet consectetur adipisicing elit. Illum quos"
+          icon="/img/grammer.png"
+          courses="62"
+          series="7"
+          des="GRAMMAR This is prop to Category component. Learn the 6,000 most common Japanese words. Each item features an example sentence and audio from two popular Japanese voice talents. Master these 6,000 words to master Japanese!"
+        />
+        <Footer />
+      </div>
+      <div className="lg:col-span-12">
+        <Footer />
+      </div>
+    </div>
+  );
+}
+
+
+
+// old approach
+// export default function GrammarCategories() {
+//   return (
+//     <div className="webPage">
+//
+// <Link to="/categories">Get Started</Link>
+//
+//
+//
+//       <Nav />
+//       <CategoriesHeader />
+//
+//
+//       <Category
+//         img="/img/Japanese6000.png"
+//         title="GRAMMAR JLPT N3 Japanese Core 2000 prop"
+//         titleDes="grammar section Lorem ipsum, dolor sit amet consectetur adipisicing elit. Illum quos"
+//         icon="/img/grammer.png"
+//         courses="62"
+//         series="7"
+//         des="GRAMMAR This is prop to Category component. Learn the 6,000 most common Japanese words. Each item features an example sentence and audio from two popular Japanese voice talents. Master these 6,000 words to master Japanese!"
+//       />
+//
+//
+//
+//
+// {/*      <Category
+//         img="/img/SimplifiedJapaneseCore.png"
+//         title="Simplified Japanese Core"
+//         titleDes="Lorem ipsum, dolor sit amet consectetur adipisicing elit. Illum quos"
+//         icon="/img/core.png"
+//         courses="62"
+//         series="7"
+//         des="This category covers the top 2,000 most common Chinese words and 1,220 common words and expressions necessary for reading Chinese newspapers and magazines. Note: all content in this category is in simplified Chinese."
+//       />
+//       <Category
+//         img="/img/TraditionalJapaneseCore.png"
+//         title="Traditional Japanese Core"
+//         titleDes="Lorem ipsum, dolor sit amet consectetur adipisicing elit. Illum quos"
+//         icon="/img/specific.png"
+//         courses="62"
+//         series="7"
+//         des="This category covers the top 2,000 most common Chinese words and 1,220 common words and expressions necessary for reading Chinese newspapers and magazines. Note: all content in this category is in simplified Chinese."
+//       />
+//       <Category
+//         img="/img/EnglishVocabulary.png"
+//         title="English Vocabulary"
+//         titleDes="Lorem ipsum, dolor sit amet consectetur adipisicing elit. Illum quos"
+//         icon="/img/grammer.png"
+//         courses="62"
+//         series="7"
+//         des="Learn the 6,000 most common Japanese words. Each item features an example sentence and audio from two popular Japanese voice talents. Master these 6,000 words to master Japanese!"
+//       />
+//   */}
+//
+//       <Footer />
+//     </div>
+//   );
+// }

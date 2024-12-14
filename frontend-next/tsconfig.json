@@ -1,0 +1,56 @@
+{
+  "compilerOptions": {
+    "target": "es5",
+    "lib": [
+      "dom",
+      "dom.iterable",
+      "esnext"
+    ],
+    "allowJs": true,
+    "skipLibCheck": true,
+    //"strict": true,          // lol not so strict for props: any anymore, lol
+    "noEmit": true,
+    "esModuleInterop": true,
+    "module": "esnext",
+    "moduleResolution": "bundler",
+    "resolveJsonModule": true,
+    "isolatedModules": true,
+    "jsx": "preserve",
+    "incremental": true,
+    "plugins": [
+      {
+        "name": "next"
+      }
+    ],
+    "paths": {
+      "@/*": [
+        "./src/*"
+      ],
+      "@public/*": [
+        "./public/*"
+      ]
+    },
+    "strict": false
+  },
+  "include": [
+    "next-env.d.ts",
+    "**/*.ts",
+    "**/*.tsx",
+    ".next/types/**/*.ts",
+    "src/components-inactive/Categories.tsx.bak",
+    "src/components/Dashboard.tsx.bak",
+    "src/components/GrammarCategories.tsx.bak",
+    "src/components/GrammarCategory.tsx.bak",
+    "src/components/GrammarDashboard.tsx.bak",
+    "src/components/GrammarSelection.tsx.bak",
+    "src/components/HowItWorks.tsx.bak",
+    "src/components/PreNav.tsx.bak",
+    "src/components/Pricing.tsx.bak",
+    "src/components/Pricing2.tsx.bak",
+    "src/components/Testimonial.tsx.bak",
+    "src/app/japanese/kanji_overview/page.tsx.nonprod"
+  ],
+  "exclude": [
+    "node_modules"
+  ]
+}

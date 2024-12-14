@@ -1,0 +1,60 @@
+version: '3.8'
+
+# access local Hanabira app on http://localhost:8888
+
+services:
+  frontend-next:
+    image: coil/hanabira.org:frontend-next
+    environment:
+      REACT_APP_HOST_IP: 'nginx'
+      GA_MEASUREMENT_ID: '' # Google Analytics measurement ID
+    depends_on:
+      - express-db
+      - flask-dynamic-db
+      - dictionary-db
+    restart: unless-stopped
+    networks:
+      - hanabira-network
+
+  express-db:
+    image: coil/hanabira.org:express-db
+    restart: unless-stopped
+    networks:
+      - hanabira-network
+
+  flask-dynamic-db:
+    image: coil/hanabira.org:flask-dynamic-db
+    volumes:
+      - ./user_db:/data/db
+    restart: unless-stopped
+    networks:
+      - hanabira-network
+
+  dictionary-db:
+    image: coil/hanabira.org:dictionary-db
+    volumes:
+      - './config_dummy.json:/app/config.json'
+    restart: unless-stopped
+    networks:
+      - hanabira-network
+
+  nginx:
+    image: nginx:latest
+    ports:
+      - '8888:80'
+    volumes:
+      - ./nginx.conf:/etc/nginx/conf.d/default.conf:ro
+    depends_on:
+      - frontend-next
+      - express-db
+      - flask-dynamic-db
+      - dictionary-db
+    restart: unless-stopped
+    networks:
+      - hanabira-network
+
+volumes:
+  user_db:
+
+networks:
+  hanabira-network:

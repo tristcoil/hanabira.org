@@ -1,0 +1,112 @@
+KoNLPy is python package that allows us to process Korean language
+
+we can use it for Tokenization
+
+in general, this should unify multiple korean NLP tools, so should be very advanced
+
+
+
+--- 
+from chat gpt
+Yes, there are several alternatives for Korean language analysis similar to MeCab. One popular choice is called KoNLPy, which is a Python package that provides a simple interface to many Korean NLP tools, including KoNLP (Hannanum, Kkma), Komoran, Mecab (with optional plugin), and Twitter. You can use it to tokenize Korean text, extract morphemes, and perform various other NLP tasks. KoNLPy allows you to choose the backend tool according to your preference or performance requirements. Give it a try if you're looking for a Korean language parser!
+
+---
+
+my tests - we need to say that we are using KoNLPy (I suppose we could also mention Mecab as wellfor transparency)
+https://konlpy.org/en/latest/    -main page and documentation
+
+You are welcome to use the code under the terms of the license, however please acknowledge its use with a citation.
+
+Eunjeong L. Park, Sungzoon Cho. “KoNLPy: Korean natural language processing in Python”, Proceedings of the 26th Annual Conference on Human & Cognitive Language Technology, Chuncheon, Korea, Oct 2014.
+
+
+
+pip install konlpy
+
+
+Type "help", "copyright", "credits" or "license" for more information.
+>>> from konlpy.tag import Kkma
+>>> from konlpy.utils import pprint
+>>> kkma = Kkma()
+>>> pprint(kkma.sentences(u'네, 안녕하세요. 반갑습니다.'))
+['네, 안녕하세요.', '반갑습니다.']
+>>> pprint(kkma.nouns(u'질문이나 건의사항은 깃헙 이슈 트래커에 남겨주세요.'))
+['질문', '건의', '건의사항', '사항', '깃헙', '이슈', '트래커']
+>>> pprint(kkma.pos(u'오류보고는 실행환경, 에러메세지와함께 설명을 최대한상세히!^^'))
+[('오류', 'NNG'),
+ ('보고', 'NNG'),
+ ('는', 'JX'),
+ ('실행', 'NNG'),
+ ('환경', 'NNG'),
+ (',', 'SP'),
+ ('에러', 'NNG'),
+ ('메세지', 'NNG'),
+ ('와', 'JKM'),
+ ('함께', 'MAG'),
+ ('설명', 'NNG'),
+ ('을', 'JKO'),
+ ('최대한', 'NNG'),
+ ('상세히', 'MAG'),
+ ('!', 'SF'),
+ ('^^', 'EMO')]
+>>> 
+
+
+# ----------------------------
+
+from GPT 
+
+explain this output, I do not speak korean, explain the words as well
+
+coil@coil-VM:~/Desktop/zen-lingo-website/next-flash-cards/backend$ python3 konlpy_options.py 
+Original sentence: 한국어 문장을 형태소 분석하여 원형을 추출합니다.
+[('한국어', '한국어'),
+ ('문장', '문장'),
+ ('형태소', '형태소'),
+ ('분석', '분석'),
+ ('원형', '원형'),
+ ('추출', '추출')]
+coil@coil-VM:~/Desktop/zen-lingo-website/next-flash-cards/backend$ 
+
+Sure, let's break down the output:
+
+Original sentence: 한국어 문장을 형태소 분석하여 원형을 추출합니다. (Translation: "Analyzing Korean sentences to extract the base form.")
+The output shows each word in the original sentence paired with its dictionary form (base form). Here's the breakdown:
+'한국어' (han-gu-geo): It means "Korean language." In this case, the dictionary form is the same as the original word.
+'문장' (mun-jang): It means "sentence." Again, the dictionary form is the same as the original word.
+'형태소' (hyeong-tae-so): It means "morpheme" or "word element." The dictionary form is the same as the original word.
+'분석' (bun-seok): It means "analysis." The dictionary form is the same as the original word.
+'원형' (won-hyeong): It means "base form" or "root form." The dictionary form is the same as the original word.
+'추출' (chu-chul): It means "extraction" or "extraction process." The dictionary form is the same as the original word.
+In summary, the program tokenized the sentence into words and returned each word paired with its dictionary form. Since the original words are already in their dictionary form, the output shows the same word for both the original and dictionary forms.
+
+
+
+coil@coil-VM:~/Desktop/zen-lingo-website/next-flash-cards/backend$ python3 konlpy_options.py 
+[('한국', 'NNG'),
+ ('에', 'JKM'),
+ ('놀', 'VV'),
+ ('러', 'ECD'),
+ ('오', 'VX'),
+ ('았', 'EPT'),
+ ('어요', 'EFN'),
+ ('.', 'SF'),
+ ('여기', 'NP'),
+ ('정말', 'MAG'),
+ ('이쁘', 'VA'),
+ ('ㄴ', 'ETD'),
+ ('곳', 'NNG'),
+ ('이', 'VCP'),
+ ('에요', 'EFN'),
+ ('.', 'SF')]
+Original sentence: 한국에 놀러 왔어요. 여기 정말 이쁜 곳이에요.
+[('한국', '한국'),
+ ('놀', '놀'),
+ ('오', '오'),
+ ('여기', '여기'),
+ ('정말', '정말'),
+ ('이쁘', '이쁘'),
+ ('곳', '곳'),
+ ('이', '이')]
+coil@coil-VM:~/Desktop/zen-lingo-website/next-flash-cards/backend$ 
+

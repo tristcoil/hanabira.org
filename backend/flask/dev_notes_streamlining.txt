@@ -1,0 +1,80 @@
+Contains user specific data, uses persistence storage, needs to be robust and easy to maintain
+
+prod db also stores emails here so do not delete those, it took time to get email list :)
+
+
+
+// ---------------------- flask BE streamlining -------------------------- //
+critical to streamline the flask user based codebase
+needs to use keys
+username      changable actually, so not in DB
+userid        some UUID
+email         static 
+
+so this can just use userid UUID as primary key 
+it is safer approach against leaks
+
+
+
+maybe there should be separate mongodb 
+with 
+
+email 
+username 
+userid 
+token 
+
+
+keys at every call 
+
+security implementation is not part of this sprint
+
+
+mock mongo container with persistent data:
+docker run -it   -v ~/user_db:/data/db -p 27017:27017 --rm  --name mongodb_flask   mongo
+docker start mongodb_flask
+docker stop  mongodb_flask
+
+
+
+--- server.py parts ---
+
+
+unificated approach: we dump all data to db, user will not be parent element, it will just be regular key in db 
+it is still easy to search like this and it will make searches consistent\
+
+we have many DBs, there should be python class module for each, so we just import the classes
+it will be very easy to maintain
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,1179 @@
+'use client';
+
+// ----------------------- //
+
+
+
+
+import React, { useState } from 'react';
+import {
+  useDrag,
+  useDrop,
+  DndProvider,
+  DragSourceMonitor,
+  DropTargetMonitor,
+} from 'react-dnd';
+import { HTML5Backend } from 'react-dnd-html5-backend';
+
+interface WordType {
+  id: string;
+  content: string;
+  fromWordBank?: boolean;
+  fromBlankIndex?: number;
+}
+
+interface BlankType {
+  id: string;
+  type: 'blank';
+  content: WordType | null;
+  correctWordId: string;
+  isCorrect: boolean;
+}
+
+interface SentenceItem {
+  id: string;
+  type: 'text' | 'blank';
+  content?: string | null;
+  correctWordId?: string;
+  isCorrect?: boolean;
+}
+
+interface WordProps {
+  word: WordType;
+}
+
+interface BlankProps {
+  index: number;
+  blank: BlankType;
+  onDropWord: (word: WordType, blankIndex: number) => void;
+  onReturnWordToBank: (word: WordType, blankIndex: number) => void;
+}
+
+function Word({ word }: WordProps) {
+  const [{ isDragging }, drag] = useDrag({
+    type: 'WORD',
+    item: { ...word, fromWordBank: true },
+    collect: (monitor: DragSourceMonitor) => ({
+      isDragging: monitor.isDragging(),
+    }),
+  });
+
+  return (
+    <span
+      ref={drag}
+      className={`inline-block p-2 m-1 border border-black rounded cursor-move bg-gray-200 ${
+        isDragging ? 'opacity-50' : 'opacity-100'
+      }`}
+    >
+      {word.content}
+    </span>
+  );
+}
+
+function Blank({ index, blank, onDropWord, onReturnWordToBank }: BlankProps) {
+  const [{ isOver }, drop] = useDrop({
+    accept: 'WORD',
+    drop: (item: WordType) => onDropWord(item, index),
+    collect: (monitor: DropTargetMonitor) => ({
+      isOver: monitor.isOver(),
+    }),
+  });
+
+  const [{ isDragging }, drag] = useDrag({
+    type: 'WORD',
+    item: blank.content
+      ? { ...blank.content, fromBlankIndex: index }
+      : {},
+    canDrag: !!blank.content,
+    end: (item: unknown, monitor: DragSourceMonitor) => {
+      if (!monitor.didDrop() && blank.content) {
+        onReturnWordToBank(blank.content, index);
+      }
+    },
+    collect: (monitor: DragSourceMonitor) => ({
+      isDragging: monitor.isDragging(),
+    }),
+  });
+
+  // Determine the background color based on correctness
+  const getBackgroundColor = () => {
+    if (!blank.content) return 'bg-white';
+    return blank.isCorrect ? 'bg-green-200' : 'bg-red-200';
+  };
+
+  return (
+    <span
+      ref={drop}
+      className={`relative inline-block w-20 min-h-[30px] mx-1 mb-2 text-center border-b-2 border-black ${
+        isOver ? 'bg-gray-200' : 'bg-white'
+      }`}
+    >
+      {blank.content ? (
+        <span
+          ref={drag}
+          className={`inline-block p-2 cursor-move rounded ${getBackgroundColor()} ${
+            isDragging ? 'opacity-50' : 'opacity-100'
+          }`}
+        >
+          {blank.content.content}
+        </span>
+      ) : (
+        <span>&nbsp;</span>
+      )}
+    </span>
+  );
+}
+
+function GrammarExercise() {
+  const initialSentence: SentenceItem[] = [
+    { id: 'word-1', type: 'text', content: 'The' },
+    { id: 'word-2', type: 'text', content: 'cat' },
+    {
+      id: 'blank-1',
+      type: 'blank',
+      content: null,
+      correctWordId: 'bank-word-1',
+      isCorrect: false,
+    },
+    { id: 'word-3', type: 'text', content: 'over' },
+    { id: 'word-4', type: 'text', content: 'the' },
+    {
+      id: 'blank-2',
+      type: 'blank',
+      content: null,
+      correctWordId: 'bank-word-4',
+      isCorrect: false,
+    },
+    { id: 'word-5', type: 'text', content: '.' },
+  ];
+
+  const initialWordBank: WordType[] = [
+    { id: 'bank-word-1', content: 'jumped' },
+    { id: 'bank-word-2', content: 'moon' },
+    { id: 'bank-word-3', content: 'slept' },
+    { id: 'bank-word-4', content: 'dog' },
+  ];
+
+  const [sentence, setSentence] = useState<SentenceItem[]>(initialSentence);
+  const [wordBank, setWordBank] = useState<WordType[]>(initialWordBank);
+
+  const onDropWord = (word: WordType, blankIndex: number) => {
+    const newSentence = [...sentence];
+    const newWordBank = [...wordBank];
+
+    // Remove the word from its original location
+    if (word.fromWordBank) {
+      // Remove word from word bank
+      const wordBankIndex = newWordBank.findIndex(
+        (w) => w.id === word.id
+      );
+      if (wordBankIndex !== -1) {
+        newWordBank.splice(wordBankIndex, 1);
+      }
+    } else if (typeof word.fromBlankIndex === 'number') {
+      // Remove word from its previous blank
+      newSentence[word.fromBlankIndex] = {
+        ...newSentence[word.fromBlankIndex],
+        content: null,
+        isCorrect: false,
+      };
+    }
+
+    // Handle existing word in the target blank
+    const targetBlank = newSentence[blankIndex] as BlankType;
+    if (targetBlank.content) {
+      // Existing word in the blank; return it to the word bank
+      newWordBank.push(targetBlank.content);
+    }
+
+    // Check if the dropped word is correct
+    const isCorrect = word.id === targetBlank.correctWordId;
+
+    // Place the new word into the blank
+    newSentence[blankIndex] = {
+      ...targetBlank,
+      content: { id: word.id, content: word.content },
+      isCorrect: isCorrect,
+    };
+
+    // Update state
+    setSentence(newSentence);
+    setWordBank(newWordBank);
+  };
+
+  const onReturnWordToBank = (word: WordType, blankIndex: number) => {
+    setSentence((prevSentence) =>
+      prevSentence.map((item, idx) =>
+        idx === blankIndex
+          ? { ...item, content: null, isCorrect: false }
+          : item
+      )
+    );
+    setWordBank((prevWordBank) => [...prevWordBank, word]);
+  };
+
+  return (
+    <DndProvider backend={HTML5Backend}>
+      <div>
+        <h2 className="text-xl font-bold mb-4">Grammar Exercise</h2>
+        <div className="flex flex-wrap items-center mb-5">
+          {sentence.map((item, index) => {
+            if (item.type === 'text') {
+              return (
+                <span key={item.id} className="mx-1">
+                  {item.content}
+                </span>
+              );
+            } else if (item.type === 'blank') {
+              return (
+                <Blank
+                  key={item.id}
+                  index={index}
+                  blank={item as BlankType}
+                  onDropWord={onDropWord}
+                  onReturnWordToBank={onReturnWordToBank}
+                />
+              );
+            }
+            return null;
+          })}
+        </div>
+
+        <h3 className="text-lg font-semibold mb-2">Word Bank</h3>
+        <div className="flex flex-wrap">
+          {wordBank.map((word) => (
+            <Word key={word.id} word={word} />
+          ))}
+        </div>
+      </div>
+    </DndProvider>
+  );
+}
+
+export default GrammarExercise;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+//------------------------------- BEST BASE SO FAR sust needs tailwind and typescript -------------------------//
+
+// import React, { useState } from 'react';
+// import { useDrag, useDrop, DndProvider } from 'react-dnd';
+// import { HTML5Backend } from 'react-dnd-html5-backend';
+
+// function Word({ word }) {
+//   const [{ isDragging }, drag] = useDrag({
+//     type: 'WORD',
+//     item: { ...word, fromWordBank: true },
+//     collect: (monitor) => ({
+//       isDragging: monitor.isDragging(),
+//     }),
+//   });
+
+//   return (
+//     <span
+//       ref={drag}
+//       style={{
+//         opacity: isDragging ? 0.5 : 1,
+//         display: 'inline-block',
+//         padding: '5px 10px',
+//         margin: '5px',
+//         border: '1px solid #000',
+//         borderRadius: '4px',
+//         cursor: 'move',
+//         backgroundColor: '#f0f0f0',
+//       }}
+//     >
+//       {word.content}
+//     </span>
+//   );
+// }
+
+// function Blank({ index, blank, onDropWord, onReturnWordToBank }) {
+//   const [{ isOver }, drop] = useDrop({
+//     accept: 'WORD',
+//     drop: (item) => onDropWord(item, index),
+//     collect: (monitor) => ({
+//       isOver: monitor.isOver(),
+//     }),
+//   });
+
+//   const [{ isDragging }, drag] = useDrag({
+//     type: 'WORD',
+//     item: blank.content ? { ...blank.content, fromBlankIndex: index } : {},
+//     canDrag: !!blank.content,
+//     end: (item, monitor) => {
+//       if (!monitor.didDrop() && blank.content) {
+//         onReturnWordToBank(blank.content, index);
+//       }
+//     },
+//     collect: (monitor) => ({
+//       isDragging: monitor.isDragging(),
+//     }),
+//   });
+
+//   // Determine the background color based on correctness
+//   const getBackgroundColor = () => {
+//     if (!blank.content) return '#fff';
+//     return blank.isCorrect ? '#d4edda' : '#f8d7da'; // Pastel green for correct, pastel red for incorrect
+//   };
+
+//   return (
+//     <span
+//       ref={drop}
+//       style={{
+//         margin: '0 5px',
+//         display: 'inline-block',
+//         width: '80px',
+//         borderBottom: '2px solid #000',
+//         textAlign: 'center',
+//         minHeight: '30px',
+//         backgroundColor: isOver ? '#e0e0e0' : '#fff',
+//         position: 'relative',
+//       }}
+//     >
+//       {blank.content ? (
+//         <span
+//           ref={drag}
+//           style={{
+//             opacity: isDragging ? 0.5 : 1,
+//             display: 'inline-block',
+//             padding: '5px 10px',
+//             cursor: 'move',
+//             backgroundColor: getBackgroundColor(),
+//             borderRadius: '4px',
+//           }}
+//         >
+//           {blank.content.content}
+//         </span>
+//       ) : (
+//         <span>&nbsp;</span>
+//       )}
+//     </span>
+//   );
+// }
+
+// function GrammarExercise() {
+//   const initialSentence = [
+//     { id: 'word-1', type: 'text', content: 'The' },
+//     { id: 'word-2', type: 'text', content: 'cat' },
+//     {
+//       id: 'blank-1',
+//       type: 'blank',
+//       content: null,
+//       correctWordId: 'bank-word-1', // Correct word ID for this blank
+//       isCorrect: false, // Initial correctness status
+//     },
+//     { id: 'word-3', type: 'text', content: 'over' },
+//     { id: 'word-4', type: 'text', content: 'the' },
+//     {
+//       id: 'blank-2',
+//       type: 'blank',
+//       content: null,
+//       correctWordId: 'bank-word-4', // Correct word ID for this blank
+//       isCorrect: false, // Initial correctness status
+//     },
+//     { id: 'word-5', type: 'text', content: '.' },
+//   ];
+
+//   const initialWordBank = [
+//     { id: 'bank-word-1', content: 'jumped' },
+//     { id: 'bank-word-2', content: 'moon' },
+//     { id: 'bank-word-3', content: 'slept' },
+//     { id: 'bank-word-4', content: 'dog' },
+//   ];
+
+//   const [sentence, setSentence] = useState(initialSentence);
+//   const [wordBank, setWordBank] = useState(initialWordBank);
+
+//   const onDropWord = (word, blankIndex) => {
+//     // Create copies of the state arrays
+//     const newSentence = [...sentence];
+//     const newWordBank = [...wordBank];
+
+//     // Remove the word from its original location
+//     if (word.fromWordBank) {
+//       // Remove word from word bank
+//       const wordBankIndex = newWordBank.findIndex((w) => w.id === word.id);
+//       if (wordBankIndex !== -1) {
+//         newWordBank.splice(wordBankIndex, 1);
+//       }
+//     } else if (typeof word.fromBlankIndex === 'number') {
+//       // Remove word from its previous blank
+//       newSentence[word.fromBlankIndex] = {
+//         ...newSentence[word.fromBlankIndex],
+//         content: null,
+//         isCorrect: false,
+//       };
+//     }
+
+//     // Handle existing word in the target blank
+//     const targetBlank = newSentence[blankIndex];
+//     if (targetBlank.content) {
+//       // Existing word in the blank; return it to the word bank
+//       newWordBank.push(targetBlank.content);
+//     }
+
+//     // Check if the dropped word is correct
+//     const isCorrect = word.id === targetBlank.correctWordId;
+
+//     // Place the new word into the blank
+//     newSentence[blankIndex] = {
+//       ...targetBlank,
+//       content: { id: word.id, content: word.content },
+//       isCorrect: isCorrect,
+//     };
+
+//     // Update state
+//     setSentence(newSentence);
+//     setWordBank(newWordBank);
+//   };
+
+//   const onReturnWordToBank = (word, blankIndex) => {
+//     setSentence((prevSentence) =>
+//       prevSentence.map((item, idx) =>
+//         idx === blankIndex
+//           ? { ...item, content: null, isCorrect: false }
+//           : item
+//       )
+//     );
+//     setWordBank((prevWordBank) => [...prevWordBank, word]);
+//   };
+
+//   return (
+//     <DndProvider backend={HTML5Backend}>
+//       <div>
+//         <h2>Grammar Exercise</h2>
+//         <div
+//           style={{
+//             display: 'flex',
+//             flexWrap: 'wrap',
+//             alignItems: 'center',
+//             marginBottom: '20px',
+//           }}
+//         >
+//           {sentence.map((item, index) => {
+//             if (item.type === 'text') {
+//               return (
+//                 <span key={item.id} style={{ margin: '0 5px' }}>
+//                   {item.content}
+//                 </span>
+//               );
+//             } else if (item.type === 'blank') {
+//               return (
+//                 <Blank
+//                   key={item.id}
+//                   index={index}
+//                   blank={item}
+//                   onDropWord={onDropWord}
+//                   onReturnWordToBank={onReturnWordToBank}
+//                 />
+//               );
+//             }
+//             return null;
+//           })}
+//         </div>
+
+//         <h3>Word Bank</h3>
+//         <div style={{ display: 'flex', flexWrap: 'wrap' }}>
+//           {wordBank.map((word) => (
+//             <Word key={word.id} word={word} />
+//           ))}
+//         </div>
+//       </div>
+//     </DndProvider>
+//   );
+// }
+
+// export default GrammarExercise;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+// ----------------- strong visual indications ---------------- works well
+
+// import React, { useState } from 'react';
+// import { useDrag, useDrop, DndProvider } from 'react-dnd';
+// import { HTML5Backend } from 'react-dnd-html5-backend';
+
+// function Word({ word }) {
+//   const [{ isDragging }, drag] = useDrag({
+//     type: 'WORD',
+//     item: { ...word, fromWordBank: true },
+//     collect: (monitor) => ({
+//       isDragging: monitor.isDragging(),
+//     }),
+//   });
+
+//   return (
+//     <span
+//       ref={drag}
+//       style={{
+//         opacity: isDragging ? 0.5 : 1,
+//         display: 'inline-block',
+//         padding: '5px 10px',
+//         margin: '5px',
+//         border: '1px solid #000',
+//         borderRadius: '4px',
+//         cursor: 'move',
+//         backgroundColor: '#f0f0f0',
+//       }}
+//     >
+//       {word.content}
+//     </span>
+//   );
+// }
+
+// function Blank({ index, blank, onDropWord, onReturnWordToBank }) {
+//   const [{ isOver }, drop] = useDrop({
+//     accept: 'WORD',
+//     drop: (item) => onDropWord(item, index),
+//     collect: (monitor) => ({
+//       isOver: monitor.isOver(),
+//     }),
+//   });
+
+//   const [{ isDragging }, drag] = useDrag({
+//     type: 'WORD',
+//     item: blank.content ? { ...blank.content, fromBlankIndex: index } : {},
+//     canDrag: !!blank.content,
+//     end: (item, monitor) => {
+//       if (!monitor.didDrop() && blank.content) {
+//         onReturnWordToBank(blank.content, index);
+//       }
+//     },
+//     collect: (monitor) => ({
+//       isDragging: monitor.isDragging(),
+//     }),
+//   });
+
+//   // Determine the style based on correctness
+//   const getStyle = () => {
+//     if (!blank.content) return {};
+//     if (blank.isCorrect) {
+//       return {
+//         // Accessible color for correct (blue)
+//         color: 'blue',
+//         fontWeight: 'bold',
+//         borderBottom: '2px solid blue',
+//       };
+//     } else {
+//       return {
+//         // Accessible color for incorrect (orange)
+//         color: 'orange',
+//         fontStyle: 'italic',
+//         borderBottom: '2px dashed orange',
+//       };
+//     }
+//   };
+
+//   // Choose an icon based on correctness
+//   const getIcon = () => {
+//     if (!blank.content) return null;
+//     return blank.isCorrect ? '✅' : '❌';
+//   };
+
+//   return (
+//     <span
+//       ref={drop}
+//       style={{
+//         margin: '0 5px',
+//         display: 'inline-block',
+//         width: '80px',
+//         borderBottom: '2px solid #000',
+//         textAlign: 'center',
+//         minHeight: '30px',
+//         backgroundColor: isOver ? '#e0e0e0' : '#fff',
+//         position: 'relative',
+//       }}
+//     >
+//       {blank.content ? (
+//         <span
+//           ref={drag}
+//           style={{
+//             opacity: isDragging ? 0.5 : 1,
+//             display: 'inline-block',
+//             padding: '5px 10px',
+//             cursor: 'move',
+//             ...getStyle(),
+//           }}
+//           aria-label={blank.isCorrect ? 'Correct word' : 'Incorrect word'}
+//         >
+//           {blank.content.content}
+//           {/* Add icon */}
+//           <span style={{ marginLeft: '5px' }}>{getIcon()}</span>
+//           {/* Optional text label */}
+//           <div style={{ fontSize: '12px' }}>
+//             {blank.isCorrect ? 'Correct' : 'Incorrect'}
+//           </div>
+//         </span>
+//       ) : (
+//         <span>&nbsp;</span>
+//       )}
+//     </span>
+//   );
+// }
+
+// function GrammarExercise() {
+//   const initialSentence = [
+//     { id: 'word-1', type: 'text', content: 'The' },
+//     { id: 'word-2', type: 'text', content: 'cat' },
+//     {
+//       id: 'blank-1',
+//       type: 'blank',
+//       content: null,
+//       correctWordId: 'bank-word-1', // Correct word ID for this blank
+//       isCorrect: false, // Initial correctness status
+//     },
+//     { id: 'word-3', type: 'text', content: 'over' },
+//     { id: 'word-4', type: 'text', content: 'the' },
+//     {
+//       id: 'blank-2',
+//       type: 'blank',
+//       content: null,
+//       correctWordId: 'bank-word-4', // Correct word ID for this blank
+//       isCorrect: false, // Initial correctness status
+//     },
+//     { id: 'word-5', type: 'text', content: '.' },
+//   ];
+
+//   const initialWordBank = [
+//     { id: 'bank-word-1', content: 'jumped' },
+//     { id: 'bank-word-2', content: 'moon' },
+//     { id: 'bank-word-3', content: 'slept' },
+//     { id: 'bank-word-4', content: 'dog' },
+//   ];
+
+//   const [sentence, setSentence] = useState(initialSentence);
+//   const [wordBank, setWordBank] = useState(initialWordBank);
+
+//   const onDropWord = (word, blankIndex) => {
+//     // Create copies of the state arrays
+//     const newSentence = [...sentence];
+//     const newWordBank = [...wordBank];
+
+//     // Remove the word from its original location
+//     if (word.fromWordBank) {
+//       // Remove word from word bank
+//       const wordBankIndex = newWordBank.findIndex((w) => w.id === word.id);
+//       if (wordBankIndex !== -1) {
+//         newWordBank.splice(wordBankIndex, 1);
+//       }
+//     } else if (typeof word.fromBlankIndex === 'number') {
+//       // Remove word from its previous blank
+//       newSentence[word.fromBlankIndex] = {
+//         ...newSentence[word.fromBlankIndex],
+//         content: null,
+//         isCorrect: false,
+//       };
+//     }
+
+//     // Handle existing word in the target blank
+//     const targetBlank = newSentence[blankIndex];
+//     if (targetBlank.content) {
+//       // Existing word in the blank; return it to the word bank
+//       newWordBank.push(targetBlank.content);
+//     }
+
+//     // Check if the dropped word is correct
+//     const isCorrect = word.id === targetBlank.correctWordId;
+
+//     // Place the new word into the blank
+//     newSentence[blankIndex] = {
+//       ...targetBlank,
+//       content: { id: word.id, content: word.content },
+//       isCorrect: isCorrect,
+//     };
+
+//     // Update state
+//     setSentence(newSentence);
+//     setWordBank(newWordBank);
+//   };
+
+//   const onReturnWordToBank = (word, blankIndex) => {
+//     setSentence((prevSentence) =>
+//       prevSentence.map((item, idx) =>
+//         idx === blankIndex
+//           ? { ...item, content: null, isCorrect: false }
+//           : item
+//       )
+//     );
+//     setWordBank((prevWordBank) => [...prevWordBank, word]);
+//   };
+
+//   return (
+//     <DndProvider backend={HTML5Backend}>
+//       <div>
+//         <h2>Grammar Exercise</h2>
+//         <div
+//           style={{
+//             display: 'flex',
+//             flexWrap: 'wrap',
+//             alignItems: 'center',
+//             marginBottom: '20px',
+//           }}
+//         >
+//           {sentence.map((item, index) => {
+//             if (item.type === 'text') {
+//               return (
+//                 <span key={item.id} style={{ margin: '0 5px' }}>
+//                   {item.content}
+//                 </span>
+//               );
+//             } else if (item.type === 'blank') {
+//               return (
+//                 <Blank
+//                   key={item.id}
+//                   index={index}
+//                   blank={item}
+//                   onDropWord={onDropWord}
+//                   onReturnWordToBank={onReturnWordToBank}
+//                 />
+//               );
+//             }
+//             return null;
+//           })}
+//         </div>
+
+//         <h3>Word Bank</h3>
+//         <div style={{ display: 'flex', flexWrap: 'wrap' }}>
+//           {wordBank.map((word) => (
+//             <Word key={word.id} word={word} />
+//           ))}
+//         </div>
+//       </div>
+//     </DndProvider>
+//   );
+// }
+
+// export default GrammarExercise;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+// --------------------------- works amazing ----------------------------- //
+
+
+// import React, { useState } from 'react';
+// import { useDrag, useDrop, DndProvider } from 'react-dnd';
+// import { HTML5Backend } from 'react-dnd-html5-backend';
+
+// function Word({ word }) {
+//   const [{ isDragging }, drag] = useDrag({
+//     type: 'WORD',
+//     item: { ...word, fromWordBank: true },
+//     collect: (monitor) => ({
+//       isDragging: monitor.isDragging(),
+//     }),
+//   });
+
+//   return (
+//     <span
+//       ref={drag}
+//       style={{
+//         opacity: isDragging ? 0.5 : 1,
+//         display: 'inline-block',
+//         padding: '5px 10px',
+//         margin: '5px',
+//         border: '1px solid #000',
+//         borderRadius: '4px',
+//         cursor: 'move',
+//         backgroundColor: '#f0f0f0',
+//       }}
+//     >
+//       {word.content}
+//     </span>
+//   );
+// }
+
+// function Blank({ index, blank, onDropWord, onReturnWordToBank }) {
+//   const [{ isOver }, drop] = useDrop({
+//     accept: 'WORD',
+//     drop: (item) => onDropWord(item, index),
+//     collect: (monitor) => ({
+//       isOver: monitor.isOver(),
+//     }),
+//   });
+
+//   const [{ isDragging }, drag] = useDrag({
+//     type: 'WORD',
+//     item: blank.content
+//       ? { ...blank.content, fromBlankIndex: index }
+//       : {},
+//     canDrag: !!blank.content,
+//     end: (item, monitor) => {
+//       if (monitor.didDrop() === false && blank.content) {
+//         // If dropped outside any drop zone, return the word to the word bank
+//         onReturnWordToBank(blank.content, index);
+//       }
+//     },
+//     collect: (monitor) => ({
+//       isDragging: monitor.isDragging(),
+//     }),
+//   });
+
+//   // Determine the color based on correctness
+//   const getColor = () => {
+//     if (!blank.content) return '#000'; // Default color
+//     return blank.isCorrect ? 'green' : 'red';
+//   };
+
+//   return (
+//     <span
+//       ref={drop}
+//       style={{
+//         margin: '0 5px',
+//         display: 'inline-block',
+//         width: '80px',
+//         borderBottom: '2px solid #000',
+//         textAlign: 'center',
+//         minHeight: '30px',
+//         backgroundColor: isOver ? '#e0e0e0' : '#fff',
+//       }}
+//     >
+//       {blank.content ? (
+//         <span
+//           ref={drag}
+//           style={{
+//             opacity: isDragging ? 0.5 : 1,
+//             display: 'inline-block',
+//             padding: '5px 10px',
+//             cursor: 'move',
+//             color: getColor(),
+//           }}
+//         >
+//           {blank.content.content}
+//         </span>
+//       ) : (
+//         <span>&nbsp;</span>
+//       )}
+//     </span>
+//   );
+// }
+
+// function GrammarExercise() {
+//   const initialSentence = [
+//     { id: 'word-1', type: 'text', content: 'The' },
+//     { id: 'word-2', type: 'text', content: 'cat' },
+//     {
+//       id: 'blank-1',
+//       type: 'blank',
+//       content: null,
+//       correctWordId: 'bank-word-1', // Correct word ID for this blank
+//       isCorrect: false, // Initial correctness status
+//     },
+//     { id: 'word-3', type: 'text', content: 'over' },
+//     { id: 'word-4', type: 'text', content: 'the' },
+//     {
+//       id: 'blank-2',
+//       type: 'blank',
+//       content: null,
+//       correctWordId: 'bank-word-4', // Correct word ID for this blank
+//       isCorrect: false, // Initial correctness status
+//     },
+//     { id: 'word-5', type: 'text', content: '.' },
+//   ];
+
+//   const initialWordBank = [
+//     { id: 'bank-word-1', content: 'jumped' },
+//     { id: 'bank-word-2', content: 'moon' },
+//     { id: 'bank-word-3', content: 'slept' },
+//     { id: 'bank-word-4', content: 'dog' },
+//   ];
+
+//   const [sentence, setSentence] = useState(initialSentence);
+//   const [wordBank, setWordBank] = useState(initialWordBank);
+
+//   const onDropWord = (word, blankIndex) => {
+//     // Create copies of the state arrays
+//     const newSentence = [...sentence];
+//     const newWordBank = [...wordBank];
+
+//     // Remove the word from its original location
+//     if (word.fromWordBank) {
+//       // Remove word from word bank
+//       const wordBankIndex = newWordBank.findIndex((w) => w.id === word.id);
+//       if (wordBankIndex !== -1) {
+//         newWordBank.splice(wordBankIndex, 1);
+//       }
+//     } else if (typeof word.fromBlankIndex === 'number') {
+//       // Remove word from its previous blank
+//       newSentence[word.fromBlankIndex] = {
+//         ...newSentence[word.fromBlankIndex],
+//         content: null,
+//         isCorrect: false,
+//       };
+//     }
+
+//     // Handle existing word in the target blank
+//     const targetBlank = newSentence[blankIndex];
+//     if (targetBlank.content) {
+//       // Existing word in the blank; return it to the word bank
+//       newWordBank.push(targetBlank.content);
+//     }
+
+//     // Check if the dropped word is correct
+//     const isCorrect = word.id === targetBlank.correctWordId;
+
+//     // Place the new word into the blank
+//     newSentence[blankIndex] = {
+//       ...targetBlank,
+//       content: { id: word.id, content: word.content },
+//       isCorrect: isCorrect,
+//     };
+
+//     // Update state
+//     setSentence(newSentence);
+//     setWordBank(newWordBank);
+//   };
+
+//   const onReturnWordToBank = (word, blankIndex) => {
+//     setSentence((prevSentence) =>
+//       prevSentence.map((item, idx) =>
+//         idx === blankIndex
+//           ? { ...item, content: null, isCorrect: false }
+//           : item
+//       )
+//     );
+//     setWordBank((prevWordBank) => [...prevWordBank, word]);
+//   };
+
+//   return (
+//     <DndProvider backend={HTML5Backend}>
+//       <div>
+//         <h2>Grammar Exercise</h2>
+//         <div
+//           style={{
+//             display: 'flex',
+//             flexWrap: 'wrap',
+//             alignItems: 'center',
+//             marginBottom: '20px',
+//           }}
+//         >
+//           {sentence.map((item, index) => {
+//             if (item.type === 'text') {
+//               return (
+//                 <span key={item.id} style={{ margin: '0 5px' }}>
+//                   {item.content}
+//                 </span>
+//               );
+//             } else if (item.type === 'blank') {
+//               return (
+//                 <Blank
+//                   key={item.id}
+//                   index={index}
+//                   blank={item}
+//                   onDropWord={onDropWord}
+//                   onReturnWordToBank={onReturnWordToBank}
+//                 />
+//               );
+//             }
+//             return null;
+//           })}
+//         </div>
+
+//         <h3>Word Bank</h3>
+//         <div style={{ display: 'flex', flexWrap: 'wrap' }}>
+//           {wordBank.map((word) => (
+//             <Word key={word.id} word={word} />
+//           ))}
+//         </div>
+//       </div>
+//     </DndProvider>
+//   );
+// }
+
+// export default GrammarExercise;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

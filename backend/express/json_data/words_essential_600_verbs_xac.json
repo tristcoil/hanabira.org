@@ -1,0 +1,461 @@
+[
+      {
+        "vocabulary_japanese": "叱る_",
+        "vocabulary_simplified": "しかる",
+        "vocabulary_english": "to scold",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_叱る.mp3",
+        "p_tag": "essential_600_verbs",
+        "s_tag": "verbs-3"
+      },
+      {
+        "vocabulary_japanese": "跳ぶ_",
+        "vocabulary_simplified": "とぶ",
+        "vocabulary_english": "to jump, to leap",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_跳ぶ.mp3",
+        "p_tag": "essential_600_verbs",
+        "s_tag": "verbs-3"
+      },
+      {
+        "vocabulary_japanese": "返す_",
+        "vocabulary_simplified": "かえす",
+        "vocabulary_english": "to return, to restore (transitive)",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_返す.mp3",
+        "p_tag": "essential_600_verbs",
+        "s_tag": "verbs-3"
+      },
+      {
+        "vocabulary_japanese": "包む_",
+        "vocabulary_simplified": "つつむ",
+        "vocabulary_english": "to wrap, to veil, to envelop in",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_包む.mp3",
+        "p_tag": "essential_600_verbs",
+        "s_tag": "verbs-3"
+      },
+      {
+        "vocabulary_japanese": "消える_",
+        "vocabulary_simplified": "きえる",
+        "vocabulary_english": "to go out, to disappear, to vanish",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_消える.mp3",
+        "p_tag": "essential_600_verbs",
+        "s_tag": "verbs-3"
+      },
+      {
+        "vocabulary_japanese": "入る_",
+        "vocabulary_simplified": "はいる",
+        "vocabulary_english": "to enter, to join, to contain, to accomodate",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_入る.mp3",
+        "p_tag": "essential_600_verbs",
+        "s_tag": "verbs-3"
+      },
+      {
+        "vocabulary_japanese": "暮れる_",
+        "vocabulary_simplified": "くれる",
+        "vocabulary_english": "to end, to get dark",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_暮れる.mp3",
+        "p_tag": "essential_600_verbs",
+        "s_tag": "verbs-3"
+      },
+      {
+        "vocabulary_japanese": "澄む_",
+        "vocabulary_simplified": "すむ",
+        "vocabulary_english": "to become clear",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_澄む.mp3",
+        "p_tag": "essential_600_verbs",
+        "s_tag": "verbs-3"
+      },
+      {
+        "vocabulary_japanese": "褒める_",
+        "vocabulary_simplified": "ほめる",
+        "vocabulary_english": "to praise, to commend",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_褒める.mp3",
+        "p_tag": "essential_600_verbs",
+        "s_tag": "verbs-3"
+      },
+      {
+        "vocabulary_japanese": "履く_",
+        "vocabulary_simplified": "はく",
+        "vocabulary_english": "to put on (footwear)",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_履く.mp3",
+        "p_tag": "essential_600_verbs",
+        "s_tag": "verbs-3"
+      },
+      {
+        "vocabulary_japanese": "ある（有る、在る）_",
+        "vocabulary_simplified": "ある",
+        "vocabulary_english": "to be, to have",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_ある（有る、在る）.mp3",
+        "p_tag": "essential_600_verbs",
+        "s_tag": "verbs-3"
+      },
+      {
+        "vocabulary_japanese": "倒れる_",
+        "vocabulary_simplified": "たおれる",
+        "vocabulary_english": "to fall down, to collapse",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_倒れる.mp3",
+        "p_tag": "essential_600_verbs",
+        "s_tag": "verbs-3"
+      },
+      {
+        "vocabulary_japanese": "比べる_",
+        "vocabulary_simplified": "くらべる",
+        "vocabulary_english": "to compare",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_比べる.mp3",
+        "p_tag": "essential_600_verbs",
+        "s_tag": "verbs-3"
+      },
+      {
+        "vocabulary_japanese": "信じる_",
+        "vocabulary_simplified": "しんじる",
+        "vocabulary_english": "to believe, to be confident of",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_信じる.mp3",
+        "p_tag": "essential_600_verbs",
+        "s_tag": "verbs-3"
+      },
+      {
+        "vocabulary_japanese": "向く_",
+        "vocabulary_simplified": "むく",
+        "vocabulary_english": "to look toward, to suit",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_向く.mp3",
+        "p_tag": "essential_600_verbs",
+        "s_tag": "verbs-3"
+      },
+      {
+        "vocabulary_japanese": "数える_",
+        "vocabulary_simplified": "かぞえる",
+        "vocabulary_english": "to count",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_数える.mp3",
+        "p_tag": "essential_600_verbs",
+        "s_tag": "verbs-3"
+      },
+      {
+        "vocabulary_japanese": "登る_",
+        "vocabulary_simplified": "のぼる",
+        "vocabulary_english": "to climb (mountains, steps)",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_登る.mp3",
+        "p_tag": "essential_600_verbs",
+        "s_tag": "verbs-3"
+      },
+      {
+        "vocabulary_japanese": "泊まる_",
+        "vocabulary_simplified": "とまる",
+        "vocabulary_english": "to stay the night, to lodge",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_泊まる.mp3",
+        "p_tag": "essential_600_verbs",
+        "s_tag": "verbs-3"
+      },
+      {
+        "vocabulary_japanese": "寝る_",
+        "vocabulary_simplified": "ねる",
+        "vocabulary_english": "to go to bed, to lie down",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_寝る.mp3",
+        "p_tag": "essential_600_verbs",
+        "s_tag": "verbs-3"
+      },
+      {
+        "vocabulary_japanese": "映す_",
+        "vocabulary_simplified": "うつす",
+        "vocabulary_english": "to reflect",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_映す.mp3",
+        "p_tag": "essential_600_verbs",
+        "s_tag": "verbs-3"
+      },
+      {
+        "vocabulary_japanese": "勧める（薦める）_",
+        "vocabulary_simplified": "すすめる",
+        "vocabulary_english": "to suggest, to recommend",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_勧める（薦める）.mp3",
+        "p_tag": "essential_600_verbs",
+        "s_tag": "verbs-3"
+      },
+      {
+        "vocabulary_japanese": "乾く_",
+        "vocabulary_simplified": "かわく",
+        "vocabulary_english": "to get dry",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_乾く.mp3",
+        "p_tag": "essential_600_verbs",
+        "s_tag": "verbs-3"
+      },
+      {
+        "vocabulary_japanese": "抱く_",
+        "vocabulary_simplified": "だく",
+        "vocabulary_english": "to hug",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_抱く.mp3",
+        "p_tag": "essential_600_verbs",
+        "s_tag": "verbs-3"
+      },
+      {
+        "vocabulary_japanese": "払う_",
+        "vocabulary_simplified": "はらう",
+        "vocabulary_english": "to pay, to sweep, to wipe, to pay attention",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_払う.mp3",
+        "p_tag": "essential_600_verbs",
+        "s_tag": "verbs-3"
+      },
+      {
+        "vocabulary_japanese": "撮れる_",
+        "vocabulary_simplified": "とれる",
+        "vocabulary_english": "to be taken (a photograph)",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_撮れる.mp3",
+        "p_tag": "essential_600_verbs",
+        "s_tag": "verbs-3"
+      },
+      {
+        "vocabulary_japanese": "待つ_",
+        "vocabulary_simplified": "まつ",
+        "vocabulary_english": "to wait",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_待つ.mp3",
+        "p_tag": "essential_600_verbs",
+        "s_tag": "verbs-3"
+      },
+      {
+        "vocabulary_japanese": "ぶつかる_",
+        "vocabulary_simplified": "ぶつかる",
+        "vocabulary_english": "to hit, to face (difficulties), to fall on (dates)",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_ぶつかる.mp3",
+        "p_tag": "essential_600_verbs",
+        "s_tag": "verbs-3"
+      },
+      {
+        "vocabulary_japanese": "もらう_",
+        "vocabulary_simplified": "もらう",
+        "vocabulary_english": "to get, to receive, to marry",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_もらう.mp3",
+        "p_tag": "essential_600_verbs",
+        "s_tag": "verbs-3"
+      },
+      {
+        "vocabulary_japanese": "守る_",
+        "vocabulary_simplified": "まもる",
+        "vocabulary_english": "to protect, to keep, to defend",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_守る.mp3",
+        "p_tag": "essential_600_verbs",
+        "s_tag": "verbs-3"
+      },
+      {
+        "vocabulary_japanese": "動く_",
+        "vocabulary_simplified": "うごく",
+        "vocabulary_english": "to move, to change, to run",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_動く.mp3",
+        "p_tag": "essential_600_verbs",
+        "s_tag": "verbs-3"
+      },
+      {
+        "vocabulary_japanese": "開く_",
+        "vocabulary_simplified": "あく",
+        "vocabulary_english": "to open, to begin",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_開く.mp3",
+        "p_tag": "essential_600_verbs",
+        "s_tag": "verbs-3"
+      },
+      {
+        "vocabulary_japanese": "眠る_",
+        "vocabulary_simplified": "ねむる",
+        "vocabulary_english": "to sleep, to fall asleep",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_眠る.mp3",
+        "p_tag": "essential_600_verbs",
+        "s_tag": "verbs-3"
+      },
+      {
+        "vocabulary_japanese": "含める_",
+        "vocabulary_simplified": "ふくめる",
+        "vocabulary_english": "to include, to convince",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_含める.mp3",
+        "p_tag": "essential_600_verbs",
+        "s_tag": "verbs-3"
+      },
+      {
+        "vocabulary_japanese": "掃く_",
+        "vocabulary_simplified": "はく",
+        "vocabulary_english": "to sweep",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_掃く.mp3",
+        "p_tag": "essential_600_verbs",
+        "s_tag": "verbs-3"
+      },
+      {
+        "vocabulary_japanese": "測る（量る、計る）_",
+        "vocabulary_simplified": "はかる",
+        "vocabulary_english": "to measure, to weigh",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_測る（量る、計る）.mp3",
+        "p_tag": "essential_600_verbs",
+        "s_tag": "verbs-3"
+      },
+      {
+        "vocabulary_japanese": "晴れる_",
+        "vocabulary_simplified": "はれる",
+        "vocabulary_english": "to clear up, to be dispelled",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_晴れる.mp3",
+        "p_tag": "essential_600_verbs",
+        "s_tag": "verbs-3"
+      },
+      {
+        "vocabulary_japanese": "裂ける_",
+        "vocabulary_simplified": "さける",
+        "vocabulary_english": "to tear, to split",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_裂ける.mp3",
+        "p_tag": "essential_600_verbs",
+        "s_tag": "verbs-3"
+      },
+      {
+        "vocabulary_japanese": "通る_",
+        "vocabulary_simplified": "とおる",
+        "vocabulary_english": "to pass, to pass through",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_通る.mp3",
+        "p_tag": "essential_600_verbs",
+        "s_tag": "verbs-3"
+      },
+      {
+        "vocabulary_japanese": "建てる_",
+        "vocabulary_simplified": "たてる",
+        "vocabulary_english": "to build",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_建てる.mp3",
+        "p_tag": "essential_600_verbs",
+        "s_tag": "verbs-3"
+      },
+      {
+        "vocabulary_japanese": "確かめる_",
+        "vocabulary_simplified": "たしかめる",
+        "vocabulary_english": "to make sure, to check, to verify",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_確かめる.mp3",
+        "p_tag": "essential_600_verbs",
+        "s_tag": "verbs-3"
+      },
+      {
+        "vocabulary_japanese": "構う_",
+        "vocabulary_simplified": "かまう",
+        "vocabulary_english": "to mind, to care",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_構う.mp3",
+        "p_tag": "essential_600_verbs",
+        "s_tag": "verbs-3"
+      },
+      {
+        "vocabulary_japanese": "止まる_",
+        "vocabulary_simplified": "とまる",
+        "vocabulary_english": "to stop, to halt",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_止まる.mp3",
+        "p_tag": "essential_600_verbs",
+        "s_tag": "verbs-3"
+      },
+      {
+        "vocabulary_japanese": "載る_",
+        "vocabulary_simplified": "のる",
+        "vocabulary_english": "to be printed, to be reported",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_載る.mp3",
+        "p_tag": "essential_600_verbs",
+        "s_tag": "verbs-3"
+      },
+      {
+        "vocabulary_japanese": "つける_",
+        "vocabulary_simplified": "つける",
+        "vocabulary_english": "to switch on",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_つける.mp3",
+        "p_tag": "essential_600_verbs",
+        "s_tag": "verbs-3"
+      },
+      {
+        "vocabulary_japanese": "届ける_",
+        "vocabulary_simplified": "とどける",
+        "vocabulary_english": "to report, to  notify, to send, to deliver",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_届ける.mp3",
+        "p_tag": "essential_600_verbs",
+        "s_tag": "verbs-3"
+      },
+      {
+        "vocabulary_japanese": "寄る_",
+        "vocabulary_simplified": "よる",
+        "vocabulary_english": "to draw near, to drop in",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_寄る.mp3",
+        "p_tag": "essential_600_verbs",
+        "s_tag": "verbs-3"
+      },
+      {
+        "vocabulary_japanese": "隠す_",
+        "vocabulary_simplified": "かくす",
+        "vocabulary_english": "to hide, to cover (transitive)",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_隠す.mp3",
+        "p_tag": "essential_600_verbs",
+        "s_tag": "verbs-3"
+      },
+      {
+        "vocabulary_japanese": "写す_",
+        "vocabulary_simplified": "うつす",
+        "vocabulary_english": "to copy",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_写す.mp3",
+        "p_tag": "essential_600_verbs",
+        "s_tag": "verbs-3"
+      },
+      {
+        "vocabulary_japanese": "渡る_",
+        "vocabulary_simplified": "わたる",
+        "vocabulary_english": "to cross, to be brought over",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_渡る.mp3",
+        "p_tag": "essential_600_verbs",
+        "s_tag": "verbs-3"
+      },
+      {
+        "vocabulary_japanese": "送る_",
+        "vocabulary_simplified": "おくる",
+        "vocabulary_english": "to send, to see off",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_送る.mp3",
+        "p_tag": "essential_600_verbs",
+        "s_tag": "verbs-3"
+      },
+      {
+        "vocabulary_japanese": "掛かる（懸かる）_",
+        "vocabulary_simplified": "かかる",
+        "vocabulary_english": "to take, to hang",
+        "word_type": "Verb",
+        "vocabulary_audio": "/audio/vocab/v_掛かる（懸かる）.mp3",
+        "p_tag": "essential_600_verbs",
+        "s_tag": "verbs-3"
+      }
+]
