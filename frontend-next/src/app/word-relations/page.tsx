@@ -52,50 +52,6 @@ const HomePage = () => {
     "pronounciation/kanji similarity": `${apiBaseUrl}/pronounciation-similarity`,
   };
 
-//  const searchParams = useSearchParams();
-
-//   useEffect(() => {
-//     // Get the word and language from the URL query parameters
-//     const wordParam = searchParams.get("word");
-//     const languageParam = searchParams.get("language");
-
-//     // Helper function to normalize language to title case
-//     const normalizeLanguage = (lang) => {
-//       if (!lang) return null;
-//       const lowerLang = lang.toLowerCase();
-//       if (lowerLang === "japanese" || lowerLang === "korean") {
-//         return lowerLang.charAt(0).toUpperCase() + lowerLang.slice(1);
-//       }
-//       return null;
-//     };
-
-//     // Set the initial word based on the query parameter or the default language
-//     if (wordParam) {
-//       setWord(decodeURIComponent(wordParam));
-//     } else {
-//       setWord(exampleWords[language]);
-//     }
-
-//     // Normalize and set the language
-//     const normalizedLanguage = normalizeLanguage(languageParam);
-//     if (normalizedLanguage) {
-//       setLanguage(normalizedLanguage);
-//     }
-
-//     // Pre-populate the user ID
-//     const savedUserId = localStorage.getItem("userId");
-//     if (savedUserId) {
-//       setUserId(savedUserId);
-//     } else {
-//       const newUserId = `user-${Math.random().toString(36).substring(2, 15)}`;
-//       setUserId(newUserId);
-//       localStorage.setItem("userId", newUserId);
-//     }
-
-//     // Set default data for the graph
-//     setVocabularyMapData(defaultVocabularyMapData);
-//  // }, [searchParams, language, exampleWords]);
-// }, []);
 
 
 useEffect(() => {
@@ -145,28 +101,6 @@ useEffect(() => {
 }, []);
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
   // Function to handle form submission
   const handleSubmit = async (e) => {
     e.preventDefault();
@@ -202,7 +136,7 @@ useEffect(() => {
       setSubmittedData({ word, language, wordType, apiUrl });
 
       // Extract the "content" field and parse it into usable data
-      const rawContent = data?.choices[0]?.message?.content;
+      const rawContent = data?.choices[0]?.message?.content.replace(/```json/g, "").replace(/```/g, "");;
       if (rawContent) {
         const parsedData = JSON.parse(rawContent);
         setVocabularyMapData(parsedData); // Store the parsed content for the vocabulary map
@@ -230,10 +164,7 @@ useEffect(() => {
         New feature, your feedback is appreciated.
       </p>
       <p className="text-sm p-1">
-        We are using cheap LLM model (4o-mini) in order to provide graph
-        functionality for free. Performance is decent. But advanced models (4o,
-        o1, o1-mini) are able to provide surprisingly detailed in depth word
-        relationship graphs. Let us know if this feature is useful to you. We
+        We are using LLM model (GPT 4o) for graph creation. Let us know if this feature is useful to you. We
         can then implement more advanced models, we can even pre-generate graph
         content and give it to native speakers for corrections. This way these
         graphs could serve as legitimate study sources.
@@ -286,7 +217,7 @@ useEffect(() => {
               <label className="block text-lg font-semibold mb-2">
                 Word associations:
               </label>
-              <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-4">
+              <div className="grid grid-cols-2 md:grid-cols-3 gap-4">
                 {[
                   "verb conjugation",
                   "word similarity",

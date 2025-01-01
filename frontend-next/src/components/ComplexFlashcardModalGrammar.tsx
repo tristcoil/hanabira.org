@@ -48,15 +48,15 @@ const ComplexFlashcardModal: FC<ComplexFlashcardModalProps> = ({
     fetch(...args).then((res) => res.json());
 
   //const apiUrl = "http://localhost:8000/api/kanji?p_tag=JLPT_N3&s_tag=part_1";
- //////// const apiUrl = `http://localhost:8000/api/v1/kanji?p_tag=${p_tag}&s_tag=${s_tag}`;
+ //////// const apiUrl = `http://localhost:8000/e-api/v1/kanji?p_tag=${p_tag}&s_tag=${s_tag}`;
 
 
  let apiUrl;
  if (process.env.REACT_APP_HOST_IP) {
-   apiUrl = `http://${process.env.REACT_APP_HOST_IP}/api/v1/kanji?p_tag=${p_tag}&s_tag=${s_tag}`;
+   apiUrl = `http://${process.env.REACT_APP_HOST_IP}:8000/e-api/v1/kanji?p_tag=${p_tag}&s_tag=${s_tag}`;
  } else {
-   /////////////////apiUrl = `/api/v1/kanji?p_tag=${p_tag}&s_tag=${s_tag}`;
-   apiUrl = `http://localhost:7000/api/v1/kanji?p_tag=${p_tag}&s_tag=${s_tag}`;
+   /////////////////apiUrl = `/e-api/v1/kanji?p_tag=${p_tag}&s_tag=${s_tag}`;
+   apiUrl = `http://localhost:8000/e-api/v1/kanji?p_tag=${p_tag}&s_tag=${s_tag}`;
  }
 
 

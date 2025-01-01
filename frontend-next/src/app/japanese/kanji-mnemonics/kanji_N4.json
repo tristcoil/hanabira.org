@@ -1,0 +1,666 @@
+[
+  {
+    "kanji": "会",
+    "uri": "/kanji/1269-big-meeting-%E4%BC%9A"
+  },
+  {
+    "kanji": "同",
+    "uri": "/kanji/974-same-%E5%90%8C"
+  },
+  {
+    "kanji": "事",
+    "uri": "/kanji/1660-action-incident-%E4%BA%8B"
+  },
+  {
+    "kanji": "自",
+    "uri": "/kanji/78-my-own-%E8%87%AA"
+  },
+  {
+    "kanji": "社",
+    "uri": "/kanji/1495-company-%E7%A4%BE"
+  },
+  {
+    "kanji": "発",
+    "uri": "/kanji/1186-launch-%E7%99%BA"
+  },
+  {
+    "kanji": "者",
+    "uri": "/kanji/255-professional-%E8%80%85"
+  },
+  {
+    "kanji": "地",
+    "uri": "/kanji/1600-area-%E5%9C%B0"
+  },
+  {
+    "kanji": "業",
+    "uri": "/kanji/1397-business-%E6%A5%AD"
+  },
+  {
+    "kanji": "方",
+    "uri": "/kanji/84-direction-method-person-%E6%96%B9"
+  },
+  {
+    "kanji": "新",
+    "uri": "/kanji/345-new-%E6%96%B0"
+  },
+  {
+    "kanji": "場",
+    "uri": "/kanji/1208-place-%E5%A0%B4"
+  },
+  {
+    "kanji": "員",
+    "uri": "/kanji/544-clerk-%E5%93%A1"
+  },
+  {
+    "kanji": "立",
+    "uri": "/kanji/148-stand-up-%E7%AB%8B"
+  },
+  {
+    "kanji": "開",
+    "uri": "/kanji/1185-open-%E9%96%8B"
+  },
+  {
+    "kanji": "手",
+    "uri": "/kanji/293-hand-%E6%89%8B"
+  },
+  {
+    "kanji": "力",
+    "uri": "/kanji/175-strong-%E5%8A%9B"
+  },
+  {
+    "kanji": "問",
+    "uri": "/kanji/163-question-problem-%E5%95%8F"
+  },
+  {
+    "kanji": "代",
+    "uri": "/kanji/663-generation-instead-of-%E4%BB%A3"
+  },
+  {
+    "kanji": "明",
+    "uri": "/kanji/43-bright-%E6%98%8E"
+  },
+  {
+    "kanji": "動",
+    "uri": "/kanji/1078-movement-%E5%8B%95"
+  },
+  {
+    "kanji": "京",
+    "uri": "/kanji/197-capital-%E4%BA%AC"
+  },
+  {
+    "kanji": "目",
+    "uri": "/kanji/76-eye-%E7%9B%AE"
+  },
+  {
+    "kanji": "通",
+    "uri": "/kanji/1342-pass-%E9%80%9A"
+  },
+  {
+    "kanji": "言",
+    "uri": "/kanji/11-say-%E8%A8%80"
+  },
+  {
+    "kanji": "理",
+    "uri": "/kanji/445-reason-%E7%90%86"
+  },
+  {
+    "kanji": "体",
+    "uri": "/kanji/339-body-%E4%BD%93"
+  },
+  {
+    "kanji": "田",
+    "uri": "/kanji/56-rice-field-%E7%94%B0"
+  },
+  {
+    "kanji": "主",
+    "uri": "/kanji/454-mastermainly-%E4%B8%BB"
+  },
+  {
+    "kanji": "題",
+    "uri": "/kanji/849-topic-%E9%A1%8C"
+  },
+  {
+    "kanji": "意",
+    "uri": "/kanji/157-meaning-%E6%84%8F"
+  },
+  {
+    "kanji": "不",
+    "uri": "/kanji/13-un-%E4%B8%8D"
+  },
+  {
+    "kanji": "作",
+    "uri": "/kanji/325-make-%E4%BD%9C"
+  },
+  {
+    "kanji": "用",
+    "uri": "/kanji/224-utilize-%E7%94%A8"
+  },
+  {
+    "kanji": "度",
+    "uri": "/kanji/1144-times-%E5%BA%A6"
+  },
+  {
+    "kanji": "強",
+    "uri": "/kanji/897-burly-%E5%BC%B7"
+  },
+  {
+    "kanji": "公",
+    "uri": "/kanji/137-public-%E5%85%AC"
+  },
+  {
+    "kanji": "持",
+    "uri": "/kanji/1003-hold-%E6%8C%81"
+  },
+  {
+    "kanji": "野",
+    "uri": "/kanji/1332-field-%E9%87%8E"
+  },
+  {
+    "kanji": "以",
+    "uri": "/kanji/1721-compared-to-%E4%BB%A5"
+  },
+  {
+    "kanji": "思",
+    "uri": "/kanji/102-think-%E6%80%9D"
+  },
+  {
+    "kanji": "家",
+    "uri": "/kanji/1223-home-%E5%AE%B6"
+  },
+  {
+    "kanji": "世",
+    "uri": "/kanji/1029-society-%E4%B8%96"
+  },
+  {
+    "kanji": "多",
+    "uri": "/kanji/115-many-%E5%A4%9A"
+  },
+  {
+    "kanji": "正",
+    "uri": "/kanji/280-correct-%E6%AD%A3"
+  },
+  {
+    "kanji": "安",
+    "uri": "/kanji/128-cheap-safe-%E5%AE%89"
+  },
+  {
+    "kanji": "院",
+    "uri": "/kanji/788-institution-%E9%99%A2"
+  },
+  {
+    "kanji": "心",
+    "uri": "/kanji/98-heart-%E5%BF%83"
+  },
+  {
+    "kanji": "界",
+    "uri": "/kanji/935-the-world-%E7%95%8C"
+  },
+  {
+    "kanji": "教",
+    "uri": "/kanji/710-teach-%E6%95%99"
+  },
+  {
+    "kanji": "文",
+    "uri": "/kanji/92-culture-sentence-%E6%96%87"
+  },
+  {
+    "kanji": "元",
+    "uri": "/kanji/571-original-%E5%85%83"
+  },
+  {
+    "kanji": "重",
+    "uri": "/kanji/1059-heavy-overlap-%E9%87%8D"
+  },
+  {
+    "kanji": "近",
+    "uri": "/kanji/328-near-%E8%BF%91"
+  },
+  {
+    "kanji": "考",
+    "uri": "/kanji/657-consider-%E8%80%83"
+  },
+  {
+    "kanji": "画",
+    "uri": "/kanji/1039-a-drawing-%E7%94%BB"
+  },
+  {
+    "kanji": "海",
+    "uri": "/kanji/486-ocean-%E6%B5%B7"
+  },
+  {
+    "kanji": "売",
+    "uri": "/kanji/564-sell-%E5%A3%B2"
+  },
+  {
+    "kanji": "知",
+    "uri": "/kanji/1050-know-%E7%9F%A5"
+  },
+  {
+    "kanji": "道",
+    "uri": "/kanji/861-street-%E9%81%93"
+  },
+  {
+    "kanji": "集",
+    "uri": "/kanji/346-collect-%E9%9B%86"
+  },
+  {
+    "kanji": "別",
+    "uri": "/kanji/1314-separate-%E5%88%A5"
+  },
+  {
+    "kanji": "物",
+    "uri": "/kanji/1201-animal-thing-%E7%89%A9"
+  },
+  {
+    "kanji": "使",
+    "uri": "/kanji/1593-use-%E4%BD%BF"
+  },
+  {
+    "kanji": "品",
+    "uri": "/kanji/10-products-%E5%93%81"
+  },
+  {
+    "kanji": "計",
+    "uri": "/kanji/18-measure-%E8%A8%88"
+  },
+  {
+    "kanji": "死",
+    "uri": "/kanji/120-death-%E6%AD%BB"
+  },
+  {
+    "kanji": "特",
+    "uri": "/kanji/1196-special-%E7%89%B9"
+  },
+  {
+    "kanji": "私",
+    "uri": "/kanji/371-me-private-%E7%A7%81"
+  },
+  {
+    "kanji": "始",
+    "uri": "/kanji/141-begin-%E5%A7%8B"
+  },
+  {
+    "kanji": "朝",
+    "uri": "/kanji/46-morning-%E6%9C%9D"
+  },
+  {
+    "kanji": "運",
+    "uri": "/kanji/1071-carry-luck-%E9%81%8B"
+  },
+  {
+    "kanji": "終",
+    "uri": "/kanji/955-end-%E7%B5%82"
+  },
+  {
+    "kanji": "台",
+    "uri": "/kanji/139-big-thing-counter-%E5%8F%B0"
+  },
+  {
+    "kanji": "広",
+    "uri": "/kanji/1139-wide-%E5%BA%83"
+  },
+  {
+    "kanji": "住",
+    "uri": "/kanji/460-dwell-%E4%BD%8F"
+  },
+  {
+    "kanji": "真",
+    "uri": "/kanji/1304-really-%E7%9C%9F"
+  },
+  {
+    "kanji": "有",
+    "uri": "/kanji/1100-exist-%E6%9C%89"
+  },
+  {
+    "kanji": "口",
+    "uri": "/kanji/9-mouth-small-box-radical-%E5%8F%A3"
+  },
+  {
+    "kanji": "少",
+    "uri": "/kanji/193-a-little-amount-%E5%B0%91"
+  },
+  {
+    "kanji": "町",
+    "uri": "/kanji/57-neighborhood-small-town-%E7%94%BA"
+  },
+  {
+    "kanji": "料",
+    "uri": "/kanji/1585-ingredients-fees-%E6%96%99"
+  },
+  {
+    "kanji": "工",
+    "uri": "/kanji/645-craft-or-industry-%E5%B7%A5"
+  },
+  {
+    "kanji": "建",
+    "uri": "/kanji/1154-build-%E5%BB%BA"
+  },
+  {
+    "kanji": "空",
+    "uri": "/kanji/646-air-%E7%A9%BA"
+  },
+  {
+    "kanji": "急",
+    "uri": "/kanji/633-urgent-%E6%80%A5"
+  },
+  {
+    "kanji": "止",
+    "uri": "/kanji/271-stop-%E6%AD%A2"
+  },
+  {
+    "kanji": "送",
+    "uri": "/kanji/885-send-%E9%80%81"
+  },
+  {
+    "kanji": "切",
+    "uri": "/kanji/165-cut-important-%E5%88%87"
+  },
+  {
+    "kanji": "転",
+    "uri": "/kanji/1266-roll-over-%E8%BB%A2"
+  },
+  {
+    "kanji": "研",
+    "uri": "/kanji/1189-polish-sharpen-%E7%A0%94"
+  },
+  {
+    "kanji": "足",
+    "uri": "/kanji/277-foot-be-enough-%E8%B6%B3"
+  },
+  {
+    "kanji": "究",
+    "uri": "/kanji/182-research-%E7%A9%B6"
+  },
+  {
+    "kanji": "楽",
+    "uri": "/kanji/1650-enjoy-%E6%A5%BD"
+  },
+  {
+    "kanji": "起",
+    "uri": "/kanji/721-wake-up-occur-%E8%B5%B7"
+  },
+  {
+    "kanji": "着",
+    "uri": "/kanji/875-wear-arrive-%E7%9D%80"
+  },
+  {
+    "kanji": "店",
+    "uri": "/kanji/1132-shop-%E5%BA%97"
+  },
+  {
+    "kanji": "病",
+    "uri": "/kanji/1347-sick-kanji-%E7%97%85"
+  },
+  {
+    "kanji": "質",
+    "uri": "/kanji/540-quality-%E8%B3%AA"
+  },
+  {
+    "kanji": "待",
+    "uri": "/kanji/1236-wait-%E5%BE%85"
+  },
+  {
+    "kanji": "試",
+    "uri": "/kanji/661-attempt-to-do-%E8%A9%A6"
+  },
+  {
+    "kanji": "族",
+    "uri": "/kanji/1048-family-%E6%97%8F"
+  },
+  {
+    "kanji": "銀",
+    "uri": "/kanji/915-silver-%E9%8A%80"
+  },
+  {
+    "kanji": "早",
+    "uri": "/kanji/29-early-%E6%97%A9"
+  },
+  {
+    "kanji": "映",
+    "uri": "/kanji/406-project-reflect-%E6%98%A0"
+  },
+  {
+    "kanji": "親",
+    "uri": "/kanji/525-parentskindness-%E8%A6%AA"
+  },
+  {
+    "kanji": "験",
+    "uri": "/kanji/419-test-%E9%A8%93"
+  },
+  {
+    "kanji": "英",
+    "uri": "/kanji/407-heroic-%E8%8B%B1"
+  },
+  {
+    "kanji": "医",
+    "uri": "/kanji/1047-doctor-%E5%8C%BB"
+  },
+  {
+    "kanji": "仕",
+    "uri": "/kanji/246-work-%E4%BB%95"
+  },
+  {
+    "kanji": "去",
+    "uri": "/kanji/1257-past-tense-%E5%8E%BB"
+  },
+  {
+    "kanji": "味",
+    "uri": "/kanji/383-flavor-%E5%91%B3"
+  },
+  {
+    "kanji": "写",
+    "uri": "/kanji/652-copy-%E5%86%99"
+  },
+  {
+    "kanji": "字",
+    "uri": "/kanji/129-letter-%E5%AD%97"
+  },
+  {
+    "kanji": "答",
+    "uri": "/kanji/941-answer-%E7%AD%94"
+  },
+  {
+    "kanji": "夜",
+    "uri": "/kanji/117-late-night-%E5%A4%9C"
+  },
+  {
+    "kanji": "音",
+    "uri": "/kanji/156-sound-%E9%9F%B3"
+  },
+  {
+    "kanji": "注",
+    "uri": "/kanji/458-pour-be-careful-%E6%B3%A8"
+  },
+  {
+    "kanji": "帰",
+    "uri": "/kanji/638-go-back-home-%E5%B8%B0"
+  },
+  {
+    "kanji": "古",
+    "uri": "/kanji/16-old-%E5%8F%A4"
+  },
+  {
+    "kanji": "歌",
+    "uri": "/kanji/700-sing-%E6%AD%8C"
+  },
+  {
+    "kanji": "買",
+    "uri": "/kanji/533-buy-%E8%B2%B7"
+  },
+  {
+    "kanji": "悪",
+    "uri": "/kanji/113-bad-%E6%82%AA"
+  },
+  {
+    "kanji": "図",
+    "uri": "/kanji/1587-diagram-map-%E5%9B%B3"
+  },
+  {
+    "kanji": "週",
+    "uri": "/kanji/1637-week-%E9%80%B1"
+  },
+  {
+    "kanji": "室",
+    "uri": "/kanji/1261-room-suffix-%E5%AE%A4"
+  },
+  {
+    "kanji": "歩",
+    "uri": "/kanji/274-walk-%E6%AD%A9"
+  },
+  {
+    "kanji": "風",
+    "uri": "/kanji/1285-wind-the-flu-style-%E9%A2%A8"
+  },
+  {
+    "kanji": "紙",
+    "uri": "/kanji/1161-paper-%E7%B4%99"
+  },
+  {
+    "kanji": "黒",
+    "uri": "/kanji/238-black-%E9%BB%92"
+  },
+  {
+    "kanji": "花",
+    "uri": "/kanji/65-flower-%E8%8A%B1"
+  },
+  {
+    "kanji": "春",
+    "uri": "/kanji/962-spring-sexy-%E6%98%A5"
+  },
+  {
+    "kanji": "赤",
+    "uri": "/kanji/900-red-%E8%B5%A4"
+  },
+  {
+    "kanji": "青",
+    "uri": "/kanji/466-blue-%E9%9D%92"
+  },
+  {
+    "kanji": "館",
+    "uri": "/kanji/1614-big-hall-%E9%A4%A8"
+  },
+  {
+    "kanji": "屋",
+    "uri": "/kanji/1260-store-%E5%B1%8B"
+  },
+  {
+    "kanji": "色",
+    "uri": "/kanji/1210-color-%E8%89%B2"
+  },
+  {
+    "kanji": "走",
+    "uri": "/kanji/286-run-%E8%B5%B0"
+  },
+  {
+    "kanji": "秋",
+    "uri": "/kanji/378-fall-%E7%A7%8B"
+  },
+  {
+    "kanji": "夏",
+    "uri": "/kanji/842-summer-%E5%A4%8F"
+  },
+  {
+    "kanji": "習",
+    "uri": "/kanji/1535-learn-%E7%BF%92"
+  },
+  {
+    "kanji": "駅",
+    "uri": "/kanji/289-train-station-%E9%A7%85"
+  },
+  {
+    "kanji": "洋",
+    "uri": "/kanji/872-pacific-ocean-the-west-%E6%B4%8B"
+  },
+  {
+    "kanji": "旅",
+    "uri": "/kanji/758-trip-%E6%97%85"
+  },
+  {
+    "kanji": "服",
+    "uri": "/kanji/1481-clothes-%E6%9C%8D"
+  },
+  {
+    "kanji": "夕",
+    "uri": "/kanji/114-evening-%E5%A4%95"
+  },
+  {
+    "kanji": "借",
+    "uri": "/kanji/1539-borrow-%E5%80%9F"
+  },
+  {
+    "kanji": "曜",
+    "uri": "/kanji/644-day-of-the-week-%E6%9B%9C"
+  },
+  {
+    "kanji": "飲",
+    "uri": "/kanji/922-drink-%E9%A3%B2"
+  },
+  {
+    "kanji": "肉",
+    "uri": "/kanji/71-meat-%E8%82%89"
+  },
+  {
+    "kanji": "貸",
+    "uri": "/kanji/664-lend-%E8%B2%B8"
+  },
+  {
+    "kanji": "堂",
+    "uri": "/kanji/1631-assembly-hall-%E5%A0%82"
+  },
+  {
+    "kanji": "鳥",
+    "uri": "/kanji/834-bird-%E9%B3%A5"
+  },
+  {
+    "kanji": "飯",
+    "uri": "/kanji/924-rice-meal-%E9%A3%AF"
+  },
+  {
+    "kanji": "勉",
+    "uri": "/kanji/1215-try-hard-%E5%8B%89"
+  },
+  {
+    "kanji": "冬",
+    "uri": "/kanji/954-winter-%E5%86%AC"
+  },
+  {
+    "kanji": "昼",
+    "uri": "/kanji/290-noon-%E6%98%BC"
+  },
+  {
+    "kanji": "茶",
+    "uri": "/kanji/917-tea-%E8%8C%B6"
+  },
+  {
+    "kanji": "弟",
+    "uri": "/kanji/893-younger-brother-%E5%BC%9F"
+  },
+  {
+    "kanji": "牛",
+    "uri": "/kanji/1194-cow-%E7%89%9B"
+  },
+  {
+    "kanji": "魚",
+    "uri": "/kanji/560-fish-%E9%AD%9A"
+  },
+  {
+    "kanji": "兄",
+    "uri": "/kanji/526-older-brother-%E5%85%84"
+  },
+  {
+    "kanji": "犬",
+    "uri": "/kanji/408-dog-%E7%8A%AC"
+  },
+  {
+    "kanji": "妹",
+    "uri": "/kanji/382-little-sister-%E5%A6%B9"
+  },
+  {
+    "kanji": "姉",
+    "uri": "/kanji/75-older-sister-%E5%A7%89"
+  },
+  {
+    "kanji": "漢",
+    "uri": "/kanji/421-chinese-%E6%BC%A2"
+  }
+]

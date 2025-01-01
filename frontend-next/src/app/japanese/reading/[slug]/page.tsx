@@ -43,15 +43,15 @@ export default function ReadingPage( { params }: { params: {slug: string} }) {
     fetch(...args).then((res) => res.json());
 
 
-  //const apiUrl = "http://localhost:8000/api/v1/reading?key=reading_1";
-////////////  const apiUrl = `http://localhost:8000/api/v1/reading?key=${params.slug}`;
+  //const apiUrl = "http://localhost:8000/e-api/v1/reading?key=reading_1";
+////////////  const apiUrl = `http://localhost:8000/e-api/v1/reading?key=${params.slug}`;
 
 
  let apiUrl;
  if (process.env.REACT_APP_HOST_IP) {
-   apiUrl = `http://${process.env.REACT_APP_HOST_IP}/api/v1/reading?key=${params.slug}`;
+   apiUrl = `http://${process.env.REACT_APP_HOST_IP}:8000/e-api/v1/reading?key=${params.slug}`;
  } else {
-   apiUrl = `/api/v1/reading?key=${params.slug}`;
+   apiUrl = `/e-api/v1/reading?key=${params.slug}`;
  }
 
 

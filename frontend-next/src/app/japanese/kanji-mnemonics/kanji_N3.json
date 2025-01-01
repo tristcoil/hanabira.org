@@ -1,0 +1,1470 @@
+[
+  {
+    "kanji": "政",
+    "uri": "/kanji/708-politics-%E6%94%BF"
+  },
+  {
+    "kanji": "議",
+    "uri": "/kanji/1764-discussion-%E8%AD%B0"
+  },
+  {
+    "kanji": "民",
+    "uri": "/kanji/1165-folk-%E6%B0%91"
+  },
+  {
+    "kanji": "連",
+    "uri": "/kanji/1070-take-with-inform-of-%E9%80%A3"
+  },
+  {
+    "kanji": "対",
+    "uri": "/kanji/1010-against-%E5%AF%BE"
+  },
+  {
+    "kanji": "部",
+    "uri": "/kanji/795-section-%E9%83%A8"
+  },
+  {
+    "kanji": "合",
+    "uri": "/kanji/936-to-suit-%E5%90%88"
+  },
+  {
+    "kanji": "市",
+    "uri": "/kanji/73-small-city-dagger-radical-%E5%B8%82"
+  },
+  {
+    "kanji": "内",
+    "uri": "/kanji/70-the-inside-%E5%86%85"
+  },
+  {
+    "kanji": "相",
+    "uri": "/kanji/350-partner-%E7%9B%B8"
+  },
+  {
+    "kanji": "定",
+    "uri": "/kanji/282-plan-%E5%AE%9A"
+  },
+  {
+    "kanji": "回",
+    "uri": "/kanji/437-rotate-times-%E5%9B%9E"
+  },
+  {
+    "kanji": "選",
+    "uri": "/kanji/1552-choose-%E9%81%B8"
+  },
+  {
+    "kanji": "米",
+    "uri": "/kanji/384-rice-america-%E7%B1%B3"
+  },
+  {
+    "kanji": "実",
+    "uri": "/kanji/964-truth-%E5%AE%9F"
+  },
+  {
+    "kanji": "関",
+    "uri": "/kanji/887-connected-to-%E9%96%A2"
+  },
+  {
+    "kanji": "決",
+    "uri": "/kanji/984-decide-%E6%B1%BA"
+  },
+  {
+    "kanji": "全",
+    "uri": "/kanji/919-all-%E5%85%A8"
+  },
+  {
+    "kanji": "表",
+    "uri": "/kanji/767-express-%E8%A1%A8"
+  },
+  {
+    "kanji": "戦",
+    "uri": "/kanji/672-fight-%E6%88%A6"
+  },
+  {
+    "kanji": "経",
+    "uri": "/kanji/1089-experience-%E7%B5%8C"
+  },
+  {
+    "kanji": "最",
+    "uri": "/kanji/311-most-%E6%9C%80"
+  },
+  {
+    "kanji": "現",
+    "uri": "/kanji/524-reality-%E7%8F%BE"
+  },
+  {
+    "kanji": "調",
+    "uri": "/kanji/1636-check-out-%E8%AA%BF"
+  },
+  {
+    "kanji": "化",
+    "uri": "/kanji/64-transform-%E5%8C%96"
+  },
+  {
+    "kanji": "当",
+    "uri": "/kanji/634-hit-the-target-%E5%BD%93"
+  },
+  {
+    "kanji": "約",
+    "uri": "/kanji/1429-promise-roughly-speaking-%E7%B4%84"
+  },
+  {
+    "kanji": "首",
+    "uri": "/kanji/860-neck-%E9%A6%96"
+  },
+  {
+    "kanji": "法",
+    "uri": "/kanji/1258-law-%E6%B3%95"
+  },
+  {
+    "kanji": "性",
+    "uri": "/kanji/475-sex-essential-nature-%E6%80%A7"
+  },
+  {
+    "kanji": "要",
+    "uri": "/kanji/581-important-%E8%A6%81"
+  },
+  {
+    "kanji": "制",
+    "uri": "/kanji/805-system-%E5%88%B6"
+  },
+  {
+    "kanji": "治",
+    "uri": "/kanji/140-cure-%E6%B2%BB"
+  },
+  {
+    "kanji": "務",
+    "uri": "/kanji/1335-perform-a-task-%E5%8B%99"
+  },
+  {
+    "kanji": "成",
+    "uri": "/kanji/745-become-%E6%88%90"
+  },
+  {
+    "kanji": "期",
+    "uri": "/kanji/1706-period-of-time-%E6%9C%9F"
+  },
+  {
+    "kanji": "取",
+    "uri": "/kanji/310-take-%E5%8F%96"
+  },
+  {
+    "kanji": "都",
+    "uri": "/kanji/791-major-city-%E9%83%BD"
+  },
+  {
+    "kanji": "和",
+    "uri": "/kanji/369-peace-japan-%E5%92%8C"
+  },
+  {
+    "kanji": "機",
+    "uri": "/kanji/675-machine-%E6%A9%9F"
+  },
+  {
+    "kanji": "平",
+    "uri": "/kanji/187-equal-level-%E5%B9%B3"
+  },
+  {
+    "kanji": "加",
+    "uri": "/kanji/176-add-%E5%8A%A0"
+  },
+  {
+    "kanji": "受",
+    "uri": "/kanji/604-receive-%E5%8F%97"
+  },
+  {
+    "kanji": "続",
+    "uri": "/kanji/565-continue-%E7%B6%9A"
+  },
+  {
+    "kanji": "進",
+    "uri": "/kanji/333-progress-%E9%80%B2"
+  },
+  {
+    "kanji": "数",
+    "uri": "/kanji/703-integer-to-count-%E6%95%B0"
+  },
+  {
+    "kanji": "記",
+    "uri": "/kanji/723-diary-%E8%A8%98"
+  },
+  {
+    "kanji": "初",
+    "uri": "/kanji/1509-first-time-%E5%88%9D"
+  },
+  {
+    "kanji": "指",
+    "uri": "/kanji/299-finger-point-at-%E6%8C%87"
+  },
+  {
+    "kanji": "権",
+    "uri": "/kanji/1056-rights-%E6%A8%A9"
+  },
+  {
+    "kanji": "支",
+    "uri": "/kanji/1319-support-%E6%94%AF"
+  },
+  {
+    "kanji": "産",
+    "uri": "/kanji/736-childbirth-production-of-things-%E7%94%A3"
+  },
+  {
+    "kanji": "点",
+    "uri": "/kanji/126-point-%E7%82%B9"
+  },
+  {
+    "kanji": "報",
+    "uri": "/kanji/1482-data-%E5%A0%B1"
+  },
+  {
+    "kanji": "済",
+    "uri": "/kanji/94-economy-to-be-over-%E6%B8%88"
+  },
+  {
+    "kanji": "活",
+    "uri": "/kanji/232-vivid-lively-%E6%B4%BB"
+  },
+  {
+    "kanji": "原",
+    "uri": "/kanji/737-original-high-plain-%E5%8E%9F"
+  },
+  {
+    "kanji": "共",
+    "uri": "/kanji/1548-with-%E5%85%B1"
+  },
+  {
+    "kanji": "得",
+    "uri": "/kanji/1237-bargain-obtain-%E5%BE%97"
+  },
+  {
+    "kanji": "解",
+    "uri": "/kanji/1199-solve-untie-%E8%A7%A3"
+  },
+  {
+    "kanji": "交",
+    "uri": "/kanji/1009-combine-%E4%BA%A4"
+  },
+  {
+    "kanji": "資",
+    "uri": "/kanji/958-capital-as-in-%E8%B3%87"
+  },
+  {
+    "kanji": "予",
+    "uri": "/kanji/1329-beforehand-%E4%BA%88"
+  },
+  {
+    "kanji": "向",
+    "uri": "/kanji/1640-turn-to-face-%E5%90%91"
+  },
+  {
+    "kanji": "際",
+    "uri": "/kanji/1181-edge-%E9%9A%9B"
+  },
+  {
+    "kanji": "勝",
+    "uri": "/kanji/891-win-%E5%8B%9D"
+  },
+  {
+    "kanji": "面",
+    "uri": "/kanji/813-front-surface-face-%E9%9D%A2"
+  },
+  {
+    "kanji": "告",
+    "uri": "/kanji/807-inform-%E5%91%8A"
+  },
+  {
+    "kanji": "反",
+    "uri": "/kanji/739-anti-%E5%8F%8D"
+  },
+  {
+    "kanji": "判",
+    "uri": "/kanji/188-judgement-%E5%88%A4"
+  },
+  {
+    "kanji": "認",
+    "uri": "/kanji/174-admit-%E8%AA%8D"
+  },
+  {
+    "kanji": "参",
+    "uri": "/kanji/1117-admit-defeat-visit-%E5%8F%82"
+  },
+  {
+    "kanji": "利",
+    "uri": "/kanji/374-handy-%E5%88%A9"
+  },
+  {
+    "kanji": "組",
+    "uri": "/kanji/1485-ones-team-%E7%B5%84"
+  },
+  {
+    "kanji": "信",
+    "uri": "/kanji/63-believe-%E4%BF%A1"
+  },
+  {
+    "kanji": "在",
+    "uri": "/kanji/1103-be-real-%E5%9C%A8"
+  },
+  {
+    "kanji": "件",
+    "uri": "/kanji/1195-incident-%E4%BB%B6"
+  },
+  {
+    "kanji": "側",
+    "uri": "/kanji/547-side-of-something-%E5%81%B4"
+  },
+  {
+    "kanji": "任",
+    "uri": "/kanji/446-have-responsibility-for-%E4%BB%BB"
+  },
+  {
+    "kanji": "引",
+    "uri": "/kanji/898-pull-%E5%BC%95"
+  },
+  {
+    "kanji": "求",
+    "uri": "/kanji/725-demandask-%E6%B1%82"
+  },
+  {
+    "kanji": "所",
+    "uri": "/kanji/506-area-attribute-%E6%89%80"
+  },
+  {
+    "kanji": "次",
+    "uri": "/kanji/956-next-%E6%AC%A1"
+  },
+  {
+    "kanji": "昨",
+    "uri": "/kanji/326-yesterday-%E6%98%A8"
+  },
+  {
+    "kanji": "論",
+    "uri": "/kanji/972-make-a-case-for-%E8%AB%96"
+  },
+  {
+    "kanji": "官",
+    "uri": "/kanji/1613-federal-%E5%AE%98"
+  },
+  {
+    "kanji": "増",
+    "uri": "/kanji/1605-increase-%E5%A2%97"
+  },
+  {
+    "kanji": "係",
+    "uri": "/kanji/221-be-involved-with-%E4%BF%82"
+  },
+  {
+    "kanji": "感",
+    "uri": "/kanji/755-feeling-%E6%84%9F"
+  },
+  {
+    "kanji": "情",
+    "uri": "/kanji/471-emotion-%E6%83%85"
+  },
+  {
+    "kanji": "投",
+    "uri": "/kanji/1294-throw-%E6%8A%95"
+  },
+  {
+    "kanji": "示",
+    "uri": "/kanji/200-show-altar-radical-%E7%A4%BA"
+  },
+  {
+    "kanji": "変",
+    "uri": "/kanji/904-change-%E5%A4%89"
+  },
+  {
+    "kanji": "打",
+    "uri": "/kanji/300-pound-%E6%89%93"
+  },
+  {
+    "kanji": "直",
+    "uri": "/kanji/1308-correct-a-problem-direct-contact-%E7%9B%B4"
+  },
+  {
+    "kanji": "両",
+    "uri": "/kanji/1040-both-%E4%B8%A1"
+  },
+  {
+    "kanji": "式",
+    "uri": "/kanji/659-ritual-%E5%BC%8F"
+  },
+  {
+    "kanji": "確",
+    "uri": "/kanji/1057-make-certain-%E7%A2%BA"
+  },
+  {
+    "kanji": "果",
+    "uri": "/kanji/354-fruit-result-%E6%9E%9C"
+  },
+  {
+    "kanji": "容",
+    "uri": "/kanji/1521-appearance-%E5%AE%B9"
+  },
+  {
+    "kanji": "必",
+    "uri": "/kanji/99-surely-%E5%BF%85"
+  },
+  {
+    "kanji": "演",
+    "uri": "/kanji/1020-performance-%E6%BC%94"
+  },
+  {
+    "kanji": "歳",
+    "uri": "/kanji/750-years-old-%E6%AD%B3"
+  },
+  {
+    "kanji": "争",
+    "uri": "/kanji/1669-battle-%E4%BA%89"
+  },
+  {
+    "kanji": "談",
+    "uri": "/kanji/50-consult-%E8%AB%87"
+  },
+  {
+    "kanji": "能",
+    "uri": "/kanji/143-talent-%E8%83%BD"
+  },
+  {
+    "kanji": "位",
+    "uri": "/kanji/153-rank-%E4%BD%8D"
+  },
+  {
+    "kanji": "置",
+    "uri": "/kanji/1309-put-down-on-table-%E7%BD%AE"
+  },
+  {
+    "kanji": "流",
+    "uri": "/kanji/1248-flow-%E6%B5%81"
+  },
+  {
+    "kanji": "格",
+    "uri": "/kanji/613-character-aspect-%E6%A0%BC"
+  },
+  {
+    "kanji": "疑",
+    "uri": "/kanji/1044-doubt-%E7%96%91"
+  },
+  {
+    "kanji": "過",
+    "uri": "/kanji/1644-surpass-too-much-%E9%81%8E"
+  },
+  {
+    "kanji": "局",
+    "uri": "/kanji/1422-department-%E5%B1%80"
+  },
+  {
+    "kanji": "放",
+    "uri": "/kanji/709-release-%E6%94%BE"
+  },
+  {
+    "kanji": "常",
+    "uri": "/kanji/1630-usual-%E5%B8%B8"
+  },
+  {
+    "kanji": "状",
+    "uri": "/kanji/801-circumstance-%E7%8A%B6"
+  },
+  {
+    "kanji": "球",
+    "uri": "/kanji/727-sphere-%E7%90%83"
+  },
+  {
+    "kanji": "職",
+    "uri": "/kanji/677-employment-%E8%81%B7"
+  },
+  {
+    "kanji": "与",
+    "uri": "/kanji/651-bestow-%E4%B8%8E"
+  },
+  {
+    "kanji": "供",
+    "uri": "/kanji/1551-follower-%E4%BE%9B"
+  },
+  {
+    "kanji": "役",
+    "uri": "/kanji/1293-role-%E5%BD%B9"
+  },
+  {
+    "kanji": "構",
+    "uri": "/kanji/1566-set-up-care-about-%E6%A7%8B"
+  },
+  {
+    "kanji": "割",
+    "uri": "/kanji/463-divide-%E5%89%B2"
+  },
+  {
+    "kanji": "費",
+    "uri": "/kanji/896-expenses-%E8%B2%BB"
+  },
+  {
+    "kanji": "付",
+    "uri": "/kanji/987-stick-to-%E4%BB%98"
+  },
+  {
+    "kanji": "由",
+    "uri": "/kanji/1374-freedom-reason-%E7%94%B1"
+  },
+  {
+    "kanji": "説",
+    "uri": "/kanji/863-explain-%E8%AA%AC"
+  },
+  {
+    "kanji": "難",
+    "uri": "/kanji/422-difficult-%E9%9B%A3"
+  },
+  {
+    "kanji": "優",
+    "uri": "/kanji/816-kindheartedexcel-%E5%84%AA"
+  },
+  {
+    "kanji": "夫",
+    "uri": "/kanji/588-husband-%E5%A4%AB"
+  },
+  {
+    "kanji": "収",
+    "uri": "/kanji/96-get-%E5%8F%8E"
+  },
+  {
+    "kanji": "断",
+    "uri": "/kanji/387-decisionjudgementrefuse-%E6%96%AD"
+  },
+  {
+    "kanji": "石",
+    "uri": "/kanji/819-rock-%E7%9F%B3"
+  },
+  {
+    "kanji": "違",
+    "uri": "/kanji/1577-different-and-therefore-wrong-%E9%81%95"
+  },
+  {
+    "kanji": "消",
+    "uri": "/kanji/601-erase-%E6%B6%88"
+  },
+  {
+    "kanji": "神",
+    "uri": "/kanji/1498-god-kanji-%E7%A5%9E"
+  },
+  {
+    "kanji": "番",
+    "uri": "/kanji/395-number-%E7%95%AA"
+  },
+  {
+    "kanji": "規",
+    "uri": "/kanji/592-criteria-%E8%A6%8F"
+  },
+  {
+    "kanji": "術",
+    "uri": "/kanji/1240-art-technique-%E8%A1%93"
+  },
+  {
+    "kanji": "備",
+    "uri": "/kanji/734-furnish-%E5%82%99"
+  },
+  {
+    "kanji": "宅",
+    "uri": "/kanji/127-residence-%E5%AE%85"
+  },
+  {
+    "kanji": "害",
+    "uri": "/kanji/462-damage-%E5%AE%B3"
+  },
+  {
+    "kanji": "配",
+    "uri": "/kanji/724-distribute-%E9%85%8D"
+  },
+  {
+    "kanji": "警",
+    "uri": "/kanji/1420-the-fuzz-%E8%AD%A6"
+  },
+  {
+    "kanji": "育",
+    "uri": "/kanji/1247-grow-up-be-raised-%E8%82%B2"
+  },
+  {
+    "kanji": "席",
+    "uri": "/kanji/1143-seat-%E5%B8%AD"
+  },
+  {
+    "kanji": "訪",
+    "uri": "/kanji/86-formal-visit-%E8%A8%AA"
+  },
+  {
+    "kanji": "乗",
+    "uri": "/kanji/1061-ride-a-vehicle-%E4%B9%97"
+  },
+  {
+    "kanji": "残",
+    "uri": "/kanji/1678-remain-behind-%E6%AE%8B"
+  },
+  {
+    "kanji": "想",
+    "uri": "/kanji/352-ideaimagination-%E6%83%B3"
+  },
+  {
+    "kanji": "声",
+    "uri": "/kanji/1217-voice-%E5%A3%B0"
+  },
+  {
+    "kanji": "念",
+    "uri": "/kanji/945-concern-%E5%BF%B5"
+  },
+  {
+    "kanji": "助",
+    "uri": "/kanji/1490-save-%E5%8A%A9"
+  },
+  {
+    "kanji": "労",
+    "uri": "/kanji/1622-labor-%E5%8A%B4"
+  },
+  {
+    "kanji": "例",
+    "uri": "/kanji/1318-example-%E4%BE%8B"
+  },
+  {
+    "kanji": "然",
+    "uri": "/kanji/411-nature-%E7%84%B6"
+  },
+  {
+    "kanji": "限",
+    "uri": "/kanji/783-limit-%E9%99%90"
+  },
+  {
+    "kanji": "追",
+    "uri": "/kanji/1616-follow-%E8%BF%BD"
+  },
+  {
+    "kanji": "商",
+    "uri": "/kanji/1641-merchandise-%E5%95%86"
+  },
+  {
+    "kanji": "葉",
+    "uri": "/kanji/1030-leaf-%E8%91%89"
+  },
+  {
+    "kanji": "伝",
+    "uri": "/kanji/1267-transmit-%E4%BC%9D"
+  },
+  {
+    "kanji": "働",
+    "uri": "/kanji/1079-to-do-your-job-%E5%83%8D"
+  },
+  {
+    "kanji": "形",
+    "uri": "/kanji/1188-form-%E5%BD%A2"
+  },
+  {
+    "kanji": "景",
+    "uri": "/kanji/199-scene-%E6%99%AF"
+  },
+  {
+    "kanji": "落",
+    "uri": "/kanji/612-falldrop-%E8%90%BD"
+  },
+  {
+    "kanji": "好",
+    "uri": "/kanji/7-like-%E5%A5%BD"
+  },
+  {
+    "kanji": "退",
+    "uri": "/kanji/777-retreat-%E9%80%80"
+  },
+  {
+    "kanji": "頭",
+    "uri": "/kanji/841-head-%E9%A0%AD"
+  },
+  {
+    "kanji": "負",
+    "uri": "/kanji/559-lose-%E8%B2%A0"
+  },
+  {
+    "kanji": "渡",
+    "uri": "/kanji/1145-pass-by-%E6%B8%A1"
+  },
+  {
+    "kanji": "失",
+    "uri": "/kanji/1051-miss-out-on-%E5%A4%B1"
+  },
+  {
+    "kanji": "差",
+    "uri": "/kanji/874-discriminate-%E5%B7%AE"
+  },
+  {
+    "kanji": "末",
+    "uri": "/kanji/380-the-tip-%E6%9C%AB"
+  },
+  {
+    "kanji": "守",
+    "uri": "/kanji/991-protect-%E5%AE%88"
+  },
+  {
+    "kanji": "若",
+    "uri": "/kanji/1099-young-%E8%8B%A5"
+  },
+  {
+    "kanji": "種",
+    "uri": "/kanji/1077-seed-type-or-kind-%E7%A8%AE"
+  },
+  {
+    "kanji": "美",
+    "uri": "/kanji/965-beauty-%E7%BE%8E"
+  },
+  {
+    "kanji": "命",
+    "uri": "/kanji/949-life-%E5%91%BD"
+  },
+  {
+    "kanji": "福",
+    "uri": "/kanji/1500-good-luck-%E7%A6%8F"
+  },
+  {
+    "kanji": "望",
+    "uri": "/kanji/449-desire-%E6%9C%9B"
+  },
+  {
+    "kanji": "非",
+    "uri": "/kanji/1081-injustice-mistake-%E9%9D%9E"
+  },
+  {
+    "kanji": "観",
+    "uri": "/kanji/1054-point-of-view-%E8%A6%B3"
+  },
+  {
+    "kanji": "察",
+    "uri": "/kanji/1182-police-%E5%AF%9F"
+  },
+  {
+    "kanji": "段",
+    "uri": "/kanji/1726-step-stairs-%E6%AE%B5"
+  },
+  {
+    "kanji": "横",
+    "uri": "/kanji/1547-side-arrogant-%E6%A8%AA"
+  },
+  {
+    "kanji": "深",
+    "uri": "/kanji/569-deep-%E6%B7%B1"
+  },
+  {
+    "kanji": "申",
+    "uri": "/kanji/1367-humbly-say-god-radical-%E7%94%B3"
+  },
+  {
+    "kanji": "様",
+    "uri": "/kanji/879-important-person-%E6%A7%98"
+  },
+  {
+    "kanji": "財",
+    "uri": "/kanji/585-loot-%E8%B2%A1"
+  },
+  {
+    "kanji": "港",
+    "uri": "/kanji/1555-harbor-%E6%B8%AF"
+  },
+  {
+    "kanji": "識",
+    "uri": "/kanji/679-be-conscious-%E8%AD%98"
+  },
+  {
+    "kanji": "呼",
+    "uri": "/kanji/191-call-to-someone-%E5%91%BC"
+  },
+  {
+    "kanji": "達",
+    "uri": "/kanji/332-pluraldelivery-%E9%81%94"
+  },
+  {
+    "kanji": "良",
+    "uri": "/kanji/775-good-%E8%89%AF"
+  },
+  {
+    "kanji": "候",
+    "uri": "/kanji/1049-climatecandidate-%E5%80%99"
+  },
+  {
+    "kanji": "程",
+    "uri": "/kanji/451-extent-%E7%A8%8B"
+  },
+  {
+    "kanji": "満",
+    "uri": "/kanji/1041-full-%E6%BA%80"
+  },
+  {
+    "kanji": "敗",
+    "uri": "/kanji/706-be-defeated-%E6%95%97"
+  },
+  {
+    "kanji": "値",
+    "uri": "/kanji/1310-price-or-ranking-%E5%80%A4"
+  },
+  {
+    "kanji": "突",
+    "uri": "/kanji/404-thrust-%E7%AA%81"
+  },
+  {
+    "kanji": "光",
+    "uri": "/kanji/573-shining-%E5%85%89"
+  },
+  {
+    "kanji": "路",
+    "uri": "/kanji/616-road-%E8%B7%AF"
+  },
+  {
+    "kanji": "科",
+    "uri": "/kanji/1586-science-%E7%A7%91"
+  },
+  {
+    "kanji": "積",
+    "uri": "/kanji/553-pile-up-%E7%A9%8D"
+  },
+  {
+    "kanji": "他",
+    "uri": "/kanji/1602-other-%E4%BB%96"
+  },
+  {
+    "kanji": "処",
+    "uri": "/kanji/1287-dispose-of-or-manage-%E5%87%A6"
+  },
+  {
+    "kanji": "太",
+    "uri": "/kanji/413-fat-%E5%A4%AA"
+  },
+  {
+    "kanji": "客",
+    "uri": "/kanji/611-customer-%E5%AE%A2"
+  },
+  {
+    "kanji": "否",
+    "uri": "/kanji/14-no-%E5%90%A6"
+  },
+  {
+    "kanji": "師",
+    "uri": "/kanji/1619-master-teacher-%E5%B8%AB"
+  },
+  {
+    "kanji": "登",
+    "uri": "/kanji/1179-climb-%E7%99%BB"
+  },
+  {
+    "kanji": "易",
+    "uri": "/kanji/1203-easy-%E6%98%93"
+  },
+  {
+    "kanji": "速",
+    "uri": "/kanji/1339-fast-%E9%80%9F"
+  },
+  {
+    "kanji": "存",
+    "uri": "/kanji/1104-be-aware-of-%E5%AD%98"
+  },
+  {
+    "kanji": "飛",
+    "uri": "/kanji/1533-fly-%E9%A3%9B"
+  },
+  {
+    "kanji": "殺",
+    "uri": "/kanji/1297-kill-%E6%AE%BA"
+  },
+  {
+    "kanji": "号",
+    "uri": "/kanji/656-id-number-%E5%8F%B7"
+  },
+  {
+    "kanji": "単",
+    "uri": "/kanji/596-merely-%E5%8D%98"
+  },
+  {
+    "kanji": "座",
+    "uri": "/kanji/1133-sit-%E5%BA%A7"
+  },
+  {
+    "kanji": "破",
+    "uri": "/kanji/1324-rend-%E7%A0%B4"
+  },
+  {
+    "kanji": "除",
+    "uri": "/kanji/931-exclude-%E9%99%A4"
+  },
+  {
+    "kanji": "完",
+    "uri": "/kanji/572-complete-%E5%AE%8C"
+  },
+  {
+    "kanji": "降",
+    "uri": "/kanji/1571-descend-rainfall-get-out-of-vehicle-%E9%99%8D"
+  },
+  {
+    "kanji": "責",
+    "uri": "/kanji/551-condemn-%E8%B2%AC"
+  },
+  {
+    "kanji": "捕",
+    "uri": "/kanji/1564-capture-%E6%8D%95"
+  },
+  {
+    "kanji": "危",
+    "uri": "/kanji/1475-dangerous-%E5%8D%B1"
+  },
+  {
+    "kanji": "給",
+    "uri": "/kanji/937-provide-%E7%B5%A6"
+  },
+  {
+    "kanji": "苦",
+    "uri": "/kanji/66-suffer-%E8%8B%A6"
+  },
+  {
+    "kanji": "迎",
+    "uri": "/kanji/1478-go-to-pick-someone-up-%E8%BF%8E"
+  },
+  {
+    "kanji": "園",
+    "uri": "/kanji/763-public-park-%E5%9C%92"
+  },
+  {
+    "kanji": "具",
+    "uri": "/kanji/570-tool-%E5%85%B7"
+  },
+  {
+    "kanji": "辞",
+    "uri": "/kanji/233-quit-%E8%BE%9E"
+  },
+  {
+    "kanji": "因",
+    "uri": "/kanji/432-origin-%E5%9B%A0"
+  },
+  {
+    "kanji": "馬",
+    "uri": "/kanji/270-horse-%E9%A6%AC"
+  },
+  {
+    "kanji": "愛",
+    "uri": "/kanji/610-love-%E6%84%9B"
+  },
+  {
+    "kanji": "富",
+    "uri": "/kanji/1503-get-rich-%E5%AF%8C"
+  },
+  {
+    "kanji": "彼",
+    "uri": "/kanji/1326-him-%E5%BD%BC"
+  },
+  {
+    "kanji": "未",
+    "uri": "/kanji/381-not-yet-%E6%9C%AA"
+  },
+  {
+    "kanji": "舞",
+    "uri": "/kanji/1582-dance-flutter-%E8%88%9E"
+  },
+  {
+    "kanji": "亡",
+    "uri": "/kanji/104-dying-%E4%BA%A1"
+  },
+  {
+    "kanji": "冷",
+    "uri": "/kanji/951-cold-thing-%E5%86%B7"
+  },
+  {
+    "kanji": "適",
+    "uri": "/kanji/716-suitable-%E9%81%A9"
+  },
+  {
+    "kanji": "婦",
+    "uri": "/kanji/636-housewife-lady-%E5%A9%A6"
+  },
+  {
+    "kanji": "寄",
+    "uri": "/kanji/400-get-close-%E5%AF%84"
+  },
+  {
+    "kanji": "込",
+    "uri": "/kanji/331-get-crowded-%E8%BE%BC"
+  },
+  {
+    "kanji": "顔",
+    "uri": "/kanji/1116-face-%E9%A1%94"
+  },
+  {
+    "kanji": "類",
+    "uri": "/kanji/848-categorytype-%E9%A1%9E"
+  },
+  {
+    "kanji": "余",
+    "uri": "/kanji/928-excess-%E4%BD%99"
+  },
+  {
+    "kanji": "王",
+    "uri": "/kanji/444-king-%E7%8E%8B"
+  },
+  {
+    "kanji": "返",
+    "uri": "/kanji/740-return-or-respond-%E8%BF%94"
+  },
+  {
+    "kanji": "妻",
+    "uri": "/kanji/1667-wife-%E5%A6%BB"
+  },
+  {
+    "kanji": "背",
+    "uri": "/kanji/804-stature-back-of-the-body-%E8%83%8C"
+  },
+  {
+    "kanji": "熱",
+    "uri": "/kanji/1279-hot-thing-fever-%E7%86%B1"
+  },
+  {
+    "kanji": "宿",
+    "uri": "/kanji/817-lodge-at-%E5%AE%BF"
+  },
+  {
+    "kanji": "薬",
+    "uri": "/kanji/1651-medicine-%E8%96%AC"
+  },
+  {
+    "kanji": "険",
+    "uri": "/kanji/792-steep-risky-%E9%99%BA"
+  },
+  {
+    "kanji": "頼",
+    "uri": "/kanji/1338-ask-a-favor-%E9%A0%BC"
+  },
+  {
+    "kanji": "覚",
+    "uri": "/kanji/1625-bear-in-mind-%E8%A6%9A"
+  },
+  {
+    "kanji": "船",
+    "uri": "/kanji/1449-ship-%E8%88%B9"
+  },
+  {
+    "kanji": "途",
+    "uri": "/kanji/930-on-the-way-%E9%80%94"
+  },
+  {
+    "kanji": "許",
+    "uri": "/kanji/1193-allow-%E8%A8%B1"
+  },
+  {
+    "kanji": "抜",
+    "uri": "/kanji/1092-extract-%E6%8A%9C"
+  },
+  {
+    "kanji": "便",
+    "uri": "/kanji/1594-convenient-poop-%E4%BE%BF"
+  },
+  {
+    "kanji": "留",
+    "uri": "/kanji/1264-absent-stopped-%E7%95%99"
+  },
+  {
+    "kanji": "罪",
+    "uri": "/kanji/1084-sin-%E7%BD%AA"
+  },
+  {
+    "kanji": "努",
+    "uri": "/kanji/179-make-an-effort-%E5%8A%AA"
+  },
+  {
+    "kanji": "精",
+    "uri": "/kanji/469-spirit-%E7%B2%BE"
+  },
+  {
+    "kanji": "散",
+    "uri": "/kanji/1540-scatter-%E6%95%A3"
+  },
+  {
+    "kanji": "静",
+    "uri": "/kanji/1670-quiet-%E9%9D%99"
+  },
+  {
+    "kanji": "婚",
+    "uri": "/kanji/1163-marriage-%E5%A9%9A"
+  },
+  {
+    "kanji": "喜",
+    "uri": "/kanji/838-rejoice-%E5%96%9C"
+  },
+  {
+    "kanji": "浮",
+    "uri": "/kanji/603-float-%E6%B5%AE"
+  },
+  {
+    "kanji": "絶",
+    "uri": "/kanji/1214-extinct-%E7%B5%B6"
+  },
+  {
+    "kanji": "幸",
+    "uri": "/kanji/150-luck-happiness-%E5%B9%B8"
+  },
+  {
+    "kanji": "押",
+    "uri": "/kanji/1373-push-%E6%8A%BC"
+  },
+  {
+    "kanji": "倒",
+    "uri": "/kanji/1256-knock-down-%E5%80%92"
+  },
+  {
+    "kanji": "等",
+    "uri": "/kanji/1005-equal-etcplural-%E7%AD%89"
+  },
+  {
+    "kanji": "老",
+    "uri": "/kanji/253-get-old-%E8%80%81"
+  },
+  {
+    "kanji": "曲",
+    "uri": "/kanji/1167-song-turn-or-bend-%E6%9B%B2"
+  },
+  {
+    "kanji": "払",
+    "uri": "/kanji/297-pay-%E6%89%95"
+  },
+  {
+    "kanji": "庭",
+    "uri": "/kanji/1155-garden-%E5%BA%AD"
+  },
+  {
+    "kanji": "徒",
+    "uri": "/kanji/1232-pupil-follower-%E5%BE%92"
+  },
+  {
+    "kanji": "勤",
+    "uri": "/kanji/423-be-employed-at-%E5%8B%A4"
+  },
+  {
+    "kanji": "遅",
+    "uri": "/kanji/873-slow-late-%E9%81%85"
+  },
+  {
+    "kanji": "居",
+    "uri": "/kanji/499-live-%E5%B1%85"
+  },
+  {
+    "kanji": "雑",
+    "uri": "/kanji/366-miscellaneous-random-%E9%9B%91"
+  },
+  {
+    "kanji": "招",
+    "uri": "/kanji/302-beckon-%E6%8B%9B"
+  },
+  {
+    "kanji": "困",
+    "uri": "/kanji/435-trouble-%E5%9B%B0"
+  },
+  {
+    "kanji": "欠",
+    "uri": "/kanji/697-lack-%E6%AC%A0"
+  },
+  {
+    "kanji": "更",
+    "uri": "/kanji/1591-all-over-again-%E6%9B%B4"
+  },
+  {
+    "kanji": "刻",
+    "uri": "/kanji/1696-engrave-%E5%88%BB"
+  },
+  {
+    "kanji": "賛",
+    "uri": "/kanji/589-agree-%E8%B3%9B"
+  },
+  {
+    "kanji": "抱",
+    "uri": "/kanji/1417-hug-%E6%8A%B1"
+  },
+  {
+    "kanji": "犯",
+    "uri": "/kanji/1464-commit-a-crime-%E7%8A%AF"
+  },
+  {
+    "kanji": "恐",
+    "uri": "/kanji/1291-dread-%E6%81%90"
+  },
+  {
+    "kanji": "息",
+    "uri": "/kanji/101-son-breath-%E6%81%AF"
+  },
+  {
+    "kanji": "遠",
+    "uri": "/kanji/762-far-%E9%81%A0"
+  },
+  {
+    "kanji": "戻",
+    "uri": "/kanji/510-return-%E6%88%BB"
+  },
+  {
+    "kanji": "願",
+    "uri": "/kanji/843-beseech-%E9%A1%98"
+  },
+  {
+    "kanji": "絵",
+    "uri": "/kanji/1270-picture-%E7%B5%B5"
+  },
+  {
+    "kanji": "越",
+    "uri": "/kanji/747-go-beyond-%E8%B6%8A"
+  },
+  {
+    "kanji": "欲",
+    "uri": "/kanji/1519-want-%E6%AC%B2"
+  },
+  {
+    "kanji": "痛",
+    "uri": "/kanji/1348-hurts-%E7%97%9B"
+  },
+  {
+    "kanji": "笑",
+    "uri": "/kanji/882-laugh-%E7%AC%91"
+  },
+  {
+    "kanji": "互",
+    "uri": "/kanji/1747-reciprocal-%E4%BA%92"
+  },
+  {
+    "kanji": "束",
+    "uri": "/kanji/1336-bundle-of-sticks-%E6%9D%9F"
+  },
+  {
+    "kanji": "似",
+    "uri": "/kanji/1722-resemble-%E4%BC%BC"
+  },
+  {
+    "kanji": "列",
+    "uri": "/kanji/1315-row-%E5%88%97"
+  },
+  {
+    "kanji": "探",
+    "uri": "/kanji/568-look-for-%E6%8E%A2"
+  },
+  {
+    "kanji": "逃",
+    "uri": "/kanji/1653-escape-%E9%80%83"
+  },
+  {
+    "kanji": "遊",
+    "uri": "/kanji/1753-play-around-%E9%81%8A"
+  },
+  {
+    "kanji": "迷",
+    "uri": "/kanji/385-perplexed-%E8%BF%B7"
+  },
+  {
+    "kanji": "夢",
+    "uri": "/kanji/116-dream-%E5%A4%A2"
+  },
+  {
+    "kanji": "君",
+    "uri": "/kanji/1665-buddy-%E5%90%9B"
+  },
+  {
+    "kanji": "閉",
+    "uri": "/kanji/587-close-store-%E9%96%89"
+  },
+  {
+    "kanji": "緒",
+    "uri": "/kanji/257-together-%E7%B7%92"
+  },
+  {
+    "kanji": "折",
+    "uri": "/kanji/316-fold-%E6%8A%98"
+  },
+  {
+    "kanji": "草",
+    "uri": "/kanji/67-grass-%E8%8D%89"
+  },
+  {
+    "kanji": "暮",
+    "uri": "/kanji/427-make-a-living-%E6%9A%AE"
+  },
+  {
+    "kanji": "酒",
+    "uri": "/kanji/578-liquor-%E9%85%92"
+  },
+  {
+    "kanji": "悲",
+    "uri": "/kanji/1083-sad-%E6%82%B2"
+  },
+  {
+    "kanji": "晴",
+    "uri": "/kanji/470-weather-get-good-now-%E6%99%B4"
+  },
+  {
+    "kanji": "掛",
+    "uri": "/kanji/1273-hang-halfway-done-%E6%8E%9B"
+  },
+  {
+    "kanji": "到",
+    "uri": "/kanji/1254-arrive-%E5%88%B0"
+  },
+  {
+    "kanji": "寝",
+    "uri": "/kanji/802-go-to-bed-%E5%AF%9D"
+  },
+  {
+    "kanji": "暗",
+    "uri": "/kanji/155-dark-%E6%9A%97"
+  },
+  {
+    "kanji": "盗",
+    "uri": "/kanji/1434-steal-by-stealth-%E7%9B%97"
+  },
+  {
+    "kanji": "吸",
+    "uri": "/kanji/626-suck-%E5%90%B8"
+  },
+  {
+    "kanji": "陽",
+    "uri": "/kanji/1206-sun-%E9%99%BD"
+  },
+  {
+    "kanji": "御",
+    "uri": "/kanji/1470-the-honorific-o-%E5%BE%A1"
+  },
+  {
+    "kanji": "歯",
+    "uri": "/kanji/1032-tooth-%E6%AD%AF"
+  },
+  {
+    "kanji": "忘",
+    "uri": "/kanji/106-forget-%E5%BF%98"
+  },
+  {
+    "kanji": "雪",
+    "uri": "/kanji/1391-snow-%E9%9B%AA"
+  },
+  {
+    "kanji": "吹",
+    "uri": "/kanji/701-blow-%E5%90%B9"
+  },
+  {
+    "kanji": "娘",
+    "uri": "/kanji/776-daughter-%E5%A8%98"
+  },
+  {
+    "kanji": "誤",
+    "uri": "/kanji/1735-mistake-%E8%AA%A4"
+  },
+  {
+    "kanji": "洗",
+    "uri": "/kanji/811-wash-%E6%B4%97"
+  },
+  {
+    "kanji": "慣",
+    "uri": "/kanji/550-adapt-%E6%85%A3"
+  },
+  {
+    "kanji": "礼",
+    "uri": "/kanji/1504-polite-%E7%A4%BC"
+  },
+  {
+    "kanji": "窓",
+    "uri": "/kanji/567-window-%E7%AA%93"
+  },
+  {
+    "kanji": "昔",
+    "uri": "/kanji/1543-long-ago-%E6%98%94"
+  },
+  {
+    "kanji": "貧",
+    "uri": "/kanji/537-poverty-%E8%B2%A7"
+  },
+  {
+    "kanji": "怒",
+    "uri": "/kanji/100-get-mad-%E6%80%92"
+  },
+  {
+    "kanji": "泳",
+    "uri": "/kanji/37-swim-%E6%B3%B3"
+  },
+  {
+    "kanji": "祖",
+    "uri": "/kanji/1492-ancestor-%E7%A5%96"
+  },
+  {
+    "kanji": "杯",
+    "uri": "/kanji/360-one-cup-of-liquid-%E6%9D%AF"
+  },
+  {
+    "kanji": "疲",
+    "uri": "/kanji/1349-get-tired-from-hard-work-%E7%96%B2"
+  },
+  {
+    "kanji": "皆",
+    "uri": "/kanji/32-everyone-%E7%9A%86"
+  },
+  {
+    "kanji": "鳴",
+    "uri": "/kanji/836-animal-cry-%E9%B3%B4"
+  },
+  {
+    "kanji": "腹",
+    "uri": "/kanji/1514-entrails-%E8%85%B9"
+  },
+  {
+    "kanji": "煙",
+    "uri": "/kanji/583-smoky-%E7%85%99"
+  },
+  {
+    "kanji": "眠",
+    "uri": "/kanji/1166-sleepy-%E7%9C%A0"
+  },
+  {
+    "kanji": "怖",
+    "uri": "/kanji/1096-scary-%E6%80%96"
+  },
+  {
+    "kanji": "耳",
+    "uri": "/kanji/309-ear-%E8%80%B3"
+  },
+  {
+    "kanji": "頂",
+    "uri": "/kanji/846-summitclimax-%E9%A0%82"
+  },
+  {
+    "kanji": "箱",
+    "uri": "/kanji/351-box-%E7%AE%B1"
+  },
+  {
+    "kanji": "晩",
+    "uri": "/kanji/1213-night-%E6%99%A9"
+  },
+  {
+    "kanji": "寒",
+    "uri": "/kanji/960-cold-%E5%AF%92"
+  },
+  {
+    "kanji": "髪",
+    "uri": "/kanji/1113-hair-%E9%AB%AA"
+  },
+  {
+    "kanji": "忙",
+    "uri": "/kanji/105-busy-%E5%BF%99"
+  },
+  {
+    "kanji": "才",
+    "uri": "/kanji/1744-skill-age-%E6%89%8D"
+  },
+  {
+    "kanji": "靴",
+    "uri": "/kanji/515-shoe-%E9%9D%B4"
+  },
+  {
+    "kanji": "恥",
+    "uri": "/kanji/314-disgrace-%E6%81%A5"
+  },
+  {
+    "kanji": "偶",
+    "uri": "/kanji/1380-coincidence-%E5%81%B6"
+  },
+  {
+    "kanji": "偉",
+    "uri": "/kanji/1578-high-powered-prestigious-%E5%81%89"
+  },
+  {
+    "kanji": "猫",
+    "uri": "/kanji/1453-cat-%E7%8C%AB"
+  },
+  {
+    "kanji": "幾",
+    "uri": "/kanji/674-how-much-%E5%B9%BE"
+  }
+]

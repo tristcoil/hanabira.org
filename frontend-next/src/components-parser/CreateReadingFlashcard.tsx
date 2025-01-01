@@ -17,7 +17,7 @@ interface CreateReadingFlashcardProps {
   url4: string;
 }
 
-// TODO: I think we should use audio for dictionary version of the
+// TODO: I think we should use audio for dictionary version of the word
 
 
 const CreateReadingFlashcard: React.FC<CreateReadingFlashcardProps> = ({
@@ -53,7 +53,7 @@ const CreateReadingFlashcard: React.FC<CreateReadingFlashcardProps> = ({
     englishTranslations: [],
   });
 
-  // url0 - deeplUrl
+  // url0 deeplUrl
   // url1 simpleVocabUrl
   // url2 convertHiraganaUrl
   // url3 storeVocabUrl
@@ -191,7 +191,9 @@ const CreateReadingFlashcard: React.FC<CreateReadingFlashcardProps> = ({
     const japaneseText = getTextFromSentence(sentence);
 
     // Use manualTranslation if it's not empty or just whitespaces, otherwise use translatedText
-    const sentenceEnglish = manualTranslation.trim() !== "" ? manualTranslation : translatedText;
+    //const sentenceEnglish = manualTranslation.trim() !== "" ? manualTranslation : translatedText;
+    // Use manualTranslation if it’s not empty; otherwise use translatedText or fall back to ""
+    const sentenceEnglish = manualTranslation.trim() !== "" ? manualTranslation : (translatedText || "");
 
     // Construct the sentences structure
     const sentencesArray = sentence
@@ -200,7 +202,7 @@ const CreateReadingFlashcard: React.FC<CreateReadingFlashcardProps> = ({
           key: word + "_",
           sentence_audio: "",
           sentence_english: sentenceEnglish, // Use the determined value here
-          sentence_japanese: japaneseText,
+          sentence_original: japaneseText,
           sentence_picture: "",
           sentence_romaji: romaji,
           sentence_simplified: manualTranslation,
@@ -213,33 +215,17 @@ const CreateReadingFlashcard: React.FC<CreateReadingFlashcardProps> = ({
       difficulty,
       p_tag: "sentence_mining",
       s_tag: sTag,
+      lang: 'jp',
       sentences: sentencesArray,
       userId,
       vocabulary_audio: `/audio/jitendex_audio/v_${word}.mp3`,
       vocabulary_english: vocabularyData.englishTranslations.join(", "),
-      vocabulary_japanese: vocabularyData.original,
+      vocabulary_original: vocabularyData.original,
       vocabulary_simplified: vocabularyData.hiragana,
       word_type: "",
       notes,
     };
 
-
-
-    // const payload = {
-    //   difficulty,
-    //   p_tag: "sentence_mining",
-    //   s_tag: sTag,
-    //   sentences: sentencesArray,
-    //   userId,
-    //   //vocabulary_audio: `/audio/vocab/v_${encodeURIComponent(word)}.mp3`,
-    //   //vocabulary_audio: `/audio/vocab/v_${word}.mp3`,
-    //   vocabulary_audio: `/audio/jitendex_audio/v_${word}.mp3`,
-    //   vocabulary_english: vocabularyData.englishTranslations.join(", "), // Join translations as a string
-    //   //vocabulary_english: vocabularyData.englishTranslations,
-    //   vocabulary_japanese: vocabularyData.original,
-    //   vocabulary_simplified: vocabularyData.hiragana,
-    //   word_type: "",
-    // };
 
     try {
       const response = await fetch(

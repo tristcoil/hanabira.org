@@ -1,6 +1,6 @@
 [
       {
-        "vocabulary_japanese": "組織する_",
+        "vocabulary_original": "組織する_",
         "vocabulary_simplified": "そしきする",
         "vocabulary_english": "to organize, to form",
         "word_type": "Verb",
@@ -9,7 +9,7 @@
         "s_tag": "verbs-2"
       },
       {
-        "vocabulary_japanese": "普及する_",
+        "vocabulary_original": "普及する_",
         "vocabulary_simplified": "ふきゅうする",
         "vocabulary_english": "to spread, to diffuse",
         "word_type": "Verb",
@@ -18,7 +18,7 @@
         "s_tag": "verbs-2"
       },
       {
-        "vocabulary_japanese": "信用する_",
+        "vocabulary_original": "信用する_",
         "vocabulary_simplified": "しにょうする",
         "vocabulary_english": "to trust, to believe, to place confidence in",
         "word_type": "Verb",
@@ -27,7 +27,7 @@
         "s_tag": "verbs-2"
       },
       {
-        "vocabulary_japanese": "裁判する_",
+        "vocabulary_original": "裁判する_",
         "vocabulary_simplified": "さいばんする",
         "vocabulary_english": "to hold a trial",
         "word_type": "Verb",
@@ -36,7 +36,7 @@
         "s_tag": "verbs-2"
       },
       {
-        "vocabulary_japanese": "縮小する_",
+        "vocabulary_original": "縮小する_",
         "vocabulary_simplified": "しゅくしょうする",
         "vocabulary_english": "to reduce, to cut, to curtail",
         "word_type": "Verb",
@@ -45,7 +45,7 @@
         "s_tag": "verbs-2"
       },
       {
-        "vocabulary_japanese": "譲歩する_",
+        "vocabulary_original": "譲歩する_",
         "vocabulary_simplified": "じょうほする",
         "vocabulary_english": "to concede, to give way to",
         "word_type": "Verb",
@@ -54,7 +54,7 @@
         "s_tag": "verbs-2"
       },
       {
-        "vocabulary_japanese": "考慮する_",
+        "vocabulary_original": "考慮する_",
         "vocabulary_simplified": "こうりょする",
         "vocabulary_english": "to consider, to think over",
         "word_type": "Verb",
@@ -63,7 +63,7 @@
         "s_tag": "verbs-2"
       },
       {
-        "vocabulary_japanese": "改正する_",
+        "vocabulary_original": "改正する_",
         "vocabulary_simplified": "かいせいする",
         "vocabulary_english": "to revise, to amend, to improve",
         "word_type": "Verb",
@@ -72,7 +72,7 @@
         "s_tag": "verbs-2"
       },
       {
-        "vocabulary_japanese": "実験する_",
+        "vocabulary_original": "実験する_",
         "vocabulary_simplified": "じっけんする",
         "vocabulary_english": "to experiment",
         "word_type": "Verb",
@@ -81,7 +81,7 @@
         "s_tag": "verbs-2"
       },
       {
-        "vocabulary_japanese": "絶望する_",
+        "vocabulary_original": "絶望する_",
         "vocabulary_simplified": "ぜつぼうする",
         "vocabulary_english": "to have no hope, to be in despair",
         "word_type": "Verb",
@@ -90,7 +90,7 @@
         "s_tag": "verbs-2"
       },
       {
-        "vocabulary_japanese": "所有する_",
+        "vocabulary_original": "所有する_",
         "vocabulary_simplified": "しょゆうする",
         "vocabulary_english": "to own, to posess",
         "word_type": "Verb",
@@ -99,7 +99,7 @@
         "s_tag": "verbs-2"
       },
       {
-        "vocabulary_japanese": "集中する_",
+        "vocabulary_original": "集中する_",
         "vocabulary_simplified": "しゅうちゅうする",
         "vocabulary_english": "to concentrate, to centralize",
         "word_type": "Verb",
@@ -108,7 +108,7 @@
         "s_tag": "verbs-2"
       },
       {
-        "vocabulary_japanese": "掃除する_",
+        "vocabulary_original": "掃除する_",
         "vocabulary_simplified": "そうじする",
         "vocabulary_english": "to clean",
         "word_type": "Verb",
@@ -117,7 +117,7 @@
         "s_tag": "verbs-2"
       },
       {
-        "vocabulary_japanese": "所属する_",
+        "vocabulary_original": "所属する_",
         "vocabulary_simplified": "しょぞくする",
         "vocabulary_english": "to belong to",
         "word_type": "Verb",
@@ -126,7 +126,7 @@
         "s_tag": "verbs-2"
       },
       {
-        "vocabulary_japanese": "開放する_",
+        "vocabulary_original": "開放する_",
         "vocabulary_simplified": "かいほうする",
         "vocabulary_english": "to open a place to the public",
         "word_type": "Verb",
@@ -135,7 +135,7 @@
         "s_tag": "verbs-2"
       },
       {
-        "vocabulary_japanese": "往復する_",
+        "vocabulary_original": "往復する_",
         "vocabulary_simplified": "おうふくする",
         "vocabulary_english": "to go and return",
         "word_type": "Verb",
@@ -144,7 +144,7 @@
         "s_tag": "verbs-2"
       },
       {
-        "vocabulary_japanese": "研修する_",
+        "vocabulary_original": "研修する_",
         "vocabulary_simplified": "けんしゅうする",
         "vocabulary_english": "to study, to train, to intern",
         "word_type": "Verb",
@@ -153,7 +153,7 @@
         "s_tag": "verbs-2"
       },
       {
-        "vocabulary_japanese": "応用する_",
+        "vocabulary_original": "応用する_",
         "vocabulary_simplified": "おうようする",
         "vocabulary_english": "to apply, to put into practice",
         "word_type": "Verb",
@@ -162,7 +162,7 @@
         "s_tag": "verbs-2"
       },
       {
-        "vocabulary_japanese": "議論する_",
+        "vocabulary_original": "議論する_",
         "vocabulary_simplified": "ぎろんする",
         "vocabulary_english": "to argue, to discuss, to debate",
         "word_type": "Verb",
@@ -171,7 +171,7 @@
         "s_tag": "verbs-2"
       },
       {
-        "vocabulary_japanese": "努力する_",
+        "vocabulary_original": "努力する_",
         "vocabulary_simplified": "どりょくする",
         "vocabulary_english": "to make an effort, to work hard",
         "word_type": "Verb",
@@ -180,7 +180,7 @@
         "s_tag": "verbs-2"
       },
       {
-        "vocabulary_japanese": "影響する_",
+        "vocabulary_original": "影響する_",
         "vocabulary_simplified": "えいきょうする",
         "vocabulary_english": "to influence, to affect",
         "word_type": "Verb",
@@ -189,7 +189,7 @@
         "s_tag": "verbs-2"
       },
       {
-        "vocabulary_japanese": "弁償する_",
+        "vocabulary_original": "弁償する_",
         "vocabulary_simplified": "べんしょうする",
         "vocabulary_english": "to compensate, to repay for loss",
         "word_type": "Verb",
@@ -198,7 +198,7 @@
         "s_tag": "verbs-2"
       },
       {
-        "vocabulary_japanese": "期待する_",
+        "vocabulary_original": "期待する_",
         "vocabulary_simplified": "きたいする",
         "vocabulary_english": "to expect, to hope",
         "word_type": "Verb",
@@ -207,7 +207,7 @@
         "s_tag": "verbs-2"
       },
       {
-        "vocabulary_japanese": "補償する_",
+        "vocabulary_original": "補償する_",
         "vocabulary_simplified": "ほしょうする",
         "vocabulary_english": "to compensate, to make up for",
         "word_type": "Verb",
@@ -216,7 +216,7 @@
         "s_tag": "verbs-2"
       },
       {
-        "vocabulary_japanese": "上映する_",
+        "vocabulary_original": "上映する_",
         "vocabulary_simplified": "じょうえいする",
         "vocabulary_english": "to show a film",
         "word_type": "Verb",
@@ -225,7 +225,7 @@
         "s_tag": "verbs-2"
       },
       {
-        "vocabulary_japanese": "迷惑する_",
+        "vocabulary_original": "迷惑する_",
         "vocabulary_simplified": "めいわくする",
         "vocabulary_english": "to be troubled, to be annoyed",
         "word_type": "Verb",
@@ -234,7 +234,7 @@
         "s_tag": "verbs-2"
       },
       {
-        "vocabulary_japanese": "競争する_",
+        "vocabulary_original": "競争する_",
         "vocabulary_simplified": "きょうそうする",
         "vocabulary_english": "to compete",
         "word_type": "Verb",
@@ -243,7 +243,7 @@
         "s_tag": "verbs-2"
       },
       {
-        "vocabulary_japanese": "実行する_",
+        "vocabulary_original": "実行する_",
         "vocabulary_simplified": "じっこうする",
         "vocabulary_english": "to carry out, to execute",
         "word_type": "Verb",
@@ -252,7 +252,7 @@
         "s_tag": "verbs-2"
       },
       {
-        "vocabulary_japanese": "同意する_",
+        "vocabulary_original": "同意する_",
         "vocabulary_simplified": "どういする",
         "vocabulary_english": "to agree, to approve",
         "word_type": "Verb",
@@ -261,7 +261,7 @@
         "s_tag": "verbs-2"
       },
       {
-        "vocabulary_japanese": "キスする_",
+        "vocabulary_original": "キスする_",
         "vocabulary_simplified": "キスする",
         "vocabulary_english": "to kiss",
         "word_type": "Verb",
@@ -270,7 +270,7 @@
         "s_tag": "verbs-2"
       },
       {
-        "vocabulary_japanese": "復活する_",
+        "vocabulary_original": "復活する_",
         "vocabulary_simplified": "ふっかつする",
         "vocabulary_english": "to revive, to restore",
         "word_type": "Verb",
@@ -279,7 +279,7 @@
         "s_tag": "verbs-2"
       },
       {
-        "vocabulary_japanese": "ファックスする_",
+        "vocabulary_original": "ファックスする_",
         "vocabulary_simplified": "ファックスする",
         "vocabulary_english": "to fax",
         "word_type": "Verb",
@@ -288,7 +288,7 @@
         "s_tag": "verbs-2"
       },
       {
-        "vocabulary_japanese": "節約する_",
+        "vocabulary_original": "節約する_",
         "vocabulary_simplified": "せつやくする",
         "vocabulary_english": "to economize, to skimp, to save",
         "word_type": "Verb",
@@ -297,7 +297,7 @@
         "s_tag": "verbs-2"
       },
       {
-        "vocabulary_japanese": "救助する_",
+        "vocabulary_original": "救助する_",
         "vocabulary_simplified": "きゅうじょする",
         "vocabulary_english": "to rescue, to help",
         "word_type": "Verb",
@@ -306,7 +306,7 @@
         "s_tag": "verbs-2"
       },
       {
-        "vocabulary_japanese": "強制する_",
+        "vocabulary_original": "強制する_",
         "vocabulary_simplified": "きょうせいする",
         "vocabulary_english": "to compel, to force a person to do",
         "word_type": "Verb",
@@ -315,7 +315,7 @@
         "s_tag": "verbs-2"
       },
       {
-        "vocabulary_japanese": "遠慮する_",
+        "vocabulary_original": "遠慮する_",
         "vocabulary_simplified": "えんりょする",
         "vocabulary_english": "to refrain, to hold back",
         "word_type": "Verb",
@@ -324,7 +324,7 @@
         "s_tag": "verbs-2"
       },
       {
-        "vocabulary_japanese": "予防する_",
+        "vocabulary_original": "予防する_",
         "vocabulary_simplified": "よぼうする",
         "vocabulary_english": "to prevent, to protect",
         "word_type": "Verb",
@@ -333,7 +333,7 @@
         "s_tag": "verbs-2"
       },
       {
-        "vocabulary_japanese": "解決する_",
+        "vocabulary_original": "解決する_",
         "vocabulary_simplified": "かいけつする",
         "vocabulary_english": "to settle, to resolve",
         "word_type": "Verb",
@@ -342,7 +342,7 @@
         "s_tag": "verbs-2"
       },
       {
-        "vocabulary_japanese": "検討する_",
+        "vocabulary_original": "検討する_",
         "vocabulary_simplified": "けんとうする",
         "vocabulary_english": "to examine, to investigate, to think over",
         "word_type": "Verb",
@@ -351,7 +351,7 @@
         "s_tag": "verbs-2"
       },
       {
-        "vocabulary_japanese": "消費する_",
+        "vocabulary_original": "消費する_",
         "vocabulary_simplified": "しょうひする",
         "vocabulary_english": "to consume, to extend",
         "word_type": "Verb",
@@ -360,7 +360,7 @@
         "s_tag": "verbs-2"
       },
       {
-        "vocabulary_japanese": "廃止する_",
+        "vocabulary_original": "廃止する_",
         "vocabulary_simplified": "はいしする",
         "vocabulary_english": "to abolish, to do away with, to repeal",
         "word_type": "Verb",
@@ -369,7 +369,7 @@
         "s_tag": "verbs-2"
       },
       {
-        "vocabulary_japanese": "出版する_",
+        "vocabulary_original": "出版する_",
         "vocabulary_simplified": "しゅっぱんする",
         "vocabulary_english": "to publish, to issue",
         "word_type": "Verb",
@@ -378,7 +378,7 @@
         "s_tag": "verbs-2"
       },
       {
-        "vocabulary_japanese": "一致する_",
+        "vocabulary_original": "一致する_",
         "vocabulary_simplified": "いっちする",
         "vocabulary_english": "to agree with, to be in unison",
         "word_type": "Verb",
@@ -387,7 +387,7 @@
         "s_tag": "verbs-2"
       },
       {
-        "vocabulary_japanese": "発展する_",
+        "vocabulary_original": "発展する_",
         "vocabulary_simplified": "はってんする",
         "vocabulary_english": "to develop, to expand",
         "word_type": "Verb",
@@ -396,7 +396,7 @@
         "s_tag": "verbs-2"
       },
       {
-        "vocabulary_japanese": "予約する_",
+        "vocabulary_original": "予約する_",
         "vocabulary_simplified": "よやくする",
         "vocabulary_english": "to reserve, to book",
         "word_type": "Verb",
@@ -405,7 +405,7 @@
         "s_tag": "verbs-2"
       },
       {
-        "vocabulary_japanese": "運転する_",
+        "vocabulary_original": "運転する_",
         "vocabulary_simplified": "うんてんする",
         "vocabulary_english": "to drive, to manage (money)",
         "word_type": "Verb",
@@ -414,7 +414,7 @@
         "s_tag": "verbs-2"
       },
       {
-        "vocabulary_japanese": "改革する_",
+        "vocabulary_original": "改革する_",
         "vocabulary_simplified": "かいかくする",
         "vocabulary_english": "to reform, to improve",
         "word_type": "Verb",
@@ -423,7 +423,7 @@
         "s_tag": "verbs-2"
       },
       {
-        "vocabulary_japanese": "配達する_",
+        "vocabulary_original": "配達する_",
         "vocabulary_simplified": "はいたつする",
         "vocabulary_english": "to deliver",
         "word_type": "Verb",
@@ -432,7 +432,7 @@
         "s_tag": "verbs-2"
       },
       {
-        "vocabulary_japanese": "経過する_",
+        "vocabulary_original": "経過する_",
         "vocabulary_simplified": "けいかする",
         "vocabulary_english": "to pass, total elapse, to expire",
         "word_type": "Verb",
@@ -441,7 +441,7 @@
         "s_tag": "verbs-2"
       },
       {
-        "vocabulary_japanese": "提案する_",
+        "vocabulary_original": "提案する_",
         "vocabulary_simplified": "ていあんする",
         "vocabulary_english": "to propose, to suggest",
         "word_type": "Verb",
@@ -450,7 +450,7 @@
         "s_tag": "verbs-2"
       },
       {
-        "vocabulary_japanese": "浪費する_",
+        "vocabulary_original": "浪費する_",
         "vocabulary_simplified": "ろうひする",
         "vocabulary_english": "to waste (money or time), to throw away",
         "word_type": "Verb",

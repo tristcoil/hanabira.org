@@ -633,7 +633,7 @@ const TabComponent = () => {
 // ---------------------------- //
 
 interface KanjiItem {
-  vocabulary_japanese: string;
+  vocabulary_original: string;
   vocabulary_simplified: string;
   vocabulary_english: string;
   vocabulary_audio: string;
@@ -681,17 +681,17 @@ const KanjiTable: React.FC<KanjiTableProps> = ({
         let apiUrl;
         //If REACT_APP_HOST_IP is defined, use it. Otherwise default to localhost:8000 for VM
         if (process.env.REACT_APP_HOST_IP) {
-          apiUrl = `http://${process.env.REACT_APP_HOST_IP}/api/v1/tanos_words?p_tag=${p_tag}&s_tag=${s_tag}`;
+          apiUrl = `http://${process.env.REACT_APP_HOST_IP}:8000/e-api/v1/tanos_words?p_tag=${p_tag}&s_tag=${s_tag}`;
         } else {
-          //apiUrl = `http://${host}:${port}/api/v1/tanos_words?p_tag=${p_tag}&s_tag=${s_tag}`;
-          apiUrl = `/api/v1/tanos_words?p_tag=${p_tag}&s_tag=${s_tag}`; // use for client component
+          //apiUrl = `http://${host}:${port}/e-api/v1/tanos_words?p_tag=${p_tag}&s_tag=${s_tag}`;
+          apiUrl = `/e-api/v1/tanos_words?p_tag=${p_tag}&s_tag=${s_tag}`; // use for client component
         }
 
-        //apiUrl = `localhost:8000/api/v1/tanos_words?p_tag=${p_tag}&s_tag=${s_tag}`;
+        //apiUrl = `localhost:8000/e-api/v1/tanos_words?p_tag=${p_tag}&s_tag=${s_tag}`;
 
         // response is object and list is under words key
         // {"words":[{"_id":"65be8e71233807ecceb66aa3",
-        //"vocabulary_japanese":"お土産",
+        //"vocabulary_original":"お土産",
         //"vocabulary_simplified":"おみやげ",
         // "vocabulary_english":"souvenir",
         //"vocabulary_audio":"/audio/vocab/v_お土産.mp3",
@@ -730,7 +730,7 @@ const KanjiTable: React.FC<KanjiTableProps> = ({
         {/* {kanjiData.map((item, index) => (
           <HiraganaCard
             key={index}
-            kanji={item.vocabulary_japanese}
+            kanji={item.vocabulary_original}
             reading={item.vocabulary_simplified}
             en={item.vocabulary_english}
             k_audio={item.vocabulary_audio}
@@ -740,7 +740,7 @@ const KanjiTable: React.FC<KanjiTableProps> = ({
         {kanjiData.map((item, index) => (
           <HiraganaCard
             key={index}
-            kanji={item.vocabulary_japanese}
+            kanji={item.vocabulary_original}
             reading={item.vocabulary_simplified}
             en={item.vocabulary_english}
             k_audio={item.vocabulary_audio}

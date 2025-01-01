@@ -1,3 +1,6 @@
 config.json
 .env
 radkfile/
+
+# we do not use jitendex for now, saves 600MB
+jitendex_json_data/

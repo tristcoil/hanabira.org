@@ -4,14 +4,17 @@ import React, { useState, useEffect } from "react";
 import axios from "axios";
 import { getUserFromCookies } from "@/utils/helperFunctions";
 
+import { useUser } from "@/context/UserContext";
+
 const SentenceMiningTable = () => {
   const [data, setData] = useState([]);
-  const [userId, setUserId] = useState(null);
+  //const [userId, setUserId] = useState(null);
+  const { userId, loggedIn } = useUser();
 
-  useEffect(() => {
-    const { userId } = getUserFromCookies();
-    setUserId(userId);
-  }, []);
+  // useEffect(() => {
+  //   const { userId } = getUserFromCookies();
+  //   setUserId(userId);
+  // }, []);
 
   useEffect(() => {
     if (userId) {
@@ -64,7 +67,7 @@ const SentenceMiningTable = () => {
             <th className="py-2 px-4 border-b border-gray-300">Japanese Vocabulary</th>
             <th className="py-2 px-4 border-b border-gray-300">Simplified Vocabulary</th>
             <th className="py-2 px-4 border-b border-gray-300">English Vocabulary</th>
-            <th className="py-2 px-4 border-b border-gray-300">Audio</th>
+            {/* <th className="py-2 px-4 border-b border-gray-300">Audio</th> */}
             <th className="py-2 px-4 border-b border-gray-300">Sentences</th>
             <th className="py-2 px-4 border-b border-gray-300">Notes</th>
             <th className="py-2 px-4 border-b border-gray-300">Actions</th>
@@ -74,10 +77,10 @@ const SentenceMiningTable = () => {
           {data.map((word, index) => (
             <tr key={index} className="hover:bg-gray-100">
               <td className="py-2 px-4 border-b border-gray-300">{word.id}</td>
-              <td className="py-2 px-4 border-b border-gray-300">{word.vocabulary_japanese}</td>
+              <td className="py-2 px-4 border-b border-gray-300">{word.vocabulary_original}</td>
               <td className="py-2 px-4 border-b border-gray-300">{word.vocabulary_simplified}</td>
               <td className="py-2 px-4 border-b border-gray-300">{word.vocabulary_english}</td>
-              <td className="py-2 px-4 border-b border-gray-300">
+              {/* <td className="py-2 px-4 border-b border-gray-300">
                 <button
                   onClick={() => {
                     const audioElement = document.getElementById(
@@ -92,11 +95,11 @@ const SentenceMiningTable = () => {
                 <audio id={`audio-${word.vocabulary_audio}`} className="hidden">
                   <source src={word.vocabulary_audio} type="audio/mp3" />
                 </audio>
-              </td>
+              </td> */}
               <td className="py-2 px-4 border-b border-gray-300">
                 {word.sentences.map((sentence, sIndex) => (
                   <div key={sIndex} className="mb-2">
-                    <p>{sentence.sentence_japanese}</p>
+                    <p>{sentence.sentence_original}</p>
                     <p className="text-gray-500">{sentence.sentence_english}</p>
                   </div>
                 ))}

@@ -138,16 +138,20 @@ export default function Home() {
           );
           console.log(process.env.REACT_APP_HOST_IP);
 
-          const host = "localhost";
+          //const host = "localhost";
           const port = 8000;
+
+
+          // NOTE: process.env propagates to client components only when we prefix our vars as 
+          // - NEXT_PUBLIC_XXXX=${API_URL}
 
           let apiUrl;
           // If REACT_APP_HOST_IP is defined, use it. Otherwise default to localhost:7000 for VM
           if (process.env.REACT_APP_HOST_IP) {
-            apiUrl = `http://${process.env.REACT_APP_HOST_IP}/api/v1/kanji?p_tag=${p_tag}`;
+            apiUrl = `http://${process.env.REACT_APP_HOST_IP}:8000/e-api/v1/kanji?p_tag=${p_tag}`;
           } else {
-            //apiUrl = `http://${host}:${port}/api/v1/kanji?p_tag=${p_tag}`;
-            apiUrl = `/api/v1/kanji?p_tag=${p_tag}`;   // use for client components
+            //apiUrl = `http://${host}:${port}/e-api/v1/kanji?p_tag=${p_tag}`;
+            apiUrl = `/e-api/v1/kanji?p_tag=${p_tag}`;   // use for client components
           }
 
           const response = await fetch(`${apiUrl}`);

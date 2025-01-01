@@ -119,7 +119,7 @@ console.log('--------- Seeding grammar to DB -------------');
   }
   finally {
     // finally block should wait on all async processes in try block
-    //const uniqueVocab = await Word.distinct("vocabulary_japanese");
+    //const uniqueVocab = await Word.distinct("vocabulary_original");
     //const uniqueVocabSet = new Set(uniqueVocab);
     //console.log("uniqueVocabSet");
     //console.log(uniqueVocabSet);

@@ -13,7 +13,7 @@ class LibraryTexts:
         # texts, videos collections
         self.texts_collection      = self.db["texts"]
         self.videos_collection     = self.db["videos"]
-        logging.basicConfig(level=logging.DEBUG)
+        logging.basicConfig(level=logging.INFO)
 
 
     def register_routes(self, app):
@@ -21,12 +21,15 @@ class LibraryTexts:
 
         # --------------------- Custom texts ------------------------- #
 
-        # curl -X GET http://localhost:5100/f-api/v1/japanese-texts
-        @app.route("/f-api/v1/japanese-texts", methods=["GET"])
-        def get_texts():
+        #curl -X GET http://localhost:5100/f-api/v1/japanese-texts/testUserId
+        @app.route("/f-api/v1/japanese-texts/<userId>", methods=["GET"])
+        def get_texts(userId):
             try:
-                # Retrieve all documents from the "texts" collection
-                texts_cursor = self.texts_collection.find({}, {
+                # Filter documents by the given userId
+                query_filter = {"userId": userId}
+                
+                # Retrieve documents for this user
+                texts_cursor = self.texts_collection.find(query_filter, {
                     "topic": 1,
                     "sourceLink": 1,
                     "actualText": 1,
@@ -44,8 +47,9 @@ class LibraryTexts:
 
                 return jsonify(texts), 200
             except Exception as err:
-                logging.error(f"Error fetching texts: {err}")
+                logging.error(f"Error fetching texts for user {userId}: {err}")
                 return jsonify({"message": "Error fetching texts"}), 500
+
 
 
 

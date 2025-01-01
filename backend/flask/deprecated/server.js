@@ -258,7 +258,7 @@ app.get("/api/kanji", async (req, res) => {
 
 // GET endpoint to retrieve a reading by its 'id' using a query parameter
 // curl -i -X GET 'http://localhost:8000/api/reading?key=reading_1'
-app.get("/api/v1/reading", async (req, res) => {
+app.get("/e-api/v1/reading", async (req, res) => {
   try {
     const { key } = req.query; // Extract the key from the query parameters
     console.log(key);

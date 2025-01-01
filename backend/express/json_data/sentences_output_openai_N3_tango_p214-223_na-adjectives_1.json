@@ -1,6 +1,6 @@
 [
     {
-        "sentence_japanese": "意外にも彼は英語が得意だった。",
+        "sentence_original": "意外にも彼は英語が得意だった。",
         "sentence_kanji": "1. 意外",
         "sentence_romaji": "Igai ni mo kare wa eigo ga tokui datta",
         "sentence_simplified": "",
@@ -10,7 +10,7 @@
         "key": "意外"
     },
     {
-        "sentence_japanese": "彼女が僕にプレゼントをくれたのは意外だった。",
+        "sentence_original": "彼女が僕にプレゼントをくれたのは意外だった。",
         "sentence_kanji": "2. 意外",
         "sentence_romaji": "Kanojo ga boku ni purezento o kureta no wa igai datta",
         "sentence_simplified": "",
@@ -20,7 +20,7 @@
         "key": "意外"
     },
     {
-        "sentence_japanese": "このかばんは意外と軽いです。",
+        "sentence_original": "このかばんは意外と軽いです。",
         "sentence_kanji": "3. 意外",
         "sentence_romaji": "Kono kaban wa igai to karui desu",
         "sentence_simplified": "",
@@ -30,7 +30,7 @@
         "key": "意外"
     },
     {
-        "sentence_japanese": "その映画は意外な結末で驚いた。",
+        "sentence_original": "その映画は意外な結末で驚いた。",
         "sentence_kanji": "4. 意外",
         "sentence_romaji": "Sono eiga wa igai na ketsumatsu de odoroita",
         "sentence_simplified": "",
@@ -40,7 +40,7 @@
         "key": "意外"
     },
     {
-        "sentence_japanese": "彼は意外にもスポーツが苦手だった。",
+        "sentence_original": "彼は意外にもスポーツが苦手だった。",
         "sentence_kanji": "5. 意外",
         "sentence_romaji": "Kare wa igai ni mo supootsu ga nigate datta",
         "sentence_simplified": "",
@@ -50,7 +50,7 @@
         "key": "意外"
     },
     {
-        "sentence_japanese": "その会社の収益は異常に高かった。",
+        "sentence_original": "その会社の収益は異常に高かった。",
         "sentence_kanji": "1. 異常",
         "sentence_romaji": "Sono kaisha no shuueki wa ijou ni takakatta",
         "sentence_simplified": "",
@@ -60,7 +60,7 @@
         "key": "異常"
     },
     {
-        "sentence_japanese": "昨日は異常な天候になりました。",
+        "sentence_original": "昨日は異常な天候になりました。",
         "sentence_kanji": "2. 異常",
         "sentence_romaji": "Kinou wa ijouna tenkou ni narimashita",
         "sentence_simplified": "",
@@ -70,7 +70,7 @@
         "key": "異常"
     },
     {
-        "sentence_japanese": "彼の体温は異常に上がっています。",
+        "sentence_original": "彼の体温は異常に上がっています。",
         "sentence_kanji": "3. 異常",
         "sentence_romaji": "Kare no taion wa ijou ni agatte imasu",
         "sentence_simplified": "",
@@ -80,7 +80,7 @@
         "key": "異常"
     },
     {
-        "sentence_japanese": "このコンピュータは異常な振る舞いをしている。",
+        "sentence_original": "このコンピュータは異常な振る舞いをしている。",
         "sentence_kanji": "4. 異常",
         "sentence_romaji": "Kono konpyuuta wa ijou na furumai o shite iru",
         "sentence_simplified": "",
@@ -90,7 +90,7 @@
         "key": "異常"
     },
     {
-        "sentence_japanese": "地震のせいで電力供給が異常になった。",
+        "sentence_original": "地震のせいで電力供給が異常になった。",
         "sentence_kanji": "5. 異常",
         "sentence_romaji": "Jishin no sei de denryoku kyokyu ga ijou ni natta",
         "sentence_simplified": "",
@@ -100,7 +100,7 @@
         "key": "異常"
     },
     {
-        "sentence_japanese": "一般的な意見では、この問題は難しいとされています。",
+        "sentence_original": "一般的な意見では、この問題は難しいとされています。",
         "sentence_kanji": "1. 一般的",
         "sentence_romaji": "Ippanteki na iken de wa, kono mondai wa muzukashii to sareteimasu",
         "sentence_simplified": "",
@@ -110,7 +110,7 @@
         "key": "一般的"
     },
     {
-        "sentence_japanese": "一般的な会話では敬語を使わなくても大丈夫です。",
+        "sentence_original": "一般的な会話では敬語を使わなくても大丈夫です。",
         "sentence_kanji": "2. 一般的",
         "sentence_romaji": "Ippanteki na kaiwa de wa keigo o tsukawanakute mo daijoubu desu",
         "sentence_simplified": "",
@@ -120,7 +120,7 @@
         "key": "一般的"
     },
     {
-        "sentence_japanese": "彼が一般的な日本人のイメージに合わないので、驚いた。",
+        "sentence_original": "彼が一般的な日本人のイメージに合わないので、驚いた。",
         "sentence_kanji": "3. 一般的",
         "sentence_romaji": "Kare ga ippanteki na nihonjin no imeeji ni awanai node, odoroita",
         "sentence_simplified": "",
@@ -130,7 +130,7 @@
         "key": "一般的"
     },
     {
-        "sentence_japanese": "一般的な食材で手軽に作れる料理が家庭では人気があります。",
+        "sentence_original": "一般的な食材で手軽に作れる料理が家庭では人気があります。",
         "sentence_kanji": "4. 一般的",
         "sentence_romaji": "Ippanteki na shokuzai de tegaru ni tsukureru ryouri ga katei de wa ninkiga arimasu",
         "sentence_simplified": "",
@@ -140,7 +140,7 @@
         "key": "一般的"
     },
     {
-        "sentence_japanese": "一般的に観光客に人気がある東京のスポットはどこですか？",
+        "sentence_original": "一般的に観光客に人気がある東京のスポットはどこですか？",
         "sentence_kanji": "5. 一般的",
         "sentence_romaji": "Ippanteki ni kankoukyaku ni ninki ga aru Toukyou no supotto wa doko desu ka?",
         "sentence_simplified": "",
@@ -150,7 +150,7 @@
         "key": "一般的"
     },
     {
-        "sentence_japanese": "穏やかな気候の国で暮らしたい。",
+        "sentence_original": "穏やかな気候の国で暮らしたい。",
         "sentence_kanji": "1. 穏やか",
         "sentence_romaji": "Odayaka na kikou no kuni de kurashitai",
         "sentence_simplified": "",
@@ -160,7 +160,7 @@
         "key": "穏やか"
     },
     {
-        "sentence_japanese": "彼の穏やかな性格は皆に好かれる。",
+        "sentence_original": "彼の穏やかな性格は皆に好かれる。",
         "sentence_kanji": "2. 穏やか",
         "sentence_romaji": "Kare no odayaka na seikaku wa mina ni sukareru",
         "sentence_simplified": "",
@@ -170,7 +170,7 @@
         "key": "穏やか"
     },
     {
-        "sentence_japanese": "仕事が終わったら、穏やかな休日を過ごしたい。",
+        "sentence_original": "仕事が終わったら、穏やかな休日を過ごしたい。",
         "sentence_kanji": "3. 穏やか",
         "sentence_romaji": "Shigoto ga owattara, odayaka na kyuujitsu o sugoshitai",
         "sentence_simplified": "",
@@ -180,7 +180,7 @@
         "key": "穏やか"
     },
     {
-        "sentence_japanese": "浜辺で美しい夕日を見て、穏やかな気持ちになった。",
+        "sentence_original": "浜辺で美しい夕日を見て、穏やかな気持ちになった。",
         "sentence_kanji": "4. 穏やか",
         "sentence_romaji": "Hamabe de utsukushii yuuhi o mite, odayaka na kimochi ni natta",
         "sentence_simplified": "",
@@ -190,7 +190,7 @@
         "key": "穏やか"
     },
     {
-        "sentence_japanese": "両親はいつも穏やかな口調で話す。",
+        "sentence_original": "両親はいつも穏やかな口調で話す。",
         "sentence_kanji": "5. 穏やか",
         "sentence_romaji": "Ryoushin wa itsumo odayaka na kuchou de hanasu",
         "sentence_simplified": "",
@@ -200,7 +200,7 @@
         "key": "穏やか"
     },
     {
-        "sentence_japanese": "確実に結果を出すためには努力が必要だ。",
+        "sentence_original": "確実に結果を出すためには努力が必要だ。",
         "sentence_kanji": "1. 確実",
         "sentence_romaji": "Kakujitsu ni kekka o dasu tame ni wa doryoku ga hitsuyou da.",
         "sentence_simplified": "",
@@ -210,7 +210,7 @@
         "key": "確実"
     },
     {
-        "sentence_japanese": "彼は確実な情報を持っているようだ。",
+        "sentence_original": "彼は確実な情報を持っているようだ。",
         "sentence_kanji": "2. 確実",
         "sentence_romaji": "Kare wa kakujitsu na jouhou o motte iru you da.",
         "sentence_simplified": "",
@@ -220,7 +220,7 @@
         "key": "確実"
     },
     {
-        "sentence_japanese": "その計画は成功する確実性が高い。",
+        "sentence_original": "その計画は成功する確実性が高い。",
         "sentence_kanji": "3. 確実",
         "sentence_romaji": "Sono keikaku wa seikou suru kakujitsu-sei ga takai.",
         "sentence_simplified": "",
@@ -230,7 +230,7 @@
         "key": "確実"
     },
     {
-        "sentence_japanese": "確実なデータが必要で、推測に頼ることはできません。",
+        "sentence_original": "確実なデータが必要で、推測に頼ることはできません。",
         "sentence_kanji": "4. 確実",
         "sentence_romaji": "Kakujitsu na deeta ga hitsuyou de, suisoku ni tayoru koto wa dekimasen.",
         "sentence_simplified": "",
@@ -240,7 +240,7 @@
         "key": "確実"
     },
     {
-        "sentence_japanese": "確実に目標を達成するために計画を立てましょう。",
+        "sentence_original": "確実に目標を達成するために計画を立てましょう。",
         "sentence_kanji": "5. 確実",
         "sentence_romaji": "Kakujitsu ni mokuhyou o tassei suru tame ni keikaku o tatemashou.",
         "sentence_simplified": "",
@@ -250,7 +250,7 @@
         "key": "確実"
     },
     {
-        "sentence_japanese": "勝手に決められたルールに従わなければならない。",
+        "sentence_original": "勝手に決められたルールに従わなければならない。",
         "sentence_kanji": "1. 勝手",
         "sentence_romaji": "Katte ni kimerareta ruuru ni shitagawanakereba naranai",
         "sentence_simplified": "",
@@ -260,7 +260,7 @@
         "key": "勝手"
     },
     {
-        "sentence_japanese": "彼は勝手な人物で、他人の意見を聞かない。",
+        "sentence_original": "彼は勝手な人物で、他人の意見を聞かない。",
         "sentence_kanji": "2. 勝手",
         "sentence_romaji": "Kare wa katte na jinbutsu de, tanin no iken o kikanai",
         "sentence_simplified": "",
@@ -270,7 +270,7 @@
         "key": "勝手"
     },
     {
-        "sentence_japanese": "知らないうちに姉が勝手に私の部屋を片付けてしまった。",
+        "sentence_original": "知らないうちに姉が勝手に私の部屋を片付けてしまった。",
         "sentence_kanji": "3. 勝手",
         "sentence_romaji": "Shiranai uchi ni ane ga katte ni watashi no heya o katadzukete shimatta",
         "sentence_simplified": "",
@@ -280,7 +280,7 @@
         "key": "勝手"
     },
     {
-        "sentence_japanese": "あの人は勝手に自分の考えを押し付ける。",
+        "sentence_original": "あの人は勝手に自分の考えを押し付ける。",
         "sentence_kanji": "4. 勝手",
         "sentence_romaji": "Ano hito wa katte ni jibun no kangae o oshitsukeru",
         "sentence_simplified": "",
@@ -290,7 +290,7 @@
         "key": "勝手"
     },
     {
-        "sentence_japanese": "これは私の家だから、勝手に使っても構わない。",
+        "sentence_original": "これは私の家だから、勝手に使っても構わない。",
         "sentence_kanji": "5. 勝手",
         "sentence_romaji": "Kore wa watashi no ie dakara, katte ni tsukatte mo kamawanai",
         "sentence_simplified": "",
@@ -300,7 +300,7 @@
         "key": "勝手"
     },
     {
-        "sentence_japanese": "彼は可能性が低いと言っていたが、成功した。",
+        "sentence_original": "彼は可能性が低いと言っていたが、成功した。",
         "sentence_kanji": "1. 可能",
         "sentence_romaji": "Kare wa kanousei ga hikui to itte ita ga, seikou shita",
         "sentence_simplified": "",
@@ -310,7 +310,7 @@
         "key": "可能"
     },
     {
-        "sentence_japanese": "それは未来において可能な選択肢の一つだ。",
+        "sentence_original": "それは未来において可能な選択肢の一つだ。",
         "sentence_kanji": "2. 可能",
         "sentence_romaji": "Sore wa mirai ni oite kanou na sentakushi no hitotsu da",
         "sentence_simplified": "",
@@ -320,7 +320,7 @@
         "key": "可能"
     },
     {
-        "sentence_japanese": "この計画は短期間で実現可能だと思います。",
+        "sentence_original": "この計画は短期間で実現可能だと思います。",
         "sentence_kanji": "3. 可能",
         "sentence_romaji": "Kono keikaku wa tanki-kan de jitsugen kanou da to omoimasu",
         "sentence_simplified": "",
@@ -330,7 +330,7 @@
         "key": "可能"
     },
     {
-        "sentence_japanese": "彼女は最善を尽くしたが、成功する可能性は低かった。",
+        "sentence_original": "彼女は最善を尽くしたが、成功する可能性は低かった。",
         "sentence_kanji": "4. 可能",
         "sentence_romaji": "Kanojo wa saizen o tsukushita ga, seikou suru kanousei wa hikukatta",
         "sentence_simplified": "",
@@ -340,7 +340,7 @@
         "key": "可能"
     },
     {
-        "sentence_japanese": "その案件は可能な限り早く終わらせたいものだ。",
+        "sentence_original": "その案件は可能な限り早く終わらせたいものだ。",
         "sentence_kanji": "5. 可能",
         "sentence_romaji": "Sono anken wa kanou na kagiri hayaku owarasetai mono da",
         "sentence_simplified": "",
@@ -350,7 +350,7 @@
         "key": "可能"
     },
     {
-        "sentence_japanese": "彼女が熱を出しているのはかわいそうだ。",
+        "sentence_original": "彼女が熱を出しているのはかわいそうだ。",
         "sentence_kanji": "1. かわいそう",
         "sentence_romaji": "Kanojo ga netsu o dashite iru no wa kawaisou da",
         "sentence_simplified": "",
@@ -360,7 +360,7 @@
         "key": "かわいそう"
     },
     {
-        "sentence_japanese": "その犬はひどく痩せていて、本当にかわいそうだった。",
+        "sentence_original": "その犬はひどく痩せていて、本当にかわいそうだった。",
         "sentence_kanji": "2. かわいそう",
         "sentence_romaji": "Sono inu wa hidoku yasete ite, hontou ni kawaisou datta",
         "sentence_simplified": "",
@@ -370,7 +370,7 @@
         "key": "かわいそう"
     },
     {
-        "sentence_japanese": "彼はかわいそうな子供たちに食べ物を配った。",
+        "sentence_original": "彼はかわいそうな子供たちに食べ物を配った。",
         "sentence_kanji": "3. かわいそう",
         "sentence_romaji": "Kare wa kawaisou na kodomotachi ni tabemono o kubatta",
         "sentence_simplified": "",
@@ -380,7 +380,7 @@
         "key": "かわいそう"
     },
     {
-        "sentence_japanese": "彼は雨に濡れていて、かわいそうに見えました。",
+        "sentence_original": "彼は雨に濡れていて、かわいそうに見えました。",
         "sentence_kanji": "4. かわいそう",
         "sentence_romaji": "Kare wa ame ni nurete ite, kawaisou ni miemashita",
         "sentence_simplified": "",
@@ -390,7 +390,7 @@
         "key": "かわいそう"
     },
     {
-        "sentence_japanese": "かわいそうなことに、彼は家を失ってしまった。",
+        "sentence_original": "かわいそうなことに、彼は家を失ってしまった。",
         "sentence_kanji": "5. かわいそう",
         "sentence_romaji": "Kawaisou na koto ni, kare wa ie o ushinatte shimatta",
         "sentence_simplified": "",
@@ -400,7 +400,7 @@
         "key": "かわいそう"
     },
     {
-        "sentence_japanese": "彼は非常に頑固な性格を持っている。",
+        "sentence_original": "彼は非常に頑固な性格を持っている。",
         "sentence_kanji": "1. 頑固",
         "sentence_romaji": "Kare wa hijou ni ganko na seikaku o motte iru",
         "sentence_simplified": "",
@@ -410,7 +410,7 @@
         "key": "頑固"
     },
     {
-        "sentence_japanese": "頑固な汚れもこの洗剤で落とせます。",
+        "sentence_original": "頑固な汚れもこの洗剤で落とせます。",
         "sentence_kanji": "2. 頑固",
         "sentence_romaji": "Ganko na yogore mo kono senzai de otosemasu",
         "sentence_simplified": "",
@@ -420,7 +420,7 @@
         "key": "頑固"
     },
     {
-        "sentence_japanese": "彼女は自分の意見に対して頑固で譲らない。",
+        "sentence_original": "彼女は自分の意見に対して頑固で譲らない。",
         "sentence_kanji": "3. 頑固",
         "sentence_romaji": "Kanojo wa jibun no iken ni taishite ganko de yuzuranai",
         "sentence_simplified": "",
@@ -430,7 +430,7 @@
         "key": "頑固"
     },
     {
-        "sentence_japanese": "父は頑固で、なかなか新しいことを受け入れません。",
+        "sentence_original": "父は頑固で、なかなか新しいことを受け入れません。",
         "sentence_kanji": "4. 頑固",
         "sentence_romaji": "Chichi wa ganko de, nakanaka atarashii koto o ukeiremasen",
         "sentence_simplified": "",
@@ -440,7 +440,7 @@
         "key": "頑固"
     },
     {
-        "sentence_japanese": "頑固にならずに、もっと柔軟な考え方を身につけたほうがいい。",
+        "sentence_original": "頑固にならずに、もっと柔軟な考え方を身につけたほうがいい。",
         "sentence_kanji": "5. 頑固",
         "sentence_romaji": "Ganko ni narazu ni, motto juunan na kangaekata o mi ni tsuketa hou ga ii",
         "sentence_simplified": "",
@@ -450,7 +450,7 @@
         "key": "頑固"
     },
     {
-        "sentence_japanese": "完全に理解できました。",
+        "sentence_original": "完全に理解できました。",
         "sentence_kanji": "1. 完全",
         "sentence_romaji": "Kanzen ni rikai dekimashita.",
         "sentence_simplified": "",
@@ -460,7 +460,7 @@
         "key": "完全"
     },
     {
-        "sentence_japanese": "彼女は完全にそのプロジェクトに献身している。",
+        "sentence_original": "彼女は完全にそのプロジェクトに献身している。",
         "sentence_kanji": "2. 完全",
         "sentence_romaji": "Kanojo wa kanzen ni sono purojekuto ni kenshin shite iru.",
         "sentence_simplified": "",
@@ -470,7 +470,7 @@
         "key": "完全"
     },
     {
-        "sentence_japanese": "先生は、完全な手順で問題を解決する方法を教えてくれました。",
+        "sentence_original": "先生は、完全な手順で問題を解決する方法を教えてくれました。",
         "sentence_kanji": "3. 完全",
         "sentence_romaji": "Sensei wa, kanzen na tejun de mondai o kaiketsu suru houhou o oshiete kuremashita.",
         "sentence_simplified": "",
@@ -480,7 +480,7 @@
         "key": "完全"
     },
     {
-        "sentence_japanese": "完全な沈黙の中で、みんな深く考え込んでいた。",
+        "sentence_original": "完全な沈黙の中で、みんな深く考え込んでいた。",
         "sentence_kanji": "4. 完全",
         "sentence_romaji": "Kanzen'na chinmoku no naka de, minna fukaku kangaikonde ita.",
         "sentence_simplified": "",
@@ -490,7 +490,7 @@
         "key": "完全"
     },
     {
-        "sentence_japanese": "その部屋は完全に暗闇だったので、何も見えなかった。",
+        "sentence_original": "その部屋は完全に暗闇だったので、何も見えなかった。",
         "sentence_kanji": "5. 完全",
         "sentence_romaji": "Sono heya wa kanzen ni kurayami datta node, nani mo mienakatta.",
         "sentence_simplified": "",
@@ -500,7 +500,7 @@
         "key": "完全"
     },
     {
-        "sentence_japanese": "客観的な見方を取ることが重要だ。",
+        "sentence_original": "客観的な見方を取ることが重要だ。",
         "sentence_kanji": "1. 客観的",
         "sentence_romaji": "Kyakkanteki na mikata o toru koto ga juuyou da",
         "sentence_simplified": "",
@@ -510,7 +510,7 @@
         "key": "客観的"
     },
     {
-        "sentence_japanese": "客観的な判断を下すことが大切です。",
+        "sentence_original": "客観的な判断を下すことが大切です。",
         "sentence_kanji": "2. 客観的",
         "sentence_romaji": "Kyakkanteki na handan o kudasu koto ga taisetsu desu",
         "sentence_simplified": "",
@@ -520,7 +520,7 @@
         "key": "客観的"
     },
     {
-        "sentence_japanese": "感情に左右されず、客観的な分析を行うことが大切です。",
+        "sentence_original": "感情に左右されず、客観的な分析を行うことが大切です。",
         "sentence_kanji": "3. 客観的",
         "sentence_romaji": "Kanjou ni sayuu sarezu, kyakkanteki na bunseki o okonau koto ga taisetsu desu",
         "sentence_simplified": "",
@@ -530,7 +530,7 @@
         "key": "客観的"
     },
     {
-        "sentence_japanese": "客観的な立場から物事を考えることが必要です。",
+        "sentence_original": "客観的な立場から物事を考えることが必要です。",
         "sentence_kanji": "4. 客観的",
         "sentence_romaji": "Kyakkanteki na tachiba kara monogoto o kangaeru koto ga hitsuyou desu",
         "sentence_simplified": "",
@@ -540,7 +540,7 @@
         "key": "客観的"
     },
     {
-        "sentence_japanese": "状況を客観的に捉えることが重要です。",
+        "sentence_original": "状況を客観的に捉えることが重要です。",
         "sentence_kanji": "5. 客観的",
         "sentence_romaji": "Joukou o kyakkanteki ni toraeru koto ga juuyou desu",
         "sentence_simplified": "",
@@ -550,7 +550,7 @@
         "key": "客観的"
     },
     {
-        "sentence_japanese": "具体的な計画を立てましょう。",
+        "sentence_original": "具体的な計画を立てましょう。",
         "sentence_kanji": "1. 具体的",
         "sentence_romaji": "Gutaiteki na keikaku o tatemashou",
         "sentence_simplified": "",
@@ -560,7 +560,7 @@
         "key": "具体的"
     },
     {
-        "sentence_japanese": "彼は具体的なアイデアを提案した。",
+        "sentence_original": "彼は具体的なアイデアを提案した。",
         "sentence_kanji": "2. 具体的",
         "sentence_romaji": "Kare wa gutaiteki na aidea o teian shita",
         "sentence_simplified": "",
@@ -570,7 +570,7 @@
         "key": "具体的"
     },
     {
-        "sentence_japanese": "その問題に対する具体的な解決策が必要です。",
+        "sentence_original": "その問題に対する具体的な解決策が必要です。",
         "sentence_kanji": "3. 具体的",
         "sentence_romaji": "Sono mondai ni taisuru gutaiteki na kaiketsu-saku ga hitsuyou desu",
         "sentence_simplified": "",
@@ -580,7 +580,7 @@
         "key": "具体的"
     },
     {
-        "sentence_japanese": "具体的な例を挙げて説明してください。",
+        "sentence_original": "具体的な例を挙げて説明してください。",
         "sentence_kanji": "4. 具体的",
         "sentence_romaji": "Gutaiteki na rei o agete setsumei shite kudasai",
         "sentence_simplified": "",
@@ -590,7 +590,7 @@
         "key": "具体的"
     },
     {
-        "sentence_japanese": "彼女は具体的な実行計画を述べた。",
+        "sentence_original": "彼女は具体的な実行計画を述べた。",
         "sentence_kanji": "5. 具体的",
         "sentence_romaji": "Kanojo wa gutaiteki na jikkou keikaku o nobeta",
         "sentence_simplified": "",
@@ -600,7 +600,7 @@
         "key": "具体的"
     },
     {
-        "sentence_japanese": "経済的な理由から、今年の夏休みは国内旅行にしようと思う。",
+        "sentence_original": "経済的な理由から、今年の夏休みは国内旅行にしようと思う。",
         "sentence_kanji": "1. 経済的",
         "sentence_romaji": "Keizaiteki na riyuu kara, kotoshi no natsu yasumi wa kokunai ryokou ni shiyou to omou.",
         "sentence_simplified": "",
@@ -610,7 +610,7 @@
         "key": "経済的"
     },
     {
-        "sentence_japanese": "彼女は経済的な独立を目指して一生懸命働いている。",
+        "sentence_original": "彼女は経済的な独立を目指して一生懸命働いている。",
         "sentence_kanji": "2. 経済的",
         "sentence_romaji": "Kanojo wa keizaiteki na dokuritsu o mezashite isshoukenmei hataraite iru.",
         "sentence_simplified": "",
@@ -620,7 +620,7 @@
         "key": "経済的"
     },
     {
-        "sentence_japanese": "経済的な負担が大きいため、奨学金を申請することにしました。",
+        "sentence_original": "経済的な負担が大きいため、奨学金を申請することにしました。",
         "sentence_kanji": "3. 経済的",
         "sentence_romaji": "Keizaiteki na futan ga ookii tame, shougakukin o shinsei suru koto ni shimashita.",
         "sentence_simplified": "",
@@ -630,7 +630,7 @@
         "key": "経済的"
     },
     {
-        "sentence_japanese": "エネルギー資源の経済的な利用が環境保護にも寄与する。",
+        "sentence_original": "エネルギー資源の経済的な利用が環境保護にも寄与する。",
         "sentence_kanji": "4. 経済的",
         "sentence_romaji": "Enerugii shigen no keizaiteki na riyou ga kankyou hogo ni mo kiyo suru.",
         "sentence_simplified": "",
@@ -640,7 +640,7 @@
         "key": "経済的"
     },
     {
-        "sentence_japanese": "経済的な困難を乗り越えるために、家族と一緒に働くことを決心した。",
+        "sentence_original": "経済的な困難を乗り越えるために、家族と一緒に働くことを決心した。",
         "sentence_kanji": "5. 経済的",
         "sentence_romaji": "Keizaiteki na konnan o norikoeru tame ni, kazoku to issho ni hataraku koto o kesshin shita.",
         "sentence_simplified": "",
@@ -650,7 +650,7 @@
         "key": "経済的"
     },
     {
-        "sentence_japanese": "幸福な人生を送りたいと思います。",
+        "sentence_original": "幸福な人生を送りたいと思います。",
         "sentence_kanji": "1. 幸福",
         "sentence_romaji": "Koufuku na jinsei o okuritai to omoimasu",
         "sentence_simplified": "",
@@ -660,7 +660,7 @@
         "key": "幸福"
     },
     {
-        "sentence_japanese": "幸福はお金だけでは得られません。",
+        "sentence_original": "幸福はお金だけでは得られません。",
         "sentence_kanji": "2. 幸福",
         "sentence_romaji": "Koufuku wa okane dake dewa eraremasen",
         "sentence_simplified": "",
@@ -670,7 +670,7 @@
         "key": "幸福"
     },
     {
-        "sentence_japanese": "あなたの幸福は私にとって最も大切なことです。",
+        "sentence_original": "あなたの幸福は私にとって最も大切なことです。",
         "sentence_kanji": "3. 幸福",
         "sentence_romaji": "Anata no koufuku wa watashi ni totte mottomo taisetsu na koto desu",
         "sentence_simplified": "",
@@ -680,7 +680,7 @@
         "key": "幸福"
     },
     {
-        "sentence_japanese": "仕事と家庭のバランスを取ることが幸福の鍵です。",
+        "sentence_original": "仕事と家庭のバランスを取ることが幸福の鍵です。",
         "sentence_kanji": "4. 幸福",
         "sentence_romaji": "Shigoto to katei no baransu o toru koto ga koufuku no kagi desu",
         "sentence_simplified": "",
@@ -690,7 +690,7 @@
         "key": "幸福"
     },
     {
-        "sentence_japanese": "人それぞれ幸福の形が違います。",
+        "sentence_original": "人それぞれ幸福の形が違います。",
         "sentence_kanji": "5. 幸福",
         "sentence_romaji": "Hito sorezore koufuku no katachi ga chigaimasu",
         "sentence_simplified": "",
@@ -700,7 +700,7 @@
         "key": "幸福"
     },
     {
-        "sentence_japanese": "国際的な問題に取り組む必要がある。",
+        "sentence_original": "国際的な問題に取り組む必要がある。",
         "sentence_kanji": "1. 国際的",
         "sentence_romaji": "Kokusaiteki na mondai ni torikumu hitsuyou ga aru",
         "sentence_simplified": "",
@@ -710,7 +710,7 @@
         "key": "国際的"
     },
     {
-        "sentence_japanese": "彼女は国際的に有名な画家です。",
+        "sentence_original": "彼女は国際的に有名な画家です。",
         "sentence_kanji": "2. 国際的",
         "sentence_romaji": "Kanojo wa kokusaiteki ni yuumei na gaka desu",
         "sentence_simplified": "",
@@ -720,7 +720,7 @@
         "key": "国際的"
     },
     {
-        "sentence_japanese": "このプロジェクトは国際的なチームで行われます。",
+        "sentence_original": "このプロジェクトは国際的なチームで行われます。",
         "sentence_kanji": "3. 国際的",
         "sentence_romaji": "Kono purojekuto wa kokusaiteki na chiimu de okonawaremasu",
         "sentence_simplified": "",
@@ -730,7 +730,7 @@
         "key": "国際的"
     },
     {
-        "sentence_japanese": "国際的な市場で競争するために、多くの企業がイノベーションに力を入れています。",
+        "sentence_original": "国際的な市場で競争するために、多くの企業がイノベーションに力を入れています。",
         "sentence_kanji": "4. 国際的",
         "sentence_romaji": "Kokusaiteki na shijou de kyousou suru tame ni, ooku no kigyou ga inobeeshon ni chikara o ireteimasu",
         "sentence_simplified": "",
@@ -740,7 +740,7 @@
         "key": "国際的"
     },
     {
-        "sentence_japanese": "彼の発明は国際的な賞を受賞しました。",
+        "sentence_original": "彼の発明は国際的な賞を受賞しました。",
         "sentence_kanji": "5. 国際的",
         "sentence_romaji": "Kare no hatsumei wa kokusaiteki na shou o jushou shimashita",
         "sentence_simplified": "",
@@ -750,7 +750,7 @@
         "key": "国際的"
     },
     {
-        "sentence_japanese": "最近、この地域ではエコツーリズムが盛んになっている。",
+        "sentence_original": "最近、この地域ではエコツーリズムが盛んになっている。",
         "sentence_kanji": "1. 盛ん",
         "sentence_romaji": "Saikin, kono chiiki de wa eko tsūrizumu ga sakanni natte iru.",
         "sentence_simplified": "",
@@ -760,7 +760,7 @@
         "key": "盛ん"
     },
     {
-        "sentence_japanese": "彼の会社では国際交流が盛んに行われている。",
+        "sentence_original": "彼の会社では国際交流が盛んに行われている。",
         "sentence_kanji": "2. 盛ん",
         "sentence_romaji": "Kare no kaisha de wa kokusai kouryuu ga sakanni okonawarete iru.",
         "sentence_simplified": "",
@@ -770,7 +770,7 @@
         "key": "盛ん"
     },
     {
-        "sentence_japanese": "その地域では伝統的な織物が盛んだ。",
+        "sentence_original": "その地域では伝統的な織物が盛んだ。",
         "sentence_kanji": "3. 盛ん",
         "sentence_romaji": "Sono chiiki de wa dentouteki na orimono ga sakandatta.",
         "sentence_simplified": "",
@@ -780,7 +780,7 @@
         "key": "盛ん"
     },
     {
-        "sentence_japanese": "彼女は自分の意見が認められると、ますます議論が盛んになった。",
+        "sentence_original": "彼女は自分の意見が認められると、ますます議論が盛んになった。",
         "sentence_kanji": "4. 盛ん",
         "sentence_romaji": "Kanojo wa jibun no iken ga mitomerareru to, masumasu giron ga sakanni natta.",
         "sentence_simplified": "",
@@ -790,7 +790,7 @@
         "key": "盛ん"
     },
     {
-        "sentence_japanese": "我が国ではスポーツの振興が盛んに行われています。",
+        "sentence_original": "我が国ではスポーツの振興が盛んに行われています。",
         "sentence_kanji": "5. 盛ん",
         "sentence_romaji": "Wagakuni de wa supōtsu no shinkou ga sakanni okonawareteimasu.",
         "sentence_simplified": "",
@@ -800,7 +800,7 @@
         "key": "盛ん"
     },
     {
-        "sentence_japanese": "さまざまな人々が集まるイベントが開催されました。",
+        "sentence_original": "さまざまな人々が集まるイベントが開催されました。",
         "sentence_kanji": "1. さまざま",
         "sentence_romaji": "Samazama na hitobito ga atsumaru ibento ga kaisai saremashita",
         "sentence_simplified": "",
@@ -810,7 +810,7 @@
         "key": "さまざま"
     },
     {
-        "sentence_japanese": "さまざまな意見が寄せられ、議論が深まった。",
+        "sentence_original": "さまざまな意見が寄せられ、議論が深まった。",
         "sentence_kanji": "2. さまざま",
         "sentence_romaji": "Samazama na iken ga yoserare, giron ga fukamatta",
         "sentence_simplified": "",
@@ -820,7 +820,7 @@
         "key": "さまざま"
     },
     {
-        "sentence_japanese": "彼女はさまざまな国の料理を楽しんでいる。",
+        "sentence_original": "彼女はさまざまな国の料理を楽しんでいる。",
         "sentence_kanji": "3. さまざま",
         "sentence_romaji": "Kanojo wa samazama na kuni no ryouri o tanoshinde iru",
         "sentence_simplified": "",
@@ -830,7 +830,7 @@
         "key": "さまざま"
     },
     {
-        "sentence_japanese": "この地域には、さまざまな鳥が生息しています。",
+        "sentence_original": "この地域には、さまざまな鳥が生息しています。",
         "sentence_kanji": "4. さまざま",
         "sentence_romaji": "Kono chiiki ni wa, samazama na tori ga seisoku shiteimasu",
         "sentence_simplified": "",
@@ -840,7 +840,7 @@
         "key": "さまざま"
     },
     {
-        "sentence_japanese": "さまざまな状況に対応できる力が重要です。",
+        "sentence_original": "さまざまな状況に対応できる力が重要です。",
         "sentence_kanji": "5. さまざま",
         "sentence_romaji": "Samazama na joukyou ni taiou dekiru chikara ga juuyou desu",
         "sentence_simplified": "",
@@ -850,7 +850,7 @@
         "key": "さまざま"
     },
     {
-        "sentence_japanese": "幸せな家庭を築きたいと思っています。",
+        "sentence_original": "幸せな家庭を築きたいと思っています。",
         "sentence_kanji": "1. 幸せ",
         "sentence_romaji": "Shiawase na katei o kizukitai to omotteimasu.",
         "sentence_simplified": "",
@@ -860,7 +860,7 @@
         "key": "幸せ"
     },
     {
-        "sentence_japanese": "彼女は幸せそうな笑顔を見せた。",
+        "sentence_original": "彼女は幸せそうな笑顔を見せた。",
         "sentence_kanji": "2. 幸せ",
         "sentence_romaji": "Kanojo wa shiawase sou na egao o miseta.",
         "sentence_simplified": "",
@@ -870,7 +870,7 @@
         "key": "幸せ"
     },
     {
-        "sentence_japanese": "幸せな結婚生活を送りたいです。",
+        "sentence_original": "幸せな結婚生活を送りたいです。",
         "sentence_kanji": "3. 幸せ",
         "sentence_romaji": "Shiawase na kekkon seikatsu o okuritai desu.",
         "sentence_simplified": "",
@@ -880,7 +880,7 @@
         "key": "幸せ"
     },
     {
-        "sentence_japanese": "お金があるからといって、必ずしも幸せではありません。",
+        "sentence_original": "お金があるからといって、必ずしも幸せではありません。",
         "sentence_kanji": "4. 幸せ",
         "sentence_romaji": "Okane ga aru kara to itte, kanarazu shimo shiawase de wa arimasen.",
         "sentence_simplified": "",
@@ -890,7 +890,7 @@
         "key": "幸せ"
     },
     {
-        "sentence_japanese": "今日のデートで彼と本当に幸せな時間を過ごしました。",
+        "sentence_original": "今日のデートで彼と本当に幸せな時間を過ごしました。",
         "sentence_kanji": "5. 幸せ",
         "sentence_romaji": "Kyou no deeto de kare to hontou ni shiawase na jikan o sugoshimashita.",
         "sentence_simplified": "",
@@ -900,7 +900,7 @@
         "key": "幸せ"
     },
     {
-        "sentence_japanese": "地味な服装で目立たないようにした。",
+        "sentence_original": "地味な服装で目立たないようにした。",
         "sentence_kanji": "1. 地味",
         "sentence_romaji": "Jimi na fukusou de medatanai you ni shita",
         "sentence_simplified": "",
@@ -910,7 +910,7 @@
         "key": "地味"
     },
     {
-        "sentence_japanese": "彼女はいつも地味なメイクをしている。",
+        "sentence_original": "彼女はいつも地味なメイクをしている。",
         "sentence_kanji": "2. 地味",
         "sentence_romaji": "Kanojo wa itsumo jimi na meiku o shite iru",
         "sentence_simplified": "",
@@ -920,7 +920,7 @@
         "key": "地味"
     },
     {
-        "sentence_japanese": "この料理は見た目は地味だが、味は絶品だ。",
+        "sentence_original": "この料理は見た目は地味だが、味は絶品だ。",
         "sentence_kanji": "3. 地味",
         "sentence_romaji": "Kono ryouri wa mita me wa jimi daga, aji wa zeppin da",
         "sentence_simplified": "",
@@ -930,7 +930,7 @@
         "key": "地味"
     },
     {
-        "sentence_japanese": "地味な人でも、実はすごい才能を持っていることがある。",
+        "sentence_original": "地味な人でも、実はすごい才能を持っていることがある。",
         "sentence_kanji": "4. 地味",
         "sentence_romaji": "Jimi na hito demo, jitsu wa sugoi sainou o motte iru koto ga aru",
         "sentence_simplified": "",
@@ -940,7 +940,7 @@
         "key": "地味"
     },
     {
-        "sentence_japanese": "彼は派手なパーティーよりも、地味で静かな場所が好きだ。",
+        "sentence_original": "彼は派手なパーティーよりも、地味で静かな場所が好きだ。",
         "sentence_kanji": "5. 地味",
         "sentence_romaji": "Kare wa hade na paatii yori mo, jimi de shizuka na basho ga suki da",
         "sentence_simplified": "",
@@ -950,7 +950,7 @@
         "key": "地味"
     },
     {
-        "sentence_japanese": "彼の発言は重大な意味を持っている。",
+        "sentence_original": "彼の発言は重大な意味を持っている。",
         "sentence_kanji": "1. 重大",
         "sentence_romaji": "Kare no hatsugen wa juudai na imi o motte iru.",
         "sentence_simplified": "",
@@ -960,7 +960,7 @@
         "key": "重大"
     },
     {
-        "sentence_japanese": "この問題は重大なものなので、慎重に対処すべきだ。",
+        "sentence_original": "この問題は重大なものなので、慎重に対処すべきだ。",
         "sentence_kanji": "2. 重大",
         "sentence_romaji": "Kono mondai wa juudai na mono nanode, shinchou ni taisho subeki da.",
         "sentence_simplified": "",
@@ -970,7 +970,7 @@
         "key": "重大"
     },
     {
-        "sentence_japanese": "彼らには重大な責任がある。",
+        "sentence_original": "彼らには重大な責任がある。",
         "sentence_kanji": "3. 重大",
         "sentence_romaji": "Karera ni wa juudai na sekinin ga aru.",
         "sentence_simplified": "",
@@ -980,7 +980,7 @@
         "key": "重大"
     },
     {
-        "sentence_japanese": "そのニュースは重大な影響を及ぼす可能性がある。",
+        "sentence_original": "そのニュースは重大な影響を及ぼす可能性がある。",
         "sentence_kanji": "4. 重大",
         "sentence_romaji": "Sono nyuusu wa juudai na eikyou o oyobosu kanousei ga aru.",
         "sentence_simplified": "",
@@ -990,7 +990,7 @@
         "key": "重大"
     },
     {
-        "sentence_japanese": "これは重大な犯罪であり、厳しい処罰が待っている。",
+        "sentence_original": "これは重大な犯罪であり、厳しい処罰が待っている。",
         "sentence_kanji": "5. 重大",
         "sentence_romaji": "Kore wa juudai na hanzai de ari, kibishii shobatsu ga matte iru.",
         "sentence_simplified": "",
@@ -1000,7 +1000,7 @@
         "key": "重大"
     },
     {
-        "sentence_japanese": "重要な情報が見つかりました。",
+        "sentence_original": "重要な情報が見つかりました。",
         "sentence_kanji": "1. 重要",
         "sentence_romaji": "Juuyou na jouhou ga mitsukarimashita",
         "sentence_simplified": "",
@@ -1010,7 +1010,7 @@
         "key": "重要"
     },
     {
-        "sentence_japanese": "中国語の勉強は今後のビジネスに重要です。",
+        "sentence_original": "中国語の勉強は今後のビジネスに重要です。",
         "sentence_kanji": "2. 重要",
         "sentence_romaji": "Chuugokugo no benkyou wa kongo no bijinesu ni juuyou desu",
         "sentence_simplified": "",
@@ -1020,7 +1020,7 @@
         "key": "重要"
     },
     {
-        "sentence_japanese": "チームで協力することが重要だと思います。",
+        "sentence_original": "チームで協力することが重要だと思います。",
         "sentence_kanji": "3. 重要",
         "sentence_romaji": "Chiimu de kyouryoku suru koto ga juuyou da to omoimasu",
         "sentence_simplified": "",
@@ -1030,7 +1030,7 @@
         "key": "重要"
     },
     {
-        "sentence_japanese": "環境保護はとても重要な課題です。",
+        "sentence_original": "環境保護はとても重要な課題です。",
         "sentence_kanji": "4. 重要",
         "sentence_romaji": "Kankyou hogo wa totemo juuyou na kadai desu",
         "sentence_simplified": "",
@@ -1040,7 +1040,7 @@
         "key": "重要"
     },
     {
-        "sentence_japanese": "英語を話せることは重要なスキルだと思う。",
+        "sentence_original": "英語を話せることは重要なスキルだと思う。",
         "sentence_kanji": "5. 重要",
         "sentence_romaji": "Eigo o hanaseru koto wa juuyou na sukiru da to omou",
         "sentence_simplified": "",
@@ -1050,7 +1050,7 @@
         "key": "重要"
     },
     {
-        "sentence_japanese": "彼は何事にも消極的で、積極的に取り組もうとはしない。",
+        "sentence_original": "彼は何事にも消極的で、積極的に取り組もうとはしない。",
         "sentence_kanji": "1. 消極的",
         "sentence_romaji": "Kare wa nanigoto ni mo shoukyokuteki de, sekkyokuteki ni torikumou to wa shinai",
         "sentence_simplified": "",
@@ -1060,7 +1060,7 @@
         "key": "消極的"
     },
     {
-        "sentence_japanese": "どの仕事も消極的な態度では成功しないでしょう。",
+        "sentence_original": "どの仕事も消極的な態度では成功しないでしょう。",
         "sentence_kanji": "2. 消極的",
         "sentence_romaji": "Dono shigoto mo shoukyokuteki na taido de wa seikou shinai deshou",
         "sentence_simplified": "",
@@ -1070,7 +1070,7 @@
         "key": "消極的"
     },
     {
-        "sentence_japanese": "消極的な考え方を改めて、もっと積極的になろう。",
+        "sentence_original": "消極的な考え方を改めて、もっと積極的になろう。",
         "sentence_kanji": "3. 消極的",
         "sentence_romaji": "Shoukyokuteki na kangaekata o aratamete, motto sekkyokuteki ni narou",
         "sentence_simplified": "",
@@ -1080,7 +1080,7 @@
         "key": "消極的"
     },
     {
-        "sentence_japanese": "消極的な人は、チャンスを逃してしまうことが多いです。",
+        "sentence_original": "消極的な人は、チャンスを逃してしまうことが多いです。",
         "sentence_kanji": "4. 消極的",
         "sentence_romaji": "Shoukyokuteki na hito wa, chansu o nogashite shimau koto ga ooi desu",
         "sentence_simplified": "",
@@ -1090,7 +1090,7 @@
         "key": "消極的"
     },
     {
-        "sentence_japanese": "新しいことにチャレンジする際は、消極的でなく積極的な姿勢が重要だ。",
+        "sentence_original": "新しいことにチャレンジする際は、消極的でなく積極的な姿勢が重要だ。",
         "sentence_kanji": "5. 消極的",
         "sentence_romaji": "Atarashii koto ni charenji suru sai wa, shoukyokuteki de naku sekkyokuteki na shisei ga juuyou da",
         "sentence_simplified": "",
@@ -1100,7 +1100,7 @@
         "key": "消極的"
     },
     {
-        "sentence_japanese": "新鮮な空気を吸いたいので、公園に行きましょう。",
+        "sentence_original": "新鮮な空気を吸いたいので、公園に行きましょう。",
         "sentence_kanji": "1. 新鮮",
         "sentence_romaji": "Shinsen na kuuki o suitaidesu, kouen ni ikimashou",
         "sentence_simplified": "",
@@ -1110,7 +1110,7 @@
         "key": "新鮮"
     },
     {
-        "sentence_japanese": "この魚はとても新鮮なので美味しいね。",
+        "sentence_original": "この魚はとても新鮮なので美味しいね。",
         "sentence_kanji": "2. 新鮮",
         "sentence_romaji": "Kono sakana wa totemo shinsen na no de oishii ne",
         "sentence_simplified": "",
@@ -1120,7 +1120,7 @@
         "key": "新鮮"
     },
     {
-        "sentence_japanese": "新鮮な野菜は栄養価が高いと言われています。",
+        "sentence_original": "新鮮な野菜は栄養価が高いと言われています。",
         "sentence_kanji": "3. 新鮮",
         "sentence_romaji": "Shinsen na yasai wa eiyouka ga takai to iwareteimasu",
         "sentence_simplified": "",
@@ -1130,7 +1130,7 @@
         "key": "新鮮"
     },
     {
-        "sentence_japanese": "彼は新鮮な発想で問題を解決した。",
+        "sentence_original": "彼は新鮮な発想で問題を解決した。",
         "sentence_kanji": "4. 新鮮",
         "sentence_romaji": "Kare wa shinsen na hassou de mondai o kaiketsu shita",
         "sentence_simplified": "",
@@ -1140,7 +1140,7 @@
         "key": "新鮮"
     },
     {
-        "sentence_japanese": "新鮮な花が部屋を明るくしてくれます。",
+        "sentence_original": "新鮮な花が部屋を明るくしてくれます。",
         "sentence_kanji": "5. 新鮮",
         "sentence_romaji": "Shinsen na hana ga heya o akaruku shite kuremasu",
         "sentence_simplified": "",
@@ -1150,7 +1150,7 @@
         "key": "新鮮"
     },
     {
-        "sentence_japanese": "あの素敵なドレスが欲しいです。",
+        "sentence_original": "あの素敵なドレスが欲しいです。",
         "sentence_kanji": "1. 素敵",
         "sentence_romaji": "Ano suteki na doresu ga hoshii desu",
         "sentence_simplified": "",
@@ -1160,7 +1160,7 @@
         "key": "素敵"
     },
     {
-        "sentence_japanese": "このレストランは素敵な雰囲気があります。",
+        "sentence_original": "このレストランは素敵な雰囲気があります。",
         "sentence_kanji": "2. 素敵",
         "sentence_romaji": "Kono resutoran wa suteki na fun'iki ga arimasu",
         "sentence_simplified": "",
@@ -1170,7 +1170,7 @@
         "key": "素敵"
     },
     {
-        "sentence_japanese": "彼女はとても素敵な笑顔を持っています。",
+        "sentence_original": "彼女はとても素敵な笑顔を持っています。",
         "sentence_kanji": "3. 素敵",
         "sentence_romaji": "Kanojo wa totemo suteki na egao o motte imasu",
         "sentence_simplified": "",
@@ -1180,7 +1180,7 @@
         "key": "素敵"
     },
     {
-        "sentence_japanese": "彼は素敵なプレゼントをくれました。",
+        "sentence_original": "彼は素敵なプレゼントをくれました。",
         "sentence_kanji": "4. 素敵",
         "sentence_romaji": "Kare wa suteki na purezento o kuremashita",
         "sentence_simplified": "",
@@ -1190,7 +1190,7 @@
         "key": "素敵"
     },
     {
-        "sentence_japanese": "今日は素敵な一日になりそうです。",
+        "sentence_original": "今日は素敵な一日になりそうです。",
         "sentence_kanji": "5. 素敵",
         "sentence_romaji": "Kyou wa suteki na ichinichi ni nari sou desu",
         "sentence_simplified": "",
@@ -1200,7 +1200,7 @@
         "key": "素敵"
     },
     {
-        "sentence_japanese": "今日はスペシャルな日だから、ケーキを買おう。",
+        "sentence_original": "今日はスペシャルな日だから、ケーキを買おう。",
         "sentence_kanji": "1. スペシャル",
         "sentence_romaji": "Kyou wa supesharu na hi dakara, keeki o kaou.",
         "sentence_simplified": "",
@@ -1210,7 +1210,7 @@
         "key": "スペシャル"
     },
     {
-        "sentence_japanese": "私の誕生日に彼がスペシャルなプレゼントをくれました。",
+        "sentence_original": "私の誕生日に彼がスペシャルなプレゼントをくれました。",
         "sentence_kanji": "2. スペシャル",
         "sentence_romaji": "Watashi no tanjoubi ni kare ga supesharu na purezento o kuremashita.",
         "sentence_simplified": "",
@@ -1220,7 +1220,7 @@
         "key": "スペシャル"
     },
     {
-        "sentence_japanese": "このレストランでは週末にスペシャルメニューがあります。",
+        "sentence_original": "このレストランでは週末にスペシャルメニューがあります。",
         "sentence_kanji": "3. スペシャル",
         "sentence_romaji": "Kono resutoran de wa shuumatsu ni supesharu menyuu ga arimasu.",
         "sentence_simplified": "",
@@ -1230,7 +1230,7 @@
         "key": "スペシャル"
     },
     {
-        "sentence_japanese": "彼女はスペシャルな才能を持っていると思う。",
+        "sentence_original": "彼女はスペシャルな才能を持っていると思う。",
         "sentence_kanji": "4. スペシャル",
         "sentence_romaji": "Kanojo wa supesharu na sainou o motte iru to omou.",
         "sentence_simplified": "",
@@ -1240,7 +1240,7 @@
         "key": "スペシャル"
     },
     {
-        "sentence_japanese": "彼は私たちにスペシャルなコンサートを開いた。",
+        "sentence_original": "彼は私たちにスペシャルなコンサートを開いた。",
         "sentence_kanji": "5. スペシャル",
         "sentence_romaji": "Kare wa watashitachi ni supesharu na konsaato o hiraita.",
         "sentence_simplified": "",
@@ -1250,7 +1250,7 @@
         "key": "スペシャル"
     },
     {
-        "sentence_japanese": "正確な情報が必要だ。",
+        "sentence_original": "正確な情報が必要だ。",
         "sentence_kanji": "1. 正確",
         "sentence_romaji": "Seikaku na jouhou ga hitsuyou da.",
         "sentence_simplified": "",
@@ -1260,7 +1260,7 @@
         "key": "正確"
     },
     {
-        "sentence_japanese": "問題を正確に理解しましょう。",
+        "sentence_original": "問題を正確に理解しましょう。",
         "sentence_kanji": "2. 正確",
         "sentence_romaji": "Mondai o seikaku ni rikai shimashou.",
         "sentence_simplified": "",
@@ -1270,7 +1270,7 @@
         "key": "正確"
     },
     {
-        "sentence_japanese": "彼女は指示を正確に実行した。",
+        "sentence_original": "彼女は指示を正確に実行した。",
         "sentence_kanji": "3. 正確",
         "sentence_romaji": "Kanojo wa shiji o seikaku ni jikkou shita.",
         "sentence_simplified": "",
@@ -1280,7 +1280,7 @@
         "key": "正確"
     },
     {
-        "sentence_japanese": "正確な日付を確認してください。",
+        "sentence_original": "正確な日付を確認してください。",
         "sentence_kanji": "4. 正確",
         "sentence_romaji": "Seikaku na hidzuke o kakunin shite kudasai.",
         "sentence_simplified": "",
@@ -1290,7 +1290,7 @@
         "key": "正確"
     },
     {
-        "sentence_japanese": "正確なデータ収集がプロジェクトの成功に重要です。",
+        "sentence_original": "正確なデータ収集がプロジェクトの成功に重要です。",
         "sentence_kanji": "5. 正確",
         "sentence_romaji": "Seikaku na deeta shuushuu ga purojekuto no seikou ni juuyou desu.",
         "sentence_simplified": "",
@@ -1300,7 +1300,7 @@
         "key": "正確"
     },
     {
-        "sentence_japanese": "豪華なホテルでのぜいたくな休暇が楽しみだ。",
+        "sentence_original": "豪華なホテルでのぜいたくな休暇が楽しみだ。",
         "sentence_kanji": "1. ぜいたく",
         "sentence_romaji": "Gouka na hoteru de no zeitaku na kyuuka ga tanoshimi da.",
         "sentence_simplified": "",
@@ -1310,7 +1310,7 @@
         "key": "ぜいたく"
     },
     {
-        "sentence_japanese": "彼女はいつもぜいたくな贈り物を望んでいる。",
+        "sentence_original": "彼女はいつもぜいたくな贈り物を望んでいる。",
         "sentence_kanji": "2. ぜいたく",
         "sentence_romaji": "Kanojo wa itsumozeitaku na okurimono o nozonde iru.",
         "sentence_simplified": "",
@@ -1320,7 +1320,7 @@
         "key": "ぜいたく"
     },
     {
-        "sentence_japanese": "ぜいたくな食材を使った料理を作るのが好きだ。",
+        "sentence_original": "ぜいたくな食材を使った料理を作るのが好きだ。",
         "sentence_kanji": "3. ぜいたく",
         "sentence_romaji": "Zeitaku na shokuzai o tsukatta ryouri o tsukuru no ga suki da.",
         "sentence_simplified": "",
@@ -1330,7 +1330,7 @@
         "key": "ぜいたく"
     },
     {
-        "sentence_japanese": "彼の家はとてもぜいたくで、訪れた誰もが感嘆していた。",
+        "sentence_original": "彼の家はとてもぜいたくで、訪れた誰もが感嘆していた。",
         "sentence_kanji": "4. ぜいたく",
         "sentence_romaji": "Kare no ie wa totemo zeitaku de, otozureta dare mo ga kantan shiteita.",
         "sentence_simplified": "",
@@ -1340,7 +1340,7 @@
         "key": "ぜいたく"
     },
     {
-        "sentence_japanese": "今の経済状況ではぜいたくな生活が難しい。",
+        "sentence_original": "今の経済状況ではぜいたくな生活が難しい。",
         "sentence_kanji": "5. ぜいたく",
         "sentence_romaji": "Ima no keizai joukyou de wa zeitaku na seikatsu ga muzukashii.",
         "sentence_simplified": "",
@@ -1350,7 +1350,7 @@
         "key": "ぜいたく"
     },
     {
-        "sentence_japanese": "積極的な態度で新しいことに挑戦することが成功への道です。",
+        "sentence_original": "積極的な態度で新しいことに挑戦することが成功への道です。",
         "sentence_kanji": "1. 積極的",
         "sentence_romaji": "Sekkyokuteki na taido de atarashii koto ni chousen suru koto ga seikou e no michi desu",
         "sentence_simplified": "",
@@ -1360,7 +1360,7 @@
         "key": "積極的"
     },
     {
-        "sentence_japanese": "彼は人間関係を改善するために積極的にコミュニケーションを取りました。",
+        "sentence_original": "彼は人間関係を改善するために積極的にコミュニケーションを取りました。",
         "sentence_kanji": "2. 積極的",
         "sentence_romaji": "Kare wa ningen kankei o kaizen suru tame ni sekkyokuteki ni komyunikēshon o torimashita",
         "sentence_simplified": "",
@@ -1370,7 +1370,7 @@
         "key": "積極的"
     },
     {
-        "sentence_japanese": "彼女は積極的に自己啓発に励んでいる。",
+        "sentence_original": "彼女は積極的に自己啓発に励んでいる。",
         "sentence_kanji": "3. 積極的",
         "sentence_romaji": "Kanojo wa sekkyokuteki ni jiko keihatsu ni hagemonde iru",
         "sentence_simplified": "",
@@ -1380,7 +1380,7 @@
         "key": "積極的"
     },
     {
-        "sentence_japanese": "スポーツチームは、積極的に練習に励むことで成績を上げました。",
+        "sentence_original": "スポーツチームは、積極的に練習に励むことで成績を上げました。",
         "sentence_kanji": "4. 積極的",
         "sentence_romaji": "Supōtsu chīmu wa, sekkyokuteki ni renshuu ni hagemu koto de seiseki o agemashita",
         "sentence_simplified": "",
@@ -1390,7 +1390,7 @@
         "key": "積極的"
     },
     {
-        "sentence_japanese": "環境保護のため、積極的にリサイクル活動に参加しましょう。",
+        "sentence_original": "環境保護のため、積極的にリサイクル活動に参加しましょう。",
         "sentence_kanji": "5. 積極的",
         "sentence_romaji": "Kankyou hogo no tame, sekkyokuteki ni risaikuru katsudou ni sanka shimashou",
         "sentence_simplified": "",
@@ -1400,7 +1400,7 @@
         "key": "積極的"
     },
     {
-        "sentence_japanese": "彼女はお母さんにそっくりです。",
+        "sentence_original": "彼女はお母さんにそっくりです。",
         "sentence_kanji": "1. そっくり",
         "sentence_romaji": "Kanojo wa okaasan ni sokkuri desu",
         "sentence_simplified": "",
@@ -1410,7 +1410,7 @@
         "key": "そっくり"
     },
     {
-        "sentence_japanese": "このケーキは手作りだけど、お店で買ったものにそっくりです。",
+        "sentence_original": "このケーキは手作りだけど、お店で買ったものにそっくりです。",
         "sentence_kanji": "2. そっくり",
         "sentence_romaji": "Kono keeki wa tedzukuri dakedo, omise de katta mono ni sokkuri desu",
         "sentence_simplified": "",
@@ -1420,7 +1420,7 @@
         "key": "そっくり"
     },
     {
-        "sentence_japanese": "ここは私の故郷にそっくりな風景です。",
+        "sentence_original": "ここは私の故郷にそっくりな風景です。",
         "sentence_kanji": "3. そっくり",
         "sentence_romaji": "Koko wa watashi no kokyou ni sokkuri na fuukei desu",
         "sentence_simplified": "",
@@ -1430,7 +1430,7 @@
         "key": "そっくり"
     },
     {
-        "sentence_japanese": "彼は兄弟で、性格がそっくりです。",
+        "sentence_original": "彼は兄弟で、性格がそっくりです。",
         "sentence_kanji": "4. そっくり",
         "sentence_romaji": "Kare wa kyoudai de, seikaku ga sokkuri desu",
         "sentence_simplified": "",
@@ -1440,7 +1440,7 @@
         "key": "そっくり"
     },
     {
-        "sentence_japanese": "子犬は母親犬にそっくりで、可愛いです。",
+        "sentence_original": "子犬は母親犬にそっくりで、可愛いです。",
         "sentence_kanji": "5. そっくり",
         "sentence_romaji": "Koinu wa hahaoya inu ni sokkuri de, kawaii desu",
         "sentence_simplified": "",
@@ -1450,7 +1450,7 @@
         "key": "そっくり"
     },
     {
-        "sentence_japanese": "このソフトは非常に使いやすい。",
+        "sentence_original": "このソフトは非常に使いやすい。",
         "sentence_kanji": "1. ソフト",
         "sentence_romaji": "Kono sofuto wa hijou ni tsuka iyasu i.",
         "sentence_simplified": "",
@@ -1460,7 +1460,7 @@
         "key": "ソフト"
     },
     {
-        "sentence_japanese": "ソフトウェア開発者は、新しいソフトのアップデートを行っています。",
+        "sentence_original": "ソフトウェア開発者は、新しいソフトのアップデートを行っています。",
         "sentence_kanji": "2. ソフト",
         "sentence_romaji": "Sofutowea kaihatsusha wa, atarashii sofuto no appudēto o okonatteimasu.",
         "sentence_simplified": "",
@@ -1470,7 +1470,7 @@
         "key": "ソフト"
     },
     {
-        "sentence_japanese": "彼は最新のソフトを購入するために店に行きました。",
+        "sentence_original": "彼は最新のソフトを購入するために店に行きました。",
         "sentence_kanji": "3. ソフト",
         "sentence_romaji": "Kare wa saishin no sofuto o kounyuu suru tame ni mise ni ikimashita.",
         "sentence_simplified": "",
@@ -1480,7 +1480,7 @@
         "key": "ソフト"
     },
     {
-        "sentence_japanese": "このソフトドリンクは甘くて美味しいです。",
+        "sentence_original": "このソフトドリンクは甘くて美味しいです。",
         "sentence_kanji": "4. ソフト",
         "sentence_romaji": "Kono sofuto dorinku wa amakute oishii desu.",
         "sentence_simplified": "",
@@ -1490,7 +1490,7 @@
         "key": "ソフト"
     },
     {
-        "sentence_japanese": "ソフトバンクは、大手携帯通信会社です。",
+        "sentence_original": "ソフトバンクは、大手携帯通信会社です。",
         "sentence_kanji": "5. ソフト",
         "sentence_romaji": "Sofutobanku wa, oote keitai tsuushin gaisha desu.",
         "sentence_simplified": "",
@@ -1500,7 +1500,7 @@
         "key": "ソフト"
     },
     {
-        "sentence_japanese": "退屈な授業はやる気を失わせる",
+        "sentence_original": "退屈な授業はやる気を失わせる",
         "sentence_kanji": "1. 退屈",
         "sentence_romaji": "Taikutsu na jugyou wa yaruki o ushinawaseru",
         "sentence_simplified": "",
@@ -1510,7 +1510,7 @@
         "key": "退屈"
     },
     {
-        "sentence_japanese": "彼は退屈な映画を見るのが嫌いだ。",
+        "sentence_original": "彼は退屈な映画を見るのが嫌いだ。",
         "sentence_kanji": "2. 退屈",
         "sentence_romaji": "Kare wa taikutsu na eiga o miru no ga kirai da",
         "sentence_simplified": "",
@@ -1520,7 +1520,7 @@
         "key": "退屈"
     },
     {
-        "sentence_japanese": "長時間待つことは退屈で不快です。",
+        "sentence_original": "長時間待つことは退屈で不快です。",
         "sentence_kanji": "3. 退屈",
         "sentence_romaji": "Nagan jikan matsu koto wa taikutsu de fukai desu",
         "sentence_simplified": "",
@@ -1530,7 +1530,7 @@
         "key": "退屈"
     },
     {
-        "sentence_japanese": "彼女が話すとき、彼は退屈そうに見える。",
+        "sentence_original": "彼女が話すとき、彼は退屈そうに見える。",
         "sentence_kanji": "4. 退屈",
         "sentence_romaji": "Kanojo ga hanasu toki, kare wa taikutsu sou ni mieru",
         "sentence_simplified": "",
@@ -1540,7 +1540,7 @@
         "key": "退屈"
     },
     {
-        "sentence_japanese": "この本は退屈で、興味深くない。",
+        "sentence_original": "この本は退屈で、興味深くない。",
         "sentence_kanji": "5. 退屈",
         "sentence_romaji": "Kono hon wa taikutsu de, kyoumi bukaku nai",
         "sentence_simplified": "",
@@ -1550,7 +1550,7 @@
         "key": "退屈"
     },
     {
-        "sentence_japanese": "確かに彼はやる気がありますね。",
+        "sentence_original": "確かに彼はやる気がありますね。",
         "sentence_kanji": "1. 確か",
         "sentence_romaji": "Tashika ni kare wa yaruki ga arimasu ne",
         "sentence_simplified": "",
@@ -1560,7 +1560,7 @@
         "key": "確か"
     },
     {
-        "sentence_japanese": "彼女は今日が確かに休暇だと言っていました。",
+        "sentence_original": "彼女は今日が確かに休暇だと言っていました。",
         "sentence_kanji": "2. 確か",
         "sentence_romaji": "Kanojo wa kyou ga tashika ni kyuuka da to itte imashita",
         "sentence_simplified": "",
@@ -1570,7 +1570,7 @@
         "key": "確か"
     },
     {
-        "sentence_japanese": "確かな情報が得られるまで、待つべきです。",
+        "sentence_original": "確かな情報が得られるまで、待つべきです。",
         "sentence_kanji": "3. 確か",
         "sentence_romaji": "Tashika na jouhou ga erareru made, matsu beki desu",
         "sentence_simplified": "",
@@ -1580,7 +1580,7 @@
         "key": "確か"
     },
     {
-        "sentence_japanese": "確かな道具を使って、仕事の品質を向上させましょう。",
+        "sentence_original": "確かな道具を使って、仕事の品質を向上させましょう。",
         "sentence_kanji": "4. 確か",
         "sentence_romaji": "Tashika na dougu wo tsukatte, shigoto no hinshitsu wo koujou sasemashou",
         "sentence_simplified": "",
@@ -1590,7 +1590,7 @@
         "key": "確か"
     },
     {
-        "sentence_japanese": "彼は確かな知識と経験を持っているので、彼を信頼していいでしょう。",
+        "sentence_original": "彼は確かな知識と経験を持っているので、彼を信頼していいでしょう。",
         "sentence_kanji": "5. 確か",
         "sentence_romaji": "Kare wa tashika na chishiki to keiken wo motte iru node, kare wo shinrai shite ii deshou",
         "sentence_simplified": "",
@@ -1600,7 +1600,7 @@
         "key": "確か"
     },
     {
-        "sentence_japanese": "単純な仕事は繰り返しが多い。",
+        "sentence_original": "単純な仕事は繰り返しが多い。",
         "sentence_kanji": "1. 単純",
         "sentence_romaji": "Tanjun na shigoto wa kurikaeshi ga ooi.",
         "sentence_simplified": "",
@@ -1610,7 +1610,7 @@
         "key": "単純"
     },
     {
-        "sentence_japanese": "単純な問題ではなく、もっと複雑な背景がある。",
+        "sentence_original": "単純な問題ではなく、もっと複雑な背景がある。",
         "sentence_kanji": "2. 単純",
         "sentence_romaji": "Tanjun na mondai dewa naku, motto fukuzatsu na haikei ga aru.",
         "sentence_simplified": "",
@@ -1620,7 +1620,7 @@
         "key": "単純"
     },
     {
-        "sentence_japanese": "彼は単純な言葉で説明してくれました。",
+        "sentence_original": "彼は単純な言葉で説明してくれました。",
         "sentence_kanji": "3. 単純",
         "sentence_romaji": "Kare wa tanjun na kotoba de setsumei shite kuremashita.",
         "sentence_simplified": "",
@@ -1630,7 +1630,7 @@
         "key": "単純"
     },
     {
-        "sentence_japanese": "単純な計算ミスで失敗してしまった。",
+        "sentence_original": "単純な計算ミスで失敗してしまった。",
         "sentence_kanji": "4. 単純",
         "sentence_romaji": "Tanjun na keisan misu de shippai shite shimatta.",
         "sentence_simplified": "",
@@ -1640,7 +1640,7 @@
         "key": "単純"
     },
     {
-        "sentence_japanese": "単純な構造であれば、修理が容易だ。",
+        "sentence_original": "単純な構造であれば、修理が容易だ。",
         "sentence_kanji": "5. 単純",
         "sentence_romaji": "Tanjun na kouzou de areba, shuuri ga youi da.",
         "sentence_simplified": "",
@@ -1650,7 +1650,7 @@
         "key": "単純"
     },
     {
-        "sentence_japanese": "彼が適当な返答をした。",
+        "sentence_original": "彼が適当な返答をした。",
         "sentence_kanji": "1. 適当",
         "sentence_romaji": "Kare ga tekitou na hentou o shita.",
         "sentence_simplified": "",
@@ -1660,7 +1660,7 @@
         "key": "適当"
     },
     {
-        "sentence_japanese": "この車は適当な価格で売られています。",
+        "sentence_original": "この車は適当な価格で売られています。",
         "sentence_kanji": "2. 適当",
         "sentence_romaji": "Kono kuruma wa tekitou na kakaku de urarete imasu.",
         "sentence_simplified": "",
@@ -1670,7 +1670,7 @@
         "key": "適当"
     },
     {
-        "sentence_japanese": "適当な部屋に荷物を置いてください。",
+        "sentence_original": "適当な部屋に荷物を置いてください。",
         "sentence_kanji": "3. 適当",
         "sentence_romaji": "Tekitou na heya ni nimotsu o oite kudasai.",
         "sentence_simplified": "",
@@ -1680,7 +1680,7 @@
         "key": "適当"
     },
     {
-        "sentence_japanese": "この仕事に適当な人材を見つけるのは難しい。",
+        "sentence_original": "この仕事に適当な人材を見つけるのは難しい。",
         "sentence_kanji": "4. 適当",
         "sentence_romaji": "Kono shigoto ni tekitou na jinzai o mitsukeru no wa muzukashii.",
         "sentence_simplified": "",
@@ -1690,7 +1690,7 @@
         "key": "適当"
     },
     {
-        "sentence_japanese": "適当な昼食の場所を提案してください。",
+        "sentence_original": "適当な昼食の場所を提案してください。",
         "sentence_kanji": "5. 適当",
         "sentence_romaji": "Tekitou na chuushoku no basho o teian shite kudasai.",
         "sentence_simplified": "",
@@ -1700,7 +1700,7 @@
         "key": "適当"
     },
     {
-        "sentence_japanese": "彼女は英語が得意です。",
+        "sentence_original": "彼女は英語が得意です。",
         "sentence_kanji": "1. 得意",
         "sentence_romaji": "Kanojo wa eigo ga tokui desu",
         "sentence_simplified": "",
@@ -1710,7 +1710,7 @@
         "key": "得意"
     },
     {
-        "sentence_japanese": "私は料理が得意ではありません。",
+        "sentence_original": "私は料理が得意ではありません。",
         "sentence_kanji": "2. 得意",
         "sentence_romaji": "Watashi wa ryouri ga tokui dewa arimasen",
         "sentence_simplified": "",
@@ -1720,7 +1720,7 @@
         "key": "得意"
     },
     {
-        "sentence_japanese": "彼は水泳が得意だと言っていました。",
+        "sentence_original": "彼は水泳が得意だと言っていました。",
         "sentence_kanji": "3. 得意",
         "sentence_romaji": "Kare wa suiei ga tokui da to itte imashita",
         "sentence_simplified": "",
@@ -1730,7 +1730,7 @@
         "key": "得意"
     },
     {
-        "sentence_japanese": "彼女はその問題を解決できるので、数学が彼女の得意科目だと思った。",
+        "sentence_original": "彼女はその問題を解決できるので、数学が彼女の得意科目だと思った。",
         "sentence_kanji": "4. 得意",
         "sentence_romaji": "Kanojo wa sono mondai o kaiketsu dekiru node, suugaku ga kanojo no tokui kamoku da to omotta",
         "sentence_simplified": "",
@@ -1740,7 +1740,7 @@
         "key": "得意"
     },
     {
-        "sentence_japanese": "彼はピアノが得意で、周りの人々を感動させます。",
+        "sentence_original": "彼はピアノが得意で、周りの人々を感動させます。",
         "sentence_kanji": "5. 得意",
         "sentence_romaji": "Kare wa piano ga tokui de, mawari no hitobito o kandou sase masu",
         "sentence_simplified": "",
@@ -1750,7 +1750,7 @@
         "key": "得意"
     },
     {
-        "sentence_japanese": "彼は数学が苦手だ。",
+        "sentence_original": "彼は数学が苦手だ。",
         "sentence_kanji": "1. 苦手",
         "sentence_romaji": "Kare wa suugaku ga nigate da",
         "sentence_simplified": "",
@@ -1760,7 +1760,7 @@
         "key": "苦手"
     },
     {
-        "sentence_japanese": "彼女は料理が苦手です。",
+        "sentence_original": "彼女は料理が苦手です。",
         "sentence_kanji": "2. 苦手",
         "sentence_romaji": "Kanojo wa ryouri ga nigate desu",
         "sentence_simplified": "",
@@ -1770,7 +1770,7 @@
         "key": "苦手"
     },
     {
-        "sentence_japanese": "多くの人が英語が苦手と感じています。",
+        "sentence_original": "多くの人が英語が苦手と感じています。",
         "sentence_kanji": "3. 苦手",
         "sentence_romaji": "Ooku no hito ga eigo ga nigate to kanjiteimasu",
         "sentence_simplified": "",
@@ -1780,7 +1780,7 @@
         "key": "苦手"
     },
     {
-        "sentence_japanese": "彼は社交的な場が苦手だと言っていた。",
+        "sentence_original": "彼は社交的な場が苦手だと言っていた。",
         "sentence_kanji": "4. 苦手",
         "sentence_romaji": "Kare wa shakouteki na ba ga nigate da to itteita",
         "sentence_simplified": "",
@@ -1790,7 +1790,7 @@
         "key": "苦手"
     },
     {
-        "sentence_japanese": "私は運動が苦手なので、ジムに行くことが苦痛です。",
+        "sentence_original": "私は運動が苦手なので、ジムに行くことが苦痛です。",
         "sentence_kanji": "5. 苦手",
         "sentence_romaji": "Watashi wa undou ga nigate nanode, jimu ni iku koto ga kutsuu desu",
         "sentence_simplified": "",
@@ -1800,7 +1800,7 @@
         "key": "苦手"
     },
     {
-        "sentence_japanese": "派手な服装は目立ちますね。",
+        "sentence_original": "派手な服装は目立ちますね。",
         "sentence_kanji": "1. 派手",
         "sentence_romaji": "Hade na fukusou wa medachimasu ne",
         "sentence_simplified": "",
@@ -1810,7 +1810,7 @@
         "key": "派手"
     },
     {
-        "sentence_japanese": "彼女はいつも派手な化粧をしている。",
+        "sentence_original": "彼女はいつも派手な化粧をしている。",
         "sentence_kanji": "2. 派手",
         "sentence_romaji": "Kanojo wa itsumo hade na keshou o shite iru",
         "sentence_simplified": "",
@@ -1820,7 +1820,7 @@
         "key": "派手"
     },
     {
-        "sentence_japanese": "彼は派手な車に乗っていて、誰もが注目していた。",
+        "sentence_original": "彼は派手な車に乗っていて、誰もが注目していた。",
         "sentence_kanji": "3. 派手",
         "sentence_romaji": "Kare wa hade na kuruma ni notte ite, daremo ga chuumoku shite ita",
         "sentence_simplified": "",
@@ -1830,7 +1830,7 @@
         "key": "派手"
     },
     {
-        "sentence_japanese": "今日は特別な日だから、もっと派手に盛り上げましょう！",
+        "sentence_original": "今日は特別な日だから、もっと派手に盛り上げましょう！",
         "sentence_kanji": "4. 派手",
         "sentence_romaji": "Kyou wa tokubetsu na hi dakara, motto hade ni moriagemashou!",
         "sentence_simplified": "",
@@ -1840,7 +1840,7 @@
         "key": "派手"
     },
     {
-        "sentence_japanese": "派手なデザインのポスターは人々の目を引く。",
+        "sentence_original": "派手なデザインのポスターは人々の目を引く。",
         "sentence_kanji": "5. 派手",
         "sentence_romaji": "Hade na dezain no posutaa wa hitobito no me o hiku",
         "sentence_simplified": "",
@@ -1850,7 +1850,7 @@
         "key": "派手"
     },
     {
-        "sentence_japanese": "貧乏な生活を送っているが、幸せだ。",
+        "sentence_original": "貧乏な生活を送っているが、幸せだ。",
         "sentence_kanji": "1. 貧乏",
         "sentence_romaji": "Binbou na seikatsu o okutteiru ga, shiawase da.",
         "sentence_simplified": "",
@@ -1860,7 +1860,7 @@
         "key": "貧乏"
     },
     {
-        "sentence_japanese": "彼は貧乏な家庭で育ったが、努力して成功した。",
+        "sentence_original": "彼は貧乏な家庭で育ったが、努力して成功した。",
         "sentence_kanji": "2. 貧乏",
         "sentence_romaji": "Kare wa binbou na katei de sodatta ga, doryoku shite seikou shita.",
         "sentence_simplified": "",
@@ -1870,7 +1870,7 @@
         "key": "貧乏"
     },
     {
-        "sentence_japanese": "貧乏な人々のために支援プログラムが必要だ。",
+        "sentence_original": "貧乏な人々のために支援プログラムが必要だ。",
         "sentence_kanji": "3. 貧乏",
         "sentence_romaji": "Binbou na hitobito no tame ni shien puroguramu ga hitsuyou da.",
         "sentence_simplified": "",
@@ -1880,7 +1880,7 @@
         "key": "貧乏"
     },
     {
-        "sentence_japanese": "貧乏な学生に奨学金を提供することは彼らの教育に役立つ。",
+        "sentence_original": "貧乏な学生に奨学金を提供することは彼らの教育に役立つ。",
         "sentence_kanji": "4. 貧乏",
         "sentence_romaji": "Binbou na gakusei ni shougakukan o teikyou suru koto wa karera no kyouiku ni yakudatsu.",
         "sentence_simplified": "",
@@ -1890,7 +1890,7 @@
         "key": "貧乏"
     },
     {
-        "sentence_japanese": "貧乏を克服するためには、賢い財政管理が必要だ。",
+        "sentence_original": "貧乏を克服するためには、賢い財政管理が必要だ。",
         "sentence_kanji": "5. 貧乏",
         "sentence_romaji": "Binbou o kokufuku suru tame ni wa, kashikoi zaisei kanri ga hitsuyou da.",
         "sentence_simplified": "",
@@ -1900,7 +1900,7 @@
         "key": "貧乏"
     },
     {
-        "sentence_japanese": "不安で眠れない夜が多いです。",
+        "sentence_original": "不安で眠れない夜が多いです。",
         "sentence_kanji": "1. 不安",
         "sentence_romaji": "Fu-an de nemurenai yoru ga ooi desu.",
         "sentence_simplified": "",
@@ -1910,7 +1910,7 @@
         "key": "不安"
     },
     {
-        "sentence_japanese": "不安にさせる言葉は控えてください。",
+        "sentence_original": "不安にさせる言葉は控えてください。",
         "sentence_kanji": "2. 不安",
         "sentence_romaji": "Fu-an ni saseru kotoba wa hikaete kudasai.",
         "sentence_simplified": "",
@@ -1920,7 +1920,7 @@
         "key": "不安"
     },
     {
-        "sentence_japanese": "テストの結果が不安です。",
+        "sentence_original": "テストの結果が不安です。",
         "sentence_kanji": "3. 不安",
         "sentence_romaji": "Tesuto no kekka ga fu-an desu.",
         "sentence_simplified": "",
@@ -1930,7 +1930,7 @@
         "key": "不安"
     },
     {
-        "sentence_japanese": "彼は彼女の無事を確認すると、不安が晴れた。",
+        "sentence_original": "彼は彼女の無事を確認すると、不安が晴れた。",
         "sentence_kanji": "4. 不安",
         "sentence_romaji": "Kare wa kanojo no buji o kakunin suru to, fu-an ga hareta.",
         "sentence_simplified": "",
@@ -1940,7 +1940,7 @@
         "key": "不安"
     },
     {
-        "sentence_japanese": "未来に対する不安を抱えています。",
+        "sentence_original": "未来に対する不安を抱えています。",
         "sentence_kanji": "5. 不安",
         "sentence_romaji": "Mirai ni taisuru fu-an o kakaete imasu.",
         "sentence_simplified": "",
@@ -1950,7 +1950,7 @@
         "key": "不安"
     },
     {
-        "sentence_japanese": "彼女は不規則な生活習慣を持っている。",
+        "sentence_original": "彼女は不規則な生活習慣を持っている。",
         "sentence_kanji": "1. 不規則",
         "sentence_romaji": "Kanojo wa fukisoku na seikatsu shūkan o motte iru",
         "sentence_simplified": "",
@@ -1960,7 +1960,7 @@
         "key": "不規則"
     },
     {
-        "sentence_japanese": "この地域は不規則な降雨量が特徴である。",
+        "sentence_original": "この地域は不規則な降雨量が特徴である。",
         "sentence_kanji": "2. 不規則",
         "sentence_romaji": "Kono chiiki wa fukisoku na kouryuu ga tokuchou de aru",
         "sentence_simplified": "",
@@ -1970,7 +1970,7 @@
         "key": "不規則"
     },
     {
-        "sentence_japanese": "不規則な勤務スケジュールが健康に影響を及ぼす。",
+        "sentence_original": "不規則な勤務スケジュールが健康に影響を及ぼす。",
         "sentence_kanji": "3. 不規則",
         "sentence_romaji": "Fukisoku na kinmu sukejūru ga kenkou ni eikyou o oyobosu",
         "sentence_simplified": "",
@@ -1980,7 +1980,7 @@
         "key": "不規則"
     },
     {
-        "sentence_japanese": "不規則な食生活は消化器系の問題を引き起こすことがある。",
+        "sentence_original": "不規則な食生活は消化器系の問題を引き起こすことがある。",
         "sentence_kanji": "4. 不規則",
         "sentence_romaji": "Fukisoku na shokuseikatsu wa shoukakikei no mondai o hikiokosu koto ga aru",
         "sentence_simplified": "",
@@ -1990,7 +1990,7 @@
         "key": "不規則"
     },
     {
-        "sentence_japanese": "この詩は不規則なリズムを持っていて、面白い響きがある。",
+        "sentence_original": "この詩は不規則なリズムを持っていて、面白い響きがある。",
         "sentence_kanji": "5. 不規則",
         "sentence_romaji": "Kono shi wa fukisoku na rizumu o motte ite, omoshiroi hibiki ga aru",
         "sentence_simplified": "",
@@ -2000,7 +2000,7 @@
         "key": "不規則"
     },
     {
-        "sentence_japanese": "複雑な問題に取り組むことは、時には非常に困難です。",
+        "sentence_original": "複雑な問題に取り組むことは、時には非常に困難です。",
         "sentence_kanji": "1. 複雑",
         "sentence_romaji": "Fukuzatsu na mondai ni torikumu koto wa, toki ni wa hijou ni konnan desu",
         "sentence_simplified": "",
@@ -2010,7 +2010,7 @@
         "key": "複雑"
     },
     {
-        "sentence_japanese": "彼の説明は複雑で理解しにくかった。",
+        "sentence_original": "彼の説明は複雑で理解しにくかった。",
         "sentence_kanji": "2. 複雑",
         "sentence_romaji": "Kare no setsumei wa fukuzatsu de rikai shinikukatta",
         "sentence_simplified": "",
@@ -2020,7 +2020,7 @@
         "key": "複雑"
     },
     {
-        "sentence_japanese": "このプロジェクトは、複雑な管理が求められます。",
+        "sentence_original": "このプロジェクトは、複雑な管理が求められます。",
         "sentence_kanji": "3. 複雑",
         "sentence_romaji": "Kono purojekuto wa, fukuzatsu na kanri ga motomeraremasu",
         "sentence_simplified": "",
@@ -2030,7 +2030,7 @@
         "key": "複雑"
     },
     {
-        "sentence_japanese": "人間の心は複雑で、簡単には理解できないものです。",
+        "sentence_original": "人間の心は複雑で、簡単には理解できないものです。",
         "sentence_kanji": "4. 複雑",
         "sentence_romaji": "Ningen no kokoro wa fukuzatsu de, kantan ni wa rikai dekinai mono desu",
         "sentence_simplified": "",
@@ -2040,7 +2040,7 @@
         "key": "複雑"
     },
     {
-        "sentence_japanese": "この手続きは非常に複雑で、時間がかかるでしょう。",
+        "sentence_original": "この手続きは非常に複雑で、時間がかかるでしょう。",
         "sentence_kanji": "5. 複雑",
         "sentence_romaji": "Kono tetsuzuki wa hijou ni fukuzatsu de, jikan ga kakaru deshou",
         "sentence_simplified": "",
@@ -2050,7 +2050,7 @@
         "key": "複雑"
     },
     {
-        "sentence_japanese": "彼は不幸な事故に遭って亡くなりました。",
+        "sentence_original": "彼は不幸な事故に遭って亡くなりました。",
         "sentence_kanji": "1. 不幸",
         "sentence_romaji": "Kare wa fukou na jiko ni atte nakunarimashita",
         "sentence_simplified": "",
@@ -2060,7 +2060,7 @@
         "key": "不幸"
     },
     {
-        "sentence_japanese": "彼女の不幸な知らせに驚きました。",
+        "sentence_original": "彼女の不幸な知らせに驚きました。",
         "sentence_kanji": "2. 不幸",
         "sentence_romaji": "Kanojo no fukou na shirase ni odorokimashita",
         "sentence_simplified": "",
@@ -2070,7 +2070,7 @@
         "key": "不幸"
     },
     {
-        "sentence_japanese": "最近、彼の家族は連続して不幸な出来事が起こっている。",
+        "sentence_original": "最近、彼の家族は連続して不幸な出来事が起こっている。",
         "sentence_kanji": "3. 不幸",
         "sentence_romaji": "Saikin, kare no kazoku wa renzoku shite fukou na dekigoto ga okotte iru",
         "sentence_simplified": "",
@@ -2080,7 +2080,7 @@
         "key": "不幸"
     },
     {
-        "sentence_japanese": "不幸な状況を切り抜けるために彼は努力しています。",
+        "sentence_original": "不幸な状況を切り抜けるために彼は努力しています。",
         "sentence_kanji": "4. 不幸",
         "sentence_romaji": "Fukou na joukyou o kirinukeru tame ni kare wa doryoku shiteimasu",
         "sentence_simplified": "",
@@ -2090,7 +2090,7 @@
         "key": "不幸"
     },
     {
-        "sentence_japanese": "彼女は経済的な不幸に耐えて、困難を乗り越えました。",
+        "sentence_original": "彼女は経済的な不幸に耐えて、困難を乗り越えました。",
         "sentence_kanji": "5. 不幸",
         "sentence_romaji": "Kanojo wa keizaiteki na fukou ni taete, konnan o norikoemashita",
         "sentence_simplified": "",
@@ -2100,7 +2100,7 @@
         "key": "不幸"
     },
     {
-        "sentence_japanese": "無事に試験に合格しました。",
+        "sentence_original": "無事に試験に合格しました。",
         "sentence_kanji": "1. 無事",
         "sentence_romaji": "Buji ni shiken ni goukaku shimashita",
         "sentence_simplified": "",
@@ -2110,7 +2110,7 @@
         "key": "無事"
     },
     {
-        "sentence_japanese": "無事に旅行から帰宅しました。",
+        "sentence_original": "無事に旅行から帰宅しました。",
         "sentence_kanji": "2. 無事",
         "sentence_romaji": "Buji ni ryokou kara kitaku shimashita",
         "sentence_simplified": "",
@@ -2120,7 +2120,7 @@
         "key": "無事"
     },
     {
-        "sentence_japanese": "子供たちは無事に運動会を終えました。",
+        "sentence_original": "子供たちは無事に運動会を終えました。",
         "sentence_kanji": "3. 無事",
         "sentence_romaji": "Kodomo-tachi wa buji ni undoukai o oemashita",
         "sentence_simplified": "",
@@ -2130,7 +2130,7 @@
         "key": "無事"
     },
     {
-        "sentence_japanese": "友人は手術が無事に済んで退院しました。",
+        "sentence_original": "友人は手術が無事に済んで退院しました。",
         "sentence_kanji": "4. 無事",
         "sentence_romaji": "Yuujin wa shujutsu ga buji ni sunde taiin shimashita",
         "sentence_simplified": "",
@@ -2140,7 +2140,7 @@
         "key": "無事"
     },
     {
-        "sentence_japanese": "地震があったが無事で一安心です。",
+        "sentence_original": "地震があったが無事で一安心です。",
         "sentence_kanji": "5. 無事",
         "sentence_romaji": "Jishin ga atta ga buji de hitoanshin desu",
         "sentence_simplified": "",
@@ -2150,7 +2150,7 @@
         "key": "無事"
     },
     {
-        "sentence_japanese": "不思議な力が働いていると信じている。",
+        "sentence_original": "不思議な力が働いていると信じている。",
         "sentence_kanji": "1. 不思議",
         "sentence_romaji": "Fushigi na chikara ga hataraite iru to shinjite iru",
         "sentence_simplified": "",
@@ -2160,7 +2160,7 @@
         "key": "不思議"
     },
     {
-        "sentence_japanese": "この小説は不思議な世界を描いている。",
+        "sentence_original": "この小説は不思議な世界を描いている。",
         "sentence_kanji": "2. 不思議",
         "sentence_romaji": "Kono shousetsu wa fushigi na sekai o egaite iru",
         "sentence_simplified": "",
@@ -2170,7 +2170,7 @@
         "key": "不思議"
     },
     {
-        "sentence_japanese": "あの子は不思議なことを言って去って行った。",
+        "sentence_original": "あの子は不思議なことを言って去って行った。",
         "sentence_kanji": "3. 不思議",
         "sentence_romaji": "Ano ko wa fushigi na koto o itte satte itta",
         "sentence_simplified": "",
@@ -2180,7 +2180,7 @@
         "key": "不思議"
     },
     {
-        "sentence_japanese": "彼女は不思議な夢を見たと話していた。",
+        "sentence_original": "彼女は不思議な夢を見たと話していた。",
         "sentence_kanji": "4. 不思議",
         "sentence_romaji": "Kanojo wa fushigi na yume o mita to hanashite ita",
         "sentence_simplified": "",
@@ -2190,7 +2190,7 @@
         "key": "不思議"
     },
     {
-        "sentence_japanese": "その新しい技術は不思議なほどに効果的だ。",
+        "sentence_original": "その新しい技術は不思議なほどに効果的だ。",
         "sentence_kanji": "5. 不思議",
         "sentence_romaji": "Sono atarashii gijutsu wa fushigi na hodo ni koukateki da",
         "sentence_simplified": "",
@@ -2200,7 +2200,7 @@
         "key": "不思議"
     },
     {
-        "sentence_japanese": "彼女はその結果に不満を持っていた。",
+        "sentence_original": "彼女はその結果に不満を持っていた。",
         "sentence_kanji": "1. 不満",
         "sentence_romaji": "Kanojo wa sono kekka ni fuman o motte ita.",
         "sentence_simplified": "",
@@ -2210,7 +2210,7 @@
         "key": "不満"
     },
     {
-        "sentence_japanese": "不満がたまると、ストレスを感じるだろう。",
+        "sentence_original": "不満がたまると、ストレスを感じるだろう。",
         "sentence_kanji": "2. 不満",
         "sentence_romaji": "Fuman ga tamaru to, sutoresu o kanjiru darou.",
         "sentence_simplified": "",
@@ -2220,7 +2220,7 @@
         "key": "不満"
     },
     {
-        "sentence_japanese": "彼は昇進のチャンスを逃し、不満を抱いている。",
+        "sentence_original": "彼は昇進のチャンスを逃し、不満を抱いている。",
         "sentence_kanji": "3. 不満",
         "sentence_romaji": "Kare wa shoushin no chansu o nogashi, fuman o idaite iru.",
         "sentence_simplified": "",
@@ -2230,7 +2230,7 @@
         "key": "不満"
     },
     {
-        "sentence_japanese": "この料理には彼女が不満を言った。",
+        "sentence_original": "この料理には彼女が不満を言った。",
         "sentence_kanji": "4. 不満",
         "sentence_romaji": "Kono ryouri ni wa kanojo ga fuman o itta.",
         "sentence_simplified": "",
@@ -2240,7 +2240,7 @@
         "key": "不満"
     },
     {
-        "sentence_japanese": "不満を解消するために、話し合いが必要だ。",
+        "sentence_original": "不満を解消するために、話し合いが必要だ。",
         "sentence_kanji": "5. 不満",
         "sentence_romaji": "Fuman o kaishou suru tame ni, hanashiai ga hitsuyou da.",
         "sentence_simplified": "",
@@ -2250,7 +2250,7 @@
         "key": "不満"
     },
     {
-        "sentence_japanese": "世界中で平和を願っています。",
+        "sentence_original": "世界中で平和を願っています。",
         "sentence_kanji": "1. 平和",
         "sentence_romaji": "Sekaijuu de heiwa o negatte imasu.",
         "sentence_simplified": "",
@@ -2260,7 +2260,7 @@
         "key": "平和"
     },
     {
-        "sentence_japanese": "この国は長年の平和を享受してきました。",
+        "sentence_original": "この国は長年の平和を享受してきました。",
         "sentence_kanji": "2. 平和",
         "sentence_romaji": "Kono kuni wa naganen no heiwa o kyouju shite kimashita.",
         "sentence_simplified": "",
@@ -2270,7 +2270,7 @@
         "key": "平和"
     },
     {
-        "sentence_japanese": "平和のためにみんなで努力しましょう。",
+        "sentence_original": "平和のためにみんなで努力しましょう。",
         "sentence_kanji": "3. 平和",
         "sentence_romaji": "Heiwa no tame ni minna de doryoku shimashou.",
         "sentence_simplified": "",
@@ -2280,7 +2280,7 @@
         "key": "平和"
     },
     {
-        "sentence_japanese": "彼のスピーチは平和への期待を語りました。",
+        "sentence_original": "彼のスピーチは平和への期待を語りました。",
         "sentence_kanji": "4. 平和",
         "sentence_romaji": "Kare no supiichi wa heiwa e no kitai o katari mashita.",
         "sentence_simplified": "",
@@ -2290,7 +2290,7 @@
         "key": "平和"
     },
     {
-        "sentence_japanese": "戦争の終わりが平和をもたらすことを期待します。",
+        "sentence_original": "戦争の終わりが平和をもたらすことを期待します。",
         "sentence_kanji": "5. 平和",
         "sentence_romaji": "Sensou no owari ga heiwa o motarasu koto o kitai shimasu.",
         "sentence_simplified": "",
@@ -2300,7 +2300,7 @@
         "key": "平和"
     },
     {
-        "sentence_japanese": "彼の顔は恥ずかしさで真っ赤になった。",
+        "sentence_original": "彼の顔は恥ずかしさで真っ赤になった。",
         "sentence_kanji": "1. 真っ赤",
         "sentence_romaji": "Kare no kao wa hazukashisa de makka ni natta.",
         "sentence_simplified": "",
@@ -2310,7 +2310,7 @@
         "key": "真っ赤"
     },
     {
-        "sentence_japanese": "夕焼けで空が真っ赤に染まっていた。",
+        "sentence_original": "夕焼けで空が真っ赤に染まっていた。",
         "sentence_kanji": "2. 真っ赤",
         "sentence_romaji": "Yuuyake de sora ga makka ni somatte ita.",
         "sentence_simplified": "",
@@ -2320,7 +2320,7 @@
         "key": "真っ赤"
     },
     {
-        "sentence_japanese": "彼女は真っ赤なドレスを着ていて、とても美しかった。",
+        "sentence_original": "彼女は真っ赤なドレスを着ていて、とても美しかった。",
         "sentence_kanji": "3. 真っ赤",
         "sentence_romaji": "Kanojo wa makka na doresu o kite ite, totemo utsukushikatta.",
         "sentence_simplified": "",
@@ -2330,7 +2330,7 @@
         "key": "真っ赤"
     },
     {
-        "sentence_japanese": "このリンゴは真っ赤で美味しそうだ。",
+        "sentence_original": "このリンゴは真っ赤で美味しそうだ。",
         "sentence_kanji": "4. 真っ赤",
         "sentence_romaji": "Kono ringo wa makka de oishisou da.",
         "sentence_simplified": "",
@@ -2340,7 +2340,7 @@
         "key": "真っ赤"
     },
     {
-        "sentence_japanese": "卒業式で真っ赤な髪飾りをつけた。",
+        "sentence_original": "卒業式で真っ赤な髪飾りをつけた。",
         "sentence_kanji": "5. 真っ赤",
         "sentence_romaji": "Sotsugyoushiki de makka na kamikazari o tsuketa.",
         "sentence_simplified": "",
@@ -2350,7 +2350,7 @@
         "key": "真っ赤"
     },
     {
-        "sentence_japanese": "真っ暗な夜には星がよく見える。",
+        "sentence_original": "真っ暗な夜には星がよく見える。",
         "sentence_kanji": "1. 真っ暗",
         "sentence_romaji": "Makkurana yoru ni wa hoshi ga yoku mieru.",
         "sentence_simplified": "",
@@ -2360,7 +2360,7 @@
         "key": "真っ暗"
     },
     {
-        "sentence_japanese": "電気が消えて部屋が真っ暗になった。",
+        "sentence_original": "電気が消えて部屋が真っ暗になった。",
         "sentence_kanji": "2. 真っ暗",
         "sentence_romaji": "Denki ga kiete heya ga makkura ni natta.",
         "sentence_simplified": "",
@@ -2370,7 +2370,7 @@
         "key": "真っ暗"
     },
     {
-        "sentence_japanese": "洞窟の中は真っ暗で手がほとんど見えなかった。",
+        "sentence_original": "洞窟の中は真っ暗で手がほとんど見えなかった。",
         "sentence_kanji": "3. 真っ暗",
         "sentence_romaji": "Doukutsu no naka wa makkura de te ga hotondo mienakatta.",
         "sentence_simplified": "",
@@ -2380,7 +2380,7 @@
         "key": "真っ暗"
     },
     {
-        "sentence_japanese": "彼女は真っ暗な道を恐る恐る歩いた。",
+        "sentence_original": "彼女は真っ暗な道を恐る恐る歩いた。",
         "sentence_kanji": "4. 真っ暗",
         "sentence_romaji": "Kanojo wa makkura na michi o osoru osoru aruita.",
         "sentence_simplified": "",
@@ -2390,7 +2390,7 @@
         "key": "真っ暗"
     },
     {
-        "sentence_japanese": "真っ暗な部屋で目が慣れるまで時間がかかった。",
+        "sentence_original": "真っ暗な部屋で目が慣れるまで時間がかかった。",
         "sentence_kanji": "5. 真っ暗",
         "sentence_romaji": "Makkura na heya de me ga nareru made jikan ga kakatta.",
         "sentence_simplified": "",
@@ -2400,7 +2400,7 @@
         "key": "真っ暗"
     },
     {
-        "sentence_japanese": "彼の顔が急に真っ青になった。",
+        "sentence_original": "彼の顔が急に真っ青になった。",
         "sentence_kanji": "1. 真っ青",
         "sentence_romaji": "Kare no kao ga kyuu ni massao ni natta",
         "sentence_simplified": "",
@@ -2410,7 +2410,7 @@
         "key": "真っ青"
     },
     {
-        "sentence_japanese": "試験の結果を見て、彼女は真っ青になった。",
+        "sentence_original": "試験の結果を見て、彼女は真っ青になった。",
         "sentence_kanji": "2. 真っ青",
         "sentence_romaji": "Shiken no kekka o mite, kanojo wa massao ni natta",
         "sentence_simplified": "",
@@ -2420,7 +2420,7 @@
         "key": "真っ青"
     },
     {
-        "sentence_japanese": "彼が怖がって顔が真っ青になってしまった。",
+        "sentence_original": "彼が怖がって顔が真っ青になってしまった。",
         "sentence_kanji": "3. 真っ青",
         "sentence_romaji": "Kare ga kowagatte kao ga massao ni natte shimatta",
         "sentence_simplified": "",
@@ -2430,7 +2430,7 @@
         "key": "真っ青"
     },
     {
-        "sentence_japanese": "ドキュメンタリーを見た後、私たちは真っ青になりました。",
+        "sentence_original": "ドキュメンタリーを見た後、私たちは真っ青になりました。",
         "sentence_kanji": "4. 真っ青",
         "sentence_romaji": "Dokyumentarii o mita nochi, watashitachi wa massao ni narimashita",
         "sentence_simplified": "",
@@ -2440,7 +2440,7 @@
         "key": "真っ青"
     },
     {
-        "sentence_japanese": "彼女は恐怖のあまり真っ青な顔をしていた。",
+        "sentence_original": "彼女は恐怖のあまり真っ青な顔をしていた。",
         "sentence_kanji": "5. 真っ青",
         "sentence_romaji": "Kanojo wa kyoufu no amari massao na kao o shite ita",
         "sentence_simplified": "",
@@ -2450,7 +2450,7 @@
         "key": "真っ青"
     },
     {
-        "sentence_japanese": "彼はその仕事にとても満足している。",
+        "sentence_original": "彼はその仕事にとても満足している。",
         "sentence_kanji": "1. 満足",
         "sentence_romaji": "Kare wa sono shigoto ni totemo manzoku shite iru.",
         "sentence_simplified": "",
@@ -2460,7 +2460,7 @@
         "key": "満足"
     },
     {
-        "sentence_japanese": "私たちは昨日の食事に大変満足しました。",
+        "sentence_original": "私たちは昨日の食事に大変満足しました。",
         "sentence_kanji": "2. 満足",
         "sentence_romaji": "Watashitachi wa kinou no shokuji ni taihen manzoku shimashita.",
         "sentence_simplified": "",
@@ -2470,7 +2470,7 @@
         "key": "満足"
     },
     {
-        "sentence_japanese": "このベッドは快適で満足できる。",
+        "sentence_original": "このベッドは快適で満足できる。",
         "sentence_kanji": "3. 満足",
         "sentence_romaji": "Kono beddo wa kaiteki de manzoku dekiru.",
         "sentence_simplified": "",
@@ -2480,7 +2480,7 @@
         "key": "満足"
     },
     {
-        "sentence_japanese": "彼女は自分の成果に満足していません。",
+        "sentence_original": "彼女は自分の成果に満足していません。",
         "sentence_kanji": "4. 満足",
         "sentence_romaji": "Kanojo wa jibun no seika ni manzoku shite imasen.",
         "sentence_simplified": "",
@@ -2490,7 +2490,7 @@
         "key": "満足"
     },
     {
-        "sentence_japanese": "私たちが欲しいものを手に入れたら、何でも満足しないといけません。",
+        "sentence_original": "私たちが欲しいものを手に入れたら、何でも満足しないといけません。",
         "sentence_kanji": "5. 満足",
         "sentence_romaji": "Watashitachi ga hoshii mono o te ni iretara, nandemo manzoku shinai to ikemasen.",
         "sentence_simplified": "",
@@ -2500,7 +2500,7 @@
         "key": "満足"
     },
     {
-        "sentence_japanese": "無駄な時間を過ごさないでください。",
+        "sentence_original": "無駄な時間を過ごさないでください。",
         "sentence_kanji": "1. 無駄",
         "sentence_romaji": "Muda na jikan o sugosanai de kudasai.",
         "sentence_simplified": "",
@@ -2510,7 +2510,7 @@
         "key": "無駄"
     },
     {
-        "sentence_japanese": "無駄な労力を使わないようにしましょう。",
+        "sentence_original": "無駄な労力を使わないようにしましょう。",
         "sentence_kanji": "2. 無駄",
         "sentence_romaji": "Muda na rouryoku o tsukawanai you ni shimashou.",
         "sentence_simplified": "",
@@ -2520,7 +2520,7 @@
         "key": "無駄"
     },
     {
-        "sentence_japanese": "そのプロジェクトは結局無駄な出費となりました。",
+        "sentence_original": "そのプロジェクトは結局無駄な出費となりました。",
         "sentence_kanji": "3. 無駄",
         "sentence_romaji": "Sono purojekuto wa kekkyoku muda na shuppi to narimashita.",
         "sentence_simplified": "",
@@ -2530,7 +2530,7 @@
         "key": "無駄"
     },
     {
-        "sentence_japanese": "無駄なアイテムを買わないで、節約しましょう。",
+        "sentence_original": "無駄なアイテムを買わないで、節約しましょう。",
         "sentence_kanji": "4. 無駄",
         "sentence_romaji": "Muda na aitemu o kawanai de, setsuyaku shimashou.",
         "sentence_simplified": "",
@@ -2540,7 +2540,7 @@
         "key": "無駄"
     },
     {
-        "sentence_japanese": "彼女は自分の行動が無駄だと気づいた。",
+        "sentence_original": "彼女は自分の行動が無駄だと気づいた。",
         "sentence_kanji": "5. 無駄",
         "sentence_romaji": "Kanojo wa jibun no koudou ga muda da to kidzuita.",
         "sentence_simplified": "",
@@ -2550,7 +2550,7 @@
         "key": "無駄"
     },
     {
-        "sentence_japanese": "迷惑な行為をやめてください。",
+        "sentence_original": "迷惑な行為をやめてください。",
         "sentence_kanji": "1. 迷惑",
         "sentence_romaji": "Meiwaku na koui o yamete kudasai",
         "sentence_simplified": "",
@@ -2560,7 +2560,7 @@
         "key": "迷惑"
     },
     {
-        "sentence_japanese": "彼の遅刻は皆に迷惑をかけた。",
+        "sentence_original": "彼の遅刻は皆に迷惑をかけた。",
         "sentence_kanji": "2. 迷惑",
         "sentence_romaji": "Kare no chikoku wa mina ni meiwaku o kaketa",
         "sentence_simplified": "",
@@ -2570,7 +2570,7 @@
         "key": "迷惑"
     },
     {
-        "sentence_japanese": "彼女は私の騒音で迷惑していると言った。",
+        "sentence_original": "彼女は私の騒音で迷惑していると言った。",
         "sentence_kanji": "3. 迷惑",
         "sentence_romaji": "Kanojo wa watashi no souon de meiwaku shiteiru to itta",
         "sentence_simplified": "",
@@ -2580,7 +2580,7 @@
         "key": "迷惑"
     },
     {
-        "sentence_japanese": "電話で迷惑メールを送るのは違法です。",
+        "sentence_original": "電話で迷惑メールを送るのは違法です。",
         "sentence_kanji": "4. 迷惑",
         "sentence_romaji": "Denwa de meiwaku meeru o okuru no wa ihou desu",
         "sentence_simplified": "",
@@ -2590,7 +2590,7 @@
         "key": "迷惑"
     },
     {
-        "sentence_japanese": "通報された迷惑行為は、各自治体で対応されます。",
+        "sentence_original": "通報された迷惑行為は、各自治体で対応されます。",
         "sentence_kanji": "5. 迷惑",
         "sentence_romaji": "Tsuuhou sareta meiwaku koui wa, kaku jichitai de taiou saremasu",
         "sentence_simplified": "",
@@ -2600,7 +2600,7 @@
         "key": "迷惑"
     },
     {
-        "sentence_japanese": "面倒な手続きがたくさんある。",
+        "sentence_original": "面倒な手続きがたくさんある。",
         "sentence_kanji": "1. 面倒",
         "sentence_romaji": "Mendou na tetsuzuki ga takusan aru",
         "sentence_simplified": "",
@@ -2610,7 +2610,7 @@
         "key": "面倒"
     },
     {
-        "sentence_japanese": "彼はいつも面倒な問題を抱え込んでいる。",
+        "sentence_original": "彼はいつも面倒な問題を抱え込んでいる。",
         "sentence_kanji": "2. 面倒",
         "sentence_romaji": "Kare wa itsumo mendou na mondai wo kakaekonde iru",
         "sentence_simplified": "",
@@ -2620,7 +2620,7 @@
         "key": "面倒"
     },
     {
-        "sentence_japanese": "遅刻しないように、駅まで車で送るのは面倒だ。",
+        "sentence_original": "遅刻しないように、駅まで車で送るのは面倒だ。",
         "sentence_kanji": "3. 面倒",
         "sentence_romaji": "Chikoku shinai you ni, eki made kuruma de okuru no wa mendou da",
         "sentence_simplified": "",
@@ -2630,7 +2630,7 @@
         "key": "面倒"
     },
     {
-        "sentence_japanese": "彼女は私の面倒を見てくれると言った。",
+        "sentence_original": "彼女は私の面倒を見てくれると言った。",
         "sentence_kanji": "4. 面倒",
         "sentence_romaji": "Kanojo wa watashi no mendou o mite kureru to itta",
         "sentence_simplified": "",
@@ -2640,7 +2640,7 @@
         "key": "面倒"
     },
     {
-        "sentence_japanese": "給料の手続きは面倒だが、やらなければならない。",
+        "sentence_original": "給料の手続きは面倒だが、やらなければならない。",
         "sentence_kanji": "5. 面倒",
         "sentence_romaji": "Kyuuryou no tetsuzuki wa mendou da ga, yaranakereba naranai",
         "sentence_simplified": "",
@@ -2650,7 +2650,7 @@
         "key": "面倒"
     },
     {
-        "sentence_japanese": "彼は優秀な学生で、いつもクラスで一番の成績を収めています。",
+        "sentence_original": "彼は優秀な学生で、いつもクラスで一番の成績を収めています。",
         "sentence_kanji": "1. 優秀",
         "sentence_romaji": "Kare wa yuushuu na gakusei de, itsumo kurasu de ichiban no seiseki o osameteimasu",
         "sentence_simplified": "",
@@ -2660,7 +2660,7 @@
         "key": "優秀"
     },
     {
-        "sentence_japanese": "この会社では、優秀な従業員が毎年表彰されます。",
+        "sentence_original": "この会社では、優秀な従業員が毎年表彰されます。",
         "sentence_kanji": "2. 優秀",
         "sentence_romaji": "Kono kaisha de wa, yuushuu na juugyouin ga maitoshi hyoushou saremasu",
         "sentence_simplified": "",
@@ -2670,7 +2670,7 @@
         "key": "優秀"
     },
     {
-        "sentence_japanese": "彼女は優秀なリーダーであり、チームが成功するために努力しています。",
+        "sentence_original": "彼女は優秀なリーダーであり、チームが成功するために努力しています。",
         "sentence_kanji": "3. 優秀",
         "sentence_romaji": "Kanojo wa yuushuu na riidaa de ari, chiimu ga seikou suru tame ni doryoku shiteimasu",
         "sentence_simplified": "",
@@ -2680,7 +2680,7 @@
         "key": "優秀"
     },
     {
-        "sentence_japanese": "優秀な技術者が必要な案件に適切に割り当てられることが重要です。",
+        "sentence_original": "優秀な技術者が必要な案件に適切に割り当てられることが重要です。",
         "sentence_kanji": "4. 優秀",
         "sentence_romaji": "Yuushuu na gijutsusha ga hitsuyouna anken ni tekisetsu ni wariaterareru koto ga juuyou desu",
         "sentence_simplified": "",
@@ -2690,7 +2690,7 @@
         "key": "優秀"
     },
     {
-        "sentence_japanese": "彼は非常に優秀なプログラマーで、大変な仕事も素早くこなします。",
+        "sentence_original": "彼は非常に優秀なプログラマーで、大変な仕事も素早くこなします。",
         "sentence_kanji": "5. 優秀",
         "sentence_romaji": "Kare wa hijou ni yuushuu na puroguramaa de, taihen na shigoto mo hayaku konashimasu",
         "sentence_simplified": "",
@@ -2700,7 +2700,7 @@
         "key": "優秀"
     },
     {
-        "sentence_japanese": "豊かな自然環境に恵まれている地域です。",
+        "sentence_original": "豊かな自然環境に恵まれている地域です。",
         "sentence_kanji": "1. 豊か",
         "sentence_romaji": "Yutaka na shizen kankyou ni megumarete iru chiiki desu",
         "sentence_simplified": "",
@@ -2710,7 +2710,7 @@
         "key": "豊か"
     },
     {
-        "sentence_japanese": "彼女は心が豊かな人だと思います。",
+        "sentence_original": "彼女は心が豊かな人だと思います。",
         "sentence_kanji": "2. 豊か",
         "sentence_romaji": "Kanojo wa kokoro ga yutaka na hito da to omoimasu",
         "sentence_simplified": "",
@@ -2720,7 +2720,7 @@
         "key": "豊か"
     },
     {
-        "sentence_japanese": "彼は豊かな知識を持っている教授です。",
+        "sentence_original": "彼は豊かな知識を持っている教授です。",
         "sentence_kanji": "3. 豊か",
         "sentence_romaji": "Kare wa yutaka na chishiki o motte iru kyouju desu",
         "sentence_simplified": "",
@@ -2730,7 +2730,7 @@
         "key": "豊か"
     },
     {
-        "sentence_japanese": "この都市は文化が豊かで魅力的です。",
+        "sentence_original": "この都市は文化が豊かで魅力的です。",
         "sentence_kanji": "4. 豊か",
         "sentence_romaji": "Kono toshi wa bunka ga yutaka de miryokuteki desu",
         "sentence_simplified": "",
@@ -2740,7 +2740,7 @@
         "key": "豊か"
     },
     {
-        "sentence_japanese": "豊かな感性を持つアーティストになりたい。",
+        "sentence_original": "豊かな感性を持つアーティストになりたい。",
         "sentence_kanji": "5. 豊か",
         "sentence_romaji": "Yutaka na kansei o motsu aatisuto ni naritai",
         "sentence_simplified": "",
@@ -2750,7 +2750,7 @@
         "key": "豊か"
     },
     {
-        "sentence_japanese": "余分な食材があるので、それを使って料理を作りましょう。",
+        "sentence_original": "余分な食材があるので、それを使って料理を作りましょう。",
         "sentence_kanji": "1. 余分",
         "sentence_romaji": "Yobun na shokuzai ga aru node, sore o tsukatte ryouri o tsukurimashou",
         "sentence_simplified": "",
@@ -2760,7 +2760,7 @@
         "key": "余分"
     },
     {
-        "sentence_japanese": "このシャツは余分なサイズが大きいので、交換する必要があります。",
+        "sentence_original": "このシャツは余分なサイズが大きいので、交換する必要があります。",
         "sentence_kanji": "2. 余分",
         "sentence_romaji": "Kono shatsu wa yobun na saizu ga ooki node, koukan suru hitsuyou ga arimasu",
         "sentence_simplified": "",
@@ -2770,7 +2770,7 @@
         "key": "余分"
     },
     {
-        "sentence_japanese": "電車が混雑しているので、余分な時間を見積もって出発しましょう。",
+        "sentence_original": "電車が混雑しているので、余分な時間を見積もって出発しましょう。",
         "sentence_kanji": "3. 余分",
         "sentence_romaji": "Densha ga konzatsu shiteiru node, yobun na jikan o mitumotte shuppatsu shimashou",
         "sentence_simplified": "",
@@ -2780,7 +2780,7 @@
         "key": "余分"
     },
     {
-        "sentence_japanese": "試験前に余分な勉強時間を確保することが重要です。",
+        "sentence_original": "試験前に余分な勉強時間を確保することが重要です。",
         "sentence_kanji": "4. 余分",
         "sentence_romaji": "Shiken mae ni yobun na benkyou jikan o kakuho suru koto ga juuyou desu",
         "sentence_simplified": "",
@@ -2790,7 +2790,7 @@
         "key": "余分"
     },
     {
-        "sentence_japanese": "余分なお金があるときには、貯金をしておくことが賢明です。",
+        "sentence_original": "余分なお金があるときには、貯金をしておくことが賢明です。",
         "sentence_kanji": "5. 余分",
         "sentence_romaji": "Yobun na o-kane ga aru toki ni wa, chokin o shite oku koto ga kenmei desu",
         "sentence_simplified": "",
@@ -2800,7 +2800,7 @@
         "key": "余分"
     },
     {
-        "sentence_japanese": "この音楽はとても楽しいです。",
+        "sentence_original": "この音楽はとても楽しいです。",
         "sentence_kanji": "1. 楽",
         "sentence_romaji": "Kono ongaku wa totemo tanoshii desu.",
         "sentence_simplified": "",
@@ -2810,7 +2810,7 @@
         "key": "楽"
     },
     {
-        "sentence_japanese": "彼女は楽器を弾くのが好きです。",
+        "sentence_original": "彼女は楽器を弾くのが好きです。",
         "sentence_kanji": "2. 楽",
         "sentence_romaji": "Kanojo wa gakki o hiku no ga suki desu.",
         "sentence_simplified": "",
@@ -2820,7 +2820,7 @@
         "key": "楽"
     },
     {
-        "sentence_japanese": "楽しかった旅行を思い出します。",
+        "sentence_original": "楽しかった旅行を思い出します。",
         "sentence_kanji": "3. 楽",
         "sentence_romaji": "Tanoshikatta ryokou o omoidesu.",
         "sentence_simplified": "",
@@ -2830,7 +2830,7 @@
         "key": "楽"
     },
     {
-        "sentence_japanese": "友達と話すのは楽だった。",
+        "sentence_original": "友達と話すのは楽だった。",
         "sentence_kanji": "4. 楽",
         "sentence_romaji": "Tomodachi to hanasu no wa raku datta.",
         "sentence_simplified": "",
@@ -2840,7 +2840,7 @@
         "key": "楽"
     },
     {
-        "sentence_japanese": "彼はその仕事を楽にこなしている。",
+        "sentence_original": "彼はその仕事を楽にこなしている。",
         "sentence_kanji": "5. 楽",
         "sentence_romaji": "Kare wa sono shigoto o raku ni konashite iru.",
         "sentence_simplified": "",
@@ -2850,7 +2850,7 @@
         "key": "楽"
     },
     {
-        "sentence_japanese": "わがままな子供はよく親に怒られる。",
+        "sentence_original": "わがままな子供はよく親に怒られる。",
         "sentence_kanji": "1. わがまま",
         "sentence_romaji": "Wagamama na kodomo wa yoku oya ni okorareru",
         "sentence_simplified": "",
@@ -2860,7 +2860,7 @@
         "key": "わがまま"
     },
     {
-        "sentence_japanese": "わがままを言わずに、皆と協力しましょう。",
+        "sentence_original": "わがままを言わずに、皆と協力しましょう。",
         "sentence_kanji": "2. わがまま",
         "sentence_romaji": "Wagamama o iwazu ni, minna to kyouryoku shimashou",
         "sentence_simplified": "",
@@ -2870,7 +2870,7 @@
         "key": "わがまま"
     },
     {
-        "sentence_japanese": "彼女はわがままな性格のため、友達が少ない。",
+        "sentence_original": "彼女はわがままな性格のため、友達が少ない。",
         "sentence_kanji": "3. わがまま",
         "sentence_romaji": "Kanojo wa wagamama na seikaku no tame, tomodachi ga sukunai",
         "sentence_simplified": "",
@@ -2880,7 +2880,7 @@
         "key": "わがまま"
     },
     {
-        "sentence_japanese": "わがままな態度を改めるべきだ。",
+        "sentence_original": "わがままな態度を改めるべきだ。",
         "sentence_kanji": "4. わがまま",
         "sentence_romaji": "Wagamama na taido o aratameru beki da",
         "sentence_simplified": "",
@@ -2890,7 +2890,7 @@
         "key": "わがまま"
     },
     {
-        "sentence_japanese": "わがままばかり言っていると、誰も助けてくれなくなる。",
+        "sentence_original": "わがままばかり言っていると、誰も助けてくれなくなる。",
         "sentence_kanji": "5. わがまま",
         "sentence_romaji": "Wagamama bakari itte iru to, daremo tasukete kurenaku naru",
         "sentence_simplified": "",

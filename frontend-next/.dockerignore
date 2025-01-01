@@ -1,7 +1,7 @@
 # General
-node_modules
+node_modules/
 config.json
-# .next
+#.next/
 # out
 # .build
 # .npm

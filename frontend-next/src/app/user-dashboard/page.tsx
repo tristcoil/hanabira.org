@@ -2,6 +2,7 @@
 
 import { useState } from "react";
 import { useEffect } from "react";
+import { useUser } from "@/context/UserContext";
 
 // import LoginStreakGraph from "@/components/LoginStreakGraph";
 // import LearningProgressFlask from "@/components/LearningProgressFlask";
@@ -47,9 +48,11 @@ const loginData = [
 
 export default function Home() {
   // const [darkMode, setDarkMode] = useState(false);
-  const [loggedIn, setLoggedIn] = useState(false);
-  const [userId, setuserId] = useState("testUser"); // TODO: take it from the cookies
+  //const [loggedIn, setLoggedIn] = useState(false);
+  //const [userId, setuserId] = useState(""); // TODO: take it from the cookies/provider
   //const [userId, setuserId] = useState(null);
+  // Access user context
+  const { userId, loggedIn } = useUser();
 
   const [loginStreakData, setLoginStreakData] = useState<LoginData[]>([]);
   const [loginHistory, setLoginHistory] = useState<LoginData[]>([]);
@@ -59,14 +62,14 @@ export default function Home() {
   const [showEssentialVerbs, setShowEssentialVerbs] = useState(false);
   const [showEssentialSuruVerbs, setShowEssentialSuruVerbs] = useState(false);
 
-  useEffect(() => {
-    const fetchuserId = async () => {
-      const { userId, jwt } = getUserFromCookies();
-      setuserId(userId);
-    };
+  // useEffect(() => {
+  //   const fetchuserId = async () => {
+  //     const { userId, jwt } = getUserFromCookies();
+  //     setuserId(userId);
+  //   };
 
-    fetchuserId();
-  }, []);
+  //   fetchuserId();
+  // }, []);
 
   useEffect(() => {
     // Exit the hook if userId is null, undefined, or an empty string

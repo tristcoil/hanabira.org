@@ -1,6 +1,6 @@
 [
       {
-        "vocabulary_japanese": "細長い",
+        "vocabulary_original": "細長い",
         "vocabulary_simplified": "ほそながい",
         "vocabulary_english": "slender, long and thin (い adj.)",
         "word_type": "Adjective",
@@ -9,7 +9,7 @@
         "s_tag": "i-adjective"
       },
       {
-        "vocabulary_japanese": "もったいない",
+        "vocabulary_original": "もったいない",
         "vocabulary_simplified": "",
         "vocabulary_english": "wasteful (い adj.)",
         "word_type": "Adjective",
@@ -18,7 +18,7 @@
         "s_tag": "i-adjective"
       },
       {
-        "vocabulary_japanese": "濃い",
+        "vocabulary_original": "濃い",
         "vocabulary_simplified": "こい",
         "vocabulary_english": "dark, strong, thick (い adj.)",
         "word_type": "Adjective",
@@ -27,7 +27,7 @@
         "s_tag": "i-adjective"
       },
       {
-        "vocabulary_japanese": "蒸し暑い",
+        "vocabulary_original": "蒸し暑い",
         "vocabulary_simplified": "むしあつい",
         "vocabulary_english": "hot and humid (い adj.)",
         "word_type": "Adjective",
@@ -36,7 +36,7 @@
         "s_tag": "i-adjective"
       },
       {
-        "vocabulary_japanese": "きつい",
+        "vocabulary_original": "きつい",
         "vocabulary_simplified": "",
         "vocabulary_english": "tight (い adj.)",
         "word_type": "Adjective",
@@ -45,7 +45,7 @@
         "s_tag": "i-adjective"
       },
       {
-        "vocabulary_japanese": "偉い",
+        "vocabulary_original": "偉い",
         "vocabulary_simplified": "えらい",
         "vocabulary_english": "great, admirable (い adj.)",
         "word_type": "Adjective",
@@ -54,7 +54,7 @@
         "s_tag": "i-adjective"
       },
       {
-        "vocabulary_japanese": "しかた（が）ない",
+        "vocabulary_original": "しかた（が）ない",
         "vocabulary_simplified": "",
         "vocabulary_english": "there is no other choice, can't be helped (い adj.)",
         "word_type": "Adjective",
@@ -63,7 +63,7 @@
         "s_tag": "i-adjective"
       },
       {
-        "vocabulary_japanese": "おとなしい",
+        "vocabulary_original": "おとなしい",
         "vocabulary_simplified": "",
         "vocabulary_english": "gentle, quiet (い adj.)",
         "word_type": "Adjective",
@@ -72,7 +72,7 @@
         "s_tag": "i-adjective"
       },
       {
-        "vocabulary_japanese": "酸っぱい",
+        "vocabulary_original": "酸っぱい",
         "vocabulary_simplified": "すっぱい",
         "vocabulary_english": "sour (い adj.)",
         "word_type": "Adjective",
@@ -81,7 +81,7 @@
         "s_tag": "i-adjective"
       },
       {
-        "vocabulary_japanese": "悔しい",
+        "vocabulary_original": "悔しい",
         "vocabulary_simplified": "くやしい",
         "vocabulary_english": "frustrating, mortifying (い adj.)",
         "word_type": "Adjective",
@@ -90,7 +90,7 @@
         "s_tag": "i-adjective"
       },
       {
-        "vocabulary_japanese": "四角い",
+        "vocabulary_original": "四角い",
         "vocabulary_simplified": "しかくい",
         "vocabulary_english": "square (い adj.)",
         "word_type": "Adjective",
@@ -99,7 +99,7 @@
         "s_tag": "i-adjective"
       },
       {
-        "vocabulary_japanese": "細かい",
+        "vocabulary_original": "細かい",
         "vocabulary_simplified": "こまかい",
         "vocabulary_english": "small, detailed (い adj.)",
         "word_type": "Adjective",
@@ -108,7 +108,7 @@
         "s_tag": "i-adjective"
       },
       {
-        "vocabulary_japanese": "かゆい",
+        "vocabulary_original": "かゆい",
         "vocabulary_simplified": "",
         "vocabulary_english": "itchy (い adj.)",
         "word_type": "Adjective",
@@ -117,7 +117,7 @@
         "s_tag": "i-adjective"
       },
       {
-        "vocabulary_japanese": "つらい",
+        "vocabulary_original": "つらい",
         "vocabulary_simplified": "",
         "vocabulary_english": "hard, painful (い adj.)",
         "word_type": "Adjective",
@@ -126,7 +126,7 @@
         "s_tag": "i-adjective"
       },
       {
-        "vocabulary_japanese": "貧しい",
+        "vocabulary_original": "貧しい",
         "vocabulary_simplified": "まずしい",
         "vocabulary_english": "poor (い adj.)",
         "word_type": "Adjective",
@@ -135,7 +135,7 @@
         "s_tag": "i-adjective"
       },
       {
-        "vocabulary_japanese": "厳しい",
+        "vocabulary_original": "厳しい",
         "vocabulary_simplified": "きびしい",
         "vocabulary_english": "strict (い adj.)",
         "word_type": "Adjective",
@@ -144,7 +144,7 @@
         "s_tag": "i-adjective"
       },
       {
-        "vocabulary_japanese": "おかしい",
+        "vocabulary_original": "おかしい",
         "vocabulary_simplified": "",
         "vocabulary_english": "strange, wrong (い adj.)",
         "word_type": "Adjective",
@@ -153,7 +153,7 @@
         "s_tag": "i-adjective"
       },
       {
-        "vocabulary_japanese": "ひどい",
+        "vocabulary_original": "ひどい",
         "vocabulary_simplified": "",
         "vocabulary_english": "terrible (い adj.)",
         "word_type": "Adjective",
@@ -162,7 +162,7 @@
         "s_tag": "i-adjective"
       },
       {
-        "vocabulary_japanese": "珍しい",
+        "vocabulary_original": "珍しい",
         "vocabulary_simplified": "めずらしい",
         "vocabulary_english": "rare, unusual (い adj.)",
         "word_type": "Adjective",
@@ -171,7 +171,7 @@
         "s_tag": "i-adjective"
       },
       {
-        "vocabulary_japanese": "懐かしい",
+        "vocabulary_original": "懐かしい",
         "vocabulary_simplified": "なつかしい",
         "vocabulary_english": "nostalgic, dear old days (い adj.)",
         "word_type": "Adjective",
@@ -180,7 +180,7 @@
         "s_tag": "i-adjective"
       },
       {
-        "vocabulary_japanese": "塩辛い",
+        "vocabulary_original": "塩辛い",
         "vocabulary_simplified": "しおからい",
         "vocabulary_english": "salty (い adj.)",
         "word_type": "Adjective",
@@ -189,7 +189,7 @@
         "s_tag": "i-adjective"
       },
       {
-        "vocabulary_japanese": "臭い",
+        "vocabulary_original": "臭い",
         "vocabulary_simplified": "くさい",
         "vocabulary_english": "smelly (い adj.)",
         "word_type": "Adjective",
@@ -198,7 +198,7 @@
         "s_tag": "i-adjective"
       },
       {
-        "vocabulary_japanese": "苦しい",
+        "vocabulary_original": "苦しい",
         "vocabulary_simplified": "くるしい",
         "vocabulary_english": "difficult, painful, hard (い adj.)",
         "word_type": "Adjective",
@@ -207,7 +207,7 @@
         "s_tag": "i-adjective"
       },
       {
-        "vocabulary_japanese": "ぬるい",
+        "vocabulary_original": "ぬるい",
         "vocabulary_simplified": "",
         "vocabulary_english": "lukewarm (い adj.)",
         "word_type": "Adjective",
@@ -216,7 +216,7 @@
         "s_tag": "i-adjective"
       },
       {
-        "vocabulary_japanese": "浅い",
+        "vocabulary_original": "浅い",
         "vocabulary_simplified": "あさい",
         "vocabulary_english": "shallow (い adj.)",
         "word_type": "Adjective",
@@ -225,7 +225,7 @@
         "s_tag": "i-adjective"
       },
       {
-        "vocabulary_japanese": "詳しい",
+        "vocabulary_original": "詳しい",
         "vocabulary_simplified": "くわしい",
         "vocabulary_english": "detailed (い adj.)",
         "word_type": "Adjective",
@@ -234,7 +234,7 @@
         "s_tag": "i-adjective"
       },
       {
-        "vocabulary_japanese": "申し訳ない",
+        "vocabulary_original": "申し訳ない",
         "vocabulary_simplified": "もうしわけない",
         "vocabulary_english": "be sorry (い adj.)",
         "word_type": "Adjective",
@@ -243,7 +243,7 @@
         "s_tag": "i-adjective"
       },
       {
-        "vocabulary_japanese": "恐ろしい",
+        "vocabulary_original": "恐ろしい",
         "vocabulary_simplified": "おそろしい",
         "vocabulary_english": "terrible, awful (い adj.)",
         "word_type": "Adjective",
@@ -252,7 +252,7 @@
         "s_tag": "i-adjective"
       },
       {
-        "vocabulary_japanese": "ものすごい",
+        "vocabulary_original": "ものすごい",
         "vocabulary_simplified": "",
         "vocabulary_english": "terrible (い adj.)",
         "word_type": "Adjective",

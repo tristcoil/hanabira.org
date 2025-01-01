@@ -20,12 +20,12 @@ const GrammarTitles: React.FC<GrammarTitlesProps> = async ({ lang, pTag, slug}) 
   let apiUrl;
   // If REACT_APP_HOST_IP is defined, use it. Otherwise default to localhost:7000 for VM
   // use https when going via reverse proxy since it uses redirection from https in our configs, it is safer
-  // curl -L -k https://localhost/api/v1/grammar-titles?p_tag=JLPT_N3
-  // curl -L -k https://10.0.2.15/api/v1/grammar-titles?p_tag=JLPT_N3
+  // curl -L -k https://localhost/e-api/v1/grammar-titles?p_tag=JLPT_N3
+  // curl -L -k https://10.0.2.15/e-api/v1/grammar-titles?p_tag=JLPT_N3
   if (process.env.REACT_APP_HOST_IP) {
-    apiUrl = `http://${process.env.REACT_APP_HOST_IP}/api/v1/grammar-titles?p_tag=${pTag}`;
+    apiUrl = `http://${process.env.REACT_APP_HOST_IP}:8000/e-api/v1/grammar-titles?p_tag=${pTag}`;
   } else {
-    apiUrl = `http://localhost:8000/api/v1/grammar-titles?p_tag=${pTag}`;
+    apiUrl = `http://localhost:8000/e-api/v1/grammar-titles?p_tag=${pTag}`;
   }
 
 

@@ -17,7 +17,7 @@ const { Schema } = mongoose;
 
 // parent object
 const wordSchema = new Schema({
-  vocabulary_japanese: { type: String, unique: false, required: true },  // we have repeating words, they differ by p_tag in api searches
+  vocabulary_original: { type: String, unique: false, required: true },  // we have repeating words, they differ by p_tag in api searches
   vocabulary_simplified: String,
   vocabulary_english: { type: String, unique: false, required: true },
   vocabulary_audio: String,
@@ -29,8 +29,8 @@ const wordSchema = new Schema({
 
 // child object
 const sentenceSchema = new Schema({
-  // sentence_japanese: { type: String, unique: true, required: true },   // same key can be for N3, N2, N5, they repeat sometimes
-  sentence_japanese: { type: String, unique: false, required: true },
+  // sentence_original: { type: String, unique: true, required: true },   // same key can be for N3, N2, N5, they repeat sometimes
+  sentence_original: { type: String, unique: false, required: true },
   sentence_simplified: String,
   sentence_romaji: String,
   sentence_english: { type: String, required: true },
@@ -74,7 +74,7 @@ const connectToDb = async () => {
 const addSentenceRelationship = async (vocab) => {
   console.log("func processing vocab word: " + vocab);
   try {
-    const word = await Word.findOne({ vocabulary_japanese: vocab });
+    const word = await Word.findOne({ vocabulary_original: vocab });
     const tkt_sentences = await Sentence.find({ key: vocab });
     if (tkt_sentences.length === 0) {
       console.log("No sentences found for the given vocab: " + vocab);
@@ -89,7 +89,7 @@ const addSentenceRelationship = async (vocab) => {
       console.log("populating words: ");
       // console.log("populated word: ");
       const populatedWord = await Word.findOne({
-        vocabulary_japanese: vocab,
+        vocabulary_original: vocab,
       }).populate("sentences");
       // console.log(populatedWord);
     }
@@ -165,7 +165,7 @@ const Sentence = mongoose.model("Sentence", sentenceSchema);
 
     // we need to provide it list of all words we need to create relationships for
     // this can be eventually in different script 
-    const uniqueVocab = await Word.distinct("vocabulary_japanese");
+    const uniqueVocab = await Word.distinct("vocabulary_original");
     const uniqueVocabSet = new Set(uniqueVocab);
     console.log("uniqueVocabSet");
     console.log(uniqueVocabSet);
@@ -186,7 +186,7 @@ const Sentence = mongoose.model("Sentence", sentenceSchema);
   }
   finally {
     // finally block should wait on all async processes in try block
-    //const uniqueVocab = await Word.distinct("vocabulary_japanese");
+    //const uniqueVocab = await Word.distinct("vocabulary_original");
     //const uniqueVocabSet = new Set(uniqueVocab);
     //console.log("uniqueVocabSet");
     //console.log(uniqueVocabSet);

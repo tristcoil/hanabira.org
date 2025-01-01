@@ -440,7 +440,7 @@ export default function Example() {
                       What is new
                     </span>
                     <span className="inline-flex items-center space-x-1 text-sm font-medium text-rose-800">
-                      <span>Just shipped Public Alpha v0.3.5</span>
+                      <span>Just shipped Public Alpha v0.3.6</span>
                       <ChevronRightIcon
                         className="h-5 w-5"
                         aria-hidden="true"
@@ -1838,7 +1838,7 @@ export default function Example() {
                       Majority of the hanabira.org project is open sourced on
                       GitHub. Under MIT License. You can run your own
                       Hanabira server locally on laptop, alternatively you can
-                      spin up Hanabira instance on your servers. Licence allows
+                      spin up Hanabira instance on your servers. License allows
                       even commercial use. Vocabulary and Grammar content is
                       offered under Creative Commons Sharealike License, meaning
                       that you basically just link hanabira.org as source and
@@ -1924,7 +1924,7 @@ export default function Example() {
                     </h2>
                     <p className="mt-4 text-lg text-gray-500">
                       We are offering full content of hanabira under Creative
-                      Commons licence. Currently there are grammar sections for
+                      Commons license. Currently there are grammar sections for
                       Japanese, Korean, Vietnamese and Thai. We also have
                       Japanese vocabulary content with example sentences. Plus
                       streamlined Kanji dataset. Audio is downloadable too.
@@ -2236,6 +2236,10 @@ const testimonials = [
       {
         header: "“The gamification of learning is next-level.”",
         body: "Every time I click something, I get a mysterious error code. Collect them all, and maybe you unlock a secret level. It`s like Pokémon, but for software glitches. Gotta catch `em all!",
+      },
+      {
+        header: "“Hanabira project is going places.”",
+        body: "Not very far, but ... places.",
       },
       // More testimonials...
     ],

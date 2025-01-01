@@ -52,9 +52,9 @@ export default async function GrammarPoint({
   let apiUrl;
   // If REACT_APP_HOST_IP is defined, use it. Otherwise default to localhost:7000 for VM
   if (process.env.REACT_APP_HOST_IP) {
-    apiUrl = `http://${process.env.REACT_APP_HOST_IP}/api/v1/korean/grammar-details`;
+    apiUrl = `http://${process.env.REACT_APP_HOST_IP}:8000/e-api/v1/korean/grammar-details`;
   } else {
-    apiUrl = `http://localhost:8000/api/v1/korean/grammar-details`;
+    apiUrl = `http://localhost:8000/e-api/v1/korean/grammar-details`;
   }
 
 

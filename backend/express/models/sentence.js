@@ -12,7 +12,7 @@ const { Schema } = mongoose;
 
 // child object v2
 const sentenceSchema = new Schema({
-    sentence_japanese: { type: String, unique: true, required: true },
+    sentence_original: { type: String, unique: true, required: true },
     sentence_simplified: String,
     sentence_romaji: String,
     sentence_english: { type: String, required: true },

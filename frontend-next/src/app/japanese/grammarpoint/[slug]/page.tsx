@@ -27,9 +27,9 @@ export default async function GrammarPoint({ params }: GrammarPointProps) {
   let apiUrl;
   // If REACT_APP_HOST_IP is defined, use it; otherwise, default to localhost:8000
   if (process.env.REACT_APP_HOST_IP) {
-    apiUrl = `http://${process.env.REACT_APP_HOST_IP}/api/v1/grammar-details`;
+    apiUrl = `http://${process.env.REACT_APP_HOST_IP}:8000/e-api/v1/grammar-details`;
   } else {
-    apiUrl = `http://localhost:8000/api/v1/grammar-details`;
+    apiUrl = `http://localhost:8000/e-api/v1/grammar-details`;
   }
 
   const payload = { title: decodedTitle };
@@ -170,9 +170,9 @@ export default async function GrammarPoint({ params }: GrammarPointProps) {
 //   let apiUrl;
 //   // If REACT_APP_HOST_IP is defined, use it. Otherwise default to localhost:7000 for VM
 //   if (process.env.REACT_APP_HOST_IP) {
-//     apiUrl = `http://${process.env.REACT_APP_HOST_IP}/api/v1/grammar-details`;
+//     apiUrl = `http://${process.env.REACT_APP_HOST_IP}/e-api/v1/grammar-details`;
 //   } else {
-//     apiUrl = `http://localhost:8000/api/v1/grammar-details`;
+//     apiUrl = `http://localhost:8000/e-api/v1/grammar-details`;
 //   }
 
 

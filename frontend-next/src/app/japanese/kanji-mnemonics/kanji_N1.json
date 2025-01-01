@@ -1,0 +1,4930 @@
+[
+  {
+    "kanji": "氏",
+    "uri": "/kanji/1159-mr-speculum-radical-%E6%B0%8F"
+  },
+  {
+    "kanji": "統",
+    "uri": "/kanji/1252-tradition-%E7%B5%B1"
+  },
+  {
+    "kanji": "保",
+    "uri": "/kanji/362-guaranteemaintain-%E4%BF%9D"
+  },
+  {
+    "kanji": "第",
+    "uri": "/kanji/894-rank-or-number-in-series-%E7%AC%AC"
+  },
+  {
+    "kanji": "結",
+    "uri": "/kanji/250-bind-%E7%B5%90"
+  },
+  {
+    "kanji": "派",
+    "uri": "/kanji/759-factionbling-%E6%B4%BE"
+  },
+  {
+    "kanji": "案",
+    "uri": "/kanji/359-guideproposal-%E6%A1%88"
+  },
+  {
+    "kanji": "策",
+    "uri": "/kanji/343-take-measures-%E7%AD%96"
+  },
+  {
+    "kanji": "基",
+    "uri": "/kanji/1705-basis-%E5%9F%BA"
+  },
+  {
+    "kanji": "価",
+    "uri": "/kanji/580-value-%E4%BE%A1"
+  },
+  {
+    "kanji": "提",
+    "uri": "/kanji/283-submit-a-proposal-%E6%8F%90"
+  },
+  {
+    "kanji": "挙",
+    "uri": "/kanji/1447-raise-cite-mention-%E6%8C%99"
+  },
+  {
+    "kanji": "応",
+    "uri": "/kanji/1128-react-%E5%BF%9C"
+  },
+  {
+    "kanji": "企",
+    "uri": "/kanji/920-scheme-%E4%BC%81"
+  },
+  {
+    "kanji": "検",
+    "uri": "/kanji/416-investigate-%E6%A4%9C"
+  },
+  {
+    "kanji": "藤",
+    "uri": ""
+  },
+  {
+    "kanji": "沢",
+    "uri": "/kanji/292-swamp-bling-%E6%B2%A2"
+  },
+  {
+    "kanji": "裁",
+    "uri": "/kanji/770-trial-%E8%A3%81"
+  },
+  {
+    "kanji": "証",
+    "uri": "/kanji/284-proof-%E8%A8%BC"
+  },
+  {
+    "kanji": "援",
+    "uri": "/kanji/1110-assist-%E6%8F%B4"
+  },
+  {
+    "kanji": "施",
+    "uri": "/kanji/1603-put-into-practice-charity-%E6%96%BD"
+  },
+  {
+    "kanji": "井",
+    "uri": "/kanji/441-well-%E4%BA%95"
+  },
+  {
+    "kanji": "護",
+    "uri": "/kanji/269-defend-%E8%AD%B7"
+  },
+  {
+    "kanji": "展",
+    "uri": "/kanji/1541-exhibit-%E5%B1%95"
+  },
+  {
+    "kanji": "態",
+    "uri": "/kanji/145-looks-like-%E6%85%8B"
+  },
+  {
+    "kanji": "鮮",
+    "uri": "/kanji/870-fresh-%E9%AE%AE"
+  },
+  {
+    "kanji": "視",
+    "uri": "/kanji/1493-peer-at-%E8%A6%96"
+  },
+  {
+    "kanji": "条",
+    "uri": "/kanji/617-clause-%E6%9D%A1"
+  },
+  {
+    "kanji": "幹",
+    "uri": "/kanji/925-trunk-%E5%B9%B9"
+  },
+  {
+    "kanji": "独",
+    "uri": "/kanji/1459-solitary-%E7%8B%AC"
+  },
+  {
+    "kanji": "宮",
+    "uri": "/kanji/1612-palace-%E5%AE%AE"
+  },
+  {
+    "kanji": "率",
+    "uri": "/kanji/1648-ratio-%E7%8E%87"
+  },
+  {
+    "kanji": "衛",
+    "uri": "/kanji/1579-defense-%E8%A1%9B"
+  },
+  {
+    "kanji": "張",
+    "uri": "/kanji/906-stretch-%E5%BC%B5"
+  },
+  {
+    "kanji": "監",
+    "uri": "/kanji/1439-oversee-%E7%9B%A3"
+  },
+  {
+    "kanji": "環",
+    "uri": "/kanji/764-environment-%E7%92%B0"
+  },
+  {
+    "kanji": "審",
+    "uri": "/kanji/396-judge-%E5%AF%A9"
+  },
+  {
+    "kanji": "義",
+    "uri": "/kanji/877-righteousness-%E7%BE%A9"
+  },
+  {
+    "kanji": "訴",
+    "uri": "/kanji/320-accuse-%E8%A8%B4"
+  },
+  {
+    "kanji": "株",
+    "uri": "/kanji/478-share-stock-%E6%A0%AA"
+  },
+  {
+    "kanji": "姿",
+    "uri": "/kanji/957-someones-shape-body-form-%E5%A7%BF"
+  },
+  {
+    "kanji": "閣",
+    "uri": ""
+  },
+  {
+    "kanji": "衆",
+    "uri": "/kanji/1442-populace-%E8%A1%86"
+  },
+  {
+    "kanji": "評",
+    "uri": "/kanji/189-art-or-literary-criticism-%E8%A9%95"
+  },
+  {
+    "kanji": "影",
+    "uri": "/kanji/1115-shadow-%E5%BD%B1"
+  },
+  {
+    "kanji": "松",
+    "uri": "/kanji/348-pine-%E6%9D%BE"
+  },
+  {
+    "kanji": "撃",
+    "uri": "/kanji/1300-charge-%E6%92%83"
+  },
+  {
+    "kanji": "佐",
+    "uri": ""
+  },
+  {
+    "kanji": "核",
+    "uri": "/kanji/1697-nucleus-%E6%A0%B8"
+  },
+  {
+    "kanji": "整",
+    "uri": "/kanji/1340-arrange-%E6%95%B4"
+  },
+  {
+    "kanji": "融",
+    "uri": "/kanji/1742-fusion-%E8%9E%8D"
+  },
+  {
+    "kanji": "製",
+    "uri": "/kanji/806-mass-production-%E8%A3%BD"
+  },
+  {
+    "kanji": "票",
+    "uri": "/kanji/575-ballot-%E7%A5%A8"
+  },
+  {
+    "kanji": "渉",
+    "uri": "/kanji/275-interfere-%E6%B8%89"
+  },
+  {
+    "kanji": "響",
+    "uri": "/kanji/785-echo-%E9%9F%BF"
+  },
+  {
+    "kanji": "推",
+    "uri": "/kanji/295-infer-%E6%8E%A8"
+  },
+  {
+    "kanji": "請",
+    "uri": "/kanji/467-request-%E8%AB%8B"
+  },
+  {
+    "kanji": "器",
+    "uri": "/kanji/403-instrument-%E5%99%A8"
+  },
+  {
+    "kanji": "士",
+    "uri": "/kanji/245-samurai-radical-%E5%A3%AB"
+  },
+  {
+    "kanji": "討",
+    "uri": "/kanji/989-attackdiscuss-%E8%A8%8E"
+  },
+  {
+    "kanji": "攻",
+    "uri": "/kanji/713-attack-%E6%94%BB"
+  },
+  {
+    "kanji": "崎",
+    "uri": ""
+  },
+  {
+    "kanji": "督",
+    "uri": "/kanji/203-supervisor-%E7%9D%A3"
+  },
+  {
+    "kanji": "授",
+    "uri": "/kanji/606-instruct-%E6%8E%88"
+  },
+  {
+    "kanji": "催",
+    "uri": "/kanji/827-sponsor-%E5%82%AC"
+  },
+  {
+    "kanji": "及",
+    "uri": "/kanji/625-reach-amount-to-%E5%8F%8A"
+  },
+  {
+    "kanji": "憲",
+    "uri": "/kanji/465-constitution-%E6%86%B2"
+  },
+  {
+    "kanji": "離",
+    "uri": "/kanji/1042-divorce-physical-distance-between-things-%E9%9B%A2"
+  },
+  {
+    "kanji": "激",
+    "uri": "/kanji/711-intense-%E6%BF%80"
+  },
+  {
+    "kanji": "摘",
+    "uri": "/kanji/718-pluck-%E6%91%98"
+  },
+  {
+    "kanji": "系",
+    "uri": "/kanji/219-group-tribe-%E7%B3%BB"
+  },
+  {
+    "kanji": "批",
+    "uri": "/kanji/298-call-bullshit-on-%E6%89%B9"
+  },
+  {
+    "kanji": "郎",
+    "uri": ""
+  },
+  {
+    "kanji": "健",
+    "uri": "/kanji/1156-healthy-%E5%81%A5"
+  },
+  {
+    "kanji": "盟",
+    "uri": "/kanji/1436-oath-%E7%9B%9F"
+  },
+  {
+    "kanji": "従",
+    "uri": "/kanji/1238-obey-%E5%BE%93"
+  },
+  {
+    "kanji": "修",
+    "uri": "/kanji/1118-master-a-skill-%E4%BF%AE"
+  },
+  {
+    "kanji": "隊",
+    "uri": "/kanji/1228-troop-%E9%9A%8A"
+  },
+  {
+    "kanji": "織",
+    "uri": "/kanji/678-organization-weave-%E7%B9%94"
+  },
+  {
+    "kanji": "拡",
+    "uri": "/kanji/1140-to-expand-%E6%8B%A1"
+  },
+  {
+    "kanji": "故",
+    "uri": "/kanji/707-breakdown-accident-%E6%95%85"
+  },
+  {
+    "kanji": "振",
+    "uri": "/kanji/1176-brandish-pretend-%E6%8C%AF"
+  },
+  {
+    "kanji": "弁",
+    "uri": "/kanji/1528-dialect-%E5%BC%81"
+  },
+  {
+    "kanji": "就",
+    "uri": "/kanji/1693-get-a-job-you-bum-%E5%B0%B1"
+  },
+  {
+    "kanji": "異",
+    "uri": "/kanji/1556-to-differ-%E7%95%B0"
+  },
+  {
+    "kanji": "献",
+    "uri": ""
+  },
+  {
+    "kanji": "厳",
+    "uri": "/kanji/729-strict-%E5%8E%B3"
+  },
+  {
+    "kanji": "維",
+    "uri": "/kanji/265-upkeep-%E7%B6%AD"
+  },
+  {
+    "kanji": "浜",
+    "uri": "/kanji/557-beach-%E6%B5%9C"
+  },
+  {
+    "kanji": "遺",
+    "uri": "/kanji/555-bequeath-%E9%81%BA"
+  },
+  {
+    "kanji": "塁",
+    "uri": ""
+  },
+  {
+    "kanji": "邦",
+    "uri": ""
+  },
+  {
+    "kanji": "素",
+    "uri": "/kanji/464-element-%E7%B4%A0"
+  },
+  {
+    "kanji": "遣",
+    "uri": "/kanji/1617-apply-%E9%81%A3"
+  },
+  {
+    "kanji": "抗",
+    "uri": "/kanji/1283-oppose-%E6%8A%97"
+  },
+  {
+    "kanji": "模",
+    "uri": "/kanji/425-model-%E6%A8%A1"
+  },
+  {
+    "kanji": "雄",
+    "uri": "/kanji/1093-male-animal-or-hero-%E9%9B%84"
+  },
+  {
+    "kanji": "益",
+    "uri": "/kanji/1444-profit-%E7%9B%8A"
+  },
+  {
+    "kanji": "緊",
+    "uri": "/kanji/687-tense-%E7%B7%8A"
+  },
+  {
+    "kanji": "標",
+    "uri": "/kanji/576-sign-mark-%E6%A8%99"
+  },
+  {
+    "kanji": "宣",
+    "uri": "/kanji/130-announce-%E5%AE%A3"
+  },
+  {
+    "kanji": "昭",
+    "uri": "/kanji/167-shining-showa-era-%E6%98%AD"
+  },
+  {
+    "kanji": "廃",
+    "uri": "/kanji/1187-wane-%E5%BB%83"
+  },
+  {
+    "kanji": "伊",
+    "uri": ""
+  },
+  {
+    "kanji": "江",
+    "uri": ""
+  },
+  {
+    "kanji": "僚",
+    "uri": "/kanji/1366-coworker-%E5%83%9A"
+  },
+  {
+    "kanji": "吉",
+    "uri": "/kanji/248-good-omen-%E5%90%89"
+  },
+  {
+    "kanji": "盛",
+    "uri": "/kanji/1437-heaps-of-%E7%9B%9B"
+  },
+  {
+    "kanji": "皇",
+    "uri": "/kanji/448-emperor-%E7%9A%87"
+  },
+  {
+    "kanji": "臨",
+    "uri": "/kanji/690-to-confront-%E8%87%A8"
+  },
+  {
+    "kanji": "踏",
+    "uri": "/kanji/279-tread-on-%E8%B8%8F"
+  },
+  {
+    "kanji": "壊",
+    "uri": "/kanji/1681-break-%E5%A3%8A"
+  },
+  {
+    "kanji": "債",
+    "uri": ""
+  },
+  {
+    "kanji": "興",
+    "uri": "/kanji/1727-interest-%E8%88%88"
+  },
+  {
+    "kanji": "源",
+    "uri": "/kanji/738-hot-spring-origin-%E6%BA%90"
+  },
+  {
+    "kanji": "儀",
+    "uri": "/kanji/878-politeness-%E5%84%80"
+  },
+  {
+    "kanji": "創",
+    "uri": "/kanji/933-originate-creative-%E5%89%B5"
+  },
+  {
+    "kanji": "障",
+    "uri": "/kanji/787-impede-%E9%9A%9C"
+  },
+  {
+    "kanji": "継",
+    "uri": "/kanji/388-succeed-inherit-%E7%B6%99"
+  },
+  {
+    "kanji": "筋",
+    "uri": "/kanji/322-muscle-%E7%AD%8B"
+  },
+  {
+    "kanji": "闘",
+    "uri": "/kanji/999-struggle-%E9%97%98"
+  },
+  {
+    "kanji": "葬",
+    "uri": "/kanji/1526-mourn-%E8%91%AC"
+  },
+  {
+    "kanji": "避",
+    "uri": "/kanji/1361-avoid-dodge-%E9%81%BF"
+  },
+  {
+    "kanji": "司",
+    "uri": "/kanji/978-administer-%E5%8F%B8"
+  },
+  {
+    "kanji": "康",
+    "uri": "/kanji/1663-health-%E5%BA%B7"
+  },
+  {
+    "kanji": "善",
+    "uri": "/kanji/1632-morally-good-%E5%96%84"
+  },
+  {
+    "kanji": "逮",
+    "uri": "/kanji/1662-arrest-%E9%80%AE"
+  },
+  {
+    "kanji": "迫",
+    "uri": "/kanji/330-press-upon-%E8%BF%AB"
+  },
+  {
+    "kanji": "惑",
+    "uri": "/kanji/668-be-misguided-or-tempted-%E6%83%91"
+  },
+  {
+    "kanji": "崩",
+    "uri": "/kanji/828-collapse-%E5%B4%A9"
+  },
+  {
+    "kanji": "紀",
+    "uri": "/kanji/722-century-%E7%B4%80"
+  },
+  {
+    "kanji": "聴",
+    "uri": "/kanji/1680-listen-to-%E8%81%B4"
+  },
+  {
+    "kanji": "脱",
+    "uri": "/kanji/864-get-naked-%E8%84%B1"
+  },
+  {
+    "kanji": "級",
+    "uri": "/kanji/627-level-%E7%B4%9A"
+  },
+  {
+    "kanji": "博",
+    "uri": "/kanji/1017-museum-extensive-%E5%8D%9A"
+  },
+  {
+    "kanji": "締",
+    "uri": "/kanji/640-tighten-%E7%B7%A0"
+  },
+  {
+    "kanji": "救",
+    "uri": "/kanji/726-rescue-%E6%95%91"
+  },
+  {
+    "kanji": "執",
+    "uri": "/kanji/185-to-hella-do-%E5%9F%B7"
+  },
+  {
+    "kanji": "房",
+    "uri": "/kanji/509-wifecluster-%E6%88%BF"
+  },
+  {
+    "kanji": "撤",
+    "uri": "/kanji/1246-withdraw-%E6%92%A4"
+  },
+  {
+    "kanji": "削",
+    "uri": "/kanji/600-whittle-down-%E5%89%8A"
+  },
+  {
+    "kanji": "密",
+    "uri": "/kanji/829-hard-to-see-%E5%AF%86"
+  },
+  {
+    "kanji": "措",
+    "uri": ""
+  },
+  {
+    "kanji": "志",
+    "uri": "/kanji/247-intention-volition-%E5%BF%97"
+  },
+  {
+    "kanji": "載",
+    "uri": "/kanji/1067-appear-in-print-%E8%BC%89"
+  },
+  {
+    "kanji": "陣",
+    "uri": "/kanji/1062-base-%E9%99%A3"
+  },
+  {
+    "kanji": "我",
+    "uri": "/kanji/669-we-%E6%88%91"
+  },
+  {
+    "kanji": "為",
+    "uri": "/kanji/1740-deed-%E7%82%BA"
+  },
+  {
+    "kanji": "抑",
+    "uri": "/kanji/1477-suppress-%E6%8A%91"
+  },
+  {
+    "kanji": "幕",
+    "uri": "/kanji/429-curtain-%E5%B9%95"
+  },
+  {
+    "kanji": "染",
+    "uri": "/kanji/365-dye-%E6%9F%93"
+  },
+  {
+    "kanji": "奈",
+    "uri": ""
+  },
+  {
+    "kanji": "傷",
+    "uri": "/kanji/1207-wound-%E5%82%B7"
+  },
+  {
+    "kanji": "択",
+    "uri": "/kanji/294-select-%E6%8A%9E"
+  },
+  {
+    "kanji": "秀",
+    "uri": "/kanji/621-excel-%E7%A7%80"
+  },
+  {
+    "kanji": "徴",
+    "uri": "/kanji/1243-sign-indication-%E5%BE%B4"
+  },
+  {
+    "kanji": "弾",
+    "uri": "/kanji/899-bullet-play-guitar-bounce-%E5%BC%BE"
+  },
+  {
+    "kanji": "償",
+    "uri": "/kanji/1629-compensate-for-%E5%84%9F"
+  },
+  {
+    "kanji": "功",
+    "uri": "/kanji/648-success-%E5%8A%9F"
+  },
+  {
+    "kanji": "拠",
+    "uri": "/kanji/1288-evidence-which-is-the-basis-for-a-judgment-%E6%8B%A0"
+  },
+  {
+    "kanji": "秘",
+    "uri": "/kanji/370-secret-%E7%A7%98"
+  },
+  {
+    "kanji": "拒",
+    "uri": "/kanji/683-repel-%E6%8B%92"
+  },
+  {
+    "kanji": "刑",
+    "uri": "/kanji/1190-penalty-%E5%88%91"
+  },
+  {
+    "kanji": "塚",
+    "uri": ""
+  },
+  {
+    "kanji": "致",
+    "uri": "/kanji/1255-polite-do-%E8%87%B4"
+  },
+  {
+    "kanji": "繰",
+    "uri": "/kanji/363-spin-%E7%B9%B0"
+  },
+  {
+    "kanji": "尾",
+    "uri": "/kanji/513-tail-%E5%B0%BE"
+  },
+  {
+    "kanji": "描",
+    "uri": "/kanji/296-depict-%E6%8F%8F"
+  },
+  {
+    "kanji": "鈴",
+    "uri": "/kanji/947-tiny-electric-bell-or-buzzer-%E9%88%B4"
+  },
+  {
+    "kanji": "盤",
+    "uri": "/kanji/1452-tray-basis-%E7%9B%A4"
+  },
+  {
+    "kanji": "項",
+    "uri": "/kanji/852-itemparagraph-%E9%A0%85"
+  },
+  {
+    "kanji": "喪",
+    "uri": ""
+  },
+  {
+    "kanji": "伴",
+    "uri": "/kanji/190-accompany-%E4%BC%B4"
+  },
+  {
+    "kanji": "養",
+    "uri": "/kanji/876-cultivate-rear-%E9%A4%8A"
+  },
+  {
+    "kanji": "懸",
+    "uri": "/kanji/1307-suspend-gamble-%E6%87%B8"
+  },
+  {
+    "kanji": "街",
+    "uri": "/kanji/1272-shopping-district-%E8%A1%97"
+  },
+  {
+    "kanji": "契",
+    "uri": "/kanji/455-contract-%E5%A5%91"
+  },
+  {
+    "kanji": "掲",
+    "uri": ""
+  },
+  {
+    "kanji": "躍",
+    "uri": "/kanji/642-jump-%E8%BA%8D"
+  },
+  {
+    "kanji": "棄",
+    "uri": "/kanji/1664-discard-%E6%A3%84"
+  },
+  {
+    "kanji": "邸",
+    "uri": ""
+  },
+  {
+    "kanji": "縮",
+    "uri": "/kanji/818-contract-shrink-%E7%B8%AE"
+  },
+  {
+    "kanji": "還",
+    "uri": ""
+  },
+  {
+    "kanji": "属",
+    "uri": "/kanji/498-genusaffiliation-%E5%B1%9E"
+  },
+  {
+    "kanji": "慮",
+    "uri": "/kanji/1686-consideration-%E6%85%AE"
+  },
+  {
+    "kanji": "枠",
+    "uri": "/kanji/341-boundary-limit-%E6%9E%A0"
+  },
+  {
+    "kanji": "恵",
+    "uri": "/kanji/1021-do-a-favor-%E6%81%B5"
+  },
+  {
+    "kanji": "露",
+    "uri": "/kanji/1393-outdoors-public-%E9%9C%B2"
+  },
+  {
+    "kanji": "沖",
+    "uri": ""
+  },
+  {
+    "kanji": "緩",
+    "uri": "/kanji/1111-become-loose-abate-%E7%B7%A9"
+  },
+  {
+    "kanji": "節",
+    "uri": "/kanji/1473-season-joint-%E7%AF%80"
+  },
+  {
+    "kanji": "需",
+    "uri": "/kanji/1408-demand-%E9%9C%80"
+  },
+  {
+    "kanji": "射",
+    "uri": "/kanji/1596-shoot-%E5%B0%84"
+  },
+  {
+    "kanji": "購",
+    "uri": "/kanji/1568-subscribe-%E8%B3%BC"
+  },
+  {
+    "kanji": "揮",
+    "uri": "/kanji/1069-brandish-%E6%8F%AE"
+  },
+  {
+    "kanji": "充",
+    "uri": "/kanji/1250-fill-up-%E5%85%85"
+  },
+  {
+    "kanji": "貢",
+    "uri": ""
+  },
+  {
+    "kanji": "鹿",
+    "uri": ""
+  },
+  {
+    "kanji": "却",
+    "uri": "/kanji/1468-disregard-%E5%8D%B4"
+  },
+  {
+    "kanji": "端",
+    "uri": "/kanji/1410-the-edge-%E7%AB%AF"
+  },
+  {
+    "kanji": "賃",
+    "uri": "/kanji/541-rent-money-%E8%B3%83"
+  },
+  {
+    "kanji": "獲",
+    "uri": "/kanji/1461-prey-on-get-%E7%8D%B2"
+  },
+  {
+    "kanji": "郡",
+    "uri": ""
+  },
+  {
+    "kanji": "併",
+    "uri": ""
+  },
+  {
+    "kanji": "徹",
+    "uri": "/kanji/1245-do-thoroughly-%E5%BE%B9"
+  },
+  {
+    "kanji": "貴",
+    "uri": "/kanji/554-exalted-%E8%B2%B4"
+  },
+  {
+    "kanji": "衝",
+    "uri": "/kanji/1241-collision-%E8%A1%9D"
+  },
+  {
+    "kanji": "焦",
+    "uri": "/kanji/263-char-scorch-%E7%84%A6"
+  },
+  {
+    "kanji": "奪",
+    "uri": "/kanji/990-steal-by-force-%E5%A5%AA"
+  },
+  {
+    "kanji": "災",
+    "uri": "/kanji/1733-disaster-%E7%81%BD"
+  },
+  {
+    "kanji": "浦",
+    "uri": ""
+  },
+  {
+    "kanji": "析",
+    "uri": "/kanji/342-analyze-%E6%9E%90"
+  },
+  {
+    "kanji": "譲",
+    "uri": "/kanji/1542-concessions-%E8%AD%B2"
+  },
+  {
+    "kanji": "称",
+    "uri": "/kanji/479-symmetry-%E7%A7%B0"
+  },
+  {
+    "kanji": "納",
+    "uri": "/kanji/216-to-supply-%E7%B4%8D"
+  },
+  {
+    "kanji": "樹",
+    "uri": ""
+  },
+  {
+    "kanji": "挑",
+    "uri": "/kanji/1656-challenge-%E6%8C%91"
+  },
+  {
+    "kanji": "誘",
+    "uri": "/kanji/622-invite-entice-%E8%AA%98"
+  },
+  {
+    "kanji": "紛",
+    "uri": "/kanji/217-ambiguous-%E7%B4%9B"
+  },
+  {
+    "kanji": "至",
+    "uri": "/kanji/1253-until-%E8%87%B3"
+  },
+  {
+    "kanji": "宗",
+    "uri": "/kanji/201-religion-%E5%AE%97"
+  },
+  {
+    "kanji": "促",
+    "uri": "/kanji/278-peer-pressure-%E4%BF%83"
+  },
+  {
+    "kanji": "慎",
+    "uri": "/kanji/1305-refrain-be-prudent-%E6%85%8E"
+  },
+  {
+    "kanji": "控",
+    "uri": "/kanji/301-abstain-%E6%8E%A7"
+  },
+  {
+    "kanji": "智",
+    "uri": ""
+  },
+  {
+    "kanji": "握",
+    "uri": "/kanji/1262-grasp-%E6%8F%A1"
+  },
+  {
+    "kanji": "宙",
+    "uri": "/kanji/1376-space-%E5%AE%99"
+  },
+  {
+    "kanji": "俊",
+    "uri": ""
+  },
+  {
+    "kanji": "銭",
+    "uri": "/kanji/1676-coin-%E9%8A%AD"
+  },
+  {
+    "kanji": "渋",
+    "uri": "/kanji/1649-bitter-flavor-%E6%B8%8B"
+  },
+  {
+    "kanji": "銃",
+    "uri": "/kanji/1251-gun-%E9%8A%83"
+  },
+  {
+    "kanji": "操",
+    "uri": "/kanji/364-manipulate-chastity-%E6%93%8D"
+  },
+  {
+    "kanji": "携",
+    "uri": "/kanji/624-carry-in-hand-%E6%90%BA"
+  },
+  {
+    "kanji": "診",
+    "uri": "/kanji/1122-diagnose-%E8%A8%BA"
+  },
+  {
+    "kanji": "託",
+    "uri": ""
+  },
+  {
+    "kanji": "撮",
+    "uri": "/kanji/312-photo-shoot-%E6%92%AE"
+  },
+  {
+    "kanji": "誕",
+    "uri": "/kanji/1158-birthday-birth-%E8%AA%95"
+  },
+  {
+    "kanji": "侵",
+    "uri": "/kanji/630-perpetrate-%E4%BE%B5"
+  },
+  {
+    "kanji": "括",
+    "uri": ""
+  },
+  {
+    "kanji": "謝",
+    "uri": "/kanji/1597-apologize-%E8%AC%9D"
+  },
+  {
+    "kanji": "駆",
+    "uri": "/kanji/681-gallop-%E9%A7%86"
+  },
+  {
+    "kanji": "透",
+    "uri": "/kanji/623-transparent-%E9%80%8F"
+  },
+  {
+    "kanji": "津",
+    "uri": ""
+  },
+  {
+    "kanji": "壁",
+    "uri": "/kanji/1362-wall-%E5%A3%81"
+  },
+  {
+    "kanji": "稲",
+    "uri": ""
+  },
+  {
+    "kanji": "仮",
+    "uri": "/kanji/743-provisional-%E4%BB%AE"
+  },
+  {
+    "kanji": "裂",
+    "uri": "/kanji/1316-tear-up-%E8%A3%82"
+  },
+  {
+    "kanji": "敏",
+    "uri": "/kanji/705-agile-sensitive-%E6%95%8F"
+  },
+  {
+    "kanji": "是",
+    "uri": "/kanji/281-fer-shure-%E6%98%AF"
+  },
+  {
+    "kanji": "排",
+    "uri": "/kanji/1086-eliminate-%E6%8E%92"
+  },
+  {
+    "kanji": "裕",
+    "uri": "/kanji/1518-abundant-%E8%A3%95"
+  },
+  {
+    "kanji": "堅",
+    "uri": "/kanji/686-solid-steadfast-%E5%A0%85"
+  },
+  {
+    "kanji": "訳",
+    "uri": "/kanji/291-reason-translation-%E8%A8%B3"
+  },
+  {
+    "kanji": "芝",
+    "uri": "/kanji/1702-lawn-%E8%8A%9D"
+  },
+  {
+    "kanji": "綱",
+    "uri": ""
+  },
+  {
+    "kanji": "典",
+    "uri": "/kanji/1169-classic-%E5%85%B8"
+  },
+  {
+    "kanji": "賀",
+    "uri": ""
+  },
+  {
+    "kanji": "扱",
+    "uri": "/kanji/628-treatment-%E6%89%B1"
+  },
+  {
+    "kanji": "顧",
+    "uri": "/kanji/850-look-back-on-%E9%A1%A7"
+  },
+  {
+    "kanji": "弘",
+    "uri": ""
+  },
+  {
+    "kanji": "看",
+    "uri": "/kanji/308-observeguard-%E7%9C%8B"
+  },
+  {
+    "kanji": "訟",
+    "uri": "/kanji/138-lawsuit-%E8%A8%9F"
+  },
+  {
+    "kanji": "戒",
+    "uri": "/kanji/1530-admonish-commandment-%E6%88%92"
+  },
+  {
+    "kanji": "祉",
+    "uri": "/kanji/1497-welfare-%E7%A5%89"
+  },
+  {
+    "kanji": "誉",
+    "uri": "/kanji/1446-honor-%E8%AA%89"
+  },
+  {
+    "kanji": "歓",
+    "uri": ""
+  },
+  {
+    "kanji": "奏",
+    "uri": "/kanji/961-musical-performance-%E5%A5%8F"
+  },
+  {
+    "kanji": "勧",
+    "uri": "/kanji/1055-recommend-%E5%8B%A7"
+  },
+  {
+    "kanji": "騒",
+    "uri": "/kanji/496-make-noise-%E9%A8%92"
+  },
+  {
+    "kanji": "閥",
+    "uri": "/kanji/667-clique-%E9%96%A5"
+  },
+  {
+    "kanji": "甲",
+    "uri": "/kanji/1372-turtle-shell-%E7%94%B2"
+  },
+  {
+    "kanji": "縄",
+    "uri": "/kanji/1406-rope-%E7%B8%84"
+  },
+  {
+    "kanji": "郷",
+    "uri": "/kanji/784-ones-hometown-%E9%83%B7"
+  },
+  {
+    "kanji": "揺",
+    "uri": "/kanji/1028-sway-joggle-%E6%8F%BA"
+  },
+  {
+    "kanji": "免",
+    "uri": "/kanji/1211-exemption-license-%E5%85%8D"
+  },
+  {
+    "kanji": "既",
+    "uri": "/kanji/1713-already-%E6%97%A2"
+  },
+  {
+    "kanji": "薦",
+    "uri": ""
+  },
+  {
+    "kanji": "隣",
+    "uri": "/kanji/1583-neighbor-%E9%9A%A3"
+  },
+  {
+    "kanji": "華",
+    "uri": "/kanji/1073-flamboyant-%E8%8F%AF"
+  },
+  {
+    "kanji": "範",
+    "uri": "/kanji/1469-standard-the-best-way-to-do-%E7%AF%84"
+  },
+  {
+    "kanji": "隠",
+    "uri": "/kanji/793-hide-%E9%9A%A0"
+  },
+  {
+    "kanji": "徳",
+    "uri": "/kanji/1683-virtue-%E5%BE%B3"
+  },
+  {
+    "kanji": "哲",
+    "uri": "/kanji/318-philosophy-%E5%93%B2"
+  },
+  {
+    "kanji": "杉",
+    "uri": ""
+  },
+  {
+    "kanji": "釈",
+    "uri": ""
+  },
+  {
+    "kanji": "己",
+    "uri": "/kanji/719-myself-%E5%B7%B1"
+  },
+  {
+    "kanji": "妥",
+    "uri": "/kanji/605-compromise-%E5%A6%A5"
+  },
+  {
+    "kanji": "威",
+    "uri": "/kanji/752-terrible-majesty-%E5%A8%81"
+  },
+  {
+    "kanji": "豪",
+    "uri": "/kanji/1226-luxurious-%E8%B1%AA"
+  },
+  {
+    "kanji": "熊",
+    "uri": "/kanji/144-bear-%E7%86%8A"
+  },
+  {
+    "kanji": "滞",
+    "uri": "/kanji/826-delay-be-overdue-%E6%BB%9E"
+  },
+  {
+    "kanji": "微",
+    "uri": "/kanji/1242-teeny-%E5%BE%AE"
+  },
+  {
+    "kanji": "隆",
+    "uri": ""
+  },
+  {
+    "kanji": "症",
+    "uri": "/kanji/1352-symptom-%E7%97%87"
+  },
+  {
+    "kanji": "暫",
+    "uri": ""
+  },
+  {
+    "kanji": "忠",
+    "uri": "/kanji/490-loyalty-%E5%BF%A0"
+  },
+  {
+    "kanji": "倉",
+    "uri": "/kanji/932-storage-%E5%80%89"
+  },
+  {
+    "kanji": "彦",
+    "uri": ""
+  },
+  {
+    "kanji": "肝",
+    "uri": "/kanji/225-liver-%E8%82%9D"
+  },
+  {
+    "kanji": "喚",
+    "uri": "/kanji/695-exclaim-%E5%96%9A"
+  },
+  {
+    "kanji": "沿",
+    "uri": "/kanji/135-run-parallel-to-%E6%B2%BF"
+  },
+  {
+    "kanji": "妙",
+    "uri": "/kanji/195-odd-%E5%A6%99"
+  },
+  {
+    "kanji": "唱",
+    "uri": "/kanji/26-chant-%E5%94%B1"
+  },
+  {
+    "kanji": "阿",
+    "uri": ""
+  },
+  {
+    "kanji": "索",
+    "uri": "/kanji/215-look-up-%E7%B4%A2"
+  },
+  {
+    "kanji": "誠",
+    "uri": "/kanji/746-sincerity-%E8%AA%A0"
+  },
+  {
+    "kanji": "襲",
+    "uri": "/kanji/1730-onslaught-%E8%A5%B2"
+  },
+  {
+    "kanji": "懇",
+    "uri": ""
+  },
+  {
+    "kanji": "俳",
+    "uri": "/kanji/1085-actor-%E4%BF%B3"
+  },
+  {
+    "kanji": "柄",
+    "uri": "/kanji/1345-pattern-%E6%9F%84"
+  },
+  {
+    "kanji": "驚",
+    "uri": "/kanji/1421-astonish-%E9%A9%9A"
+  },
+  {
+    "kanji": "麻",
+    "uri": "/kanji/1135-mah-jongg-ganja-%E9%BA%BB"
+  },
+  {
+    "kanji": "李",
+    "uri": ""
+  },
+  {
+    "kanji": "浩",
+    "uri": ""
+  },
+  {
+    "kanji": "剤",
+    "uri": "/kanji/170-type-of-medicine-%E5%89%A4"
+  },
+  {
+    "kanji": "瀬",
+    "uri": ""
+  },
+  {
+    "kanji": "趣",
+    "uri": "/kanji/313-hobby-%E8%B6%A3"
+  },
+  {
+    "kanji": "陥",
+    "uri": "/kanji/790-entrapped-%E9%99%A5"
+  },
+  {
+    "kanji": "斎",
+    "uri": ""
+  },
+  {
+    "kanji": "貫",
+    "uri": "/kanji/549-pierce-%E8%B2%AB"
+  },
+  {
+    "kanji": "仙",
+    "uri": ""
+  },
+  {
+    "kanji": "慰",
+    "uri": "/kanji/996-console-%E6%85%B0"
+  },
+  {
+    "kanji": "序",
+    "uri": "/kanji/1330-first-part-preface-%E5%BA%8F"
+  },
+  {
+    "kanji": "旬",
+    "uri": "/kanji/1424-in-season-time-of-month-%E6%97%AC"
+  },
+  {
+    "kanji": "兼",
+    "uri": "/kanji/1671-double-duty-%E5%85%BC"
+  },
+  {
+    "kanji": "聖",
+    "uri": "/kanji/450-holy-%E8%81%96"
+  },
+  {
+    "kanji": "旨",
+    "uri": "/kanji/24-the-gist-%E6%97%A8"
+  },
+  {
+    "kanji": "即",
+    "uri": "/kanji/1472-immediately-%E5%8D%B3"
+  },
+  {
+    "kanji": "柳",
+    "uri": ""
+  },
+  {
+    "kanji": "舎",
+    "uri": "/kanji/926-stable-%E8%88%8E"
+  },
+  {
+    "kanji": "偽",
+    "uri": "/kanji/1741-fake-%E5%81%BD"
+  },
+  {
+    "kanji": "較",
+    "uri": "/kanji/1065-evaluate-%E8%BC%83"
+  },
+  {
+    "kanji": "覇",
+    "uri": ""
+  },
+  {
+    "kanji": "詳",
+    "uri": "/kanji/871-expert-%E8%A9%B3"
+  },
+  {
+    "kanji": "抵",
+    "uri": "/kanji/1164-resist-%E6%8A%B5"
+  },
+  {
+    "kanji": "脅",
+    "uri": "/kanji/178-threaten-%E8%84%85"
+  },
+  {
+    "kanji": "茂",
+    "uri": ""
+  },
+  {
+    "kanji": "犠",
+    "uri": "/kanji/1198-sacrifice-%E7%8A%A0"
+  },
+  {
+    "kanji": "旗",
+    "uri": "/kanji/1704-flag-%E6%97%97"
+  },
+  {
+    "kanji": "距",
+    "uri": "/kanji/684-distance-%E8%B7%9D"
+  },
+  {
+    "kanji": "雅",
+    "uri": "/kanji/1714-elegant-%E9%9B%85"
+  },
+  {
+    "kanji": "飾",
+    "uri": "/kanji/923-decorate-%E9%A3%BE"
+  },
+  {
+    "kanji": "網",
+    "uri": ""
+  },
+  {
+    "kanji": "竜",
+    "uri": "/kanji/1401-dragon-%E7%AB%9C"
+  },
+  {
+    "kanji": "詩",
+    "uri": "/kanji/1001-poem-%E8%A9%A9"
+  },
+  {
+    "kanji": "繁",
+    "uri": "/kanji/712-multiple-many-%E7%B9%81"
+  },
+  {
+    "kanji": "翼",
+    "uri": "/kanji/1557-political-wing-%E7%BF%BC"
+  },
+  {
+    "kanji": "潟",
+    "uri": ""
+  },
+  {
+    "kanji": "敵",
+    "uri": "/kanji/715-enemy-%E6%95%B5"
+  },
+  {
+    "kanji": "魅",
+    "uri": "/kanji/1149-enchant-%E9%AD%85"
+  },
+  {
+    "kanji": "嫌",
+    "uri": "/kanji/1672-eww-%E5%AB%8C"
+  },
+  {
+    "kanji": "斉",
+    "uri": "/kanji/93-unison-%E6%96%89"
+  },
+  {
+    "kanji": "敷",
+    "uri": "/kanji/1022-lay-out-site-%E6%95%B7"
+  },
+  {
+    "kanji": "擁",
+    "uri": ""
+  },
+  {
+    "kanji": "圏",
+    "uri": "/kanji/889-range-area-of-influence-%E5%9C%8F"
+  },
+  {
+    "kanji": "酸",
+    "uri": "/kanji/619-sour-%E9%85%B8"
+  },
+  {
+    "kanji": "罰",
+    "uri": "/kanji/171-punishment-%E7%BD%B0"
+  },
+  {
+    "kanji": "滅",
+    "uri": "/kanji/751-annihilate-%E6%BB%85"
+  },
+  {
+    "kanji": "礎",
+    "uri": "/kanji/822-foundation-%E7%A4%8E"
+  },
+  {
+    "kanji": "腐",
+    "uri": "/kanji/1127-rot-%E8%85%90"
+  },
+  {
+    "kanji": "脚",
+    "uri": ""
+  },
+  {
+    "kanji": "潮",
+    "uri": ""
+  },
+  {
+    "kanji": "梅",
+    "uri": "/kanji/485-plum-%E6%A2%85"
+  },
+  {
+    "kanji": "尽",
+    "uri": "/kanji/953-exhaust-use-up-%E5%B0%BD"
+  },
+  {
+    "kanji": "僕",
+    "uri": "/kanji/1398-me-for-dudes-%E5%83%95"
+  },
+  {
+    "kanji": "桜",
+    "uri": "/kanji/597-sakura-%E6%A1%9C"
+  },
+  {
+    "kanji": "滑",
+    "uri": "/kanji/1646-slippery-%E6%BB%91"
+  },
+  {
+    "kanji": "孤",
+    "uri": "/kanji/1738-isolation-%E5%AD%A4"
+  },
+  {
+    "kanji": "炎",
+    "uri": "/kanji/48-flame-%E7%82%8E"
+  },
+  {
+    "kanji": "賠",
+    "uri": ""
+  },
+  {
+    "kanji": "句",
+    "uri": "/kanji/1418-verse-of-a-poem-%E5%8F%A5"
+  },
+  {
+    "kanji": "鋼",
+    "uri": ""
+  },
+  {
+    "kanji": "頑",
+    "uri": "/kanji/844-stubborn-%E9%A0%91"
+  },
+  {
+    "kanji": "鎖",
+    "uri": "/kanji/914-shutchain-%E9%8E%96"
+  },
+  {
+    "kanji": "彩",
+    "uri": "/kanji/1114-hue-%E5%BD%A9"
+  },
+  {
+    "kanji": "摩",
+    "uri": "/kanji/1136-friction-%E6%91%A9"
+  },
+  {
+    "kanji": "励",
+    "uri": "/kanji/730-diligence-%E5%8A%B1"
+  },
+  {
+    "kanji": "縦",
+    "uri": "/kanji/1239-vertical-%E7%B8%A6"
+  },
+  {
+    "kanji": "輝",
+    "uri": "/kanji/1072-dazzle-%E8%BC%9D"
+  },
+  {
+    "kanji": "蓄",
+    "uri": "/kanji/208-store-or-put-aside-%E8%93%84"
+  },
+  {
+    "kanji": "軸",
+    "uri": ""
+  },
+  {
+    "kanji": "巡",
+    "uri": "/kanji/1732-patrol-%E5%B7%A1"
+  },
+  {
+    "kanji": "稼",
+    "uri": "/kanji/1225-bring-home-the-loot-%E7%A8%BC"
+  },
+  {
+    "kanji": "瞬",
+    "uri": "/kanji/1581-twinkle-tiny-bit-of-time-%E7%9E%AC"
+  },
+  {
+    "kanji": "砲",
+    "uri": "/kanji/1415-cannon-%E7%A0%B2"
+  },
+  {
+    "kanji": "噴",
+    "uri": "/kanji/535-spew-%E5%99%B4"
+  },
+  {
+    "kanji": "誇",
+    "uri": "/kanji/655-be-proud-of-%E8%AA%87"
+  },
+  {
+    "kanji": "祥",
+    "uri": ""
+  },
+  {
+    "kanji": "牲",
+    "uri": "/kanji/1197-sacrificial-victim-%E7%89%B2"
+  },
+  {
+    "kanji": "秩",
+    "uri": ""
+  },
+  {
+    "kanji": "帝",
+    "uri": "/kanji/639-foreign-emperor-%E5%B8%9D"
+  },
+  {
+    "kanji": "宏",
+    "uri": ""
+  },
+  {
+    "kanji": "唆",
+    "uri": ""
+  },
+  {
+    "kanji": "阻",
+    "uri": "/kanji/1486-hamper-%E9%98%BB"
+  },
+  {
+    "kanji": "泰",
+    "uri": ""
+  },
+  {
+    "kanji": "賄",
+    "uri": "/kanji/1102-bribe-provide-capital-to-%E8%B3%84"
+  },
+  {
+    "kanji": "撲",
+    "uri": "/kanji/1399-eradicate-%E6%92%B2"
+  },
+  {
+    "kanji": "堀",
+    "uri": ""
+  },
+  {
+    "kanji": "菊",
+    "uri": ""
+  },
+  {
+    "kanji": "絞",
+    "uri": "/kanji/1014-wring-out-strangle-%E7%B5%9E"
+  },
+  {
+    "kanji": "縁",
+    "uri": "/kanji/1222-rim-omen-%E7%B8%81"
+  },
+  {
+    "kanji": "唯",
+    "uri": "/kanji/266-sole-or-only-%E5%94%AF"
+  },
+  {
+    "kanji": "膨",
+    "uri": "/kanji/840-bulge-%E8%86%A8"
+  },
+  {
+    "kanji": "矢",
+    "uri": "/kanji/1043-arrow-%E7%9F%A2"
+  },
+  {
+    "kanji": "耐",
+    "uri": "/kanji/1409-withstand-%E8%80%90"
+  },
+  {
+    "kanji": "塾",
+    "uri": "/kanji/244-cram-school-%E5%A1%BE"
+  },
+  {
+    "kanji": "漏",
+    "uri": "/kanji/1390-leak-%E6%BC%8F"
+  },
+  {
+    "kanji": "慶",
+    "uri": ""
+  },
+  {
+    "kanji": "猛",
+    "uri": "/kanji/1454-fierce-%E7%8C%9B"
+  },
+  {
+    "kanji": "芳",
+    "uri": ""
+  },
+  {
+    "kanji": "懲",
+    "uri": ""
+  },
+  {
+    "kanji": "剣",
+    "uri": "/kanji/418-saber-%E5%89%A3"
+  },
+  {
+    "kanji": "彰",
+    "uri": ""
+  },
+  {
+    "kanji": "棋",
+    "uri": ""
+  },
+  {
+    "kanji": "丁",
+    "uri": "/kanji/51-nail-%E4%B8%81"
+  },
+  {
+    "kanji": "恒",
+    "uri": ""
+  },
+  {
+    "kanji": "揚",
+    "uri": "/kanji/1205-hoist-deep-fat-fry-%E6%8F%9A"
+  },
+  {
+    "kanji": "冒",
+    "uri": "/kanji/79-dare-%E5%86%92"
+  },
+  {
+    "kanji": "之",
+    "uri": "/kanji/1700-this-%E4%B9%8B"
+  },
+  {
+    "kanji": "倫",
+    "uri": "/kanji/973-principles-%E5%80%AB"
+  },
+  {
+    "kanji": "陳",
+    "uri": ""
+  },
+  {
+    "kanji": "憶",
+    "uri": "/kanji/159-recollect-%E6%86%B6"
+  },
+  {
+    "kanji": "潜",
+    "uri": "/kanji/591-lurk-%E6%BD%9C"
+  },
+  {
+    "kanji": "梨",
+    "uri": ""
+  },
+  {
+    "kanji": "仁",
+    "uri": ""
+  },
+  {
+    "kanji": "克",
+    "uri": "/kanji/527-overcome-%E5%85%8B"
+  },
+  {
+    "kanji": "岳",
+    "uri": "/kanji/833-mount-%E5%B2%B3"
+  },
+  {
+    "kanji": "概",
+    "uri": "/kanji/1715-general-concept-%E6%A6%82"
+  },
+  {
+    "kanji": "拘",
+    "uri": "/kanji/1423-put-in-custody-%E6%8B%98"
+  },
+  {
+    "kanji": "墓",
+    "uri": "/kanji/426-grave-%E5%A2%93"
+  },
+  {
+    "kanji": "黙",
+    "uri": "/kanji/410-shut-up-%E9%BB%99"
+  },
+  {
+    "kanji": "須",
+    "uri": ""
+  },
+  {
+    "kanji": "偏",
+    "uri": "/kanji/970-be-inclined-%E5%81%8F"
+  },
+  {
+    "kanji": "雰",
+    "uri": "/kanji/1392-atmosphere-%E9%9B%B0"
+  },
+  {
+    "kanji": "遇",
+    "uri": ""
+  },
+  {
+    "kanji": "諮",
+    "uri": ""
+  },
+  {
+    "kanji": "狭",
+    "uri": "/kanji/1462-narrow-%E7%8B%AD"
+  },
+  {
+    "kanji": "卓",
+    "uri": "/kanji/124-dinner-table-%E5%8D%93"
+  },
+  {
+    "kanji": "亀",
+    "uri": "/kanji/1405-turtle-%E4%BA%80"
+  },
+  {
+    "kanji": "糧",
+    "uri": ""
+  },
+  {
+    "kanji": "簿",
+    "uri": ""
+  },
+  {
+    "kanji": "炉",
+    "uri": ""
+  },
+  {
+    "kanji": "牧",
+    "uri": ""
+  },
+  {
+    "kanji": "殊",
+    "uri": ""
+  },
+  {
+    "kanji": "殖",
+    "uri": "/kanji/1313-agricultural-breeding-reproduction-%E6%AE%96"
+  },
+  {
+    "kanji": "艦",
+    "uri": ""
+  },
+  {
+    "kanji": "輩",
+    "uri": "/kanji/1082-older-or-younger-colleague-%E8%BC%A9"
+  },
+  {
+    "kanji": "穴",
+    "uri": "/kanji/133-hole-%E7%A9%B4"
+  },
+  {
+    "kanji": "奇",
+    "uri": "/kanji/399-strange-%E5%A5%87"
+  },
+  {
+    "kanji": "慢",
+    "uri": "/kanji/110-neglect-egotistic-%E6%85%A2"
+  },
+  {
+    "kanji": "鶴",
+    "uri": ""
+  },
+  {
+    "kanji": "謀",
+    "uri": "/kanji/518-plot-%E8%AC%80"
+  },
+  {
+    "kanji": "暖",
+    "uri": "/kanji/1109-warm-place-%E6%9A%96"
+  },
+  {
+    "kanji": "昌",
+    "uri": ""
+  },
+  {
+    "kanji": "拍",
+    "uri": "/kanji/306-clap-%E6%8B%8D"
+  },
+  {
+    "kanji": "朗",
+    "uri": ""
+  },
+  {
+    "kanji": "寛",
+    "uri": "/kanji/521-leniency-%E5%AF%9B"
+  },
+  {
+    "kanji": "覆",
+    "uri": ""
+  },
+  {
+    "kanji": "胞",
+    "uri": "/kanji/1413-cell-%E8%83%9E"
+  },
+  {
+    "kanji": "泣",
+    "uri": "/kanji/152-cry-%E6%B3%A3"
+  },
+  {
+    "kanji": "隔",
+    "uri": "/kanji/1743-segregate-%E9%9A%94"
+  },
+  {
+    "kanji": "浄",
+    "uri": ""
+  },
+  {
+    "kanji": "没",
+    "uri": "/kanji/1296-downfall-%E6%B2%A1"
+  },
+  {
+    "kanji": "暇",
+    "uri": "/kanji/1728-free-time-%E6%9A%87"
+  },
+  {
+    "kanji": "肺",
+    "uri": "/kanji/74-lung-%E8%82%BA"
+  },
+  {
+    "kanji": "貞",
+    "uri": "/kanji/542-chastity-%E8%B2%9E"
+  },
+  {
+    "kanji": "靖",
+    "uri": ""
+  },
+  {
+    "kanji": "鑑",
+    "uri": "/kanji/1440-expert-opinion-%E9%91%91"
+  },
+  {
+    "kanji": "飼",
+    "uri": "/kanji/981-keep-a-pet-%E9%A3%BC"
+  },
+  {
+    "kanji": "陰",
+    "uri": "/kanji/1249-shady-%E9%99%B0"
+  },
+  {
+    "kanji": "銘",
+    "uri": ""
+  },
+  {
+    "kanji": "随",
+    "uri": ""
+  },
+  {
+    "kanji": "烈",
+    "uri": "/kanji/1317-violently-intense-%E7%83%88"
+  },
+  {
+    "kanji": "尋",
+    "uri": "/kanji/997-ask-%E5%B0%8B"
+  },
+  {
+    "kanji": "稿",
+    "uri": ""
+  },
+  {
+    "kanji": "丹",
+    "uri": ""
+  },
+  {
+    "kanji": "啓",
+    "uri": ""
+  },
+  {
+    "kanji": "也",
+    "uri": ""
+  },
+  {
+    "kanji": "丘",
+    "uri": "/kanji/317-hill-%E4%B8%98"
+  },
+  {
+    "kanji": "棟",
+    "uri": ""
+  },
+  {
+    "kanji": "壌",
+    "uri": ""
+  },
+  {
+    "kanji": "漫",
+    "uri": "/kanji/111-manga-%E6%BC%AB"
+  },
+  {
+    "kanji": "玄",
+    "uri": "/kanji/206-deep-profound-%E7%8E%84"
+  },
+  {
+    "kanji": "粘",
+    "uri": "/kanji/389-be-sticky-%E7%B2%98"
+  },
+  {
+    "kanji": "悟",
+    "uri": "/kanji/1575-enlightenment-%E6%82%9F"
+  },
+  {
+    "kanji": "舗",
+    "uri": "/kanji/1562-chain-store-%E8%88%97"
+  },
+  {
+    "kanji": "妊",
+    "uri": "/kanji/447-pregnant-%E5%A6%8A"
+  },
+  {
+    "kanji": "熟",
+    "uri": "/kanji/184-get-good-at-%E7%86%9F"
+  },
+  {
+    "kanji": "旭",
+    "uri": ""
+  },
+  {
+    "kanji": "恩",
+    "uri": "/kanji/433-kindness-%E6%81%A9"
+  },
+  {
+    "kanji": "騰",
+    "uri": ""
+  },
+  {
+    "kanji": "往",
+    "uri": "/kanji/1235-depart-%E5%BE%80"
+  },
+  {
+    "kanji": "豆",
+    "uri": "/kanji/837-bean-%E8%B1%86"
+  },
+  {
+    "kanji": "遂",
+    "uri": "/kanji/1227-attain-%E9%81%82"
+  },
+  {
+    "kanji": "狂",
+    "uri": "/kanji/1458-go-nuts-%E7%8B%82"
+  },
+  {
+    "kanji": "岐",
+    "uri": ""
+  },
+  {
+    "kanji": "陛",
+    "uri": ""
+  },
+  {
+    "kanji": "緯",
+    "uri": ""
+  },
+  {
+    "kanji": "培",
+    "uri": ""
+  },
+  {
+    "kanji": "衰",
+    "uri": "/kanji/774-declinewane-%E8%A1%B0"
+  },
+  {
+    "kanji": "艇",
+    "uri": ""
+  },
+  {
+    "kanji": "屈",
+    "uri": "/kanji/1025-yield-get-out-of-the-way-%E5%B1%88"
+  },
+  {
+    "kanji": "径",
+    "uri": "/kanji/1233-diameter-%E5%BE%84"
+  },
+  {
+    "kanji": "淡",
+    "uri": "/kanji/49-faint-%E6%B7%A1"
+  },
+  {
+    "kanji": "抽",
+    "uri": "/kanji/1375-abstract-%E6%8A%BD"
+  },
+  {
+    "kanji": "披",
+    "uri": ""
+  },
+  {
+    "kanji": "廷",
+    "uri": ""
+  },
+  {
+    "kanji": "錦",
+    "uri": ""
+  },
+  {
+    "kanji": "准",
+    "uri": ""
+  },
+  {
+    "kanji": "暑",
+    "uri": "/kanji/260-hot-place-%E6%9A%91"
+  },
+  {
+    "kanji": "磯",
+    "uri": ""
+  },
+  {
+    "kanji": "奨",
+    "uri": ""
+  },
+  {
+    "kanji": "浸",
+    "uri": "/kanji/631-immerse-%E6%B5%B8"
+  },
+  {
+    "kanji": "剰",
+    "uri": "/kanji/1076-excessive-%E5%89%B0"
+  },
+  {
+    "kanji": "胆",
+    "uri": "/kanji/45-gall-bladder-daring-%E8%83%86"
+  },
+  {
+    "kanji": "繊",
+    "uri": ""
+  },
+  {
+    "kanji": "駒",
+    "uri": ""
+  },
+  {
+    "kanji": "虚",
+    "uri": "/kanji/1687-empty-%E8%99%9A"
+  },
+  {
+    "kanji": "霊",
+    "uri": "/kanji/1395-ghost-%E9%9C%8A"
+  },
+  {
+    "kanji": "帳",
+    "uri": "/kanji/907-notebook-%E5%B8%B3"
+  },
+  {
+    "kanji": "悔",
+    "uri": "/kanji/487-regret-%E6%82%94"
+  },
+  {
+    "kanji": "諭",
+    "uri": "/kanji/1357-chide-guide-%E8%AB%AD"
+  },
+  {
+    "kanji": "惨",
+    "uri": "/kanji/1119-wretched-%E6%83%A8"
+  },
+  {
+    "kanji": "虐",
+    "uri": "/kanji/1688-oppress-%E8%99%90"
+  },
+  {
+    "kanji": "翻",
+    "uri": ""
+  },
+  {
+    "kanji": "墜",
+    "uri": ""
+  },
+  {
+    "kanji": "沼",
+    "uri": ""
+  },
+  {
+    "kanji": "据",
+    "uri": ""
+  },
+  {
+    "kanji": "肥",
+    "uri": "/kanji/1218-obese-manure-%E8%82%A5"
+  },
+  {
+    "kanji": "徐",
+    "uri": "/kanji/1230-slowly-%E5%BE%90"
+  },
+  {
+    "kanji": "糖",
+    "uri": "/kanji/1138-sugar-%E7%B3%96"
+  },
+  {
+    "kanji": "搭",
+    "uri": "/kanji/940-board-%E6%90%AD"
+  },
+  {
+    "kanji": "盾",
+    "uri": "/kanji/1303-shield-%E7%9B%BE"
+  },
+  {
+    "kanji": "脈",
+    "uri": "/kanji/760-vein-%E8%84%88"
+  },
+  {
+    "kanji": "滝",
+    "uri": "/kanji/1402-waterfall-%E6%BB%9D"
+  },
+  {
+    "kanji": "軌",
+    "uri": ""
+  },
+  {
+    "kanji": "俵",
+    "uri": ""
+  },
+  {
+    "kanji": "妨",
+    "uri": "/kanji/87-prevent-%E5%A6%A8"
+  },
+  {
+    "kanji": "擦",
+    "uri": "/kanji/1183-chafe-%E6%93%A6"
+  },
+  {
+    "kanji": "鯨",
+    "uri": ""
+  },
+  {
+    "kanji": "荘",
+    "uri": ""
+  },
+  {
+    "kanji": "諾",
+    "uri": ""
+  },
+  {
+    "kanji": "雷",
+    "uri": "/kanji/1388-lightning-%E9%9B%B7"
+  },
+  {
+    "kanji": "漂",
+    "uri": "/kanji/577-drift-%E6%BC%82"
+  },
+  {
+    "kanji": "懐",
+    "uri": "/kanji/1682-nostalgia-%E6%87%90"
+  },
+  {
+    "kanji": "勘",
+    "uri": "/kanji/1709-perception-%E5%8B%98"
+  },
+  {
+    "kanji": "栽",
+    "uri": "/kanji/673-cultivate-%E6%A0%BD"
+  },
+  {
+    "kanji": "拐",
+    "uri": "/kanji/303-kidnap-%E6%8B%90"
+  },
+  {
+    "kanji": "駄",
+    "uri": "/kanji/414-bad-quality-%E9%A7%84"
+  },
+  {
+    "kanji": "添",
+    "uri": "/kanji/881-append-%E6%B7%BB"
+  },
+  {
+    "kanji": "冠",
+    "uri": ""
+  },
+  {
+    "kanji": "斜",
+    "uri": "/kanji/1588-diagonal-%E6%96%9C"
+  },
+  {
+    "kanji": "鏡",
+    "uri": "/kanji/913-mirror-%E9%8F%A1"
+  },
+  {
+    "kanji": "聡",
+    "uri": ""
+  },
+  {
+    "kanji": "浪",
+    "uri": "/kanji/778-wavelike-%E6%B5%AA"
+  },
+  {
+    "kanji": "亜",
+    "uri": "/kanji/112-sub-%E4%BA%9C"
+  },
+  {
+    "kanji": "覧",
+    "uri": "/kanji/689-view-%E8%A6%A7"
+  },
+  {
+    "kanji": "詐",
+    "uri": ""
+  },
+  {
+    "kanji": "壇",
+    "uri": ""
+  },
+  {
+    "kanji": "勲",
+    "uri": ""
+  },
+  {
+    "kanji": "魔",
+    "uri": "/kanji/1148-devil-%E9%AD%94"
+  },
+  {
+    "kanji": "酬",
+    "uri": ""
+  },
+  {
+    "kanji": "紫",
+    "uri": "/kanji/276-purple-%E7%B4%AB"
+  },
+  {
+    "kanji": "曙",
+    "uri": ""
+  },
+  {
+    "kanji": "紋",
+    "uri": ""
+  },
+  {
+    "kanji": "卸",
+    "uri": ""
+  },
+  {
+    "kanji": "奮",
+    "uri": "/kanji/402-get-worked-up-%E5%A5%AE"
+  },
+  {
+    "kanji": "欄",
+    "uri": ""
+  },
+  {
+    "kanji": "逸",
+    "uri": "/kanji/1212-more-or-less-than-normal-%E9%80%B8"
+  },
+  {
+    "kanji": "涯",
+    "uri": "/kanji/1274-lifetime-%E6%B6%AF"
+  },
+  {
+    "kanji": "拓",
+    "uri": ""
+  },
+  {
+    "kanji": "眼",
+    "uri": "/kanji/779-eyeball-%E7%9C%BC"
+  },
+  {
+    "kanji": "獄",
+    "uri": "/kanji/1460-hell-%E7%8D%84"
+  },
+  {
+    "kanji": "尚",
+    "uri": "/kanji/1627-all-the-more-%E5%B0%9A"
+  },
+  {
+    "kanji": "彫",
+    "uri": "/kanji/1638-carve-%E5%BD%AB"
+  },
+  {
+    "kanji": "穏",
+    "uri": "/kanji/629-tranquil-%E7%A9%8F"
+  },
+  {
+    "kanji": "顕",
+    "uri": ""
+  },
+  {
+    "kanji": "巧",
+    "uri": "/kanji/650-adroit-%E5%B7%A7"
+  },
+  {
+    "kanji": "矛",
+    "uri": "/kanji/1333-halberd-%E7%9F%9B"
+  },
+  {
+    "kanji": "垣",
+    "uri": ""
+  },
+  {
+    "kanji": "欺",
+    "uri": "/kanji/1707-dupe-%E6%AC%BA"
+  },
+  {
+    "kanji": "釣",
+    "uri": "/kanji/1431-fishin-%E9%87%A3"
+  },
+  {
+    "kanji": "萩",
+    "uri": ""
+  },
+  {
+    "kanji": "粛",
+    "uri": ""
+  },
+  {
+    "kanji": "栗",
+    "uri": ""
+  },
+  {
+    "kanji": "愚",
+    "uri": "/kanji/1382-dum-diddy-dum-dum-%E6%84%9A"
+  },
+  {
+    "kanji": "嘉",
+    "uri": ""
+  },
+  {
+    "kanji": "遭",
+    "uri": "/kanji/1170-chance-meeting-usually-with-something-bad-%E9%81%AD"
+  },
+  {
+    "kanji": "架",
+    "uri": ""
+  },
+  {
+    "kanji": "鬼",
+    "uri": "/kanji/1147-demon-%E9%AC%BC"
+  },
+  {
+    "kanji": "庶",
+    "uri": "/kanji/1142-populist-%E5%BA%B6"
+  },
+  {
+    "kanji": "稚",
+    "uri": "/kanji/368-childish-%E7%A8%9A"
+  },
+  {
+    "kanji": "滋",
+    "uri": ""
+  },
+  {
+    "kanji": "幻",
+    "uri": "/kanji/982-illusion-%E5%B9%BB"
+  },
+  {
+    "kanji": "煮",
+    "uri": "/kanji/261-simmerstew-%E7%85%AE"
+  },
+  {
+    "kanji": "姫",
+    "uri": "/kanji/691-princess-%E5%A7%AB"
+  },
+  {
+    "kanji": "誓",
+    "uri": "/kanji/319-vow-%E8%AA%93"
+  },
+  {
+    "kanji": "把",
+    "uri": ""
+  },
+  {
+    "kanji": "践",
+    "uri": ""
+  },
+  {
+    "kanji": "呈",
+    "uri": ""
+  },
+  {
+    "kanji": "疎",
+    "uri": "/kanji/1337-shun-%E7%96%8E"
+  },
+  {
+    "kanji": "仰",
+    "uri": "/kanji/1479-pompous-look-up-to-%E4%BB%B0"
+  },
+  {
+    "kanji": "剛",
+    "uri": ""
+  },
+  {
+    "kanji": "疾",
+    "uri": ""
+  },
+  {
+    "kanji": "征",
+    "uri": ""
+  },
+  {
+    "kanji": "砕",
+    "uri": "/kanji/821-pulverize-%E7%A0%95"
+  },
+  {
+    "kanji": "謡",
+    "uri": ""
+  },
+  {
+    "kanji": "嫁",
+    "uri": "/kanji/1224-bride-%E5%AB%81"
+  },
+  {
+    "kanji": "謙",
+    "uri": "/kanji/1674-modesty-%E8%AC%99"
+  },
+  {
+    "kanji": "后",
+    "uri": ""
+  },
+  {
+    "kanji": "嘆",
+    "uri": "/kanji/424-lament-sigh-%E5%98%86"
+  },
+  {
+    "kanji": "菌",
+    "uri": "/kanji/434-bacteria-%E8%8F%8C"
+  },
+  {
+    "kanji": "鎌",
+    "uri": ""
+  },
+  {
+    "kanji": "巣",
+    "uri": "/kanji/595-habitat-%E5%B7%A3"
+  },
+  {
+    "kanji": "頻",
+    "uri": ""
+  },
+  {
+    "kanji": "琴",
+    "uri": ""
+  },
+  {
+    "kanji": "班",
+    "uri": ""
+  },
+  {
+    "kanji": "棚",
+    "uri": "/kanji/347-shelf-%E6%A3%9A"
+  },
+  {
+    "kanji": "潔",
+    "uri": "/kanji/457-honorable-%E6%BD%94"
+  },
+  {
+    "kanji": "酷",
+    "uri": "/kanji/809-horrendous-%E9%85%B7"
+  },
+  {
+    "kanji": "宰",
+    "uri": "/kanji/151-manager-%E5%AE%B0"
+  },
+  {
+    "kanji": "廊",
+    "uri": "/kanji/1124-corridor-%E5%BB%8A"
+  },
+  {
+    "kanji": "寂",
+    "uri": "/kanji/202-lonely-%E5%AF%82"
+  },
+  {
+    "kanji": "辰",
+    "uri": ""
+  },
+  {
+    "kanji": "霞",
+    "uri": ""
+  },
+  {
+    "kanji": "伏",
+    "uri": "/kanji/409-lay-face-down-%E4%BC%8F"
+  },
+  {
+    "kanji": "碁",
+    "uri": ""
+  },
+  {
+    "kanji": "俗",
+    "uri": "/kanji/1520-uncouth-%E4%BF%97"
+  },
+  {
+    "kanji": "漠",
+    "uri": "/kanji/430-desert-%E6%BC%A0"
+  },
+  {
+    "kanji": "邪",
+    "uri": "/kanji/1712-heresy-%E9%82%AA"
+  },
+  {
+    "kanji": "晶",
+    "uri": "/kanji/27-crystal-%E6%99%B6"
+  },
+  {
+    "kanji": "墨",
+    "uri": ""
+  },
+  {
+    "kanji": "鎮",
+    "uri": ""
+  },
+  {
+    "kanji": "洞",
+    "uri": ""
+  },
+  {
+    "kanji": "履",
+    "uri": "/kanji/1516-put-on-pants-or-shoes-%E5%B1%A5"
+  },
+  {
+    "kanji": "劣",
+    "uri": "/kanji/194-inferiority-%E5%8A%A3"
+  },
+  {
+    "kanji": "那",
+    "uri": ""
+  },
+  {
+    "kanji": "殴",
+    "uri": "/kanji/1298-punch-%E6%AE%B4"
+  },
+  {
+    "kanji": "娠",
+    "uri": "/kanji/1175-pregnancy-%E5%A8%A0"
+  },
+  {
+    "kanji": "奉",
+    "uri": ""
+  },
+  {
+    "kanji": "憂",
+    "uri": "/kanji/815-grieve-%E6%86%82"
+  },
+  {
+    "kanji": "朴",
+    "uri": ""
+  },
+  {
+    "kanji": "亭",
+    "uri": "/kanji/81-restaurant-%E4%BA%AD"
+  },
+  {
+    "kanji": "淳",
+    "uri": ""
+  },
+  {
+    "kanji": "怪",
+    "uri": "/kanji/1090-suspicious-%E6%80%AA"
+  },
+  {
+    "kanji": "鳩",
+    "uri": ""
+  },
+  {
+    "kanji": "酔",
+    "uri": "/kanji/579-drunk-%E9%85%94"
+  },
+  {
+    "kanji": "惜",
+    "uri": "/kanji/1544-close-but-no-cigar-%E6%83%9C"
+  },
+  {
+    "kanji": "穫",
+    "uri": ""
+  },
+  {
+    "kanji": "佳",
+    "uri": ""
+  },
+  {
+    "kanji": "潤",
+    "uri": ""
+  },
+  {
+    "kanji": "悼",
+    "uri": ""
+  },
+  {
+    "kanji": "乏",
+    "uri": "/kanji/1701-shoddy-%E4%B9%8F"
+  },
+  {
+    "kanji": "該",
+    "uri": "/kanji/1698-correspond-to-%E8%A9%B2"
+  },
+  {
+    "kanji": "赴",
+    "uri": ""
+  },
+  {
+    "kanji": "桑",
+    "uri": ""
+  },
+  {
+    "kanji": "桂",
+    "uri": ""
+  },
+  {
+    "kanji": "髄",
+    "uri": ""
+  },
+  {
+    "kanji": "虎",
+    "uri": ""
+  },
+  {
+    "kanji": "盆",
+    "uri": ""
+  },
+  {
+    "kanji": "晋",
+    "uri": ""
+  },
+  {
+    "kanji": "穂",
+    "uri": ""
+  },
+  {
+    "kanji": "壮",
+    "uri": "/kanji/799-epic-%E5%A3%AE"
+  },
+  {
+    "kanji": "堤",
+    "uri": ""
+  },
+  {
+    "kanji": "飢",
+    "uri": "/kanji/1286-starve-%E9%A3%A2"
+  },
+  {
+    "kanji": "傍",
+    "uri": ""
+  },
+  {
+    "kanji": "疫",
+    "uri": ""
+  },
+  {
+    "kanji": "累",
+    "uri": ""
+  },
+  {
+    "kanji": "痴",
+    "uri": "/kanji/1351-molester-%E7%97%B4"
+  },
+  {
+    "kanji": "搬",
+    "uri": ""
+  },
+  {
+    "kanji": "晃",
+    "uri": ""
+  },
+  {
+    "kanji": "癒",
+    "uri": "/kanji/1355-cure-%E7%99%92"
+  },
+  {
+    "kanji": "桐",
+    "uri": ""
+  },
+  {
+    "kanji": "寸",
+    "uri": "/kanji/986-glue-glue-%E5%AF%B8"
+  },
+  {
+    "kanji": "郭",
+    "uri": ""
+  },
+  {
+    "kanji": "尿",
+    "uri": "/kanji/502-urine-%E5%B0%BF"
+  },
+  {
+    "kanji": "凶",
+    "uri": "/kanji/1035-terrible-%E5%87%B6"
+  },
+  {
+    "kanji": "吐",
+    "uri": "/kanji/243-puke-%E5%90%90"
+  },
+  {
+    "kanji": "宴",
+    "uri": ""
+  },
+  {
+    "kanji": "鷹",
+    "uri": ""
+  },
+  {
+    "kanji": "賓",
+    "uri": ""
+  },
+  {
+    "kanji": "虜",
+    "uri": ""
+  },
+  {
+    "kanji": "陶",
+    "uri": "/kanji/1425-pottery-%E9%99%B6"
+  },
+  {
+    "kanji": "鐘",
+    "uri": ""
+  },
+  {
+    "kanji": "憾",
+    "uri": "/kanji/756-regrettable-%E6%86%BE"
+  },
+  {
+    "kanji": "猪",
+    "uri": ""
+  },
+  {
+    "kanji": "紘",
+    "uri": ""
+  },
+  {
+    "kanji": "磁",
+    "uri": "/kanji/866-magnet-%E7%A3%81"
+  },
+  {
+    "kanji": "弥",
+    "uri": ""
+  },
+  {
+    "kanji": "昆",
+    "uri": "/kanji/25-insect-%E6%98%86"
+  },
+  {
+    "kanji": "粗",
+    "uri": "/kanji/1487-rough-texture-bad-quality-%E7%B2%97"
+  },
+  {
+    "kanji": "訂",
+    "uri": "/kanji/54-revise-%E8%A8%82"
+  },
+  {
+    "kanji": "芽",
+    "uri": ""
+  },
+  {
+    "kanji": "庄",
+    "uri": ""
+  },
+  {
+    "kanji": "傘",
+    "uri": "/kanji/918-umbrella-%E5%82%98"
+  },
+  {
+    "kanji": "敦",
+    "uri": ""
+  },
+  {
+    "kanji": "騎",
+    "uri": ""
+  },
+  {
+    "kanji": "寧",
+    "uri": ""
+  },
+  {
+    "kanji": "循",
+    "uri": "/kanji/1302-circulate-%E5%BE%AA"
+  },
+  {
+    "kanji": "忍",
+    "uri": "/kanji/173-hide-endure-%E5%BF%8D"
+  },
+  {
+    "kanji": "怠",
+    "uri": "/kanji/142-lazy-%E6%80%A0"
+  },
+  {
+    "kanji": "如",
+    "uri": ""
+  },
+  {
+    "kanji": "寮",
+    "uri": "/kanji/1365-dormitory-%E5%AF%AE"
+  },
+  {
+    "kanji": "祐",
+    "uri": ""
+  },
+  {
+    "kanji": "鵬",
+    "uri": ""
+  },
+  {
+    "kanji": "鉛",
+    "uri": ""
+  },
+  {
+    "kanji": "珠",
+    "uri": ""
+  },
+  {
+    "kanji": "凝",
+    "uri": ""
+  },
+  {
+    "kanji": "苗",
+    "uri": ""
+  },
+  {
+    "kanji": "獣",
+    "uri": "/kanji/598-beast-%E7%8D%A3"
+  },
+  {
+    "kanji": "哀",
+    "uri": "/kanji/773-pitiful-%E5%93%80"
+  },
+  {
+    "kanji": "跳",
+    "uri": "/kanji/1654-leap-up-%E8%B7%B3"
+  },
+  {
+    "kanji": "匠",
+    "uri": "/kanji/692-artisan-%E5%8C%A0"
+  },
+  {
+    "kanji": "垂",
+    "uri": "/kanji/1060-drip-dangle-%E5%9E%82"
+  },
+  {
+    "kanji": "蛇",
+    "uri": "/kanji/494-snake-%E8%9B%87"
+  },
+  {
+    "kanji": "澄",
+    "uri": ""
+  },
+  {
+    "kanji": "縫",
+    "uri": ""
+  },
+  {
+    "kanji": "僧",
+    "uri": "/kanji/1608-buddhist-monk-%E5%83%A7"
+  },
+  {
+    "kanji": "眺",
+    "uri": "/kanji/1655-look-at-for-a-long-time-while-lost-in-thought-%E7%9C%BA"
+  },
+  {
+    "kanji": "亘",
+    "uri": ""
+  },
+  {
+    "kanji": "呉",
+    "uri": "/kanji/1734-wu-dynasty-of-china-%E5%91%89"
+  },
+  {
+    "kanji": "凡",
+    "uri": "/kanji/1289-mediocre-%E5%87%A1"
+  },
+  {
+    "kanji": "憩",
+    "uri": "/kanji/234-break-at-work-%E6%86%A9"
+  },
+  {
+    "kanji": "媛",
+    "uri": ""
+  },
+  {
+    "kanji": "溝",
+    "uri": "/kanji/1569-ditch-%E6%BA%9D"
+  },
+  {
+    "kanji": "恭",
+    "uri": ""
+  },
+  {
+    "kanji": "刈",
+    "uri": ""
+  },
+  {
+    "kanji": "睡",
+    "uri": "/kanji/1074-sleep-%E7%9D%A1"
+  },
+  {
+    "kanji": "錯",
+    "uri": ""
+  },
+  {
+    "kanji": "伯",
+    "uri": ""
+  },
+  {
+    "kanji": "笹",
+    "uri": ""
+  },
+  {
+    "kanji": "穀",
+    "uri": ""
+  },
+  {
+    "kanji": "陵",
+    "uri": ""
+  },
+  {
+    "kanji": "霧",
+    "uri": "/kanji/1384-fog-%E9%9C%A7"
+  },
+  {
+    "kanji": "魂",
+    "uri": "/kanji/1150-soul-%E9%AD%82"
+  },
+  {
+    "kanji": "弊",
+    "uri": ""
+  },
+  {
+    "kanji": "妃",
+    "uri": ""
+  },
+  {
+    "kanji": "舶",
+    "uri": ""
+  },
+  {
+    "kanji": "餓",
+    "uri": ""
+  },
+  {
+    "kanji": "窮",
+    "uri": "/kanji/1598-to-be-in-trouble-%E7%AA%AE"
+  },
+  {
+    "kanji": "掌",
+    "uri": ""
+  },
+  {
+    "kanji": "麗",
+    "uri": "/kanji/1768-gorgeous-%E9%BA%97"
+  },
+  {
+    "kanji": "綾",
+    "uri": ""
+  },
+  {
+    "kanji": "臭",
+    "uri": "/kanji/401-stinky-odor-%E8%87%AD"
+  },
+  {
+    "kanji": "悦",
+    "uri": ""
+  },
+  {
+    "kanji": "刃",
+    "uri": "/kanji/172-blade-%E5%88%83"
+  },
+  {
+    "kanji": "縛",
+    "uri": "/kanji/1018-tie-up-%E7%B8%9B"
+  },
+  {
+    "kanji": "暦",
+    "uri": ""
+  },
+  {
+    "kanji": "宜",
+    "uri": ""
+  },
+  {
+    "kanji": "盲",
+    "uri": "/kanji/107-blind-ignorant-%E7%9B%B2"
+  },
+  {
+    "kanji": "粋",
+    "uri": "/kanji/391-essence-%E7%B2%8B"
+  },
+  {
+    "kanji": "辱",
+    "uri": "/kanji/1174-humiliate-%E8%BE%B1"
+  },
+  {
+    "kanji": "毅",
+    "uri": ""
+  },
+  {
+    "kanji": "轄",
+    "uri": ""
+  },
+  {
+    "kanji": "猿",
+    "uri": "/kanji/1456-monkey-%E7%8C%BF"
+  },
+  {
+    "kanji": "弦",
+    "uri": ""
+  },
+  {
+    "kanji": "稔",
+    "uri": ""
+  },
+  {
+    "kanji": "窒",
+    "uri": ""
+  },
+  {
+    "kanji": "炊",
+    "uri": "/kanji/702-cook-rice-%E7%82%8A"
+  },
+  {
+    "kanji": "洪",
+    "uri": "/kanji/1553-flood-%E6%B4%AA"
+  },
+  {
+    "kanji": "摂",
+    "uri": ""
+  },
+  {
+    "kanji": "飽",
+    "uri": "/kanji/1416-get-sick-of-%E9%A3%BD"
+  },
+  {
+    "kanji": "冗",
+    "uri": "/kanji/1281-joke-%E5%86%97"
+  },
+  {
+    "kanji": "桃",
+    "uri": "/kanji/1657-peach-%E6%A1%83"
+  },
+  {
+    "kanji": "狩",
+    "uri": "/kanji/1457-hunt-%E7%8B%A9"
+  },
+  {
+    "kanji": "朱",
+    "uri": "/kanji/477-vermilion-%E6%9C%B1"
+  },
+  {
+    "kanji": "渦",
+    "uri": ""
+  },
+  {
+    "kanji": "紳",
+    "uri": "/kanji/1369-gentleman-%E7%B4%B3"
+  },
+  {
+    "kanji": "枢",
+    "uri": ""
+  },
+  {
+    "kanji": "碑",
+    "uri": ""
+  },
+  {
+    "kanji": "鍛",
+    "uri": ""
+  },
+  {
+    "kanji": "刀",
+    "uri": "/kanji/164-sword-%E5%88%80"
+  },
+  {
+    "kanji": "鼓",
+    "uri": "/kanji/1322-drum-%E9%BC%93"
+  },
+  {
+    "kanji": "裸",
+    "uri": "/kanji/1510-naked-%E8%A3%B8"
+  },
+  {
+    "kanji": "猶",
+    "uri": ""
+  },
+  {
+    "kanji": "塊",
+    "uri": "/kanji/1152-clump-%E5%A1%8A"
+  },
+  {
+    "kanji": "旋",
+    "uri": ""
+  },
+  {
+    "kanji": "弓",
+    "uri": "/kanji/892-bow-%E5%BC%93"
+  },
+  {
+    "kanji": "幣",
+    "uri": ""
+  },
+  {
+    "kanji": "膜",
+    "uri": ""
+  },
+  {
+    "kanji": "扇",
+    "uri": "/kanji/1537-traditional-fan-%E6%89%87"
+  },
+  {
+    "kanji": "腸",
+    "uri": ""
+  },
+  {
+    "kanji": "槽",
+    "uri": ""
+  },
+  {
+    "kanji": "慈",
+    "uri": ""
+  },
+  {
+    "kanji": "楊",
+    "uri": ""
+  },
+  {
+    "kanji": "伐",
+    "uri": ""
+  },
+  {
+    "kanji": "駿",
+    "uri": ""
+  },
+  {
+    "kanji": "漬",
+    "uri": ""
+  },
+  {
+    "kanji": "糾",
+    "uri": ""
+  },
+  {
+    "kanji": "亮",
+    "uri": ""
+  },
+  {
+    "kanji": "墳",
+    "uri": ""
+  },
+  {
+    "kanji": "坪",
+    "uri": ""
+  },
+  {
+    "kanji": "紺",
+    "uri": ""
+  },
+  {
+    "kanji": "娯",
+    "uri": "/kanji/1736-entertainment-%E5%A8%AF"
+  },
+  {
+    "kanji": "椿",
+    "uri": ""
+  },
+  {
+    "kanji": "舌",
+    "uri": "/kanji/230-tongue-%E8%88%8C"
+  },
+  {
+    "kanji": "羅",
+    "uri": ""
+  },
+  {
+    "kanji": "峡",
+    "uri": ""
+  },
+  {
+    "kanji": "俸",
+    "uri": ""
+  },
+  {
+    "kanji": "厘",
+    "uri": ""
+  },
+  {
+    "kanji": "峰",
+    "uri": ""
+  },
+  {
+    "kanji": "圭",
+    "uri": ""
+  },
+  {
+    "kanji": "醸",
+    "uri": ""
+  },
+  {
+    "kanji": "蓮",
+    "uri": ""
+  },
+  {
+    "kanji": "弔",
+    "uri": ""
+  },
+  {
+    "kanji": "乙",
+    "uri": "/kanji/480-second-rank-girl-%E4%B9%99"
+  },
+  {
+    "kanji": "汁",
+    "uri": "/kanji/39-juice-soup-%E6%B1%81"
+  },
+  {
+    "kanji": "尼",
+    "uri": "/kanji/500-nun-%E5%B0%BC"
+  },
+  {
+    "kanji": "遍",
+    "uri": ""
+  },
+  {
+    "kanji": "衡",
+    "uri": ""
+  },
+  {
+    "kanji": "薫",
+    "uri": ""
+  },
+  {
+    "kanji": "猟",
+    "uri": ""
+  },
+  {
+    "kanji": "羊",
+    "uri": "/kanji/867-sheep-%E7%BE%8A"
+  },
+  {
+    "kanji": "款",
+    "uri": ""
+  },
+  {
+    "kanji": "閲",
+    "uri": ""
+  },
+  {
+    "kanji": "偵",
+    "uri": "/kanji/543-detective-%E5%81%B5"
+  },
+  {
+    "kanji": "喝",
+    "uri": ""
+  },
+  {
+    "kanji": "敢",
+    "uri": ""
+  },
+  {
+    "kanji": "胎",
+    "uri": ""
+  },
+  {
+    "kanji": "酵",
+    "uri": ""
+  },
+  {
+    "kanji": "憤",
+    "uri": "/kanji/534-get-indignant-%E6%86%A4"
+  },
+  {
+    "kanji": "豚",
+    "uri": "/kanji/1219-pig-%E8%B1%9A"
+  },
+  {
+    "kanji": "遮",
+    "uri": ""
+  },
+  {
+    "kanji": "扉",
+    "uri": ""
+  },
+  {
+    "kanji": "硫",
+    "uri": ""
+  },
+  {
+    "kanji": "赦",
+    "uri": ""
+  },
+  {
+    "kanji": "窃",
+    "uri": ""
+  },
+  {
+    "kanji": "泡",
+    "uri": "/kanji/1414-bubble-%E6%B3%A1"
+  },
+  {
+    "kanji": "瑞",
+    "uri": ""
+  },
+  {
+    "kanji": "又",
+    "uri": "/kanji/89-again-crotch-radical-%E5%8F%88"
+  },
+  {
+    "kanji": "慨",
+    "uri": "/kanji/1716-deplore-%E6%85%A8"
+  },
+  {
+    "kanji": "紡",
+    "uri": ""
+  },
+  {
+    "kanji": "恨",
+    "uri": "/kanji/780-hold-a-grudge-%E6%81%A8"
+  },
+  {
+    "kanji": "肪",
+    "uri": "/kanji/88-fatty-food-%E8%82%AA"
+  },
+  {
+    "kanji": "扶",
+    "uri": ""
+  },
+  {
+    "kanji": "戯",
+    "uri": ""
+  },
+  {
+    "kanji": "伍",
+    "uri": ""
+  },
+  {
+    "kanji": "忌",
+    "uri": ""
+  },
+  {
+    "kanji": "濁",
+    "uri": ""
+  },
+  {
+    "kanji": "奔",
+    "uri": ""
+  },
+  {
+    "kanji": "斗",
+    "uri": ""
+  },
+  {
+    "kanji": "蘭",
+    "uri": ""
+  },
+  {
+    "kanji": "迅",
+    "uri": ""
+  },
+  {
+    "kanji": "肖",
+    "uri": "/kanji/599-carrot-%E8%82%96"
+  },
+  {
+    "kanji": "鉢",
+    "uri": ""
+  },
+  {
+    "kanji": "朽",
+    "uri": ""
+  },
+  {
+    "kanji": "殻",
+    "uri": ""
+  },
+  {
+    "kanji": "享",
+    "uri": ""
+  },
+  {
+    "kanji": "秦",
+    "uri": ""
+  },
+  {
+    "kanji": "茅",
+    "uri": ""
+  },
+  {
+    "kanji": "藩",
+    "uri": ""
+  },
+  {
+    "kanji": "沙",
+    "uri": ""
+  },
+  {
+    "kanji": "輔",
+    "uri": ""
+  },
+  {
+    "kanji": "媒",
+    "uri": ""
+  },
+  {
+    "kanji": "鶏",
+    "uri": ""
+  },
+  {
+    "kanji": "禅",
+    "uri": ""
+  },
+  {
+    "kanji": "嘱",
+    "uri": ""
+  },
+  {
+    "kanji": "胴",
+    "uri": ""
+  },
+  {
+    "kanji": "迭",
+    "uri": ""
+  },
+  {
+    "kanji": "挿",
+    "uri": "/kanji/307-insert-%E6%8C%BF"
+  },
+  {
+    "kanji": "嵐",
+    "uri": ""
+  },
+  {
+    "kanji": "椎",
+    "uri": ""
+  },
+  {
+    "kanji": "絹",
+    "uri": "/kanji/218-silk-%E7%B5%B9"
+  },
+  {
+    "kanji": "陪",
+    "uri": ""
+  },
+  {
+    "kanji": "剖",
+    "uri": "/kanji/796-dissect-%E5%89%96"
+  },
+  {
+    "kanji": "譜",
+    "uri": ""
+  },
+  {
+    "kanji": "郁",
+    "uri": ""
+  },
+  {
+    "kanji": "悠",
+    "uri": ""
+  },
+  {
+    "kanji": "淑",
+    "uri": ""
+  },
+  {
+    "kanji": "帆",
+    "uri": ""
+  },
+  {
+    "kanji": "暁",
+    "uri": ""
+  },
+  {
+    "kanji": "傑",
+    "uri": ""
+  },
+  {
+    "kanji": "楠",
+    "uri": ""
+  },
+  {
+    "kanji": "笛",
+    "uri": ""
+  },
+  {
+    "kanji": "玲",
+    "uri": ""
+  },
+  {
+    "kanji": "奴",
+    "uri": "/kanji/91-servant-dood-%E5%A5%B4"
+  },
+  {
+    "kanji": "錠",
+    "uri": ""
+  },
+  {
+    "kanji": "拳",
+    "uri": ""
+  },
+  {
+    "kanji": "翔",
+    "uri": ""
+  },
+  {
+    "kanji": "遷",
+    "uri": ""
+  },
+  {
+    "kanji": "拙",
+    "uri": ""
+  },
+  {
+    "kanji": "侍",
+    "uri": "/kanji/1004-samurai-kanji-%E4%BE%8D"
+  },
+  {
+    "kanji": "尺",
+    "uri": "/kanji/288-r-for-rock-%E5%B0%BA"
+  },
+  {
+    "kanji": "峠",
+    "uri": ""
+  },
+  {
+    "kanji": "篤",
+    "uri": ""
+  },
+  {
+    "kanji": "肇",
+    "uri": ""
+  },
+  {
+    "kanji": "渇",
+    "uri": "/kanji/1427-thirsty-%E6%B8%87"
+  },
+  {
+    "kanji": "叔",
+    "uri": ""
+  },
+  {
+    "kanji": "雌",
+    "uri": "/kanji/272-your-moms-%E9%9B%8C"
+  },
+  {
+    "kanji": "亨",
+    "uri": ""
+  },
+  {
+    "kanji": "堪",
+    "uri": "/kanji/1710-tolerate-%E5%A0%AA"
+  },
+  {
+    "kanji": "叙",
+    "uri": ""
+  },
+  {
+    "kanji": "酢",
+    "uri": ""
+  },
+  {
+    "kanji": "吟",
+    "uri": ""
+  },
+  {
+    "kanji": "逓",
+    "uri": ""
+  },
+  {
+    "kanji": "嶺",
+    "uri": ""
+  },
+  {
+    "kanji": "甚",
+    "uri": "/kanji/1708-enormous-%E7%94%9A"
+  },
+  {
+    "kanji": "喬",
+    "uri": ""
+  },
+  {
+    "kanji": "崇",
+    "uri": ""
+  },
+  {
+    "kanji": "漆",
+    "uri": ""
+  },
+  {
+    "kanji": "岬",
+    "uri": ""
+  },
+  {
+    "kanji": "癖",
+    "uri": "/kanji/1360-bad-habit-%E7%99%96"
+  },
+  {
+    "kanji": "愉",
+    "uri": "/kanji/1356-pleasure-%E6%84%89"
+  },
+  {
+    "kanji": "寅",
+    "uri": ""
+  },
+  {
+    "kanji": "礁",
+    "uri": ""
+  },
+  {
+    "kanji": "乃",
+    "uri": ""
+  },
+  {
+    "kanji": "洲",
+    "uri": ""
+  },
+  {
+    "kanji": "屯",
+    "uri": "/kanji/1717-bent-dagger-%E5%B1%AF"
+  },
+  {
+    "kanji": "樺",
+    "uri": ""
+  },
+  {
+    "kanji": "槙",
+    "uri": ""
+  },
+  {
+    "kanji": "姻",
+    "uri": ""
+  },
+  {
+    "kanji": "巌",
+    "uri": ""
+  },
+  {
+    "kanji": "擬",
+    "uri": "/kanji/1045-sham-%E6%93%AC"
+  },
+  {
+    "kanji": "塀",
+    "uri": ""
+  },
+  {
+    "kanji": "唇",
+    "uri": "/kanji/1177-lips-%E5%94%87"
+  },
+  {
+    "kanji": "睦",
+    "uri": ""
+  },
+  {
+    "kanji": "閑",
+    "uri": ""
+  },
+  {
+    "kanji": "胡",
+    "uri": ""
+  },
+  {
+    "kanji": "幽",
+    "uri": "/kanji/830-occult-%E5%B9%BD"
+  },
+  {
+    "kanji": "峻",
+    "uri": ""
+  },
+  {
+    "kanji": "曹",
+    "uri": ""
+  },
+  {
+    "kanji": "詠",
+    "uri": ""
+  },
+  {
+    "kanji": "卑",
+    "uri": "/kanji/1153-despicable-%E5%8D%91"
+  },
+  {
+    "kanji": "侮",
+    "uri": "/kanji/488-despise-%E4%BE%AE"
+  },
+  {
+    "kanji": "鋳",
+    "uri": ""
+  },
+  {
+    "kanji": "抹",
+    "uri": ""
+  },
+  {
+    "kanji": "尉",
+    "uri": ""
+  },
+  {
+    "kanji": "槻",
+    "uri": ""
+  },
+  {
+    "kanji": "隷",
+    "uri": ""
+  },
+  {
+    "kanji": "禍",
+    "uri": ""
+  },
+  {
+    "kanji": "蝶",
+    "uri": ""
+  },
+  {
+    "kanji": "酪",
+    "uri": ""
+  },
+  {
+    "kanji": "茎",
+    "uri": ""
+  },
+  {
+    "kanji": "帥",
+    "uri": ""
+  },
+  {
+    "kanji": "逝",
+    "uri": ""
+  },
+  {
+    "kanji": "汽",
+    "uri": ""
+  },
+  {
+    "kanji": "琢",
+    "uri": ""
+  },
+  {
+    "kanji": "匿",
+    "uri": ""
+  },
+  {
+    "kanji": "襟",
+    "uri": ""
+  },
+  {
+    "kanji": "蛍",
+    "uri": ""
+  },
+  {
+    "kanji": "蕉",
+    "uri": ""
+  },
+  {
+    "kanji": "寡",
+    "uri": ""
+  },
+  {
+    "kanji": "琉",
+    "uri": ""
+  },
+  {
+    "kanji": "痢",
+    "uri": "/kanji/1350-diarrhea-%E7%97%A2"
+  },
+  {
+    "kanji": "庸",
+    "uri": ""
+  },
+  {
+    "kanji": "朋",
+    "uri": ""
+  },
+  {
+    "kanji": "坑",
+    "uri": ""
+  },
+  {
+    "kanji": "藍",
+    "uri": ""
+  },
+  {
+    "kanji": "賊",
+    "uri": "/kanji/670-bandit-%E8%B3%8A"
+  },
+  {
+    "kanji": "搾",
+    "uri": ""
+  },
+  {
+    "kanji": "畔",
+    "uri": ""
+  },
+  {
+    "kanji": "遼",
+    "uri": ""
+  },
+  {
+    "kanji": "唄",
+    "uri": ""
+  },
+  {
+    "kanji": "孔",
+    "uri": ""
+  },
+  {
+    "kanji": "橘",
+    "uri": ""
+  },
+  {
+    "kanji": "漱",
+    "uri": ""
+  },
+  {
+    "kanji": "呂",
+    "uri": "/kanji/1610-washtub-%E5%91%82"
+  },
+  {
+    "kanji": "拷",
+    "uri": "/kanji/658-torture-%E6%8B%B7"
+  },
+  {
+    "kanji": "嬢",
+    "uri": "/kanji/1673-young-lady-%E5%AC%A2"
+  },
+  {
+    "kanji": "苑",
+    "uri": ""
+  },
+  {
+    "kanji": "巽",
+    "uri": ""
+  },
+  {
+    "kanji": "杜",
+    "uri": ""
+  },
+  {
+    "kanji": "渓",
+    "uri": ""
+  },
+  {
+    "kanji": "翁",
+    "uri": ""
+  },
+  {
+    "kanji": "廉",
+    "uri": ""
+  },
+  {
+    "kanji": "謹",
+    "uri": ""
+  },
+  {
+    "kanji": "瞳",
+    "uri": ""
+  },
+  {
+    "kanji": "湧",
+    "uri": ""
+  },
+  {
+    "kanji": "欣",
+    "uri": ""
+  },
+  {
+    "kanji": "窯",
+    "uri": ""
+  },
+  {
+    "kanji": "褒",
+    "uri": "/kanji/771-praise-%E8%A4%92"
+  },
+  {
+    "kanji": "醜",
+    "uri": "/kanji/1151-ugly-%E9%86%9C"
+  },
+  {
+    "kanji": "升",
+    "uri": ""
+  },
+  {
+    "kanji": "殉",
+    "uri": ""
+  },
+  {
+    "kanji": "煩",
+    "uri": ""
+  },
+  {
+    "kanji": "巴",
+    "uri": ""
+  },
+  {
+    "kanji": "禎",
+    "uri": ""
+  },
+  {
+    "kanji": "劾",
+    "uri": ""
+  },
+  {
+    "kanji": "堕",
+    "uri": "/kanji/1101-corrupt-%E5%A0%95"
+  },
+  {
+    "kanji": "租",
+    "uri": ""
+  },
+  {
+    "kanji": "稜",
+    "uri": ""
+  },
+  {
+    "kanji": "桟",
+    "uri": ""
+  },
+  {
+    "kanji": "倭",
+    "uri": ""
+  },
+  {
+    "kanji": "婿",
+    "uri": ""
+  },
+  {
+    "kanji": "慕",
+    "uri": ""
+  },
+  {
+    "kanji": "斐",
+    "uri": ""
+  },
+  {
+    "kanji": "罷",
+    "uri": ""
+  },
+  {
+    "kanji": "矯",
+    "uri": ""
+  },
+  {
+    "kanji": "某",
+    "uri": "/kanji/517-a-certain-%E6%9F%90"
+  },
+  {
+    "kanji": "囚",
+    "uri": "/kanji/436-prisoner-%E5%9B%9A"
+  },
+  {
+    "kanji": "魁",
+    "uri": ""
+  },
+  {
+    "kanji": "虹",
+    "uri": ""
+  },
+  {
+    "kanji": "鴻",
+    "uri": ""
+  },
+  {
+    "kanji": "泌",
+    "uri": ""
+  },
+  {
+    "kanji": "於",
+    "uri": ""
+  },
+  {
+    "kanji": "赳",
+    "uri": ""
+  },
+  {
+    "kanji": "漸",
+    "uri": ""
+  },
+  {
+    "kanji": "蚊",
+    "uri": "/kanji/495-mosquito-%E8%9A%8A"
+  },
+  {
+    "kanji": "葵",
+    "uri": ""
+  },
+  {
+    "kanji": "厄",
+    "uri": "/kanji/1474-misfortune-%E5%8E%84"
+  },
+  {
+    "kanji": "藻",
+    "uri": ""
+  },
+  {
+    "kanji": "禄",
+    "uri": ""
+  },
+  {
+    "kanji": "孟",
+    "uri": ""
+  },
+  {
+    "kanji": "嫡",
+    "uri": ""
+  },
+  {
+    "kanji": "尭",
+    "uri": ""
+  },
+  {
+    "kanji": "嚇",
+    "uri": ""
+  },
+  {
+    "kanji": "巳",
+    "uri": ""
+  },
+  {
+    "kanji": "凸",
+    "uri": ""
+  },
+  {
+    "kanji": "暢",
+    "uri": ""
+  },
+  {
+    "kanji": "韻",
+    "uri": ""
+  },
+  {
+    "kanji": "霜",
+    "uri": "/kanji/1387-frost-%E9%9C%9C"
+  },
+  {
+    "kanji": "硝",
+    "uri": ""
+  },
+  {
+    "kanji": "勅",
+    "uri": ""
+  },
+  {
+    "kanji": "芹",
+    "uri": ""
+  },
+  {
+    "kanji": "杏",
+    "uri": ""
+  },
+  {
+    "kanji": "棺",
+    "uri": "/kanji/1615-coffin-%E6%A3%BA"
+  },
+  {
+    "kanji": "儒",
+    "uri": ""
+  },
+  {
+    "kanji": "鳳",
+    "uri": ""
+  },
+  {
+    "kanji": "馨",
+    "uri": ""
+  },
+  {
+    "kanji": "慧",
+    "uri": ""
+  },
+  {
+    "kanji": "愁",
+    "uri": "/kanji/379-sorrow-%E6%84%81"
+  },
+  {
+    "kanji": "楼",
+    "uri": ""
+  },
+  {
+    "kanji": "彬",
+    "uri": ""
+  },
+  {
+    "kanji": "匡",
+    "uri": ""
+  },
+  {
+    "kanji": "眉",
+    "uri": ""
+  },
+  {
+    "kanji": "欽",
+    "uri": ""
+  },
+  {
+    "kanji": "薪",
+    "uri": ""
+  },
+  {
+    "kanji": "褐",
+    "uri": ""
+  },
+  {
+    "kanji": "賜",
+    "uri": ""
+  },
+  {
+    "kanji": "嵯",
+    "uri": ""
+  },
+  {
+    "kanji": "綜",
+    "uri": ""
+  },
+  {
+    "kanji": "繕",
+    "uri": "/kanji/1633-mend-%E7%B9%95"
+  },
+  {
+    "kanji": "栓",
+    "uri": ""
+  },
+  {
+    "kanji": "翠",
+    "uri": ""
+  },
+  {
+    "kanji": "鮎",
+    "uri": ""
+  },
+  {
+    "kanji": "榛",
+    "uri": ""
+  },
+  {
+    "kanji": "凹",
+    "uri": ""
+  },
+  {
+    "kanji": "艶",
+    "uri": ""
+  },
+  {
+    "kanji": "惣",
+    "uri": ""
+  },
+  {
+    "kanji": "蔦",
+    "uri": ""
+  },
+  {
+    "kanji": "錬",
+    "uri": ""
+  },
+  {
+    "kanji": "隼",
+    "uri": ""
+  },
+  {
+    "kanji": "渚",
+    "uri": ""
+  },
+  {
+    "kanji": "衷",
+    "uri": ""
+  },
+  {
+    "kanji": "逐",
+    "uri": ""
+  },
+  {
+    "kanji": "斥",
+    "uri": ""
+  },
+  {
+    "kanji": "稀",
+    "uri": ""
+  },
+  {
+    "kanji": "芙",
+    "uri": ""
+  },
+  {
+    "kanji": "詔",
+    "uri": ""
+  },
+  {
+    "kanji": "皐",
+    "uri": ""
+  },
+  {
+    "kanji": "雛",
+    "uri": ""
+  },
+  {
+    "kanji": "惟",
+    "uri": ""
+  },
+  {
+    "kanji": "佑",
+    "uri": ""
+  },
+  {
+    "kanji": "耀",
+    "uri": ""
+  },
+  {
+    "kanji": "黛",
+    "uri": ""
+  },
+  {
+    "kanji": "渥",
+    "uri": ""
+  },
+  {
+    "kanji": "憧",
+    "uri": "/kanji/240-yearn-for-%E6%86%A7"
+  },
+  {
+    "kanji": "宵",
+    "uri": ""
+  },
+  {
+    "kanji": "妄",
+    "uri": "/kanji/108-without-reason-or-permission-%E5%A6%84"
+  },
+  {
+    "kanji": "惇",
+    "uri": ""
+  },
+  {
+    "kanji": "脩",
+    "uri": ""
+  },
+  {
+    "kanji": "甫",
+    "uri": "/kanji/1561-unicycle-%E7%94%AB"
+  },
+  {
+    "kanji": "酌",
+    "uri": ""
+  },
+  {
+    "kanji": "蚕",
+    "uri": ""
+  },
+  {
+    "kanji": "嬉",
+    "uri": "/kanji/839-stoked-%E5%AC%89"
+  },
+  {
+    "kanji": "蒼",
+    "uri": ""
+  },
+  {
+    "kanji": "暉",
+    "uri": ""
+  },
+  {
+    "kanji": "頒",
+    "uri": ""
+  },
+  {
+    "kanji": "只",
+    "uri": ""
+  },
+  {
+    "kanji": "肢",
+    "uri": ""
+  },
+  {
+    "kanji": "檀",
+    "uri": ""
+  },
+  {
+    "kanji": "凱",
+    "uri": ""
+  },
+  {
+    "kanji": "彗",
+    "uri": ""
+  },
+  {
+    "kanji": "謄",
+    "uri": ""
+  },
+  {
+    "kanji": "梓",
+    "uri": ""
+  },
+  {
+    "kanji": "丑",
+    "uri": ""
+  },
+  {
+    "kanji": "嗣",
+    "uri": ""
+  },
+  {
+    "kanji": "叶",
+    "uri": "/kanji/17-dream-come-true-%E5%8F%B6"
+  },
+  {
+    "kanji": "汐",
+    "uri": ""
+  },
+  {
+    "kanji": "絢",
+    "uri": ""
+  },
+  {
+    "kanji": "朔",
+    "uri": ""
+  },
+  {
+    "kanji": "伽",
+    "uri": ""
+  },
+  {
+    "kanji": "畝",
+    "uri": ""
+  },
+  {
+    "kanji": "抄",
+    "uri": ""
+  },
+  {
+    "kanji": "爽",
+    "uri": ""
+  },
+  {
+    "kanji": "黎",
+    "uri": ""
+  },
+  {
+    "kanji": "惰",
+    "uri": ""
+  },
+  {
+    "kanji": "蛮",
+    "uri": ""
+  },
+  {
+    "kanji": "冴",
+    "uri": ""
+  },
+  {
+    "kanji": "旺",
+    "uri": ""
+  },
+  {
+    "kanji": "萌",
+    "uri": ""
+  },
+  {
+    "kanji": "偲",
+    "uri": ""
+  },
+  {
+    "kanji": "壱",
+    "uri": ""
+  },
+  {
+    "kanji": "瑠",
+    "uri": ""
+  },
+  {
+    "kanji": "允",
+    "uri": ""
+  },
+  {
+    "kanji": "侯",
+    "uri": ""
+  },
+  {
+    "kanji": "蒔",
+    "uri": ""
+  },
+  {
+    "kanji": "鯉",
+    "uri": ""
+  },
+  {
+    "kanji": "弧",
+    "uri": "/kanji/1739-arc-%E5%BC%A7"
+  },
+  {
+    "kanji": "遥",
+    "uri": ""
+  },
+  {
+    "kanji": "舜",
+    "uri": ""
+  },
+  {
+    "kanji": "瑛",
+    "uri": ""
+  },
+  {
+    "kanji": "附",
+    "uri": "/kanji/988-attachment-%E9%99%84"
+  },
+  {
+    "kanji": "彪",
+    "uri": ""
+  },
+  {
+    "kanji": "卯",
+    "uri": ""
+  },
+  {
+    "kanji": "但",
+    "uri": ""
+  },
+  {
+    "kanji": "綺",
+    "uri": ""
+  },
+  {
+    "kanji": "芋",
+    "uri": "/kanji/226-potato-%E8%8A%8B"
+  },
+  {
+    "kanji": "茜",
+    "uri": ""
+  },
+  {
+    "kanji": "凌",
+    "uri": ""
+  },
+  {
+    "kanji": "皓",
+    "uri": ""
+  },
+  {
+    "kanji": "洸",
+    "uri": ""
+  },
+  {
+    "kanji": "毬",
+    "uri": ""
+  },
+  {
+    "kanji": "婆",
+    "uri": ""
+  },
+  {
+    "kanji": "緋",
+    "uri": ""
+  },
+  {
+    "kanji": "鯛",
+    "uri": ""
+  },
+  {
+    "kanji": "怜",
+    "uri": ""
+  },
+  {
+    "kanji": "邑",
+    "uri": ""
+  },
+  {
+    "kanji": "倣",
+    "uri": ""
+  },
+  {
+    "kanji": "碧",
+    "uri": ""
+  },
+  {
+    "kanji": "啄",
+    "uri": ""
+  },
+  {
+    "kanji": "穣",
+    "uri": ""
+  },
+  {
+    "kanji": "酉",
+    "uri": ""
+  },
+  {
+    "kanji": "悌",
+    "uri": ""
+  },
+  {
+    "kanji": "倹",
+    "uri": "/kanji/417-thrifty-%E5%80%B9"
+  },
+  {
+    "kanji": "柚",
+    "uri": ""
+  },
+  {
+    "kanji": "繭",
+    "uri": ""
+  },
+  {
+    "kanji": "亦",
+    "uri": ""
+  },
+  {
+    "kanji": "詢",
+    "uri": ""
+  },
+  {
+    "kanji": "采",
+    "uri": ""
+  },
+  {
+    "kanji": "紗",
+    "uri": ""
+  },
+  {
+    "kanji": "賦",
+    "uri": ""
+  },
+  {
+    "kanji": "眸",
+    "uri": ""
+  },
+  {
+    "kanji": "玖",
+    "uri": ""
+  },
+  {
+    "kanji": "弐",
+    "uri": ""
+  },
+  {
+    "kanji": "錘",
+    "uri": ""
+  },
+  {
+    "kanji": "諄",
+    "uri": ""
+  },
+  {
+    "kanji": "倖",
+    "uri": ""
+  },
+  {
+    "kanji": "痘",
+    "uri": ""
+  },
+  {
+    "kanji": "笙",
+    "uri": ""
+  },
+  {
+    "kanji": "侃",
+    "uri": ""
+  },
+  {
+    "kanji": "裟",
+    "uri": ""
+  },
+  {
+    "kanji": "洵",
+    "uri": ""
+  },
+  {
+    "kanji": "爾",
+    "uri": ""
+  },
+  {
+    "kanji": "耗",
+    "uri": ""
+  },
+  {
+    "kanji": "昴",
+    "uri": ""
+  },
+  {
+    "kanji": "銑",
+    "uri": ""
+  },
+  {
+    "kanji": "莞",
+    "uri": ""
+  },
+  {
+    "kanji": "伶",
+    "uri": ""
+  },
+  {
+    "kanji": "碩",
+    "uri": ""
+  },
+  {
+    "kanji": "宥",
+    "uri": ""
+  },
+  {
+    "kanji": "滉",
+    "uri": ""
+  },
+  {
+    "kanji": "晏",
+    "uri": ""
+  },
+  {
+    "kanji": "伎",
+    "uri": ""
+  },
+  {
+    "kanji": "朕",
+    "uri": ""
+  },
+  {
+    "kanji": "迪",
+    "uri": ""
+  },
+  {
+    "kanji": "綸",
+    "uri": ""
+  },
+  {
+    "kanji": "且",
+    "uri": ""
+  },
+  {
+    "kanji": "竣",
+    "uri": ""
+  },
+  {
+    "kanji": "晨",
+    "uri": ""
+  },
+  {
+    "kanji": "吏",
+    "uri": ""
+  },
+  {
+    "kanji": "燦",
+    "uri": ""
+  },
+  {
+    "kanji": "麿",
+    "uri": ""
+  },
+  {
+    "kanji": "頌",
+    "uri": ""
+  },
+  {
+    "kanji": "箇",
+    "uri": ""
+  },
+  {
+    "kanji": "楓",
+    "uri": ""
+  },
+  {
+    "kanji": "琳",
+    "uri": ""
+  },
+  {
+    "kanji": "梧",
+    "uri": ""
+  },
+  {
+    "kanji": "哉",
+    "uri": ""
+  },
+  {
+    "kanji": "澪",
+    "uri": ""
+  },
+  {
+    "kanji": "匁",
+    "uri": ""
+  },
+  {
+    "kanji": "晟",
+    "uri": ""
+  },
+  {
+    "kanji": "衿",
+    "uri": ""
+  },
+  {
+    "kanji": "凪",
+    "uri": ""
+  },
+  {
+    "kanji": "梢",
+    "uri": ""
+  },
+  {
+    "kanji": "丙",
+    "uri": "/kanji/1344-t-bone-steak-%E4%B8%99"
+  },
+  {
+    "kanji": "颯",
+    "uri": ""
+  },
+  {
+    "kanji": "茄",
+    "uri": ""
+  },
+  {
+    "kanji": "勺",
+    "uri": ""
+  },
+  {
+    "kanji": "恕",
+    "uri": ""
+  },
+  {
+    "kanji": "蕗",
+    "uri": ""
+  },
+  {
+    "kanji": "瑚",
+    "uri": ""
+  },
+  {
+    "kanji": "遵",
+    "uri": ""
+  },
+  {
+    "kanji": "瞭",
+    "uri": ""
+  },
+  {
+    "kanji": "燎",
+    "uri": ""
+  },
+  {
+    "kanji": "虞",
+    "uri": ""
+  },
+  {
+    "kanji": "柊",
+    "uri": ""
+  },
+  {
+    "kanji": "侑",
+    "uri": ""
+  },
+  {
+    "kanji": "謁",
+    "uri": ""
+  },
+  {
+    "kanji": "斤",
+    "uri": "/kanji/315-axe-%E6%96%A4"
+  },
+  {
+    "kanji": "嵩",
+    "uri": ""
+  },
+  {
+    "kanji": "捺",
+    "uri": ""
+  },
+  {
+    "kanji": "蓉",
+    "uri": ""
+  },
+  {
+    "kanji": "茉",
+    "uri": ""
+  },
+  {
+    "kanji": "袈",
+    "uri": ""
+  },
+  {
+    "kanji": "燿",
+    "uri": ""
+  },
+  {
+    "kanji": "誼",
+    "uri": ""
+  },
+  {
+    "kanji": "冶",
+    "uri": ""
+  },
+  {
+    "kanji": "栞",
+    "uri": ""
+  },
+  {
+    "kanji": "墾",
+    "uri": ""
+  },
+  {
+    "kanji": "勁",
+    "uri": ""
+  },
+  {
+    "kanji": "菖",
+    "uri": ""
+  },
+  {
+    "kanji": "旦",
+    "uri": "/kanji/30-danna-husband-%E6%97%A6"
+  },
+  {
+    "kanji": "椋",
+    "uri": ""
+  },
+  {
+    "kanji": "叡",
+    "uri": ""
+  },
+  {
+    "kanji": "紬",
+    "uri": ""
+  },
+  {
+    "kanji": "胤",
+    "uri": ""
+  },
+  {
+    "kanji": "凜",
+    "uri": ""
+  },
+  {
+    "kanji": "亥",
+    "uri": ""
+  },
+  {
+    "kanji": "爵",
+    "uri": ""
+  },
+  {
+    "kanji": "脹",
+    "uri": ""
+  },
+  {
+    "kanji": "麟",
+    "uri": ""
+  },
+  {
+    "kanji": "莉",
+    "uri": ""
+  },
+  {
+    "kanji": "汰",
+    "uri": ""
+  },
+  {
+    "kanji": "瑶",
+    "uri": ""
+  },
+  {
+    "kanji": "瑳",
+    "uri": ""
+  },
+  {
+    "kanji": "耶",
+    "uri": ""
+  },
+  {
+    "kanji": "椰",
+    "uri": ""
+  },
+  {
+    "kanji": "絃",
+    "uri": ""
+  },
+  {
+    "kanji": "丞",
+    "uri": ""
+  },
+  {
+    "kanji": "璃",
+    "uri": ""
+  },
+  {
+    "kanji": "奎",
+    "uri": ""
+  },
+  {
+    "kanji": "塑",
+    "uri": ""
+  },
+  {
+    "kanji": "昂",
+    "uri": ""
+  },
+  {
+    "kanji": "柾",
+    "uri": ""
+  },
+  {
+    "kanji": "熙",
+    "uri": ""
+  },
+  {
+    "kanji": "菫",
+    "uri": ""
+  },
+  {
+    "kanji": "諒",
+    "uri": ""
+  },
+  {
+    "kanji": "鞠",
+    "uri": ""
+  },
+  {
+    "kanji": "崚",
+    "uri": ""
+  },
+  {
+    "kanji": "濫",
+    "uri": ""
+  },
+  {
+    "kanji": "捷",
+    "uri": ""
+  }
+]

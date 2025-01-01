@@ -31,8 +31,8 @@ server {
     proxy_set_header Connection 'upgrade';
   }
 
-  location /api/v1/words {
-    proxy_pass http://localhost:7000/api/v1/words;
+  location /e-api/v1/words {
+    proxy_pass http://localhost:7000/e-api/v1/words;
     proxy_set_header Host $host;
     proxy_set_header X-Real-IP $remote_addr;
     proxy_set_header X-Forwarded-For $proxy_add_x_forwarded_for;
@@ -42,8 +42,8 @@ server {
     proxy_set_header Connection 'upgrade';
   }
 
-  location /api/v1/grammars {
-    proxy_pass http://localhost:7000/api/v1/grammars;
+  location /e-api/v1/grammars {
+    proxy_pass http://localhost:7000/e-api/v1/grammars;
     proxy_set_header Host $host;
     proxy_set_header X-Real-IP $remote_addr;
     proxy_set_header X-Forwarded-For $proxy_add_x_forwarded_for;

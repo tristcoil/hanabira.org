@@ -1,0 +1,1976 @@
+
+// for URL encoding of grammar titles with spaces
+// curl -X GET 'http://localhost:8000/e-api/v1/grammar-titles?p_tag=JLPT_N5&type=encoded'
+// curl -X GET 'http://localhost:8000/e-api/v1/grammar-titles?p_tag=JLPT_N4&type=encoded'
+// curl -X GET 'http://localhost:8000/e-api/v1/grammar-titles?p_tag=JLPT_N3&type=encoded'
+// curl -X GET 'http://localhost:8000/e-api/v1/grammar-titles?p_tag=JLPT_N2&type=encoded'
+// curl -X GET 'http://localhost:8000/e-api/v1/grammar-titles?p_tag=JLPT_N1&type=encoded'
+
+
+"http://localhost:3000//grammarpoint/～から～にかけて (〜kara 〜ni kakete)",
+
+---------------------------------------------------------------------------------------
+
+
+coil@coil-VM:~/Desktop/zen-lingo-website/prod/backend/express/express-db$ 
+coil@coil-VM:~/Desktop/zen-lingo-website/prod/backend/express/express-db$ curl -X GET 'http://localhost:8000/e-api/v1/grammar-titles?p_tag=JLPT_N5&type=encoded'
+{"titles":[
+"https://hanabira.org/japanese/grammarpoint/A が いちばん～ (A ga ichiban～)",                        x
+"https://hanabira.org/japanese/grammarpoint/A。けれども、～B。(A. Keredomo,~ B.)",                    x
+"https://hanabira.org/japanese/grammarpoint/A。しかし、～B。 (A. Shikashi, ~B.)",                     x
+"https://hanabira.org/japanese/grammarpoint/A。じゃ、～B。(A. Ja, ~B.)",                              x
+"https://hanabira.org/japanese/grammarpoint/A。それじゃ、～B。(A. Soreja,~B.)",                       x
+"https://hanabira.org/japanese/grammarpoint/A。それでは、～B。(A. Soredewa,~B.)",                     x
+"https://hanabira.org/japanese/grammarpoint/A。 では、～B。 (A. Dewa, ~B)",                           x
+"https://hanabira.org/japanese/grammarpoint/A。でも、～B。(A. Demo, ~B)",                             x
+"https://hanabira.org/japanese/grammarpoint/Aと Bと どちら～ (A to B to dochira~)",                   x
+"https://hanabira.org/japanese/grammarpoint/AとBと どっち〜 (A to B to docchi〜)",                    x
+"https://hanabira.org/japanese/grammarpoint/A は B が〜 (A wa B ga〜)",                              x
+"https://hanabira.org/japanese/grammarpoint/A は B より～ (A wa B yori～)",                          x
+"https://hanabira.org/japanese/grammarpoint/A より B のほうが～ (A yori B no hou ga ～)",                x 
+"https://hanabira.org/japanese/grammarpoint/い-Adjective く + Verb (i-Adjective + ku + Verb)",           x
+"https://hanabira.org/japanese/grammarpoint/い-Adjective く します (i-Adjective ku shimasu)",             x
+"https://hanabira.org/japanese/grammarpoint/い-Adjective く ないます (i-Adjective ku naimasu)",           x
+"https://hanabira.org/japanese/grammarpoint/い-Adjective て (i-Adjective + te~)",                          x
+"https://hanabira.org/japanese/grammarpoint/な-Adjective く Verb (na-Adjective + ku + Verb)",              x
+"https://hanabira.org/japanese/grammarpoint/な-Adjective で～ (na-Adjective de~)",                         x
+"https://hanabira.org/japanese/grammarpoint/な-Adjective に します (na-Adjective ni shimasu)",             x
+"https://hanabira.org/japanese/grammarpoint/な-Adjective に なります (na-Adjective ni narimasu)",           x
+"https://hanabira.org/japanese/grammarpoint/Noun か Noun か～ (Noun ka Noun ka～)",                         x
+"https://hanabira.org/japanese/grammarpoint/Noun が できます (Noun ga dekimasu)",                           x
+"https://hanabira.org/japanese/grammarpoint/Noun がほしいです (〜ga hoshii desu)",                           x 
+"https://hanabira.org/japanese/grammarpoint/Noun から Noun まで (Noun kara Noun made)",                     x
+"https://hanabira.org/japanese/grammarpoint/Noun くらい～ (Noun kurai～)",                                  x
+"https://hanabira.org/japanese/grammarpoint/Noun ぐらい～ (Noun gurai～)",                                  x
+"https://hanabira.org/japanese/grammarpoint/Noun ごろ～ (Noun + goro～)",                                   x
+"https://hanabira.org/japanese/grammarpoint/Noun だけ〜 (〜dake)",                                          x
+"https://hanabira.org/japanese/grammarpoint/Nounで～ (Noun de ~)",                                          x
+"https://hanabira.org/japanese/grammarpoint/Noun と～ (Noun to～)",                                         x
+"https://hanabira.org/japanese/grammarpoint/Noun に～ (Noun ni～)",                                         x
+"https://hanabira.org/japanese/grammarpoint/Noun に かえります (Noun ni kaerimasu)",                        x
+"https://hanabira.org/japanese/grammarpoint/Noun に します (Noun ni shimasu)",                              x
+"https://hanabira.org/japanese/grammarpoint/Noun に なります (Noun ni narimasu)",                           x 
+"https://hanabira.org/japanese/grammarpoint/Noun に 来ます (ni kimasu)",                                    x
+"https://hanabira.org/japanese/grammarpoint/Noun に 行きます (Noun ni ikimasu)",                             x
+"https://hanabira.org/japanese/grammarpoint/Noun の あとで (Noun no atode)",                                x
+"https://hanabira.org/japanese/grammarpoint/Noun の 前に (Noun no mae ni)",                                 x
+"https://hanabira.org/japanese/grammarpoint/Noun は～ (Noun wa〜)",                                         x
+"https://hanabira.org/japanese/grammarpoint/Noun も〜 (Noun mo~)",                                          x
+"https://hanabira.org/japanese/grammarpoint/Noun や Noun など～ (Noun ya Noun nado)",                       x
+"https://hanabira.org/japanese/grammarpoint/Noun を〜 (Noun wo〜)",                                         x
+"https://hanabira.org/japanese/grammarpoint/Verb た あとで (ta ato de)",                                    x
+"https://hanabira.org/japanese/grammarpoint/Verb たいです (taidesu)",                                       x  
+"https://hanabira.org/japanese/grammarpoint/Verb て～ (Verb + te～)",                                       x
+"https://hanabira.org/japanese/grammarpoint/Verb て います (Verb te imasu)",                                x
+"https://hanabira.org/japanese/grammarpoint/Verb てから～ (〜te kara)",                                     x
+"https://hanabira.org/japanese/grammarpoint/Verb て ください (Verb-te kudasai)",                            x
+"https://hanabira.org/japanese/grammarpoint/Verb ないで ください (〜naide kudasai)",                         x
+"https://hanabira.org/japanese/grammarpoint/Verb に かえります (〜ni kaerimasu)",                            x
+"https://hanabira.org/japanese/grammarpoint/Verb に 来ます (Verb ni kimasu)",                               x
+"https://hanabira.org/japanese/grammarpoint/Verb に 行きます (Verb ni ikimasu)",                            x
+"https://hanabira.org/japanese/grammarpoint/Verb ましょう (mashou)",                                        x
+"https://hanabira.org/japanese/grammarpoint/Verb ましょうか。 (〜mashou ka.)",                               x
+"https://hanabira.org/japanese/grammarpoint/Verb ませんか。 (Verb-masenka)",                                x
+"https://hanabira.org/japanese/grammarpoint/Verb ること～ (〜ru koto)",                                     x 
+"https://hanabira.org/japanese/grammarpoint/Verb る こと が できます (ru koto ga dekimasu)",                 x
+"https://hanabira.org/japanese/grammarpoint/Verb る こと ができる (ru koto ga dekiru)",                      x
+"https://hanabira.org/japanese/grammarpoint/Verb る の～ (Verb + ru + no~)",                                x
+"https://hanabira.org/japanese/grammarpoint/Verb る 前に (ru mae ni)",                                      x
+"https://hanabira.org/japanese/grammarpoint/あまり～ありません (amari ~ arimasen)",                          x
+"https://hanabira.org/japanese/grammarpoint/あまり～ないです (amari ~ nai desu)",                            x
+"https://hanabira.org/japanese/grammarpoint/～あります (〜arimasu)",                                         x
+"https://hanabira.org/japanese/grammarpoint/～いかがですか。 (〜ikaga desu ka.)",                            x
+"https://hanabira.org/japanese/grammarpoint/いくつ～ (ikutsu~",                                             x
+"https://hanabira.org/japanese/grammarpoint/いつか～ (itsuka～)",                                           x
+"https://hanabira.org/japanese/grammarpoint/いつでも～ (itsudemo～)",                                        x
+"https://hanabira.org/japanese/grammarpoint/いつも～ (itsumo～)",                                           x
+"https://hanabira.org/japanese/grammarpoint/～います (〜imasu)",                                            x
+"https://hanabira.org/japanese/grammarpoint/～が (〜ga)",                                                   x
+"https://hanabira.org/japanese/grammarpoint/～が、～ (〜ga, 〜)",                                           x
+"https://hanabira.org/japanese/grammarpoint/～から、～ (〜kara、～)",                                       x
+"https://hanabira.org/japanese/grammarpoint/～からです (〜kara desu)",                                       x
+"https://hanabira.org/japanese/grammarpoint/～から もらいます (〜kara moraimasu)",                           x
+"https://hanabira.org/japanese/grammarpoint/～が 私に くれます (〜ga watashi ni kuremasu)",                  x
+"https://hanabira.org/japanese/grammarpoint/～けど、～ (〜kedo、～)",                                        x
+"https://hanabira.org/japanese/grammarpoint/～けれど、～ (〜keredo、～)",                                    x
+"https://hanabira.org/japanese/grammarpoint/こちら～ (kochira～)",                                           x
+"https://hanabira.org/japanese/grammarpoint/さっき～ (sakki～)",                                             x
+"https://hanabira.org/japanese/grammarpoint/すぐに～ (sugu ni～)",                                           x
+"https://hanabira.org/japanese/grammarpoint/ぜんぜん～ (zenzen～)",                                          x
+"https://hanabira.org/japanese/grammarpoint/そして、～ (soshite、～)",                                       x
+"https://hanabira.org/japanese/grammarpoint/そちら～ (sochira～)",                                           x
+"https://hanabira.org/japanese/grammarpoint/それから、～ (sorekara、～)",                                    x
+"https://hanabira.org/japanese/grammarpoint/だいたい〜 (daitai〜)",                                         x
+"https://hanabira.org/japanese/grammarpoint/たいてい～ (taitei～)",                                         x
+"https://hanabira.org/japanese/grammarpoint/だから、～ (dakara、～)",                                       x
+"https://hanabira.org/japanese/grammarpoint/～たり、～たり します (〜tari, 〜tari shimasu)",                  x 
+"https://hanabira.org/japanese/grammarpoint/だれ～ (dare～)",                                                 x
+"https://hanabira.org/japanese/grammarpoint/だれか〜 (dareka〜)",                                            x
+"https://hanabira.org/japanese/grammarpoint/だれでも～ (dare demo～)",                                        x
+"https://hanabira.org/japanese/grammarpoint/だれも～ないです (dare mo ~ nai desu)",                           x
+"https://hanabira.org/japanese/grammarpoint/だれも～ません (daremo ~masen)",                                     x
+"https://hanabira.org/japanese/grammarpoint/～どう しますか。 (～dou shimasu ka.)",                             x
+"https://hanabira.org/japanese/grammarpoint/～どうですか。 (〜dou desu ka.)",                                  x
+"https://hanabira.org/japanese/grammarpoint/どうやって～ (douyatte～)",                                        x
+"https://hanabira.org/japanese/grammarpoint/～どう 言いますか。 (〜dou iimasu ka.)",                           x
+"https://hanabira.org/japanese/grammarpoint/～とき (〜toki)",                                                   x
+"https://hanabira.org/japanese/grammarpoint/ときどき～ (tokidoki～)",                                           x
+"https://hanabira.org/japanese/grammarpoint/どこ～ (doko～)",                                                   x
+"https://hanabira.org/japanese/grammarpoint/どこか～ (dokoka～)",                                               x
+"https://hanabira.org/japanese/grammarpoint/どこでも～ (dokodemo～)",                                           x
+"https://hanabira.org/japanese/grammarpoint/どこにも + Verb + ないです (doko ni mo + Verb + nai desu)",         x
+"https://hanabira.org/japanese/grammarpoint/どこにも + Verb + ません (doko ni mo + Verb + masen)",              x
+"https://hanabira.org/japanese/grammarpoint/どこへも Verb ないです (doko e mo + Verb + nai desu)",              x
+"https://hanabira.org/japanese/grammarpoint/どこへも Verb ません (doko e mo + Verb + masen)",                   x
+"https://hanabira.org/japanese/grammarpoint/どこも Verb ないです (dokomo + Verb + naidesu)",                    x
+"https://hanabira.org/japanese/grammarpoint/どこも Verb ません (dokomo + Verb + masen)",                        x
+"https://hanabira.org/japanese/grammarpoint/どちら～ (dochira～)",                                              x
+"https://hanabira.org/japanese/grammarpoint/どなた～ (donata～)",                                               x
+"https://hanabira.org/japanese/grammarpoint/どの Noun (dono Noun)",                                             x
+"https://hanabira.org/japanese/grammarpoint/どれでも～ (dore demo～)",                                          x
+"https://hanabira.org/japanese/grammarpoint/どんな Noun (donna)",                                              x
+"https://hanabira.org/japanese/grammarpoint/なに～ (nani~)",                                                   x
+"https://hanabira.org/japanese/grammarpoint/なにか～ (nanika～)",                                              x
+"https://hanabira.org/japanese/grammarpoint/なにも～ないです (nani mo~nai desu)",                               x
+"https://hanabira.org/japanese/grammarpoint/なにも～ません (nanimo~masen)",                                     x
+"https://hanabira.org/japanese/grammarpoint/なん～ (nan~)",                                                     x
+"https://hanabira.org/japanese/grammarpoint/なんで～ (nande～)",                                                x
+"https://hanabira.org/japanese/grammarpoint/なんでも～ (nandemo～)",                                            x
+"https://hanabira.org/japanese/grammarpoint/～なんと 言いますか。 (〜nan to iimasu ka.)",                        x
+"https://hanabira.org/japanese/grammarpoint/～に あげます (〜 ni agemasu)",                                     x
+"https://hanabira.org/japanese/grammarpoint/～に もらいます (〜ni moraimasu)",                                  x
+"https://hanabira.org/japanese/grammarpoint/～の (〜no)",                                                      x
+"https://hanabira.org/japanese/grammarpoint/～はたいへんです (〜wa taihen desu)",                               x
+"https://hanabira.org/japanese/grammarpoint/ほとんど〜 (hotondo〜)",                                            x
+"https://hanabira.org/japanese/grammarpoint/まあまあ～ (maa maa～)",                                            x
+"https://hanabira.org/japanese/grammarpoint/まだ〜 (mada〜)",                                                   x
+"https://hanabira.org/japanese/grammarpoint/まだ〜ないです (mada 〜 nai desu)",                                  x
+"https://hanabira.org/japanese/grammarpoint/まだ～ません (mada ~masen)",                                        x
+"https://hanabira.org/japanese/grammarpoint/もう～ (mou～)",                                                    x
+"https://hanabira.org/japanese/grammarpoint/もうすぐ〜 (mou sugu~)",                                            x 
+"https://hanabira.org/japanese/grammarpoint/もっと〜 (motto〜)",                                                x
+"https://hanabira.org/japanese/grammarpoint/よく～ (yoku ~)",                                                   x
+"https://hanabira.org/japanese/grammarpoint/～（場所）に～があります (〜basho ni 〜 ga arimasu)"                  x
+]}coil@coil-VM:~/Desktop/zen-lingo-website/prod/backend/express/express-db$
+
+ 
+coil@coil-VM:~/Desktop/zen-lingo-website/prod/backend/express/express-db$ 
+coil@coil-VM:~/Desktop/zen-lingo-website/prod/backend/express/express-db$ curl -X GET 'http://localhost:8000/e-api/v1/grammar-titles?p_tag=JLPT_N4&type=encoded'
+{"titles":[
+
+"https://hanabira.org/japanese/grammarpoint/A とか B とか",                                                    x
+"https://hanabira.org/japanese/grammarpoint/A は B ほど～ありません (A wa B hodo ～ arimasen)",                 x
+"https://hanabira.org/japanese/grammarpoint/A は B ほど～ない (A wa B hodo ~ nai)",                            x
+"https://hanabira.org/japanese/grammarpoint/A より B のほうが〜 (A yori B no hou ga 〜)",                       x
+"https://hanabira.org/japanese/grammarpoint/い-Adjective く する/なる (i-Adjective kusuru/naru)",               x   slash issue
+"https://hanabira.org/japanese/grammarpoint/な-adjective に する/なる",                                         x    slash issue
+"https://hanabira.org/japanese/grammarpoint/Noun しか～ない (Noun shika~nai)",                                  x
+"https://hanabira.org/japanese/grammarpoint/Noun に する (Noun ni suru)",                                       x
+"https://hanabira.org/japanese/grammarpoint/Noun に なる (Noun ni naru)",                                       x
+"https://hanabira.org/japanese/grammarpoint/のために (no tame ni)",                                             x
+"https://hanabira.org/japanese/grammarpoint/Noun の 間に (〜no aida ni)",                                      x
+"https://hanabira.org/japanese/grammarpoint/Noun ばかり (〜bakari)",                                            x
+"https://hanabira.org/japanese/grammarpoint/Noun を あげる (Noun wo ageru)",                                    x
+"https://hanabira.org/japanese/grammarpoint/Nounをいただく (Noun wo itadaku)",                                  x
+"https://hanabira.org/japanese/grammarpoint/Nounをくださる",                                                    x
+"https://hanabira.org/japanese/grammarpoint/Noun を くれる (Noun wo kureru)",                                   x
+"https://hanabira.org/japanese/grammarpoint/Noun を さしあげる (Noun wo sashiageru)",                            x
+"https://hanabira.org/japanese/grammarpoint/Noun もらう (Noun wo morau)",                                       x
+"https://hanabira.org/japanese/grammarpoint/Noun + 中 (Noun + ちゅう)",                                          x
+"https://hanabira.org/japanese/grammarpoint/Verb させられる (Verb-saserareru)",                                  x
+"https://hanabira.org/japanese/grammarpoint/Verb させる (Verb-saseru)",                                         x
+"https://hanabira.org/japanese/grammarpoint/Verb た ことがある (Verb ta koto ga aru)",                           x
+"https://hanabira.org/japanese/grammarpoint/Verb た ときに (Verb た ときに)",                                    x
+"https://hanabira.org/japanese/grammarpoint/Verb た ところ (Verb ta tokoro)",                                    x
+"https://hanabira.org/japanese/grammarpoint/Verb たほうがいい (〜ta hou ga ii)",                                 x
+"https://hanabira.org/japanese/grammarpoint/Verb ために (tame ni)",                                              x
+"https://hanabira.org/japanese/grammarpoint/Verb つもり (〜tsumori)",                                            x
+"https://hanabira.org/japanese/grammarpoint/Verb てあげる (Verb te ageru)",                                      x
+"https://hanabira.org/japanese/grammarpoint/Verb て ある (Verb-te aru)",                                         x
+"https://hanabira.org/japanese/grammarpoint/Verb て いく (Verb-te iku)",                                         x
+"https://hanabira.org/japanese/grammarpoint/Verb ていただきたい (te itadakitai)",                                 x
+"https://hanabira.org/japanese/grammarpoint/Verb ていただく (〜te itadaku)",                                      x 
+"https://hanabira.org/japanese/grammarpoint/Verb て いただけませんか (Verb te itadakemasen ka)",                   x
+"https://hanabira.org/japanese/grammarpoint/Verb て いる (Verb-te iru)",                                          x
+"https://hanabira.org/japanese/grammarpoint/Verb て いる ところ (Verb te iru tokoro)",                            x
+"https://hanabira.org/japanese/grammarpoint/Verb ている間に (te iru aida ni)",                                    x
+"https://hanabira.org/japanese/grammarpoint/Verb ておく (〜te oku)",                                              x
+"https://hanabira.org/japanese/grammarpoint/Verb て くださいませんか (Verb-te kudasaimasen ka)",                   x
+"https://hanabira.org/japanese/grammarpoint/Verb て くださる (Verb-te kudasaru)",                                 x
+"https://hanabira.org/japanese/grammarpoint/Verb て くる (Verb te kuru)",                                         x
+"https://hanabira.org/japanese/grammarpoint/Verb てくれませんか (〜te kuremasen ka)",                             x
+"https://hanabira.org/japanese/grammarpoint/Verb て くれる (Verb-te kureru)",                                    x
+"https://hanabira.org/japanese/grammarpoint/Verb て + さしあげる (Verb TE sashiageru)",                           x
+"https://hanabira.org/japanese/grammarpoint/Verb てしまう (〜te shimau)",                                         x
+"https://hanabira.org/japanese/grammarpoint/Verb て ほしい (Verb-te hoshii)",                                     x
+"https://hanabira.org/japanese/grammarpoint/Verb てみる (〜te miru)",                                             x
+"https://hanabira.org/japanese/grammarpoint/Verb てもらいたい (～te moraitai)",                                    x
+"https://hanabira.org/japanese/grammarpoint/Verb て もらう (Verb-te morau)",                                      x
+"https://hanabira.org/japanese/grammarpoint/Verb てもらえませんか (～te moraemasen ka)",                           x
+"https://hanabira.org/japanese/grammarpoint/Verb ない ことがある (Verb-nai koto ga aru)",                         x
+"https://hanabira.org/japanese/grammarpoint/Verb ない + ことにする (Verb nai koto ni suru)",                      x
+"https://hanabira.org/japanese/grammarpoint/Verb ない ことになる (Verb nai koto ni naru)",                        x
+"https://hanabira.org/japanese/grammarpoint/Verb ないほうがいい (Verb nai hou ga ii)",                            x
+"https://hanabira.org/japanese/grammarpoint/Verb ながら (〜nagara)",                                             x 
+"https://hanabira.org/japanese/grammarpoint/Verb なさい (〜nasai)",                                x
+"https://hanabira.org/japanese/grammarpoint/Verb にくい (〜nikui)",                                already indexed
+"https://hanabira.org/japanese/grammarpoint/Verb やすい (〜yasui)",                                x
+"https://hanabira.org/japanese/grammarpoint/Verb ようと思う (Verb-you to omou)",                   x
+"https://hanabira.org/japanese/grammarpoint/Verb ように (〜you ni)",                               x
+"https://hanabira.org/japanese/grammarpoint/Verb ようにする (Verb ~you ni suru)",                  x
+"https://hanabira.org/japanese/grammarpoint/Verb ようになる (〜you ni naru)",                      x
+"https://hanabira.org/japanese/grammarpoint/Verb ように言う (Verb-you ni iu)",                     x
+"https://hanabira.org/japanese/grammarpoint/Verb られる (〜rareru)",                               x
+"https://hanabira.org/japanese/grammarpoint/Verb る ことがある (〜ru koto ga aru)",                 x
+"https://hanabira.org/japanese/grammarpoint/Verb ることができる (〜ru koto ga dekiru)",             x
+"https://hanabira.org/japanese/grammarpoint/Verb ることにする (〜ru koto ni suru)",                 x  
+"https://hanabira.org/japanese/grammarpoint/Verb る ことになる (〜ru koto ni naru)",                x
+"https://hanabira.org/japanese/grammarpoint/Verb るときに (〜ru toki ni)",                          x
+"https://hanabira.org/japanese/grammarpoint/Verb る ところ (Verb-ru to koro)",                      x
+"https://hanabira.org/japanese/grammarpoint/Verb 出す (~dasu)",                                     x
+"https://hanabira.org/japanese/grammarpoint/Verb 方 (〜hou)",                                       x
+"https://hanabira.org/japanese/grammarpoint/Verb 終わる (〜owaru)",                                 x
+"https://hanabira.org/japanese/grammarpoint/Verb + 続ける (つづける, tsuzukeru)",                    x
+"https://hanabira.org/japanese/grammarpoint/～かしら (〜kashira)",                                   x
+"https://hanabira.org/japanese/grammarpoint/～かどうか (〜ka dou ka)",                                x
+"https://hanabira.org/japanese/grammarpoint/～かなあ (〜kanaa)",                                     x
+"https://hanabira.org/japanese/grammarpoint/～かもしれない (〜kamoshirenai)",                         x
+"https://hanabira.org/japanese/grammarpoint/～から (〜kara)",                                        x   
+"https://hanabira.org/japanese/grammarpoint/～けれど (〜keredo)",                                    x
+"https://hanabira.org/japanese/grammarpoint/～させてください (〜sasete kudasai)",                     x
+"https://hanabira.org/japanese/grammarpoint/～し、～し、～ (〜shi, 〜shi, 〜)",                       x
+"https://hanabira.org/japanese/grammarpoint/～すぎる (〜sugiru)",                                     x
+"https://hanabira.org/japanese/grammarpoint/～ずつ (〜zutsu)",                                        x
+"https://hanabira.org/japanese/grammarpoint/～そうだ (〜sou da)",                                     x
+"https://hanabira.org/japanese/grammarpoint/そんな (sonna) + Noun",                                  x
+"https://hanabira.org/japanese/grammarpoint/そんなに～ (sonna ni〜)",                                 x
+"https://hanabira.org/japanese/grammarpoint/～たらいい (〜tara ii)",                                  x
+"https://hanabira.org/japanese/grammarpoint/～たら いかがですか (〜tara ikaga desu ka)",               x
+"https://hanabira.org/japanese/grammarpoint/～たら どうですか (〜tara doudesuka)",                     x
+"https://hanabira.org/japanese/grammarpoint/～たり～たり (〜tari 〜tari)",                             x
+"https://hanabira.org/japanese/grammarpoint/～だろう (〜darou)",                                      x
+"https://hanabira.org/japanese/grammarpoint/～っていう (〜tte iu)",                                   x
+"https://hanabira.org/japanese/grammarpoint/～で (〜de)",                                            x
+"https://hanabira.org/japanese/grammarpoint/～でしょう (〜deshou)",                                  x
+"https://hanabira.org/japanese/grammarpoint/～てはいけない (〜te wa ikenai)",                        x
+"https://hanabira.org/japanese/grammarpoint/～てもいい (〜temo ii)",                                 x
+"https://hanabira.org/japanese/grammarpoint/～ても/でも (〜te mo/demo)",                             slash
+"https://hanabira.org/japanese/grammarpoint/～といい (〜to ii)",                                     x
+"https://hanabira.org/japanese/grammarpoint/～という (〜to iu) Noun",                                x
+"https://hanabira.org/japanese/grammarpoint/どういう Noun (dou iu Noun)",                            already indexed
+"https://hanabira.org/japanese/grammarpoint/～と思う (〜to omou)",                                   x
+"https://hanabira.org/japanese/grammarpoint/～という (〜to iu)",                                     indexed
+"https://hanabira.org/japanese/grammarpoint/～ないといけない (〜nai to ikenai)",                      x
+"https://hanabira.org/japanese/grammarpoint/～なきゃいけない (〜nakya ikenai)",                       x
+"https://hanabira.org/japanese/grammarpoint/～なくちゃいけない (〜naku cha ikenai)",                  x
+"https://hanabira.org/japanese/grammarpoint/～なくてはいけない (〜nakute wa ikenai)",                 x
+"https://hanabira.org/japanese/grammarpoint/～なくてもいい (〜nakutemo ii)",                          x
+"https://hanabira.org/japanese/grammarpoint/～なければ ならない (〜nakereba naranai)",                x
+"https://hanabira.org/japanese/grammarpoint/～に (〜ni)",                                            x
+"https://hanabira.org/japanese/grammarpoint/～ので (〜node)",                                        x
+"https://hanabira.org/japanese/grammarpoint/～のです (〜no desu)",                                    x
+"https://hanabira.org/japanese/grammarpoint/～のに (〜no ni)",                                       x
+"https://hanabira.org/japanese/grammarpoint/～ばいい (〜ba ii)",                                     x
+"https://hanabira.org/japanese/grammarpoint/～まで (〜made)",                                        done
+"https://hanabira.org/japanese/grammarpoint/～までに (〜made ni)",                                   x
+"https://hanabira.org/japanese/grammarpoint/～まま (〜mama)",                                        x
+"https://hanabira.org/japanese/grammarpoint/～みたいだ (〜mitai da)",                                x
+"https://hanabira.org/japanese/grammarpoint/～も (〜mo)",                                            x
+"https://hanabira.org/japanese/grammarpoint/～ようだ (〜you da)",                                    x
+"https://hanabira.org/japanese/grammarpoint/～んです (〜n desu)",                                    x
+"https://hanabira.org/japanese/grammarpoint/文A。そのうえ 文B。",                                    x
+"https://hanabira.org/japanese/grammarpoint/文A。それで 文B (Bun A. Sorede Bun B)",                  x
+"https://hanabira.org/japanese/grammarpoint/文A。それに 文B (Bun A. Soreni Bun B)",                  x
+"https://hanabira.org/japanese/grammarpoint/文A。だから 文B (Bun A. Dakara Bun B)"                   x
+
+]}coil@coil-VM:~/Desktop/zen-lingo-website/prod/backend/express/express-db$ 
+
+coil@coil-VM:~/Desktop/zen-lingo-website/prod/backend/express/express-db$ 
+coil@coil-VM:~/Desktop/zen-lingo-website/prod/backend/express/express-db$ 
+coil@coil-VM:~/Desktop/zen-lingo-website/prod/backend/express/express-db$ 
+coil@coil-VM:~/Desktop/zen-lingo-website/prod/backend/express/express-db$ curl -X GET 'http://localhost:8000/e-api/v1/grammar-titles?p_tag=JLPT_N3&type=encoded'
+{"titles":[
+
+"https://zen-lingo.com/japanese/grammarpoint/A その上 B (A sono ue B)",                      x
+"https://zen-lingo.com/japanese/grammarpoint/～うちに (〜uchi ni)",                          x
+"https://zen-lingo.com/japanese/grammarpoint/～うとした (〜uto shita)",                      x
+"https://zen-lingo.com/japanese/grammarpoint/～おかげで (〜okagede)",                        x
+"https://zen-lingo.com/japanese/grammarpoint/～かけ (〜kake)",                               x
+"https://zen-lingo.com/japanese/grammarpoint/～かなあ (〜kanaa)",                            x
+"https://zen-lingo.com/japanese/grammarpoint/～がらないで (〜ga ranai de)",                  x    
+"https://zen-lingo.com/japanese/grammarpoint/～から～にかけて (〜kara 〜ni kakete)",         x
+"https://zen-lingo.com/japanese/grammarpoint/～かわりに (〜kawari ni)",                     x
+"https://zen-lingo.com/japanese/grammarpoint/～きり (〜kiri)",                                x
+"https://zen-lingo.com/japanese/grammarpoint/～くせに (〜kuse ni)",                          x
+"https://zen-lingo.com/japanese/grammarpoint/～くらい (〜kurai)",                              x
+"https://zen-lingo.com/japanese/grammarpoint/～くらい～は～ない (〜kurai 〜wa 〜nai)",          x         
+"https://zen-lingo.com/japanese/grammarpoint/～こそ (〜koso)",                                x
+"https://zen-lingo.com/japanese/grammarpoint/～こと (〜koto)",                                x
+"https://zen-lingo.com/japanese/grammarpoint/～ことだ (〜koto da)",                           x
+"https://zen-lingo.com/japanese/grammarpoint/～ことにしている (〜koto ni shite iru)",            x
+"https://zen-lingo.com/japanese/grammarpoint/～ことになっている (〜koto ni natte iru)",          x
+"https://zen-lingo.com/japanese/grammarpoint/～ことは…が (～koto wa... ga)",                     x
+"https://zen-lingo.com/japanese/grammarpoint/～ことはない (〜koto wa nai)",                       x
+"https://zen-lingo.com/japanese/grammarpoint/～さ～ (〜sa〜)",                                   x
+"https://zen-lingo.com/japanese/grammarpoint/～さえ (～sae)",                                    x
+"https://zen-lingo.com/japanese/grammarpoint/～しかない (〜shika nai)",                             x
+"https://zen-lingo.com/japanese/grammarpoint/すこしも〜ない (sukoshimo~nai)",                     x
+"https://zen-lingo.com/japanese/grammarpoint/～ずに (〜zu ni)",                                    x
+"https://zen-lingo.com/japanese/grammarpoint/～せいで (〜sei de)",                                  x
+"https://zen-lingo.com/japanese/grammarpoint/～せてください (〜sete kudasai)",                      x
+"https://zen-lingo.com/japanese/grammarpoint/～そのために (〜sono tame ni)",                       x
+"https://zen-lingo.com/japanese/grammarpoint/～その結果 (〜sono kekka)",                           x
+"https://zen-lingo.com/japanese/grammarpoint/～それと～ (〜sore to〜)",                            x   
+"https://zen-lingo.com/japanese/grammarpoint/～？それとも～？ (～? sore tomo ～?)",                likely problem with question marks
+"https://zen-lingo.com/japanese/grammarpoint/～だけしか (～dake shika)",                           x
+"https://zen-lingo.com/japanese/grammarpoint/だけど (dakedo)",                                    x
+"https://zen-lingo.com/japanese/grammarpoint/～たて (～tate)",                                     x
+"https://zen-lingo.com/japanese/grammarpoint/～たとえ～ても (〜tatoe〜temo)",                       x
+"https://zen-lingo.com/japanese/grammarpoint/～たところ (〜ta tokoro)",                            x
+"https://zen-lingo.com/japanese/grammarpoint/～たとたん (〜ta totan)",                             x
+"https://zen-lingo.com/japanese/grammarpoint/～たびに (〜tabi ni)",                                x
+"https://zen-lingo.com/japanese/grammarpoint/～だものだ (〜da mono da)",                           x
+"https://zen-lingo.com/japanese/grammarpoint/～ちゃった (〜chatta)",                               x
+"https://zen-lingo.com/japanese/grammarpoint/～ついでに (〜tsuide ni)",                            x
+"https://hanabira.org/japanese/grammarpoint/～っけ？ (〜kke?)",                                   x   question mark issues
+"https://hanabira.org/japanese/grammarpoint/～っぱい (〜ppai)",                                   x
+"https://hanabira.org/japanese/grammarpoint/～っぱなし (〜ppanashi)",                             x
+"https://hanabira.org/japanese/grammarpoint/～つまり (〜tsumari)",                                x
+"https://hanabira.org/japanese/grammarpoint/～つもりでした (〜tsumori deshita)",                   x
+"https://hanabira.org/japanese/grammarpoint/～てくれと (〜te kureto)",                            x
+"https://hanabira.org/japanese/grammarpoint/～てごらん (〜te goran)",                             x
+"https://hanabira.org/japanese/grammarpoint/ですから～ (desu kara)",                             x
+"https://hanabira.org/japanese/grammarpoint/～てはじめて (〜te hajimete)",                       x
+"https://hanabira.org/japanese/grammarpoint/～てほしい (〜te hoshii)",                             x
+"https://hanabira.org/japanese/grammarpoint/～ても (〜temo)",                                    x
+"https://hanabira.org/japanese/grammarpoint/～といいなあ (〜to ii naa)",                         x
+"https://hanabira.org/japanese/grammarpoint/～という (〜to iu)",                                 x      
+"https://hanabira.org/japanese/grammarpoint/～ということだ (〜to iu koto da)",                    x
+"https://hanabira.org/japanese/grammarpoint/～というと (〜to iu to)",                            x
+"https://hanabira.org/japanese/grammarpoint/～というの～ (〜to iu no〜)",                          x
+"https://hanabira.org/japanese/grammarpoint/～というのは (〜to iu no wa)",                        x
+"https://hanabira.org/japanese/grammarpoint/～というより (〜to iu yori)",                         x
+"https://hanabira.org/japanese/grammarpoint/～といっても (〜to ittemo)",                          x
+"https://hanabira.org/japanese/grammarpoint/～とおり (〜toori)",                                 x
+"https://hanabira.org/japanese/grammarpoint/～とく (〜toku)",                                     x
+"https://hanabira.org/japanese/grammarpoint/～ところが (〜tokoro ga)",                            x
+"https://hanabira.org/japanese/grammarpoint/～ところだった (〜tokoro datta)",                     x    
+"https://hanabira.org/japanese/grammarpoint/ところで (tokorode)",                               x
+"https://hanabira.org/japanese/grammarpoint/～としたら (〜to shitara)",                         x
+"https://hanabira.org/japanese/grammarpoint/～として (〜to shite)",                             x
+"https://hanabira.org/japanese/grammarpoint/～どんなに～ことか (〜donna ni〜koto ka)",             x
+"https://hanabira.org/japanese/grammarpoint/どんなに～ても (donna ni ~ temo)",                    x
+"https://hanabira.org/japanese/grammarpoint/～ないことはない (〜nai koto wa nai)",                x
+"https://hanabira.org/japanese/grammarpoint/～ないと (〜nai to)",                                x
+"https://hanabira.org/japanese/grammarpoint/～なぜなら (〜nazenara)",                            x
+"https://hanabira.org/japanese/grammarpoint/～など (〜nado)",                                   x
+"https://hanabira.org/japanese/grammarpoint/～なんか (〜nanka)",                                 x
+"https://hanabira.org/japanese/grammarpoint/～において (〜ni oite)",                              x
+"https://hanabira.org/japanese/grammarpoint/～にかわって (〜ni kawatte)",                          x
+"https://hanabira.org/japanese/grammarpoint/～にしては (〜ni shite wa)",                          x
+"https://hanabira.org/japanese/grammarpoint/～にしても (〜ni shitemo)",                            x
+"https://hanabira.org/japanese/grammarpoint/～について (〜ni tsuite)",                           google declined
+"https://hanabira.org/japanese/grammarpoint/～にとって (〜ni totte)",                              x
+"https://hanabira.org/japanese/grammarpoint/～によって (〜ni yotte)",                               x
+"https://hanabira.org/japanese/grammarpoint/～によれば (〜ni yoreba)",                             x
+"https://hanabira.org/japanese/grammarpoint/～に対して (～ni taishite)",                           x
+"https://hanabira.org/japanese/grammarpoint/～に比べて (〜ni kurabete)",                           x
+"https://hanabira.org/japanese/grammarpoint/～に関して (〜ni kanshite)",                           x
+"https://hanabira.org/japanese/grammarpoint/～の～ (〜no 〜)",                                     x
+"https://hanabira.org/japanese/grammarpoint/～ばかり (〜bakari)",                                  x
+"https://hanabira.org/japanese/grammarpoint/～ばかりか (〜bakarika) ～も (mo)",                     x
+"https://hanabira.org/japanese/grammarpoint/～はずだ (〜hazu da)",                                 x
+"https://hanabira.org/japanese/grammarpoint/～ば～のに (〜ba 〜noni)",                             x
+"https://hanabira.org/japanese/grammarpoint/～ば～ほど (〜ba 〜hodo)",                             x
+"https://hanabira.org/japanese/grammarpoint/～はもちろん～も (〜wa mochiron 〜mo)",                    x
+"https://hanabira.org/japanese/grammarpoint/～ばよかった (〜ba yokatta)",                          x
+"https://hanabira.org/japanese/grammarpoint/～ふりをする (〜furi wo suru)",                        x
+"https://hanabira.org/japanese/grammarpoint/～べきだ (〜beki da)",                                 x
+"https://hanabira.org/japanese/grammarpoint/～ほど～ (〜hodo〜)",                                  x
+"https://hanabira.org/japanese/grammarpoint/～ますように (〜masu you ni)",                         x
+"https://hanabira.org/japanese/grammarpoint/まったく～ない (mattaku ~nai)",                        x   
+"https://hanabira.org/japanese/grammarpoint/～まで (〜made)",                                      x
+"https://hanabira.org/japanese/grammarpoint/～まま (〜mama)",                                      x
+"https://hanabira.org/japanese/grammarpoint/まるで～よう (maru de ~ you)",                         x
+"https://hanabira.org/japanese/grammarpoint/～み (～mi)",                                          x
+"https://hanabira.org/japanese/grammarpoint/～みたいだ (〜mitai da)",                                     x
+"https://hanabira.org/japanese/grammarpoint/～めったに～ない (〜metta ni 〜nai)",                             x
+"https://hanabira.org/japanese/grammarpoint/～めったにない (〜metta ni nai)",                                 x
+"https://hanabira.org/japanese/grammarpoint/もしかすると〜かもしれない (moshikasuru to 〜kamoshirenai)",       x
+"https://hanabira.org/japanese/grammarpoint/もし～たなら (moshi ~ tanara)",                                  x
+"https://hanabira.org/japanese/grammarpoint/もし～としても (moshi ～ to shitemo)",                           x
+"https://hanabira.org/japanese/grammarpoint/もしも～なら (moshimo ~ nara)",                                  x   
+"https://hanabira.org/japanese/grammarpoint/～ようとしない (〜you to shinai)",                               x
+"https://hanabira.org/japanese/grammarpoint/～ようと思う (〜you to omou)",                                   x
+"https://hanabira.org/japanese/grammarpoint/～ように (〜you ni)",                                           x
+"https://hanabira.org/japanese/grammarpoint/～ようにしましょう (〜you ni shimashou)",                         x
+"https://hanabira.org/japanese/grammarpoint/～ようになった (〜you ni natta)",                                x
+"https://hanabira.org/japanese/grammarpoint/～ように言う (〜you ni iu)",                                     x
+"https://hanabira.org/japanese/grammarpoint/～らしい (〜rashii)",                                            x
+"https://hanabira.org/japanese/grammarpoint/～られた (〜rareta)",                                            x
+"https://hanabira.org/japanese/grammarpoint/～れている (〜rete iru)",                                        x
+"https://hanabira.org/japanese/grammarpoint/～わけがない (〜wake ga nai)",                                   x
+"https://hanabira.org/japanese/grammarpoint/～わけだ (〜wake da)",                                           x
+"https://hanabira.org/japanese/grammarpoint/～わけではない (〜wake dewa nai)",                                x
+"https://hanabira.org/japanese/grammarpoint/～わけにはいかない (〜wake ni wa ikanai)",                       x
+"https://hanabira.org/japanese/grammarpoint/～わりには (〜wari ni wa)",                                      x
+"https://hanabira.org/japanese/grammarpoint/～んだって (〜n datte)",                                         x
+"https://hanabira.org/japanese/grammarpoint/～んだもん (〜nda mon)",                                         x
+"https://hanabira.org/japanese/grammarpoint/～上げる (〜ageru)",                                            x
+"https://hanabira.org/japanese/grammarpoint/～切れない (～kirenai)",                                        x
+"https://hanabira.org/japanese/grammarpoint/必ずしも～とは限らない (kanarazushimo ～ towa kagiranai)",       x 
+"https://hanabira.org/japanese/grammarpoint/～最中に (～saichuu ni)",                                       x
+"https://hanabira.org/japanese/grammarpoint/決して～ない (kesshite ~ nai)"                                  LIMIT
+]}coil@coil-VM:~/Desktop/zen-lingo-website/prod/backend/express/express-db$ 
+coil@coil-VM:~/Desktop/zen-lingo-website/prod/backend/express/express-db$ 
+coil@coil-VM:~/Desktop/zen-lingo-website/prod/backend/express/express-db$ 
+coil@coil-VM:~/Desktop/zen-lingo-website/prod/backend/express/express-db$ 
+coil@coil-VM:~/Desktop/zen-lingo-website/prod/backend/express/express-db$ curl -X GET 'http://localhost:8000/e-api/v1/grammar-titles?p_tag=JLPT_N2&type=encoded'
+{"titles":[
+"https://zen-lingo.com/grammarpoint/A あるいは B (A aruiwa B)",                                     x
+"https://zen-lingo.com/grammarpoint/A。おまけに B。(~omake ni)",                                    x
+"https://zen-lingo.com/grammarpoint/A。さて B。(A. Sate B.)",                                      x
+"https://zen-lingo.com/grammarpoint/A。しかも B。(A. Shikamo B.)",                                  x
+"https://zen-lingo.com/grammarpoint/A。したがって B。(A. Shitagatte B.)",                           x
+"https://zen-lingo.com/grammarpoint/A すなわち B。 (A sunawachi B)",                                x
+"https://zen-lingo.com/grammarpoint/A。すると B。(~suruto)",                                        x
+"https://zen-lingo.com/grammarpoint/A。そういえば B。(~souieba)",                                   x
+"https://zen-lingo.com/grammarpoint/A。そこで B。(~sokode)",                                        x
+"https://zen-lingo.com/grammarpoint/A。それがB。(~sorega)",                                         x
+"https://zen-lingo.com/grammarpoint/A。それで B。 (~sore de)",                                      x
+"https://zen-lingo.com/grammarpoint/A。それでも B。(~sore demo)",                                   x
+"https://zen-lingo.com/grammarpoint/A。それなのに B。(~sorenanoni)",                                x
+"https://zen-lingo.com/grammarpoint/A。それなら B。(A. Sore nara B.)",                              x
+"https://zen-lingo.com/grammarpoint/A それはそうと B。 (A Sore wa sou to B)",                       x
+"https://zen-lingo.com/grammarpoint/A。だが B。(~daga)",                                            x
+"https://zen-lingo.com/grammarpoint/A。ただB。(~tada)",                                             x
+"https://zen-lingo.com/grammarpoint/A。ただしB。 (A. Tadashi B)",                                   x
+"https://zen-lingo.com/grammarpoint/A。だって B。(Datte~)",                                         x  
+"https://zen-lingo.com/grammarpoint/A。ちなみに B。(A. Chinamini B.)",                              x
+"https://zen-lingo.com/grammarpoint/A。ということは B。 (A. To iu koto wa B.)",                     x
+"https://zen-lingo.com/grammarpoint/A。というのは B。(Toiu no wa~)",                                x
+"https://zen-lingo.com/grammarpoint/A。なおB。(A. Nao B.)",                                        x
+"https://zen-lingo.com/grammarpoint/A。もっとも B。(Motto mo ~)",                                   x
+"https://zen-lingo.com/grammarpoint/A。要するに B。(A. Yousuru ni B.)",                             x
+"https://zen-lingo.com/grammarpoint/Noun につき (〜ni tsuki)",                                      x
+"https://zen-lingo.com/grammarpoint/Noun にて (Noun nite)",                                         x
+"https://zen-lingo.com/grammarpoint/Noun の ことだから (Noun no koto dakara)",                      x
+"https://zen-lingo.com/grammarpoint/Noun を はじめ (Noun wo hajime)",                               x
+"https://zen-lingo.com/grammarpoint/Noun を はじめとして (Noun wo hajimete shite)",                  x         
+"https://zen-lingo.com/grammarpoint/Noun を はじめとする Noun (Noun wo hajimete suru Noun)",         x
+"https://zen-lingo.com/grammarpoint/Noun を めぐって (Noun wo megutte)",                             x
+"https://zen-lingo.com/grammarpoint/Noun を めぐる Noun (Noun wo meguru Noun)",                      x
+"https://zen-lingo.com/grammarpoint/Noun を もとに (Noun o moto ni)",                                x
+"https://zen-lingo.com/grammarpoint/Noun を もとにして (Noun wo moto ni shite)",                     x
+"https://zen-lingo.com/grammarpoint/Verb ことなく (~kotonaku)",                                      x
+"https://zen-lingo.com/grammarpoint/Verb ないことには Verb ない (~nai koto ni wa ~ nai)",             x
+"https://zen-lingo.com/grammarpoint/～あげく (~ageku)",                                              x
+"https://zen-lingo.com/grammarpoint/～あまり (〜amari)",                                             x
+"https://zen-lingo.com/grammarpoint/～うちに (〜uchi ni)",                                           x
+"https://zen-lingo.com/grammarpoint/～がい (〜gai)",                                                 x
+"https://zen-lingo.com/grammarpoint/～かいがあって (〜kaiga atte)",                                   x
+"https://zen-lingo.com/grammarpoint/～かいもなく (〜kai mo naku)",                                    x
+"https://zen-lingo.com/grammarpoint/～かける (〜kakeru)",                                            x
+"https://zen-lingo.com/grammarpoint/～がち (〜gachi)",                                              x
+"https://zen-lingo.com/grammarpoint/～か～ないかのうちに (〜ka〜naika no uchi ni)",                   x
+"https://zen-lingo.com/grammarpoint/～かねない (〜kane nai)",                                         x
+"https://zen-lingo.com/grammarpoint/～かねる (〜kaneru)",                                            x
+"https://zen-lingo.com/grammarpoint/～かのようだ (〜ka no you da)",                                   x
+"https://zen-lingo.com/grammarpoint/～か～まいか (〜ka 〜maika)",                                     x
+"https://zen-lingo.com/grammarpoint/～からこそ (〜kara koso)",                                        x
+"https://zen-lingo.com/grammarpoint/〜からして (〜kara shite)",                                       x
+"https://zen-lingo.com/grammarpoint/～からすると (〜kara suru to)",                                   x
+"https://zen-lingo.com/grammarpoint/～からといって (〜kara to itte)",                                 x 
+"https://zen-lingo.com/grammarpoint/～から～にかけて (〜kara 〜ni kakete)",     x
+"https://zen-lingo.com/grammarpoint/～からには (〜kara niwa)",    x
+"https://zen-lingo.com/grammarpoint/～から見ると (〜kara miru to)",    x
+"https://zen-lingo.com/grammarpoint/～から言うと (〜kara iuto)",   x
+"https://zen-lingo.com/grammarpoint/～くせして (〜kuse shite)",    x
+"https://zen-lingo.com/grammarpoint/～ことから (〜koto kara)",     x
+"https://zen-lingo.com/grammarpoint/～ことに (〜koto ni)",         x
+"https://zen-lingo.com/grammarpoint/～ことになっている (〜koto ni natte iru)",   x
+"https://zen-lingo.com/grammarpoint/～さえ～ば (〜sae 〜ba)",          x
+"https://zen-lingo.com/grammarpoint/～ざるを得ない (〜zaru wo enai)",    x
+"https://zen-lingo.com/grammarpoint/～ずにはいられない (〜zu ni wa irarenai)",     x 
+"https://zen-lingo.com/grammarpoint/～そうにない (〜sou ni nai)",                 x
+"https://zen-lingo.com/grammarpoint/～たかと思ったら (〜ta ka to omottara)",     x
+"https://zen-lingo.com/grammarpoint/～たきり (〜takiri)",                       x
+"https://zen-lingo.com/grammarpoint/～だけあって (〜dake atte)",                x
+"https://zen-lingo.com/grammarpoint/～だけましだ (〜dake mashi da)",            x
+"https://zen-lingo.com/grammarpoint/～たところ (〜ta tokoro)",                    x
+"https://zen-lingo.com/grammarpoint/～たとたん (〜ta totan)",                   x
+"https://zen-lingo.com/grammarpoint/～だらけ (〜darake)",                      x
+"https://zen-lingo.com/grammarpoint/～っこない (〜kkonai)",                     x
+"https://zen-lingo.com/grammarpoint/～つつ (〜tsutsu)",                      x
+"https://zen-lingo.com/grammarpoint/～つつある (〜tsutsu aru)",              x 
+"https://zen-lingo.com/grammarpoint/～っぱなし (〜ppanashi)",                x
+"https://zen-lingo.com/grammarpoint/～っぽい (〜ppoi)",                      x
+"https://zen-lingo.com/grammarpoint/～ていられない (〜te irarenai)",          x
+"https://zen-lingo.com/grammarpoint/～てかなわない (〜te kanawanai)",          x
+"https://zen-lingo.com/grammarpoint/～てからでないと (〜te kara denai to)",    x
+"https://zen-lingo.com/grammarpoint/～てこそ (〜te koso)",                       x
+"https://zen-lingo.com/grammarpoint/～でしょうがない (〜deshou ga nai)",            x
+"https://zen-lingo.com/grammarpoint/～でたまらない (〜de tamaranai)",               x
+"https://zen-lingo.com/grammarpoint/～でならない (〜de naranai)",                    x
+"https://zen-lingo.com/grammarpoint/～でばかりはいられない (〜de bakari wa irarenai)",    x
+"https://zen-lingo.com/grammarpoint/～ではないか (〜de wa nai ka)",                      x
+"https://zen-lingo.com/grammarpoint/～てはならない (〜te wa naranai)",                   x
+"https://zen-lingo.com/grammarpoint/～てまで (〜te made)",                              x
+"https://zen-lingo.com/grammarpoint/～て当然だ (〜te touzen da)",                       x
+"https://zen-lingo.com/grammarpoint/～というものだ (〜to iu mono da)",                    x
+"https://zen-lingo.com/grammarpoint/どうにか～ないものか (dou ni ka ~ nai mono ka)",       x
+"https://zen-lingo.com/grammarpoint/～とおり (〜toori)",                                 x
+"https://zen-lingo.com/grammarpoint/～とか (〜to ka)",                                  x
+"https://zen-lingo.com/grammarpoint/～ところ (〜tokoro)",                                 x
+"https://zen-lingo.com/grammarpoint/～どころか (〜dokoroka)",                            x
+"https://zen-lingo.com/grammarpoint/～どころではない (〜Dokoro de wa nai)",             x 
+"https://zen-lingo.com/grammarpoint/～としたら (〜to shitara)",                      x
+"https://zen-lingo.com/grammarpoint/～としても (〜to shite mo)",                      x
+"https://zen-lingo.com/grammarpoint/～と～ともに (〜to 〜tomoni)",                    x
+"https://zen-lingo.com/grammarpoint/～とは限らない (〜to wa kagiranai)",              x
+"https://zen-lingo.com/grammarpoint/～ないことはない (〜nai koto wa nai)",            x
+"https://zen-lingo.com/grammarpoint/～ないこともない (〜nai koto mo nai)",            x
+"https://zen-lingo.com/grammarpoint/～ないではいられない (〜nai de wa irarenai)",     x
+"https://zen-lingo.com/grammarpoint/～ながら (〜nagara)",                            x
+"https://zen-lingo.com/grammarpoint/～にあたり (〜ni atari)",                        x
+"https://zen-lingo.com/grammarpoint/～において (〜ni oite)",                         x
+"https://zen-lingo.com/grammarpoint/～にかかわらず (〜ni kakawarazu)",                x 
+"https://zen-lingo.com/grammarpoint/～にかけては (〜ni kakete wa)",                  x
+"https://zen-lingo.com/grammarpoint/～にしたがって (〜ni shitagatte)",               x
+"https://zen-lingo.com/grammarpoint/～にしたら (〜ni shitara)",                     x
+"https://zen-lingo.com/grammarpoint/～にしろ～にしろ (〜ni shiro 〜ni shiro)",      x
+"https://zen-lingo.com/grammarpoint/～につけ～につけ (〜ni tsuke 〜ni tsuke)",       x
+"https://zen-lingo.com/grammarpoint/～につれて (〜ni tsurete)",                     x
+"https://zen-lingo.com/grammarpoint/～にともなって (〜ni tomonatte)",                x
+"https://zen-lingo.com/grammarpoint/～にほかならない (〜ni hoka naranai)",             x
+"https://zen-lingo.com/grammarpoint/～にもかかわらず (〜ni mo kakawarazu)",            x
+"https://zen-lingo.com/grammarpoint/～により (〜ni yori)",                            x
+"https://zen-lingo.com/grammarpoint/～にわたって (〜ni watatte)",                     x
+"https://zen-lingo.com/grammarpoint/～に先立ち (〜ni sakidachi)",                     x 
+"https://zen-lingo.com/grammarpoint/～に反して (〜ni hanshite)",                      x
+"https://zen-lingo.com/grammarpoint/～に基づいて (〜ni motozuite)",                   x
+"https://zen-lingo.com/grammarpoint/～に対して (〜ni taishite)",                      x
+"https://zen-lingo.com/grammarpoint/～に応えて (〜ni kotaete)",                       x
+"https://zen-lingo.com/grammarpoint/～に応じて (〜ni oujite)",                        x
+"https://zen-lingo.com/grammarpoint/～に決まっている (〜ni kimatte iru)",              x
+"https://zen-lingo.com/grammarpoint/～に沿って (〜ni sotte)",                          x
+"https://zen-lingo.com/grammarpoint/～に過ぎない (〜ni suginai)",                      x
+"https://zen-lingo.com/grammarpoint/～に関わって (〜ni kakawatte)",                    x
+"https://zen-lingo.com/grammarpoint/～に限り (〜ni kagiri)",                           x
+"https://zen-lingo.com/grammarpoint/～に際して (〜ni saishite)",                       x
+"https://zen-lingo.com/grammarpoint/～ねばならない (〜neba naranai)",                  x
+"https://zen-lingo.com/grammarpoint/～のみならず～も (〜nomi narazu 〜mo)",            x
+"https://zen-lingo.com/grammarpoint/～のももっともだ (〜no mo mottomo da)",            x
+"https://zen-lingo.com/grammarpoint/〜の上では (〜no ue de wa)",                      x
+"https://zen-lingo.com/grammarpoint/～の下で (〜no shita de)",                        x
+"https://zen-lingo.com/grammarpoint/～ばかりか〜も (〜bakari ka 〜 mo)",               x
+"https://zen-lingo.com/grammarpoint/～ばかりだ (〜bakari da)",                        x
+"https://zen-lingo.com/grammarpoint/～ばかりに (〜bakari ni)",                        x
+"https://zen-lingo.com/grammarpoint/～ば～というものでもない (〜ba 〜to iu mono demo nai)",   x
+"https://zen-lingo.com/grammarpoint/～はともかく～は (〜wa tomokaku 〜wa)",               x
+"https://zen-lingo.com/grammarpoint/～はまだしも (〜wa mada shimo)",                   x
+"https://zen-lingo.com/grammarpoint/～はもとより (〜wa moto yori〜mo)",                x
+"https://zen-lingo.com/grammarpoint/～は抜きにして (〜wa nuki ni shite)",              x
+"https://zen-lingo.com/grammarpoint/～べきではない (〜beki dewa nai)",                 x
+"https://zen-lingo.com/grammarpoint/～まい (〜mai)",                                  x
+"https://zen-lingo.com/grammarpoint/～まで～て (〜made 〜te)",                        x
+"https://zen-lingo.com/grammarpoint/～ままに (〜mama ni)",                            x
+"https://zen-lingo.com/grammarpoint/～もかまわず (〜mo kamawazu)",                    x
+"https://zen-lingo.com/grammarpoint/～ものか (〜mono ka)",                             x
+"https://zen-lingo.com/grammarpoint/～ものがある (〜mono ga aru)",                     x
+"https://zen-lingo.com/grammarpoint/～ものだ (〜mono da)",                             x
+"https://zen-lingo.com/grammarpoint/～ものだから (〜mono dakara)",                     x
+"https://zen-lingo.com/grammarpoint/～ものではない (〜mono dewa nai)",                  x
+"https://zen-lingo.com/grammarpoint/～ものなら (〜mono nara)",                         x
+"https://zen-lingo.com/grammarpoint/～ものの、～ (〜mono no、～)",                      x
+"https://zen-lingo.com/grammarpoint/～も～ば～も～ (〜mo〜ba〜mo〜)",                   x
+"https://zen-lingo.com/grammarpoint/～も同然だ (〜mo douzen da)",                      x
+"https://zen-lingo.com/grammarpoint/～やら～やら (〜yara〜yara)",                      x
+"https://zen-lingo.com/grammarpoint/～ようがない (〜you ga nai)",                      x
+"https://zen-lingo.com/grammarpoint/～よりほかない (〜yori hoka nai)",                 x
+"https://zen-lingo.com/grammarpoint/～わけがない (〜wake ga nai)",                     x
+"https://zen-lingo.com/grammarpoint/～わけだ (〜wake da)",                             x
+"https://zen-lingo.com/grammarpoint/～わけではない (〜wake dewa nai)",                 x
+"https://zen-lingo.com/grammarpoint/～わけにはいかない (〜wake ni wa ikanai)",           x
+"https://zen-lingo.com/grammarpoint/～をきっかけに (〜wo kikkake ni)",                  x
+"https://zen-lingo.com/grammarpoint/～を～として (〜wo〜toshite)",                      x
+"https://zen-lingo.com/grammarpoint/～を中心に (〜wo chuushin ni)",                     x
+"https://zen-lingo.com/grammarpoint/～を問わず (〜wo towazu)",                          x
+"https://zen-lingo.com/grammarpoint/～を込めて (〜wo komete)",                          x
+"https://zen-lingo.com/grammarpoint/～を通じて (〜wo tsuujite)",                        x
+"https://zen-lingo.com/grammarpoint/～を頼りに (〜wo tayori ni)",                       x
+"https://zen-lingo.com/grammarpoint/～一方 (〜ippou)",                                  x
+"https://zen-lingo.com/grammarpoint/～一方だ (〜ippou da)",                             x
+"https://zen-lingo.com/grammarpoint/～上で (〜ue de)",                                  x 
+"https://zen-lingo.com/grammarpoint/～上に (〜ue ni)",                                  x
+"https://zen-lingo.com/grammarpoint/～上は (～ue wa)",                                  x
+"https://zen-lingo.com/grammarpoint/～以上 (〜ijou)",                                   x
+"https://zen-lingo.com/grammarpoint/～以来 (〜irai)",                                   x
+"https://zen-lingo.com/grammarpoint/～切る (〜kiru)",                                   x
+"https://zen-lingo.com/grammarpoint/～反面 (〜hanmen)",                                x
+"https://zen-lingo.com/grammarpoint/～向け (〜muke)",                                  x
+"https://zen-lingo.com/grammarpoint/～恐れがある (〜osore ga aru)",                     x
+"https://zen-lingo.com/grammarpoint/～折には (〜ori ni wa)",                            x
+"https://zen-lingo.com/grammarpoint/～末 (～sue)",                                     x
+"https://zen-lingo.com/grammarpoint/～次第 (〜shidai)",                                x
+"https://zen-lingo.com/grammarpoint/～次第で (〜shidai de)",                           x
+"https://zen-lingo.com/grammarpoint/～次第です (〜shidai desu)",                       x
+"https://zen-lingo.com/grammarpoint/～気味 (〜gimi)",                                  x
+"https://zen-lingo.com/grammarpoint/～限り (〜kagiri)",                                x
+"https://zen-lingo.com/grammarpoint/～際に (〜sai ni)"                                 x
+
+]}coil@coil-VM:~/Desktop/zen-lingo-website/prod/backend/express/express-db$ 
+coil@coil-VM:~/Desktop/zen-lingo-website/prod/backend/express/express-db$ 
+coil@coil-VM:~/Desktop/zen-lingo-website/prod/backend/express/express-db$ 
+coil@coil-VM:~/Desktop/zen-lingo-website/prod/backend/express/express-db$ 
+coil@coil-VM:~/Desktop/zen-lingo-website/prod/backend/express/express-db$ 
+coil@coil-VM:~/Desktop/zen-lingo-website/prod/backend/express/express-db$ 
+coil@coil-VM:~/Desktop/zen-lingo-website/prod/backend/express/express-db$ 
+coil@coil-VM:~/Desktop/zen-lingo-website/prod/backend/express/express-db$ 
+coil@coil-VM:~/Desktop/zen-lingo-website/prod/backend/express/express-db$ curl -X GET 'http://localhost:8000/e-api/v1/grammar-titles?p_tag=JLPT_N1&type=encoded'
+{"titles":[
+"https://hanabira.org/japanese/grammarpoint/A うが B うが (A uga B uga)",                                       x
+"https://hanabira.org/japanese/grammarpoint/A うと B うと (A uto B uto)",                                       x
+"https://hanabira.org/japanese/grammarpoint/A かたわら B (A katawara B)",                                       x
+"https://hanabira.org/japanese/grammarpoint/A かれ B かれ (A kare B kare)",                                     x
+"https://hanabira.org/japanese/grammarpoint/A だの B だの (A dano B dano)",                                     x
+"https://hanabira.org/japanese/grammarpoint/A であれ B であれ (A deare B deare)",                               x
+"https://hanabira.org/japanese/grammarpoint/A というか B というか (A to iu ka B to iu ka)",                     x
+"https://hanabira.org/japanese/grammarpoint/A とも B とも (A tomo B tomo)",                                     x
+"https://hanabira.org/japanese/grammarpoint/A にしろ B にしろ (A nishiro B nishiro)",                           x
+"https://hanabira.org/japanese/grammarpoint/A にせよ B にせよ (A ni seyo B ni seyo)",                           x
+"https://hanabira.org/japanese/grammarpoint/A につけ B につけ （A ni tsuke B ni tsuke）",                       x
+"https://hanabira.org/japanese/grammarpoint/A のやら B のやら (A noyara B noyara)",                             x
+"https://hanabira.org/japanese/grammarpoint/Noun1 が Noun1 なら、 Noun2 も Noun2 だ (A ga A nara, B mo B da)",  x
+"https://hanabira.org/japanese/grammarpoint/Noun1 も Noun1 なら、Noun2 も Noun2 だ (A mo A nara, B mo B da)",   x
+"https://hanabira.org/japanese/grammarpoint/Noun + あっての + Noun (A atteno B)",                               x
+"https://hanabira.org/japanese/grammarpoint/Noun かたがた (Noun kata gata)",                                    x
+"https://hanabira.org/japanese/grammarpoint/Noun がてら (Noun gatera)",                                         x
+"https://hanabira.org/japanese/grammarpoint/Noun からある (〜kara aru)",                                         x
+"https://hanabira.org/japanese/grammarpoint/Noun からする (Noun kara suru)",                                     DONE
+"https://hanabira.org/japanese/grammarpoint/Noun からの (~kara no)",                                             x
+"https://hanabira.org/japanese/grammarpoint/Noun から言わせれば (~kara iwasereba)",                               x
+"https://hanabira.org/japanese/grammarpoint/Noun + ぐるみ (〜gurumi)",                                           x
+"https://hanabira.org/japanese/grammarpoint/Noun こそあれ (~kosoare)",                                           DONE
+"https://hanabira.org/japanese/grammarpoint/Noun こそ～が (~koso~ga)",                                           x
+"https://hanabira.org/japanese/grammarpoint/Noun こそすれ (~koso sure)",                                         x
+"https://hanabira.org/japanese/grammarpoint/Noun ごとき / Noun ごとく (〜gotoki/〜gotoku)",                      slash
+"https://hanabira.org/japanese/grammarpoint/Noun じゃあるまいし (~ja aru mai shi)",                              x
+"https://hanabira.org/japanese/grammarpoint/Noun ずくめ (~zukume)",                                             x
+"https://hanabira.org/japanese/grammarpoint/Noun だけではすまない (Noun dake dewa sumanai)",                     x
+"https://hanabira.org/japanese/grammarpoint/Noun たりとも～ない (~tari tomo ~nai)",                              x
+"https://hanabira.org/japanese/grammarpoint/Noun たる Noun (~taru~)",                                           x
+"https://hanabira.org/japanese/grammarpoint/Noun ですら (~desura)",                                             x
+"https://hanabira.org/japanese/grammarpoint/Noun でなくてなんだろう (〜de nakute nandarou)",                     x
+"https://hanabira.org/japanese/grammarpoint/Noun ではあるまいし (~dewa aru maishi)",                             x
+"https://hanabira.org/japanese/grammarpoint/Noun と Noun を兼ねて (Noun to Noun o kanete)",                      x
+"https://hanabira.org/japanese/grammarpoint/Noun といい Noun といい (〜toii〜toii)",                             x
+"https://hanabira.org/japanese/grammarpoint/Noun という Noun (~to iu~)",                                         x
+"https://hanabira.org/japanese/grammarpoint/Noun というところだ (Noun to iu tokoro da)",                          x 
+"https://hanabira.org/japanese/grammarpoint/Noun + というもの (~ to iu mono)",                                    done
+"https://hanabira.org/japanese/grammarpoint/Noun といったところだ (Noun to itta tokoro da)",                      x
+"https://hanabira.org/japanese/grammarpoint/Noun といわず Noun といわず (A to iwazu B to iwazu)",                 x
+"https://hanabira.org/japanese/grammarpoint/Noun + ときたら (〜tokitara)",                                       done
+"https://hanabira.org/japanese/grammarpoint/Noun とは比べものにならない (~to wa kurabemono ni naranai)",          x
+"https://hanabira.org/japanese/grammarpoint/Noun + ともあろう + Noun (~tomoarou~)",                              x
+"https://hanabira.org/japanese/grammarpoint/Noun ともなると (〜to mo naruto)",                                   done
+"https://hanabira.org/japanese/grammarpoint/Noun ともなれば (〜to mo nareba)",                                   x
+"https://hanabira.org/japanese/grammarpoint/Noun と相まって (~ to aimatte)",                                     x
+"https://hanabira.org/japanese/grammarpoint/Noun なくして～はない (Noun nakushite ~ wa nai)",                     x
+"https://hanabira.org/japanese/grammarpoint/Noun なしでは～ない (Noun nashi de wa ~nai)",                         x
+"https://hanabira.org/japanese/grammarpoint/Noun なしには～ない (Noun nashi ni wa ~nai)",                         x
+"https://hanabira.org/japanese/grammarpoint/Noun ならいざ知らず (~nara izashirazu)",                              x
+"https://hanabira.org/japanese/grammarpoint/Noun + ならでは (~nara de wa)",                                      x
+"https://hanabira.org/japanese/grammarpoint/Noun なり Noun なり (A nari B nari)",                                x
+"https://hanabira.org/japanese/grammarpoint/Noun なりとも (~nari tomo)",                                         x
+"https://hanabira.org/japanese/grammarpoint/Noun に Noun を重ねて (A ni B wo kasanete)",                         x
+"https://hanabira.org/japanese/grammarpoint/Noun にあっては (Noun ni atte ha)",                                  x
+"https://hanabira.org/japanese/grammarpoint/Noun にあるまじき Noun (Noun ni aru majiki Noun)",                   done
+"https://hanabira.org/japanese/grammarpoint/Noun にして (Noun ni shite)",                                       done
+"https://hanabira.org/japanese/grammarpoint/Noun にして初めて (Noun nishite hajimete)",                          x
+"https://hanabira.org/japanese/grammarpoint/Noun にすら (〜ni sura)",                                            x
+"https://hanabira.org/japanese/grammarpoint/Noun にとどまらず～も (~ ni todomarazu ~ mo)",                        x
+"https://hanabira.org/japanese/grammarpoint/Noun にひきかえ Noun は (~ni hikikae ~ wa)",                          x
+"https://hanabira.org/japanese/grammarpoint/Noun にもまして (〜ni mo mashite)",                                   x
+"https://hanabira.org/japanese/grammarpoint/Noun によらず (～ni yorazu)",                                         x
+"https://hanabira.org/japanese/grammarpoint/Noun に先駆けて (〜ni saki gakete)",                                  x
+"https://hanabira.org/japanese/grammarpoint/Noun に即した Noun (A ni sokushita B)",                               x
+"https://hanabira.org/japanese/grammarpoint/Noun に即して Verb (〜ni soku shite ~)",                              x
+"https://hanabira.org/japanese/grammarpoint/Noun に言わせれば (Noun ni iwasereba)",                               x
+"https://hanabira.org/japanese/grammarpoint/Noun に限ったことではない (〜ni kagitta koto dewa nai)",               x
+"https://hanabira.org/japanese/grammarpoint/Noun に限ったことでもない (~ ni kagitta koto demo nai)",               x
+"https://hanabira.org/japanese/grammarpoint/Noun に限る (~ni kagiru)","Noun ぬいた Noun (A nuita B)",             x
+"https://hanabira.org/japanese/grammarpoint/Noun + ぬいて（~nuite)",                                              done
+"https://hanabira.org/japanese/grammarpoint/ ～ぬく (~nuku)",                                                     x
+"https://hanabira.org/japanese/grammarpoint/Noun+のいかんだ (Noun no ikan da)",                                    x
+"https://hanabira.org/japanese/grammarpoint/Noun のいかんでは (Noun no ikan de wa)",                               done
+"https://hanabira.org/japanese/grammarpoint/Noun のいかんにかかわらず (Noun no ikan ni kakawarazu)",               done
+"https://hanabira.org/japanese/grammarpoint/Noun のいかんによっては (Noun no ikan ni yotte wa)",                   x
+"https://hanabira.org/japanese/grammarpoint/Noun のいかんによらず (~ no ikan ni yorazu)",                          x
+"https://hanabira.org/japanese/grammarpoint/Noun のごとき Noun (A no gotoki B)",                                  x
+"https://hanabira.org/japanese/grammarpoint/Noun のことだから (〜no koto dakara)",                                 done
+"https://hanabira.org/japanese/grammarpoint/Noun の 嫌いがある (Noun no kirai ga aru)",                            x
+"https://hanabira.org/japanese/grammarpoint/Noun の手前 (~no temae)",                                             done
+"https://hanabira.org/japanese/grammarpoint/Noun の極み (〜no kiwami)",                                           done
+"https://hanabira.org/japanese/grammarpoint/Noun の 至り (~no itari)",                                            done
+"https://hanabira.org/japanese/grammarpoint/Noun はいざ知らず (~ wa iza shirazu)",                                 x
+"https://hanabira.org/japanese/grammarpoint/Noun は おろか～すら (Noun wa oroka ～sura)",                          x
+"https://hanabira.org/japanese/grammarpoint/Noun はおろか～まで (~wa oroka ~made)",                                done
+"https://hanabira.org/japanese/grammarpoint/Noun はおろか～も (Noun wa oroka ～ mo)",                              done
+"https://hanabira.org/japanese/grammarpoint/Noun はさておき (~ wa sateoki)",                                      x
+"https://hanabira.org/japanese/grammarpoint/Noun + はどうであれ (~ wa dou de are)",                                done
+"https://hanabira.org/japanese/grammarpoint/Noun まみれ (~mamire)",                                               done
+"https://hanabira.org/japanese/grammarpoint/Noun もさることながら Noun も (A mo saru koto nagara B mo)",          x
+"https://hanabira.org/japanese/grammarpoint/Noun も兼ねて (~mo kane te)",                                         done
+"https://hanabira.org/japanese/grammarpoint/Noun も相まって (~mo aimatte)",                                       x
+"https://hanabira.org/japanese/grammarpoint/Noun を おいて他に Verb ない (〜wo oite hoka ni〜nai)",                x
+"https://hanabira.org/japanese/grammarpoint/Noun をもって (~wo motte)",                                           x
+"https://hanabira.org/japanese/grammarpoint/Noun をものともせずに (Noun wo mono tomo sezu ni)",                    done
+"https://hanabira.org/japanese/grammarpoint/Noun をよそに (~wo yoso ni)",                                         done
+"https://hanabira.org/japanese/grammarpoint/Noun を余儀なくされる (Noun wo yogi naku sareru)",                     x
+"https://hanabira.org/japanese/grammarpoint/Noun を前提として (Noun wo zentei toshite)",                           done
+"https://hanabira.org/japanese/grammarpoint/Noun を前提にして (Noun wo zentei ni shite)",                          done
+"https://hanabira.org/japanese/grammarpoint/Noun を境にして (Noun wo sakai ni shite)",                             done
+"https://hanabira.org/japanese/grammarpoint/Noun を機にして (~wo ki ni shite)",                                    done
+"https://hanabira.org/japanese/grammarpoint/Noun を皮切りに / を皮切りにして (Noun wo kakikiri ni / wo kawakiri ni shite)",   slash
+"https://hanabira.org/japanese/grammarpoint/Noun を皮切りにして (Noun wo kawakiri ni shite)",                      x
+"https://hanabira.org/japanese/grammarpoint/Noun を禁じ得ない (〜wo kinjienai)",                                   done
+"https://hanabira.org/japanese/grammarpoint/Noun を経て (〜wo hete)",                                             x
+"https://hanabira.org/japanese/grammarpoint/Noun を踏まえて (〜wo fumaete)",                                       done
+"https://hanabira.org/japanese/grammarpoint/Noun を限りに (Noun wo kagiri ni)",                                    done
+"https://hanabira.org/japanese/grammarpoint/Noun 並み (~nami)",                                                  done
+"https://hanabira.org/japanese/grammarpoint/Noun + 前提で（~zentei de)",                                          done
+"https://hanabira.org/japanese/grammarpoint/Noun 限りで (~ kagiri de)",                                           x
+"https://hanabira.org/japanese/grammarpoint/Verb がてら (~ gatera)",                                              x
+"https://hanabira.org/japanese/grammarpoint/Verb こそすれ (~koso sure)",                                          done
+"https://hanabira.org/japanese/grammarpoint/Verb させられる (~saserareru)",                                       done
+"https://hanabira.org/japanese/grammarpoint/Verb ざるを得ない (~ zaru wo enai)",                                  x
+"https://hanabira.org/japanese/grammarpoint/Verb ずじまい (~zu jimai)",                                           x
+"https://hanabira.org/japanese/grammarpoint/Verb ずとも (〜zu tomo)",                                             x
+"https://hanabira.org/japanese/grammarpoint/Verb ずにはおかない (~zuni wa okanai)",                               done
+"https://hanabira.org/japanese/grammarpoint/Verb ずにはすまない (Verb zuni wa sumanai)",                          d
+"https://hanabira.org/japanese/grammarpoint/Verb そうにない (Verb sou ni nai)",                                   d
+"https://hanabira.org/japanese/grammarpoint/Verb そうもない (〜sou monai)",                                       x
+"https://hanabira.org/japanese/grammarpoint/Verb そばから (〜soba kara)",                                         x
+"https://hanabira.org/japanese/grammarpoint/Verb たが最後 (〜ta ga saigo)",                                       x
+"https://hanabira.org/japanese/grammarpoint/Verb たことにしてください (~ ta koto ni shite kudasai)",               d
+"https://hanabira.org/japanese/grammarpoint/Verb たら Verb たで (~ tara ~ tade)",                                 x
+"https://hanabira.org/japanese/grammarpoint/Verb たら きりがない (Verb tara kiri ga nai)",                        x
+"https://hanabira.org/japanese/grammarpoint/Verb たら最後 (〜tara saigo)",                                        x
+"https://hanabira.org/japanese/grammarpoint/Verb つ Verb つ (Verb tsu Verb tsu)",                                d
+"https://hanabira.org/japanese/grammarpoint/Verb てからというもの (Verb te kara to iu mono)",                     x
+"https://hanabira.org/japanese/grammarpoint/Verb てこそ (Verb te koso)",                                         d
+"https://hanabira.org/japanese/grammarpoint/Verb ては (～te wa)",                                                d
+"https://hanabira.org/japanese/grammarpoint/Verb ては Verb (~ te wa ~)",                                         d
+"https://hanabira.org/japanese/grammarpoint/Verb てまでも (~ temademo)",                                         x
+"https://hanabira.org/japanese/grammarpoint/Verb てみせる (Verb te miseru)",                                     d
+"https://hanabira.org/japanese/grammarpoint/Verb てやまない (Verb te yamanai)",                                  x
+"https://hanabira.org/japanese/grammarpoint/Verb ないではおかない (~ nai de wa okanai)",                          d
+"https://hanabira.org/japanese/grammarpoint/Verb ないではすまない (Verb nai dewa sumanai)",                       d
+"https://hanabira.org/japanese/grammarpoint/Verb ないまでも (Verb nai made mo)",                                  d
+"https://hanabira.org/japanese/grammarpoint/Verb ないものだろうか (Verb nai mono darou ka)",                       x
+"https://hanabira.org/japanese/grammarpoint/Verb ないものでもない (Verb nai mono demo nai)",                       x
+"https://hanabira.org/japanese/grammarpoint/Verb の ない Noun (~ no nai ~)",                                      x
+"https://hanabira.org/japanese/grammarpoint/Verb ば きり が ない (〜ba kiri ga nai)",                             d
+"https://hanabira.org/japanese/grammarpoint/Verb もしないで (~ mo shinai de)",                                    d
+"https://hanabira.org/japanese/grammarpoint/Verb やしない (~yashinai)",                                           d
+"https://hanabira.org/japanese/grammarpoint/Verb よう (~ you)",                                                  x
+"https://hanabira.org/japanese/grammarpoint/Verb ようか Verbる まいか (Verb you ka Verb ru mai ka)",              x
+"https://hanabira.org/japanese/grammarpoint/Verb ようが Verb るまいが (Verb you ga Verb ru mai ga)",              x
+"https://hanabira.org/japanese/grammarpoint/Verb ようがない (〜yō ga nai)",                                       x
+"https://hanabira.org/japanese/grammarpoint/Verb ようと Verbる まいと (Verb you to Verb ru mai to)",              d
+"https://hanabira.org/japanese/grammarpoint/Verb ようにも (〜you ni mo)",                                         d
+"https://hanabira.org/japanese/grammarpoint/Verb ようにも Verb れない (〜you ni mo 〜renai)",                     d
+"https://hanabira.org/japanese/grammarpoint/Verb ようもない (~you mo nai)",                                      x
+"https://hanabira.org/japanese/grammarpoint/Verbる がままに (〜ga mama ni)",                                      d
+"https://hanabira.org/japanese/grammarpoint/Verbる が早いか (verb-ru ga hayai ka)",                              d
+"https://hanabira.org/japanese/grammarpoint/Verbる くらいなら (〜ru kurai nara)",                                 x
+"https://hanabira.org/japanese/grammarpoint/Verbる こと なし に (Verb-ru koto nashi ni)",                        d
+"https://hanabira.org/japanese/grammarpoint/Verbる ことのないように (Verb-ru koto no nai you ni)",                x
+"https://hanabira.org/japanese/grammarpoint/Verbる ときりがない (verb-ru to kiri ga nai)",                        d
+"https://hanabira.org/japanese/grammarpoint/Verbる ともなく Verb (Verb-ru tomonaku Verb)",                       d
+"https://hanabira.org/japanese/grammarpoint/Verbる ともなしに Verb (Verb-ru tomonashi ni Verb)",                 d
+"https://hanabira.org/japanese/grammarpoint/Verbる なり (Verb-ru nari)",                                         d
+"https://hanabira.org/japanese/grammarpoint/Verbる にとどまらず～も (Verb-ru ni todomarazu ~ mo)",                d
+"https://hanabira.org/japanese/grammarpoint/Verbる にはあたらない (Verb-ru ni wa ataranai)",                      x
+"https://hanabira.org/japanese/grammarpoint/Verbる にも (Verb-ru ni mo)",                                        x
+"https://hanabira.org/japanese/grammarpoint/Verbる にも Verb れない (Verbる にも Verb れない)",                    d
+"https://hanabira.org/japanese/grammarpoint/Verbる べからざる Noun (Verb-ru bekara zaru Noun)",                   x
+"https://hanabira.org/japanese/grammarpoint/Verbる べからず (〜ru bekara zu)",                                    d
+"https://hanabira.org/japanese/grammarpoint/Verbる べく (Verb-ru beku)",                                          d
+"https://hanabira.org/japanese/grammarpoint/Verbる べくもない (Verb-ru beku mo nai)",                            x
+"https://hanabira.org/japanese/grammarpoint/Verbる までもない (〜ru made mo nai)",                               x
+"https://hanabira.org/japanese/grammarpoint/Verbる ものとする (〜ru mono to suru)",                              x
+"https://hanabira.org/japanese/grammarpoint/Verbる や否や (verb-ru ya ina ya)",                                  d
+"https://hanabira.org/japanese/grammarpoint/Verbる 始末だ (〜ru shimatsu da)",                                   x
+"https://hanabira.org/japanese/grammarpoint/Verbる 嫌いがある (～ru kirai ga aru)",                              d
+"https://hanabira.org/japanese/grammarpoint/いつまで～のやら。。。 (itsumade ~ no yara)",                         d
+"https://hanabira.org/japanese/grammarpoint/～が Verb られる (〜ga Verb rareru)",                                d
+"https://hanabira.org/japanese/grammarpoint/～かと思いきや (〜ka to omoikiya)",                                   x
+"https://hanabira.org/japanese/grammarpoint/～がゆえに (～ga yue ni)",                                           x
+"https://hanabira.org/japanese/grammarpoint/～がゆえの Noun (〜ga yue no Noun)",                                 x
+"https://hanabira.org/japanese/grammarpoint/～から Noun に 至る まで (〜kara 〜ni itaru made)",                  d
+"https://hanabira.org/japanese/grammarpoint/～ごとく (〜gotoku)",                                               x
+"https://hanabira.org/japanese/grammarpoint/～こととて (〜koto tote)",                                          x
+"https://hanabira.org/japanese/grammarpoint/～ずにすんだ (〜zuni sunda)",                                        d
+"https://hanabira.org/japanese/grammarpoint/～だろうとなかろうと (〜darou to nakarou to)",                       d
+"https://hanabira.org/japanese/grammarpoint/～つもりだ (〜tsumori da)",                                         d
+"https://hanabira.org/japanese/grammarpoint/～つもりで (〜tsumori de)",                                         d
+"https://hanabira.org/japanese/grammarpoint/～ではすまない (〜dewa sumanai)",                                   x
+"https://hanabira.org/japanese/grammarpoint/～とあって (〜to atte)",                                            d
+"https://hanabira.org/japanese/grammarpoint/～とあれば (〜to areba)",                                           d
+"https://hanabira.org/japanese/grammarpoint/～といえども (〜to iedomo)",                                         x
+"https://hanabira.org/japanese/grammarpoint/～といったらありはしない (〜to ittara ari wa shinai)",               d
+"https://hanabira.org/japanese/grammarpoint/～といったらありゃしない (〜to ittara arya shinai)",                 x
+"https://hanabira.org/japanese/grammarpoint/～といったらない。 (〜to ittara nai)",                               x
+"https://hanabira.org/japanese/grammarpoint/～ときている (〜to kite iru)",                                      d
+"https://hanabira.org/japanese/grammarpoint/～ところを (〜tokoro wo)",                                          d
+"https://hanabira.org/japanese/grammarpoint/～とされる (〜to sareru)",                                          x
+"https://hanabira.org/japanese/grammarpoint/～としたところで (〜to shita tokoro de)",                           x
+"https://hanabira.org/japanese/grammarpoint/～とすると (〜to suru to)",                                         d
+"https://hanabira.org/japanese/grammarpoint/～とすれば (～to sureba)",                                          d
+"https://hanabira.org/japanese/grammarpoint/～となったら (〜to nattara)",                                       x
+"https://hanabira.org/japanese/grammarpoint/～となると (〜to naru to)",                                         d
+"https://hanabira.org/japanese/grammarpoint/～となれば (〜to nareba)",                                          x
+"https://hanabira.org/japanese/grammarpoint/～とのことだ (〜to no koto da)",                                    d
+"https://hanabira.org/japanese/grammarpoint/～とはいえ (～to wa ie)",                                           d
+"https://hanabira.org/japanese/grammarpoint/～とみえて (〜to miete)",                                           d
+"https://hanabira.org/japanese/grammarpoint/～とみられる (～to mirareru)",                                      d
+"https://hanabira.org/japanese/grammarpoint/～とみると (〜to miru to)",                                         x
+"https://hanabira.org/japanese/grammarpoint/どんなに～うが (donna ni ～ u ga)",                                 x
+"https://hanabira.org/japanese/grammarpoint/～と言わんばかりに (〜to iwan bakari ni)",                          d
+"https://hanabira.org/japanese/grammarpoint/～と言わんばかりの Noun (～to iwan bakari no Noun)",                x
+"https://hanabira.org/japanese/grammarpoint/～ながらに (～nagara ni)",                                          d
+"https://hanabira.org/japanese/grammarpoint/～ながらの Noun (〜nagara no Noun)",                               d
+"https://hanabira.org/japanese/grammarpoint/～ながらも (〜nagara mo)",                                         d
+"https://hanabira.org/japanese/grammarpoint/～なくはない (〜naku wa nai)",                                     d
+"https://hanabira.org/japanese/grammarpoint/～なくもない (〜naku mo nai)",                                     d
+"https://hanabira.org/japanese/grammarpoint/～なら～なりに",                                                   x
+"https://hanabira.org/japanese/grammarpoint/～には及ばない (〜ni wa oyobanai)",                                x
+"https://hanabira.org/japanese/grammarpoint/～に堪えない (～ni taenai)",                                       x
+"https://hanabira.org/japanese/grammarpoint/～に堪える (～ni taeru)",                                          x
+"https://hanabira.org/japanese/grammarpoint/～に耐える (～ni taeru)",                                          x
+"https://hanabira.org/japanese/grammarpoint/～に至った (〜ni itatta)",                                         x
+"https://hanabira.org/japanese/grammarpoint/～に越したことはない (〜ni koshita koto wa nai)",                   x
+"https://hanabira.org/japanese/grammarpoint/～に難くない (～ni muzukunai)",                                    d
+"https://hanabira.org/japanese/grammarpoint/～のは Noun ぐらいのものだ (〜no wa 〜 gurai no mono da)",          d
+"https://hanabira.org/japanese/grammarpoint/～ば～ものを (～ba～mono o)",                                      d
+"https://hanabira.org/japanese/grammarpoint/～びた Noun (～ bi ta ～)",                                       d
+"https://hanabira.org/japanese/grammarpoint/～びる (〜biru)",                                                 d
+"https://hanabira.org/japanese/grammarpoint/～ぶった",                                                        d
+"https://hanabira.org/japanese/grammarpoint/～ぶって (〜butte)",                                              d
+"https://hanabira.org/japanese/grammarpoint/～ぶり (〜buri)",                                                 d
+"https://hanabira.org/japanese/grammarpoint/～ぶる (〜buru)",                                                d
+"https://hanabira.org/japanese/grammarpoint/～までだ (～made da)",                                           x
+"https://hanabira.org/japanese/grammarpoint/～もなんでもない (〜mo nandemonai)",                              d
+"https://hanabira.org/japanese/grammarpoint/～ものとして (～mono to shite)",                                 x
+"https://hanabira.org/japanese/grammarpoint/～んがために (〜n ga tame ni)",                                  d
+"https://hanabira.org/japanese/grammarpoint/～んばかりに (〜n bakari ni ～)",                                d
+"https://hanabira.org/japanese/grammarpoint/～差し支えない (〜sashi tsukaenai)",                             d
+"https://hanabira.org/japanese/grammarpoint/～折に (〜ori ni)",                                              d
+"https://hanabira.org/japanese/grammarpoint/～極まりない (〜kiwamarinai)",                                   d
+"https://hanabira.org/japanese/grammarpoint/～極まる (〜kiwamaru)",                                         x
+"https://hanabira.org/japanese/grammarpoint/～足りない (～tarinai)",                                        d
+"https://hanabira.org/japanese/grammarpoint/～足る Noun (〜taru～)",                                        d
+"https://hanabira.org/japanese/grammarpoint/～限りだ (〜kagiri da)",                                        d
+
+]}coil@coil-VM:~/Desktop/zen-lingo-website/prod/backend/express/express-db$ 
+coil@coil-VM:~/Desktop/zen-lingo-website/prod/backend/express/express-db$ 
+
+
+
+// --- VIETNAMESE --- //
+
+https://hanabira.org/langs/vietnamese/grammarlist
+https://hanabira.org/langs/vietnamese/grammarpoint/Classifier 'quyển'
+
+coil@coil-VM:frontend-next$ curl -X GET 'http://localhost:8000/e-api/v1/grammar-titles?p_tag=VIET&type=encoded'
+{"titles":
+[
+https://hanabira.org/langs/vietnamese/grammarpoint/Absolute negative construction 'không … gì…'                  x   
+https://hanabira.org/langs/vietnamese/grammarpoint/Absolute-negative structure 'không … gì'                      x
+https://hanabira.org/langs/vietnamese/grammarpoint/Adjective 'gần'","Adjective + 'hơn cả'                        x
+https://hanabira.org/langs/vietnamese/grammarpoint/Adjective + ordinal number + 'này'                            x
+https://hanabira.org/langs/vietnamese/grammarpoint/Adjective 'xa'                                                x
+https://hanabira.org/langs/vietnamese/grammarpoint/Adverb 'đã'                                                   x
+https://hanabira.org/langs/vietnamese/grammarpoint/Adverb 'đang'                                                 x
+https://hanabira.org/langs/vietnamese/grammarpoint/Adverb of degree 'hết sức'                                    x
+https://hanabira.org/langs/vietnamese/grammarpoint/Adverb of degree 'hơi'                                        x
+https://hanabira.org/langs/vietnamese/grammarpoint/Adverb of degree 'khá'                                        x
+https://hanabira.org/langs/vietnamese/grammarpoint/Adverb of degree 'lắm'                                        x
+https://hanabira.org/langs/vietnamese/grammarpoint/Adverb of degree 'quá'                                        x
+https://hanabira.org/langs/vietnamese/grammarpoint/Adverb of degree 'rất'                                        x
+https://hanabira.org/langs/vietnamese/grammarpoint/Adverb of degree 'thế'                                        x
+https://hanabira.org/langs/vietnamese/grammarpoint/Affixation 'cuộc họp'                                         x
+https://hanabira.org/langs/vietnamese/grammarpoint/Affixation 'cuộc nói chuyện'                                  x
+https://hanabira.org/langs/vietnamese/grammarpoint/Affixation 'cuộc sống'                                        x
+https://hanabira.org/langs/vietnamese/grammarpoint/Affixation 'thành viên'                                       x
+https://hanabira.org/langs/vietnamese/grammarpoint/Affixation 'hội viên'                                         x
+https://hanabira.org/langs/vietnamese/grammarpoint/Affixation 'nhà thơ'                                          x
+https://hanabira.org/langs/vietnamese/grammarpoint/Affixation 'nhà văn'                                          x
+https://hanabira.org/langs/vietnamese/grammarpoint/Affixation 'sự thay đổi'                        x
+https://hanabira.org/langs/vietnamese/grammarpoint/Affixation 'việc kiểm tra'                            x
+https://hanabira.org/langs/vietnamese/grammarpoint/Amount-of-time question word 'bao lâu'                   x
+https://hanabira.org/langs/vietnamese/grammarpoint/Ask-for-more-information particle 'à'                   x
+https://hanabira.org/langs/vietnamese/grammarpoint/Second personal pronoun 'bác sĩ'                        x
+https://hanabira.org/langs/vietnamese/grammarpoint/Word 'Bận' meaning 'to be busy'                            x
+https://hanabira.org/langs/vietnamese/grammarpoint/Borrowing: 'cách mạng'                                     x
+https://hanabira.org/langs/vietnamese/grammarpoint/Borrowing: 'cảnh sát'                                  x
+https://hanabira.org/langs/vietnamese/grammarpoint/Borrowing: 'đại sứ quán'                                   x
+https://hanabira.org/langs/vietnamese/grammarpoint/Borrowing: 'độc lập'                                       x
+https://hanabira.org/langs/vietnamese/grammarpoint/(Càng) ngày càng                                           x
+https://hanabira.org/langs/vietnamese/grammarpoint/Causative verb 'làm/làm cho/khiến'                           hanabira error
+https://hanabira.org/langs/vietnamese/grammarpoint/Clarification particle 'hả'                                x
+https://hanabira.org/langs/vietnamese/grammarpoint/Clarification question particle 'vậy'                      x
+https://hanabira.org/langs/vietnamese/grammarpoint/Classifier 'cái/chiếc'                          hanabora error
+https://hanabira.org/langs/vietnamese/grammarpoint/Classifier 'cây'                                      x
+https://hanabira.org/langs/vietnamese/grammarpoint/Classifier 'chiếc'                            x
+https://hanabira.org/langs/vietnamese/grammarpoint/Classifier 'con'                               x
+https://hanabira.org/langs/vietnamese/grammarpoint/Classifier 'cơn'                                x
+https://hanabira.org/langs/vietnamese/grammarpoint/Classifier 'cuộc'                               x
+https://hanabira.org/langs/vietnamese/grammarpoint/Classifier 'cuốn'                                x
+https://hanabira.org/langs/vietnamese/grammarpoint/Classifier 'nền'                         x
+https://hanabira.org/langs/vietnamese/grammarpoint/Classifier 'ngôi'                        x
+https://hanabira.org/langs/vietnamese/grammarpoint/Classifier 'quả'                          x
+https://hanabira.org/langs/vietnamese/grammarpoint/Classifier 'quyển'                       x
+https://hanabira.org/langs/vietnamese/grammarpoint/Classifier 'tờ'                          x
+https://hanabira.org/langs/vietnamese/grammarpoint/Classifier 'toà'                         x
+https://hanabira.org/langs/vietnamese/grammarpoint/Classifier 'vị'                           x
+https://hanabira.org/langs/vietnamese/grammarpoint/Clause of concession: 'cũng'              x
+https://hanabira.org/langs/vietnamese/grammarpoint/Clause of concession: 'mặc dù'            x
+https://hanabira.org/langs/vietnamese/grammarpoint/Clause of concession: 'nhưng'             x
+https://hanabira.org/langs/vietnamese/grammarpoint/Clause of concession: 'tuy'               x
+https://hanabira.org/langs/vietnamese/grammarpoint/Clause of concession: 'vẫn'               x
+https://hanabira.org/langs/vietnamese/grammarpoint/Clause of purpose 'để'                    x
+https://hanabira.org/langs/vietnamese/grammarpoint/Clause of reason 'nên/cho nên'            error
+https://hanabira.org/langs/vietnamese/grammarpoint/Clause of reason 'vì'                     x
+https://hanabira.org/langs/vietnamese/grammarpoint/Clock time 'Giờ, rưỡi'                    x
+https://hanabira.org/langs/vietnamese/grammarpoint/Clock time 'mấy giờ?'                          x
+https://hanabira.org/langs/vietnamese/grammarpoint/Clothing related expression 'cởi áo ra'        x
+https://hanabira.org/langs/vietnamese/grammarpoint/Clothing related expression 'cởi…ra'            x
+https://hanabira.org/langs/vietnamese/grammarpoint/Clothing related expression 'mặc áo vào'          x
+https://hanabira.org/langs/vietnamese/grammarpoint/Clothing related expression 'mặc…vào'             x
+https://hanabira.org/langs/vietnamese/grammarpoint/'Có gì' + adjective + 'đâu'                              x
+https://hanabira.org/langs/vietnamese/grammarpoint/Combinations of the words 'đông', 'tây', 'nam', 'bắc'     x
+https://hanabira.org/langs/vietnamese/grammarpoint/Comparisons with 'bằng'                                  x
+https://hanabira.org/langs/vietnamese/grammarpoint/Comparisons with 'hơn'                                   x
+https://hanabira.org/langs/vietnamese/grammarpoint/Comparisons with 'hơn cả'                                x
+https://hanabira.org/langs/vietnamese/grammarpoint/Comparisons with 'nhất'                                  x
+https://hanabira.org/langs/vietnamese/grammarpoint/Comparisons with 'như'                                  x
+https://hanabira.org/langs/vietnamese/grammarpoint/Compounding: 'bàn ghế'                                  x
+https://hanabira.org/langs/vietnamese/grammarpoint/Compounding: 'nhà ăn'                                    x
+https://hanabira.org/langs/vietnamese/grammarpoint/Compounding: 'quần áo'                                   x
+https://hanabira.org/langs/vietnamese/grammarpoint/Compounding: 'tốt đẹp'                                  x
+https://hanabira.org/langs/vietnamese/grammarpoint/Conjunction 'có... không'                                x
+https://hanabira.org/langs/vietnamese/grammarpoint/Conjunction 'còn'                                         x
+https://hanabira.org/langs/vietnamese/grammarpoint/Conjunction 'kẻo'                                        x
+https://hanabira.org/langs/vietnamese/grammarpoint/Conjunction 'mà'                                          x
+https://hanabira.org/langs/vietnamese/grammarpoint/Construction 'còn … nữa'                                 x
+https://hanabira.org/langs/vietnamese/grammarpoint/Construction 'còn … thì …'                                x
+https://hanabira.org/langs/vietnamese/grammarpoint/Construction 'superlative + là + subject'                 x
+https://hanabira.org/langs/vietnamese/grammarpoint/Construction 'thêm … nữa'                               x
+https://hanabira.org/langs/vietnamese/grammarpoint/Continuation adverb 'còn'                             x
+https://hanabira.org/langs/vietnamese/grammarpoint/'Cũng' denoting reluctant agreement                   x
+https://hanabira.org/langs/vietnamese/grammarpoint/Vietnamese word 'Cũng'                                x
+https://hanabira.org/langs/vietnamese/grammarpoint/Demonstrative adverb 'đây'                            x
+https://hanabira.org/langs/vietnamese/grammarpoint/Demonstrative adverb 'đấy'                            x
+https://hanabira.org/langs/vietnamese/grammarpoint/Demonstrative adverb 'đó'                             x
+https://hanabira.org/langs/vietnamese/grammarpoint/Demonstrative adverb 'kia'                            x
+https://hanabira.org/langs/vietnamese/grammarpoint/Demonstrative pronoun 'ấy'                            x
+https://hanabira.org/langs/vietnamese/grammarpoint/Demonstrative pronoun: 'đây'                          x
+https://hanabira.org/langs/vietnamese/grammarpoint/Demonstrative pronoun 'đó'                             x
+https://hanabira.org/langs/vietnamese/grammarpoint/Demonstrative pronoun: 'đó/đấy'                        error
+https://hanabira.org/langs/vietnamese/grammarpoint/Demonstrative pronoun 'kia'                            x
+https://hanabira.org/langs/vietnamese/grammarpoint/Demonstrative pronoun: 'kia'                           x
+https://hanabira.org/langs/vietnamese/grammarpoint/Demonstrative pronoun 'này'                              x
+https://hanabira.org/langs/vietnamese/grammarpoint/'Để' with the meaning 'let someone do something'            x
+https://hanabira.org/langs/vietnamese/grammarpoint/Difference between 'băng' and 'đá lạnh'                         x
+https://hanabira.org/langs/vietnamese/grammarpoint/Difference between 'khác' and 'khác nhau'                           x
+https://hanabira.org/langs/vietnamese/grammarpoint/Difference between 'lúa', 'thóc', 'gạo', 'cơm', denoting rice          x
+https://hanabira.org/langs/vietnamese/grammarpoint/Different functions of 'mà'                                           x
+https://hanabira.org/langs/vietnamese/grammarpoint/Different meanings and functions of 'lại'                              x
+https://hanabira.org/langs/vietnamese/grammarpoint/Different meanings of the word 'giờ'                                  x
+https://hanabira.org/langs/vietnamese/grammarpoint/Interrogative word 'được không' and reply 'được'                        x
+https://hanabira.org/langs/vietnamese/grammarpoint/Emphasizing-the-limit particle 'thôi'                                x
+https://hanabira.org/langs/vietnamese/grammarpoint/Emphatic 'cả' meaning 'even'                                      x
+https://hanabira.org/langs/vietnamese/grammarpoint/Emphatic 'chỉ là …'                                                 x
+https://hanabira.org/langs/vietnamese/grammarpoint/Emphatic 'chính'                                                 x
+https://hanabira.org/langs/vietnamese/grammarpoint/Emphatic 'có'                                                     x
+https://hanabira.org/langs/vietnamese/grammarpoint/Emphatic 'cũng' used with interrogative words                   x
+https://hanabira.org/langs/vietnamese/grammarpoint/Emphatic '… này … này'                                          x
+https://hanabira.org/langs/vietnamese/grammarpoint/Emphatic negation with 'cả'                                     x
+https://hanabira.org/langs/vietnamese/grammarpoint/Emphatic particle 'ấy'                                         x
+https://hanabira.org/langs/vietnamese/grammarpoint/Emphatic particle 'nữa cơ'                                     x
+https://hanabira.org/langs/vietnamese/grammarpoint/Emphatic particle 'rồi'                                        x
+https://hanabira.org/langs/vietnamese/grammarpoint/Conjunction 'and' in Vietnamese 'và, còn'                     x
+https://hanabira.org/langs/vietnamese/grammarpoint/Equative verb 'là'                                            x
+https://hanabira.org/langs/vietnamese/grammarpoint/Exclamatory word 'thôi'                                         x
+https://hanabira.org/langs/vietnamese/grammarpoint/Expression 'Càng … càng'                                        x
+https://hanabira.org/langs/vietnamese/grammarpoint/Expression 'chưa dám'                                           x
+https://hanabira.org/langs/vietnamese/grammarpoint/Expression 'cứ'                     x
+https://hanabira.org/langs/vietnamese/grammarpoint/Expression 'đại khái là'              x
+https://hanabira.org/langs/vietnamese/grammarpoint/Expression 'Đại khái'                   x
+https://hanabira.org/langs/vietnamese/grammarpoint/Expression 'đi'                            x
+https://hanabira.org/langs/vietnamese/grammarpoint/Expression 'đừng'                            x
+https://hanabira.org/langs/vietnamese/grammarpoint/Expression 'hãy'                                x
+https://hanabira.org/langs/vietnamese/grammarpoint/Expression 'Ít'                                   x
+https://hanabira.org/langs/vietnamese/grammarpoint/Expression 'Khỏi phải'                               x
+https://hanabira.org/langs/vietnamese/grammarpoint/Expression 'không chỉ/không những … mà còn'      slash
+https://hanabira.org/langs/vietnamese/grammarpoint/Expression 'Không chỉ … mà cả'                         x
+https://hanabira.org/langs/vietnamese/grammarpoint/Expression 'Không dám'                               x
+https://hanabira.org/langs/vietnamese/grammarpoint/Expression 'Kia kìa'                                    x
+https://hanabira.org/langs/vietnamese/grammarpoint/Expression 'lập gia đình'                               x
+https://hanabira.org/langs/vietnamese/grammarpoint/Expression 'lấy chồng'                                x
+https://hanabira.org/langs/vietnamese/grammarpoint/Expression 'lấy vợ'                                      x
+https://hanabira.org/langs/vietnamese/grammarpoint/Expression 'mời'                            x
+https://hanabira.org/langs/vietnamese/grammarpoint/Expression 'Mới … thôi'                         x
+https://hanabira.org/langs/vietnamese/grammarpoint/Expression 'nhà nước'                            x
+https://hanabira.org/langs/vietnamese/grammarpoint/Expression 'nhé'                                  x
+https://hanabira.org/langs/vietnamese/grammarpoint/Expression 'nhiều'                                x
+https://hanabira.org/langs/vietnamese/grammarpoint/Expression 'Nửa'                                  x
+https://hanabira.org/langs/vietnamese/grammarpoint/Expression 'nước'                                  x
+https://hanabira.org/langs/vietnamese/grammarpoint/Expression 'Quốc gia'                              x
+https://hanabira.org/langs/vietnamese/grammarpoint/Expression 'rưỡi'                                   x
+https://hanabira.org/langs/vietnamese/grammarpoint/Expressions 'Tất nhiên' and 'dĩ nhiên'               x
+https://hanabira.org/langs/vietnamese/grammarpoint/Expressions 'Từng ấy' and 'từng này'                  x
+https://hanabira.org/langs/vietnamese/grammarpoint/Expression 'nãy giờ'                                  x
+https://hanabira.org/langs/vietnamese/grammarpoint/Expression 'thời gian'                                x
+https://hanabira.org/langs/vietnamese/grammarpoint/Expression 'tốt nghiệp'                               x
+https://hanabira.org/langs/vietnamese/grammarpoint/Feelings of illness with 'bị'                         x
+https://hanabira.org/langs/vietnamese/grammarpoint/Final particle 'ạ'                                       x
+https://hanabira.org/langs/vietnamese/grammarpoint/Final particle 'chứ'                                       x
+https://hanabira.org/langs/vietnamese/grammarpoint/Final particle 'chứ' in a question                          x
+https://hanabira.org/langs/vietnamese/grammarpoint/Final particle 'đấy'                                           x
+https://hanabira.org/langs/vietnamese/grammarpoint/Final particle 'thế'                                           x
+https://hanabira.org/langs/vietnamese/grammarpoint/Frame construction 'có … không' used with an adjective           x
+https://hanabira.org/langs/vietnamese/grammarpoint/'Giáo sư' as second personal pronoun                             x
+https://hanabira.org/langs/vietnamese/grammarpoint/Disjunction word 'hay'                                           x
+https://hanabira.org/langs/vietnamese/grammarpoint/'Hết' used after a verb                                            x
+https://hanabira.org/langs/vietnamese/grammarpoint/Using 'hoặc' to mean 'or'                                     x
+https://hanabira.org/langs/vietnamese/grammarpoint/Imperative adverb 'để'                            x
+https://hanabira.org/langs/vietnamese/grammarpoint/Imperative/suggestion adverb 'đi'                 error
+https://hanabira.org/langs/vietnamese/grammarpoint/Indefinite-number construction 'gì … cũng …'               x
+https://hanabira.org/langs/vietnamese/grammarpoint/Indefinite-number structure 'gì … cũng …'                    x
+https://hanabira.org/langs/vietnamese/grammarpoint/Indefinite pronouns and adverbs with 'đấy' and 'đó'             x
+https://hanabira.org/langs/vietnamese/grammarpoint/Initial particle 'à'                         x
+https://hanabira.org/langs/vietnamese/grammarpoint/Initial particle 'thưa'                     x
+https://hanabira.org/langs/vietnamese/grammarpoint/Initial particle 'ừ'                         x
+https://hanabira.org/langs/vietnamese/grammarpoint/Interrogative adverb 'ở đâu'                       x
+https://hanabira.org/langs/vietnamese/grammarpoint/Interrogative 'ai'                             x
+https://hanabira.org/langs/vietnamese/grammarpoint/Interrogative 'bao giờ'                        x
+https://hanabira.org/langs/vietnamese/grammarpoint/Interrogative 'bao lâu'                 x
+https://hanabira.org/langs/vietnamese/grammarpoint/Interrogative word 'bao nhiêu'                 x
+https://hanabira.org/langs/vietnamese/grammarpoint/Interrogative 'bao xa'                      x
+https://hanabira.org/langs/vietnamese/grammarpoint/Interrogative word '(cái) gì'
+https://hanabira.org/langs/vietnamese/grammarpoint/Interrogative 'cám ơn'
+https://hanabira.org/langs/vietnamese/grammarpoint/Interrogative 'chào'
+https://hanabira.org/langs/vietnamese/grammarpoint/Interrogative 'đâu'
+https://hanabira.org/langs/vietnamese/grammarpoint/Interrogative expression 'phải không'
+https://hanabira.org/langs/vietnamese/grammarpoint/Interrogative word 'hôm nào'
+https://hanabira.org/langs/vietnamese/grammarpoint/Interrogative 'khi nào'
+https://hanabira.org/langs/vietnamese/grammarpoint/Interrogative 'mấy'
+https://hanabira.org/langs/vietnamese/grammarpoint/Interrogative 'nào'
+https://hanabira.org/langs/vietnamese/grammarpoint/Interrogative 'ngày nào'
+https://hanabira.org/langs/vietnamese/grammarpoint/Interrogative '(như) thế nào'
+https://hanabira.org/langs/vietnamese/grammarpoint/Interrogative particle 'hở'
+https://hanabira.org/langs/vietnamese/grammarpoint/Interrogative sentences (subject + 'có' + predicate + 'không?')
+https://hanabira.org/langs/vietnamese/grammarpoint/Interrogative structure 'đã … chưa'
+https://hanabira.org/langs/vietnamese/grammarpoint/Interrogative 'thứ mấy'
+Interrogative time question word 'bao giờ'
+Interrogative word 'à'
+Interrogative word 'bao lâu'
+Interrogative 'xin lỗi'
+Expression 'không có gì'
+The phrase 'Không dám'
+Kinship term 'chú' as a personal pronoun
+'Lại' in the sense of 'moveover, in addition'
+'Lại' placed after some verbs
+'Là' linking two verb phrases
+'Làm ơn denoting a request
+Level adverb 'rất'
+Level-of-feeling adverb 'quá'
+Level-of-feeling adverb 'rất'
+Level-of-quality adverb 'lắm'
+Location question word 'đâu'
+Location term 'dưới'
+Location term 'giữa'",
+Location term 'ngoài'",
+Location term 'sau'",
+Location term 'trên'",
+Location term 'trong'",
+Location term 'trước'",
+Modal verb 'cần'",
+Modal verb 'có thể'",
+Modal verb 'muốn'",
+Modal verb 'nên'",
+Modal verb 'phải'",
+    "'Mời' denoting a suggestion",
+    "Expression 'mỗi lúc một'",
+    "The word 'Mỗi' meaning 'each'",
+    "Negatives: 'chứ không'",
+    "Negatives: 'không/không phải … mà …'",
+    "The word 'Ngay' meaning 'just, right'",
+    "Noun clauses with 'là'",
+    "Noun clauses with 'rằng'",
+    "'Nữa' used with time expressions",
+    "'Ở' as a preposition",
+    "Verb 'ở'",
+    "Particle 'đâu' placed at the end of a negative sentence",
+    "Particle 'ơi'",
+    "Passive voice 'bị'",
+    "Passive voice 'được'",
+    "Passive voice 'được'",
+    "Personal pronoun 'anh'",
+    "Personal pronoun 'anh'",
+    "Personal pronoun: 'anh ấy'",
+    "Personal pronoun 'bà'",
+    "Personal pronoun: 'bà'",
+    "Personal pronoun: 'bà ấy'",
+    "Personal pronoun: 'các ông'",
+    "Personal pronoun 'chị'",
+    "Personal pronoun - 'chị'",
+    "Personal pronoun: 'chị ấy'",
+    "Personal pronoun 'chúng mình'",
+    "Personal pronoun 'chúng nó'",
+    "Personal pronoun 'chúng ta'",
+    "Personal pronoun 'chúng ta'",
+    "Personal pronoun 'chúng tôi'",
+    "Personal pronoun 'chúng tôi'",
+    "Personal pronoun 'cô'",
+    "Personal pronoun: 'cô ấy'",
+    "Personal pronoun 'em'",
+    "Personal pronoun 'họ'",
+    "Personal pronoun 'mình'",
+    "Personal pronoun 'người ta'",
+    "Personal pronoun 'nó'",
+    "Personal pronoun 'ông'",
+    "Personal pronoun: 'ông ấy'",
+    "Personal pronoun 'thầy'",
+    "Personal pronoun 'tôi'",
+    "Phrase 'thì chị/anh … bảo'",
+    "Plural marker 'các'",
+    "Plural marker 'những'",
+    "Plural marker 'những' + question word 'ai'",
+    "Plural marker 'những' + question word 'đâu'",
+    "Plural marker 'những' + question word 'gì'",
+    "Point-of-time question word 'bao giờ'",
+    "Polite particle 'ạ'",
+    "Polite particle 'ạ'",
+    "Polite word 'xin'",
+    "Preposition and conjunction 'do'",
+    "Preposition 'bằng'",
+    "Preposition 'cho'",
+    "Preposition 'của'",
+    "Preposition 'của' used with the verbs of borrowing",
+    "Preposition 'cuối'",
+    "Preposition 'đầu'",
+    "Preposition 'đối với'",
+    "Preposition 'khỏi'",
+    "Preposition 'ngoài … ra'",
+    "Preposition 'tại'",
+    "Preposition 'về'",
+    "Preposition 'về mặt'",
+    "Price expression: 'bán thế nào'",
+    "Price expression: 'giá bao nhiêu'",
+    "Price expression: 'lấy'",
+    "Quantity question expression 'bao nhiêu'",
+    "Quantity question word 'bao nhiêu'",
+    "Quantity question word 'mấy'",
+    "Quantity word 'mấy'",
+    "Reciprocal pronoun 'nhau'",
+    "Reduplication 'chim chóc'",
+    "Reduplication 'đen đủi'",
+    "Reduplication 'sáng sáng'",
+    "Reduplication 'vội vàng'",
+    "Reduplicative 'chầm chậm'",
+    "Reduplicative 'nhè nhẹ'",
+    "Rejecting structure 'không … đâu'",
+    "Relative adverb 'khi'",
+    "Relative adverb 'nơi'",
+    "Repetition adverb 'thường'",
+    "Restrictive construction 'chỉ … thôi'",
+    "Restrictive 'mới'",
+    "Vietnamese word ‘rồi’",
+    "Sameness/similarity adverb 'cùng'",
+    "Selection interrogative pronoun 'nào'",
+    "Sentence + 'nhỉ'",
+    "Sentence + subject + 'mới' + verb",
+    "Set expressions used with 'đồng hồ'",
+    "Similarity structure 'nào … cũng'",
+    "Similarity structure: '... nào cũng …'",
+    "Similarity structure: 'nào … cũng …'",
+    "Structure 'không … đâu'",
+    "Structure 'nếu … thì …'",
+    "Temporal preposition 'đến'",
+    "Temporal preposition 'lúc'",
+    "Temporal preposition 'từ'",
+    "Temporal preposition 'vào'",
+    "Temporal preposition 'vào lúc'",
+    "Tense marker 'chưa'",
+    "Tense marker 'đã'",
+    "Tense marker 'đang'",
+    "Tense marker 'sắp'",
+    "Tense marker 'sẽ'",
+    "Tense marker 'vẫn/còn/vẫn còn'",
+    "Tense marker 'vừa/mới/vừa mới'",
+    "The construction 'có … không'",
+    "The copula 'là'",
+    "Expressing-the-hope final particle 'nhé'",
+    "The future words 'sắp' and 'sẽ'",
+    "The polite word 'dạ'",
+    "The question word 'gì'",
+    "The tag question phrase 'phải không'",
+    "The verb 'sinh'",
+    "The word 'có' in the sense of yes",
+    "The word 'hay' meaning 'often'",
+    "The use of 'Thôi' as a separate sentence",
+    "Second personal pronoun 'tiến sĩ'",
+    "Time adverb 'mới'",
+    "Time adverb 'sắp'",
+    "Time adverb 'sẽ'",
+    "Time expression 'hôm qua'",
+    "Time expression 'khi'",
+    "Time expression 'năm nay'",
+    "Time expression 'năm ngoái'",
+    "Time expression 'ngày kia'",
+    "Time expression 'sang năm'",
+    "Time expression 'sau'",
+    "Time expression 'sau khi'",
+    "Time expression 'tháng này'",
+    "Time Expression 'tháng trước'",
+    "Time expression 'trong'",
+    "Time expression 'trong khi'",
+    "Time expression 'trước'",
+    "Time expression 'trước khi'",
+    "Time question word 'bao lâu rồi'",
+    "Number 'Trăm' in the context of 'Trăm nghìn'",
+    "Usage of 'gái'",
+    "Usage of 'giới thiệu'",
+    "Usage of 'làm quen'",
+    "Usage of 'quen'",
+    "Usage of 'trái'",
+    "Use of 'ảnh hưởng'",
+    "Use of 'bận'",
+    "Use of 'cả'",
+    "Use of 'chưa ăn thua gì'",
+    "Use of 'được cái'",
+    "Use of 'khắp'",
+    "Use of 'làm gì có'",
+    "Use of 'liệu'",
+    "Use of 'mọi'",
+    "Use of 'một ít'",
+    "Use of 'tất cả'",
+    "Use of the noun 'tiền'",
+    "Use of the verb 'kịp'",
+    "Use of the verb 'nói'",
+    "Use of the verb 'trở nên'",
+    "Use of the verb 'trở thành'",
+    "Use of the word 'đều'",
+    "Use of the word 'thật/thật là'",
+    "Use of 'tổng'",
+    "Use of 'trung bình'",
+    "Usage of 'tự … lấy'",
+    "Use of 'từng'",
+    "Verb 'bị'",
+    "Verb 'cách'",
+    "Verb 'chạy'",
+    "Verb 'chiếm'",
+    "Verb 'chờ'",
+    "Verb 'coi'",
+    "Verb 'đeo'",
+    "Verb 'diễn ra'",
+    "Verb 'đôi'",
+    "Verb 'đợi'",
+    "Verb 'được'",
+    "Verb 'gọi'",
+    "Verb 'gửi'",
+    "Verb indicating movement direction 'đến/tới'",
+    "Verb indicating movement direction 'lên'",
+    "Verb indicating movement direction 'qua'",
+    "Verb indicating movement direction 'ra'",
+    "Verb indicating movement direction 'sang'",
+    "Verb indicating movement direction 'vào'",
+    "Verb indicating movement direction 'về'",
+    "Verb indicating movement direction 'xuống'",
+    "Verb 'khuyên' used with modal verb 'nên'",
+    "Verb 'làm'",
+    "Verb 'mặc'",
+    "Verb 'mang/đi'",
+    "Verb 'mất'",
+    "Verb 'nằm'",
+    "Verb 'nghe'",
+    "Verb 'nghe nói'",
+    "Verb 'nghe thấy nói'",
+    "Verb 'ở'",
+    "Verb 'quen hoặc quên'",
+    "Verbs 'biến thành', 'biến … thành'","Verbs 'đổi', 'thay' and 'thay đổi'",
+    "Verbs 'được'",
+    "Verbs 'nghe' + adjective",
+    "Verbs 'quyết định' and 'giải quyết'",
+    "Verbs 'to wash': 'rửa', 'giặt'",
+    "Verbs 'trở nên' and 'trở thành'",
+    "Verbs 'trông' + adjective",
+    "Verb 'thấy nói'",
+    "Verb 'thử'",
+    "Verb with preposition 'làm' or 'thành'",
+    "Verb 'xẩy', 'xảy ra'",
+    "Vietnamese 'mít tinh hoặc cuộc họp' and English 'meeting'",
+    "Expression 'Vừa … vừa …'",
+    "Word 'xong' indicating a completed action",
+    "'Xem' at the end of a statement"
+    ]}coil@coil-VM:frontend-next$ 
+
+
+
+
+
+
+
+// ---------------------------- CHINESE --------------------------------------//
+
+http://hanabira.org:8000/e-api/v1/grammar-titles?p_tag=HSK_1&type=encoded
+
+
+
+
+HSK_1
+
+{
+  "titles": [
+https://hanabira.org/langs/mandarin/grammarpoint/的 (de) - Possessive/Descriptive particle        slash
+    "是 (shì) - Is/Are",
+    "吗 (ma) - Question particle for yes/no questions",
+    "不 (bù) - Negation word for actions/states",
+    "在 (zài) - At/In/On",
+    "了 (le) - Completed action marker",
+    "和 (hé) - And (connecting nouns)",
+    "有 (yǒu) - Have/Has",
+    "要 (yào) - Want to/Need to",
+    "也 (yě) - Also/Too",
+    "很 (hěn) - Very",
+    "可以 (kěyǐ) - Can/May (permission)",
+    "去 (qù) - Go",
+    "来 (lái) - Come",
+    "人 (rén) - Person/People",
+    "个 (gè) - General measure word",
+    "多少 (duōshǎo) - How much/How many",
+    "哪 (nǎ) - Which",
+    "这 (zhè) - This",
+    "那 (nà) - That",
+    "什么 (shénme) - What",
+    "谁 (shéi) - Who",
+    "哪儿 (nǎr) - Where",
+    "为什么 (wèishénme) - Why",
+    "怎么 (zěnme) - How",
+    "不是 (bù shì) - Is not/Are not",
+    "喜欢 (xǐhuān) - Like",
+    "看 (kàn) - Look/See/Watch",
+    "听 (tīng) - Listen",
+    "会 (huì) - Can/Know how to (skill)",
+    "东西 (dōngxi) - Thing/Things",
+    "大家 (dàjiā) - Everyone",
+    "时间 (shíjiān) - Time",
+    "现在 (xiànzài) - Now",
+    "一点儿 (yìdiǎnr) - A little/A bit",
+    "还 (hái) - Still/Yet",
+    "再 (zài) - Again",
+    "都 (dōu) - All/Both",
+    "没有 (méiyǒu) - Don't have/There isn't",
+    "多 (duō) - Many/Much",
+    "少 (shǎo) - Few/Little",
+    "一起 (yìqǐ) - Together",
+    "能 (néng) - Can/Be able to (capability/possibility)",
+    "学习 (xuéxí) - Learn/Study",
+    "喝 (hē) - Drink",
+    "吃 (chī) - Eat",
+    "住 (zhù) - Live/Stay",
+    "打电话 (dǎ diànhuà) - Make a phone call",
+    "做 (zuò) - Do/Make",
+    "请 (qǐng) - Please/Invite",
+    "谢谢 (xièxiè) - Thank you",
+    "对不起 (duìbùqǐ) - Sorry",
+    "知道 (zhīdào) - Know (a fact)",
+    "买 (mǎi) - Buy",
+    "卖 (mài) - Sell",
+    "几 (jǐ) - How many (for numbers under 10)",
+    "今天 (jīntiān) - Today",
+    "明天 (míngtiān) - Tomorrow",
+    "昨天 (zuótiān) - Yesterday",
+    "大 (dà) - Big",
+    "小 (xiǎo) - Small",
+    "漂亮 (piàoliang) - Beautiful/Pretty",
+    "好 (hǎo) - Good",
+    "忙 (máng) - Busy",
+    "时候 (shíhòu) - Time/Moment",
+    "认识 (rènshì) - Know (a person)/Meet for the first time",
+    "太...了 (tài...le) - Too/Extremely",
+    "...的时候 (...de shíhòu) - When...",
+    "从...到... (cóng...dào...) - From... to...",
+    "跟...一样 (gēn... yíyàng) - The same as...",
+    "比 (bǐ) - Compare/Than",
+    "还是 (háishì) - Or (in questions)",
+    "因为...所以... (yīnwèi... suǒyǐ...) - Because... Therefore/So...",
+    "不但...而且... (bùdàn... érqiě...) - Not only... but also...",
+    "虽然...但是... (suīrán... dànshì...) - Although/Though... But...",
+    "如果...的话 (rúguǒ... dehuà) - If...",
+    "不过 (búguò) - However/But",
+    "除了...以外 (chúle... yǐwài) - Apart from.../Besides...",
+    "又...又... (yòu... yòu...) - Both... and...",
+    "都 (dōu) - All/Both",
+    "一边...一边... (yìbiān... yìbiān...) - Doing two actions simultaneously",
+    "先...再... (xiān... zài...) - First... then...",
+    "越...越... (yuè... yuè...) - The more... the more...",
+    "完 (wán) - Finish",
+    "得 (de) - Structural particle indicating how an action is done"
+  ]
+}
+
+
+
+HSK_2
+
+{
+  "titles": [
+    "把 (bǎ) - The 'ba' construction",
+    "被 (bèi) - Passive marker",
+    "一下 (yīxià) - A short or quick action; momentarily",
+    "再说 (zàishuō) - Moreover, furthermore",
+    "最 (zuì) - Most, -est (superlative marker)",
+    "比如 (bǐrú) - For example",
+    "可是 (kěshì) - But, however",
+    "已经 (yǐjīng) - Already",
+    "还 (hái) - Still, yet; in addition",
+    "才 (cái) - Only just, not until",
+    "就 (jiù) - Then, precisely, just",
+    "一直 (yīzhí) - Continuously, all along",
+    "一般 (yībān) - Generally, normally",
+    "真的 (zhēnde) - Really, truly",
+    "可能 (kěnéng) - Maybe, possibly",
+    "一起 (yīqǐ) - Together",
+    "根据 (gēnjù) - According to, based on",
+    "除非 (chúfēi) - Unless",
+    "以前 (yǐqián) - Before, previously",
+    "之后 (zhīhòu) - Afterward, after",
+    "刚刚 (gānggāng) - Just now/recently",
+    "虽然…但是… (suīrán… dànshì…) - Although… but…",
+    "不仅…还… (bùjǐn… hái…) - Not only... but also...",
+    "既…又… (jì… yòu…) - Both... and...",
+    "越…越… (yuè… yuè…) - The more... the more...",
+    "不但…而且… (bùdàn… érqiě…) - Not only... but also...",
+    "或者 (huòzhě) - Or (in statements)",
+    "当…时候 (dāng… shíhòu) - When...",
+    "只有…才… (zhǐyǒu… cái…) - Only if/when... then...",
+    "为了 (wèile) - In order to, for the purpose of",
+    "如果…的话 (rúguǒ… de huà) - If...",
+    "因为…所以… (yīnwèi… suǒyǐ…) - Because... so...",
+    "要是…就… (yàoshi… jiù…) - If... then...",
+    "突然 (tūrán) - Suddenly",
+    "又 (yòu) - Again (referring to a past action)",
+    "总是 (zǒngshì) - Always",
+    "曾经 (céngjīng) - Once, in the past",
+    "开始 (kāishǐ) - Start, begin",
+    "虽然 (suīrán) - Although",
+    "要么…要么… (yàome... yàome...) - Either... or...",
+    "还没 (hái méi) - Still not/haven't yet",
+    "有点儿 (yǒudiǎnr) - A little/bit",
+    "别 (bié) - Don't (imperative negative command)",
+    "先...然后 (xiān... ránhòu) - First...then...",
+    "只 (zhǐ) - Only (limiting quantity)",
+    "比如说 (bǐrú shuō) - For instance, such as",
+    "还是 (háishi) - Had better, it's better to",
+    "等 (děng) - Wait; and so on, etc",
+    "着 (zhe) - Particle indicating an ongoing action",
+    "的时候 (de shíhòu) - When (referring to a specific time)",
+    "一边...一边... (yìbiān... yìbiān...) - Do two things at the same time",
+    "的话 (de huà) - Used at the end of a conditional clause",
+    "再 (zài) - Again; then (in future actions)",
+    "最后 (zuìhòu) - At last, finally",
+    "除了...都 (chúle...dōu) - Except for..., all...",
+    "对 (duì) - Correct, right; towards",
+    "可能 (kěnéng) - Maybe, possible",
+    "从来 (cónglái) - Always/Never",
+    "向 (xiàng) - Towards; direction",
+    "每 (měi) - Every; each",
+    "一样 (yíyàng) - The same as",
+    "过 (guò) - Indicates a past experience",
+    "后来 (hòulái) - Later on, afterwards",
+    "突然 (tūrán) - Suddenly, unexpectedly",
+    "对了 (duìle) - By the way; oh right",
+    "最近 (zuìjìn) - Recently",
+    "已经 (yǐjīng) - Already",
+    "一直 (yīzhí) - Continuously, always, all the way",
+    "除了...以外 (chúle...yǐwài) - Apart from.../Except for...",
+    "所以 (suǒyǐ) - So, therefore",
+    "为了 (wèile) - For, in order to, for the sake of",
+    "虽然 (suīrán) - Although, though",
+    "如果 (rúguǒ) - If, in case, in the event that",
+    "只要 (zhǐyào) - As long as, only if",
+    "但是 (dànshì) - But, however",
+    "不但...而且 (bùdàn... érqiě) - Not only... but also...",
+    "不过 (búguò) - However, but",
+    "因为 (yīnwèi) - Because, owing to, on account of",
+    "或者 (huòzhě) - Or (used in a statement)",
+    "不仅...还... (bùjǐn... hái...) - Not only... but also...",
+    "并且 (bìngqiě) - And, moreover, furthermore",
+    "越来越 (yuè lái yuè) - More and more",
+    "虽然...但是... (suīrán... dànshì...) - Although...but...",
+    "先...再... (xiān... zài...) - First...then...",
+    "也许 (yěxǔ) - Perhaps, Maybe",
+    "还好 (hái hǎo) - Fortunately, Luckily",
+    "一共 (yígòng) - In total, altogether",
+    "根据 (gēnjù) - According to, based on",
+    "甚至 (shènzhì) - Even (to the extent that)",
+    "到底 (dàodǐ) - What on earth; what in the world",
+    "由于 (yóuyú) - Due to, because of",
+    "只有...才... (zhǐyǒu... cái...) - Only if/when... then...",
+    "否则 (fǒuzé) - Otherwise, or else",
+    "而 (ér) - And, but, yet",
+    "随便 (suíbiàn) - Casual, careless; as one wishes",
+    "即使 (jíshǐ) - Even if, even though",
+    "当然 (dāngrán) - Of course, certainly",
+    "忽然 (hūrán) - Suddenly, all of a sudden",
+    "其实 (qíshí) - Actually, in fact"
+  ]
+}
+
+
+
+HSK_3
+
+{
+  "titles": [
+https://hanabira.org/langs/mandarin/grammarpoint/被 (bèi) - Passive voice marker              x
+https://hanabira.org/langs/mandarin/grammarpoint/除非 (chúfēi) - Unless     x
+https://hanabira.org/langs/mandarin/grammarpoint/既然 (jìrán) - Since, now that       x
+https://hanabira.org/langs/mandarin/grammarpoint/一旦 (yídàn) - Once, in case              x
+https://hanabira.org/langs/mandarin/grammarpoint/只要...就... (zhǐyào... jiù...) - As long as...then...    x
+https://hanabira.org/langs/mandarin/grammarpoint/尽管 (jǐnguǎn) - Even though, despite           x
+https://hanabira.org/langs/mandarin/grammarpoint/不如 (bùrú) - Not as good as, inferior to    x
+https://hanabira.org/langs/mandarin/grammarpoint/无论...都... (wúlùn... dōu...) - Regardless of...always...    x
+https://hanabira.org/langs/mandarin/grammarpoint/正在 (zhèngzài) - In the process of         x
+https://hanabira.org/langs/mandarin/grammarpoint/一般 (yìbān) - Generally, usually              x
+https://hanabira.org/langs/mandarin/grammarpoint/直到...才... (zhídào... cái...) - Not until...then...     x
+https://hanabira.org/langs/mandarin/grammarpoint/宁愿...也不... (nìngyuàn... yě bù...) - Would rather...than...    x
+https://hanabira.org/langs/mandarin/grammarpoint/无法 (wúfǎ) - Unable to, can't          x
+https://hanabira.org/langs/mandarin/grammarpoint/非...不可 (fēi...bùkě) - Must, have to       x
+https://hanabira.org/langs/mandarin/grammarpoint/竟然 (jìngrán) - Unexpectedly, to one's surprise            x
+https://hanabira.org/langs/mandarin/grammarpoint/除了...还/也... (chúle... hái/yě...) - Apart from...also...             slash
+https://hanabira.org/langs/mandarin/grammarpoint/一直到 (yìzhídào) - All the way until                           x
+https://hanabira.org/langs/mandarin/grammarpoint/不是...而是... (bùshì... érshì...) - It's not... but...   x
+https://hanabira.org/langs/mandarin/grammarpoint/原来 (yuánlái) - Originally, as it turns out                  x
+https://hanabira.org/langs/mandarin/grammarpoint/看来 (kànlái) - It seems, It appears                 x
+https://hanabira.org/langs/mandarin/grammarpoint/照 (zhào) - According to, in accordance with        x
+https://hanabira.org/langs/mandarin/grammarpoint/尽量 (jǐnliàng) - As much as possible                    x
+https://hanabira.org/langs/mandarin/grammarpoint/趁 (chèn) - To take advantage of                             x
+https://hanabira.org/langs/mandarin/grammarpoint/难怪 (nánguài) - No wonder, so that's why                    x
+https://hanabira.org/langs/mandarin/grammarpoint/虽然...却... (suīrán... què...) - Although... yet...      x
+https://hanabira.org/langs/mandarin/grammarpoint/从此 (cóngcǐ) - From now on, henceforth                 x
+https://hanabira.org/langs/mandarin/grammarpoint/反而 (fǎn'ér) - On the contrary, instead               x
+https://hanabira.org/langs/mandarin/grammarpoint/从来 (cónglái) - Always, at all times                          x
+https://hanabira.org/langs/mandarin/grammarpoint/比如说 (bǐrú shuō) - For example                                 x
+https://hanabira.org/langs/mandarin/grammarpoint/光是...就... (guāng shì... jiù...) - Just...alone...            x
+https://hanabira.org/langs/mandarin/grammarpoint/根本 (gēnběn) - At all, simply (used in the negative)                     x
+https://hanabira.org/langs/mandarin/grammarpoint/否定词 (fǒudìngcí) - Negative adverbs like 不 (bù) and 没 (méi)              x
+https://hanabira.org/langs/mandarin/grammarpoint/立刻 (lìkè) - Immediately, right away                                         x
+https://hanabira.org/langs/mandarin/grammarpoint/到处 (dàochù) - Everywhere                        x
+https://hanabira.org/langs/mandarin/grammarpoint/以前 (yǐqián) - Before, in the past               x
+https://hanabira.org/langs/mandarin/grammarpoint/之后 (zhīhòu) - Afterward, after                       x
+https://hanabira.org/langs/mandarin/grammarpoint/早已 (zǎoyǐ) - Long ago, for a long time               x
+https://hanabira.org/langs/mandarin/grammarpoint/一切 (yíqiè) - Everything, every                        x
+https://hanabira.org/langs/mandarin/grammarpoint/只有 (zhǐyǒu) - Only, solely                            x
+https://hanabira.org/langs/mandarin/grammarpoint/一边...一边... (yìbiān... yìbiān...) - Doing two actions simultaneously    x
+https://hanabira.org/langs/mandarin/grammarpoint/要是 (yàoshi) - If                                       x
+https://hanabira.org/langs/mandarin/grammarpoint/无所谓 (wúsuǒwèi) - Doesn't matter, indifferent           x
+https://hanabira.org/langs/mandarin/grammarpoint/正好 (zhènghǎo) - Just right, Just in time                    x
+https://hanabira.org/langs/mandarin/grammarpoint/除非 (chúfēi) - Unless                                     x
+https://hanabira.org/langs/mandarin/grammarpoint/其中 (qízhōng) - Among, within                                 x
+https://hanabira.org/langs/mandarin/grammarpoint/以为 (yǐwéi) - To believe, to think (mistakenly)               x
+https://hanabira.org/langs/mandarin/grammarpoint/以外 (yǐwài) - Beyond, except for                            x
+https://hanabira.org/langs/mandarin/grammarpoint/根据 (gēnjù) - According to                       x
+https://hanabira.org/langs/mandarin/grammarpoint/由 (yóu) - Because of, due to                             x
+https://hanabira.org/langs/mandarin/grammarpoint/至于 (zhìyú) - As for, regarding                           x
+https://hanabira.org/langs/mandarin/grammarpoint/为了 (wèile) - In order to, for the purpose of               x
+https://hanabira.org/langs/mandarin/grammarpoint/似的 (shìde) - Seems like, as if                             x
+https://hanabira.org/langs/mandarin/grammarpoint/甚至于 (shènzhìyú) - Even to the extent that                   x
+https://hanabira.org/langs/mandarin/grammarpoint/除...之外 (chú...zhīwài) - Apart from, besides                x
+https://hanabira.org/langs/mandarin/grammarpoint/反正 (fǎnzhèng) - Anyway, anyhow                            x
+https://hanabira.org/langs/mandarin/grammarpoint/总是 (zǒngshì) - Always                                  x
+https://hanabira.org/langs/mandarin/grammarpoint/曾经 (céngjīng) - Once, previously                       x
+https://hanabira.org/langs/mandarin/grammarpoint/好像 (hǎoxiàng) - Seem, be like                          x
+https://hanabira.org/langs/mandarin/grammarpoint/实际上 (shíjìshàng) - In fact, actually                   x
+https://hanabira.org/langs/mandarin/grammarpoint/假如 (jiǎrú) - If, suppose                       x
+https://hanabira.org/langs/mandarin/grammarpoint/再说 (zàishuō) - Moreover, besides                  x
+https://hanabira.org/langs/mandarin/grammarpoint/不过 (búguò) - However, but                        x
+https://hanabira.org/langs/mandarin/grammarpoint/而且 (érqiě) - Furthermore, and                   x
+https://hanabira.org/langs/mandarin/grammarpoint/好在 (hǎozài) - Fortunately, Luckily                  x
+https://hanabira.org/langs/mandarin/grammarpoint/哪怕 (nǎpà) - Even if                          x
+https://hanabira.org/langs/mandarin/grammarpoint/何况 (hékuàng) - Let alone, moreover                x
+https://hanabira.org/langs/mandarin/grammarpoint/即使 (jíshǐ) - Even if, even though            x
+https://hanabira.org/langs/mandarin/grammarpoint/其实 (qíshí) - Actually, in fact                x
+https://hanabira.org/langs/mandarin/grammarpoint/仍然 (réng rán) - Still, Yet                        x
+https://hanabira.org/langs/mandarin/grammarpoint/并且 (bìngqiě) - And, furthermore, moreover          x
+https://hanabira.org/langs/mandarin/grammarpoint/至少 (zhìshǎo) - At least                           quota
+https://hanabira.org/langs/mandarin/grammarpoint/不然 (bùrán) - Otherwise, or else
+https://hanabira.org/langs/mandarin/grammarpoint/虽说 (suīshuō) - Although, though
+https://hanabira.org/langs/mandarin/grammarpoint/难道 (nándào) - Used rhetorically to express surprise or disbelief
+https://hanabira.org/langs/mandarin/grammarpoint/反之 (fǎnzhī) - On the contrary
+https://hanabira.org/langs/mandarin/grammarpoint/否则 (fǒuzé) - Otherwise, if not
+https://hanabira.org/langs/mandarin/grammarpoint/或者 (huòzhě) - Or
+https://hanabira.org/langs/mandarin/grammarpoint/于是 (yúshì) - Therefore, So
+https://hanabira.org/langs/mandarin/grammarpoint/偶尔 (ǒu'ěr) - Occasionally
+https://hanabira.org/langs/mandarin/grammarpoint/尤其 (yóuqí) - Especially, particularly
+https://hanabira.org/langs/mandarin/grammarpoint/当然 (dāngrán) - Of course
+https://hanabira.org/langs/mandarin/grammarpoint/既然 (jìrán) - Since/Now that
+https://hanabira.org/langs/mandarin/grammarpoint/正如 (zhèngrú) - Just as, as
+https://hanabira.org/langs/mandarin/grammarpoint/唯一 (wéiyī) - The only, sole
+https://hanabira.org/langs/mandarin/grammarpoint/越...越... (yuè...yuè...) - The more... the more...
+https://hanabira.org/langs/mandarin/grammarpoint/不但...而且... (búdàn...érqiě...) - Not only... but also...
+https://hanabira.org/langs/mandarin/grammarpoint/不仅...还... (bùjǐn...hái...) - Not only... but also...
+https://hanabira.org/langs/mandarin/grammarpoint/即便 (jíbiàn) - Even if, even though
+https://hanabira.org/langs/mandarin/grammarpoint/尽管 (jǐnguǎn) - Despite, although
+https://hanabira.org/langs/mandarin/grammarpoint/按照 (ànzhào) - According to, in accordance with
+https://hanabira.org/langs/mandarin/grammarpoint/一般 (yìbān) - Generally, usually
+https://hanabira.org/langs/mandarin/grammarpoint/相对 (xiāngduì) - Relative, comparatively
+https://hanabira.org/langs/mandarin/grammarpoint/连...都/也... (lián...dōu/yě...) - Even
+    "不如 (bùrú) - Not as good as, inferior to",
+    "无论 (wúlùn) - No matter, regardless of",
+    "即 (jí) - Namely, that is",
+    "既...又... (jì...yòu...) - Both... and...",
+    "首先 (shǒuxiān) - First of all, firstly",
+    "最后 (zuìhòu) - Finally, lastly",
+    "只要...就... (zhǐyào...jiù...) - As long as... then...",
+    "只有...才... (zhǐyǒu...cái...) - Only if... then...",
+    "就算 (jiùsuàn) - Even if, granted that",
+    "反而 (fǎn'ér) - On the contrary, instead",
+    "光是 (guāngshì) - Merely, just",
+    "以便 (yǐbiàn) - So that, In order to",
+    "除非...否则... (chúfēi...fǒuzé...) - Unless... otherwise...",
+    "虽然...但是... (suīrán...dànshì...) - Although... but...",
+    "与其...不如... (yǔqí...bùrú...) - Rather than... it's better to...",
+    "不止 (bùzhǐ) - More than, not limited to",
+    "并不 (bìngbù) - Not at all, not really",
+    "甚至 (shènzhì) - Even, to the extent that",
+    "与 (yǔ) - And, with",
+    "早已 (zǎoyǐ) - Long ago, for a long time",
+    "反过来 (fǎnguòlái) - Conversely, on the other hand",
+    "以至于 (yǐzhìyú) - So that, to the extent that",
+    "就此 (jiùcǐ) - Thus, henceforth",
+    "并非 (bìngfēi) - Not, not really",
+    "可是 (kěshì) - But, However",
+    "趁 (chèn) - To take advantage of, while",
+    "由于 (yóuyú) - Due to, because of",
+    "至于 (zhìyú) - As for, regarding",
+    "反正 (fǎnzhèng) - Anyway, in any case",
+    "以前 (yǐqián) - Before, previously",
+    "以后 (yǐhòu) - After, Afterwards",
+    "为了 (wèile) - For the sake of, in order to",
+    "起来 (qǐlái) - Beginning or continuing an action (suffix)",
+    "掉 (diào) - To fall, to drop (verb suffix)",
+    "比如 (bǐrú) - For example, for instance",
+    "不得不 (bùdébù) - Have to, can't help but",
+    "除了...之外 (chúle...zhīwài) - Apart from, besides",
+    "根据 (gēnjù) - According to, based on",
+    "之前 (zhīqián) - Before, prior to",
+    "之后 (zhīhòu) - After, Afterwards",
+    "似乎 (sìhū) - It seems, as if",
+    "好像 (hǎoxiàng) - To seem like, as if",
+    "总之 (zǒngzhī) - In short, in a word",
+    "由 (yóu) - By, via",
+    "要不然 (yàobùrán) - Otherwise, or else",
+    "还是 (háishì) - Or (in questions), still",
+    "除非 (chúfēi) - Unless, only if",
+    "为此 (wèicǐ) - For this reason, for this purpose",
+    "不过 (búguò) - However, but",
+    "即使 (jíshǐ) - Even if, even though",
+    "到底 (dàodǐ) - At last, finally",
+    "另外 (lìngwài) - In addition, furthermore",
+    "一旦 (yīdàn) - Once, in case",
+    "不如 (bùrú) - Not as good as, inferior to",
+    "尽管如此 (jǐnguǎn rúcǐ) - Nevertheless, nonetheless",
+    "为何 (wèihé) - Why, for what reason",
+    "不止一次 (bù zhǐ yī cì) - More than once",
+    "正好 (zhènghǎo) - Just in time, just right",
+    "无论如何 (wúlùn rúhé) - No matter what, anyhow",
+    "以至 (yǐzhì) - To the extent that",
+    "突然 (tūrán) - Suddenly, unexpectedly",
+    "倘若 (tǎngruò) - If, supposing",
+    "何况 (hékùang) - Let alone, moreover",
+    "再三 (zàisān) - Over and over again, repeatedly",
+    "于是 (yúshì) - So, Therefore",
+    "尽量 (jǐnliàng) - As much as possible",
+    "仍然 (réng rán) - Still, yet",
+    "其实 (qí shí) - Actually, in fact",
+    "相反 (xiāng fǎn) - On the contrary, opposite",
+    "相当 (xiāng dāng) - Quite, rather",
+    "不然 (bù rán) - Otherwise, or else",
+    "一直 (yī zhí) - Straight, continuously",
+    "并且 (bìng qiě) - And, moreover, furthermore",
+    "原来 (yuán lái) - Originally, as it turns out",
+    "不料 (bù liào) - Unexpectedly, to one's surprise",
+    "一般 (yībān) - Generally, ordinary",
+    "当然 (dāng rán) - Of course, certainly",
+    "忽然 (hū rán) - Suddenly, all of a sudden",
+    "不久 (bù jiǔ) - Soon, before long",
+    "不仅...而且... (bù jǐn... ér qiě...) - Not only... but also...",
+    "尽管 (jǐn guǎn) - Although, even though",
+    "因此 (yīn cǐ) - Therefore, so",
+    "终于 (zhōng yú) - Finally, at last",
+    "虽说 (suī shuō) - Although, though",
+    "例如 (lì rú) - For instance, such as"
+  ]
+}
+
+
+HSK_4
+
+
+{
+  "titles": [
+    "不得不 (bùdébù) - Have no choice but, cannot but",
+    "只要...就... (zhǐyào... jiù...) - As long as... then...",
+    "只有...才... (zhǐyǒu... cái...) - Only if/when... then...",
+    "随着 (suízhe) - Along with, in the wake of",
+    "不过 (búguò) - But, however",
+    "除非 (chúfēi) - Unless",
+    "以便 (yǐbiàn) - So that, in order to",
+    "无论...都... (wúlùn... dōu...) - No matter how... always...",
+    "既...又... (jì... yòu...) - Both... and...",
+    "即使 (jíshǐ) - Even if",
+    "甚至 (shènzhì) - Even, so much so that",
+    "以免 (yǐmiǎn) - In order to avoid",
+    "不然 (bùrán) - Otherwise",
+    "正如 (zhèngrú) - Just as, as",
+    "虽然...但是... (suīrán... dànshì...) - Although... but...",
+    "根据 (gēnjù) - According to",
+    "比如 (bǐrú) - For example",
+    "假如 (jiǎrú) - If, suppose",
+    "既然 (jìrán) - Since, now that",
+    "无论 (wúlùn) - Regardless of, no matter",
+    "尽管...还... (jǐnguǎn... hái...) - Despite... still...",
+    "即便 (jíbiàn) - Even if, even though",
+    "至于 (zhìyú) - As for, regarding",
+    "相比之下 (xiāngbǐ zhīxià) - In comparison, compared with",
+    "幸亏 (xìngkuī) - Fortunately, luckily",
+    "趁 (chèn) - Take advantage of, while",
+    "为了 (wèile) - In order to, for the sake of",
+    "假设 (jiǎshè) - Suppose, assuming",
+    "反而 (fǎn'ér) - Instead, on the contrary",
+    "与此同时 (yǔ cǐ tóngshí) - Meanwhile, at the same time",
+    "不如 (bù rú) - Not as good as, rather than",
+    "反之 (fǎnzhī) - Conversely, on the other hand",
+    "由于 (yóuyú) - Due to, because of",
+    "尽管如此 (jǐnguǎn rúcǐ) - Nevertheless, however",
+    "若 (ruò) - If, in case",
+    "鉴于 (jiànyú) - In light of, considering",
+    "除了...以外 (chúle... yǐwài) - Except for, besides",
+    "虽说 (suīshuō) - Although, though",
+    "不管 (bùguǎn) - No matter (how, what, etc.)",
+    "只要 (zhǐyào) - As long as",
+    "宁愿 (nìngyuàn) - Would rather, prefer to",
+    "尤其 (yóuqí) - Especially, particularly",
+    "一旦 (yīdàn) - Once, in case",
+    "否则 (fǒuzé) - Otherwise",
+    "偶尔 (ǒu'ěr) - Occasionally, now and then",
+    "此外 (cǐwài) - In addition, moreover",
+    "起初 (qǐchū) - At first, originally",
+    "依然 (yīrán) - Still, as before",
+    "毕竟 (bìjìng) - After all, all in all",
+    "不同于 (bùtóngyú) - Different from",
+    "除非 (chúfēi) - Unless",
+    "反映 (fǎnyìng) - Reflect, mirror",
+    "根据 (gēnjù) - Based on, According to",
+    "对比 (duìbǐ) - Compare, contrast",
+    "不如 (bùrú) - Inferior to, not as good as",
+    "替代 (tìdài) - Replace, substitute",
+    "好像 (hǎoxiàng) - Seem, be like",
+    "接着 (jiēzhe) - Following, then",
+    "好处 (hǎochù) - Advantage/Benefit",
+    "到底 (dàodǐ) - After all, in the end",
+    "相当于 (xiāngdāngyú) - Equivalent to",
+    "难怪 (nánguài) - No wonder, so that's why",
+    "似乎 (sìhū) - It seems that, as if",
+    "逐渐 (zhújiàn) - Gradually",
+    "由此 (yóucǐ) - Hence, thus",
+    "相对于 (xiāngduìyú) - Relative to, Compared with",
+    "关于 (guānyú) - About, regarding",
+    "即便 (jíbiàn) - Even if, even though",
+    "因此 (yīncǐ) - Therefore, so",
+    "究竟 (jiūjìng) - After all, in the end",
+    "除...之外 (chú...zhīwài) - Besides, in addition to",
+    "宁可 (nìngkě) - Would rather, prefer to",
+    "由于 (yóuyú) - Due to, because of",
+    "假如 (jiǎrú) - If, suppose",
+    "值得 (zhídé) - Worth, deserving",
+    "其次 (qícì) - Secondly, next",
+    "一方面...另一方面... (yī fāngmiàn... lìng yī fāngmiàn...) - On one hand... on the other hand...",
+    "照 (zhào) - According to, in accordance with",
+    "例如 (lìrú) - For instance, for example",
+    "以为 (yǐwéi) - Assume, think (incorrectly)",
+    "无论 (wúlùn) - Regardless of, no matter what/who/etc.",
+    "只要 (zhǐyào) - As long as",
+    "除非 (chúfēi) - Unless",
+    "幸亏 (xìngkuī) - Fortunately, luckily",
+    "只是 (zhǐshì) - Just, only, merely",
+    "据说 (jùshuō) - It is said, reportedly",
+    "既...又... (jì...yòu...) - Both... and...",
+    "几乎 (jīhū) - Almost, Nearly",
+    "不得不 (bùdébù) - Have to, can't help but",
+    "总的来说 (zǒng de lái shuō) - Generally speaking",
+    "尽量 (jǐnliàng) - As much as possible, to the best of one’s ability",
+    "为了 (wèile) - In order to, for the sake of",
+    "既然 (jìrán) - Since, now that",
+    "无法 (wúfǎ) - Unable to, can't",
+    "由 (yóu) - By (indicating a passive voice)",
+    "比如 (bǐrú) - Such as, For example",
+    "即使 (jíshǐ) - Even if, even though",
+    "只有...才... (zhǐyǒu...cái...) - Only if/when... then...",
+    "甚至 (shènzhì) - Even, so much so that",
+    "反而 (fǎn'ér) - On the contrary, instead",
+    "无论...都... (wúlùn...dōu...) - No matter what/who/etc., always...",
+    "不过 (bùguò) - However, but",
+    "正好 (zhènghǎo) - Just in time, just right",
+    "正如 (zhèngrú) - Just as, as",
+    "随着 (suízhe) - Along with, in pace with",
+    "与其...不如... (yǔqí... bùrú...) - Rather than... it's better to...",
+    "只不过 (zhǐ bùguò) - Merely, simply",
+    "除了...还/也... (chúle... hái/yě...) - Apart from... also...",
+    "至于 (zhìyú) - As for, regarding",
+    "虽然...但是... (suīrán... dànshì...) - Although... but...",
+    "无论如何 (wúlùn rúhé) - No matter what, anyhow",
+    "到底 (dàodǐ) - At last, finally",
+    "反正 (fǎnzhèng) - Anyway, in any case",
+    "不是...而是... (bùshì... érshì...) - It's not... but...",
+    "原来 (yuánlái) - Originally, as it turns out",
+    "一旦 (yīdàn) - Once, in case (something happens)",
+    "不然 (bùrán) - Otherwise, or else",
+    "并且 (bìngqiě) - And, moreover, furthermore",
+    "若 (ruò) - If, In case"
+  ]
+}
+
+
+HSK_5
+
+{
+  "titles": [
+    "除非...否则... (chúfēi...fǒuzé...) - Unless... otherwise...",
+    "尽管 (jǐnguǎn) - Although, even though",
+    "一切 (yīqiè) - All, every",
+    "另外 (lìngwài) - Furthermore, in addition",
+    "无疑 (wúyí) - Undoubtedly",
+    "鉴于 (jiànyú) - In light of, considering",
+    "毕竟 (bìjìng) - After all, in the end",
+    "相对 (xiāngduì) - Relative, comparatively",
+    "为此 (wèicǐ) - For this reason",
+    "否定 (fǒudìng) - To deny, negate",
+    "稍微 (shāowēi) - A bit, slightly",
+    "难怪 (nánguài) - No wonder, so that's why",
+    "要么...要么... (yàome... yàome...) - Either... or...",
+    "于是 (yúshì) - Consequently, as a result",
+    "绝不 (juébù) - Absolutely not, Under no circumstances",
+    "在于 (zàiyú) - Lies in, resides in",
+    "至少 (zhìshǎo) - At least",
+    "从此 (cóngcǐ) - Since then, from that time on",
+    "避免 (bìmiǎn) - To avoid",
+    "非但 (fēidàn) - Not only",
+    "其中 (qízhōng) - Among, amongst",
+    "一方面...另一方面... (yī fāngmiàn... lìng yī fāngmiàn...) - On one hand... on the other hand...",
+    "既然 (jìrán) - Since, given that",
+    "即便 (jíbiàn) - Even if, even though",
+    "既...又... (jì... yòu...) - Both... and...",
+    "偶尔 (ǒu'ěr) - Occasionally, once in a while",
+    "并非 (bìngfēi) - Not at all, is not",
+    "似乎 (sìhū) - Seems, appears",
+    "逐渐 (zhújiàn) - Gradually",
+    "因此 (yīncǐ) - Therefore, thus",
+    "只有...才... (zhǐyǒu... cái...) - Only if/when... then...",
+    "何况 (hékuàng) - Let alone, moreover",
+    "丝毫 (sīháo) - The slightest amount or degree, a bit",
+    "根据 (gēnjù) - According to, on the basis of",
+    "由于 (yóuyú) - Due to, because of",
+    "尽量 (jǐnliàng) - As much as possible, to the best of one's ability",
+    "正如 (zhèngrú) - Just like, as",
+    "不仅...而且... (bùjǐn... érqiě...) - Not only... but also...",
+    "尽早 (jǐnzǎo) - As soon as possible",
+    "尽管如此 (jǐnguǎn rúcǐ) - Nevertheless, nonetheless",
+    "无论...都... (wúlùn... dōu...) - No matter... always...",
+    "起初 (qǐchū) - At first, originally",
+    "除了...以外...还/也... (chúle... yǐwài... hái/yě...) - Besides... also...",
+    "虽然...但是... (suīrán... dànshì...) - Although... but...",
+    "就算 (jiùsuàn) - Even if, granted that",
+    "不管 (bùguǎn) - Regardless of, no matter how/what",
+    "再三 (zàisān) - again and again, repeatedly",
+    "如今 (rújīn) - Nowadays, currently",
+    "反而 (fǎn'ér) - On the contrary, instead",
+    "毫无 (háo wú) - Without any, not in the least",
+    "反正 (fǎnzhèng) - Anyway, in any case",
+    "即使 (jíshǐ) - Even if, Even though",
+    "一旦 (yīdàn) - Once, in case (something happens)",
+    "不然 (bùrán) - Otherwise, if not",
+    "总之 (zǒngzhī) - In short, in a word",
+    "至于 (zhìyú) - As for, regarding",
+    "以便 (yǐbiàn) - So that, in order to",
+    "若是 (ruòshì) - If",
+    "照 (zhào) - According to, in accordance with",
+    "反映 (fǎnyìng) - Reflect, reflection",
+    "不如 (bùrú) - Not as good as, inferior to",
+    "至少 (zhìshǎo) - At least",
+    "另外 (lìngwài) - Additionally, furthermore",
+    "为了 (wèile) - In order to, for the purpose of",
+    "只要...就... (zhǐyào... jiù...) - As long as... then...",
+    "即 (jí) - Namely, that is to say",
+    "不见得 (bú jiàn de) - Not necessarily, not likely",
+    "除非 (chúfēi) - Unless, only if",
+    "于是 (yúshì) - So, therefore, as a result",
+    "正当 (zhèngdāng) - Just as, right when",
+    "甚至 (shènzhì) - Even, so much so that",
+    "若 (ruò) - If, in case",
+    "根本 (gēnběn) - At all, simply (as in 'not at all')",
+    "不料 (bùliào) - Unexpectedly",
+    "似的 (shì de) - Seems like, as if",
+    "顺便 (shùnbiàn) - By the way, while doing something else",
+    "由此 (yóucǐ) - Thus, hence",
+    "假如 (jiǎrú) - Suppose, if",
+    "尤其 (yóuqí) - Especially, particularly",
+    "倘若 (tǎngruò) - If, supposing",
+    "否则 (fǒuzé) - Otherwise, or else",
+    "一旦...就... (yīdàn... jiù...) - Once... then...",
+    "正如 (zhèngrú) - Just as, as",
+    "不禁 (bùjīn) - Can't help (doing something)",
+    "既然 (jìrán) - Since, now that",
+    "趁 (chèn) - Take advantage of, while",
+    "其中 (qízhōng) - Among, of which",
+    "就此 (jiùcǐ) - Thereupon, thus",
+    "无非 (wúfēi) - Nothing but, no more than",
+    "究竟 (jiūjìng) - After all, in the end",
+    "竟然 (jìngrán) - Unexpectedly, to one's surprise",
+    "只不过 (zhǐbùguò) - Merely, only",
+    "早已 (zǎoyǐ) - Long ago, for a long time",
+    "不光...还... (bù guāng... hái...) - Not only... but also...",
+    "何况 (hékùang) - Let alone, much less",
+    "难怪 (nánguài) - No wonder, so that's why",
+    "既...又... (jì... yòu...) - Both... and...",
+    "莫非 (mòfēi) - Could it be that, unless",
+    "正好 (zhènghǎo) - Just in time, just right",
+    "就算...也... (jiùsuàn... yě...) - Even if... still...",
+    "何必 (hébì) - Why should, why bother",
+    "一切 (yíqiè) - All, everything",
+    "除了...之外 (chúle... zhīwài) - Apart from, besides",
+    "宁可 (nìngkě) - Would rather, preferably",
+    "反而 (fǎn'ér) - On the contrary, instead",
+    "尽量 (jìnliàng) - As much as possible",
+    "无论...都... (wúlùn... dōu...) - No matter... always...",
+    "照 (zhào) - According to, in light of",
+    "经过 (jīngguò) - After, through (in a process context)",
+    "至于 (zhìyú) - As for, as to",
+    "一方面...另一方面... (yī fāngmiàn... lìng yī fāngmiàn...) - On one hand... on the other hand...",
+    "鉴于 (jiànyú) - In view of, considering",
+    "反正 (fǎnzhèng) - Anyway, in any case",
+    "尽管...但是... (jǐnguǎn... dànshì...) - Although... but...",
+    "只有...才... (zhǐyǒu... cái...) - Only if... then...",
+    "不过 (búguò) - However, but",
+    "再三 (zàisān) - Repeatedly, over and over again",
+    "偏偏 (piānpiān) - Against expectations, of all things",
+    "更不用说 (gèng bùyòng shuō) - Not to mention, let alone"
+  ]
+}

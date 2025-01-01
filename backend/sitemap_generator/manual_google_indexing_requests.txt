@@ -1,0 +1,84 @@
+removals:
+https://zen-lingo.com/grammarselection/         x
+https://zen-lingo.com/vocabularyselection/      x
+https://zen-lingo.com/gdashboard/               x
+
+
+
+
+manual indexing requests - should help, can do like 10 a day i think
+
+
+https://zen-lingo.com/japanese/kanji                             x
+https://zen-lingo.com/japanese/kanji/n3kanji1
+https://zen-lingo.com/japanese/kanji/n3kanji2
+https://zen-lingo.com/japanese/kanji/n3kanji3
+https://zen-lingo.com/japanese/kanji/n3kanji4
+https://zen-lingo.com/japanese/kanji/n3kanji5
+https://zen-lingo.com/japanese/kanji/n3kanji6              
+
+
+https://zen-lingo.com/japanese/grammar_selection/JLPT_N3/       x
+https://zen-lingo.com/japanese/grammar_selection/JLPT_N4/       x
+https://zen-lingo.com/japanese/grammar_selection/JLPT_N5/       x
+https://zen-lingo.com/japanese/grammar_selection/JLPT_N2/       x
+https://zen-lingo.com/japanese/grammar_selection/JLPT_N1/       x
+
+https://zen-lingo.com/japanese/vocabulary_selection/JLPT_N3            x
+https://zen-lingo.com/japanese/vocabulary_selection/essential_verbs    x
+
+
+https://zen-lingo.com/japanese/grammar_dashboard/JLPT_N5/25/       x  
+https://zen-lingo.com/japanese/grammar_dashboard/JLPT_N5/50/       x
+https://zen-lingo.com/japanese/grammar_dashboard/JLPT_N5/75/       x
+https://zen-lingo.com/japanese/grammar_dashboard/JLPT_N5/100/      x   
+https://zen-lingo.com/japanese/grammar_dashboard/JLPT_N5/125/      x
+https://zen-lingo.com/japanese/grammar_dashboard/JLPT_N5/150/      x
+  
+https://zen-lingo.com/japanese/grammar_dashboard/JLPT_N4/25/       x
+https://zen-lingo.com/japanese/grammar_dashboard/JLPT_N4/50/       x
+https://zen-lingo.com/japanese/grammar_dashboard/JLPT_N4/75/       x
+https://zen-lingo.com/japanese/grammar_dashboard/JLPT_N4/100/      x
+https://zen-lingo.com/japanese/grammar_dashboard/JLPT_N4/125/      x
+  
+https://zen-lingo.com/japanese/grammar_dashboard/JLPT_N3/10/    
+https://zen-lingo.com/japanese/grammar_dashboard/JLPT_N3/20/    
+https://zen-lingo.com/japanese/grammar_dashboard/JLPT_N3/30/    
+https://zen-lingo.com/japanese/grammar_dashboard/JLPT_N3/40/    
+https://zen-lingo.com/japanese/grammar_dashboard/JLPT_N3/50/    
+https://zen-lingo.com/japanese/grammar_dashboard/JLPT_N3/60/    
+https://zen-lingo.com/japanese/grammar_dashboard/JLPT_N3/70/    
+https://zen-lingo.com/japanese/grammar_dashboard/JLPT_N3/80/    
+https://zen-lingo.com/japanese/grammar_dashboard/JLPT_N3/90/    
+https://zen-lingo.com/japanese/grammar_dashboard/JLPT_N3/100/   
+https://zen-lingo.com/japanese/grammar_dashboard/JLPT_N3/110/   
+https://zen-lingo.com/japanese/grammar_dashboard/JLPT_N3/120/   
+https://zen-lingo.com/japanese/grammar_dashboard/JLPT_N3/130/   
+https://zen-lingo.com/japanese/grammar_dashboard/JLPT_N3/140/   
+       
+https://zen-lingo.com/japanese/grammar_dashboard/JLPT_N2/25/      x
+https://zen-lingo.com/japanese/grammar_dashboard/JLPT_N2/50/      x
+https://zen-lingo.com/japanese/grammar_dashboard/JLPT_N2/75/      x
+https://zen-lingo.com/japanese/grammar_dashboard/JLPT_N2/100/     x    limit
+https://zen-lingo.com/japanese/grammar_dashboard/JLPT_N2/125/   
+https://zen-lingo.com/japanese/grammar_dashboard/JLPT_N2/150/   
+https://zen-lingo.com/japanese/grammar_dashboard/JLPT_N2/175/   
+https://zen-lingo.com/japanese/grammar_dashboard/JLPT_N2/200/   
+
+https://zen-lingo.com/japanese/grammar_dashboard/JLPT_N1/25/    
+https://zen-lingo.com/japanese/grammar_dashboard/JLPT_N1/50/    
+https://zen-lingo.com/japanese/grammar_dashboard/JLPT_N1/75/    
+https://zen-lingo.com/japanese/grammar_dashboard/JLPT_N1/100/   
+https://zen-lingo.com/japanese/grammar_dashboard/JLPT_N1/125/   
+https://zen-lingo.com/japanese/grammar_dashboard/JLPT_N1/150/   
+https://zen-lingo.com/japanese/grammar_dashboard/JLPT_N1/175/   
+https://zen-lingo.com/japanese/grammar_dashboard/JLPT_N1/200/   
+https://zen-lingo.com/japanese/grammar_dashboard/JLPT_N1/225/   
+https://zen-lingo.com/japanese/grammar_dashboard/JLPT_N1/250/
+
+
+
+
+
+
+

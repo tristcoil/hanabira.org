@@ -50,11 +50,15 @@ const JapaneseTextParser: React.FC<JapaneseTextParserProps> = ({
   //const [userId] = useState("testuserId"); // Define userId
 
 
+console.log('userId:')
+console.log(userId)
+
   // --- text enhancement --- //
 
   useEffect(() => {
     const fetchData = async () => {
-      if (!inputText) return;
+      //if (!inputText) return;
+      if (!inputText || !userId.trim()) return; // Guard clause for inputText and userId
 
       try {
         const response = await fetch(mecabApiUrl, {
@@ -74,7 +78,7 @@ const JapaneseTextParser: React.FC<JapaneseTextParserProps> = ({
     };
 
     fetchData();
-  }, [inputText, inputMode, revisionCount]);
+  }, [inputText, inputMode, revisionCount, userId]);
 
   const enhanceData = async (parsedData: any) => {
     const response = await fetch(userVocabApiUrl, {

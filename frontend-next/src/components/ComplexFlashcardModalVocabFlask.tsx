@@ -14,13 +14,13 @@ import {
 import { ChevronDownIcon, ChevronUpIcon } from "@heroicons/react/24/solid";
 
 interface Question {
-  vocabulary_japanese: string;
+  vocabulary_original: string;
   vocabulary_simplified: string;
   vocabulary_english: string;
   vocabulary_audio: string;
   word_type: string; // Optional, if you want to display the type of word (e.g., Verb)
   sentences: Array<{
-    sentence_japanese: string;
+    sentence_original: string;
     sentence_simplified?: string; // Optional if you sometimes have simplified versions
     sentence_romaji: string;
     sentence_english: string;
@@ -62,7 +62,7 @@ const ComplexFlashcardModal: FC<ComplexFlashcardModalProps> = ({
   if (userId) {
     apiUrl = `/f-api/v1/combine-flashcard-data-${collectionName}?userId=${userId}&collectionName=${collectionName}&p_tag=${p_tag}&s_tag=${s_tag}`;
   } else {
-    apiUrl = `/api/v1/${collectionName}?p_tag=${p_tag}&s_tag=${s_tag}`;
+    apiUrl = `/e-api/v1/${collectionName}?p_tag=${p_tag}&s_tag=${s_tag}`;
   }
 
 
@@ -113,7 +113,7 @@ const ComplexFlashcardModal: FC<ComplexFlashcardModalProps> = ({
           userId: userId,
           difficulty,
           collectionName: collectionName,
-          vocabulary_japanese: currentQuestion.vocabulary_japanese,
+          vocabulary_original: currentQuestion.vocabulary_original,
           p_tag,
           s_tag,
         });
@@ -306,15 +306,15 @@ const ComplexFlashcardModal: FC<ComplexFlashcardModalProps> = ({
 
                           {/* Container for vocabulary details to center them except for the button */}
                           <div className="flex-grow text-center">
-                            {/* vocabulary_simplified above vocabulary_japanese */}
+                            {/* vocabulary_simplified above vocabulary_original */}
                             <div className="text-2xl font-bold dark:text-white text-gray-800">
                               {currentQuestion.vocabulary_simplified}
                             </div>
-                            {/* vocabulary_japanese in the middle */}
+                            {/* vocabulary_original in the middle */}
                             <span className="text-6xl font-bold dark:text-gray-200 text-gray-600 block">
-                              {currentQuestion.vocabulary_japanese}
+                              {currentQuestion.vocabulary_original}
                             </span>
-                            {/* vocabulary_english below vocabulary_japanese */}
+                            {/* vocabulary_english below vocabulary_original */}
                             <div className="text-xl dark:text-gray-300 text-gray-600">
                               {currentQuestion.vocabulary_english}
                             </div>
@@ -401,7 +401,7 @@ const ComplexFlashcardModal: FC<ComplexFlashcardModalProps> = ({
 export default ComplexFlashcardModal;
 
 interface Sentence {
-  sentence_japanese: string;
+  sentence_original: string;
   sentence_romaji: string;
   sentence_english: string;
   sentence_audio: string;
@@ -468,7 +468,7 @@ const SentenceSection: React.FC<SentenceSectionProps> = ({ sentences }) => {
               {/* Sentence Text and Toggle Button */}
               <div className="flex-grow flex justify-between items-center">
                 <div className="text-lg dark:text-white text-gray-800">
-                  {sentence.sentence_japanese}
+                  {sentence.sentence_original}
                 </div>
                 <button
                   onClick={() => toggleOpenState(index)}

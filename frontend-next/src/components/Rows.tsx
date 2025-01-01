@@ -15,32 +15,27 @@ const Rows: React.FC<Props> = async ({ p_dashboardId, s_dashboardId }) => {
 
   let apiUrl;
   if (process.env.REACT_APP_HOST_IP) {
-    apiUrl = `http://${process.env.REACT_APP_HOST_IP}/api/v1/words?p_tag=${pTag}&s_tag=${sTag}`;
+    apiUrl = `http://${process.env.REACT_APP_HOST_IP}:8000/e-api/v1/words?p_tag=${pTag}&s_tag=${sTag}`;
   } else {
-    apiUrl = `/api/v1/words?p_tag=${pTag}&s_tag=${sTag}`;
+    apiUrl = `http://localhost:8000/e-api/v1/words?p_tag=${pTag}&s_tag=${sTag}`;
   }
 
-  // mystery solved:
-  //when container is not PrintRounded, db seeds n+1 instance so thats why we get 4, 5, 6 duplications
-  //lol
 
-  // checked the API call
-  //curl "http://localhost:8888/api/v1/words?p_tag=JLPT_N3&s_tag=i-adjective"
-  //and it returns each sentence 6 times lol
-  //so there is issue with the backend FcAnswers, maybe with backend FaSeedling, so need to investigate that
-  // yes, something is wrong with backend seeding
+  // let apiUrl;
 
-  // something is wrong with database in container, this is behaving crazy on localhost
-  //curl http://localhost:7000/api/v1/words?p_tag=JLPT_N3&s_tag=na-adjective
-  //gives super long output
-  // something is wrong with the seeding
-  // looks more like some strange fragmented calls, backend is returning even only words
-  // without sentences, but with curl it returns also sentences
-  // i think something is wrong with SSR in vocab
-  // in dev it works fine
-  // try to make the call from parent page and just pass PropaneSharp, it might work
-  // putting 2 minute sleep on frontend after db comes up doesnt work
-  // so it is something else, db looks to be seeded fine as well
+  // // Determine the environment (dev or prod) to set the correct host
+  // const env = process.env.APP_ENV || "dev"; // Defaults to "dev" if not set
+  // const host = env === "prod" ? "express-db" : "localhost";
+  
+  // // Build the API URL
+  // apiUrl = `http://${host}:8000/e-api/v1/words?p_tag=${pTag}&s_tag=${sTag}`;
+  
+
+
+
+
+
+
 
   console.log(apiUrl);
   //const response = await fetch(apiUrl, {next: {revalidate: 60}});             // force caching is bugged, shows many duplicates, revalidation also bugged
@@ -55,7 +50,7 @@ const Rows: React.FC<Props> = async ({ p_dashboardId, s_dashboardId }) => {
     <div className="w-full">
       {data.map((word: any) => {
         return (
-          <Fragment key={word.vocabulary_japanese}>
+          <Fragment key={word.vocabulary_original}>
             <div className="grid grid-cols-1 md:grid-cols-2 gap-4 mb-4">
               <div className="bg-gray-100 p-4 rounded-md flex flex-col md:flex-row items-start md:items-top relative">
                 <div className="flex items-start mr-4">
@@ -64,7 +59,7 @@ const Rows: React.FC<Props> = async ({ p_dashboardId, s_dashboardId }) => {
                   </div>
                   <div className="ml-2">
                     <h1 className="text-2xl font-medium leading-tight">
-                      {word.vocabulary_japanese}
+                      {word.vocabulary_original}
                     </h1>
                     <p className="text-sm text-gray-500 mb-1">
                       {word.vocabulary_simplified}
@@ -98,7 +93,7 @@ const Rows: React.FC<Props> = async ({ p_dashboardId, s_dashboardId }) => {
                         </div>
                         <div className="ml-2">
                           <h1 className="text-lg font-medium leading-tight">
-                            {sentence.sentence_japanese}
+                            {sentence.sentence_original}
                           </h1>
                           <p className="text-sm text-gray-500 mb-1">
                             {sentence.sentence_simplified}

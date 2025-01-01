@@ -10,10 +10,16 @@ import CloneButton from "@/components/CloneButton";
 import ComplexFlashcardModalVocabFlaskSentenceMining from "@/components/ComplexFlashcardModalVocabFlaskSentenceMining";
 import ComplexFlashcardModalVocabFlask from "@/components/ComplexFlashcardModalVocabFlask";
 
+import { useUser } from "@/context/UserContext";
+import LoginButton from "@/components/LoginButton";
+
 export default function Home() {
+
+
   const [darkMode, setDarkMode] = useState(false);
 
-  const [userId, setuserId] = useState(null);
+  //const [userId, setuserId] = useState(null);
+  const { userId, loggedIn, loading } = useUser();
 
   useEffect(() => {
     if (darkMode) {
@@ -23,17 +29,60 @@ export default function Home() {
     }
   }, [darkMode]);
 
-  useEffect(() => {
-    const fetchuserId = async () => {
-      const { userId, jwt } = getUserFromCookies();
-      setuserId(userId);
-    };
+  // useEffect(() => {
+  //   const fetchuserId = async () => {
+  //     const { userId, jwt } = getUserFromCookies();
+  //     setuserId(userId);
+  //   };
 
-    fetchuserId();
-  }, []);
+  //   fetchuserId();
+  // }, []);
+
+  // While we're still loading the login state from context, show a spinner or nothing
+  if (loading) {
+    return (
+      <div className="flex items-center justify-center min-h-screen">
+        {/* Simple spinner, or skeleton UI */}
+        <span className="text-gray-500">Loading...</span>
+      </div>
+    );
+  }
+
+  //If the user is not logged in, display the modal
+  if (!loading && !loggedIn) {
+    return (
+      <div className="fixed inset-0 flex items-center justify-center z-50 bg-black bg-opacity-50">
+        {/* Modal container */}
+        <div className="bg-white rounded-md shadow-md p-6 max-w-md w-full mx-4">
+          <h2 className="text-xl font-bold mb-4">Please Log In</h2>
+          <p className="mb-4">
+            You need to be logged in to access this feature.
+          </p>
+          <div className="flex justify-end">
+            <LoginButton />
+          </div>
+        </div>
+      </div>
+    );
+  }
+
+
+
+
+
+
+
+
+
 
   return (
     <div className="bg-gray-100 text-black dark:bg-gray-900 dark:text-white min-h-screen">
+
+<p className="text-lg font-semibold text-green-500">
+            User ID: {userId}
+          </p>
+
+
       <div className="container mx-auto p-6">
         {/* Clone JLPT Collections Section */}
         <section className="mb-12">

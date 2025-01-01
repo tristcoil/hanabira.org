@@ -1,3 +1,5 @@
 {
-  "deeplApiKey": "YOUR_DEEPL_API_KEY_HERE"
+  "DEEPL_API_KEY": "KEY-HERE",
+  "OPENAI_API_KEY": "KEY-KERE",
+  "OPENAI_ORG_ID": "ID-HERE"
 }

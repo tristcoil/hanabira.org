@@ -1,6 +1,6 @@
 [
       {
-        "vocabulary_japanese": "生きる_",
+        "vocabulary_original": "生きる_",
         "vocabulary_simplified": "いきる",
         "vocabulary_english": "to live, to become alive",
         "word_type": "Verb",
@@ -9,7 +9,7 @@
         "s_tag": "verbs-8"
       },
       {
-        "vocabulary_japanese": "知らせる_",
+        "vocabulary_original": "知らせる_",
         "vocabulary_simplified": "しらせる",
         "vocabulary_english": "to inform, to notify, to tell",
         "word_type": "Verb",
@@ -18,7 +18,7 @@
         "s_tag": "verbs-8"
       },
       {
-        "vocabulary_japanese": "取る_",
+        "vocabulary_original": "取る_",
         "vocabulary_simplified": "とる",
         "vocabulary_english": "to get, to take, to steal",
         "word_type": "Verb",
@@ -27,7 +27,7 @@
         "s_tag": "verbs-8"
       },
       {
-        "vocabulary_japanese": "答える_",
+        "vocabulary_original": "答える_",
         "vocabulary_simplified": "こたえる",
         "vocabulary_english": "to answer, to respond",
         "word_type": "Verb",
@@ -36,7 +36,7 @@
         "s_tag": "verbs-8"
       },
       {
-        "vocabulary_japanese": "亡くなる_",
+        "vocabulary_original": "亡くなる_",
         "vocabulary_simplified": "なくなる",
         "vocabulary_english": "to die, to pass away",
         "word_type": "Verb",
@@ -45,7 +45,7 @@
         "s_tag": "verbs-8"
       },
       {
-        "vocabulary_japanese": "会う_",
+        "vocabulary_original": "会う_",
         "vocabulary_simplified": "あう",
         "vocabulary_english": "to meet",
         "word_type": "Verb",
@@ -54,7 +54,7 @@
         "s_tag": "verbs-8"
       },
       {
-        "vocabulary_japanese": "わたる_",
+        "vocabulary_original": "わたる_",
         "vocabulary_simplified": "わたる",
         "vocabulary_english": "to range (from ~), to cover",
         "word_type": "Verb",
@@ -63,7 +63,7 @@
         "s_tag": "verbs-8"
       },
       {
-        "vocabulary_japanese": "拾う_",
+        "vocabulary_original": "拾う_",
         "vocabulary_simplified": "ひろう",
         "vocabulary_english": "to pick up, to find",
         "word_type": "Verb",
@@ -72,7 +72,7 @@
         "s_tag": "verbs-8"
       },
       {
-        "vocabulary_japanese": "始める_",
+        "vocabulary_original": "始める_",
         "vocabulary_simplified": "はじめる",
         "vocabulary_english": "to begin, to open (transitive)",
         "word_type": "Verb",
@@ -81,7 +81,7 @@
         "s_tag": "verbs-8"
       },
       {
-        "vocabulary_japanese": "太る_",
+        "vocabulary_original": "太る_",
         "vocabulary_simplified": "ふとる",
         "vocabulary_english": "to put on weight",
         "word_type": "Verb",
@@ -90,7 +90,7 @@
         "s_tag": "verbs-8"
       },
       {
-        "vocabulary_japanese": "近づく_",
+        "vocabulary_original": "近づく_",
         "vocabulary_simplified": "ちかづく",
         "vocabulary_english": "to approach, to get near, to associate with",
         "word_type": "Verb",
@@ -99,7 +99,7 @@
         "s_tag": "verbs-8"
       },
       {
-        "vocabulary_japanese": "残す_",
+        "vocabulary_original": "残す_",
         "vocabulary_simplified": "のこす",
         "vocabulary_english": "to save, to leave behind",
         "word_type": "Verb",
@@ -108,7 +108,7 @@
         "s_tag": "verbs-8"
       },
       {
-        "vocabulary_japanese": "踊る_",
+        "vocabulary_original": "踊る_",
         "vocabulary_simplified": "おどる",
         "vocabulary_english": "to dance",
         "word_type": "Verb",
@@ -117,7 +117,7 @@
         "s_tag": "verbs-8"
       },
       {
-        "vocabulary_japanese": "見つかる_",
+        "vocabulary_original": "見つかる_",
         "vocabulary_simplified": "みつかる",
         "vocabulary_english": "to be found, to be discovered",
         "word_type": "Verb",
@@ -126,7 +126,7 @@
         "s_tag": "verbs-8"
       },
       {
-        "vocabulary_japanese": "敗れる_",
+        "vocabulary_original": "敗れる_",
         "vocabulary_simplified": "やぶれる",
         "vocabulary_english": "to lose a game, to be defeated",
         "word_type": "Verb",
@@ -135,7 +135,7 @@
         "s_tag": "verbs-8"
       },
       {
-        "vocabulary_japanese": "延びる_",
+        "vocabulary_original": "延びる_",
         "vocabulary_simplified": "のびる",
         "vocabulary_english": "to be extended, to postpone",
         "word_type": "Verb",
@@ -144,7 +144,7 @@
         "s_tag": "verbs-8"
       },
       {
-        "vocabulary_japanese": "置く_",
+        "vocabulary_original": "置く_",
         "vocabulary_simplified": "おく",
         "vocabulary_english": "to put, to keep, to leave",
         "word_type": "Verb",
@@ -153,7 +153,7 @@
         "s_tag": "verbs-8"
       },
       {
-        "vocabulary_japanese": "触れる_",
+        "vocabulary_original": "触れる_",
         "vocabulary_simplified": "ふれる",
         "vocabulary_english": "to touch, to mention",
         "word_type": "Verb",
@@ -162,7 +162,7 @@
         "s_tag": "verbs-8"
       },
       {
-        "vocabulary_japanese": "できる（出来る）_",
+        "vocabulary_original": "できる（出来る）_",
         "vocabulary_simplified": "できる",
         "vocabulary_english": "to be completed, can, to be made of",
         "word_type": "Verb",
@@ -171,7 +171,7 @@
         "s_tag": "verbs-8"
       },
       {
-        "vocabulary_japanese": "空ける_",
+        "vocabulary_original": "空ける_",
         "vocabulary_simplified": "あける",
         "vocabulary_english": "to empty",
         "word_type": "Verb",
@@ -180,7 +180,7 @@
         "s_tag": "verbs-8"
       },
       {
-        "vocabulary_japanese": "逃げる_",
+        "vocabulary_original": "逃げる_",
         "vocabulary_simplified": "にげる",
         "vocabulary_english": "to run away, to escape",
         "word_type": "Verb",
@@ -189,7 +189,7 @@
         "s_tag": "verbs-8"
       },
       {
-        "vocabulary_japanese": "のぞく_",
+        "vocabulary_original": "のぞく_",
         "vocabulary_simplified": "のぞく",
         "vocabulary_english": "to look in, to peep in",
         "word_type": "Verb",
@@ -198,7 +198,7 @@
         "s_tag": "verbs-8"
       },
       {
-        "vocabulary_japanese": "倒す_",
+        "vocabulary_original": "倒す_",
         "vocabulary_simplified": "たおす",
         "vocabulary_english": "to trow down, to knock down, to defeat",
         "word_type": "Verb",
@@ -207,7 +207,7 @@
         "s_tag": "verbs-8"
       },
       {
-        "vocabulary_japanese": "刺す_",
+        "vocabulary_original": "刺す_",
         "vocabulary_simplified": "さす",
         "vocabulary_english": "to pierce, to sting",
         "word_type": "Verb",
@@ -216,7 +216,7 @@
         "s_tag": "verbs-8"
       },
       {
-        "vocabulary_japanese": "遊ぶ_",
+        "vocabulary_original": "遊ぶ_",
         "vocabulary_simplified": "あそぶ",
         "vocabulary_english": "to play, to enjoy oneself",
         "word_type": "Verb",
@@ -225,7 +225,7 @@
         "s_tag": "verbs-8"
       },
       {
-        "vocabulary_japanese": "肥える_",
+        "vocabulary_original": "肥える_",
         "vocabulary_simplified": "こえる",
         "vocabulary_english": "to be fertile, fat",
         "word_type": "Verb",
@@ -234,7 +234,7 @@
         "s_tag": "verbs-8"
       },
       {
-        "vocabulary_japanese": "離す_",
+        "vocabulary_original": "離す_",
         "vocabulary_simplified": "はなす",
         "vocabulary_english": "to keep away",
         "word_type": "Verb",
@@ -243,7 +243,7 @@
         "s_tag": "verbs-8"
       },
       {
-        "vocabulary_japanese": "引く_",
+        "vocabulary_original": "引く_",
         "vocabulary_simplified": "ひく",
         "vocabulary_english": "to pull, to draw (a line), to catch (a cold), to consult (a dictionary)",
         "word_type": "Verb",
@@ -252,7 +252,7 @@
         "s_tag": "verbs-8"
       },
       {
-        "vocabulary_japanese": "終わる_",
+        "vocabulary_original": "終わる_",
         "vocabulary_simplified": "おわる",
         "vocabulary_english": "to be finished, to be over",
         "word_type": "Verb",
@@ -261,7 +261,7 @@
         "s_tag": "verbs-8"
       },
       {
-        "vocabulary_japanese": "出る_",
+        "vocabulary_original": "出る_",
         "vocabulary_simplified": "でる",
         "vocabulary_english": "to come out, to leave, to attend, to be published",
         "word_type": "Verb",
@@ -270,7 +270,7 @@
         "s_tag": "verbs-8"
       },
       {
-        "vocabulary_japanese": "進める_",
+        "vocabulary_original": "進める_",
         "vocabulary_simplified": "すすめる",
         "vocabulary_english": "to advance, to promote",
         "word_type": "Verb",
@@ -279,7 +279,7 @@
         "s_tag": "verbs-8"
       },
       {
-        "vocabulary_japanese": "付ける（着ける）_",
+        "vocabulary_original": "付ける（着ける）_",
         "vocabulary_simplified": "つける",
         "vocabulary_english": "to put on, to fix",
         "word_type": "Verb",
@@ -288,7 +288,7 @@
         "s_tag": "verbs-8"
       },
       {
-        "vocabulary_japanese": "歩く_",
+        "vocabulary_original": "歩く_",
         "vocabulary_simplified": "あるく",
         "vocabulary_english": "to walk",
         "word_type": "Verb",
@@ -297,7 +297,7 @@
         "s_tag": "verbs-8"
       },
       {
-        "vocabulary_japanese": "出す_",
+        "vocabulary_original": "出す_",
         "vocabulary_simplified": "だす",
         "vocabulary_english": "to put out, to",
         "word_type": "Verb",
@@ -306,7 +306,7 @@
         "s_tag": "verbs-8"
       },
       {
-        "vocabulary_japanese": "直す_",
+        "vocabulary_original": "直す_",
         "vocabulary_simplified": "なおす",
         "vocabulary_english": "to correct, to fix, to change",
         "word_type": "Verb",
@@ -315,7 +315,7 @@
         "s_tag": "verbs-8"
       },
       {
-        "vocabulary_japanese": "増やす_",
+        "vocabulary_original": "増やす_",
         "vocabulary_simplified": "ふやす",
         "vocabulary_english": "to increase",
         "word_type": "Verb",
@@ -324,7 +324,7 @@
         "s_tag": "verbs-8"
       },
       {
-        "vocabulary_japanese": "着る_",
+        "vocabulary_original": "着る_",
         "vocabulary_simplified": "きる",
         "vocabulary_english": "to wear, to put on, to take the blame for",
         "word_type": "Verb",
@@ -333,7 +333,7 @@
         "s_tag": "verbs-8"
       },
       {
-        "vocabulary_japanese": "みる_",
+        "vocabulary_original": "みる_",
         "vocabulary_simplified": "みる",
         "vocabulary_english": "to try",
         "word_type": "Verb",
@@ -342,7 +342,7 @@
         "s_tag": "verbs-8"
       },
       {
-        "vocabulary_japanese": "消す_",
+        "vocabulary_original": "消す_",
         "vocabulary_simplified": "けす",
         "vocabulary_english": "to extinguish, to turn off, to erase, to disappear",
         "word_type": "Verb",
@@ -351,7 +351,7 @@
         "s_tag": "verbs-8"
       },
       {
-        "vocabulary_japanese": "祈る_",
+        "vocabulary_original": "祈る_",
         "vocabulary_simplified": "いのる",
         "vocabulary_english": "to pray, to hope",
         "word_type": "Verb",
@@ -360,7 +360,7 @@
         "s_tag": "verbs-8"
       },
       {
-        "vocabulary_japanese": "集まる_",
+        "vocabulary_original": "集まる_",
         "vocabulary_simplified": "あつまる",
         "vocabulary_english": "to get together, to assemble",
         "word_type": "Verb",
@@ -369,7 +369,7 @@
         "s_tag": "verbs-8"
       },
       {
-        "vocabulary_japanese": "喜ぶ_",
+        "vocabulary_original": "喜ぶ_",
         "vocabulary_simplified": "よろこぶ",
         "vocabulary_english": "to be glad, to be delighted",
         "word_type": "Verb",
@@ -378,7 +378,7 @@
         "s_tag": "verbs-8"
       },
       {
-        "vocabulary_japanese": "教える_",
+        "vocabulary_original": "教える_",
         "vocabulary_simplified": "おしえる",
         "vocabulary_english": "to teach, to tell, to show",
         "word_type": "Verb",
@@ -387,7 +387,7 @@
         "s_tag": "verbs-8"
       },
       {
-        "vocabulary_japanese": "込む_",
+        "vocabulary_original": "込む_",
         "vocabulary_simplified": "こむ",
         "vocabulary_english": "to be crowded, to come in (attached to a verb), to put in",
         "word_type": "Verb",
@@ -396,7 +396,7 @@
         "s_tag": "verbs-8"
       },
       {
-        "vocabulary_japanese": "目立つ_",
+        "vocabulary_original": "目立つ_",
         "vocabulary_simplified": "めだつ",
         "vocabulary_english": "to be outstanding, to be remarkable",
         "word_type": "Verb",
@@ -405,7 +405,7 @@
         "s_tag": "verbs-8"
       },
       {
-        "vocabulary_japanese": "誤る_",
+        "vocabulary_original": "誤る_",
         "vocabulary_simplified": "あやまる",
         "vocabulary_english": "to make a mistake",
         "word_type": "Verb",
@@ -414,7 +414,7 @@
         "s_tag": "verbs-8"
       },
       {
-        "vocabulary_japanese": "手伝う_",
+        "vocabulary_original": "手伝う_",
         "vocabulary_simplified": "てつだう",
         "vocabulary_english": "to help, to assist",
         "word_type": "Verb",
@@ -423,7 +423,7 @@
         "s_tag": "verbs-8"
       },
       {
-        "vocabulary_japanese": "おさえる_",
+        "vocabulary_original": "おさえる_",
         "vocabulary_simplified": "おさえる",
         "vocabulary_english": "to reserve",
         "word_type": "Verb",
@@ -432,7 +432,7 @@
         "s_tag": "verbs-8"
       },
       {
-        "vocabulary_japanese": "泣く_",
+        "vocabulary_original": "泣く_",
         "vocabulary_simplified": "なく",
         "vocabulary_english": "to cry (people)",
         "word_type": "Verb",
@@ -441,7 +441,7 @@
         "s_tag": "verbs-8"
       },
       {
-        "vocabulary_japanese": "謝る_",
+        "vocabulary_original": "謝る_",
         "vocabulary_simplified": "あやまる",
         "vocabulary_english": "to apologize",
         "word_type": "Verb",

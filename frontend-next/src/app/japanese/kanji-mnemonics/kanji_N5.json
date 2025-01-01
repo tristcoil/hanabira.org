@@ -1,0 +1,318 @@
+[
+  {
+    "kanji": "日",
+    "uri": "/kanji/23-sun-day-%E6%97%A5"
+  },
+  {
+    "kanji": "一",
+    "uri": "/kanji/1-one-line-radical-%E4%B8%80"
+  },
+  {
+    "kanji": "国",
+    "uri": "/kanji/438-country-%E5%9B%BD"
+  },
+  {
+    "kanji": "人",
+    "uri": "/kanji/61-person-%E4%BA%BA"
+  },
+  {
+    "kanji": "年",
+    "uri": "/kanji/1572-year-%E5%B9%B4"
+  },
+  {
+    "kanji": "大",
+    "uri": "/kanji/397-big-%E5%A4%A7"
+  },
+  {
+    "kanji": "十",
+    "uri": "/kanji/15-ten-%E5%8D%81"
+  },
+  {
+    "kanji": "二",
+    "uri": "/kanji/2-two-%E4%BA%8C"
+  },
+  {
+    "kanji": "本",
+    "uri": "/kanji/338-book-the-real-%E6%9C%AC"
+  },
+  {
+    "kanji": "中",
+    "uri": "/kanji/489-middle-%E4%B8%AD"
+  },
+  {
+    "kanji": "長",
+    "uri": "/kanji/905-long-boss-%E9%95%B7"
+  },
+  {
+    "kanji": "出",
+    "uri": "/kanji/1024-pull-out-hand-over-%E5%87%BA"
+  },
+  {
+    "kanji": "三",
+    "uri": "/kanji/3-three-%E4%B8%89"
+  },
+  {
+    "kanji": "時",
+    "uri": "/kanji/1002-time-%E6%99%82"
+  },
+  {
+    "kanji": "行",
+    "uri": "/kanji/1229-go-%E8%A1%8C"
+  },
+  {
+    "kanji": "見",
+    "uri": "/kanji/520-look-%E8%A6%8B"
+  },
+  {
+    "kanji": "月",
+    "uri": "/kanji/41-moon-organ-%E6%9C%88"
+  },
+  {
+    "kanji": "後",
+    "uri": "/kanji/1234-afterwards-behind-%E5%BE%8C"
+  },
+  {
+    "kanji": "前",
+    "uri": "/kanji/865-before-%E5%89%8D"
+  },
+  {
+    "kanji": "生",
+    "uri": "/kanji/473-life-birth-%E7%94%9F"
+  },
+  {
+    "kanji": "五",
+    "uri": "/kanji/1573-five-%E4%BA%94"
+  },
+  {
+    "kanji": "間",
+    "uri": "/kanji/162-a-period-of-time-%E9%96%93"
+  },
+  {
+    "kanji": "上",
+    "uri": "/kanji/123-above-%E4%B8%8A"
+  },
+  {
+    "kanji": "東",
+    "uri": "/kanji/357-east-%E6%9D%B1"
+  },
+  {
+    "kanji": "四",
+    "uri": "/kanji/694-the-numeral-4-%E5%9B%9B"
+  },
+  {
+    "kanji": "今",
+    "uri": "/kanji/943-now-%E4%BB%8A"
+  },
+  {
+    "kanji": "金",
+    "uri": "/kanji/909-gold-%E9%87%91"
+  },
+  {
+    "kanji": "九",
+    "uri": "/kanji/181-the-number-9-%E4%B9%9D"
+  },
+  {
+    "kanji": "入",
+    "uri": "/kanji/60-putgo-in-%E5%85%A5"
+  },
+  {
+    "kanji": "学",
+    "uri": "/kanji/1624-knowledge-%E5%AD%A6"
+  },
+  {
+    "kanji": "高",
+    "uri": "/kanji/1639-tall-%E9%AB%98"
+  },
+  {
+    "kanji": "円",
+    "uri": "/kanji/72-yencircle-%E5%86%86"
+  },
+  {
+    "kanji": "子",
+    "uri": "/kanji/5-child-%E5%AD%90"
+  },
+  {
+    "kanji": "外",
+    "uri": "/kanji/122-outside-%E5%A4%96"
+  },
+  {
+    "kanji": "八",
+    "uri": "/kanji/132-eight-%E5%85%AB"
+  },
+  {
+    "kanji": "六",
+    "uri": "/kanji/134-six-%E5%85%AD"
+  },
+  {
+    "kanji": "下",
+    "uri": "/kanji/12-below-%E4%B8%8B"
+  },
+  {
+    "kanji": "来",
+    "uri": "/kanji/394-comefuture-%E6%9D%A5"
+  },
+  {
+    "kanji": "気",
+    "uri": "/kanji/983-mood-%E6%B0%97"
+  },
+  {
+    "kanji": "小",
+    "uri": "/kanji/192-small-size-%E5%B0%8F"
+  },
+  {
+    "kanji": "七",
+    "uri": "/kanji/20-seven-%E4%B8%83"
+  },
+  {
+    "kanji": "山",
+    "uri": "/kanji/823-mountain-%E5%B1%B1"
+  },
+  {
+    "kanji": "話",
+    "uri": "/kanji/231-conversation-%E8%A9%B1"
+  },
+  {
+    "kanji": "女",
+    "uri": "/kanji/6-woman-%E5%A5%B3"
+  },
+  {
+    "kanji": "北",
+    "uri": "/kanji/803-north-%E5%8C%97"
+  },
+  {
+    "kanji": "午",
+    "uri": "/kanji/1192-noon-%E5%8D%88"
+  },
+  {
+    "kanji": "百",
+    "uri": "/kanji/814-hundred-%E7%99%BE"
+  },
+  {
+    "kanji": "書",
+    "uri": "/kanji/1659-write-%E6%9B%B8"
+  },
+  {
+    "kanji": "先",
+    "uri": "/kanji/810-earlier-the-tip-%E5%85%88"
+  },
+  {
+    "kanji": "名",
+    "uri": "/kanji/119-name-famous-%E5%90%8D"
+  },
+  {
+    "kanji": "川",
+    "uri": "/kanji/853-river-%E5%B7%9D"
+  },
+  {
+    "kanji": "千",
+    "uri": "/kanji/229-thousand-%E5%8D%83"
+  },
+  {
+    "kanji": "水",
+    "uri": "/kanji/33-water-%E6%B0%B4"
+  },
+  {
+    "kanji": "半",
+    "uri": "/kanji/186-half-%E5%8D%8A"
+  },
+  {
+    "kanji": "男",
+    "uri": "/kanji/180-man-%E7%94%B7"
+  },
+  {
+    "kanji": "西",
+    "uri": "/kanji/574-west-%E8%A5%BF"
+  },
+  {
+    "kanji": "電",
+    "uri": "/kanji/1403-electricity-%E9%9B%BB"
+  },
+  {
+    "kanji": "校",
+    "uri": "/kanji/1011-school-%E6%A0%A1"
+  },
+  {
+    "kanji": "語",
+    "uri": "/kanji/1574-language-%E8%AA%9E"
+  },
+  {
+    "kanji": "土",
+    "uri": "/kanji/235-earth-%E5%9C%9F"
+  },
+  {
+    "kanji": "木",
+    "uri": "/kanji/335-tree-%E6%9C%A8"
+  },
+  {
+    "kanji": "聞",
+    "uri": "/kanji/1748-listen-ask-%E8%81%9E"
+  },
+  {
+    "kanji": "食",
+    "uri": "/kanji/921-eat-%E9%A3%9F"
+  },
+  {
+    "kanji": "車",
+    "uri": "/kanji/1058-car-%E8%BB%8A"
+  },
+  {
+    "kanji": "何",
+    "uri": "/kanji/62-what-%E4%BD%95"
+  },
+  {
+    "kanji": "南",
+    "uri": "/kanji/869-south-%E5%8D%97"
+  },
+  {
+    "kanji": "万",
+    "uri": "/kanji/85-10000-%E4%B8%87"
+  },
+  {
+    "kanji": "毎",
+    "uri": "/kanji/484-every-%E6%AF%8E"
+  },
+  {
+    "kanji": "白",
+    "uri": "/kanji/31-white-%E7%99%BD"
+  },
+  {
+    "kanji": "天",
+    "uri": "/kanji/880-heaven-%E5%A4%A9"
+  },
+  {
+    "kanji": "母",
+    "uri": "/kanji/482-your-moms-%E6%AF%8D"
+  },
+  {
+    "kanji": "火",
+    "uri": "/kanji/47-fire-%E7%81%AB"
+  },
+  {
+    "kanji": "右",
+    "uri": "/kanji/1097-right-%E5%8F%B3"
+  },
+  {
+    "kanji": "読",
+    "uri": "/kanji/566-read-%E8%AA%AD"
+  },
+  {
+    "kanji": "友",
+    "uri": "/kanji/1105-friend-%E5%8F%8B"
+  },
+  {
+    "kanji": "左",
+    "uri": "/kanji/1098-left-%E5%B7%A6"
+  },
+  {
+    "kanji": "休",
+    "uri": "/kanji/340-rest-%E4%BC%91"
+  },
+  {
+    "kanji": "父",
+    "uri": "/kanji/1008-dad-%E7%88%B6"
+  },
+  {
+    "kanji": "雨",
+    "uri": "/kanji/1383-rain-%E9%9B%A8"
+  }
+]

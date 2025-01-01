@@ -6,8 +6,15 @@ import { getUserFromCookies } from "@/utils/helperFunctions";
 
 //import TextModal from './TextModal'; // Adjust path as needed
 
+import { useUser } from "@/context/UserContext";
+
+
 const JapaneseTexts = () => {
-  const [userId, setUserId] = useState(null);
+  //const [userId, setUserId] = useState(null);
+  const { userId, loggedIn } = useUser();
+
+
+
   const [texts, setTexts] = useState([]);
   const [newText, setNewText] = useState({
     topic: "",
@@ -22,8 +29,8 @@ const JapaneseTexts = () => {
 
   useEffect(() => {
     const fetchuserId = async () => {
-      const { userId, userName, jwt } = getUserFromCookies();
-      setUserId(userId);
+      //const { userId, userName, jwt } = getUserFromCookies();
+      //setUserId(userId);
       setNewText((prev) => ({ ...prev, userId })); // Update newText with userId
     };
 
@@ -31,17 +38,20 @@ const JapaneseTexts = () => {
   }, []);
 
   useEffect(() => {
-    fetchTexts();
-  }, []);
+    fetchTexts(userId);
+  }, [userId]);
 
-  const fetchTexts = async () => {
+  const fetchTexts = async (userId) => {
     try {
-      const response = await axios.get("/f-api/v1/japanese-texts");
+      const response = await axios.get(`/f-api/v1/japanese-texts/${userId}`);
       setTexts(response.data);
     } catch (error) {
       console.error("Error fetching texts:", error);
     }
   };
+  
+
+
 
   const handleInputChange = (e) => {
     setNewText({ ...newText, [e.target.name]: e.target.value });

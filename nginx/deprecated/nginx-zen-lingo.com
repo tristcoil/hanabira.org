@@ -44,7 +44,7 @@ server {
     proxy_set_header Connection 'upgrade';
   }
 
-  location /api/v1/words {
+  location /e-api/v1/words {
     proxy_pass http://localhost:7000;
     proxy_set_header Host $host;
     proxy_set_header X-Real-IP $remote_addr;
@@ -55,7 +55,7 @@ server {
     proxy_set_header Connection 'upgrade';
   }
 
-  location /api/v1/grammars {
+  location /e-api/v1/grammars {
     proxy_pass http://localhost:7000;
     proxy_set_header Host $host;
     proxy_set_header X-Real-IP $remote_addr;
@@ -66,7 +66,7 @@ server {
     proxy_set_header Connection 'upgrade';
   }
 
-  location /api/v1/grammar-titles {
+  location /e-api/v1/grammar-titles {
     proxy_pass http://localhost:7000;
     proxy_set_header Host $host;
     proxy_set_header X-Real-IP $remote_addr;
@@ -77,7 +77,7 @@ server {
     proxy_set_header Connection 'upgrade';
   }
 
-  location /api/v1/grammar-details {
+  location /e-api/v1/grammar-details {
     proxy_pass http://localhost:7000;
     proxy_set_header Host $host;
     proxy_set_header X-Real-IP $remote_addr;

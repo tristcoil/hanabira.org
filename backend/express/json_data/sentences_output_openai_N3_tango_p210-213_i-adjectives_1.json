@@ -1,6 +1,6 @@
 [
     {
-        "sentence_japanese": "この川は非常に浅いです。",
+        "sentence_original": "この川は非常に浅いです。",
         "sentence_kanji": "1. 浅い",
         "sentence_romaji": "Kono kawa wa hijou ni asai desu.",
         "sentence_simplified": "",
@@ -10,7 +10,7 @@
         "key": "浅い"
     },
     {
-        "sentence_japanese": "彼の知識は浅いほうで、まだ経験が足りないと思う。",
+        "sentence_original": "彼の知識は浅いほうで、まだ経験が足りないと思う。",
         "sentence_kanji": "2. 浅い",
         "sentence_romaji": "Kare no chishiki wa asai hou de, mada keiken ga tarinai to omou.",
         "sentence_simplified": "",
@@ -20,7 +20,7 @@
         "key": "浅い"
     },
     {
-        "sentence_japanese": "沖に行くと海は浅くなってきます。",
+        "sentence_original": "沖に行くと海は浅くなってきます。",
         "sentence_kanji": "3. 浅い",
         "sentence_romaji": "Oki ni iku to umi wa asaku natte kimasu.",
         "sentence_simplified": "",
@@ -30,7 +30,7 @@
         "key": "浅い"
     },
     {
-        "sentence_japanese": "そのプールは子供向けのため、水が浅い。",
+        "sentence_original": "そのプールは子供向けのため、水が浅い。",
         "sentence_kanji": "4. 浅い",
         "sentence_romaji": "Sono puuru wa kodomo muke no tame, mizu ga asai.",
         "sentence_simplified": "",
@@ -40,7 +40,7 @@
         "key": "浅い"
     },
     {
-        "sentence_japanese": "彼女は浅い呼吸をし、すぐに眠りに落ちた。",
+        "sentence_original": "彼女は浅い呼吸をし、すぐに眠りに落ちた。",
         "sentence_kanji": "5. 浅い",
         "sentence_romaji": "Kanojo wa asai kokyuu o shi, sugu ni nemuri ni ochita.",
         "sentence_simplified": "",
@@ -50,7 +50,7 @@
         "key": "浅い"
     },
     {
-        "sentence_japanese": "彼は偉い先生だと思います。",
+        "sentence_original": "彼は偉い先生だと思います。",
         "sentence_kanji": "1. 偉い",
         "sentence_romaji": "Kare wa erai sensei da to omoimasu",
         "sentence_simplified": "",
@@ -60,7 +60,7 @@
         "key": "偉い"
     },
     {
-        "sentence_japanese": "彼女は偉い業績を上げた。",
+        "sentence_original": "彼女は偉い業績を上げた。",
         "sentence_kanji": "2. 偉い",
         "sentence_romaji": "Kanojo wa erai gyouseki o ageta",
         "sentence_simplified": "",
@@ -70,7 +70,7 @@
         "key": "偉い"
     },
     {
-        "sentence_japanese": "父は家族のために偉い努力をしている。",
+        "sentence_original": "父は家族のために偉い努力をしている。",
         "sentence_kanji": "3. 偉い",
         "sentence_romaji": "Chichi wa kazoku no tame ni erai doryoku o shite iru",
         "sentence_simplified": "",
@@ -80,7 +80,7 @@
         "key": "偉い"
     },
     {
-        "sentence_japanese": "その偉い発明家は世界的に有名だ。",
+        "sentence_original": "その偉い発明家は世界的に有名だ。",
         "sentence_kanji": "4. 偉い",
         "sentence_romaji": "Sono erai hatsumeika wa sekaiteki ni yuumei da",
         "sentence_simplified": "",
@@ -90,7 +90,7 @@
         "key": "偉い"
     },
     {
-        "sentence_japanese": "彼の偉い行いは人々に感動を与えた。",
+        "sentence_original": "彼の偉い行いは人々に感動を与えた。",
         "sentence_kanji": "5. 偉い",
         "sentence_romaji": "Kare no erai okonai wa hitobito ni kandou o ataeta",
         "sentence_simplified": "",
@@ -100,7 +100,7 @@
         "key": "偉い"
     },
     {
-        "sentence_japanese": "彼女の態度がおかしい。",
+        "sentence_original": "彼女の態度がおかしい。",
         "sentence_kanji": "1. おかしい",
         "sentence_romaji": "Kanojo no taido ga okashii.",
         "sentence_simplified": "",
@@ -110,7 +110,7 @@
         "key": "おかしい"
     },
     {
-        "sentence_japanese": "この部屋の中で何かおかしい匂いがする。",
+        "sentence_original": "この部屋の中で何かおかしい匂いがする。",
         "sentence_kanji": "2. おかしい",
         "sentence_romaji": "Kono heya no naka de nanika okashii nioi ga suru.",
         "sentence_simplified": "",
@@ -120,7 +120,7 @@
         "key": "おかしい"
     },
     {
-        "sentence_japanese": "彼の話がおかしいと思って付け入る隙を見つけた。",
+        "sentence_original": "彼の話がおかしいと思って付け入る隙を見つけた。",
         "sentence_kanji": "3. おかしい",
         "sentence_romaji": "Kare no hanashi ga okashii to omotte tsuke iru suki o mitsuketa.",
         "sentence_simplified": "",
@@ -130,7 +130,7 @@
         "key": "おかしい"
     },
     {
-        "sentence_japanese": "そのおかしい映画に皆大笑いした。",
+        "sentence_original": "そのおかしい映画に皆大笑いした。",
         "sentence_kanji": "4. おかしい",
         "sentence_romaji": "Sono okashii eiga ni minna oowarai shita.",
         "sentence_simplified": "",
@@ -140,7 +140,7 @@
         "key": "おかしい"
     },
     {
-        "sentence_japanese": "どこかおかしいと感じたんだが、具体的な点が見当たらない。",
+        "sentence_original": "どこかおかしいと感じたんだが、具体的な点が見当たらない。",
         "sentence_kanji": "5. おかしい",
         "sentence_romaji": "Dokoka okashii to kanjitan da ga, gutaiteki na ten ga miataranai.",
         "sentence_simplified": "",
@@ -150,7 +150,7 @@
         "key": "おかしい"
     },
     {
-        "sentence_japanese": "彼の態度がおかしいと思っていたら、隠し事をしていることがわかった。",
+        "sentence_original": "彼の態度がおかしいと思っていたら、隠し事をしていることがわかった。",
         "sentence_kanji": "1. おかしい",
         "sentence_romaji": "Kare no taido ga okashii to omotte itara, kakushigoto o shite iru koto ga wakatta.",
         "sentence_simplified": "",
@@ -160,7 +160,7 @@
         "key": "おかしい"
     },
     {
-        "sentence_japanese": "この料理の味がおかしいですね、何かが足りない気がする。",
+        "sentence_original": "この料理の味がおかしいですね、何かが足りない気がする。",
         "sentence_kanji": "2. おかしい",
         "sentence_romaji": "Kono ryouri no aji ga okashii desu ne, nanika ga tarinai ki ga suru.",
         "sentence_simplified": "",
@@ -170,7 +170,7 @@
         "key": "おかしい"
     },
     {
-        "sentence_japanese": "おかしいですが、この部屋に入った途端に頭痛がしてきた。",
+        "sentence_original": "おかしいですが、この部屋に入った途端に頭痛がしてきた。",
         "sentence_kanji": "3. おかしい",
         "sentence_romaji": "Okashii desu ga, kono heya ni haitta totan ni zutsuu ga shite kita.",
         "sentence_simplified": "",
@@ -180,7 +180,7 @@
         "key": "おかしい"
     },
     {
-        "sentence_japanese": "彼女がこんなに遅れるなんておかしいよ。どうして連絡が来ないの？",
+        "sentence_original": "彼女がこんなに遅れるなんておかしいよ。どうして連絡が来ないの？",
         "sentence_kanji": "4. おかしい",
         "sentence_romaji": "Kanojo ga konna ni okureru nante okashii yo. Doushite renraku ga konai no?",
         "sentence_simplified": "",
@@ -190,7 +190,7 @@
         "key": "おかしい"
     },
     {
-        "sentence_japanese": "最近、彼の仕事の様子がおかしい。何か問題があるのだろうか。",
+        "sentence_original": "最近、彼の仕事の様子がおかしい。何か問題があるのだろうか。",
         "sentence_kanji": "5. おかしい",
         "sentence_romaji": "Saikin, kare no shigoto no yousu ga okashii. Nanika mondai ga aru no darou ka.",
         "sentence_simplified": "",
@@ -200,7 +200,7 @@
         "key": "おかしい"
     },
     {
-        "sentence_japanese": "恐ろしい事件が起こった。",
+        "sentence_original": "恐ろしい事件が起こった。",
         "sentence_kanji": "1. 恐ろしい",
         "sentence_romaji": "Osoroshii jiken ga okotta",
         "sentence_simplified": "",
@@ -210,7 +210,7 @@
         "key": "恐ろしい"
     },
     {
-        "sentence_japanese": "彼女はその映画が恐ろしすぎて見られなかった。",
+        "sentence_original": "彼女はその映画が恐ろしすぎて見られなかった。",
         "sentence_kanji": "2. 恐ろしい",
         "sentence_romaji": "Kanojo wa sono eiga ga osoroshi sugite mirarenakatta",
         "sentence_simplified": "",
@@ -220,7 +220,7 @@
         "key": "恐ろしい"
     },
     {
-        "sentence_japanese": "雷が恐ろしく激しく、家の中が揺れるほどだった。",
+        "sentence_original": "雷が恐ろしく激しく、家の中が揺れるほどだった。",
         "sentence_kanji": "3. 恐ろしい",
         "sentence_romaji": "Kaminari ga osoroshiku hageshiku, ie no naka ga yureru hodo datta",
         "sentence_simplified": "",
@@ -230,7 +230,7 @@
         "key": "恐ろしい"
     },
     {
-        "sentence_japanese": "この恐ろしい事件の犠牲者数は増え続けている。",
+        "sentence_original": "この恐ろしい事件の犠牲者数は増え続けている。",
         "sentence_kanji": "4. 恐ろしい",
         "sentence_romaji": "Kono osoroshii jiken no giseisha suu wa masetsuzuketeiru",
         "sentence_simplified": "",
@@ -240,7 +240,7 @@
         "key": "恐ろしい"
     },
     {
-        "sentence_japanese": "彼が言った言葉は、どれも恐ろしいことばかりだった。",
+        "sentence_original": "彼が言った言葉は、どれも恐ろしいことばかりだった。",
         "sentence_kanji": "5. 恐ろしい",
         "sentence_romaji": "Kare ga itta kotoba wa, doremo osoroshii koto bakari datta",
         "sentence_simplified": "",
@@ -250,7 +250,7 @@
         "key": "恐ろしい"
     },
     {
-        "sentence_japanese": "彼女はおとなしい性格です。",
+        "sentence_original": "彼女はおとなしい性格です。",
         "sentence_kanji": "1. おとなしい",
         "sentence_romaji": "Kanojo wa otonashii seikaku desu",
         "sentence_simplified": "",
@@ -260,7 +260,7 @@
         "key": "おとなしい"
     },
     {
-        "sentence_japanese": "彼はいつもおとなしい子どもだ。",
+        "sentence_original": "彼はいつもおとなしい子どもだ。",
         "sentence_kanji": "2. おとなしい",
         "sentence_romaji": "Kare wa itsumo otonashii kodomo da",
         "sentence_simplified": "",
@@ -270,7 +270,7 @@
         "key": "おとなしい"
     },
     {
-        "sentence_japanese": "おとなしい犬は初心者に適しています。",
+        "sentence_original": "おとなしい犬は初心者に適しています。",
         "sentence_kanji": "3. おとなしい",
         "sentence_romaji": "Otonashii inu wa shoshinsha ni teki shiteimasu",
         "sentence_simplified": "",
@@ -280,7 +280,7 @@
         "key": "おとなしい"
     },
     {
-        "sentence_japanese": "彼のおとなしい態度は評価されている。",
+        "sentence_original": "彼のおとなしい態度は評価されている。",
         "sentence_kanji": "4. おとなしい",
         "sentence_romaji": "Kare no otonashii taido wa hyouka sarete iru",
         "sentence_simplified": "",
@@ -290,7 +290,7 @@
         "key": "おとなしい"
     },
     {
-        "sentence_japanese": "おとなしい生徒は先生に気に入られることが多い。",
+        "sentence_original": "おとなしい生徒は先生に気に入られることが多い。",
         "sentence_kanji": "5. おとなしい",
         "sentence_romaji": "Otonashii seito wa sensei ni ki niirareru koto ga ooi",
         "sentence_simplified": "",
@@ -300,7 +300,7 @@
         "key": "おとなしい"
     },
     {
-        "sentence_japanese": "このセーターは素材が粗いので、着るとかゆいです。",
+        "sentence_original": "このセーターは素材が粗いので、着るとかゆいです。",
         "sentence_kanji": "1. かゆい",
         "sentence_romaji": "Kono seetaa wa sozai ga arai node, kiru to kayui desu",
         "sentence_simplified": "",
@@ -310,7 +310,7 @@
         "key": "かゆい"
     },
     {
-        "sentence_japanese": "蚊に刺されて、かゆいところがたくさんあります。",
+        "sentence_original": "蚊に刺されて、かゆいところがたくさんあります。",
         "sentence_kanji": "2. かゆい",
         "sentence_romaji": "Ka ni sasarete, kayui tokoro ga takusan arimasu",
         "sentence_simplified": "",
@@ -320,7 +320,7 @@
         "key": "かゆい"
     },
     {
-        "sentence_japanese": "アレルギーのせいで、目がかゆいです。",
+        "sentence_original": "アレルギーのせいで、目がかゆいです。",
         "sentence_kanji": "3. かゆい",
         "sentence_romaji": "Arerugii no sei de, me ga kayui desu",
         "sentence_simplified": "",
@@ -330,7 +330,7 @@
         "key": "かゆい"
     },
     {
-        "sentence_japanese": "猫にかまれた後、手がかゆいです。",
+        "sentence_original": "猫にかまれた後、手がかゆいです。",
         "sentence_kanji": "4. かゆい",
         "sentence_romaji": "Neko ni kamareta ato, te ga kayui desu",
         "sentence_simplified": "",
@@ -340,7 +340,7 @@
         "key": "かゆい"
     },
     {
-        "sentence_japanese": "花粉症の季節になると、鼻がかゆいです。",
+        "sentence_original": "花粉症の季節になると、鼻がかゆいです。",
         "sentence_kanji": "5. かゆい",
         "sentence_romaji": "Kafunshou no kisetsu ni naru to, hana ga kayui desu",
         "sentence_simplified": "",
@@ -350,7 +350,7 @@
         "key": "かゆい"
     },
     {
-        "sentence_japanese": "この仕事はきついですね。",
+        "sentence_original": "この仕事はきついですね。",
         "sentence_kanji": "1. きつい",
         "sentence_romaji": "Kono shigoto wa kitsui desu ne",
         "sentence_simplified": "",
@@ -360,7 +360,7 @@
         "key": "きつい"
     },
     {
-        "sentence_japanese": "この靴はきつくて履けません。",
+        "sentence_original": "この靴はきつくて履けません。",
         "sentence_kanji": "2. きつい",
         "sentence_romaji": "Kono kutsu wa kitsukute hakemasen",
         "sentence_simplified": "",
@@ -370,7 +370,7 @@
         "key": "きつい"
     },
     {
-        "sentence_japanese": "今日のトレーニングは特にきつかった。",
+        "sentence_original": "今日のトレーニングは特にきつかった。",
         "sentence_kanji": "3. きつい",
         "sentence_romaji": "Kyou no tore-ningu wa tokuni kitsukatta",
         "sentence_simplified": "",
@@ -380,7 +380,7 @@
         "key": "きつい"
     },
     {
-        "sentence_japanese": "きつい言い方をしないでください。",
+        "sentence_original": "きつい言い方をしないでください。",
         "sentence_kanji": "4. きつい",
         "sentence_romaji": "Kitsui iikata o shinaide kudasai",
         "sentence_simplified": "",
@@ -390,7 +390,7 @@
         "key": "きつい"
     },
     {
-        "sentence_japanese": "あの山登りはかなりきつい挑戦だった。",
+        "sentence_original": "あの山登りはかなりきつい挑戦だった。",
         "sentence_kanji": "5. きつい",
         "sentence_romaji": "Ano yama nobori wa kanari kitsui chousen datta",
         "sentence_simplified": "",
@@ -400,7 +400,7 @@
         "key": "きつい"
     },
     {
-        "sentence_japanese": "厳しい状況を乗り越える力が大切だ。",
+        "sentence_original": "厳しい状況を乗り越える力が大切だ。",
         "sentence_kanji": "1. 厳しい",
         "sentence_romaji": "Kibishii joukyou o norikoeru chikara ga taisetsu da.",
         "sentence_simplified": "",
@@ -410,7 +410,7 @@
         "key": "厳しい"
     },
     {
-        "sentence_japanese": "彼女は厳しい試験に合格しました。",
+        "sentence_original": "彼女は厳しい試験に合格しました。",
         "sentence_kanji": "2. 厳しい",
         "sentence_romaji": "Kanojo wa kibishii shiken ni goukaku shimashita.",
         "sentence_simplified": "",
@@ -420,7 +420,7 @@
         "key": "厳しい"
     },
     {
-        "sentence_japanese": "このスポーツチームは厳しいトレーニングに取り組んでいる。",
+        "sentence_original": "このスポーツチームは厳しいトレーニングに取り組んでいる。",
         "sentence_kanji": "3. 厳しい",
         "sentence_romaji": "Kono supo-tsu chi-mu wa kibishii tore-ningu ni torikunde iru.",
         "sentence_simplified": "",
@@ -430,7 +430,7 @@
         "key": "厳しい"
     },
     {
-        "sentence_japanese": "彼は厳しい締め切りのために長時間働いていた。",
+        "sentence_original": "彼は厳しい締め切りのために長時間働いていた。",
         "sentence_kanji": "4. 厳しい",
         "sentence_romaji": "Kare wa kibishii shimekiri no tame ni nagajikan hataraita.",
         "sentence_simplified": "",
@@ -440,7 +440,7 @@
         "key": "厳しい"
     },
     {
-        "sentence_japanese": "環境問題に対する厳しい法律が必要です。",
+        "sentence_original": "環境問題に対する厳しい法律が必要です。",
         "sentence_kanji": "5. 厳しい",
         "sentence_romaji": "Kankyou mondai ni taisuru kibishii houritsu ga hitsuyou desu.",
         "sentence_simplified": "",
@@ -450,7 +450,7 @@
         "key": "厳しい"
     },
     {
-        "sentence_japanese": "この部屋はタバコの臭いがする。",
+        "sentence_original": "この部屋はタバコの臭いがする。",
         "sentence_kanji": "1. 臭い",
         "sentence_romaji": "Kono heya wa tabako no nioi ga suru.",
         "sentence_simplified": "",
@@ -460,7 +460,7 @@
         "key": "臭い"
     },
     {
-        "sentence_japanese": "彼は急に足の臭いを気にし始めた。",
+        "sentence_original": "彼は急に足の臭いを気にし始めた。",
         "sentence_kanji": "2. 臭い",
         "sentence_romaji": "Kare wa kyuu ni ashi no nioi o ki ni shihajimeta.",
         "sentence_simplified": "",
@@ -470,7 +470,7 @@
         "key": "臭い"
     },
     {
-        "sentence_japanese": "彼女は彼の臭いに敏感だ。",
+        "sentence_original": "彼女は彼の臭いに敏感だ。",
         "sentence_kanji": "3. 臭い",
         "sentence_romaji": "Kanojo wa kare no nioi ni binkan da.",
         "sentence_simplified": "",
@@ -480,7 +480,7 @@
         "key": "臭い"
     },
     {
-        "sentence_japanese": "ゴミ箱から悪臭が漂っている。",
+        "sentence_original": "ゴミ箱から悪臭が漂っている。",
         "sentence_kanji": "4. 臭い",
         "sentence_romaji": "Gomibako kara akushū ga tadayotte iru.",
         "sentence_simplified": "",
@@ -490,7 +490,7 @@
         "key": "臭い"
     },
     {
-        "sentence_japanese": "臭い食べ物は食欲をそそる。",
+        "sentence_original": "臭い食べ物は食欲をそそる。",
         "sentence_kanji": "5. 臭い",
         "sentence_romaji": "Nioi tabemono wa shokuyoku o sosoru.",
         "sentence_simplified": "",
@@ -500,7 +500,7 @@
         "key": "臭い"
     },
     {
-        "sentence_japanese": "悔しい結果になってしまった。",
+        "sentence_original": "悔しい結果になってしまった。",
         "sentence_kanji": "1. 悔しい",
         "sentence_romaji": "Kuyashii kekka ni natte shimatta.",
         "sentence_simplified": "",
@@ -510,7 +510,7 @@
         "key": "悔しい"
     },
     {
-        "sentence_japanese": "試合に負けて悔しい思いをした。",
+        "sentence_original": "試合に負けて悔しい思いをした。",
         "sentence_kanji": "2. 悔しい",
         "sentence_romaji": "Shiai ni makete kuyashii omoi o shita.",
         "sentence_simplified": "",
@@ -520,7 +520,7 @@
         "key": "悔しい"
     },
     {
-        "sentence_japanese": "友達に助言されたことが悔しいと思った。",
+        "sentence_original": "友達に助言されたことが悔しいと思った。",
         "sentence_kanji": "3. 悔しい",
         "sentence_romaji": "Tomodachi ni jogen sareta koto ga kuyashii to omotta.",
         "sentence_simplified": "",
@@ -530,7 +530,7 @@
         "key": "悔しい"
     },
     {
-        "sentence_japanese": "目標に届かなかったのが悔しい。",
+        "sentence_original": "目標に届かなかったのが悔しい。",
         "sentence_kanji": "4. 悔しい",
         "sentence_romaji": "Mokuhyou ni todokanakatta no ga kuyashii.",
         "sentence_simplified": "",
@@ -540,7 +540,7 @@
         "key": "悔しい"
     },
     {
-        "sentence_japanese": "頑張っても成果が上がらないのが悔しい。",
+        "sentence_original": "頑張っても成果が上がらないのが悔しい。",
         "sentence_kanji": "5. 悔しい",
         "sentence_romaji": "Ganbatte mo seika ga agaranai no ga kuyashii.",
         "sentence_simplified": "",
@@ -550,7 +550,7 @@
         "key": "悔しい"
     },
     {
-        "sentence_japanese": "この仕事はとても苦しいです。",
+        "sentence_original": "この仕事はとても苦しいです。",
         "sentence_kanji": "1. 苦しい",
         "sentence_romaji": "Kono shigoto wa totemo kurushii desu.",
         "sentence_simplified": "",
@@ -560,7 +560,7 @@
         "key": "苦しい"
     },
     {
-        "sentence_japanese": "彼女は苦しい表情をしていた。",
+        "sentence_original": "彼女は苦しい表情をしていた。",
         "sentence_kanji": "2. 苦しい",
         "sentence_romaji": "Kanojo wa kurushii hyoujou o shite ita.",
         "sentence_simplified": "",
@@ -570,7 +570,7 @@
         "key": "苦しい"
     },
     {
-        "sentence_japanese": "経済的に苦しい時期を乗り越える必要があります。",
+        "sentence_original": "経済的に苦しい時期を乗り越える必要があります。",
         "sentence_kanji": "3. 苦しい",
         "sentence_romaji": "Keizaiteki ni kurushii jiki o norikoeru hitsuyou ga arimasu.",
         "sentence_simplified": "",
@@ -580,7 +580,7 @@
         "key": "苦しい"
     },
     {
-        "sentence_japanese": "彼は胸が苦しいと言って、病院に行った。",
+        "sentence_original": "彼は胸が苦しいと言って、病院に行った。",
         "sentence_kanji": "4. 苦しい",
         "sentence_romaji": "Kare wa mune ga kurushii to itte, byouin ni itta.",
         "sentence_simplified": "",
@@ -590,7 +590,7 @@
         "key": "苦しい"
     },
     {
-        "sentence_japanese": "長い距離を走った後、息が苦しい。",
+        "sentence_original": "長い距離を走った後、息が苦しい。",
         "sentence_kanji": "5. 苦しい",
         "sentence_romaji": "Nagai kyori o hashitta ato, iki ga kurushii.",
         "sentence_simplified": "",
@@ -600,7 +600,7 @@
         "key": "苦しい"
     },
     {
-        "sentence_japanese": "詳しい情報が欲しいです。",
+        "sentence_original": "詳しい情報が欲しいです。",
         "sentence_kanji": "1. 詳しい",
         "sentence_romaji": "Kuwashii jouhou ga hoshii desu",
         "sentence_simplified": "",
@@ -610,7 +610,7 @@
         "key": "詳しい"
     },
     {
-        "sentence_japanese": "彼女はフランス文化に詳しい。",
+        "sentence_original": "彼女はフランス文化に詳しい。",
         "sentence_kanji": "2. 詳しい",
         "sentence_romaji": "Kanojo wa Furansu bunka ni kuwashii",
         "sentence_simplified": "",
@@ -620,7 +620,7 @@
         "key": "詳しい"
     },
     {
-        "sentence_japanese": "駅への行き方を詳しく説明してください。",
+        "sentence_original": "駅への行き方を詳しく説明してください。",
         "sentence_kanji": "3. 詳しい",
         "sentence_romaji": "Eki e no ikikata o kuwashiku setsumei shite kudasai",
         "sentence_simplified": "",
@@ -630,7 +630,7 @@
         "key": "詳しい"
     },
     {
-        "sentence_japanese": "詳しい報告書を作成して提出してください。",
+        "sentence_original": "詳しい報告書を作成して提出してください。",
         "sentence_kanji": "4. 詳しい",
         "sentence_romaji": "Kuwashii houkokusho o sakusei shite teishutsu shite kudasai",
         "sentence_simplified": "",
@@ -640,7 +640,7 @@
         "key": "詳しい"
     },
     {
-        "sentence_japanese": "彼は日本史に詳しい学者です。",
+        "sentence_original": "彼は日本史に詳しい学者です。",
         "sentence_kanji": "5. 詳しい",
         "sentence_romaji": "Kare wa Nihonshi ni kuwashii gakusha desu",
         "sentence_simplified": "",
@@ -650,7 +650,7 @@
         "key": "詳しい"
     },
     {
-        "sentence_japanese": "濃い色が好きです。",
+        "sentence_original": "濃い色が好きです。",
         "sentence_kanji": "1. 濃い",
         "sentence_romaji": "Koi iro ga suki desu.",
         "sentence_simplified": "",
@@ -660,7 +660,7 @@
         "key": "濃い"
     },
     {
-        "sentence_japanese": "このコーヒーはちょっと濃いですね。",
+        "sentence_original": "このコーヒーはちょっと濃いですね。",
         "sentence_kanji": "2. 濃い",
         "sentence_romaji": "Kono koohii wa chotto koi desu ne.",
         "sentence_simplified": "",
@@ -670,7 +670,7 @@
         "key": "濃い"
     },
     {
-        "sentence_japanese": "酒が濃い程、味がいいと思います。",
+        "sentence_original": "酒が濃い程、味がいいと思います。",
         "sentence_kanji": "3. 濃い",
         "sentence_romaji": "Sake ga koi hodo, aji ga ii to omoimasu.",
         "sentence_simplified": "",
@@ -680,7 +680,7 @@
         "key": "濃い"
     },
     {
-        "sentence_japanese": "濃いメイクをする女性が増えています。",
+        "sentence_original": "濃いメイクをする女性が増えています。",
         "sentence_kanji": "4. 濃い",
         "sentence_romaji": "Koi meiku o suru josei ga fuete imasu.",
         "sentence_simplified": "",
@@ -690,7 +690,7 @@
         "key": "濃い"
     },
     {
-        "sentence_japanese": "濃い霧に注意しましょう。",
+        "sentence_original": "濃い霧に注意しましょう。",
         "sentence_kanji": "5. 濃い",
         "sentence_romaji": "Koi kiri ni chuuishimashou.",
         "sentence_simplified": "",
@@ -700,7 +700,7 @@
         "key": "濃い"
     },
     {
-        "sentence_japanese": "細かい指示に従うべきです。",
+        "sentence_original": "細かい指示に従うべきです。",
         "sentence_kanji": "1. 細かい",
         "sentence_romaji": "Komakai shiji ni shitagau beki desu",
         "sentence_simplified": "",
@@ -710,7 +710,7 @@
         "key": "細かい"
     },
     {
-        "sentence_japanese": "細かい観察が役立つことがあります。",
+        "sentence_original": "細かい観察が役立つことがあります。",
         "sentence_kanji": "2. 細かい",
         "sentence_romaji": "Komakai kansatsu ga yakudatsu koto ga arimasu",
         "sentence_simplified": "",
@@ -720,7 +720,7 @@
         "key": "細かい"
     },
     {
-        "sentence_japanese": "彼女は細かい点まで気を配る人です。",
+        "sentence_original": "彼女は細かい点まで気を配る人です。",
         "sentence_kanji": "3. 細かい",
         "sentence_romaji": "Kanojo wa komakai ten made ki o kubareru hito desu",
         "sentence_simplified": "",
@@ -730,7 +730,7 @@
         "key": "細かい"
     },
     {
-        "sentence_japanese": "この絵は細かい部分まで描かれている。",
+        "sentence_original": "この絵は細かい部分まで描かれている。",
         "sentence_kanji": "4. 細かい",
         "sentence_romaji": "Kono e wa komakai bubun made egakarete iru",
         "sentence_simplified": "",
@@ -740,7 +740,7 @@
         "key": "細かい"
     },
     {
-        "sentence_japanese": "細かい仕事は根気が要る。",
+        "sentence_original": "細かい仕事は根気が要る。",
         "sentence_kanji": "5. 細かい",
         "sentence_romaji": "Komakai shigoto wa konki ga iru",
         "sentence_simplified": "",
@@ -750,7 +750,7 @@
         "key": "細かい"
     },
     {
-        "sentence_japanese": "この料理はちょっと塩辛いですね。",
+        "sentence_original": "この料理はちょっと塩辛いですね。",
         "sentence_kanji": "1. 塩辛い",
         "sentence_romaji": "Kono ryouri wa chotto shiokarai desu ne",
         "sentence_simplified": "",
@@ -760,7 +760,7 @@
         "key": "塩辛い"
     },
     {
-        "sentence_japanese": "塩辛いスープは、水分補給にはあまり適していない。",
+        "sentence_original": "塩辛いスープは、水分補給にはあまり適していない。",
         "sentence_kanji": "2. 塩辛い",
         "sentence_romaji": "Shiokarai suupu wa, suibun hokyuu ni wa amari tekishite inai",
         "sentence_simplified": "",
@@ -770,7 +770,7 @@
         "key": "塩辛い"
     },
     {
-        "sentence_japanese": "彼女は、ペットボトルの水に塩辛いお茶を入れて間違えてしまった。",
+        "sentence_original": "彼女は、ペットボトルの水に塩辛いお茶を入れて間違えてしまった。",
         "sentence_kanji": "3. 塩辛い",
         "sentence_romaji": "Kanojo wa, pettobotoru no mizu ni shiokarai ocha o irete machigaete shimatta",
         "sentence_simplified": "",
@@ -780,7 +780,7 @@
         "key": "塩辛い"
     },
     {
-        "sentence_japanese": "もっと塩辛い味付けが好きなんだけど、健康のために減らしている。",
+        "sentence_original": "もっと塩辛い味付けが好きなんだけど、健康のために減らしている。",
         "sentence_kanji": "4. 塩辛い",
         "sentence_romaji": "Motto shiokarai ajitsuke ga suki nanda kedo, kenkou no tame ni herashite iru",
         "sentence_simplified": "",
@@ -790,7 +790,7 @@
         "key": "塩辛い"
     },
     {
-        "sentence_japanese": "父は塩辛い料理を作るのが上手だが、私は甘いものが好きだ。",
+        "sentence_original": "父は塩辛い料理を作るのが上手だが、私は甘いものが好きだ。",
         "sentence_kanji": "5. 塩辛い",
         "sentence_romaji": "Chichi wa shiokarai ryouri o tsukuru no ga jouzu da ga, watashi wa amai mono ga suki da",
         "sentence_simplified": "",
@@ -800,7 +800,7 @@
         "key": "塩辛い"
     },
     {
-        "sentence_japanese": "四角い形をした紙を切り取った。",
+        "sentence_original": "四角い形をした紙を切り取った。",
         "sentence_kanji": "1. 四角い",
         "sentence_romaji": "Shikakui katachi o shita kami o kiri totta.",
         "sentence_simplified": "",
@@ -810,7 +810,7 @@
         "key": "四角い"
     },
     {
-        "sentence_japanese": "この四角い箱にプレゼントを入れてください。",
+        "sentence_original": "この四角い箱にプレゼントを入れてください。",
         "sentence_kanji": "2. 四角い",
         "sentence_romaji": "Kono shikakui hako ni purezento o irete kudasai.",
         "sentence_simplified": "",
@@ -820,7 +820,7 @@
         "key": "四角い"
     },
     {
-        "sentence_japanese": "四角い窓から見える景色がとても美しいです。",
+        "sentence_original": "四角い窓から見える景色がとても美しいです。",
         "sentence_kanji": "3. 四角い",
         "sentence_romaji": "Shikakui mado kara mieru keshiki ga totemo utsukushii desu.",
         "sentence_simplified": "",
@@ -830,7 +830,7 @@
         "key": "四角い"
     },
     {
-        "sentence_japanese": "彼は四角い顔立ちで、鋭い目つきをしている。",
+        "sentence_original": "彼は四角い顔立ちで、鋭い目つきをしている。",
         "sentence_kanji": "4. 四角い",
         "sentence_romaji": "Kare wa shikakui kaodachi de, surudoi metsuki o shite iru.",
         "sentence_simplified": "",
@@ -840,7 +840,7 @@
         "key": "四角い"
     },
     {
-        "sentence_japanese": "彼女は四角いテーブルの周りに椅子を配置した。",
+        "sentence_original": "彼女は四角いテーブルの周りに椅子を配置した。",
         "sentence_kanji": "5. 四角い",
         "sentence_romaji": "Kanojo wa shikakui te-buru no mawari ni isu o haichi shita.",
         "sentence_simplified": "",
@@ -850,7 +850,7 @@
         "key": "四角い"
     },
     {
-        "sentence_japanese": "この雨の中、傘を持っていないので、ずぶ濡れになるしかたがない。",
+        "sentence_original": "この雨の中、傘を持っていないので、ずぶ濡れになるしかたがない。",
         "sentence_kanji": "1.しかた（が）ない",
         "sentence_romaji": "Kono ame no naka, kasa o motte inai node, zubunure ni naru shikata ga nai",
         "sentence_simplified": "",
@@ -860,7 +860,7 @@
         "key": "しかた（が）ない"
     },
     {
-        "sentence_japanese": "この問題は難しすぎて、解けないしかたがない。",
+        "sentence_original": "この問題は難しすぎて、解けないしかたがない。",
         "sentence_kanji": "2.しかた（が）ない",
         "sentence_romaji": "Kono mondai wa muzukashisugite, tokenai shikata ga nai",
         "sentence_simplified": "",
@@ -870,7 +870,7 @@
         "key": "しかた（が）ない"
     },
     {
-        "sentence_japanese": "彼は怒っているが、その気持ちもわかるのでしかたがない。",
+        "sentence_original": "彼は怒っているが、その気持ちもわかるのでしかたがない。",
         "sentence_kanji": "3.しかた（が）ない",
         "sentence_romaji": "Kare wa okotte iru ga, sono kimochi mo wakaru node shikata ga nai",
         "sentence_simplified": "",
@@ -880,7 +880,7 @@
         "key": "しかた（が）ない"
     },
     {
-        "sentence_japanese": "足が怪我をしたので、今日は散歩に行けないしかたがない。",
+        "sentence_original": "足が怪我をしたので、今日は散歩に行けないしかたがない。",
         "sentence_kanji": "4.しかた（が）ない",
         "sentence_romaji": "Ashi ga kega o shita node, kyou wa sanpo ni ikenai shikata ga nai",
         "sentence_simplified": "",
@@ -890,7 +890,7 @@
         "key": "しかた（が）ない"
     },
     {
-        "sentence_japanese": "試験の日が近づいているので、勉強しないわけにはいかないしかたがない。",
+        "sentence_original": "試験の日が近づいているので、勉強しないわけにはいかないしかたがない。",
         "sentence_kanji": "5.しかた（が）ない",
         "sentence_romaji": "Shiken no hi ga chikazuite iru node, benkyou shinai wake ni wa ikanai shikata ga nai",
         "sentence_simplified": "",
@@ -900,7 +900,7 @@
         "key": "しかた（が）ない"
     },
     {
-        "sentence_japanese": "このレモンはとても酸っぱいです。",
+        "sentence_original": "このレモンはとても酸っぱいです。",
         "sentence_kanji": "1. 酸っぱい",
         "sentence_romaji": "Kono remon wa totemo suppai desu",
         "sentence_simplified": "",
@@ -910,7 +910,7 @@
         "key": "酸っぱい"
     },
     {
-        "sentence_japanese": "酸っぱいものを食べると顔がしかめる。",
+        "sentence_original": "酸っぱいものを食べると顔がしかめる。",
         "sentence_kanji": "2. 酸っぱい",
         "sentence_romaji": "Suppai mono o taberu to kao ga shikameru",
         "sentence_simplified": "",
@@ -920,7 +920,7 @@
         "key": "酸っぱい"
     },
     {
-        "sentence_japanese": "酸っぱいリンゴをバランスの良いデザートに変える。",
+        "sentence_original": "酸っぱいリンゴをバランスの良いデザートに変える。",
         "sentence_kanji": "3. 酸っぱい",
         "sentence_romaji": "Suppai ringo o baransu no yoi dezāto ni kaeru",
         "sentence_simplified": "",
@@ -930,7 +930,7 @@
         "key": "酸っぱい"
     },
     {
-        "sentence_japanese": "どうしてあなたの態度は酸っぱいの？",
+        "sentence_original": "どうしてあなたの態度は酸っぱいの？",
         "sentence_kanji": "4. 酸っぱい",
         "sentence_romaji": "Doushite anata no taido wa suppai no?",
         "sentence_simplified": "",
@@ -940,7 +940,7 @@
         "key": "酸っぱい"
     },
     {
-        "sentence_japanese": "酸っぱいおかずはお酒に合っている。",
+        "sentence_original": "酸っぱいおかずはお酒に合っている。",
         "sentence_kanji": "5. 酸っぱい",
         "sentence_romaji": "Suppai okazu wa osake ni atte iru",
         "sentence_simplified": "",
@@ -950,7 +950,7 @@
         "key": "酸っぱい"
     },
     {
-        "sentence_japanese": "仕事がとてもつらいです。",
+        "sentence_original": "仕事がとてもつらいです。",
         "sentence_kanji": "1. つらい",
         "sentence_romaji": "Shigoto ga totemo tsurai desu",
         "sentence_simplified": "",
@@ -960,7 +960,7 @@
         "key": "つらい"
     },
     {
-        "sentence_japanese": "彼女は別れた後、つらい気持ちでした。",
+        "sentence_original": "彼女は別れた後、つらい気持ちでした。",
         "sentence_kanji": "2. つらい",
         "sentence_romaji": "Kanojo wa wakareta ato, tsurai kimochi deshita",
         "sentence_simplified": "",
@@ -970,7 +970,7 @@
         "key": "つらい"
     },
     {
-        "sentence_japanese": "失恋はつらい経験だが、大切な教訓を学ぶことができる。",
+        "sentence_original": "失恋はつらい経験だが、大切な教訓を学ぶことができる。",
         "sentence_kanji": "3. つらい",
         "sentence_romaji": "Shitsuren wa tsurai keiken da ga, taisetsu na kyokun o manabu koto ga dekiru",
         "sentence_simplified": "",
@@ -980,7 +980,7 @@
         "key": "つらい"
     },
     {
-        "sentence_japanese": "彼は腰痛のため、毎日つらい生活を送っている。",
+        "sentence_original": "彼は腰痛のため、毎日つらい生活を送っている。",
         "sentence_kanji": "4. つらい",
         "sentence_romaji": "Kare wa youtsuu no tame, mainichi tsurai seikatsu o okutte iru",
         "sentence_simplified": "",
@@ -990,7 +990,7 @@
         "key": "つらい"
     },
     {
-        "sentence_japanese": "親友が遠くに引っ越すのは、つらいことです。",
+        "sentence_original": "親友が遠くに引っ越すのは、つらいことです。",
         "sentence_kanji": "5. つらい",
         "sentence_romaji": "Shin'yuu ga tooku ni hikkosu no wa, tsurai koto desu",
         "sentence_simplified": "",
@@ -1000,7 +1000,7 @@
         "key": "つらい"
     },
     {
-        "sentence_japanese": "懐かしい思い出が蘇ってきた。",
+        "sentence_original": "懐かしい思い出が蘇ってきた。",
         "sentence_kanji": "1. 懐かしい",
         "sentence_romaji": "Natsukashii omoide ga yomigaette kita",
         "sentence_simplified": "",
@@ -1010,7 +1010,7 @@
         "key": "懐かしい"
     },
     {
-        "sentence_japanese": "この歌を聞くと、懐かしい気持ちになる。",
+        "sentence_original": "この歌を聞くと、懐かしい気持ちになる。",
         "sentence_kanji": "2. 懐かしい",
         "sentence_romaji": "Kono uta o kiku to, natsukashii kimochi ni naru",
         "sentence_simplified": "",
@@ -1020,7 +1020,7 @@
         "key": "懐かしい"
     },
     {
-        "sentence_japanese": "彼女と再会したとき、懐かしい学生時代の話に花が咲いた。",
+        "sentence_original": "彼女と再会したとき、懐かしい学生時代の話に花が咲いた。",
         "sentence_kanji": "3. 懐かしい",
         "sentence_romaji": "Kanojo to saikai shita toki, natsukashii gakusei jidai no hanashi ni hana ga saita",
         "sentence_simplified": "",
@@ -1030,7 +1030,7 @@
         "key": "懐かしい"
     },
     {
-        "sentence_japanese": "その町は昔住んでいた場所だから、とても懐かしい。",
+        "sentence_original": "その町は昔住んでいた場所だから、とても懐かしい。",
         "sentence_kanji": "4. 懐かしい",
         "sentence_romaji": "Sono machi wa mukashi sundeta basho dakara, totemo natsukashii",
         "sentence_simplified": "",
@@ -1040,7 +1040,7 @@
         "key": "懐かしい"
     },
     {
-        "sentence_japanese": "昔の写真を見ると、懐かしい気分に浸れる。",
+        "sentence_original": "昔の写真を見ると、懐かしい気分に浸れる。",
         "sentence_kanji": "5. 懐かしい",
         "sentence_romaji": "Mukashi no shashin o miru to, natsukashii kibun ni hitareru",
         "sentence_simplified": "",
@@ -1050,7 +1050,7 @@
         "key": "懐かしい"
     },
     {
-        "sentence_japanese": "ぬるい湯でリラックスするのが好きです。",
+        "sentence_original": "ぬるい湯でリラックスするのが好きです。",
         "sentence_kanji": "1. ぬるい",
         "sentence_romaji": "Nurui yu de rirakkusu suru no ga suki desu",
         "sentence_simplified": "",
@@ -1060,7 +1060,7 @@
         "key": "ぬるい"
     },
     {
-        "sentence_japanese": "彼はコーヒーが冷めてぬるくなっても気にしない。",
+        "sentence_original": "彼はコーヒーが冷めてぬるくなっても気にしない。",
         "sentence_kanji": "2. ぬるい",
         "sentence_romaji": "Kare wa kohii ga samete nuruku natte mo ki ni shinai",
         "sentence_simplified": "",
@@ -1070,7 +1070,7 @@
         "key": "ぬるい"
     },
     {
-        "sentence_japanese": "この部屋は冬でもぬるい風が入ってきます。",
+        "sentence_original": "この部屋は冬でもぬるい風が入ってきます。",
         "sentence_kanji": "3. ぬるい",
         "sentence_romaji": "Kono heya wa fuyu de mo nurui kaze ga haitte kimasu",
         "sentence_simplified": "",
@@ -1080,7 +1080,7 @@
         "key": "ぬるい"
     },
     {
-        "sentence_japanese": "私はぬるいお茶より熱いお茶が好きです。",
+        "sentence_original": "私はぬるいお茶より熱いお茶が好きです。",
         "sentence_kanji": "4. ぬるい",
         "sentence_romaji": "Watashi wa nurui ocha yori atsui ocha ga suki desu",
         "sentence_simplified": "",
@@ -1090,7 +1090,7 @@
         "key": "ぬるい"
     },
     {
-        "sentence_japanese": "彼女はぬるいスープを飲んでがっかりした。",
+        "sentence_original": "彼女はぬるいスープを飲んでがっかりした。",
         "sentence_kanji": "5. ぬるい",
         "sentence_romaji": "Kanojo wa nurui suupu o nonde gakkari shita",
         "sentence_simplified": "",
@@ -1100,7 +1100,7 @@
         "key": "ぬるい"
     },
     {
-        "sentence_japanese": "彼女はひどい風邪を引いていた。",
+        "sentence_original": "彼女はひどい風邪を引いていた。",
         "sentence_kanji": "1. ひどい",
         "sentence_romaji": "Kanojo wa hidoi kaze o hiite ita.",
         "sentence_simplified": "",
@@ -1110,7 +1110,7 @@
         "key": "ひどい"
     },
     {
-        "sentence_japanese": "この町はひどい交通渋滞がある。",
+        "sentence_original": "この町はひどい交通渋滞がある。",
         "sentence_kanji": "2. ひどい",
         "sentence_romaji": "Kono machi wa hidoi koutsuu juutai ga aru.",
         "sentence_simplified": "",
@@ -1120,7 +1120,7 @@
         "key": "ひどい"
     },
     {
-        "sentence_japanese": "昨日の台風で家がひどい被害を受けた。",
+        "sentence_original": "昨日の台風で家がひどい被害を受けた。",
         "sentence_kanji": "3. ひどい",
         "sentence_romaji": "Kinou no taifuu de ie ga hidoi higai o uketa.",
         "sentence_simplified": "",
@@ -1130,7 +1130,7 @@
         "key": "ひどい"
     },
     {
-        "sentence_japanese": "彼はひどい言い方で人々を怒らせた。",
+        "sentence_original": "彼はひどい言い方で人々を怒らせた。",
         "sentence_kanji": "4. ひどい",
         "sentence_romaji": "Kare wa hidoi iikata de hitobito o okorasete.",
         "sentence_simplified": "",
@@ -1140,7 +1140,7 @@
         "key": "ひどい"
     },
     {
-        "sentence_japanese": "そのひどい天気のためにパーティーがキャンセルされた。",
+        "sentence_original": "そのひどい天気のためにパーティーがキャンセルされた。",
         "sentence_kanji": "5. ひどい",
         "sentence_romaji": "Sono hidoi tenki no tame ni paatii ga kyanseru sareta.",
         "sentence_simplified": "",
@@ -1150,7 +1150,7 @@
         "key": "ひどい"
     },
     {
-        "sentence_japanese": "細長い紐を使って荷物を縛った。",
+        "sentence_original": "細長い紐を使って荷物を縛った。",
         "sentence_kanji": "1. 細長い",
         "sentence_romaji": "Hosonagai himo o tsukatte nimotsu o shibatta.",
         "sentence_simplified": "",
@@ -1160,7 +1160,7 @@
         "key": "細長い"
     },
     {
-        "sentence_japanese": "彼女は細長い指を見ていると不思議な気持ちになる。",
+        "sentence_original": "彼女は細長い指を見ていると不思議な気持ちになる。",
         "sentence_kanji": "2. 細長い",
         "sentence_romaji": "Kanojo wa hosonagai yubi o miteiru to fushigina kimochi ni naru.",
         "sentence_simplified": "",
@@ -1170,7 +1170,7 @@
         "key": "細長い"
     },
     {
-        "sentence_japanese": "この細長い箱に何が入っているのでしょうか。",
+        "sentence_original": "この細長い箱に何が入っているのでしょうか。",
         "sentence_kanji": "3. 細長い",
         "sentence_romaji": "Kono hosonagai hako ni nani ga haitteiru no deshou ka.",
         "sentence_simplified": "",
@@ -1180,7 +1180,7 @@
         "key": "細長い"
     },
     {
-        "sentence_japanese": "細長い道路が森を通って山を登る。",
+        "sentence_original": "細長い道路が森を通って山を登る。",
         "sentence_kanji": "4. 細長い",
         "sentence_romaji": "Hosonagai douro ga mori o kayotte yama o noboru.",
         "sentence_simplified": "",
@@ -1190,7 +1190,7 @@
         "key": "細長い"
     },
     {
-        "sentence_japanese": "米の粒は細長い形をしている。",
+        "sentence_original": "米の粒は細長い形をしている。",
         "sentence_kanji": "5. 細長い",
         "sentence_romaji": "Kome no tsubu wa hosonagai katachi o shiteiru.",
         "sentence_simplified": "",
@@ -1200,7 +1200,7 @@
         "key": "細長い"
     },
     {
-        "sentence_japanese": "貧しい家庭で育ったが、彼は一生懸命働いて成功した。",
+        "sentence_original": "貧しい家庭で育ったが、彼は一生懸命働いて成功した。",
         "sentence_kanji": "1. 貧しい",
         "sentence_romaji": "Mazushii katei de sodatta ga, kare wa isshoukenmei hataraite seikou shita.",
         "sentence_simplified": "",
@@ -1210,7 +1210,7 @@
         "key": "貧しい"
     },
     {
-        "sentence_japanese": "貧しい国では、教育のアクセスが制限されることが多い。",
+        "sentence_original": "貧しい国では、教育のアクセスが制限されることが多い。",
         "sentence_kanji": "2. 貧しい",
         "sentence_romaji": "Mazushii kuni de wa, kyouiku no akusesu ga seigen sareru koto ga ooi.",
         "sentence_simplified": "",
@@ -1220,7 +1220,7 @@
         "key": "貧しい"
     },
     {
-        "sentence_japanese": "貧しい地域では、飢餓や住宅問題に対処しなければならない。",
+        "sentence_original": "貧しい地域では、飢餓や住宅問題に対処しなければならない。",
         "sentence_kanji": "3. 貧しい",
         "sentence_romaji": "Mazushii chiiki de wa, kiga ya juutaku mondai ni taisho shinakereba naranai.",
         "sentence_simplified": "",
@@ -1230,7 +1230,7 @@
         "key": "貧しい"
     },
     {
-        "sentence_japanese": "貧しい生活があったおかげで、私は何が大切かを理解している。",
+        "sentence_original": "貧しい生活があったおかげで、私は何が大切かを理解している。",
         "sentence_kanji": "4. 貧しい",
         "sentence_romaji": "Mazushii seikatsu ga atta okage de, watashi wa nani ga taisetsu ka o rikai shite iru.",
         "sentence_simplified": "",
@@ -1240,7 +1240,7 @@
         "key": "貧しい"
     },
     {
-        "sentence_japanese": "貧しい人々に対して助けを差し伸べるのは、私たちの責任です。",
+        "sentence_original": "貧しい人々に対して助けを差し伸べるのは、私たちの責任です。",
         "sentence_kanji": "5. 貧しい",
         "sentence_romaji": "Mazushii hitobito ni tai shite tasuke o sashinoberu no wa, watashitachi no sekinin desu.",
         "sentence_simplified": "",
@@ -1250,7 +1250,7 @@
         "key": "貧しい"
     },
     {
-        "sentence_japanese": "蒸し暑い日が続いて、エアコンが欠かせません。",
+        "sentence_original": "蒸し暑い日が続いて、エアコンが欠かせません。",
         "sentence_kanji": "1. 蒸し暑い",
         "sentence_romaji": "Mushiatsui hi ga tsuzuite, eakon ga kakasemasen",
         "sentence_simplified": "",
@@ -1260,7 +1260,7 @@
         "key": "蒸し暑い"
     },
     {
-        "sentence_japanese": "夏の蒸し暑い午後は、アイスクリームが最高です。",
+        "sentence_original": "夏の蒸し暑い午後は、アイスクリームが最高です。",
         "sentence_kanji": "2. 蒸し暑い",
         "sentence_romaji": "Natsu no mushiatsui gogo wa, aisukurīmu ga saikou desu",
         "sentence_simplified": "",
@@ -1270,7 +1270,7 @@
         "key": "蒸し暑い"
     },
     {
-        "sentence_japanese": "蒸し暑い天気が続くと、熱中症に注意しなければなりません。",
+        "sentence_original": "蒸し暑い天気が続くと、熱中症に注意しなければなりません。",
         "sentence_kanji": "3. 蒸し暑い",
         "sentence_romaji": "Mushiatsui tenki ga tsuzuku to, necchuushou ni chuui shinakereba narimasen",
         "sentence_simplified": "",
@@ -1280,7 +1280,7 @@
         "key": "蒸し暑い"
     },
     {
-        "sentence_japanese": "蒸し暑い夜には、うちわで涼を取るのが良いです。",
+        "sentence_original": "蒸し暑い夜には、うちわで涼を取るのが良いです。",
         "sentence_kanji": "4. 蒸し暑い",
         "sentence_romaji": "Mushiatsui yoru ni wa, uchiwa de suzushi wo toru no ga yoidesu",
         "sentence_simplified": "",
@@ -1290,7 +1290,7 @@
         "key": "蒸し暑い"
     },
     {
-        "sentence_japanese": "蒸し暑い日には、水分補給を忘れずに行ってください。",
+        "sentence_original": "蒸し暑い日には、水分補給を忘れずに行ってください。",
         "sentence_kanji": "5. 蒸し暑い",
         "sentence_romaji": "Mushiatsui hi ni wa, suibun hokyuu wo wasurezu ni okonatte kudasai",
         "sentence_simplified": "",
@@ -1300,7 +1300,7 @@
         "key": "蒸し暑い"
     },
     {
-        "sentence_japanese": "珍しい動物がいる動物園に行ってみたい。",
+        "sentence_original": "珍しい動物がいる動物園に行ってみたい。",
         "sentence_kanji": "1. 珍しい",
         "sentence_romaji": "Mezurashii doubutsu ga iru doubutsuen ni itte mitai",
         "sentence_simplified": "",
@@ -1310,7 +1310,7 @@
         "key": "珍しい"
     },
     {
-        "sentence_japanese": "彼女は珍しい名前を持っている。",
+        "sentence_original": "彼女は珍しい名前を持っている。",
         "sentence_kanji": "2. 珍しい",
         "sentence_romaji": "Kanojo wa mezurashii namae o motte iru",
         "sentence_simplified": "",
@@ -1320,7 +1320,7 @@
         "key": "珍しい"
     },
     {
-        "sentence_japanese": "この地域では雪が降るのは珍しいことだ。",
+        "sentence_original": "この地域では雪が降るのは珍しいことだ。",
         "sentence_kanji": "3. 珍しい",
         "sentence_romaji": "Kono chiiki de wa yuki ga furu no wa mezurashii koto da",
         "sentence_simplified": "",
@@ -1330,7 +1330,7 @@
         "key": "珍しい"
     },
     {
-        "sentence_japanese": "珍しい形をした雲が空に浮かんでいた。",
+        "sentence_original": "珍しい形をした雲が空に浮かんでいた。",
         "sentence_kanji": "4. 珍しい",
         "sentence_romaji": "Mezurashii katachi o shita kumo ga sora ni ukandeita",
         "sentence_simplified": "",
@@ -1340,7 +1340,7 @@
         "key": "珍しい"
     },
     {
-        "sentence_japanese": "彼は珍しい本を収集している。",
+        "sentence_original": "彼は珍しい本を収集している。",
         "sentence_kanji": "5. 珍しい",
         "sentence_romaji": "Kare wa mezurashii hon o shuushuu shite iru",
         "sentence_simplified": "",
@@ -1350,7 +1350,7 @@
         "key": "珍しい"
     },
     {
-        "sentence_japanese": "申し訳ないですが、そのお願いはかないません。",
+        "sentence_original": "申し訳ないですが、そのお願いはかないません。",
         "sentence_kanji": "1. 申し訳ない",
         "sentence_romaji": "Moushiwake nai desu ga, sono onegai wa kanaimasen.",
         "sentence_simplified": "",
@@ -1360,7 +1360,7 @@
         "key": "申し訳ない"
     },
     {
-        "sentence_japanese": "今日のミーティングに出席できず申し訳ありません。",
+        "sentence_original": "今日のミーティングに出席できず申し訳ありません。",
         "sentence_kanji": "2. 申し訳ない",
         "sentence_romaji": "Kyou no miitingu ni shusseki dekizu moushiwake arimasen.",
         "sentence_simplified": "",
@@ -1370,7 +1370,7 @@
         "key": "申し訳ない"
     },
     {
-        "sentence_japanese": "彼女に手伝わせて、申し訳ないと思った。",
+        "sentence_original": "彼女に手伝わせて、申し訳ないと思った。",
         "sentence_kanji": "3. 申し訳ない",
         "sentence_romaji": "Kanojo ni tetsudawasete, moushiwake nai to omotta.",
         "sentence_simplified": "",
@@ -1380,7 +1380,7 @@
         "key": "申し訳ない"
     },
     {
-        "sentence_japanese": "遅刻して申し訳ないと彼は謝った。",
+        "sentence_original": "遅刻して申し訳ないと彼は謝った。",
         "sentence_kanji": "4. 申し訳ない",
         "sentence_romaji": "Chikoku shite moushiwake nai to kare wa ayamatta.",
         "sentence_simplified": "",
@@ -1390,7 +1390,7 @@
         "key": "申し訳ない"
     },
     {
-        "sentence_japanese": "申し訳ない気持ちで頭を下げた。",
+        "sentence_original": "申し訳ない気持ちで頭を下げた。",
         "sentence_kanji": "5. 申し訳ない",
         "sentence_romaji": "Moushiwake nai kimochi de atama o sageta.",
         "sentence_simplified": "",
@@ -1400,7 +1400,7 @@
         "key": "申し訳ない"
     },
     {
-        "sentence_japanese": "食べ物を大量に捨てるのはもったいない。",
+        "sentence_original": "食べ物を大量に捨てるのはもったいない。",
         "sentence_kanji": "1. もったいない",
         "sentence_romaji": "Tabemono o tairyou ni suteru no wa mottainai.",
         "sentence_simplified": "",
@@ -1410,7 +1410,7 @@
         "key": "もったいない"
     },
     {
-        "sentence_japanese": "こんなに素晴らしい機会を逃がすなんて、もったいない。",
+        "sentence_original": "こんなに素晴らしい機会を逃がすなんて、もったいない。",
         "sentence_kanji": "2. もったいない",
         "sentence_romaji": "Konna ni subarashii kikai o nogasu nante, mottainai.",
         "sentence_simplified": "",
@@ -1420,7 +1420,7 @@
         "key": "もったいない"
     },
     {
-        "sentence_japanese": "家にある古着をリサイクルして使わないのはもったいない。",
+        "sentence_original": "家にある古着をリサイクルして使わないのはもったいない。",
         "sentence_kanji": "3. もったいない",
         "sentence_romaji": "Ie ni aru furugi o risaikuru shite tsukawanai no wa mottainai.",
         "sentence_simplified": "",
@@ -1430,7 +1430,7 @@
         "key": "もったいない"
     },
     {
-        "sentence_japanese": "この電気製品はまだ十分使えるのに、新しいものに買い換えるのはもったいない。",
+        "sentence_original": "この電気製品はまだ十分使えるのに、新しいものに買い換えるのはもったいない。",
         "sentence_kanji": "4. もったいない",
         "sentence_romaji": "Kono denki seihin wa mada juubun tsukaeru noni, atarashii mono ni kaikaeru no wa mottainai.",
         "sentence_simplified": "",
@@ -1440,7 +1440,7 @@
         "key": "もったいない"
     },
     {
-        "sentence_japanese": "力を入れすぎてケーキが潰れてしまった。もったいない！",
+        "sentence_original": "力を入れすぎてケーキが潰れてしまった。もったいない！",
         "sentence_kanji": "5. もったいない",
         "sentence_romaji": "Chikara o iresugite keeki ga tsuburete shimatta. Mottainai!",
         "sentence_simplified": "",
@@ -1450,7 +1450,7 @@
         "key": "もったいない"
     },
     {
-        "sentence_japanese": "ものすごい力でドアを開けた。",
+        "sentence_original": "ものすごい力でドアを開けた。",
         "sentence_kanji": "1. ものすごい",
         "sentence_romaji": "Monosugoi chikara de doa o aketa",
         "sentence_simplified": "",
@@ -1460,7 +1460,7 @@
         "key": "ものすごい"
     },
     {
-        "sentence_japanese": "彼女はものすごい速さで走った。",
+        "sentence_original": "彼女はものすごい速さで走った。",
         "sentence_kanji": "2. ものすごい",
         "sentence_romaji": "Kanojo wa monosugoi hayasa de hashitta",
         "sentence_simplified": "",
@@ -1470,7 +1470,7 @@
         "key": "ものすごい"
     },
     {
-        "sentence_japanese": "このレストランはものすごい人気がある。",
+        "sentence_original": "このレストランはものすごい人気がある。",
         "sentence_kanji": "3. ものすごい",
         "sentence_romaji": "Kono resutoran wa monosugoi ninki ga aru",
         "sentence_simplified": "",
@@ -1480,7 +1480,7 @@
         "key": "ものすごい"
     },
     {
-        "sentence_japanese": "あの映画はものすごい興奮させる。",
+        "sentence_original": "あの映画はものすごい興奮させる。",
         "sentence_kanji": "4. ものすごい",
         "sentence_romaji": "Ano eiga wa monosugoi koufun saseru",
         "sentence_simplified": "",
@@ -1490,7 +1490,7 @@
         "key": "ものすごい"
     },
     {
-        "sentence_japanese": "彼はものすごい努力家だ。",
+        "sentence_original": "彼はものすごい努力家だ。",
         "sentence_kanji": "5. ものすごい",
         "sentence_romaji": "Kare wa monosugoi doryokuka da",
         "sentence_simplified": "",

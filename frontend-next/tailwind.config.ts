@@ -113,6 +113,6 @@ const config: Config = {
     require('@tailwindcss/typography'),
       require("tailwindcss-animate")
 ],
-  darkMode: ['class', 'class'], // or 'media' for system preference
+  darkMode: ['class'], // or 'media' for system preference
 }
 export default config

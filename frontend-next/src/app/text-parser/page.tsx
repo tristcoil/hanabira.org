@@ -1,4 +1,4 @@
-'use client';
+"use client";
 
 // call like:
 // https://localhost/text-parser?type=youtube&url=https://www.youtube.com/watch?v=-cbuS40rNSw
@@ -6,13 +6,12 @@
 // text for parser testing:
 // https://www.dreamslandlyrics.com/2020/04/yorushika-hana-ni-bourei-lyrics.html
 
-
 import React, { useState, useEffect, useRef } from "react";
 import Head from "next/head";
 
-import { useSearchParams } from 'next/navigation';
+import { useSearchParams } from "next/navigation";
 
-import { Suspense } from 'react';
+import { Suspense } from "react";
 
 import axios from "axios";
 import ReactMarkdown from "react-markdown";
@@ -28,7 +27,7 @@ import DisplayHoveredWord from "@/components-parser/DisplayHoveredWord";
 import DisplaySentence from "@/components-parser/DisplaySentence";
 import DisplaySentenceV2 from "@/components-parser/DisplaySentenceV2";
 import DisplayWord from "@/components-parser/DisplayWord";
-import JapaneseTextParser from "@/components-parser/JapaneseTextParser";         // mecab parser
+import JapaneseTextParser from "@/components-parser/JapaneseTextParser"; // mecab parser
 import GrammarExplanation from "@/components-parser/GrammarExplanation";
 
 import ExampleVideos from "@/components-parser/ExampleVideos";
@@ -37,23 +36,15 @@ import Disclaimer from "@/components-parser/Disclaimer";
 import YouTubeUrlInputForm from "@/components-parser/YouTubeUrlInputForm";
 import SubtitlesAccordion from "@/components-parser/SubtitlesAccordion";
 import TextFormattingOptions from "@/components-parser/TextFormattingOptions";
-import YouTubeComponent from '@/components-parser/YouTubeComponent';
-import FuriganaConverter from '@/components-parser/FuriganaConverter';
-import FuriganaConverterV2 from '@/components-parser/FuriganaConverterV2';
+import YouTubeComponent from "@/components-parser/YouTubeComponent";
+import FuriganaConverter from "@/components-parser/FuriganaConverter";
+import FuriganaConverterV2 from "@/components-parser/FuriganaConverterV2";
 import Tabs from "@/components-parser/Tabs";
 import Tab from "@/components-parser/Tab";
 
 import { getUserFromCookies } from "@/utils/helperFunctions";
 
-
-
-
-
-
-
-
-
-
+import { useUser } from "@/context/UserContext";
 
 interface Word {
   original: string;
@@ -76,8 +67,6 @@ interface WordDetailsSidebarProps {
   url1: string;
 }
 
-
-
 export default function Home() {
   return (
     <Suspense fallback={<div>Loading...</div>}>
@@ -85,8 +74,6 @@ export default function Home() {
     </Suspense>
   );
 }
-
-
 
 function HomeComponent() {
   const [clickedWord, setClickedWord] = useState<string | null>(null);
@@ -104,42 +91,37 @@ function HomeComponent() {
     useState<WordDetails | null>(null);
 
   const searchParams = useSearchParams();
-  const type = searchParams.get('type');
-  const url = searchParams.get('url');
-  console.log(`type: ${type}`)
-  console.log(`url:  ${url}`)
+  const type = searchParams.get("type");
+  const url = searchParams.get("url");
+  console.log(`type: ${type}`);
+  console.log(`url:  ${url}`);
 
   const [activeTabIndex, setActiveTabIndex] = useState(0); // Default tab is 0
 
-
   //const [userId] = useState("testUser"); // Define userId
   //const [userId, setUserId] = useState(null);
-  const [userId, setUserId] = useState('tempUserBeforeMCompMount');
+  //const [userId, setUserId] = useState('tempUserBeforeMCompMount');
+  const { userId, loggedIn } = useUser();
 
+  // useEffect(() => {
+  //   const fetchuserId = async () => {
+  //     const { userId, userName, jwt } = getUserFromCookies();
+  //     setUserId(userId);
+  //   };
 
-  useEffect(() => {
-    const fetchuserId = async () => {
-      const { userId, userName, jwt } = getUserFromCookies();
-      setUserId(userId);
-    };
-
-    fetchuserId();
-  }, [userId]);
-
-
+  //   fetchuserId();
+  // }, [userId]);
 
   useEffect(() => {
-    if (type === 'youtube' && url) {
+    if (type === "youtube" && url) {
       setInputUrl(url as string);
       setActiveTabIndex(1);
     }
 
-    if (type === 'youtube') {
+    if (type === "youtube") {
       setActiveTabIndex(1);
     }
-
   }, [type, url]);
-
 
   const [inputText, setInputText] = useState(
     `
@@ -158,11 +140,8 @@ function HomeComponent() {
   `
   );
 
-
   const [parsedData, setParsedData] = useState<string | null>(null); // State to store parsed data
   const [enhancedData, setEnhancedData] = useState<any | null>(null); // State to store enhanced data
-
-
 
   // JS Backend (parsing, translations, dictionaries, mecab, kuroshiro, ...)
   // localhost port 5200, redirections by nginx for /d-api/v1/
@@ -174,7 +153,7 @@ function HomeComponent() {
   const simpleVocabUrl = "/d-api/v1/simple-vocabulary"; // url1
   const convertHiraganaUrl = "/d-api/v1/convert/hiragana"; // url2
   const furiganaUrl = "/d-api/v1/convert/all";
-  const radicalUrl = '/d-api/v1/radical-info';
+  const radicalUrl = "/d-api/v1/radical-info";
 
   // we have this on separate prototype GPT js backend
   const gptGrammarUrl = "/d-api/v1/grammar";
@@ -188,12 +167,11 @@ function HomeComponent() {
   const userVocabUrl = "/f-api/v1/user-vocabulary";
   const storeVocabUrl = "/f-api/v1/store-vocabulary-data"; // url3
 
-
   // --- functions --- //
   const [revisionCount, setRevisionCount] = useState(0); // Initialize revisionCount
 
   // for input mode button component
-  const [inputMode, setInputMode] = useState(`lyrics`); // 'book'  
+  const [inputMode, setInputMode] = useState(`lyrics`); // 'book'
   const handleModeChange = (event: any) => {
     setInputMode(event.target.value);
   };
@@ -209,46 +187,70 @@ function HomeComponent() {
     setRevisionCount((prevCount) => prevCount + 1);
   };
 
-
   // --- form and youtube player logic --- //
 
   const [inputUrl, setInputUrl] = useState<string>("");
   const [finalInputUrl, setFinalInputUrl] = useState<string>("");
-  const [currentJapaneseSubtitle, setCurrentJapaneseSubtitle] = useState<string>("");
-  const [currentEnglishSubtitle, setCurrentEnglishSubtitle] = useState<string>("");
-  const [currentCustomSubtitle, setCurrentCustomSubtitle] = useState<string>("");
+  const [currentJapaneseSubtitle, setCurrentJapaneseSubtitle] =
+    useState<string>("");
+  const [currentEnglishSubtitle, setCurrentEnglishSubtitle] =
+    useState<string>("");
+  const [currentCustomSubtitle, setCurrentCustomSubtitle] =
+    useState<string>("");
 
-
-  const handleSubtitleUpdate = (japaneseSubtitle: string, englishSubtitle: string, customSubtitle: string) => {
+  const handleSubtitleUpdate = (
+    japaneseSubtitle: string,
+    englishSubtitle: string,
+    customSubtitle: string
+  ) => {
     setCurrentJapaneseSubtitle(japaneseSubtitle);
     setCurrentEnglishSubtitle(englishSubtitle);
     setCurrentCustomSubtitle(customSubtitle);
   };
 
-
   // --- global japanese subtitles dependant on youtube url
   const [japaneseSubtitles, setJapaneseSubtitles] = useState([]);
-  const [japaneseSubtitlesPlainText, setJapaneseSubtitlesPlainText] = useState('');
+  const [japaneseSubtitlesPlainText, setJapaneseSubtitlesPlainText] =
+    useState("");
   const [englishSubtitles, setEnglishSubtitles] = useState([]);
-  const [englishSubtitlesPlainText, setEnglishSubtitlesPlainText] = useState('');
-
+  const [englishSubtitlesPlainText, setEnglishSubtitlesPlainText] =
+    useState("");
 
   useEffect(() => {
-    console.log('finalInputUrl:', finalInputUrl);
+    console.log("finalInputUrl:", finalInputUrl);
 
     if (finalInputUrl) {
-      fetchSubtitles(finalInputUrl, "ja", setJapaneseSubtitles, setJapaneseSubtitlesPlainText);
-      fetchSubtitles(finalInputUrl, "en", setEnglishSubtitles, setEnglishSubtitlesPlainText);
+      fetchSubtitles(
+        finalInputUrl,
+        "ja",
+        setJapaneseSubtitles,
+        setJapaneseSubtitlesPlainText
+      );
+      fetchSubtitles(
+        finalInputUrl,
+        "en",
+        setEnglishSubtitles,
+        setEnglishSubtitlesPlainText
+      );
     }
   }, [finalInputUrl]);
 
-
-  const fetchSubtitles = async (url, lang, setSubtitles, setSubtitlesPlainText) => {
+  const fetchSubtitles = async (
+    url,
+    lang,
+    setSubtitles,
+    setSubtitlesPlainText
+  ) => {
     try {
-      const response = await axios.get(`/d-api/v1/get-transcript?url=${url}&lang=${lang}`);
+      const response = await axios.get(
+        `/d-api/v1/get-transcript?url=${url}&lang=${lang}`
+      );
       setSubtitles(formatSubtitles(response.data.transcript));
-      setSubtitlesPlainText(formatSubtitles(response.data.transcript).map((sub) => `${sub.text}`).join("\n"));
-
+      setSubtitlesPlainText(
+        formatSubtitles(response.data.transcript)
+          .map((sub) => `${sub.text}`)
+          .join("\n")
+      );
     } catch (error) {
       console.error(`Failed to fetch ${lang} subtitles:`, error);
     }
@@ -261,15 +263,11 @@ function HomeComponent() {
     }));
   };
 
-
   useEffect(() => {
     if (japaneseSubtitlesPlainText) {
       setInputText(japaneseSubtitlesPlainText);
     }
   }, [japaneseSubtitlesPlainText]);
-
-
-
 
   // ---
 
@@ -347,12 +345,13 @@ function HomeComponent() {
   // ----------------------------------- JSX HTML ------------------------------------ //
   return (
     <div className="h-full w-full">
-
       <div
-        className={`flex ${isHorizontal ? "h-full flex-col md:flex-row" : "h-full w-full flex-col"
-          } min-h-screen`}
+        className={`flex ${
+          isHorizontal
+            ? "h-full flex-col md:flex-row"
+            : "h-full w-full flex-col"
+        } min-h-screen`}
       >
-
         <div
           ref={leftPaneRef}
           style={{
@@ -364,13 +363,18 @@ function HomeComponent() {
           {/* <p> This is the left div, taking full width on mobile and 2/3 of the space on wider screens. </p> */}
 
           <p className="text-xl">userId: {userId}</p>
-          <h1 className="text-3xl font-bold mr-5">Japanese Reading/YouTube Assistant</h1>
+          <h1 className="text-3xl font-bold mr-5">
+            Japanese Reading/YouTube Assistant
+          </h1>
           <br />
 
           <Disclaimer />
           {/* <br /> */}
 
-          <TextFormattingOptions inputMode={inputMode} handleModeChange={handleModeChange} />
+          <TextFormattingOptions
+            inputMode={inputMode}
+            handleModeChange={handleModeChange}
+          />
 
           <Tabs activeTabIndex={activeTabIndex}>
             <Tab label="Custom text input">
@@ -392,7 +396,9 @@ function HomeComponent() {
             </Tab>
 
             <Tab label="YouTube video subtitle parser">
-              <h1 className="text-3xl font-bold text-slate-600">YouTube video subtitle analyzer</h1>
+              <h1 className="text-3xl font-bold text-slate-600">
+                YouTube video subtitle analyzer
+              </h1>
               <br></br>
               <ExampleVideos />
               <br />
@@ -404,11 +410,17 @@ function HomeComponent() {
               />
 
               {finalInputUrl && (
-                <YouTubeComponent videoUrl={finalInputUrl} onSubtitleUpdate={handleSubtitleUpdate} />
+                <YouTubeComponent
+                  videoUrl={finalInputUrl}
+                  onSubtitleUpdate={handleSubtitleUpdate}
+                />
               )}
 
-              <h1 className="mt-2">Current japanese subtitle (sentence mining, MECAB tokenizer):</h1>
-              <JapaneseTextParser
+              <h1 className="mt-2">
+                Current japanese subtitle (sentence mining, MECAB tokenizer):
+              </h1>
+
+              {/* <JapaneseTextParser
                 inputText={currentJapaneseSubtitle}
                 inputMode={inputMode}
                 revisionCount={revisionCount}
@@ -419,7 +431,24 @@ function HomeComponent() {
                 setHoveredSentence={setHoveredSentence}
                 setClickedWordSentence={setClickedWordSentence}
                 setClickedWordDetails={setClickedWordDetails}
-              />
+              /> */}
+
+              {userId ? (
+                <JapaneseTextParser
+                  inputText={currentJapaneseSubtitle}
+                  inputMode={inputMode}
+                  revisionCount={revisionCount}
+                  userId={userId}
+                  setClickedWord={setClickedWord}
+                  setClickedWordDictForm={setClickedWordDictForm}
+                  setHoveredWord={setHoveredWord}
+                  setHoveredSentence={setHoveredSentence}
+                  setClickedWordSentence={setClickedWordSentence}
+                  setClickedWordDetails={setClickedWordDetails}
+                />
+              ) : (
+                <p>Please log in to access this feature.</p>
+              )}
 
               {/* <h1>Current subtitle with furigana:</h1>
               <FuriganaConverterV2 japaneseSubtitle={currentJapaneseSubtitle} /> */}
@@ -430,7 +459,6 @@ function HomeComponent() {
               />
             </Tab>
           </Tabs>
-
 
           {/* COMMON STANDARD CONTENT */}
           <br />
@@ -453,7 +481,6 @@ function HomeComponent() {
             <Tab label="Kuroshiro Text Converter">
               <KuroShiroPropsConverter text={inputText} url={convertAllUrl} />
             </Tab>
-
 
             <Tab label="Translation">
               <UnifiedGptComponent
@@ -508,14 +535,13 @@ function HomeComponent() {
           <br />
           <br />
           <br />
-
         </div>
-
 
         <div
           ref={dividerRef}
-          className={`w-1 md:w-1 bg-gray-300 cursor-${isHorizontal ? "col" : "row"
-            }-resize ${isHorizontal ? "h-full" : "w-full"}`}
+          className={`w-1 md:w-1 bg-gray-300 cursor-${
+            isHorizontal ? "col" : "row"
+          }-resize ${isHorizontal ? "h-full" : "w-full"}`}
         ></div>
 
         <div
@@ -558,7 +584,10 @@ function HomeComponent() {
               <Tab label="Hovered Data">
                 <DisplayHoveredWord hoveredWord={hoveredWord} />
                 <DisplaySentence sentence={hoveredSentence} />
-                <DisplaySentenceV2 sentence={hoveredSentence} url={furiganaUrl} />
+                <DisplaySentenceV2
+                  sentence={hoveredSentence}
+                  url={furiganaUrl}
+                />
               </Tab>
 
               <Tab label="Translate sentence">
@@ -586,52 +615,22 @@ function HomeComponent() {
                 />
               </Tab>
             </Tabs>
-
           </div>
         </div>
       </div>
-
     </div>
   );
 }
-
-
-
-
-
-
-
-
-
 
 // ---------------------------------------------------------------------------------------- //
 // -------------------------------- Independent components -------------------------------- //
 // ---------------------------------------------------------------------------------------- //
 
-
-
-
-
-
-
-
-
-
 // ----------------------------------------------- //
 
-
-
-
-
-// --- 
-
-
-
+// ---
 
 // ---------------------------- cookies ----------------------------- //
-
-
-
 
 // ---------------------- data structures --------------------- //
 
@@ -836,20 +835,3 @@ function HomeComponent() {
 // ];
 
 // --- //
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

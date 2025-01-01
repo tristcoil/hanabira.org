@@ -1,0 +1,82 @@
+go to CICD/ansible dir 
+
+
+
+[primary]
+ansible-playbook -i inventory_file.yml server_setup_playbook.yml --limit hanabira_primary
+ansible-playbook -i inventory_file.yml service_setup_playbook.yml --limit hanabira_primary
+
+
+[secondary]
+ansible-playbook -i inventory_file.yml server_setup_playbook.yml --limit hanabira_secondary
+ansible-playbook -i inventory_file.yml service_setup_playbook.yml --limit hanabira_secondary
+
+
+
+
+# onboards certbot certificates, there is limit how many times we can call it before they rate limit us for several days
+ansible-playbook -i inventory_file.yml certbot_playbook_primary.yml   --limit hanabira_primary
+ansible-playbook -i inventory_file.yml certbot_playbook_secondary.yml --limit hanabira_secondary
+
+
+
+
+
+
+
+
+
+coil@ubuntu-4gb-hel1-2:~/hanabira$ systemctl --user start hanabira.service
+coil@ubuntu-4gb-hel1-2:~/hanabira$ systemctl --user daemon-reload
+coil@ubuntu-4gb-hel1-2:~/hanabira$ systemctl --user start hanabira.service
+coil@ubuntu-4gb-hel1-2:~/hanabira$ systemctl --user stop hanabira.service
+
+
+
+// -------------------------------------------- //
+
+we have serious issues with podman now, containers cannot communicate
+
+
+we should use docker dns and have it based on some container build param 
+
+since podman does not know what this is:
+http://host.docker.internal:8000
+we need {host}
+basically we need to rework all our structure
+
+
+5c290658bbfb Mongo Connection Open.
+33b8018ffe15 SyntaxError: Unexpected token < in JSON at position 0
+33b8018ffe15     at JSON.parse (<anonymous>)
+33b8018ffe15     at parseJSONFromBytes (node:internal/deps/undici/undici:5584:19)
+33b8018ffe15     at successSteps (node:internal/deps/undici/undici:5555:27)
+33b8018ffe15     at fullyReadBody (node:internal/deps/undici/undici:1665:9)
+33b8018ffe15     at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+33b8018ffe15     at async specConsumeBody (node:internal/deps/undici/undici:5564:7)
+33b8018ffe15     at async d (/app/.next/server/app/japanese/grammarpoint/[slug]/page.js:1:3240) {
+33b8018ffe15   digest: '625112141'
+33b8018ffe15 }
+33b8018ffe15 slug: JLPT_N3
+33b8018ffe15 dashboardCardsProps: [object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]
+33b8018ffe15 ----------------------------------
+33b8018ffe15 { slug: 'JLPT_N3', id: 'i-adjective' }
+33b8018ffe15 http://host.docker.internal:8000/e-api/v1/words?p_tag=JLPT_N3&s_tag=i-adjective
+33b8018ffe15 TypeError: fetch failed
+33b8018ffe15     at node:internal/deps/undici/undici:12618:11
+33b8018ffe15     at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+33b8018ffe15     at async c (/app/.next/server/app/japanese/vocabulary_dashboard/[slug]/[id]/page.js:1:6636) {
+33b8018ffe15   cause: Error: connect ECONNREFUSED 135.181.25.252:8000
+33b8018ffe15       at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)
+33b8018ffe15       at TCPConnectWrap.callbackTrampoline (node:internal/async_hooks:128:17) {
+33b8018ffe15     errno: -111,
+33b8018ffe15     code: 'ECONNREFUSED',
+33b8018ffe15     syscall: 'connect',
+33b8018ffe15     address: '135.181.25.252',
+33b8018ffe15     port: 8000
+33b8018ffe15   },
+33b8018ffe15   digest: '3196907076'
+33b8018ffe15 }
+
+
+

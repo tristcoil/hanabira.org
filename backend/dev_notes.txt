@@ -16,7 +16,7 @@ at this stage, the actual express backend should be able to call db and provide 
 
 but we still do not have audio
     {
-        "vocabulary_japanese": "入場券",
+        "vocabulary_original": "入場券",
         "vocabulary_simplified": "にゅうじょうけん",
         "vocabulary_english": "entrance ticket",
         "word_type": "Verb",
@@ -56,8 +56,8 @@ Example app listening on port 8000
 Mongo Connection Open.
 
 
-curl -X GET http://localhost:8000/api/v1/words
-curl -X GET 'http://localhost:8000/api/v1/words?p_tag=JLPT_N3&s_tag=100'     //must use quotes
+curl -X GET http://localhost:8000/e-api/v1/words
+curl -X GET 'http://localhost:8000/e-api/v1/words?p_tag=JLPT_N3&s_tag=100'     //must use quotes
 maybe sometimes port 7000 when in container, via nginx
 
 
@@ -95,7 +95,7 @@ start local express server that can retrieve grammar data from the DB
 coil@coil-VM:~/Desktop/zen-lingo-website/prod/backend/express/express-db$ node my_server.js 
 
 and retrieve collection as
-curl -X GET 'http://localhost:8000/api/v1/grammars?p_tag=JLPT_N3&s_tag=10'
+curl -X GET 'http://localhost:8000/e-api/v1/grammars?p_tag=JLPT_N3&s_tag=10'
 
 that is all pretty good, we just need to get nice naming of the 
 audio files and then of course to generate them
@@ -722,8 +722,8 @@ but we will also add _ underscore after new 600 book verbs so we can pair nicely
 
 
 
-sed -i 's/"vocabulary_japanese": "\(.*\)",$/"vocabulary_japanese": "\1_",/' words_essential_600_verbs_xa*
-sed -i 's/"vocabulary_japanese": "\(.*\)",$/"vocabulary_japanese": "\1_",/' words_suru_verbs_essential_600_verbs_xa*
+sed -i 's/"vocabulary_original": "\(.*\)",$/"vocabulary_original": "\1_",/' words_essential_600_verbs_xa*
+sed -i 's/"vocabulary_original": "\(.*\)",$/"vocabulary_original": "\1_",/' words_suru_verbs_essential_600_verbs_xa*
 
 coil@coil-VM:~/Desktop/zen-lingo-website/prod/backend/express/express-db/json_data$ sed -i 's/"key": "\(.*\)"$/"key": "\1_"/' sentences_output_essential_600_verbs_book.json 
 coil@coil-VM:~/Desktop/zen-lingo-website/prod/backend/express/express-db/json_data$ sed -i 's/"key": "\(.*\)"$/"key": "\1_"/' sentences_output_suru_verbs_essential_600_verbs_book.json
@@ -766,7 +766,7 @@ and later, once we have sentences, we can just make joins in that collection
 example contents:
 [
       {
-        "vocabulary_japanese": "会う",
+        "vocabulary_original": "会う",
         "vocabulary_simplified": "あう",
         "vocabulary_english": "to meet",
         "word_type": "nan",

@@ -1,6 +1,6 @@
 [
       {
-        "vocabulary_japanese": "立ち止まる",
+        "vocabulary_original": "立ち止まる",
         "vocabulary_simplified": "たちどまる",
         "vocabulary_english": "to stop, to stand still",
         "word_type": "Verb",
@@ -9,7 +9,7 @@
         "s_tag": "verbs-5"
       },
       {
-        "vocabulary_japanese": "抱く",
+        "vocabulary_original": "抱く",
         "vocabulary_simplified": "だく",
         "vocabulary_english": "to hold, to hug",
         "word_type": "Verb",
@@ -18,7 +18,7 @@
         "s_tag": "verbs-5"
       },
       {
-        "vocabulary_japanese": "拭く",
+        "vocabulary_original": "拭く",
         "vocabulary_simplified": "ふく",
         "vocabulary_english": "to wipe",
         "word_type": "Verb",
@@ -27,7 +27,7 @@
         "s_tag": "verbs-5"
       },
       {
-        "vocabulary_japanese": "どける",
+        "vocabulary_original": "どける",
         "vocabulary_simplified": "",
         "vocabulary_english": "to move out of the way",
         "word_type": "Verb",
@@ -36,7 +36,7 @@
         "s_tag": "verbs-5"
       },
       {
-        "vocabulary_japanese": "焦げる",
+        "vocabulary_original": "焦げる",
         "vocabulary_simplified": "こげる",
         "vocabulary_english": "to burn",
         "word_type": "Verb",
@@ -45,7 +45,7 @@
         "s_tag": "verbs-5"
       },
       {
-        "vocabulary_japanese": "願う",
+        "vocabulary_original": "願う",
         "vocabulary_simplified": "ねがう",
         "vocabulary_english": "to hope",
         "word_type": "Verb",
@@ -54,7 +54,7 @@
         "s_tag": "verbs-5"
       },
       {
-        "vocabulary_japanese": "まとめる",
+        "vocabulary_original": "まとめる",
         "vocabulary_simplified": "",
         "vocabulary_english": "to collect, to bring together",
         "word_type": "Verb",
@@ -63,7 +63,7 @@
         "s_tag": "verbs-5"
       },
       {
-        "vocabulary_japanese": "刺す",
+        "vocabulary_original": "刺す",
         "vocabulary_simplified": "さす",
         "vocabulary_english": "to stab",
         "word_type": "Verb",
@@ -72,7 +72,7 @@
         "s_tag": "verbs-5"
       },
       {
-        "vocabulary_japanese": "乾かす",
+        "vocabulary_original": "乾かす",
         "vocabulary_simplified": "かわかす",
         "vocabulary_english": "to dry",
         "word_type": "Verb",
@@ -81,7 +81,7 @@
         "s_tag": "verbs-5"
       },
       {
-        "vocabulary_japanese": "裏返す",
+        "vocabulary_original": "裏返す",
         "vocabulary_simplified": "うらがえす",
         "vocabulary_english": "to turn over",
         "word_type": "Verb",
@@ -90,7 +90,7 @@
         "s_tag": "verbs-5"
       },
       {
-        "vocabulary_japanese": "比べる",
+        "vocabulary_original": "比べる",
         "vocabulary_simplified": "くらべる",
         "vocabulary_english": "to compare",
         "word_type": "Verb",
@@ -99,7 +99,7 @@
         "s_tag": "verbs-5"
       },
       {
-        "vocabulary_japanese": "戦う",
+        "vocabulary_original": "戦う",
         "vocabulary_simplified": "たたかう",
         "vocabulary_english": "to fight",
         "word_type": "Verb",
@@ -108,7 +108,7 @@
         "s_tag": "verbs-5"
       },
       {
-        "vocabulary_japanese": "敷く",
+        "vocabulary_original": "敷く",
         "vocabulary_simplified": "しく",
         "vocabulary_english": "to spread, to lay",
         "word_type": "Verb",
@@ -117,7 +117,7 @@
         "s_tag": "verbs-5"
       },
       {
-        "vocabulary_japanese": "近寄る",
+        "vocabulary_original": "近寄る",
         "vocabulary_simplified": "ちかよる",
         "vocabulary_english": "to approach",
         "word_type": "Verb",
@@ -126,7 +126,7 @@
         "s_tag": "verbs-5"
       },
       {
-        "vocabulary_japanese": "診る",
+        "vocabulary_original": "診る",
         "vocabulary_simplified": "みる",
         "vocabulary_english": "to examine (medically)",
         "word_type": "Verb",
@@ -135,7 +135,7 @@
         "s_tag": "verbs-5"
       },
       {
-        "vocabulary_japanese": "抜く",
+        "vocabulary_original": "抜く",
         "vocabulary_simplified": "ぬく",
         "vocabulary_english": "pull out",
         "word_type": "Verb",
@@ -144,7 +144,7 @@
         "s_tag": "verbs-5"
       },
       {
-        "vocabulary_japanese": "譲る",
+        "vocabulary_original": "譲る",
         "vocabulary_simplified": "ゆずる",
         "vocabulary_english": "to give, to transfer",
         "word_type": "Verb",
@@ -153,7 +153,7 @@
         "s_tag": "verbs-5"
       },
       {
-        "vocabulary_japanese": "訪ねる",
+        "vocabulary_original": "訪ねる",
         "vocabulary_simplified": "たずねる",
         "vocabulary_english": "to visit",
         "word_type": "Verb",
@@ -162,7 +162,7 @@
         "s_tag": "verbs-5"
       },
       {
-        "vocabulary_japanese": "結ぶ",
+        "vocabulary_original": "結ぶ",
         "vocabulary_simplified": "むすぶ",
         "vocabulary_english": "to tie",
         "word_type": "Verb",
@@ -171,7 +171,7 @@
         "s_tag": "verbs-5"
       },
       {
-        "vocabulary_japanese": "落ち着く",
+        "vocabulary_original": "落ち着く",
         "vocabulary_simplified": "おちつく",
         "vocabulary_english": "to be calm",
         "word_type": "Verb",
@@ -180,7 +180,7 @@
         "s_tag": "verbs-5"
       },
       {
-        "vocabulary_japanese": "囲む",
+        "vocabulary_original": "囲む",
         "vocabulary_simplified": "かこむ",
         "vocabulary_english": "to surround",
         "word_type": "Verb",
@@ -189,7 +189,7 @@
         "s_tag": "verbs-5"
       },
       {
-        "vocabulary_japanese": "取り上げる/採り上げる",
+        "vocabulary_original": "取り上げる/採り上げる",
         "vocabulary_simplified": "とりあげる",
         "vocabulary_english": "to take up",
         "word_type": "Verb",
@@ -198,7 +198,7 @@
         "s_tag": "verbs-5"
       },
       {
-        "vocabulary_japanese": "取り出す",
+        "vocabulary_original": "取り出す",
         "vocabulary_simplified": "とりだす",
         "vocabulary_english": "to take out",
         "word_type": "Verb",
@@ -207,7 +207,7 @@
         "s_tag": "verbs-5"
       },
       {
-        "vocabulary_japanese": "ゆれる",
+        "vocabulary_original": "ゆれる",
         "vocabulary_simplified": "",
         "vocabulary_english": "to shake, to sway",
         "word_type": "Verb",
@@ -216,7 +216,7 @@
         "s_tag": "verbs-5"
       },
       {
-        "vocabulary_japanese": "合わせる",
+        "vocabulary_original": "合わせる",
         "vocabulary_simplified": "あわせる",
         "vocabulary_english": "to combine, to sum up",
         "word_type": "Verb",
@@ -225,7 +225,7 @@
         "s_tag": "verbs-5"
       },
       {
-        "vocabulary_japanese": "固まる",
+        "vocabulary_original": "固まる",
         "vocabulary_simplified": "かたまる",
         "vocabulary_english": "to harden, to solidify",
         "word_type": "Verb",
@@ -234,7 +234,7 @@
         "s_tag": "verbs-5"
       },
       {
-        "vocabulary_japanese": "流れる",
+        "vocabulary_original": "流れる",
         "vocabulary_simplified": "ながれる",
         "vocabulary_english": "to flow",
         "word_type": "Verb",
@@ -243,7 +243,7 @@
         "s_tag": "verbs-5"
       },
       {
-        "vocabulary_japanese": "割る",
+        "vocabulary_original": "割る",
         "vocabulary_simplified": "わる",
         "vocabulary_english": "to divide, to break",
         "word_type": "Verb",
@@ -252,7 +252,7 @@
         "s_tag": "verbs-5"
       },
       {
-        "vocabulary_japanese": "余る",
+        "vocabulary_original": "余る",
         "vocabulary_simplified": "あまる",
         "vocabulary_english": "to be left over",
         "word_type": "Verb",
@@ -261,7 +261,7 @@
         "s_tag": "verbs-5"
       },
       {
-        "vocabulary_japanese": "尋ねる",
+        "vocabulary_original": "尋ねる",
         "vocabulary_simplified": "たずねる",
         "vocabulary_english": "to ask",
         "word_type": "Verb",
@@ -270,7 +270,7 @@
         "s_tag": "verbs-5"
       },
       {
-        "vocabulary_japanese": "ほえる",
+        "vocabulary_original": "ほえる",
         "vocabulary_simplified": "",
         "vocabulary_english": "to bark",
         "word_type": "Verb",
@@ -279,7 +279,7 @@
         "s_tag": "verbs-5"
       },
       {
-        "vocabulary_japanese": "握る",
+        "vocabulary_original": "握る",
         "vocabulary_simplified": "にぎる",
         "vocabulary_english": "to hold, to grasp",
         "word_type": "Verb",
@@ -288,7 +288,7 @@
         "s_tag": "verbs-5"
       },
       {
-        "vocabulary_japanese": "がっかりする",
+        "vocabulary_original": "がっかりする",
         "vocabulary_simplified": "",
         "vocabulary_english": "to be disappointed",
         "word_type": "Verb",
@@ -297,7 +297,7 @@
         "s_tag": "verbs-5"
       },
       {
-        "vocabulary_japanese": "覚める",
+        "vocabulary_original": "覚める",
         "vocabulary_simplified": "さめる",
         "vocabulary_english": "to wake up",
         "word_type": "Verb",
@@ -306,7 +306,7 @@
         "s_tag": "verbs-5"
       },
       {
-        "vocabulary_japanese": "しまう",
+        "vocabulary_original": "しまう",
         "vocabulary_simplified": "",
         "vocabulary_english": "to put away",
         "word_type": "Verb",
@@ -315,7 +315,7 @@
         "s_tag": "verbs-5"
       },
       {
-        "vocabulary_japanese": "確かめる",
+        "vocabulary_original": "確かめる",
         "vocabulary_simplified": "たしかめる",
         "vocabulary_english": "to confirm, to make sure",
         "word_type": "Verb",
@@ -324,7 +324,7 @@
         "s_tag": "verbs-5"
       },
       {
-        "vocabulary_japanese": "話し合う",
+        "vocabulary_original": "話し合う",
         "vocabulary_simplified": "はなしあう",
         "vocabulary_english": "to talk, to discuss",
         "word_type": "Verb",
@@ -333,7 +333,7 @@
         "s_tag": "verbs-5"
       },
       {
-        "vocabulary_japanese": "かかる",
+        "vocabulary_original": "かかる",
         "vocabulary_simplified": "",
         "vocabulary_english": "to fall ill, to catch (illness)",
         "word_type": "Verb",
@@ -342,7 +342,7 @@
         "s_tag": "verbs-5"
       },
       {
-        "vocabulary_japanese": "誘う",
+        "vocabulary_original": "誘う",
         "vocabulary_simplified": "さそう",
         "vocabulary_english": "to invite",
         "word_type": "Verb",
@@ -351,7 +351,7 @@
         "s_tag": "verbs-5"
       },
       {
-        "vocabulary_japanese": "贈る",
+        "vocabulary_original": "贈る",
         "vocabulary_simplified": "おくる",
         "vocabulary_english": "to present",
         "word_type": "Verb",
@@ -360,7 +360,7 @@
         "s_tag": "verbs-5"
       },
       {
-        "vocabulary_japanese": "繰り返す",
+        "vocabulary_original": "繰り返す",
         "vocabulary_simplified": "くりかえす",
         "vocabulary_english": "to repeat",
         "word_type": "Verb",
@@ -369,7 +369,7 @@
         "s_tag": "verbs-5"
       },
       {
-        "vocabulary_japanese": "引っ張る",
+        "vocabulary_original": "引っ張る",
         "vocabulary_simplified": "ひっぱる",
         "vocabulary_english": "to pull, to drag",
         "word_type": "Verb",
@@ -378,7 +378,7 @@
         "s_tag": "verbs-5"
       },
       {
-        "vocabulary_japanese": "助ける",
+        "vocabulary_original": "助ける",
         "vocabulary_simplified": "たすける",
         "vocabulary_english": "to rescue, to help",
         "word_type": "Verb",
@@ -387,7 +387,7 @@
         "s_tag": "verbs-5"
       },
       {
-        "vocabulary_japanese": "付き合う",
+        "vocabulary_original": "付き合う",
         "vocabulary_simplified": "つきあう",
         "vocabulary_english": "to associate with, to go out/steady with",
         "word_type": "Verb",
@@ -396,7 +396,7 @@
         "s_tag": "verbs-5"
       },
       {
-        "vocabulary_japanese": "転がる",
+        "vocabulary_original": "転がる",
         "vocabulary_simplified": "ころがる",
         "vocabulary_english": "to roll over/around",
         "word_type": "Verb",
@@ -405,7 +405,7 @@
         "s_tag": "verbs-5"
       },
       {
-        "vocabulary_japanese": "思い付く",
+        "vocabulary_original": "思い付く",
         "vocabulary_simplified": "おもいつく",
         "vocabulary_english": "to hit upon an idea",
         "word_type": "Verb",
@@ -414,7 +414,7 @@
         "s_tag": "verbs-5"
       },
       {
-        "vocabulary_japanese": "暖める",
+        "vocabulary_original": "暖める",
         "vocabulary_simplified": "あたためる",
         "vocabulary_english": "to warm, to heat",
         "word_type": "Verb",
@@ -423,7 +423,7 @@
         "s_tag": "verbs-5"
       },
       {
-        "vocabulary_japanese": "震える",
+        "vocabulary_original": "震える",
         "vocabulary_simplified": "ふるえる",
         "vocabulary_english": "to shiver, to tremble",
         "word_type": "Verb",
@@ -432,7 +432,7 @@
         "s_tag": "verbs-5"
       },
       {
-        "vocabulary_japanese": "過ぎる",
+        "vocabulary_original": "過ぎる",
         "vocabulary_simplified": "すぎる",
         "vocabulary_english": "to pass",
         "word_type": "Verb",
@@ -441,7 +441,7 @@
         "s_tag": "verbs-5"
       },
       {
-        "vocabulary_japanese": "備える",
+        "vocabulary_original": "備える",
         "vocabulary_simplified": "そなえる",
         "vocabulary_english": "to prepare",
         "word_type": "Verb",

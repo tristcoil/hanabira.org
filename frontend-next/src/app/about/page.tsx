@@ -238,7 +238,7 @@ export default function About() {
             </h3>
 
             <p>
-              <strong>JLPT level vocabulary lists</strong> taken from 
+              <strong>JLPT level vocabulary and kanji lists</strong> taken from 
               <a
                 href="https://www.tanos.co.uk/jlpt/"
                 className="text-blue-600 hover:text-blue-800 visited:text-purple-600"
@@ -250,7 +250,7 @@ export default function About() {
             </p>
 
             <p className="mt-2">
-              (eventually we will also use Kanji JLPT lists) licence: Creative
+              license: Creative
               Commons BY -
               <a
                 href="https://www.tanos.co.uk/jlpt/sharing/"
