@@ -14,13 +14,14 @@ import {
 import { ChevronDownIcon, ChevronUpIcon } from "@heroicons/react/24/solid";
 
 interface Question {
-  vocabulary_japanese: string;
+  id: string;
+  vocabulary_original: string;
   vocabulary_simplified: string;
   vocabulary_english: string;
   vocabulary_audio: string;
   word_type: string; // Optional, if you want to display the type of word (e.g., Verb)
   sentences: Array<{
-    sentence_japanese: string;
+    sentence_original: string;
     sentence_simplified?: string; // Optional if you sometimes have simplified versions
     sentence_romaji: string;
     sentence_english: string;
@@ -61,13 +62,12 @@ const ComplexFlashcardModal: FC<ComplexFlashcardModalProps> = ({
   // Adjust URLs based on the presence of userId
   if (userId) {
     //apiUrl = `/f-api/v1/combine-flashcard-data-${collectionName}?userId=${userId}&collectionName=${collectionName}&p_tag=${p_tag}&s_tag=${s_tag}`;
-    
+
     // we have different endpoint for sentence mined data from text-parser
     apiUrl = `/f-api/v1/text-parser-words?userId=${userId}&collectionName=${collectionName}&p_tag=${p_tag}&s_tag=${s_tag}`;
   } else {
-    apiUrl = `/api/v1/${collectionName}?p_tag=${p_tag}&s_tag=${s_tag}`;
+    apiUrl = `/e-api/v1/${collectionName}?p_tag=${p_tag}&s_tag=${s_tag}`;
   }
-
 
   const fetcher = (url: string) =>
     fetch(url)
@@ -110,16 +110,20 @@ const ComplexFlashcardModal: FC<ComplexFlashcardModalProps> = ({
 
     if (difficulty && currentQuestion && userId) {
       try {
-        console.log("mocking saving post call");
         //await axios.post(`${baseUrl}/f-api/v1/flashcard`, {
         //await axios.post(`/f-api/v1/flashcard`, {
-        await axios.post(`/f-api/v1/text-parser-words`, {
-          userId: userId,
+        // await axios.post(`/f-api/v1/text-parser-words`, {
+        //   userId: userId,
+        //   difficulty,
+        //   collectionName: collectionName,
+        //   vocabulary_original: currentQuestion.vocabulary_original,
+        //   p_tag,
+        //   s_tag,
+        // });
+
+        console.log("Updating existing document via PATCH");
+        await axios.patch(`/f-api/v1/text-parser-words/${currentQuestion.id}`, {
           difficulty,
-          collectionName: collectionName,
-          vocabulary_japanese: currentQuestion.vocabulary_japanese,
-          p_tag,
-          s_tag,
         });
       } catch (error) {
         console.log("Failed to store flashcard state:", error);
@@ -253,7 +257,7 @@ const ComplexFlashcardModal: FC<ComplexFlashcardModalProps> = ({
           as="div"
           className="relative z-50"
           open={isOpen}
-          onClose={() => { }}
+          onClose={() => {}}
         >
           <Transition.Child
             as={Fragment}
@@ -308,15 +312,15 @@ const ComplexFlashcardModal: FC<ComplexFlashcardModalProps> = ({
 
                           {/* Container for vocabulary details to center them except for the button */}
                           <div className="flex-grow text-center">
-                            {/* vocabulary_simplified above vocabulary_japanese */}
+                            {/* vocabulary_simplified above vocabulary_original */}
                             <div className="text-2xl font-bold dark:text-white text-gray-800">
                               {currentQuestion.vocabulary_simplified}
                             </div>
-                            {/* vocabulary_japanese in the middle */}
+                            {/* vocabulary_original in the middle */}
                             <span className="text-6xl font-bold dark:text-gray-200 text-gray-600 block">
-                              {currentQuestion.vocabulary_japanese}
+                              {currentQuestion.vocabulary_original}
                             </span>
-                            {/* vocabulary_english below vocabulary_japanese */}
+                            {/* vocabulary_english below vocabulary_original */}
                             <div className="text-xl dark:text-gray-300 text-gray-600">
                               {currentQuestion.vocabulary_english}
                             </div>
@@ -354,14 +358,15 @@ const ComplexFlashcardModal: FC<ComplexFlashcardModalProps> = ({
                             <button
                               key={idx}
                               className={`py-1 px-2 sm:py-3 sm:px-6 rounded-md font-semibold text-xs sm:text-sm transition duration-200 ease-in-out shadow-md
-          ${difficulty === level
-                                  ? level === "easy"
-                                    ? "bg-green-500 hover:bg-green-600 text-white"
-                                    : level === "medium"
-                                      ? "bg-yellow-500 hover:bg-yellow-600 text-white"
-                                      : "bg-red-500 hover:bg-red-600 text-white"
-                                  : "bg-gray-300 hover:bg-gray-400 text-gray-800"
-                                }`}
+          ${
+            difficulty === level
+              ? level === "easy"
+                ? "bg-green-500 hover:bg-green-600 text-white"
+                : level === "medium"
+                ? "bg-yellow-500 hover:bg-yellow-600 text-white"
+                : "bg-red-500 hover:bg-red-600 text-white"
+              : "bg-gray-300 hover:bg-gray-400 text-gray-800"
+          }`}
                               onClick={() => handleDifficultySelection(level)}
                             >
                               {level.charAt(0).toUpperCase() + level.slice(1)}
@@ -403,7 +408,7 @@ const ComplexFlashcardModal: FC<ComplexFlashcardModalProps> = ({
 export default ComplexFlashcardModal;
 
 interface Sentence {
-  sentence_japanese: string;
+  sentence_original: string;
   sentence_romaji: string;
   sentence_english: string;
   sentence_audio: string;
@@ -470,7 +475,7 @@ const SentenceSection: React.FC<SentenceSectionProps> = ({ sentences }) => {
               {/* Sentence Text and Toggle Button */}
               <div className="flex-grow flex justify-between items-center">
                 <div className="text-lg dark:text-white text-gray-800">
-                  {sentence.sentence_japanese}
+                  {sentence.sentence_original}
                 </div>
                 <button
                   onClick={() => toggleOpenState(index)}

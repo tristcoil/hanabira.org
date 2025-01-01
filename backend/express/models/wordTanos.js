@@ -2,7 +2,7 @@ const mongoose = require('mongoose');
 const { Schema } = mongoose;
 
 // const wordSchema = new Schema({
-//     vocabulary_japanese: { type: String, unique: true, required: true },
+//     vocabulary_original: { type: String, unique: true, required: true },
 //     vocabulary_simplified: String,
 //     vocabulary_english: { type: String, required: true },
 //     vocabulary_audio: String,
@@ -14,7 +14,7 @@ const { Schema } = mongoose;
 
 // parent object
 const tanosWordSchema = new Schema({
-    vocabulary_japanese: { type: String, unique: false, required: true }, // we have repeating words, they differ by p_tag in api searches
+    vocabulary_original: { type: String, unique: false, required: true }, // we have repeating words, they differ by p_tag in api searches
     vocabulary_simplified: String,
     vocabulary_english: { type: String, unique: false, required: false },  // TODO: huh, some are missing, you need to review source data
     vocabulary_audio: String,

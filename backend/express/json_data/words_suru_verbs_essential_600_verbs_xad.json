@@ -1,6 +1,6 @@
 [
       {
-        "vocabulary_japanese": "ジャンプする_",
+        "vocabulary_original": "ジャンプする_",
         "vocabulary_simplified": "ジャンプする",
         "vocabulary_english": "to jump",
         "word_type": "Verb",
@@ -9,7 +9,7 @@
         "s_tag": "verbs-4"
       },
       {
-        "vocabulary_japanese": "交渉する_",
+        "vocabulary_original": "交渉する_",
         "vocabulary_simplified": "こうしょうする",
         "vocabulary_english": "to negotiate",
         "word_type": "Verb",
@@ -18,7 +18,7 @@
         "s_tag": "verbs-4"
       },
       {
-        "vocabulary_japanese": "投資する_",
+        "vocabulary_original": "投資する_",
         "vocabulary_simplified": "とうしする",
         "vocabulary_english": "to invest",
         "word_type": "Verb",
@@ -27,7 +27,7 @@
         "s_tag": "verbs-4"
       },
       {
-        "vocabulary_japanese": "工事する_",
+        "vocabulary_original": "工事する_",
         "vocabulary_simplified": "こうじする",
         "vocabulary_english": "to construct",
         "word_type": "Verb",
@@ -36,7 +36,7 @@
         "s_tag": "verbs-4"
       },
       {
-        "vocabulary_japanese": "誘惑する_",
+        "vocabulary_original": "誘惑する_",
         "vocabulary_simplified": "ゆうわくする",
         "vocabulary_english": "to tempt, to lure, to entice",
         "word_type": "Verb",
@@ -45,7 +45,7 @@
         "s_tag": "verbs-4"
       },
       {
-        "vocabulary_japanese": "落選する_",
+        "vocabulary_original": "落選する_",
         "vocabulary_simplified": "らくせんする",
         "vocabulary_english": "to be defeated in an election",
         "word_type": "Verb",
@@ -54,7 +54,7 @@
         "s_tag": "verbs-4"
       },
       {
-        "vocabulary_japanese": "メールする_",
+        "vocabulary_original": "メールする_",
         "vocabulary_simplified": "メールする",
         "vocabulary_english": "to send an email",
         "word_type": "Verb",
@@ -63,7 +63,7 @@
         "s_tag": "verbs-4"
       },
       {
-        "vocabulary_japanese": "ミスする_",
+        "vocabulary_original": "ミスする_",
         "vocabulary_simplified": "ミスする",
         "vocabulary_english": "to make a mistake, to miss",
         "word_type": "Verb",
@@ -72,7 +72,7 @@
         "s_tag": "verbs-4"
       },
       {
-        "vocabulary_japanese": "連絡する_",
+        "vocabulary_original": "連絡する_",
         "vocabulary_simplified": "れんらくする",
         "vocabulary_english": "to contact, to get in touch",
         "word_type": "Verb",
@@ -81,7 +81,7 @@
         "s_tag": "verbs-4"
       },
       {
-        "vocabulary_japanese": "チャレンジする_",
+        "vocabulary_original": "チャレンジする_",
         "vocabulary_simplified": "チャレンジする",
         "vocabulary_english": "to challenge",
         "word_type": "Verb",
@@ -90,7 +90,7 @@
         "s_tag": "verbs-4"
       },
       {
-        "vocabulary_japanese": "落第する_",
+        "vocabulary_original": "落第する_",
         "vocabulary_simplified": "らくだいする",
         "vocabulary_english": "to fail an exam, to be rejected",
         "word_type": "Verb",
@@ -99,7 +99,7 @@
         "s_tag": "verbs-4"
       },
       {
-        "vocabulary_japanese": "タッチする_",
+        "vocabulary_original": "タッチする_",
         "vocabulary_simplified": "タッチする",
         "vocabulary_english": "to touch",
         "word_type": "Verb",
@@ -108,7 +108,7 @@
         "s_tag": "verbs-4"
       },
       {
-        "vocabulary_japanese": "散歩する_",
+        "vocabulary_original": "散歩する_",
         "vocabulary_simplified": "さんぽする",
         "vocabulary_english": "to take a walk",
         "word_type": "Verb",
@@ -117,7 +117,7 @@
         "s_tag": "verbs-4"
       },
       {
-        "vocabulary_japanese": "募集する_",
+        "vocabulary_original": "募集する_",
         "vocabulary_simplified": "ぼしゅうする",
         "vocabulary_english": "to recruit, to collect",
         "word_type": "Verb",
@@ -126,7 +126,7 @@
         "s_tag": "verbs-4"
       },
       {
-        "vocabulary_japanese": "通知する_",
+        "vocabulary_original": "通知する_",
         "vocabulary_simplified": "つうちする",
         "vocabulary_english": "to inform, to give notice",
         "word_type": "Verb",
@@ -135,7 +135,7 @@
         "s_tag": "verbs-4"
       },
       {
-        "vocabulary_japanese": "クリックする_",
+        "vocabulary_original": "クリックする_",
         "vocabulary_simplified": "クリックする",
         "vocabulary_english": "to click with a mouse",
         "word_type": "Verb",
@@ -144,7 +144,7 @@
         "s_tag": "verbs-4"
       },
       {
-        "vocabulary_japanese": "アップする_",
+        "vocabulary_original": "アップする_",
         "vocabulary_simplified": "アップする",
         "vocabulary_english": "to upload (IT related)",
         "word_type": "Verb",
@@ -153,7 +153,7 @@
         "s_tag": "verbs-4"
       },
       {
-        "vocabulary_japanese": "リードする_",
+        "vocabulary_original": "リードする_",
         "vocabulary_simplified": "リードする",
         "vocabulary_english": "to lead",
         "word_type": "Verb",
@@ -162,7 +162,7 @@
         "s_tag": "verbs-4"
       },
       {
-        "vocabulary_japanese": "郵送する_",
+        "vocabulary_original": "郵送する_",
         "vocabulary_simplified": "ゆうそうする",
         "vocabulary_english": "to send by mail",
         "word_type": "Verb",
@@ -171,7 +171,7 @@
         "s_tag": "verbs-4"
       },
       {
-        "vocabulary_japanese": "参加する_",
+        "vocabulary_original": "参加する_",
         "vocabulary_simplified": "さんかする",
         "vocabulary_english": "to join, to take part in",
         "word_type": "Verb",
@@ -180,7 +180,7 @@
         "s_tag": "verbs-4"
       },
       {
-        "vocabulary_japanese": "無視する_",
+        "vocabulary_original": "無視する_",
         "vocabulary_simplified": "むしする",
         "vocabulary_english": "to ignore, to disregard",
         "word_type": "Verb",
@@ -189,7 +189,7 @@
         "s_tag": "verbs-4"
       },
       {
-        "vocabulary_japanese": "依頼する_",
+        "vocabulary_original": "依頼する_",
         "vocabulary_simplified": "いらいする",
         "vocabulary_english": "to request, to ask",
         "word_type": "Verb",
@@ -198,7 +198,7 @@
         "s_tag": "verbs-4"
       },
       {
-        "vocabulary_japanese": "就職する_",
+        "vocabulary_original": "就職する_",
         "vocabulary_simplified": "しゅうしょくする",
         "vocabulary_english": "to find employment",
         "word_type": "Verb",
@@ -207,7 +207,7 @@
         "s_tag": "verbs-4"
       },
       {
-        "vocabulary_japanese": "供給する_",
+        "vocabulary_original": "供給する_",
         "vocabulary_simplified": "きょうきゅうする",
         "vocabulary_english": "to supply, to furnish, to provide",
         "word_type": "Verb",
@@ -216,7 +216,7 @@
         "s_tag": "verbs-4"
       },
       {
-        "vocabulary_japanese": "防止する_",
+        "vocabulary_original": "防止する_",
         "vocabulary_simplified": "ぼうしする",
         "vocabulary_english": "to prevent, to keep in check",
         "word_type": "Verb",
@@ -225,7 +225,7 @@
         "s_tag": "verbs-4"
       },
       {
-        "vocabulary_japanese": "コピーする_",
+        "vocabulary_original": "コピーする_",
         "vocabulary_simplified": "コピーする",
         "vocabulary_english": "to make a copy",
         "word_type": "Verb",
@@ -234,7 +234,7 @@
         "s_tag": "verbs-4"
       },
       {
-        "vocabulary_japanese": "ロックする_",
+        "vocabulary_original": "ロックする_",
         "vocabulary_simplified": "ロックする",
         "vocabulary_english": "to lock",
         "word_type": "Verb",
@@ -243,7 +243,7 @@
         "s_tag": "verbs-4"
       },
       {
-        "vocabulary_japanese": "活躍する_",
+        "vocabulary_original": "活躍する_",
         "vocabulary_simplified": "かつやくする",
         "vocabulary_english": "to be active in, to take an active part",
         "word_type": "Verb",
@@ -252,7 +252,7 @@
         "s_tag": "verbs-4"
       },
       {
-        "vocabulary_japanese": "指導する_",
+        "vocabulary_original": "指導する_",
         "vocabulary_simplified": "しどうする",
         "vocabulary_english": "to lead, to guide",
         "word_type": "Verb",
@@ -261,7 +261,7 @@
         "s_tag": "verbs-4"
       },
       {
-        "vocabulary_japanese": "入院する_",
+        "vocabulary_original": "入院する_",
         "vocabulary_simplified": "にゅういんする",
         "vocabulary_english": "to be hospitalized",
         "word_type": "Verb",
@@ -270,7 +270,7 @@
         "s_tag": "verbs-4"
       },
       {
-        "vocabulary_japanese": "編集する_",
+        "vocabulary_original": "編集する_",
         "vocabulary_simplified": "へんしゅうする",
         "vocabulary_english": "to edit, to compile",
         "word_type": "Verb",
@@ -279,7 +279,7 @@
         "s_tag": "verbs-4"
       },
       {
-        "vocabulary_japanese": "報告する_",
+        "vocabulary_original": "報告する_",
         "vocabulary_simplified": "ほうこくする",
         "vocabulary_english": "to report, to inform",
         "word_type": "Verb",
@@ -288,7 +288,7 @@
         "s_tag": "verbs-4"
       },
       {
-        "vocabulary_japanese": "研究する_",
+        "vocabulary_original": "研究する_",
         "vocabulary_simplified": "けんきゅうする",
         "vocabulary_english": "to study, to research",
         "word_type": "Verb",
@@ -297,7 +297,7 @@
         "s_tag": "verbs-4"
       },
       {
-        "vocabulary_japanese": "批判する_",
+        "vocabulary_original": "批判する_",
         "vocabulary_simplified": "ひはんする",
         "vocabulary_english": "to criticize",
         "word_type": "Verb",
@@ -306,7 +306,7 @@
         "s_tag": "verbs-4"
       },
       {
-        "vocabulary_japanese": "養成する_",
+        "vocabulary_original": "養成する_",
         "vocabulary_simplified": "ようせいする",
         "vocabulary_english": "to train, to develop (a person)",
         "word_type": "Verb",
@@ -315,7 +315,7 @@
         "s_tag": "verbs-4"
       },
       {
-        "vocabulary_japanese": "優勝する_",
+        "vocabulary_original": "優勝する_",
         "vocabulary_simplified": "ゆうしょうする",
         "vocabulary_english": "to win a contest or championship",
         "word_type": "Verb",
@@ -324,7 +324,7 @@
         "s_tag": "verbs-4"
       },
       {
-        "vocabulary_japanese": "矛盾する_",
+        "vocabulary_original": "矛盾する_",
         "vocabulary_simplified": "むじゅんする",
         "vocabulary_english": "to be contradictory, to conflict",
         "word_type": "Verb",
@@ -333,7 +333,7 @@
         "s_tag": "verbs-4"
       },
       {
-        "vocabulary_japanese": "選挙する_",
+        "vocabulary_original": "選挙する_",
         "vocabulary_simplified": "せんきょする",
         "vocabulary_english": "to elect",
         "word_type": "Verb",
@@ -342,7 +342,7 @@
         "s_tag": "verbs-4"
       },
       {
-        "vocabulary_japanese": "教育する_",
+        "vocabulary_original": "教育する_",
         "vocabulary_simplified": "きょういくする",
         "vocabulary_english": "to educate",
         "word_type": "Verb",
@@ -351,7 +351,7 @@
         "s_tag": "verbs-4"
       },
       {
-        "vocabulary_japanese": "中止する_",
+        "vocabulary_original": "中止する_",
         "vocabulary_simplified": "ちゅうしする",
         "vocabulary_english": "to stop, to discontinue, to call off",
         "word_type": "Verb",
@@ -360,7 +360,7 @@
         "s_tag": "verbs-4"
       },
       {
-        "vocabulary_japanese": "故障する_",
+        "vocabulary_original": "故障する_",
         "vocabulary_simplified": "こしょうする",
         "vocabulary_english": "to break down",
         "word_type": "Verb",
@@ -369,7 +369,7 @@
         "s_tag": "verbs-4"
       },
       {
-        "vocabulary_japanese": "交流する_",
+        "vocabulary_original": "交流する_",
         "vocabulary_simplified": "こうりゅうする",
         "vocabulary_english": "to exchange (ideas, culture)",
         "word_type": "Verb",
@@ -378,7 +378,7 @@
         "s_tag": "verbs-4"
       },
       {
-        "vocabulary_japanese": "負担する_",
+        "vocabulary_original": "負担する_",
         "vocabulary_simplified": "ふたんする",
         "vocabulary_english": "to bear the weight of",
         "word_type": "Verb",
@@ -387,7 +387,7 @@
         "s_tag": "verbs-4"
       },
       {
-        "vocabulary_japanese": "自慢する_",
+        "vocabulary_original": "自慢する_",
         "vocabulary_simplified": "じまんする",
         "vocabulary_english": "to be proud, to boast of, to take pride in",
         "word_type": "Verb",
@@ -396,7 +396,7 @@
         "s_tag": "verbs-4"
       },
       {
-        "vocabulary_japanese": "解釈する_",
+        "vocabulary_original": "解釈する_",
         "vocabulary_simplified": "かいしゃくする",
         "vocabulary_english": "to interpret, to explain",
         "word_type": "Verb",
@@ -405,7 +405,7 @@
         "s_tag": "verbs-4"
       },
       {
-        "vocabulary_japanese": "独立する_",
+        "vocabulary_original": "独立する_",
         "vocabulary_simplified": "どくりつする",
         "vocabulary_english": "to become independent",
         "word_type": "Verb",
@@ -414,7 +414,7 @@
         "s_tag": "verbs-4"
       },
       {
-        "vocabulary_japanese": "経験する_",
+        "vocabulary_original": "経験する_",
         "vocabulary_simplified": "けいけんする",
         "vocabulary_english": "to experience, to undergo",
         "word_type": "Verb",
@@ -423,7 +423,7 @@
         "s_tag": "verbs-4"
       },
       {
-        "vocabulary_japanese": "通過する_",
+        "vocabulary_original": "通過する_",
         "vocabulary_simplified": "通化する",
         "vocabulary_english": "to pass, to go through without stopping",
         "word_type": "Verb",
@@ -432,7 +432,7 @@
         "s_tag": "verbs-4"
       },
       {
-        "vocabulary_japanese": "遅刻する_",
+        "vocabulary_original": "遅刻する_",
         "vocabulary_simplified": "ちこくする",
         "vocabulary_english": "to be late, to be tardy",
         "word_type": "Verb",
@@ -441,7 +441,7 @@
         "s_tag": "verbs-4"
       },
       {
-        "vocabulary_japanese": "辞職する_",
+        "vocabulary_original": "辞職する_",
         "vocabulary_simplified": "じしょくする",
         "vocabulary_english": "to resign",
         "word_type": "Verb",
@@ -450,7 +450,7 @@
         "s_tag": "verbs-4"
       },
       {
-        "vocabulary_japanese": "出発する_",
+        "vocabulary_original": "出発する_",
         "vocabulary_simplified": "しゅっぱつする",
         "vocabulary_english": "to leave for, to depart",
         "word_type": "Verb",

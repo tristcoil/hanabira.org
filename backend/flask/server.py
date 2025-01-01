@@ -17,7 +17,7 @@ from datetime import datetime, timedelta
 import os
 
 logging.basicConfig(
-    level=logging.DEBUG,
+    level=logging.INFO,
     format="%(asctime)s %(levelname)s %(name)s %(threadName)s : %(message)s",
 )
 # filename='app.log',  # Log to a file. Omit this to log to stderr.
@@ -42,7 +42,7 @@ flask_port = 5100
 # Determine the environment (dev or prod) to use the correct port
 # Reading environment variable with a default value of "dev"
 # env var is baked into Dockerfile
-env = os.getenv("FLASK_ENV", "dev")    # prod/dev
+env = os.getenv("APP_ENV", "dev")    # prod/dev
 port = "8000"  # port of static DB container
 host = "host.docker.internal" if env == "prod" else "localhost"
 
@@ -267,11 +267,11 @@ def clone_static_collection_kanji():
 
     # we get static data from here
     # GET endpoint to retrieve Kanji based on p_tag and optionally s_tag
-    # curl "http://localhost:8000/api/v1/kanji?p_tag=JLPT_N3&s_tag=part_1"
-    # curl "http://localhost:8000/api/v1/kanji?p_tag=JLPT_N3" - for only p_tag
+    # curl "http://localhost:8000/e-api/v1/kanji?p_tag=JLPT_N3&s_tag=part_1"
+    # curl "http://localhost:8000/e-api/v1/kanji?p_tag=JLPT_N3" - for only p_tag
 
     # data structurefrom remote static api:
-    # curl "http://localhost:8000/api/v1/kanji?p_tag=JLPT_N3"
+    # curl "http://localhost:8000/e-api/v1/kanji?p_tag=JLPT_N3"
     # [
     #     {"_id":"65da44a5a033d2048bd1e4ce",
     #      "kanji":"駐",
@@ -313,7 +313,7 @@ def clone_static_collection_kanji():
         ]  # collections should have the same name for simplicity
 
         # Construct the URL for the GET request
-        url = f"http://{host}:{port}/api/v1/kanji?p_tag={p_tag}"
+        url = f"http://{host}:{port}/e-api/v1/kanji?p_tag={p_tag}"
 
         if s_tag:
             url += f"&s_tag={s_tag}"
@@ -392,18 +392,18 @@ def clone_static_collection_words():
 
     # we get static data from here
     # GET endpoint to retrieve Kanji based on p_tag and optionally s_tag
-    # curl -X GET 'http://localhost:8000/api/v1/words?p_tag=essential_600_verbs'         # w only p_tag
-    # curl -X GET 'http://localhost:8000/api/v1/words?p_tag=suru_essential_600_verbs'    # w only p_tag
+    # curl -X GET 'http://localhost:8000/e-api/v1/words?p_tag=essential_600_verbs'         # w only p_tag
+    # curl -X GET 'http://localhost:8000/e-api/v1/words?p_tag=suru_essential_600_verbs'    # w only p_tag
 
-    # curl -X GET 'http://localhost:8000/api/v1/words?p_tag=essential_600_verbs&s_tag=verbs-1'
-    # curl -X GET 'http://localhost:8000/api/v1/words?p_tag=suru_essential_600_verbs&s_tag=verbs-1'
+    # curl -X GET 'http://localhost:8000/e-api/v1/words?p_tag=essential_600_verbs&s_tag=verbs-1'
+    # curl -X GET 'http://localhost:8000/e-api/v1/words?p_tag=suru_essential_600_verbs&s_tag=verbs-1'
 
     # data structurefrom remote static api:
-    #  curl -X GET 'http://localhost:8000/api/v1/words?p_tag=essential_600_verbs&s_tag=verbs-1'
+    #  curl -X GET 'http://localhost:8000/e-api/v1/words?p_tag=essential_600_verbs&s_tag=verbs-1'
     # {"words":
     #  [
     #      {"_id":"65eca95e43a799eec83434e1",
-    #       "vocabulary_japanese":"抑える_",
+    #       "vocabulary_original":"抑える_",
     #       "vocabulary_simplified":"おさえる",
     #       "vocabulary_english":"to suppress, to control",
     #       "vocabulary_audio":"/audio/vocab/v_抑える.mp3",
@@ -412,14 +412,14 @@ def clone_static_collection_words():
     #       "s_tag":"verbs-1",
     #       "sentences":[
     #           {"_id":"65eca95f43a799eec8343dc8",
-    #            "sentence_japanese":"彼は怒りを抑えることができなかった。",
+    #            "sentence_original":"彼は怒りを抑えることができなかった。",
     #            "sentence_simplified":"",
     #            "sentence_romaji":"Kare wa ikari o osaeru koto ga dekinakatta",
     #            "sentence_english":"He was unable to suppress his anger.",
     #            "sentence_audio":"/audio/sentences/s_抑える_20231231_彼は怒りを抑えることができなかった.mp3",
     #            "sentence_picture":"","key":"抑える_","__v":0},
     #            {"_id":"65eca95f43a799eec8343dc9",
-    #             "sentence_japanese":"ボリュームを抑えて静かに音楽を聞く。",
+    #             "sentence_original":"ボリュームを抑えて静かに音楽を聞く。",
     #             "sentence_simplified":"",
     #             "sentence_romaji":"Boryuumu o osaete shizuka ni ongaku o kiku",
     #             "sentence_english":"Listen to music quietly with the volume turned down.",
@@ -446,7 +446,7 @@ def clone_static_collection_words():
         ]  # collections should have the same name for simplicity
 
         # Construct the URL for the GET request
-        url = f"http://{host}:{port}/api/v1/words?p_tag={p_tag}"
+        url = f"http://{host}:{port}/e-api/v1/words?p_tag={p_tag}"
 
         if s_tag:
             url += f"&s_tag={s_tag}"
@@ -473,7 +473,7 @@ def clone_static_collection_words():
                 flashcard_collection.count_documents(
                     {
                         "userId": user_id,
-                        "vocabulary_japanese": doc["vocabulary_japanese"],
+                        "vocabulary_original": doc["vocabulary_original"],
                         "p_tag": doc.get("p_tag", ""),
                         "s_tag": doc.get("s_tag", ""),
                     }
@@ -486,7 +486,7 @@ def clone_static_collection_words():
                 new_doc = {
                     "userId": user_id,
                     "difficulty": "unknown",  # Default difficulty
-                    "vocabulary_japanese": doc["vocabulary_japanese"],
+                    "vocabulary_original": doc["vocabulary_original"],
                     "p_tag": doc.get("p_tag", ""),
                     "s_tag": doc.get("s_tag", ""),
                 }
@@ -547,8 +547,8 @@ def combine_flashcard_data_kanji():
         )
 
         # Construct the URL for the GET request
-        # curl "http://localhost:8000/api/v1/kanji?p_tag=JLPT_N3&s_tag=part_1"
-        url = f"http://{host}:{port}/api/v1/kanji?p_tag={p_tag}"
+        # curl "http://localhost:8000/e-api/v1/kanji?p_tag=JLPT_N3&s_tag=part_1"
+        url = f"http://{host}:{port}/e-api/v1/kanji?p_tag={p_tag}"
         if s_tag:
             url += f"&s_tag={s_tag}"
 
@@ -629,8 +629,8 @@ def combine_flashcard_data_words():
         )
 
         # Construct the URL for the GET request
-        # curl "http://localhost:8000/api/v1/words?p_tag=essential_600_verbs&s_tag=verbs-1"
-        url = f"http://{host}:{port}/api/v1/words?p_tag={p_tag}"
+        # curl "http://localhost:8000/e-api/v1/words?p_tag=essential_600_verbs&s_tag=verbs-1"
+        url = f"http://{host}:{port}/e-api/v1/words?p_tag={p_tag}"
         if s_tag:
             url += f"&s_tag={s_tag}"
 
@@ -657,7 +657,7 @@ def combine_flashcard_data_words():
         for flashcard in user_flashcards:
             for source in source_data:
                 if (
-                    flashcard["vocabulary_japanese"] == source["vocabulary_japanese"]
+                    flashcard["vocabulary_original"] == source["vocabulary_original"]
                     and flashcard["p_tag"] == source["p_tag"]
                     and flashcard["s_tag"] == source["s_tag"]
                 ):
@@ -789,13 +789,13 @@ def store_flashcard_state():
 
         elif collection_name == "words":
 
-            vocabulary_japanese = data.get("vocabulary_japanese")
+            vocabulary_original = data.get("vocabulary_original")
 
             # Attempt to find an existing flashcard state
             flashcard_state = mongo_flaskFlashcardDB.db[collection_name].find_one(
                 {
                     "userId": user_id,
-                    "vocabulary_japanese": vocabulary_japanese,
+                    "vocabulary_original": vocabulary_original,
                     "p_tag": p_tag,
                     "s_tag": s_tag,
                 }
@@ -853,7 +853,7 @@ def configure_language_db():
 
 language_db = configure_language_db()
 
-logging.basicConfig(level=logging.DEBUG)  # Set logging level to DEBUG
+logging.basicConfig(level=logging.INFO)  # Set logging level to INFO
 
 
 
@@ -876,11 +876,11 @@ def add_user_vocabulary():
     data = request.json
     app.logger.info(f'Incoming payload: {data}') 
 
-    if 'username' not in data:
-        app.logger.error('Username is missing in the payload')  # Example error logging
+    if 'userId' not in data:
+        app.logger.error('userId is missing in the payload')  # Example error logging
         return jsonify({'error': 'Username is missing'}), 400
     
-    username = data['username']
+    username = data['userId']
     word_data = {
         'original': data['original'],
         'dictionary': data['dictionary'],
@@ -932,9 +932,9 @@ def enhance_vocabulary():
     data = request.json
     app.logger.info(f'Incoming payload: {data}') 
 
-    username = data.get('username')
+    username = data.get('userId')
     if not username:
-        return jsonify({'error': 'Username is missing in the payload'}), 400
+        return jsonify({'error': 'userId is missing in the payload'}), 400
     
     enhanced_data = []
     
@@ -977,7 +977,7 @@ def store_vocabulary_data():
         "userId": userId,
         "vocabulary_audio": data['vocabulary_audio'],
         "vocabulary_english": data['vocabulary_english'],
-        "vocabulary_japanese": data['vocabulary_japanese'],
+        "vocabulary_original": data['vocabulary_original'],
         "vocabulary_simplified": data['vocabulary_simplified'],
         "word_type": data['word_type'],
         "notes": data['notes']
@@ -985,7 +985,7 @@ def store_vocabulary_data():
 
     # Insert the document into the database
     insert_result = vocabulary_collection.update_one(
-        {'userId': userId, 'vocabulary_japanese': data['vocabulary_japanese']},
+        {'userId': userId, 'vocabulary_original': data['vocabulary_original']},
         {'$set': vocabulary_document},
         upsert=True
     )
@@ -1009,7 +1009,7 @@ def store_vocabulary_data():
 #   "userId": "testUser",
 #   "difficulty": "easy",
 #   "collectionName": "vocabulary",
-#   "vocabulary_japanese": "紹介",
+#   "vocabulary_original": "紹介",
 #   "p_tag": "sentence_mining",
 #   "s_tag": "verbs-1"
 # }' "http://localhost:5100/f-api/v1/text-parser-words"
@@ -1018,105 +1018,6 @@ def store_vocabulary_data():
 #client = MongoClient('mongodb://localhost:27017/')  # Adjust connection string as needed
 sentence_mining_db = client['sentenceMining']
 vocabulary_collection = sentence_mining_db['vocabulary']
-
-# # Function to adjust frequency and shuffle data
-# def f_adjust_frequency_and_shuffle(data):
-#     # Placeholder function, implement as needed
-#     return data
-
-# # Endpoint to get and update vocabulary data
-# @app.route("/f-api/v1/text-parser-words", methods=["GET", "POST"])
-# def text_parser_words():
-#     logging.info("Received request to /f-api/v1/text-parser-words")
-#     try:
-#         if request.method == "POST":
-#             logging.info("Processing POST request")
-#             data = request.json
-#             logging.info(f"Request data: {data}")
-
-#             user_id = data.get("userId")
-#             difficulty = data.get("difficulty")
-#             collection_name = data.get("collectionName")
-#             vocabulary_japanese = data.get("vocabulary_japanese")
-#             p_tag = data.get("p_tag")
-#             s_tag = data.get("s_tag")
-
-#             if not all([user_id, collection_name, p_tag, s_tag, vocabulary_japanese, difficulty]):
-#                 logging.error("Missing required parameters in POST request")
-#                 return jsonify({"error": "Missing required parameters"}), 400
-
-#             logging.info("Updating difficulty in the vocabulary collection")
-#             result = vocabulary_collection.update_one(
-#                 {
-#                     "userId": user_id,
-#                     "vocabulary_japanese": vocabulary_japanese,
-#                     "p_tag": p_tag,
-#                     "s_tag": s_tag
-#                 },
-#                 {
-#                     "$set": {"difficulty": difficulty}
-#                 }
-#             )
-
-#             if result.matched_count == 0:
-#                 logging.error("No matching document found for update")
-#                 return jsonify({"error": "No matching document found"}), 404
-
-#             logging.info("Difficulty updated successfully")
-#             return jsonify({"message": "Difficulty updated successfully"}), 200
-
-#         elif request.method == "GET":
-#             logging.info("Processing GET request")
-#             data = request.args.to_dict()  # Convert ImmutableMultiDict to dict
-#             logging.info(f"Query string data: {data}")
-
-#             user_id = data.get("userId")
-#             collection_name = data.get("collectionName")
-#             p_tag = data.get("p_tag")
-#             s_tag = data.get("s_tag")
-
-#             if not all([user_id, collection_name, p_tag, s_tag]):
-#                 logging.error("Missing required parameters in GET request")
-#                 return jsonify({"error": "Missing required parameters"}), 400
-
-#             logging.info("Fetching user-specific vocabulary data")
-#             user_vocabulary = list(
-#                 vocabulary_collection.find(
-#                     {"userId": user_id, "p_tag": p_tag, "s_tag": s_tag}
-#                 )
-#             )
-
-#             logging.info("Transforming data into the expected format")
-#             data = []
-#             for vocab in user_vocabulary:
-#                 question = {
-#                     "vocabulary_japanese": vocab.get("vocabulary_japanese", ""),
-#                     "vocabulary_simplified": vocab.get("vocabulary_simplified", ""),
-#                     "vocabulary_english": vocab.get("vocabulary_english", ""),
-#                     "vocabulary_audio": vocab.get("vocabulary_audio", ""),
-#                     "word_type": vocab.get("word_type", ""),
-#                     "sentences": [
-#                         {
-#                             "sentence_japanese": sentence.get("sentence_japanese", ""),
-#                             "sentence_simplified": sentence.get("sentence_simplified", ""),
-#                             "sentence_romaji": sentence.get("sentence_romaji", ""),
-#                             "sentence_english": sentence.get("sentence_english", ""),
-#                             "sentence_audio": sentence.get("sentence_audio", ""),
-#                             "sentence_picture": sentence.get("sentence_picture", "")
-#                         }
-#                         for sentence in vocab.get("sentences", [])
-#                     ]
-#                 }
-#                 data.append(question)
-
-#             new_combined_data = f_adjust_frequency_and_shuffle(data)
-
-#             logging.info("Returning transformed data")
-#             return jsonify({"words": new_combined_data}), 200
-
-#     except Exception as e:
-#         logging.exception("An error occurred while processing the request")
-#         return jsonify({"error": str(e)}), 500
 
 
 # Endpoint to get, update, and delete vocabulary data
@@ -1132,11 +1033,11 @@ def text_parser_words():
             user_id = data.get("userId")
             difficulty = data.get("difficulty")
             collection_name = data.get("collectionName")
-            vocabulary_japanese = data.get("vocabulary_japanese")
+            vocabulary_original = data.get("vocabulary_original")
             p_tag = data.get("p_tag")
             s_tag = data.get("s_tag")
 
-            if not all([user_id, collection_name, p_tag, s_tag, vocabulary_japanese, difficulty]):
+            if not all([user_id, collection_name, p_tag, s_tag, vocabulary_original, difficulty]):
                 logging.error("Missing required parameters in POST request")
                 return jsonify({"error": "Missing required parameters"}), 400
 
@@ -1144,7 +1045,7 @@ def text_parser_words():
             result = vocabulary_collection.update_one(
                 {
                     "userId": user_id,
-                    "vocabulary_japanese": vocabulary_japanese,
+                    "vocabulary_original": vocabulary_original,
                     "p_tag": p_tag,
                     "s_tag": s_tag
                 },
@@ -1185,7 +1086,7 @@ def text_parser_words():
             data = []
             for vocab in user_vocabulary:
                 question = {
-                    "vocabulary_japanese": vocab.get("vocabulary_japanese", ""),
+                    "vocabulary_original": vocab.get("vocabulary_original", ""),
                     "vocabulary_simplified": vocab.get("vocabulary_simplified", ""),
                     "vocabulary_english": vocab.get("vocabulary_english", ""),
                     "vocabulary_audio": vocab.get("vocabulary_audio", ""),
@@ -1193,7 +1094,7 @@ def text_parser_words():
                     "notes": vocab.get("notes", ""),
                     "sentences": [
                         {
-                            "sentence_japanese": sentence.get("sentence_japanese", ""),
+                            "sentence_original": sentence.get("sentence_original", ""),
                             "sentence_simplified": sentence.get("sentence_simplified", ""),
                             "sentence_romaji": sentence.get("sentence_romaji", ""),
                             "sentence_english": sentence.get("sentence_english", ""),
@@ -1223,9 +1124,9 @@ def text_parser_words():
             collection_name = data.get("collectionName")
             p_tag = data.get("p_tag")
             s_tag = data.get("s_tag")
-            vocabulary_japanese = data.get("vocabulary_japanese")
+            vocabulary_original = data.get("vocabulary_original")
 
-            if not all([user_id, collection_name, p_tag, s_tag, vocabulary_japanese]):
+            if not all([user_id, collection_name, p_tag, s_tag, vocabulary_original]):
                 logging.error("Missing required parameters in DELETE request")
                 return jsonify({"error": "Missing required parameters"}), 400
 
@@ -1233,7 +1134,7 @@ def text_parser_words():
             result = vocabulary_collection.delete_one(
                 {
                     "userId": user_id,
-                    "vocabulary_japanese": vocabulary_japanese,
+                    "vocabulary_original": vocabulary_original,
                     "p_tag": p_tag,
                     "s_tag": s_tag
                 }

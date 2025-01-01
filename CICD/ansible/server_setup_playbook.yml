@@ -1,0 +1,107 @@
+---
+- name: Configure Hanabira Server
+  become: yes
+  hosts: all
+  tasks:
+    - name: Update the package repository cache
+      apt:
+        update_cache: yes
+
+    - name: Upgrade all server packages
+      apt:
+        upgrade: dist
+
+    - name: Install Nginx
+      apt:
+        name: nginx
+        state: present
+
+    - name: Ensure Nginx is enabled and started
+      service:
+        name: nginx
+        state: started
+        enabled: yes
+
+    - name: Install Podman
+      apt:
+        name: podman
+        state: present
+
+    - name: Install Podman Compose
+      apt:
+        name: podman-compose
+        state: present
+
+    - name: Enable and start Podman service
+      service:
+        name: podman
+        state: started
+        enabled: yes
+
+    - name: Create user 'coil'
+      user:
+        name: coil
+        shell: /bin/bash
+        create_home: yes
+
+    - name: Ensure Podman uses the 'cgroupfs' cgroup manager
+      lineinfile:
+        path: /etc/containers/containers.conf
+        regexp: "^cgroup_manager ="
+        line: 'cgroup_manager = "cgroupfs"'
+        create: yes
+
+    - name: Configure default registries for Podman
+      blockinfile:
+        path: /etc/containers/registries.conf
+        marker: "# {mark} MANAGED BY ANSIBLE"
+        block: |
+          unqualified-search-registries = ["docker.io"]
+
+    - name: Restart Podman service after configuration change
+      service:
+        name: podman
+        state: restarted
+
+    - name: Create 'hanabira' directory in coil's home
+      file:
+        path: /home/coil/hanabira
+        state: directory
+        owner: coil
+        group: coil
+        mode: "0740"
+
+    - name: Ensure docker-compose.yml is present in 'hanabira' directory
+      copy:
+        src: files/docker-compose_prod.yml
+        dest: /home/coil/hanabira/docker-compose.yml
+        owner: coil
+        group: coil
+        mode: "0640"
+
+    - name: Ensure /opt/data directory exists
+      file:
+        path: /opt/data
+        state: directory
+        # We will correct ownership below, but you could set them here as well.
+        mode: '0755'
+
+    - name: Mount /dev/sdb on /opt/data
+      mount:
+        path: /opt/data
+        src: /dev/sdb
+        fstype: ext4
+        state: mounted
+        opts: defaults
+        # Ensures the mount is added to /etc/fstab and mounted at boot
+        dump: 0
+        passno: 2
+
+    - name: Ensure /opt/data is owned by coil user
+      file:
+        path: /opt/data
+        owner: coil
+        group: coil
+        mode: '0755'
+        recurse: true  # Recursively set ownership/permissions
+        state: directory

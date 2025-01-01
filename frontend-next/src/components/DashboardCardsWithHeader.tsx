@@ -71,7 +71,7 @@ className="min-w-300 bg-slate-100 shadow rounded-md flex p-6 hover:scale-100 eas
         src={jlpt_universal_01}
       />
       <p className="ml-2 text-sm font-medium text-gray-700">
-        Zen Lingo
+        Hanabira
       </p>
     </div>
     <Link href={card.link}>
@@ -101,53 +101,3 @@ className="min-w-300 bg-slate-100 shadow rounded-md flex p-6 hover:scale-100 eas
 };
 
 export default DashboardCardsWithHeader;
-
-
-
-
-
-
-
-
-{/* <div
-key={card.id}
-className="bg-slate-100 shadow rounded-md flex p-6 hover:scale-100 ease-in duration-100 hover:bg-gray-200"
->
-<div className="w-2/3 p-4">
-  <Link href={card.link}>
-    <h3 className="text-lg font-medium text-gray-800">
-      {card.name}
-    </h3>
-  </Link>
-  <p className="mt-2 text-sm text-gray-500">{card.description}</p>
-  <div className="mt-4 flex justify-between">
-    <div className="flex items-center">
-      <Image
-        alt="profile"
-        className="h-8 w-8 object-cover rounded-full"
-        src={jlpt_universal_01}
-      />
-      <p className="ml-2 text-sm font-medium text-gray-700">
-        Zen Lingo
-      </p>
-    </div>
-    <Link href={card.link}>
-      <button className="bg-primary py-2 px-4 text-white rounded-md">
-        Learn More
-      </button>
-    </Link>
-  </div>
-</div>
-<div className="w-1/3">
-  <Image
-    alt="card image"
-    className="object-cover w-full h-full"
-    src={card.file}
-  />
-</div>
-</div> */}
-
-
-
-
-

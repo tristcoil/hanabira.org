@@ -61,16 +61,24 @@ Hanabira will be then accessible locally on:
 http://localhost:8888/
 
 If you cannot reach the website locally, we recommend to check if all containers are running and to clear browser cache.
+Sometimes new release will have breaking change in database (during early development), in such case delete `user_data` directory in the same directory where `docker-compose.yml` file is located.
 
 Optional: Check docker-compose.yml file for path to configs where you can insert your DEEPL, OpenAI and Google analytics API keys and tracking codes.
 
 
+
 Self hosted Hanabira in Virtual Box VM:
-![Hanabira Self Hosted in Virtual Box VM](prod/frontend-next/public/img/screenshots/hanabira_vm.png) 
+![Hanabira Self Hosted in Virtual Box VM](frontend-next/public/img/screenshots/hanabira_vm.png) 
 
 
-
-
+Build (and run) containers yourself locally:
+```bash
+git clone https://github.com/tristcoil/hanabira.org.git 
+cd hanabira.org 
+docker-compose build
+docker-compose up
+```
+These will miss audio files though, since audio is not part of the repo.
 
 
 
@@ -80,6 +88,9 @@ Note: Hanabira project has main upstream private repo, the public one contains o
 
 ## Contact
 For more information, visit [Hanabira.org](https://www.hanabira.org).
+
+Hanabira [Discord](https://discord.com/invite/afefVyfAkH)
+
 
 
 

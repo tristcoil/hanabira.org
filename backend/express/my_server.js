@@ -179,44 +179,44 @@ const getAllGrammars = async (req, res) => {
 };
 
 // --------------------- API ENDPOINTS --------------------- //
-app.get("/api/v1/words", (req, res) => {
+app.get("/e-api/v1/words", (req, res) => {
   //res.send('Hello World!')
   // call like to get subset of words, call without params to get all words
-  //curl -X GET http://localhost:8000/api/v1/words
-  //curl -X GET 'http://localhost:8000/api/v1/words?p_tag=JLPT_N3&s_tag=100'    //must use quotes
-  //curl -X GET 'http://localhost:8000/api/v1/words?p_tag=essential_600_verbs&s_tag=verbs-1'         //must use quotes
-  //curl -X GET 'http://localhost:8000/api/v1/words?p_tag=suru_essential_600_verbs&s_tag=verbs-1'    //must use quotes
+  //curl -X GET http://localhost:8000/e-api/v1/words
+  //curl -X GET 'http://localhost:8000/e-api/v1/words?p_tag=JLPT_N3&s_tag=100'    //must use quotes
+  //curl -X GET 'http://localhost:8000/e-api/v1/words?p_tag=essential_600_verbs&s_tag=verbs-1'         //must use quotes
+  //curl -X GET 'http://localhost:8000/e-api/v1/words?p_tag=suru_essential_600_verbs&s_tag=verbs-1'    //must use quotes
 
   console.log("received GET request");
   getAllWords(req, res);
 });
 
-app.get("/api/v1/tanos_words", (req, res) => {
+app.get("/e-api/v1/tanos_words", (req, res) => {
   //res.send('Hello World!')
   // call like to get subset of words, call without params to get all words
-  //curl -X GET http://localhost:8000/api/v1/tanos_words
-  //curl -X GET 'http://localhost:8000/api/v1/tanos_words?p_tag=JLPT_N3&s_tag=100'    //must use quotes
+  //curl -X GET http://localhost:8000/e-api/v1/tanos_words
+  //curl -X GET 'http://localhost:8000/e-api/v1/tanos_words?p_tag=JLPT_N3&s_tag=100'    //must use quotes
 
   console.log("received GET request");
   getAllTanosWords(req, res);
 });
 
-app.get("/api/v1/grammars", (req, res) => {
+app.get("/e-api/v1/grammars", (req, res) => {
   //res.send('Hello World!')
   // call like to get subset of words, call without params to get all words
-  //curl -X GET 'http://localhost:8000/api/v1/grammars?p_tag=JLPT_N3&s_tag=10'    //must use quotes
-  //curl -X GET 'http://localhost:8000/api/v1/grammars?p_tag=JLPT_N3'    //must use quotes
+  //curl -X GET 'http://localhost:8000/e-api/v1/grammars?p_tag=JLPT_N3&s_tag=10'    //must use quotes
+  //curl -X GET 'http://localhost:8000/e-api/v1/grammars?p_tag=JLPT_N3'    //must use quotes
 
   console.log("received GET request");
   getAllGrammars(req, res);
 });
 
-app.get("/api/v1/grammar-titles", async (req, res) => {
+app.get("/e-api/v1/grammar-titles", async (req, res) => {
   // gives list of all grammar titles for a given JLPT level
-  // curl -X GET 'http://localhost:8000/api/v1/grammar-titles?p_tag=JLPT_N3&type=encoded'
+  // curl -X GET 'http://localhost:8000/e-api/v1/grammar-titles?p_tag=JLPT_N3&type=encoded'
 
   // for URL encoding of grammar titles with spaces
-  // curl -X GET 'http://localhost:8000/api/v1/grammar-titles?p_tag=JLPT_N3&type=encoded'
+  // curl -X GET 'http://localhost:8000/e-api/v1/grammar-titles?p_tag=JLPT_N3&type=encoded'
 
   try {
     const pTag = req.query.p_tag;
@@ -263,10 +263,10 @@ app.get("/api/v1/grammar-titles", async (req, res) => {
 });
 
 // Define the new endpoint to fetch grammar details based on the title
-app.post("/api/v1/grammar-details", async (req, res) => {
+app.post("/e-api/v1/grammar-details", async (req, res) => {
   //gives only one grammar payload for given grammar title key
   // intended to populate one grammar page with only one grammar point
-  //curl -X POST -H "Content-Type: application/json" -d '{"title": "決して～ない (kesshite ~ nai)"}' http://localhost:8000/api/v1/grammar-details
+  //curl -X POST -H "Content-Type: application/json" -d '{"title": "決して～ない (kesshite ~ nai)"}' http://localhost:8000/e-api/v1/grammar-details
 
   try {
     const { title } = req.body;
@@ -290,7 +290,7 @@ app.post("/api/v1/grammar-details", async (req, res) => {
   }
 });
 
-app.post("/api/v1/vietnamese/grammar-details", async (req, res) => {
+app.post("/e-api/v1/vietnamese/grammar-details", async (req, res) => {
   try {
     const { title } = req.body;
 
@@ -313,7 +313,7 @@ app.post("/api/v1/vietnamese/grammar-details", async (req, res) => {
   }
 });
 
-app.post("/api/v1/korean/grammar-details", async (req, res) => {
+app.post("/e-api/v1/korean/grammar-details", async (req, res) => {
   try {
     const { title } = req.body;
 
@@ -339,7 +339,7 @@ app.post("/api/v1/korean/grammar-details", async (req, res) => {
   }
 });
 
-app.post("/api/v1/thai/grammar-details", async (req, res) => {
+app.post("/e-api/v1/thai/grammar-details", async (req, res) => {
   try {
     const { title } = req.body;
 
@@ -362,7 +362,7 @@ app.post("/api/v1/thai/grammar-details", async (req, res) => {
   }
 });
 
-app.post("/api/v1/mandarin/grammar-details", async (req, res) => {
+app.post("/e-api/v1/mandarin/grammar-details", async (req, res) => {
   try {
     const { title } = req.body;
 
@@ -388,9 +388,9 @@ app.post("/api/v1/mandarin/grammar-details", async (req, res) => {
 // ------------ kanji ---------------
 
 // GET endpoint to retrieve Kanji based on p_tag and optionally s_tag
-// curl "http://localhost:8000/api/v1/kanji?p_tag=JLPT_N3&s_tag=part_1"
-// curl "http://localhost:8000/api/v1/kanji?p_tag=JLPT_N3" - for only p_tag
-app.get("/api/v1/kanji", async (req, res) => {
+// curl "http://localhost:8000/e-api/v1/kanji?p_tag=JLPT_N3&s_tag=part_1"
+// curl "http://localhost:8000/e-api/v1/kanji?p_tag=JLPT_N3" - for only p_tag
+app.get("/e-api/v1/kanji", async (req, res) => {
   try {
     const { p_tag, s_tag } = req.query; // extracting p_tag and s_tag from the query parameters
 
@@ -422,7 +422,7 @@ app.get("/api/v1/kanji", async (req, res) => {
 
 // GET endpoint to retrieve a reading by its 'id' using a query parameter
 // curl -i -X GET 'http://localhost:8000/api/reading?key=reading_1'
-app.get("/api/v1/reading", async (req, res) => {
+app.get("/e-api/v1/reading", async (req, res) => {
   try {
     const { key } = req.query; // Extract the key from the query parameters
     console.log(key);

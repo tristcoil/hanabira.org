@@ -72,7 +72,7 @@ const connectToDb = async () => {
 
 // parent object
 const wordSchema = new Schema({
-  vocabulary_japanese: { type: String, unique: true, required: true },
+  vocabulary_original: { type: String, unique: true, required: true },
   vocabulary_simplified: String,
   vocabulary_english: { type: String, required: true },
   vocabulary_audio: String,
@@ -85,7 +85,7 @@ const wordSchema = new Schema({
 
 // child object
 const sentenceSchema = new Schema({
-  sentence_japanese: { type: String, unique: true, required: true },
+  sentence_original: { type: String, unique: true, required: true },
   sentence_simplified: String,
   sentence_english: { type: String, required: true },
   sentence_audio: String,
@@ -103,7 +103,7 @@ const Sentence = mongoose.model("Sentence", sentenceSchema);
 
 await Word.insertMany([
   {
-    vocabulary_japanese: "入場券",
+    vocabulary_original: "入場券",
     vocabulary_simplified: "にゅうじょうけん",
     vocabulary_english: "entrance ticket",
     word_type: "Verb",
@@ -113,7 +113,7 @@ await Word.insertMany([
 
 await Sentence.insertMany([
   {
-    sentence_japanese: "入場券は3000円です。",
+    sentence_original: "入場券は3000円です。",
     sentence_simplified: "にゅうじょう けん は 3000 えん です。",
     sentence_english: "The admission ticket is 3,000 yen.",
     sentence_audio: "/audio/sentences/s_入場券_20230121_入場券は3000円です.mp3",
@@ -131,7 +131,7 @@ await Sentence.insertMany([
 // const addSentenceRelationship = async (vocab) => {
 //   console.log("func processing vocab word: " + vocab);
 
-//   const word = await Word.findOne({ vocabulary_japanese: vocab });
+//   const word = await Word.findOne({ vocabulary_original: vocab });
 //   const tkt_sentences = await Sentence.find({ key: vocab });
 //   tkt_sentences.forEach((item, idx) => {
 //     console.log(idx);
@@ -144,7 +144,7 @@ await Sentence.insertMany([
 //   // join word with all found related sentences
 //   // this will bake in our word-sentences relationship
 //   console.log("populated word: ");
-//   Word.findOne({ vocabulary_japanese: vocab })
+//   Word.findOne({ vocabulary_original: vocab })
 //     .populate("sentences")
 //     .then((word) => console.log(word));
 // };
@@ -154,7 +154,7 @@ await Sentence.insertMany([
 const addSentenceRelationship = async (vocab) => {
   console.log("func processing vocab word: " + vocab);
   try {
-    const word = await Word.findOne({ vocabulary_japanese: vocab });
+    const word = await Word.findOne({ vocabulary_original: vocab });
     const tkt_sentences = await Sentence.find({ key: vocab });
     if (tkt_sentences.length === 0) {
       console.log("No sentences found for the given vocab: " + vocab);
@@ -167,7 +167,7 @@ const addSentenceRelationship = async (vocab) => {
       console.log(savedWord);
       console.log("populated word: ");
       const populatedWord = await Word.findOne({
-        vocabulary_japanese: vocab,
+        vocabulary_original: vocab,
       }).populate("sentences");
       console.log(populatedWord);
     }

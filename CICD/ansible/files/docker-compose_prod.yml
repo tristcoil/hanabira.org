@@ -1,0 +1,71 @@
+version: '3.8'
+
+services:
+  frontend-next:
+    image: coil/hanabira.org:frontend-next_blue
+    network_mode: "bridge"
+    extra_hosts:
+      - "localhost:host-gateway"    
+      - "host.docker.internal:host-gateway"
+    ports:
+      - "127.0.0.1:3000:3000" # Bind to localhost only
+    environment:
+      GA_MEASUREMENT_ID: 'G-P4SLLVSNCX' # Google Analytics measurement ID
+      #REACT_APP_HOST_IP: host.docker.internal # ${HOST_IP}
+      REACT_APP_HOST_IP: 'express-db'
+        #    depends_on:
+        # - express-db
+        #- flask-dynamic-db
+        #- dictionary-db
+    restart: unless-stopped
+    networks:
+      - hanabira-network
+
+  express-db:
+    image: coil/hanabira.org:express-db_blue
+    network_mode: "bridge"
+    extra_hosts:
+      - "localhost:host-gateway"
+      - "host.docker.internal:host-gateway"
+    ports:
+      - "127.0.0.1:8000:8000" # Bind to localhost only
+    environment:
+      # REACT_APP_HOST_IP: host.docker.internal # ${HOST_IP}
+      REACT_APP_HOST_IP: 'express-db'
+    restart: unless-stopped
+    networks:
+      - hanabira-network
+
+  flask-dynamic-db:
+    image: coil/hanabira.org:flask-dynamic-db_blue
+    network_mode: "bridge"
+    extra_hosts:
+      - "localhost:host-gateway"
+      - "host.docker.internal:host-gateway"
+    volumes:
+      - /opt/data/user_db:/data/db
+    ports:
+      - "127.0.0.1:5100:5100" # Bind to localhost only
+    restart: unless-stopped
+    networks:
+      - hanabira-network
+
+  dictionary-db:
+    image: coil/hanabira.org:dictionary-db_blue
+    network_mode: "bridge"
+    extra_hosts:
+      - "localhost:host-gateway"
+      - "host.docker.internal:host-gateway"
+    volumes:
+      - './config_dummy.json:/app/config.json'
+    ports:
+      - "127.0.0.1:5200:5200" # Bind to localhost only
+    restart: unless-stopped
+    networks:
+      - hanabira-network
+
+volumes:
+  user_db:
+
+networks:
+  hanabira-network:

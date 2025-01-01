@@ -60,11 +60,11 @@ const GrammarDashboard = ({
 
       let apiUrl;
       if (process.env.REACT_APP_HOST_IP) {
-        apiUrl = `http://${process.env.REACT_APP_HOST_IP}/api/v1/grammars?p_tag=${p_dashboardId}&s_tag=${s_dashboardId}`;
+        apiUrl = `http://${process.env.REACT_APP_HOST_IP}/e-api/v1/grammars?p_tag=${p_dashboardId}&s_tag=${s_dashboardId}`;
       } else {
-        //apiUrl = `http://localhost:7000/api/v1/grammars?p_tag=${p_dashboardId}&s_tag=${s_dashboardId}`;     // works well on localhost VM
-        //apiUrl = `https://hanabira.org/api/v1/grammars?p_tag=${p_dashboardId}&s_tag=${s_dashboardId}`;
-        apiUrl = `/api/v1/grammars?p_tag=${p_dashboardId}&s_tag=${s_dashboardId}`;      // works well on remote server
+        //apiUrl = `http://localhost:7000/e-api/v1/grammars?p_tag=${p_dashboardId}&s_tag=${s_dashboardId}`;     // works well on localhost VM
+        //apiUrl = `https://hanabira.org/e-api/v1/grammars?p_tag=${p_dashboardId}&s_tag=${s_dashboardId}`;
+        apiUrl = `/e-api/v1/grammars?p_tag=${p_dashboardId}&s_tag=${s_dashboardId}`;      // works well on remote server
       }
 
       console.log(apiUrl)

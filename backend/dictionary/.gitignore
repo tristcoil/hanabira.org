@@ -19,3 +19,4 @@ radkfile/
 simplified_json_data/
 all_jitendex_vocabulary_for_tts_gen/
 node_modules/
+app.log

@@ -13,7 +13,7 @@ class SentenceMiningModule:
         self.vocabulary_collection = self.sentence_mining_db["vocabulary"]
 
         # Initialize logging if needed
-        logging.basicConfig(level=logging.DEBUG)  # Set logging level to DEBUG
+        logging.basicConfig(level=logging.INFO)  # Set logging level to INFO
 
     def register_routes(self, app):
 
@@ -36,11 +36,12 @@ class SentenceMiningModule:
                 "difficulty": data.get("difficulty"),
                 "p_tag": data.get("p_tag"),
                 "s_tag": data.get("s_tag"),
+                "lang": data.get("lang"),
                 "sentences": data.get("sentences", []),
                 "userId": user_id,
                 "vocabulary_audio": data.get("vocabulary_audio"),
                 "vocabulary_english": data.get("vocabulary_english"),
-                "vocabulary_japanese": data.get("vocabulary_japanese"),
+                "vocabulary_original": data.get("vocabulary_original"),
                 "vocabulary_simplified": data.get("vocabulary_simplified"),
                 "word_type": data.get("word_type"),
                 "notes": data.get("notes", ""),
@@ -81,7 +82,7 @@ class SentenceMiningModule:
         #         "userId": user_id,
         #         "vocabulary_audio": data.get("vocabulary_audio"),
         #         "vocabulary_english": data.get("vocabulary_english"),
-        #         "vocabulary_japanese": data.get("vocabulary_japanese"),
+        #         "vocabulary_original": data.get("vocabulary_original"),
         #         "vocabulary_simplified": data.get("vocabulary_simplified"),
         #         "word_type": data.get("word_type"),
         #         "notes": data.get("notes", ""),
@@ -91,7 +92,7 @@ class SentenceMiningModule:
         #     insert_result = self.vocabulary_collection.update_one(
         #         {
         #             "userId": user_id,
-        #             "vocabulary_japanese": data.get("vocabulary_japanese"),
+        #             "vocabulary_original": data.get("vocabulary_original"),
         #         },
         #         {"$set": vocabulary_document},
         #         upsert=True,
@@ -147,7 +148,7 @@ class SentenceMiningModule:
                 for vocab in user_vocabulary:
                     question = {
                         "id": str(vocab["_id"]),
-                        "vocabulary_japanese": vocab.get("vocabulary_japanese", ""),
+                        "vocabulary_original": vocab.get("vocabulary_original", ""),
                         "vocabulary_simplified": vocab.get("vocabulary_simplified", ""),
                         "vocabulary_english": vocab.get("vocabulary_english", ""),
                         "vocabulary_audio": vocab.get("vocabulary_audio", ""),
@@ -155,7 +156,7 @@ class SentenceMiningModule:
                         "notes": vocab.get("notes", ""),
                         "sentences": [
                             {
-                                "sentence_japanese": sentence.get("sentence_japanese", ""),
+                                "sentence_original": sentence.get("sentence_original", ""),
                                 "sentence_simplified": sentence.get("sentence_simplified", ""),
                                 "sentence_romaji": sentence.get("sentence_romaji", ""),
                                 "sentence_english": sentence.get("sentence_english", ""),
@@ -185,7 +186,7 @@ class SentenceMiningModule:
         #   "userId": "testUser",
         #   "difficulty": "easy",
         #   "collectionName": "vocabulary",
-        #   "vocabulary_japanese": "紹介",
+        #   "vocabulary_original": "紹介",
         #   "p_tag": "sentence_mining",
         #   "s_tag": "verbs-1"
         # }' "http://localhost:5100/f-api/v1/text-parser-words"
@@ -199,9 +200,10 @@ class SentenceMiningModule:
 
                 user_id = data.get("userId")
                 collection_name = data.get("collectionName")
-                vocabulary_japanese = data.get("vocabulary_japanese")
+                vocabulary_original = data.get("vocabulary_original")
                 p_tag = data.get("p_tag")
                 s_tag = data.get("s_tag")
+                lang = data.get("lang")
                 difficulty = data.get("difficulty", "")
                 vocabulary_simplified = data.get("vocabulary_simplified", "")
                 vocabulary_english = data.get("vocabulary_english", "")
@@ -210,16 +212,17 @@ class SentenceMiningModule:
                 notes = data.get("notes", "")
                 sentences = data.get("sentences", [])
 
-                if not all([user_id, collection_name, p_tag, s_tag, vocabulary_japanese]):
+                if not all([user_id, collection_name, p_tag, s_tag, vocabulary_original]):
                     logging.error("Missing required parameters in POST request")
                     return jsonify({"error": "Missing required parameters"}), 400
 
                 doc = {
                     "userId": user_id,
                     "collection_name": collection_name,
-                    "vocabulary_japanese": vocabulary_japanese,
+                    "vocabulary_original": vocabulary_original,
                     "p_tag": p_tag,
                     "s_tag": s_tag,
+                    "lang": lang,
                     "difficulty": difficulty,
                     "vocabulary_simplified": vocabulary_simplified,
                     "vocabulary_english": vocabulary_english,
@@ -236,6 +239,52 @@ class SentenceMiningModule:
             except Exception as e:
                 logging.exception("An error occurred while processing the POST request")
                 return jsonify({"error": str(e)}), 500
+
+
+        # -------------------------------------------------------------------------------------
+        # PATCH Endpoint
+        # Update an existing vocabulary record by its ID
+        #
+        # Example curl:
+        # curl -X PATCH -H "Content-Type: application/json" \
+        # -d '{"difficulty": "medium"}' \
+        # "http://localhost:5100/f-api/v1/text-parser-words/INSERT_RECORD_ID_HERE"
+        # -------------------------------------------------------------------------------------
+        @app.route("/f-api/v1/text-parser-words/<string:record_id>", methods=["PATCH"])
+        def update_vocabulary_record(record_id):
+            logging.info(f"Processing PATCH request for /f-api/v1/text-parser-words/{record_id}")
+            try:
+                data = request.json
+                logging.info(f"Request data for PATCH: {data}")
+
+                # Convert record_id to ObjectId
+                from bson import ObjectId
+                filter_query = {"_id": ObjectId(record_id)}
+
+                # You can allow partial updates for any field you like,
+                # but here we focus on 'difficulty' as an example.
+                update_doc = {"$set": {}}
+                if "difficulty" in data:
+                    update_doc["$set"]["difficulty"] = data["difficulty"]
+
+                # Add other optional fields if needed:
+                # if "notes" in data: update_doc["$set"]["notes"] = data["notes"]
+
+                result = self.vocabulary_collection.update_one(filter_query, update_doc)
+
+                if result.matched_count == 0:
+                    logging.error(f"No document found with id {record_id}")
+                    return jsonify({"error": "Document not found"}), 404
+
+                logging.info("Document updated successfully")
+                return jsonify({"message": "Document updated successfully"}), 200
+
+            except Exception as e:
+                logging.exception("An error occurred while processing the PATCH request")
+                return jsonify({"error": str(e)}), 500
+
+
+
 
 
         # -------------------------------------------------------------------------------------
@@ -295,171 +344,3 @@ class SentenceMiningModule:
 
 
         # ------------------------------------- serving custom vocab cards -------------------------------------- #
-
-        # we can have multiple mined sentences for each word, so this way we return all the mined sentences as well
-        # which can be useful for learning
-
-        # here we are getting sentence mined words from user dynamic DB, I think we have separate db just for that
-        # so best to have also separate API endpoint, the difficulty frequency function is common for various endpoints though
-        # curl -X GET -H "Content-Type: application/json" "http://localhost:5100/f-api/v1/text-parser-words?userId=testUser&collectionName=vocabulary&p_tag=sentence_mining&s_tag=verbs-1"
-        # curl -X POST -H "Content-Type: application/json" -d '{
-        #   "userId": "testUser",
-        #   "difficulty": "easy",
-        #   "collectionName": "vocabulary",
-        #   "vocabulary_japanese": "紹介",
-        #   "p_tag": "sentence_mining",
-        #   "s_tag": "verbs-1"
-        # }' "http://localhost:5100/f-api/v1/text-parser-words"
-        # @app.route("/f-api/v1/text-parser-words", methods=["GET", "POST", "DELETE"])
-        # def text_parser_words():
-        #     logging.info("Received request to /f-api/v1/text-parser-words")
-
-        #     try:
-        #         if request.method == "POST":
-        #             logging.info("Processing POST request")
-        #             data = request.json
-        #             logging.info(f"Request data: {data}")
-
-        #             user_id = data.get("userId")
-        #             difficulty = data.get("difficulty")
-        #             collection_name = data.get("collectionName")
-        #             vocabulary_japanese = data.get("vocabulary_japanese")
-        #             p_tag = data.get("p_tag")
-        #             s_tag = data.get("s_tag")
-
-        #             if not all(
-        #                 [
-        #                     user_id,
-        #                     collection_name,
-        #                     p_tag,
-        #                     s_tag,
-        #                     vocabulary_japanese,
-        #                     difficulty,
-        #                 ]
-        #             ):
-        #                 logging.error("Missing required parameters in POST request")
-        #                 return jsonify({"error": "Missing required parameters"}), 400
-
-        #             logging.info("Updating difficulty in the vocabulary collection")
-        #             result = self.vocabulary_collection.update_one(
-        #                 {
-        #                     "userId": user_id,
-        #                     "vocabulary_japanese": vocabulary_japanese,
-        #                     "p_tag": p_tag,
-        #                     "s_tag": s_tag,
-        #                 },
-        #                 {"$set": {"difficulty": difficulty}},
-        #             )
-
-        #             if result.matched_count == 0:
-        #                 logging.error("No matching document found for update")
-        #                 return jsonify({"error": "No matching document found"}), 404
-
-        #             logging.info("Difficulty updated successfully")
-        #             return jsonify({"message": "Difficulty updated successfully"}), 200
-
-        #         elif request.method == "GET":
-        #             logging.info("Processing GET request")
-        #             data = request.args.to_dict()
-        #             logging.info(f"Query string data: {data}")
-
-        #             user_id = data.get("userId")
-        #             collection_name = data.get("collectionName")
-        #             p_tag = data.get("p_tag")
-        #             s_tag = data.get("s_tag")
-
-        #             if not all([user_id, collection_name, p_tag, s_tag]):
-        #                 logging.error("Missing required parameters in GET request")
-        #                 return jsonify({"error": "Missing required parameters"}), 400
-
-        #             logging.info("Fetching user-specific vocabulary data")
-        #             user_vocabulary = list(
-        #                 self.vocabulary_collection.find(
-        #                     {"userId": user_id, "p_tag": p_tag, "s_tag": s_tag}
-        #                 )
-        #             )
-
-        #             logging.info("Transforming data into the expected format")
-        #             transformed_data = []
-        #             for vocab in user_vocabulary:
-        #                 question = {
-        #                     "vocabulary_japanese": vocab.get("vocabulary_japanese", ""),
-        #                     "vocabulary_simplified": vocab.get(
-        #                         "vocabulary_simplified", ""
-        #                     ),
-        #                     "vocabulary_english": vocab.get("vocabulary_english", ""),
-        #                     "vocabulary_audio": vocab.get("vocabulary_audio", ""),
-        #                     "word_type": vocab.get("word_type", ""),
-        #                     "notes": vocab.get("notes", ""),
-        #                     "sentences": [
-        #                         {
-        #                             "sentence_japanese": sentence.get(
-        #                                 "sentence_japanese", ""
-        #                             ),
-        #                             "sentence_simplified": sentence.get(
-        #                                 "sentence_simplified", ""
-        #                             ),
-        #                             "sentence_romaji": sentence.get(
-        #                                 "sentence_romaji", ""
-        #                             ),
-        #                             "sentence_english": sentence.get(
-        #                                 "sentence_english", ""
-        #                             ),
-        #                             "sentence_audio": sentence.get(
-        #                                 "sentence_audio", ""
-        #                             ),
-        #                             "sentence_picture": sentence.get(
-        #                                 "sentence_picture", ""
-        #                             ),
-        #                         }
-        #                         for sentence in vocab.get("sentences", [])
-        #                     ],
-        #                 }
-        #                 transformed_data.append(question)
-
-        #             logging.info("Returning transformed data")
-        #             return jsonify({"words": transformed_data}), 200
-
-        #         elif request.method == "DELETE":
-        #             logging.info("Processing DELETE request")
-        #             data = request.json
-        #             logging.info(f"Request data: {data}")
-
-        #             user_id = data.get("userId")
-        #             collection_name = data.get("collectionName")
-        #             p_tag = data.get("p_tag")
-        #             s_tag = data.get("s_tag")
-        #             vocabulary_japanese = data.get("vocabulary_japanese")
-
-        #             if not all(
-        #                 [user_id, collection_name, p_tag, s_tag, vocabulary_japanese]
-        #             ):
-        #                 logging.error("Missing required parameters in DELETE request")
-        #                 return jsonify({"error": "Missing required parameters"}), 400
-
-        #             logging.info("Deleting vocabulary from the collection")
-        #             result = self.vocabulary_collection.delete_one(
-        #                 {
-        #                     "userId": user_id,
-        #                     "vocabulary_japanese": vocabulary_japanese,
-        #                     "p_tag": p_tag,
-        #                     "s_tag": s_tag,
-        #                 }
-        #             )
-
-        #             if result.deleted_count == 0:
-        #                 logging.error("No matching document found for deletion")
-        #                 return jsonify({"error": "No matching document found"}), 404
-
-        #             logging.info("Vocabulary deleted successfully")
-        #             return jsonify({"message": "Vocabulary deleted successfully"}), 200
-
-        #     except Exception as e:
-        #         logging.exception("An error occurred while processing the request")
-        #         return jsonify({"error": str(e)}), 500
-
-
-
-
-
-

@@ -1,0 +1,70 @@
+---
+- name: Install Nginx on Ubuntu 24.04
+  become: yes
+  hosts: all
+  tasks:
+    - name: Install snapd
+      apt:
+        name: snapd
+        state: present
+
+    - name: Ensure snapd is enabled
+      systemd:
+        name: snapd
+        enabled: yes
+
+    - name: Ensure snapd is running
+      service:
+        name: snapd
+        state: started
+        enabled: yes
+
+    - name: Install Certbot
+      command: snap install --classic certbot
+
+    - name: Create symbolic link for Certbot
+      file:
+        src: /snap/bin/certbot
+        dest: /usr/bin/certbot
+        state: link
+
+    - name: Create a simple default Nginx configuration
+      copy:
+        content: |
+          server {
+              listen 80 default_server;
+              listen [::]:80 default_server;
+
+              server_name _;
+
+              location / {
+                  return 200 "Welcome to Nginx default server!";
+                  add_header Content-Type text/plain;
+              }
+          }
+        dest: /etc/nginx/sites-enabled/default
+        owner: root
+        group: root
+        mode: '0644'
+
+
+    - name: Obtain SSL certificates for hanabira.org
+      command: certbot --nginx -d hanabira.org --non-interactive --agree-tos -m admin@hanabira.org
+
+    - name: Remove default Nginx configuration file
+      file:
+        path: /etc/nginx/sites-enabled/default
+        state: absent
+
+    - name: Copy the Nginx configuration file for hanabira.org
+      copy:
+        src: nginx/hanabira.org
+        dest: /etc/nginx/sites-enabled/hanabira.org
+        owner: root
+        group: root
+        mode: '0644'
+
+    - name: Restart Nginx after copying configuration
+      service:
+        name: nginx
+        state: restarted

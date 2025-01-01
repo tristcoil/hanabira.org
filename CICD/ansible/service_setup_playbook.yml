@@ -1,0 +1,66 @@
+---
+- name: Configure Hanabira Service
+  become: yes
+  hosts: all
+  tasks:
+    - name: Ensure XDG_RUNTIME_DIR is set for user
+      lineinfile:
+        path: /home/coil/.bashrc
+        line: "export XDG_RUNTIME_DIR=/run/user/$(id -u)"
+        state: present
+      become: yes
+      become_user: coil
+
+    - name: Enable lingering for the 'coil' user
+      command: loginctl enable-linger coil
+
+    - name: Create systemd user directory
+      file:
+        path: /home/coil/.config/systemd/user
+        state: directory
+        owner: coil
+        group: coil
+        mode: '0755'
+      become: yes
+      become_user: coil
+
+    - name: Create systemd service file for Hanabira
+      copy:
+        dest: /home/coil/.config/systemd/user/hanabira.service
+        content: |
+          [Unit]
+          Description=Universal Hanabira Podman Containers
+          After=network-online.target
+          Wants=network-online.target
+
+          [Service]
+          Type=exec
+          ExecStart=/usr/bin/podman-compose up
+          ExecStop=/usr/bin/podman-compose down
+          WorkingDirectory=/home/coil/hanabira
+          Environment=XDG_RUNTIME_DIR=/run/user/%U
+          TimeoutStartSec=90
+          TimeoutStopSec=90
+          Restart=on-failure
+          RestartSec=10
+          StandardOutput=append:/home/coil/hanabira/hanabira.log
+          StandardError=append:/home/coil/hanabira/hanabira-error.log
+
+          [Install]
+          WantedBy=default.target
+      become_user: coil
+
+    - name: Reload systemd daemon
+      shell: |
+        export XDG_RUNTIME_DIR=/run/user/$(id -u)
+        systemctl --user daemon-reload
+      become: yes
+      become_user: coil
+
+    - name: Enable and start Hanabira service
+      shell: |
+        export XDG_RUNTIME_DIR=/run/user/$(id -u)
+        systemctl --user enable hanabira.service
+        systemctl --user start hanabira.service
+      become: yes
+      become_user: coil

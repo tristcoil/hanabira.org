@@ -4,6 +4,27 @@ import { useState, useEffect } from "react";
 import Link from "next/link";
 import Cookies from "js-cookie";
 
+
+
+import LoginButton from "@/components/LoginButton";
+import UserDisplay from "@/components/UserDisplay";
+
+// import { Providers } from "../app/providers";
+
+// const HomePage: React.FC = () => {
+//   return (
+//     <Providers>
+//       <LoginButton />
+//       <UserDisplay />
+//       </Providers>
+//   );
+// };
+
+
+
+
+
+
 interface LoginData {
   date: string;
   count: number;
@@ -112,6 +133,7 @@ export default function Sidebar() {
   // --- //
 
   return (
+    // <Providers>
     <div className="flex flex-col items-center p-1 border-r border-gray-200 dark:border-gray-600 fixed w-full bg-slate-100 dark:bg-gray-800 lg:sticky top-0 z-20">
       <div className="flex lg:flex-col items-center justify-between w-full p-1 px-4 lg:p-0">
         <div className="text-center lg:mt-3">
@@ -147,16 +169,27 @@ export default function Sidebar() {
             hanabira.org
           </p>
           <p className=" lg:flex ml-3 text-blue-900/90 dark:text-blue-300/60 text-left text-xs">
-            Public Alpha v0.3.5
+            Public Alpha v0.3.6
+          </p>
+          <p className=" lg:flex ml-3 text-blue-900/90 dark:text-blue-300/60 text-left text-xs">
+            Free Open-Source
           </p>
           {/* <p className="lg:hidden mt-2 ml-3 text-sm text-blue-900/60 dark:text-blue-300/60">
             Your journey to Japanese fluency (JLPT N5-N1).
           </p> */}
         </div>
 
-        <div className="hidden lg:flex flex-col w-full">
-          <div className="flex flex-col items-center justify-center space-y-4 mt-4">
-            {/* Conditionally render login/logout button based on login status */}
+
+
+
+
+
+        <div className=" items-center hidden lg:flex flex-col w-full">
+
+        <UserDisplay />
+        <LoginButton />
+
+          {/* <div className="flex flex-col items-center justify-center space-y-4 mt-4">
             {loggedIn ? (
               <div className="text-center">
                 <p className="text-lg font-bold text-primary dark:text-white mb-2">
@@ -183,7 +216,7 @@ export default function Sidebar() {
                 Login
               </button>
             )}
-          </div>
+          </div> */}
 
           <div className="flex flex-col w-full mt-10">
             <hr />
@@ -248,8 +281,17 @@ export default function Sidebar() {
             >
               Essential Japanese verbs
             </Link>
+            <Link
+              href="/japanese/vocabulary_selection/JLPT_N3"
+              className="dashboardOption"
+            >
+              JLPT N3 Vocabulary
+            </Link>
             <Link href="/japanese/kanji" className="dashboardOption">
               Kanji
+            </Link>
+            <Link href="/japanese/kanji-mnemonics" className="dashboardOption">
+              Kanji Mnemonics
             </Link>
             <Link href="/japanese/flashcards" className="dashboardOption">
               SRS Flashcards
@@ -303,12 +345,12 @@ export default function Sidebar() {
               Blog
             </Link> */}
 
-            <Link
+            {/* <Link
               href="/langs/mandarin/grammarlist"
               className="dashboardOption"
             >
               Chinese Grammar
-            </Link>
+            </Link> */}
 
             {/* <Link
               href="/langs/vietnamese/grammarlist"
@@ -467,13 +509,22 @@ export default function Sidebar() {
             Songify vocabulary{" "}
           </Link> */}
 
-          <Link
+          {/* <Link
             onClick={showMenu}
             className="border-b py-2 text-black dark:text-white"
             href="/japanese/kanji"
           >
             {" "}
             Kanji{" "}
+          </Link> */}
+
+          <Link
+            onClick={showMenu}
+            className="border-b py-2 text-black dark:text-white"
+            href="/japanese/kanji-mnemonics"
+          >
+            {" "}
+            Kanji Mnemonics{" "}
           </Link>
 
           {/* <Link
@@ -625,6 +676,7 @@ export default function Sidebar() {
         </div>
       </div>
     </div>
+    // </Providers>
   );
 }
 

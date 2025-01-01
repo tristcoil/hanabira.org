@@ -4,25 +4,29 @@ version: '3.8'
 
 services:
   frontend-next:
+    build:
+      context: ./frontend-next
     image: coil/hanabira.org:frontend-next
     environment:
-      REACT_APP_HOST_IP: 'nginx'
-      GA_MEASUREMENT_ID: '' # Google Analytics measurement ID
-    depends_on:
-      - express-db
-      - flask-dynamic-db
-      - dictionary-db
+      REACT_APP_HOST_IP: 'express-db'
+      GA_MEASUREMENT_ID: '' # Google Analytics measurement ID 
     restart: unless-stopped
     networks:
       - hanabira-network
 
   express-db:
+    build:
+      context: ./backend/express
     image: coil/hanabira.org:express-db
+    environment:
+      REACT_APP_HOST_IP: 'express-db'
     restart: unless-stopped
     networks:
       - hanabira-network
 
   flask-dynamic-db:
+    build:
+      context: ./backend/flask
     image: coil/hanabira.org:flask-dynamic-db
     volumes:
       - ./user_db:/data/db
@@ -31,6 +35,8 @@ services:
       - hanabira-network
 
   dictionary-db:
+    build:
+      context: ./backend/dictionary
     image: coil/hanabira.org:dictionary-db
     volumes:
       - './config_dummy.json:/app/config.json'
@@ -44,11 +50,6 @@ services:
       - '8888:80'
     volumes:
       - ./nginx.conf:/etc/nginx/conf.d/default.conf:ro
-    depends_on:
-      - frontend-next
-      - express-db
-      - flask-dynamic-db
-      - dictionary-db
     restart: unless-stopped
     networks:
       - hanabira-network

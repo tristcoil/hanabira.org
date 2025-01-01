@@ -10,7 +10,7 @@ function Disclaimer() {
       <div className="w-full mr-5">
         <button
           onClick={() => setIsOpen(!isOpen)}
-          className="text-left text-sm font-bold flex items-center justify-between w-full p-4 bg-blue-100 text-blue-800 rounded-md border border-blue-200 hover:bg-blue-200 transition-colors"
+          className="text-left text-sm font-bold flex items-center justify-between w-full p-1 bg-blue-100 text-blue-800 rounded-md border border-blue-200 hover:bg-blue-200 transition-colors"
         >
           Disclaimer
           <svg
@@ -33,14 +33,14 @@ function Disclaimer() {
           <div className="mt-2 p-4 bg-blue-50 text-blue-900 rounded-md border border-blue-200 shadow-sm">
             <p className="text-xs">
               Japanese text parser is using Mecab, KuroShiro, Jitendex, JMDICT,
-              KANJIDIC, Deepl (for translations) and Chat GPT for grammar
+              KANJIDIC, Deepl and Chat GPT for translations and grammar
               explanations. We have noticed that Mecab parser is sometimes
               injecting incorrect furigana above single kanji words. But when we
               use KuroShiro on the whole sentence, we typically get correct
               furigana injections. Also Chat GPT and Deepl sometimes make
-              mistakes. But overall we would say that the text reading assistant
-              is reliable tool in general. It is expected that reader will have
-              some basic knowledge of Japanese when using this tool.
+              mistakes. It is expected that reader will have
+              some basic knowledge of Japanese when using this tool. 
+              Using Yomitan browser extension also might prove useful while reading.
             </p>
             <p className="text-xs mt-2">
               Keep in mind that automatic translations made by DEEPL/Chat GPT may

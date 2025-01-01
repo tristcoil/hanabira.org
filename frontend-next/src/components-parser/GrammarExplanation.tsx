@@ -77,7 +77,7 @@ const GrammarExplanation: React.FC<DisplayWordProps> = ({
   }, [sentence]);
 
   return (
-    <div className="bg-slate-100 p-4 shadow-lg rounded-md text-black mb-4 w-full prose mx-auto">
+    <div className="bg-slate-100 p-4 shadow-lg rounded-md text-black mb-2 w-full prose mx-auto overflow-y-auto max-h-[700px]">
       <div className="text-lg font-bold text-gray-800">
         Clicked Word: <span className="text-blue-600">{word || "None"}</span>
       </div>
@@ -98,10 +98,10 @@ const GrammarExplanation: React.FC<DisplayWordProps> = ({
       </div>
 
       {markdown && (
-        <div className="mt-6 p-4 bg-white shadow-md rounded-lg">
+        <div className="mt-0 p-2 bg-white shadow-md rounded-lg">
           <h2 className="text-xl font-semibold mb-4">Grammar Explanation</h2>
 
-          <div className="prose max-w-full overflow-y-auto max-h-[700px]">
+          <div className="prose max-w-full">
             <ReactMarkdown>{markdown}</ReactMarkdown>
           </div>
 
@@ -115,7 +115,7 @@ const GrammarExplanation: React.FC<DisplayWordProps> = ({
       {word && (
         <button
           onClick={handleGenerateMarkdown}
-          className="mt-2 bg-blue-500 text-white text-xs px-4 py-2 rounded-md hover:bg-blue-600 focus:outline-none focus:ring focus:ring-blue-500"
+          className="mt-2 bg-blue-500 text-white text-xs px-4 py-2 rounded-md hover:bg-blue-600 focus:outline-none focus:ring focus:ring-blue-500 mb-20"
         >
           {loading
             ? "Generating..."

@@ -69,46 +69,93 @@ const KanjiDisplay: React.FC<KanjiDisplayProps> = ({ word, url0, url1 }) => {
     }
   };
 
-  return (
-    <div className="mt-8 space-y-6">
-      <h2 className="text-xl font-semibold">Kanji Details:</h2>
-      {isLoading ? (
-        <p>Loading...</p>
-      ) : error ? (
-        <p className="text-red-500 text-center">{error}</p>
-      ) : (
-        kanjiDetails.map((kanji, index) => (
-          <div
-            key={index}
-            className="border bg-gray-200 text-gray-700 p-6 rounded-lg shadow-lg space-y-2"
-          >
-            <h3 className="text-4xl font-bold">{kanji.literal}</h3>
-            <p>
-              <strong>Readings:</strong>{" "}
-              {kanji.readings
-                ?.map((reading) => `${reading.type}: ${reading.value}`)
-                .join(", ")}
-            </p>
-            <p>
-              <strong>Meanings:</strong> {kanji.meanings?.join(", ")}
-            </p>
-            <p>
-              <strong>Stroke Count:</strong> {kanji.stroke_count}
-            </p>
-            <p>
-              <strong>Grade:</strong> {kanji.grade}
-            </p>
-            <p>
-              <strong>JLPT Level:</strong> {kanji.jlpt_level}
-            </p>
-            <p>
-              <strong>Frequency:</strong> {kanji.frequency}
-            </p>
+//   return (
+//     <div className="mt-8 space-y-6">
+//       <h2 className="text-xl font-semibold">Kanji Details:</h2>
+//       {isLoading ? (
+//         <p>Loading...</p>
+//       ) : error ? (
+//         <p className="text-red-500 text-center">{error}</p>
+//       ) : (
+//         kanjiDetails.map((kanji, index) => (
+//           <div
+//             key={index}
+//             className="border bg-gray-200 text-gray-700 p-6 rounded-lg shadow-lg space-y-2"
+//           >
+//             <h3 className="text-4xl font-bold">{kanji.literal}</h3>
+//             <p>
+//               <strong>Readings:</strong>{" "}
+//               {kanji.readings
+//                 ?.map((reading) => `${reading.type}: ${reading.value}`)
+//                 .join(", ")}
+//             </p>
+//             <p>
+//               <strong>Meanings:</strong> {kanji.meanings?.join(", ")}
+//             </p>
+//             <p>
+//               <strong>Stroke Count:</strong> {kanji.stroke_count}
+//             </p>
+//             <p>
+//               <strong>Grade:</strong> {kanji.grade}
+//             </p>
+//             <p>
+//               <strong>JLPT Level:</strong> {kanji.jlpt_level}
+//             </p>
+//             <p>
+//               <strong>Frequency:</strong> {kanji.frequency}
+//             </p>
+//           </div>
+//         ))
+//       )}
+//     </div>
+//   );
+// };
+
+
+return (
+  <div className="mt-2 max-h-[80vh] overflow-y-auto">
+    <h2 className="text-xl font-semibold mb-2">Kanji Details:</h2>
+    <div className="mb-12">
+    {isLoading ? (
+      <p>Loading...</p>
+    ) : error ? (
+      <p className="text-red-500 text-center">{error}</p>
+    ) : (
+      kanjiDetails.map((kanji, index) => (
+        <div
+          key={index}
+          className="border bg-gray-200 text-gray-700 p-6 rounded-lg shadow-lg space-y-2 mb-2"
+        >
+          <h3 className="text-4xl font-bold">{kanji.literal}</h3>
+          <p>
+            <strong>Readings:</strong>{" "}
+            {kanji.readings
+              ?.map((reading) => `${reading.type}: ${reading.value}`)
+              .join(", ")}
+          </p>
+          <p>
+            <strong>Meanings:</strong> {kanji.meanings?.join(", ")}
+          </p>
+          <p>
+            <strong>Stroke Count:</strong> {kanji.stroke_count}
+          </p>
+          <p>
+            <strong>Grade:</strong> {kanji.grade}
+          </p>
+          <p>
+            <strong>JLPT Level:</strong> {kanji.jlpt_level}
+          </p>
+          <p>
+            <strong>Frequency:</strong> {kanji.frequency}
+          </p>
+        </div>
+
+      ))
+    )}
           </div>
-        ))
-      )}
-    </div>
-  );
+  </div>
+);
 };
+
 
 export default KanjiDisplay;

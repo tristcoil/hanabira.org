@@ -15,6 +15,7 @@ import Head from "next/head";
 import { GoogleAnalytics } from '@next/third-parties/google'
 import { GoogleTagManager } from '@next/third-parties/google'
 
+import { Providers } from "./providers";
 
 // we use config.json now instead, keeping it commented here, it is public anyways
 // const GA_MEASUREMENT_ID = "G-P4SLLVSNCX"; // your hanabira.org code
@@ -36,6 +37,7 @@ export default function RootLayout({
   children: React.ReactNode;
 }) {
   return (
+    <Providers>
     <html lang="en">
       <Head>
         {/* Primary Meta Tags */}
@@ -104,6 +106,7 @@ export default function RootLayout({
       <GoogleAnalytics gaId={GA_MEASUREMENT_ID} />
       {/* <GoogleTagManager gtmId={GA_MEASUREMENT_ID} /> */}
     </html>
+    </Providers>
   );
 }
 

@@ -165,9 +165,9 @@ const seedDatabase = async (languageCode, grammarData) => {
 // Example usage for Vietnamese and other languages
 // Replace these with actual calls to your data sources
 const languagesToSeed = [
-  { code: "vn", data: grammar_vn_data }, // Assuming grammar_vn_data is an array of grammar objects
-  { code: "cn", data: grammar_cn_data },
-  { code: "th", data: grammar_th_data },
+  //{ code: "vn", data: grammar_vn_data },
+  //{ code: "cn", data: grammar_cn_data },
+  //{ code: "th", data: grammar_th_data },
   { code: "kr", data: grammar_kr_data },
   // Add other languages here when available
 ];

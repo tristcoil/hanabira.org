@@ -5,7 +5,7 @@ from flask_cors import CORS
 from flask_pymongo import PyMongo
 
 logging.basicConfig(
-    level=logging.DEBUG,
+    level=logging.INFO,
     format="%(asctime)s %(levelname)s %(name)s %(threadName)s : %(message)s",
 )
 
@@ -23,7 +23,7 @@ flask_port = 5100
 # Determine the environment (dev or prod) to use the correct port
 # Reading environment variable with a default value of "dev"
 # env var is baked into Dockerfile
-env = os.getenv("FLASK_ENV", "dev")    # prod/dev
+env = os.getenv("APP_ENV", "dev")    # prod/dev
 port = "8000"  # port of static DB container
 host = "host.docker.internal" if env == "prod" else "localhost"
 

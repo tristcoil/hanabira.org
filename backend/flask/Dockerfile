@@ -6,7 +6,8 @@ ENV DEBIAN_FRONTEND=noninteractive
 # Define environment variable
 ENV FLASK_APP=app.py
 ENV FLASK_RUN_HOST=0.0.0.0
-ENV FLASK_ENV=prod
+
+ENV APP_ENV=prod
 
 
 RUN apt-get update
@@ -59,4 +60,4 @@ EXPOSE 5100
 
 
 #CMD ["sh", "-c", "python -m flask run"]
-CMD ["sh", "-c", "mongod --dbpath /data/db --bind_ip_all --fork --logpath /var/log/mongodb/mongod.log; python3 server.py"]
+CMD ["sh", "-c", "mongod --dbpath /data/db --bind_ip_all --fork --logpath /var/log/mongodb/mongod.log; python3 server_v2.py"]

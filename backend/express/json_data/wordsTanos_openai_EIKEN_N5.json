@@ -1,6 +1,6 @@
 [
   {
-    "vocabulary_japanese": "blue",
+    "vocabulary_original": "blue",
     "vocabulary_simplified": "blue",
     "vocabulary_english": "modrá",
     "word_type": "nan",
@@ -9,7 +9,7 @@
     "s_tag": "100"
   },
   {
-    "vocabulary_japanese": "green",
+    "vocabulary_original": "green",
     "vocabulary_simplified": "green",
     "vocabulary_english": "zelená",
     "word_type": "nan",
@@ -18,7 +18,7 @@
     "s_tag": "100"
   },
   {
-    "vocabulary_japanese": "orange",
+    "vocabulary_original": "orange",
     "vocabulary_simplified": "orange",
     "vocabulary_english": "oranžová",
     "word_type": "nan",
@@ -27,7 +27,7 @@
     "s_tag": "100"
   },
   {
-    "vocabulary_japanese": "purple",
+    "vocabulary_original": "purple",
     "vocabulary_simplified": "purple",
     "vocabulary_english": "fialová",
     "word_type": "nan",
@@ -36,7 +36,7 @@
     "s_tag": "100"
   },
   {
-    "vocabulary_japanese": "red",
+    "vocabulary_original": "red",
     "vocabulary_simplified": "red",
     "vocabulary_english": "červená",
     "word_type": "nan",
@@ -45,7 +45,7 @@
     "s_tag": "100"
   },
   {
-    "vocabulary_japanese": "yellow",
+    "vocabulary_original": "yellow",
     "vocabulary_simplified": "yellow",
     "vocabulary_english": "žlutá",
     "word_type": "nan",
@@ -54,7 +54,7 @@
     "s_tag": "100"
   },
   {
-    "vocabulary_japanese": "pink",
+    "vocabulary_original": "pink",
     "vocabulary_simplified": "pink",
     "vocabulary_english": "růžová",
     "word_type": "nan",
@@ -63,7 +63,7 @@
     "s_tag": "100"
   },
   {
-    "vocabulary_japanese": "brown",
+    "vocabulary_original": "brown",
     "vocabulary_simplified": "brown",
     "vocabulary_english": "hnědá",
     "word_type": "nan",
@@ -72,7 +72,7 @@
     "s_tag": "100"
   },
   {
-    "vocabulary_japanese": "black",
+    "vocabulary_original": "black",
     "vocabulary_simplified": "black",
     "vocabulary_english": "černá",
     "word_type": "nan",
@@ -81,7 +81,7 @@
     "s_tag": "100"
   },
   {
-    "vocabulary_japanese": "one",
+    "vocabulary_original": "one",
     "vocabulary_simplified": "one",
     "vocabulary_english": "jedna",
     "word_type": "nan",
@@ -90,7 +90,7 @@
     "s_tag": "100"
   },
   {
-    "vocabulary_japanese": "two",
+    "vocabulary_original": "two",
     "vocabulary_simplified": "two",
     "vocabulary_english": "dva",
     "word_type": "nan",
@@ -99,7 +99,7 @@
     "s_tag": "100"
   },
   {
-    "vocabulary_japanese": "three",
+    "vocabulary_original": "three",
     "vocabulary_simplified": "three",
     "vocabulary_english": "tři",
     "word_type": "nan",
@@ -108,7 +108,7 @@
     "s_tag": "100"
   },
   {
-    "vocabulary_japanese": "four",
+    "vocabulary_original": "four",
     "vocabulary_simplified": "four",
     "vocabulary_english": "čtyři",
     "word_type": "nan",
@@ -117,7 +117,7 @@
     "s_tag": "100"
   },
   {
-    "vocabulary_japanese": "five",
+    "vocabulary_original": "five",
     "vocabulary_simplified": "five",
     "vocabulary_english": "pět",
     "word_type": "nan",
@@ -126,7 +126,7 @@
     "s_tag": "100"
   },
   {
-    "vocabulary_japanese": "six",
+    "vocabulary_original": "six",
     "vocabulary_simplified": "six",
     "vocabulary_english": "šest",
     "word_type": "nan",
@@ -135,7 +135,7 @@
     "s_tag": "100"
   },
   {
-    "vocabulary_japanese": "seven",
+    "vocabulary_original": "seven",
     "vocabulary_simplified": "seven",
     "vocabulary_english": "sedm",
     "word_type": "nan",
@@ -144,7 +144,7 @@
     "s_tag": "100"
   },
   {
-    "vocabulary_japanese": "eight",
+    "vocabulary_original": "eight",
     "vocabulary_simplified": "eight",
     "vocabulary_english": "osm",
     "word_type": "nan",
@@ -153,7 +153,7 @@
     "s_tag": "100"
   },
   {
-    "vocabulary_japanese": "nine",
+    "vocabulary_original": "nine",
     "vocabulary_simplified": "nine",
     "vocabulary_english": "devět",
     "word_type": "nan",
@@ -162,7 +162,7 @@
     "s_tag": "100"
   },
   {
-    "vocabulary_japanese": "ten",
+    "vocabulary_original": "ten",
     "vocabulary_simplified": "ten",
     "vocabulary_english": "deset",
     "word_type": "nan",

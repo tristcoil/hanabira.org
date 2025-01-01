@@ -1,0 +1,12 @@
+on ubuntu 22.04
+sudo apt-get update
+sudo apt-get upgrade
+sudo apt-get install podman podman-compose
+
+sudo vim /etc/containers/registries.conf
+example.com -> docker.io 
+
+podman-compose pull
+podman-compose up
+
+

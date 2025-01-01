@@ -2,7 +2,7 @@ const mongoose = require('mongoose');
 const { Schema } = mongoose;
 
 const wordSchema = new Schema({
-    vocabulary_japanese: { type: String, unique: true, required: true },
+    vocabulary_original: { type: String, unique: true, required: true },
     vocabulary_simplified: String,
     vocabulary_english: { type: String, required: true },
     vocabulary_audio: String,

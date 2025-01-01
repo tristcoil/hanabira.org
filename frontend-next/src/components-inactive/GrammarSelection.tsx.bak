@@ -438,7 +438,7 @@ const VocabCards = ({ cards, level }: VocabCardsProps) => {
               <div className="mt-4 flex justify-between">
                 <div className="flex items-center">
                   <img alt="profile" className="h-8 w-8 object-cover rounded-full" src="/img/jlpt_universal_01.jpg" />
-                  <p className="ml-2 text-sm font-medium text-gray-700">Zen Lingo</p>
+                  <p className="ml-2 text-sm font-medium text-gray-700">Hanabira</p>
                 </div>
                 <Link to={card.link}>
                   <button className="bg-primary py-2 px-4 text-white rounded-md">

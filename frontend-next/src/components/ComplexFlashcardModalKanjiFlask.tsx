@@ -65,7 +65,7 @@ const ComplexFlashcardModal: FC<ComplexFlashcardModalProps> = ({
   if (userId) {
     apiUrl = `/f-api/v1/combine-flashcard-data-${collectionName}?userId=${userId}&collectionName=${collectionName}&p_tag=${p_tag}&s_tag=${s_tag}`;
   } else {
-    apiUrl = `/api/v1/${collectionName}?p_tag=${p_tag}&s_tag=${s_tag}`;
+    apiUrl = `/e-api/v1/${collectionName}?p_tag=${p_tag}&s_tag=${s_tag}`;
   }
 
   // --------------------------------------------------------------------------------------------------------------------------------

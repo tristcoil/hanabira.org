@@ -12,6 +12,8 @@ import Link from "next/link";
 import axios from "axios";
 import { getUserFromCookies } from "@/utils/helperFunctions";
 
+import { useUser } from "@/context/UserContext";
+
 // Dummy data for other video categories (replace with your actual data)
 // const podcasts = []; // Replace with your actual data
 // const commonSituations = [];
@@ -34,9 +36,11 @@ const Home = () => {
     lang: "jp", // New field with default value
   });
 
+  const { userId, loggedIn } = useUser();
+
   // Add the following useEffect after your imports and before your existing useEffect:
   useEffect(() => {
-    const { userId, jwt } = getUserFromCookies();
+    //const { userId, jwt } = getUserFromCookies();
     setNewVideo((prev) => ({ ...prev, userId }));
     //axios.defaults.headers.common['Authorization'] = `Bearer ${jwt}`;
   }, []);
@@ -245,6 +249,48 @@ const Home = () => {
         {/* Korean */}
         <h2 className="font-bold mt-4 mb-2">Korean</h2>
 
+        <p>
+          TTMK Talk To Me In Korean:{" "}
+          <a
+            href="https://www.youtube.com/@talktomeinkorean"
+            className="text-blue-500 underline"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            https://www.youtube.com/@talktomeinkorean
+          </a>
+        </p>
+
+        <p>
+        Hailey _Your Korean Friend:{" "}
+          <a
+            href="https://www.youtube.com/@koreanfriendhailey"
+            className="text-blue-500 underline"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            https://www.youtube.com/@koreanfriendhailey
+          </a>
+        </p>
+
+        <p>
+        Dong Grammy Korean:{" "}
+          <a
+            href="https://www.youtube.com/@DongGrammyKorean"
+            className="text-blue-500 underline"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            https://www.youtube.com/@DongGrammyKorean
+          </a>
+        </p>
+
+
+
+
+
+
+
         {/* <p>
           Japanese Listening Shower:{' '}
           <a
@@ -286,8 +332,9 @@ const Home = () => {
       <h1 className="text-2xl font-bold mt-5 mb-5">YouTube Videos</h1>
       <VideoSection title="Podcasts" videos={podcastVideos} />
       <VideoSection title="Common Situations" videos={situationVideos} />
-      <VideoSection title="Tech Reviews" videos={techReviewVideos} />
-      <VideoSection title="Travel Vlogs" videos={travelVlogVideos} />
+      {/* TODO: add tech reviews, travel vlogs and so on */}
+      {/* <VideoSection title="Tech Reviews" videos={techReviewVideos} /> */}
+      {/* <VideoSection title="Travel Vlogs" videos={travelVlogVideos} /> */}
     </div>
   );
 };

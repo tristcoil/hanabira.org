@@ -60,7 +60,7 @@ cloning words
 # curl -X POST http://localhost:5100/f-api/v1/clone-static-collection-words -H "Content-Type: application/json" -d '{"userId": "testUser", "collection": "words", "p_tag": "essential_600_verbs"}'  # w only p_tag
 
 GET just static kanji data:
-curl -X GET "http://localhost:8000/api/v1/kanji?p_tag=JLPT_N3&s_tag=part_1"
+curl -X GET "http://localhost:8000/e-api/v1/kanji?p_tag=JLPT_N3&s_tag=part_1"
 
 flashcard info combining - kanji
 # curl -X POST http://localhost:5100/f-api/v1/combine-flashcard-data-kanji -H "Content-Type: application/json" -d '{"userId": "testUser", "collectionName": "kanji", "p_tag": "JLPT_N3", "s_tag": "part_1"}'
@@ -92,7 +92,7 @@ curl -X POST http://localhost:5100/api/clone-static-collection -H "Content-Type:
 
 calling host VM ports and apis:
 this is amazing, container can call other containers/ host VM nginx and so on, amazing!
-root@5461a2874a0a:/app# curl -X GET http://host.docker.internal:7000/api/v1/kanji
+root@5461a2874a0a:/app# curl -X GET http://host.docker.internal:7000/e-api/v1/kanji
 {"error":"p_tag is required"}
 root@5461a2874a0a:/app# 
 

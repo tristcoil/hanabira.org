@@ -198,10 +198,10 @@ const GrammarDashboard = () => {
     async function fetchData() {
       try {
         const response = await axios.get<{ grammars: GrammarCardProps[] }>(
-          `/api/v1/grammars?p_tag=${p_dashboardId}&s_tag=${s_dashboardId}`
+          `/e-api/v1/grammars?p_tag=${p_dashboardId}&s_tag=${s_dashboardId}`
         );
         // const response = await axios.get<{ grammars: GrammarCardProps[] }>(
-        //   `http://localhost:8000/api/v1/grammars?p_tag=${p_dashboardId}&s_tag=${s_dashboardId}`
+        //   `http://localhost:8000/e-api/v1/grammars?p_tag=${p_dashboardId}&s_tag=${s_dashboardId}`
         // );
 
 
@@ -280,7 +280,7 @@ export default GrammarDashboard;
 
 //   useEffect(() => {
 //     async function fetchData() {
-//       const response = await axios.get<{ words: GrammarCardProps[] }>(`/api/v1/grammars?p_tag=${p_dashboardId}&s_tag=${s_dashboardId}`);
+//       const response = await axios.get<{ words: GrammarCardProps[] }>(`/e-api/v1/grammars?p_tag=${p_dashboardId}&s_tag=${s_dashboardId}`);
 //       setGrammarCardData(response.data.words);
 //     }
 //     fetchData();

@@ -16,7 +16,7 @@ from datetime import datetime, timedelta
 import os
 
 logging.basicConfig(
-    level=logging.DEBUG,
+    level=logging.INFO,
     format="%(asctime)s %(levelname)s %(name)s %(threadName)s : %(message)s",
 )
 
@@ -39,7 +39,7 @@ flask_port = 5100
 # Determine the environment (dev or prod) to use the correct port
 # Reading environment variable with a default value of "dev"
 # env var is baked into Dockerfile
-env = os.getenv("FLASK_ENV", "dev")  # prod/dev
+env = os.getenv("APP_ENV", "dev")  # prod/dev
 port = "8000"  # port of static DB container
 host = "host.docker.internal" if env == "prod" else "localhost"
 
@@ -132,11 +132,11 @@ def clone_static_collection_kanji():
 
     # we get static data from here
     # GET endpoint to retrieve Kanji based on p_tag and optionally s_tag
-    # curl "http://localhost:8000/api/v1/kanji?p_tag=JLPT_N3&s_tag=part_1"
-    # curl "http://localhost:8000/api/v1/kanji?p_tag=JLPT_N3" - for only p_tag
+    # curl "http://localhost:8000/e-api/v1/kanji?p_tag=JLPT_N3&s_tag=part_1"
+    # curl "http://localhost:8000/e-api/v1/kanji?p_tag=JLPT_N3" - for only p_tag
 
     # data structurefrom remote static api:
-    # curl "http://localhost:8000/api/v1/kanji?p_tag=JLPT_N3"
+    # curl "http://localhost:8000/e-api/v1/kanji?p_tag=JLPT_N3"
     # [
     #     {"_id":"65da44a5a033d2048bd1e4ce",
     #      "kanji":"駐",
@@ -178,7 +178,7 @@ def clone_static_collection_kanji():
         ]  # collections should have the same name for simplicity
 
         # Construct the URL for the GET request
-        url = f"http://{host}:{port}/api/v1/kanji?p_tag={p_tag}"
+        url = f"http://{host}:{port}/e-api/v1/kanji?p_tag={p_tag}"
 
         if s_tag:
             url += f"&s_tag={s_tag}"
@@ -257,18 +257,18 @@ def clone_static_collection_words():
 
     # we get static data from here
     # GET endpoint to retrieve Kanji based on p_tag and optionally s_tag
-    # curl -X GET 'http://localhost:8000/api/v1/words?p_tag=essential_600_verbs'         # w only p_tag
-    # curl -X GET 'http://localhost:8000/api/v1/words?p_tag=suru_essential_600_verbs'    # w only p_tag
+    # curl -X GET 'http://localhost:8000/e-api/v1/words?p_tag=essential_600_verbs'         # w only p_tag
+    # curl -X GET 'http://localhost:8000/e-api/v1/words?p_tag=suru_essential_600_verbs'    # w only p_tag
 
-    # curl -X GET 'http://localhost:8000/api/v1/words?p_tag=essential_600_verbs&s_tag=verbs-1'
-    # curl -X GET 'http://localhost:8000/api/v1/words?p_tag=suru_essential_600_verbs&s_tag=verbs-1'
+    # curl -X GET 'http://localhost:8000/e-api/v1/words?p_tag=essential_600_verbs&s_tag=verbs-1'
+    # curl -X GET 'http://localhost:8000/e-api/v1/words?p_tag=suru_essential_600_verbs&s_tag=verbs-1'
 
     # data structurefrom remote static api:
-    #  curl -X GET 'http://localhost:8000/api/v1/words?p_tag=essential_600_verbs&s_tag=verbs-1'
+    #  curl -X GET 'http://localhost:8000/e-api/v1/words?p_tag=essential_600_verbs&s_tag=verbs-1'
     # {"words":
     #  [
     #      {"_id":"65eca95e43a799eec83434e1",
-    #       "vocabulary_japanese":"抑える_",
+    #       "vocabulary_original":"抑える_",
     #       "vocabulary_simplified":"おさえる",
     #       "vocabulary_english":"to suppress, to control",
     #       "vocabulary_audio":"/audio/vocab/v_抑える.mp3",
@@ -277,14 +277,14 @@ def clone_static_collection_words():
     #       "s_tag":"verbs-1",
     #       "sentences":[
     #           {"_id":"65eca95f43a799eec8343dc8",
-    #            "sentence_japanese":"彼は怒りを抑えることができなかった。",
+    #            "sentence_original":"彼は怒りを抑えることができなかった。",
     #            "sentence_simplified":"",
     #            "sentence_romaji":"Kare wa ikari o osaeru koto ga dekinakatta",
     #            "sentence_english":"He was unable to suppress his anger.",
     #            "sentence_audio":"/audio/sentences/s_抑える_20231231_彼は怒りを抑えることができなかった.mp3",
     #            "sentence_picture":"","key":"抑える_","__v":0},
     #            {"_id":"65eca95f43a799eec8343dc9",
-    #             "sentence_japanese":"ボリュームを抑えて静かに音楽を聞く。",
+    #             "sentence_original":"ボリュームを抑えて静かに音楽を聞く。",
     #             "sentence_simplified":"",
     #             "sentence_romaji":"Boryuumu o osaete shizuka ni ongaku o kiku",
     #             "sentence_english":"Listen to music quietly with the volume turned down.",
@@ -311,7 +311,7 @@ def clone_static_collection_words():
         ]  # collections should have the same name for simplicity
 
         # Construct the URL for the GET request
-        url = f"http://{host}:{port}/api/v1/words?p_tag={p_tag}"
+        url = f"http://{host}:{port}/e-api/v1/words?p_tag={p_tag}"
 
         if s_tag:
             url += f"&s_tag={s_tag}"
@@ -338,7 +338,7 @@ def clone_static_collection_words():
                 flashcard_collection.count_documents(
                     {
                         "userId": user_id,
-                        "vocabulary_japanese": doc["vocabulary_japanese"],
+                        "vocabulary_original": doc["vocabulary_original"],
                         "p_tag": doc.get("p_tag", ""),
                         "s_tag": doc.get("s_tag", ""),
                     }
@@ -351,7 +351,7 @@ def clone_static_collection_words():
                 new_doc = {
                     "userId": user_id,
                     "difficulty": "unknown",  # Default difficulty
-                    "vocabulary_japanese": doc["vocabulary_japanese"],
+                    "vocabulary_original": doc["vocabulary_original"],
                     "p_tag": doc.get("p_tag", ""),
                     "s_tag": doc.get("s_tag", ""),
                 }
@@ -412,8 +412,8 @@ def combine_flashcard_data_kanji():
         )
 
         # Construct the URL for the GET request
-        # curl "http://localhost:8000/api/v1/kanji?p_tag=JLPT_N3&s_tag=part_1"
-        url = f"http://{host}:{port}/api/v1/kanji?p_tag={p_tag}"
+        # curl "http://localhost:8000/e-api/v1/kanji?p_tag=JLPT_N3&s_tag=part_1"
+        url = f"http://{host}:{port}/e-api/v1/kanji?p_tag={p_tag}"
         if s_tag:
             url += f"&s_tag={s_tag}"
 
@@ -494,8 +494,8 @@ def combine_flashcard_data_words():
         )
 
         # Construct the URL for the GET request
-        # curl "http://localhost:8000/api/v1/words?p_tag=essential_600_verbs&s_tag=verbs-1"
-        url = f"http://{host}:{port}/api/v1/words?p_tag={p_tag}"
+        # curl "http://localhost:8000/e-api/v1/words?p_tag=essential_600_verbs&s_tag=verbs-1"
+        url = f"http://{host}:{port}/e-api/v1/words?p_tag={p_tag}"
         if s_tag:
             url += f"&s_tag={s_tag}"
 
@@ -522,7 +522,7 @@ def combine_flashcard_data_words():
         for flashcard in user_flashcards:
             for source in source_data:
                 if (
-                    flashcard["vocabulary_japanese"] == source["vocabulary_japanese"]
+                    flashcard["vocabulary_original"] == source["vocabulary_original"]
                     and flashcard["p_tag"] == source["p_tag"]
                     and flashcard["s_tag"] == source["s_tag"]
                 ):
@@ -653,13 +653,13 @@ def store_flashcard_state():
 
         elif collection_name == "words":
 
-            vocabulary_japanese = data.get("vocabulary_japanese")
+            vocabulary_original = data.get("vocabulary_original")
 
             # Attempt to find an existing flashcard state
             flashcard_state = mongo_flaskFlashcardDB.db[collection_name].find_one(
                 {
                     "userId": user_id,
-                    "vocabulary_japanese": vocabulary_japanese,
+                    "vocabulary_original": vocabulary_original,
                     "p_tag": p_tag,
                     "s_tag": s_tag,
                 }
