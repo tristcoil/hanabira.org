@@ -1,142 +1,118 @@
 Processing keyword: ~할 때마다 [hal ttaemada] (Every time when)
 # Korean Grammar Point: ~할 때마다 [hal ttaemada] (Every time when)
-# Grammar Point: ~할 때마다 [hal ttaemada] (Every time when)
-## Introduction
-The expression "~할 때마다" is used to indicate that something happens every time a specific action occurs. It translates to "every time when" in English, and is commonly used in everyday conversation to express habitual actions or recurring events.
-## Core Grammar Explanation
-### Meaning and Structure
-- **Meaning**: The expression conveys the idea of repetition linked to a particular action or event.
-- **Structure**: This expression typically follows the verb stem (with "할" being the verb "하다" in its appropriate form).
-### Formation Diagram
-Here’s how this grammar can be structured:
-- **Formula**: Verb Stem + 할 때마다
-- **Example Verb**: 가다 (to go)
-- **Example Formation**: 
-  - 가다 → 갈 (verb stem) 
-  - → 갈 때마다
-### Example in Structure
-| **Component**   | **Example**       | **Translation**                 |
-|------------------|-------------------|---------------------------------|
-| Verb Stem        | 가 (to go)        | -                               |
-| Completed Phrase | 갈 때마다        | "every time when I go"         |
-## Comparative Analysis
-- **Similar Grammar Point**: 
-  - Unlike **~을 때** which indicates "at the time when" (used for a specific instance), **~할 때마다** emphasizes repetition and is used for habitual actions.
-- Example:
-  - **~을 때**: 학교에 갈 때 (At the time when I go to school)
-  - **~할 때마다**: 학교에 갈 때마다 (Every time when I go to school)
-## Examples in Context
-### Sentence Examples
-1. **Formal**: 
-   - 책을 읽을 때마다 새로운 것을 배워요.
-   - (Every time when I read a book, I learn something new.)
-  
-2. **Informal**: 
-   - 영화 볼 때마다 감정이 막 이리저리 움직여!
-   - (Every time when I watch a movie, my emotions go all over the place!)
-3. **Written**: 
-   - 우리는 이 지역에 올 때마다 변화를 느낍니다.
-   - (Every time when we come to this area, we feel a change.)
-4. **Spoken**: 
-   - 친구를 만날 때마다 재미있어!
-   - (Every time when I meet my friend, it’s fun!)
-## Cultural Notes
-### Cultural Relevance
-In Korean culture, the expression **~할 때마다** is used to reflect the importance of experiences that recur, focusing on relationships and habits. The levels of politeness are crucial; the formality of the verb endings (e.g., 요 for polite speech) should be adjusted based on the audience.
-### Idiomatic Expressions
-A common idiomatic expression would be:
-- 기분이 좋을 때마다: "Every time when I feel good"
-- This can highlight how emotions can be tied to specific actions or events.
-## Common Mistakes and Tips
-### Error Analysis
-- **Mistake**: Using present tense with past actions.
-  - Incorrect: "내가 어제 만날 때마다 기뻐요." (translates awkwardly)
-- **Correction**: "내가 어제 만날 때마다 기뻤어요." (It’s better to match tenses appropriately.)
-### Learning Strategies
-- **Tip**: Remember that "마다" indicates repetition. You can think of it as a trigger word for actions that occur regularly.
-- **Mnemonic**: "마 다" sounds like "my da,” picturing your friend "every time," encouraging consistency in experiences.
-## Summary and Review
-### Key Takeaways
-- **~할 때마다** expresses the idea of repeating or recurring experiences.
-- It is constructed by taking the verb stem and adding "할 때마다."
-- It differs from **~을 때** which refers to a specific instance rather than a habitual action.
-### Quick Recap Quiz
-1. What does ~할 때마다 mean?
-2. What type of verb form is needed to use ~할 때마다 correctly?
-3. How does ~할 때마다 differ from ~을 때?
-Answers:
-1. "Every time when."
-2. Use the verb stem with 할 때마다.
-3. ~할 때마다 is for habitual actions, while ~을 때 is for specific instances.
-Processing keyword: ~할 때마다 [hal ttaemada] (Every time when)
-# Korean Grammar Point: ~할 때마다 [hal ttaemada] (Every time when)
-# Grammar Point: ~할 때마다 [hal ttaemada] (Every time when) 
+
 ## 1. Introduction
-The expression ~할 때마다 is used to indicate that something happens every time a certain action occurs. This is commonly used in both spoken and written Korean to relate actions or events that occur repeatedly with a specific trigger.
+The Korean grammar pattern **~할 때마다** is used to express "every time when" or "whenever". It indicates that whenever a particular action or event occurs, another action consistently happens as a result. This structure is essential for emphasizing repeated or habitual experiences in Korean.
+
+---
 ## 2. Core Grammar Explanation
-### Detailed Explanation
-- **Meaning**: The phrase ~할 때마다 translates to "every time (someone) does (something)".
-- **Structure**: The structure consists of the verb stem followed by the suffix -할 때마다.
-  - If the verb stem ends in a consonant (like '가다' (to go) → '갈 때마다'), it follows the same rule by combining with "때마다."
-  - If the verb stem ends in a vowel, you simply attach "할 때마다" (like '보다' (to see) → '볼 때마다').
-### Formation Diagram:
+### Meaning
+- **~할 때마다**: "Every time when [verb/action]"
+This pattern links an action with a repeated occurrence, highlighting that something happens consistently whenever the first action takes place.
+### Structure
+To form this pattern, attach **~(으)ㄹ 때마다** to the verb stem.
+#### Formation Diagram
 ```
-Verb (in dictionary form) + 할 때마다
+[Verb Stem] + ~(으)ㄹ 때마다
 ```
-- Example: 가다 (to go) → 갈 때마다 (every time (I) go)
-- Example: 보다 (to see) → 볼 때마다 (every time (I) see)
-### Visual Aids
-| Verb         |  Stem        |  Completed Form   |
-|--------------|--------------|--------------------|
-| 가다         | 가           | 갈 때마다          |
-| 먹다         | 먹           | 먹을 때마다        |
-| 읽다         | 읽           | 읽을 때마다        |
-| 배우다       | 배우         | 배울 때마다        |
+- **For verb stems ending with a vowel or the consonant 'ㄹ'**: Add **-ㄹ 때마다**
+- **For verb stems ending with other consonants**: Add **-을 때마다**
+### Conjugation Table
+| Verb Stem Ending | Attachment   | Example Verb | Conjugated Form   | Translation                  |
+|------------------|--------------|--------------|-------------------|------------------------------|
+| Vowel or 'ㄹ'    | -ㄹ 때마다   | 가다 (to go)  | 갈 때마다         | Every time (I) go            |
+| Consonant        | -을 때마다   | 먹다 (to eat) | 먹을 때마다       | Every time (I) eat           |
+| Vowel            | -ㄹ 때마다   | 보다 (to see) | 볼 때마다         | Every time (I) see/watch     |
+| Consonant        | -을 때마다   | 듣다 (to hear)| 들을 때마다       | Every time (I) hear          |
+---
 ## 3. Comparative Analysis
-- **Similar Grammar Point**: ~을 때 (when).
-  - **Difference**: ~할 때마다 implies repetition (every time), while ~을 때 simply indicates a single occurrence.
-  
-### Example Comparison:
-- **~할 때마다**: "학교에 갈 때마다 친구를 만나요." (I meet my friends every time I go to school.)
-- **~을 때**: "학교에 갈 때 친구를 만나요." (I meet my friends when I go to school.)
+### Comparing **~할 때마다** with Similar Grammar Points
+- **~할 때**: Means "when [verb/action]", indicating a single occurrence.
+  - **예**: 집에 갈 때 전화를 해요. *(I call when I go home.)*
+- **~할 때마다**: Means "every time when [verb/action]", emphasizing repetition.
+  - **예**: 집에 갈 때마다 전화를 해요. *(I call every time I go home.)*
+**Key Difference**: The inclusion of **마다** adds the sense of "every time", highlighting habitual or repeated actions.
+---
 ## 4. Examples in Context
 ### Sentence Examples
-1. **Formal**: 
-   - "저는 여름에 바다에 갈 때마다 사진을 찍습니다."  
-   (I take pictures every time I go to the beach in the summer.)
-   
-2. **Informal**: 
-   - "너랑 만날 때마다 재밌어!"  
-   (It's fun every time I meet you!)
-   
-3. **Written**: 
-   - "이 책을 읽을 때마다 새로운 것을 배웁니다."  
-   (I learn something new every time I read this book.)
-   
-4. **Spoken**: 
-   - "우리 집에 올 때마다 항상 맛있는 걸 가져와!"  
-   (Bring something delicious every time you come to my house!)
+1. **수업이 끝날 때마다 도서관에 가요.**
+   - *Romanization*: *Sueobi kkeutnal ttaemada doseogwane gayo.*
+   - *Translation*: I go to the library every time class ends.
+2. **그 노래를 들을 때마다 기분이 좋아져요.**
+   - *Romanization*: *Geu noraereul deureul ttaemada gibuni joajyeoyo.*
+   - *Translation*: Every time I listen to that song, I feel better.
+3. **사진을 볼 때마다 추억이 떠올라요.**
+   - *Romanization*: *Sajineul bol ttaemada chueogi tteoollayo.*
+   - *Translation*: Memories come back every time I look at the photos.
+4. **그 음식을 먹을 때마다 매워서 힘들어요.**
+   - *Romanization*: *Geu eumsigeul meogeul ttaemada maewoseo himdeureoyo.*
+   - *Translation*: It's tough every time I eat that food because it's spicy.
+5. **비가 올 때마다 우산을 잊어버려요.**
+   - *Romanization*: *Biga ol ttaemada usaneul ijeobeoryeoyo.*
+   - *Translation*: I forget my umbrella every time it rains.
+### Formal and Informal Contexts
+- **Informal Speech**:
+  - **친구를 만날 때마다 재미있어.**
+    - *Translation*: It's fun every time I meet my friend.
+- **Formal Speech**:
+  - **회의를 할 때마다 긴장됩니다.**
+    - *Translation*: I get nervous every time we have a meeting.
+### Spoken vs. Written Language
+- In spoken Korean, **~할 때마다** is frequently used to share personal experiences.
+- In written Korean, especially in essays or journals, it can express habitual observations.
+---
 ## 5. Cultural Notes
 ### Cultural Relevance
-Using ~할 때마다 shows how Korean culture values consistency and relationships. Phrases that denote repeated actions can reflect a sense of attachment and the importance of shared experiences.
-### Idiomatic Expressions
-- "그가 웃을 때마다 기분이 좋아져요."  
-(Every time he smiles, I feel good.)
+- **Emphasis on Routine**: Korean culture often highlights routines and repeated actions, and **~할 때마다** is a grammatical reflection of this.
+- **Expression of Feelings**: This pattern is commonly used to express recurring emotions tied to specific events, showcasing a cultural tendency to associate feelings with experiences.
+### Levels of Politeness and Formality
+- Adjust the verb ending after **~할 때마다** to match the appropriate politeness level:
+  - **Informal**: **-아/어** (해요)
+  - **Formal**: **-습니다**
+*Example*:
+- **갈 때마다 만나요.** *(Polite Informal)*
+- **갈 때마다 만납니다.** *(Formal Polite)*
+### Idiomatic Expressions Using **~마다**
+While **~할 때마다** itself is straightforward, **마다** is used in various idiomatic expressions:
+- **사람마다 의견이 달라요.**
+  - *Translation*: Opinions differ from person to person.
+- **집집마다 꽃이 피었어요.**
+  - *Translation*: Flowers have bloomed at every house.
+---
 ## 6. Common Mistakes and Tips
-### Error Analysis
-- **Incorrect Usage**: Students often confuse ~할 때마다 with 일 때 (when), forgetting it expresses repetition.
-  - **Mistake**: "학교에 갈 때 나를 만나요." (Incorrect)
-  - **Correct**: "학교에 갈 때마다 나를 만나요." (Correct)
+### Common Mistakes
+1. **Incorrect Attachment of Suffixes**
+   - *Mistake*: **먹다마다**
+     - Missing **(으)ㄹ 때** component.
+   - *Correction*: **먹을 때마다**
+2. **Confusing with **~마다**
+   - *Mistake*: Using **~마다** without **~할 때**
+     - **주말마다** means "every weekend", not "every time when".
+   - *Tip*: Remember that **~할 때마다** is about actions/events, while **~마다** alone refers to time periods or units.
 ### Learning Strategies
-- **Mnemonic Device**: Think of "할 때마다" as a "repeat button" - every time you press it (do the action), something happens.
+- **Practice with Common Verbs**: Create sentences using verbs you frequently use.
+- **Flashcards**: Write verbs on one side and their **~할 때마다** forms on the other.
+- **Mnemonic**: Think of **마다** as "every" to associate it with repetition.
+---
 ## 7. Summary and Review
 ### Key Takeaways
-1. **~할 때마다** indicates repetition associated with an action.
-2. Form it by attaching 할 때마다 to the verb stem.
-3. Different from ~을 때, which indicates a single occurrence.
+- **~할 때마다** expresses "every time when [action/event]".
+- Formed by attaching **~(으)ㄹ 때마다** to the verb stem.
+- Highlights repeated or habitual actions associated with a particular event.
+- Politeness levels are adjusted through the verb endings following **~할 때마다**.
 ### Quick Recap Quiz
-1. What does ~할 때마다 mean?
-2. How do you form ~할 때마다 with the verb "걷다"?
-3. Give an example sentence using ~할 때마다.
+1. **Fill in the blank**: "Whenever I read a book, I feel relaxed."  
+   책을 ____ 기분이 편안해요.
+   - **Answer**: **읽을 때마다**
+2. **True or False**: **놀 때마다** means "when I play".
+   - **Answer**: False (It means "every time I play")
+3. **Choose the Correct Form**:  
+   "Every time I learn Korean, it gets more interesting."  
+   - **a)** 한국어를 배울 때마다 더 재미있어져요.  
+   - **b)** 한국어를 배울 때 더 재미있어져요.
+   - **Answer**: **a)** 한국어를 배울 때마다 더 재미있어져요.
 ---
-This grammar point is essential for expressing frequency and is widely used in daily conversation in Korean.
+By mastering **~할 때마다**, you enhance your ability to describe habitual actions and repeated experiences, making your Korean communication more nuanced and expressive.
+
+---
+© [Hanabira.org](https://hanabira.org)

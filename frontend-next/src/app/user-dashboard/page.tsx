@@ -61,6 +61,8 @@ export default function Home() {
   const [showKanjiGraphs, setShowKanjiGraphs] = useState(false);
   const [showEssentialVerbs, setShowEssentialVerbs] = useState(false);
   const [showEssentialSuruVerbs, setShowEssentialSuruVerbs] = useState(false);
+  const [showGrammar, setShowGrammar] = useState(false);
+
 
   // useEffect(() => {
   //   const fetchuserId = async () => {
@@ -289,6 +291,53 @@ export default function Home() {
               </div>
             )}
           </div>
+
+
+{/* Grammar Section */}
+<div className="w-full mt-4">
+  <button
+    onClick={() => setShowGrammar(!showGrammar)}
+    className="w-full text-left px-4 py-2 bg-gray-200 dark:bg-gray-700 hover:bg-gray-300 dark:hover:bg-gray-600 focus:outline-none focus:ring-2 focus:ring-blue-500 rounded-md"
+  >
+    <span className="text-xl font-bold">Grammar JLPT</span>
+    <span className="float-right">{showGrammar ? "▲" : "▼"}</span>
+  </button>
+
+  <a
+    href="/japanese/flashcards"
+    className="text-blue-500 hover:text-blue-700 transition duration-300 p-2"
+  >
+    Flashcards - JLPT Grammar
+  </a>
+
+  {showGrammar && (
+    <div className="flex flex-wrap justify-center gap-4 p-4 w-full">
+      {["JLPT_N5","JLPT_N4","JLPT_N3","JLPT_N2","JLPT_N1",].map((part, index) => (
+        <div
+          key={index}
+          className="w-full max-w-xs p-2 bg-white dark:bg-gray-800 shadow-md rounded-lg"
+        >
+          <LearningProgressFlask
+            userId={userId}
+            collectionName="grammars"
+            p_tag={part}
+            s_tag="all"
+          />
+        </div>
+      ))}
+    </div>
+  )}
+</div>
+
+
+
+
+
+
+
+
+
+
         </div>
       </div>
     </div>

@@ -1,65 +1,114 @@
 Processing keyword: ~테니라고 [tenirago] (Since, because)
 # Korean Grammar Point: ~테니라고 [tenirago] (Since, because)
-# Korean Grammar Point: ~테니라고 [tenirago] (Since, because)
+
 ## 1. Introduction
-The grammar point ~테니라고 is used to explain a reason or cause for an action or situation. It translates to "since" or "because" in English. This form adds a level of explanation or justification to the statement that follows it.
+In this lesson, we'll explore the Korean grammar point **~테니라고** (*tenirago*), which is used to express actions or thoughts based on an assumption or expectation about the future. It's similar to saying "thinking that..." or "since I expect that..." in English. Mastering this grammar point will enhance your ability to convey reasons or motivations grounded in your expectations.
+
+---
 ## 2. Core Grammar Explanation
-### Detailed Explanation
-- **Meaning:** ~테니라고 expresses a reason or cause, often indicating that the speaker is providing an explanation or justification for their previous statement.
-- **Structure:** 
-  - The structure is built from the verb stem + -테니 + -라고.
-  - It is typically used in the first-person perspective, but can also be used in other contexts.
+### Meaning
+**~테니라고** is used when the speaker performs an action or holds a thought based on an assumption or expectation about something that will happen. It conveys a sense of reasoning rooted in future expectations.
+**Translation Equivalents:**
+- "Thinking that..."
+- "Assuming that..."
+- "Since (I expect that)..."
+- "Because (I believe that)..."
+### Structure
+The grammar point combines:
+1. **Verb Stem + ~(으)ㄹ 테니**: Expresses the speaker's intention or assumption about the future.
+2. **+ 라고**: A particle used to indicate reported speech or thought.
+**Formation:**
+```plaintext
+[Verb Stem] + ~(으)ㄹ 테니라고 + [Main Verb/Action]
+```
 ### Formation Diagram
-```
-[Verb/Adjective Stem] + -테니 + -라고
-```
-### Examples of Usage:
-- **Verb usage**: 가다 (to go) + -테니 = 가테니라고
-- **Adjective usage**: 좋다 (to be good) + -테니 = 좋테니라고
+
+| **Component**      | **Role**                                           |
+|--------------------|----------------------------------------------------|
+| Verb Stem          | The base form of the verb                          |
+| ~(으)ㄹ 테니        | Assumption or intention about the future           |
+| 라고               | Marks reported speech or thought                   |
+| Main Verb/Action   | The action taken based on the assumption           |
+
+**Conjugation Rules:**
+- If the verb stem ends in a **vowel**, add **-ㄹ 테니라고**
+- If the verb stem ends in a **consonant**, add **-을 테니라고**
+---
 ## 3. Comparative Analysis
-~테니라고 can be compared with:
-- **~으니까 / ~니까:** Both are used to express causality, but ~테니라고 is often more explanatory and is used when emphasizing the reasoning behind an action, while ~으니까 / ~니까 is more straightforward.
-  
-| Grammar Point | Structure                    | Usage                                    |
-|----------------|------------------------------|------------------------------------------|
-| ~테니라고      | [Verb/Adjective Stem]+-테니라고 | Explains reason with more emphasis      |
-| ~으니까 / ~니까| [Verb/Adjective Stem]+-으니까/니까| Indicates reason simply                  |
+### Similar Grammar Points
+
+| Grammar Point     | Usage                                      | Example                                      |
+|-------------------|--------------------------------------------|----------------------------------------------|
+| ~(으)니까          | Reason or cause (since/because)             | 비가 오**니까** 우산을 가져왔어요.<br>*Since it's raining, I brought an umbrella.* |
+| ~기 때문에        | Reason or cause (because)                   | 비가 오**기 때문에** 우산이 필요해요.<br>*Because it's raining, I need an umbrella.* |
+| ~느라고           | Reason for a negative result (because of doing) | 일하**느라고** 바빴어요.<br>*I was busy because I was working.* |
+
+**Difference:** **~테니라고** specifically denotes actions based on future assumptions or expectations, adding a nuance of anticipation that the other grammar points may not convey.
+
+---
 ## 4. Examples in Context
-### Sentence Examples
-1. **Formal:** 
-   - 일이 있어서 갈 수 없 테니라고 말씀드렸습니다. 
-   - (I said I couldn’t go because I have work.)
-   
-2. **Informal:**
-   - 비가 와서 못 간다 테니라고 했어. 
-   - (I said I can’t go because it’s raining.)
-   
-3. **Written:**
-   - 이 연구 결과는 신뢰할 수 있으므로 해당 주장을 지지하는 것 테니라고 보인다. 
-   - (Since this research result is reliable, it seems to support the claim.)
-4. **Spoken:**
-   - 요즘 바쁘니까 당신을 못 만나 테니라고. 
-   - (I said I can’t meet you since I’ve been busy lately.)
+### Example 1: Formal Speech
+**Sentence:** 비가 올 테니라고 우산을 가져왔어요.
+- **Pronunciation:** *Biga ol tenirago usaneul gajyeowasseoyo.*
+- **Translation:** "I brought an umbrella thinking that it would rain."
+### Example 2: Informal Speech
+**Sentence:** 늦을 테니라고 택시를 탔어.
+- **Pronunciation:** *Neujeul tenirago taeksireul tasseo.*
+- **Translation:** "I took a taxi since I thought I would be late."
+### Example 3: Written Context
+**Sentence:** 손님이 많이 올 테니라고 음식을 많이 준비했습니다.
+- **Pronunciation:** *Sonnimi mani ol tenirago Eumsig-eul mani junbihaetseumnida.*
+- **Translation:** "We prepared a lot of food expecting many guests to come."
+### Example 4: Conversation
+**Sentence:** 그 영화가 재미있을 테니라고 예매했어요.
+- **Pronunciation:** *Geu yeonghaga jaemiisseul tenirago yemaehaesseoyo.*
+- **Translation:** "I bought tickets thinking that the movie would be interesting."
+### Example 5: Planning Ahead
+**Sentence:** 사람들이 많이 모일 테니라고 큰 방을 예약했어요.
+- **Pronunciation:** *Saramdeuri mani moil tenirago keun bang-eul yeyakhaesseoyo.*
+- **Translation:** "I reserved a large room since many people would gather."
+---
 ## 5. Cultural Notes
 ### Cultural Relevance
-In Korean culture, providing explanations or justifications is important, especially in social interactions. Using ~테니라고 allows the speaker to convey respect and consideration for the listener’s understanding.
-### Levels of Politeness
-The use of ~테니라고 can vary in politeness depending on the verb/adjective used. It’s essential to match the level of politeness with the context of the conversation.
+- **Consideration:** In Korean culture, showing foresight and being considerate of future events is valued.
+- **Harmony:** Anticipating others' needs promotes social harmony.
+### Politeness and Formality
+- **Formal Endings:** Use **-ㅂ니다/습니다** for formal situations.
+- **Informal Endings:** Use **-아/어** endings with friends or close acquaintances.
 ### Idiomatic Expressions
-While ~테니라고 might not be a part of common idioms, it is frequently used in conversational contexts when explaining reasons.
+While **~테니라고** itself isn't part of a fixed idiom, understanding it enhances comprehension of expressions involving expectations and planning.
+
+---
 ## 6. Common Mistakes and Tips
 ### Error Analysis
-- **Incorrect Usage:** Mixing up ~테니라고 with ~으니까. 
-  - **Tip:** Remember that ~테니라고 implies more emphasis on the reasoning involved.
-  
+1. **Omitting 라고:**
+   - **Incorrect:** 비가 올 테니 우산을 가져왔어요.
+   - **Correct:** 비가 올 **테니라고** 우산을 가져왔어요.
+   - *Without **-라고**, the sentence lacks the nuance of acting based on an assumption.*
+2. **Misusing Tenses:**
+   - **Incorrect:** 비가 오는 테니라고 우산을 가져왔어요.
+   - **Correct:** 비가 올 **테니라고** 우산을 가져왔어요.
+   - *Ensure the future tense **~(으)ㄹ 테니** is used, not the present tense **~는 테니**.*
 ### Learning Strategies
-- **Mnemonic Device:** Think of "bear" to help remember that ~테니라고 is about having the strength to provide an explanation, as "bear" has a deeper connotation of support or justification.
+- **Mnemonic Device:** Think "*[Action], since I think [future event]*."
+- **Practice:** Create sentences about your daily plans using **~테니라고**.
+---
 ## 7. Summary and Review
 ### Key Takeaways
-- ~테니라고 is used to give a reason or justification for an action, often in a more explanatory context.
-- It forms a link between the cause and effect in your statements.
-  
+- **Usage:** **~테니라고** expresses actions/thoughts based on future expectations.
+- **Formation:** Combine **Verb Stem + ~(으)ㄹ 테니** with **라고**.
+- **Nuance:** Adds depth by highlighting assumptions influencing actions.
 ### Quick Recap Quiz
-1. What is the meaning of ~테니라고?
-2. How does it differ from ~으니까?
-3. Can you construct a sentence using ~테니라고 in both a formal and informal context?
+1. What does **~테니라고** convey in a sentence?
+2. How do you form **~테니라고** after a verb ending with a vowel?
+3. Translate to Korean: "She stayed home thinking it would snow."
+
+**Answers:**
+1. It conveys an action or thought based on an assumption or expectation about the future.
+2. Add **-ㄹ 테니라고** after the verb stem.
+3. **그녀는 눈이 올 테니라고 집에 있었어요.**
+---
+By incorporating **~테니라고** into your Korean language usage, you'll be able to express future-based reasons with greater nuance and clarity. Practice by thinking about your plans and the assumptions behind them, crafting sentences that reflect your expectations.
+
+---
+© [Hanabira.org](https://hanabira.org)

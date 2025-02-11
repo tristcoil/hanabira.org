@@ -1,80 +1,108 @@
 Processing keyword: Verb に 来ます (Verb ni kimasu)
 # Japanese Grammar Point: Verb に 来ます (Verb ni kimasu)
-# Verb に 来ます (Verb ni kimasu)
+
 ## 1. Introduction
-The construction **Verb に 来ます (ni kimasu)** is a crucial Japanese grammar point used to indicate the direction of an action, specifically when someone comes to a place to perform a certain verb action. This structure is commonly used in everyday conversation.
+In Japanese, expressing the purpose of movement—such as coming or going somewhere to perform an action—is an essential grammatical structure. One common way to convey "coming to do something" is by using **Verb に 来ます (Verb ni kimasu)**. This lesson will delve into how to use this grammar point effectively in various contexts.
+
+---
 ## 2. Core Grammar Explanation
-### Detailed Explanation
-**Verb に 来ます** consists of three parts:
-- **Verb**: This is the action you want to indicate (e.g., to play, to eat, to study).
-- **に (ni)**: A particle indicating direction or destination.
-- **来ます (kimasu)**: The verb "to come." 
-### Structure and Formation
-The structure of this grammar point can be represented as follows:
-```
-[Verb] + に + 来ます
-```
 ### Meaning
-1. **To express the action of coming to a place to do something**:
-   - Example: "I will come to play tennis."
-   - In Japanese: テニスをしに来ます (Tenisu o shi ni kimasu)
-### Visual Aid
-| **Parts**     | **Explanation**                  |
-|---------------|----------------------------------|
-| [Verb]        | Action performed                 |
-| に            | Indicates direction or purpose    |
-| 来ます (kimasu)| The act of coming                |
+**Verb に 来ます (Verb ni kimasu)** is used to indicate that the speaker or someone else **comes to a place to perform a specific action**. It translates to "**come to do [verb]**" in English.
+### Structure
+The structure combines the **masu-stem** of a verb with **に来ます**:
+```markdown
+**[Verb (Masu-stem)] + に + 来ます**
+```
+- **Verb (Masu-stem)**: The verb form without **ます**.
+- **に**: Particle indicating purpose.
+- **来ます**: The verb "to come".
+### Formation Diagram
+| Verb (Dictionary Form) | Masu-form | Masu-stem (Remove ます) | Masu-stem + に来ます (来る) |
+|------------------------|-----------|------------------------|----------------------------|
+| 食べる (taberu)         | 食べます   | 食べ                   | 食べに来ます               |
+| 見る (miru)             | 見ます     | 見                     | 見に来ます                 |
+| 勉強する (benkyou suru) | 勉強します | 勉強し                 | 勉強しに来ます             |
+| 遊ぶ (asobu)           | 遊びます   | 遊び                   | 遊びに来ます               |
+---
 ## 3. Comparative Analysis
-### Similar Grammar Points:
-- **Verb に 行きます (ni ikimasu)**: Indicates going to a place to perform an action. 
-  - Example: "I will go to play tennis." (テニスをしに行きます)
-  
-**Difference**: 
-- Use に 来ます when you emphasize coming towards the speaker’s location.
-- Use に 行きます when you emphasize going away from the speaker’s location.
+### ～に行きます vs. ～に来ます
+- **Verb に 行きます (Verb ni ikimasu)**: "Go to do [verb]".
+- **Verb に 来ます (Verb ni kimasu)**: "Come to do [verb]".
+**Difference**:
+- **行きます (ikimasu)** implies moving away from the current location.
+- **来ます (kimasu)** implies movement towards the speaker's current location or the location being discussed.
+---
 ## 4. Examples in Context
-### Sentence Examples
-1. **Formal Context**:
-   - 明日学校に勉強しに来ます。
-   - *Ashita gakkou ni benkyou shi ni kimasu.*
-   - "I will come to school to study tomorrow."
-2. **Informal Context**:
-   - 友達の家に遊びに来るよ。
-   - *Tomodachi no ie ni asobi ni kuru yo.*
-   - "I'll come over to my friend's house to hang out."
-3. **Written Context**:
-   - パーティーに参加しに来てください。
-   - *Pātī ni sanka shi ni kite kudasai.*
-   - "Please come to participate in the party."
-4. **Spoken Context**:
-   - 今から駅に迎えに来ますね。
-   - *Ima kara eki ni mukae ni kimasu ne.*
-   - "I’m coming to the station to pick you up now."
+### Formal Speech
+1. **会議に参加しに来ました。**
+   - *Kaigi ni sanka shi ni kimashita.*
+   - "I came to participate in the meeting."
+2. **新しいプロジェクトについて話し合いに来ました。**
+   - *Atarashii purojekuto ni tsuite hanashiai ni kimashita.*
+   - "I came to discuss the new project."
+### Informal Speech
+1. **君に会いに来たよ。**
+   - *Kimi ni ai ni kita yo.*
+   - "I came to see you."
+2. **ゲームしに来ない？**
+   - *Geemu shi ni konai?*
+   - "Want to come play games?"
+### Written Context
+1. **彼は研究資料を集めに来た。**
+   - *Kare wa kenkyuu shiryō o atsumeni kita.*
+   - "He came to gather research materials."
+2. **多くの人々が祭りを楽しみに来ます。**
+   - *Ōku no hitobito ga matsuri o tanoshimi ni kimasu.*
+   - "Many people come to enjoy the festival."
+### Spoken Conversation
+1. **手伝いに来ました。何かお手伝いできることはありますか？**
+   - *Tetsudai ni kimashita. Nani ka otetsudai dekiru koto wa arimasu ka?*
+   - "I came to help. Is there anything I can assist with?"
+2. **昼ご飯を食べに来たんだけど、一緒にどう？**
+   - *Hirugohan o tabe ni kita n da kedo, issho ni dou?*
+   - "I came to have lunch; would you like to join me?"
+---
 ## 5. Cultural Notes
 ### Cultural Relevance
-The use of 来ます (kimasu) can also imply a sense of politeness and respect in Japanese culture. When saying you will come to do something, it suggests you are considering the other person's perspective and are willing to move towards them, which is an important aspect of interpersonal dynamics in Japan.
-### Levels of Politeness
-Using this structure often comes with a level of formality. For example,
-- **来る (kuru)**: Plain form (informal).
-- **来ます (kimasu)**: Polite form.
+- **Visiting Etiquette**: In Japanese culture, informing someone of your purpose when visiting is considered polite.
+- **Group Orientation**: Emphasizing actions done with or for others aligns with the collectivist nature of Japanese society.
 ### Idiomatic Expressions
-- **遊びに来る (asobi ni kuru)**: To come over to hang out.
-- **手伝いに来る (tetsudai ni kuru)**: To come to help.
+1. **冷やかしに来る**
+   - *Hiyakashini kuru*
+   - "To come to tease or window-shop without the intent to buy."
+2. **様子を見に来る**
+   - *Yōsu o mi ni kuru*
+   - "To come to check on someone/something."
+---
 ## 6. Common Mistakes and Tips
-### Error Analysis
-1. **Using に instead of へ**: Be careful not to confuse the two particles. Use に when you want to express coming to do something, while へ (e) is used for general direction without the specific action context.
-2. **Forgetting the verb**: Always remember to include the verb before に 来ます to provide meaning.
-### Learning Strategies
-To help remember this structure, think of it as:
-- **"I am coming to (verb)..."** 
-- Create a mental image of movement towards an action, and associate it with the close relationships and manners typical in Japanese culture.
+### Common Mistakes
+1. **Using the Dictionary Form Instead of Masu-stem**
+   - Incorrect: **食べるに来ます。**
+   - Correct: **食べに来ます。**
+2. **Confusing に with を**
+   - Incorrect: **買い物を来ます。**
+   - Correct: **買い物に来ます。**
+### Tips
+- **Remember to Use Masu-stem**: The verb before に must be in its masu-stem form.
+- **Purpose Particle に**: Don't confuse に (purpose) with を (object marker).
+- **Verb Direction**: Use 来ます (kimasu) when the movement is towards the speaker or the focal location.
+---
 ## 7. Summary and Review
 ### Key Takeaways
-- **Verb に 来ます** is used to indicate coming to a location to perform an action.
-- The structure is straightforward and involves a subject, a direction particle に, and the verb 来ます.
-- It represents politeness and reflects Japanese cultural norms of consideration for others.
+- **Verb に 来ます** is used to express **"come to do [verb]"**.
+- The verb before に is in the **masu-stem** form.
+- It signifies movement **towards** a location for a purpose.
 ### Quick Recap Quiz
-1. What does the particle に indicate in the construction **Verb に 来ます**?
-2. How is **Verb に 行きます** different from **Verb に 来ます**?
-3. Provide a sentence using **Verb に 来ます** in an informal context. 
-By understanding this grammar point, learners can effectively express intentions and actions in Japanese, enhancing their communication skills.
+1. How do you say "I came to study" in Japanese?
+   - **Answer**: **勉強しに来ました。 (*Benkyō shi ni kimashita.*)**
+2. Fill in the blank: 映画を______来た。
+   - **Answer**: **見に (Mi ni)**
+3. True or False: "行きます" is used when coming towards the speaker.
+   - **Answer**: **False**
+---
+By understanding and applying **Verb に 来ます**, you can effectively communicate your purposes and actions related to coming to a place. Practice forming sentences with different verbs to become more comfortable with this grammar point.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

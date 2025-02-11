@@ -1,69 +1,112 @@
 Processing keyword: Verb ない ことがある (Verb-nai koto ga aru)
 # Japanese Grammar Point: Verb ない ことがある (Verb-nai koto ga aru)
-# Verb ない ことがある (Verb-nai koto ga aru)
-## Introduction
-The grammar point "Verb ない ことがある" (Verb-nai koto ga aru) is a useful structure in Japanese that allows speakers to express that there are occasions or instances when a certain action does not happen. It emphasizes variability and is commonly used in both spoken and written Japanese.
-## Core Grammar Explanation
-### Detailed Explanation
-- **Meaning**: "There are times when (verb) does not happen" or "Sometimes (verb) doesn't occur."
-- **Structure**:
-  - **Verb (ない form) + ことがある**
-  
-  To form the negative form of a verb, you start with the verb in its dictionary form, convert it to its negative form (ない), and then add ことがある. This indicates that there are occasions or times when the action described by the verb does not take place.
-### Formation Diagram
-```
-[Verb (dictionary form)] → [Verb (ない form)] + ことがある
-```
-### Example Formation
-- 食べる (taberu - to eat) → 食べない (tabenai - do not eat) + ことがある → 食べないことがある (tabenai koto ga aru - there are times I do not eat)
-## Comparative Analysis
-- **Similar Grammar Point**: "Verb ことがある" (Verb koto ga aru)
-  - **Difference**: "Verb ことがある" indicates that there are occasions when the action happens. In contrast, "Verb ない ことがある" specifically highlights instances when the action does *not* happen.
-  
-| Structure             | Meaning                                   |
-|-----------------------|-------------------------------------------|
-| Verb ことがある       | There are times when (verb) happens      |
-| Verb ない ことがある  | There are times when (verb) does not happen |
-## Examples in Context
-### Sentence Examples
-1. **Formal**: 
-   - 日本語を勉強しているが、時々全然話せないことがある。
-   - (Nihongo o benkyou shite iru ga, tokidoki zenzen hanasenai koto ga aru.)
-   - "I am studying Japanese, but there are times when I can't speak at all."
-2. **Informal**: 
-   - 彼と会いたいけど、忙しい時は会わないことがある。
-   - (Kare to aitai kedo, isogashii toki waawanai koto ga aru.)
-   - "I want to see him, but sometimes I can't meet when I'm busy."
-3. **Written**:
-   - この映画は面白いが、時々見る気がないことがある。
-   - (Kono eiga wa omoshiroi ga, tokidoki miru ki ga nai koto ga aru.)
-   - "This movie is interesting, but there are times when I don't feel like watching it."
-4. **Spoken**:
-   - 私たちは外食するけど、昼食を家で食べないことがある。
-   - (Watashitachi wa gaishoku suru kedo, chuushoku o ie de tabenai koto ga aru.)
-   - "We eat out, but sometimes we don't eat lunch at home."
-## Cultural Notes
-### Cultural Relevance
-The use of "Verb ない koto ga aru" reflects a common Japanese politeness principle where individuals express variability in their actions to show humility and not come across as overly assertive. It respects social norms around consideration of others' feelings and states of being.
-### Idiomatic Expressions
-- たまには運動しないことがある。
-  - (Tamani wa undou shinai koto ga aru.)
-  - "There are times when I don't exercise."
-## Common Mistakes and Tips
-### Error Analysis
-- **Frequent Errors**: 
-  - Confusing "ないことがある" with "ことがない." 
-    - - "ないことがある" means sometimes it doesn't happen, while "ことがない" means it never happens.
-### Learning Strategies
-- **Mnemonic Devices**: 
-  - Remember "ない" as "not" – think of it like saying "there are times when I do not."
-## Summary and Review
-### Key Takeaways
-- "Verb ない ことがある" is used to express that there are instances when an action does not occur.
-- It is important to distinguish it from "Verb ことがある" to avoid confusion.
-  
-### Quick Recap Quiz
-1. How do you form the phrase for "there are times when I do not eat"? (Use 食べる).
-2. What is the difference between "ないことがある" and "ことがない"?
+
+## 1. Introduction
+In Japanese, expressing the frequency or irregularity of actions is essential for accurate communication. The grammar point **Verb ないことがある** helps you convey that something *sometimes doesn't happen*, even if it usually does.
+
 ---
-Understanding this grammar point can greatly enhance your ability to discuss variability in your actions in Japanese. Practice using it in context to grasp its subtleties!
+## 2. Core Grammar Explanation
+### Meaning
+**Verb ないことがある** is used to indicate that there are times when a certain action does **not** occur. It emphasizes exceptions to regular or habitual actions.
+- **English Equivalent:** "There are times when I don't [verb]."
+### Structure
+```plaintext
+[Verb in Negative Plain Form] + ことがある
+```
+- **Negative Plain Form:** The simple negative form of a verb (ない form).
+- **ことがある:** A phrase meaning "there are times when..."
+#### Formation Diagram
+| Negative Plain Verb | +    | ことがある |
+|---------------------|------|------------|
+| 食べ**ない** (do not eat)  | +    | ことがある |
+| 行か**ない** (do not go)   | +    | ことがある |
+| 見え**ない** (cannot see) | +    | ことがある |
+---
+## 3. Comparative Analysis
+### Similar Grammar Points
+1. **Verb Dictionary Form + ことがある**
+   - **Usage:** Indicates that something occasionally happens.
+   - **Example:**  
+     - 日本語で夢を見ることがある。  
+       *I sometimes dream in Japanese.*
+2. **Verb ないでください**
+   - **Usage:** A request for someone **not** to do something.
+   - **Example:**  
+     - 写真を撮らないでください。  
+       *Please don't take photos.*
+### Differences
+- **Verb ないことがある**
+  - Emphasizes that an expected action sometimes **does not** happen.
+  - Focuses on the exceptions.
+- **Verb Dictionary Form + ことがある**
+  - Indicates that an action happens occasionally.
+  - Focuses on the occurrence, not the lack thereof.
+---
+## 4. Examples in Context
+### Example Sentences
+1. **Casual Speech**
+   - **Japanese:** 友達に連絡しないことがある。
+   - **Romaji:** Tomodachi ni renraku shinai koto ga aru.
+   - **Translation:** There are times when I don't contact my friends.
+2. **Formal Speech**
+   - **Japanese:** 忙しいと昼食を取らないことがあります。
+   - **Romaji:** Isogashii to chūshoku o toranai koto ga arimasu.
+   - **Translation:** Sometimes I don't have lunch when I'm busy.
+3. **Written Context**
+   - **Japanese:** システムエラーでメールが届かないことがある。
+   - **Romaji:** Shisutemu erā de mēru ga todokanai koto ga aru.
+   - **Translation:** Emails sometimes don't arrive due to system errors.
+4. **Spoken Conversation**
+   - **Japanese:** 疲れているとき、テレビを見ないことがあるよ。
+   - **Romaji:** Tsukarete iru toki, terebi o minai koto ga aru yo.
+   - **Translation:** When I'm tired, there are times I don't watch TV.
+---
+## 5. Cultural Notes
+### Politeness and Formality
+- The ending **ことがある** is neutral and can be used in both formal and informal settings.
+- Adjust the verb and ending formality based on the context.
+  - **Formal:** 〜ないことがあります。
+  - **Casual:** 〜ないことがある。
+### Cultural Relevance
+- **Reliability and Expectations:** In Japanese culture, consistency and reliability are valued. Not performing an expected action (e.g., not replying to emails) might be noteworthy.
+### Idiomatic Expressions
+- **忘れないことがある**
+  - *There are times when I don't forget.*
+  - Used to humorously admit that one usually forgets.
+---
+## 6. Common Mistakes and Tips
+### Common Mistakes
+1. **Using the Affirmative Form Incorrectly**
+   - **Mistake:** 朝ご飯を食べることがある。  
+     *(I sometimes eat breakfast.)*
+   - **Intended Meaning:** There are times I **don't** eat breakfast.
+   - **Correction:** 朝ご飯を食べ**ない**ことがある。
+2. **Confusion with Habitual Actions**
+   - **Mistake:** 毎日ジムに行かないことがある。  
+     *(I don't go to the gym every day.)*
+   - *This sentence implies sometimes you don't go, but if you rarely go, a different expression might be better.*
+### Tips
+- **Emphasize Exceptions:** Use **Verb ないことがある** to highlight exceptions in your routine.
+- **Context Matters:** Ensure the surrounding context supports the use of this grammar point to avoid confusion.
+### Mnemonic Device
+- **"Not + Thing There Is":** Remember that **ない** (not) + **ことがある** (there is a time) = "There are times when [I] don't..."
+---
+## 7. Summary and Review
+### Key Takeaways
+- **Verb ないことがある** expresses that an action **sometimes does not happen**.
+- Formed by adding **ことがある** to the **negative plain form** of a verb.
+- Useful for highlighting exceptions to regular or habitual actions.
+### Quick Recap Quiz
+1. **Question:** How do you form **Verb ないことがある**?
+   - **Answer:** Use the negative plain form of a verb and add **ことがある**.
+2. **Question:** What does **彼は朝早く起きないことがある** mean?
+   - **Answer:** "There are times when he doesn't wake up early."
+3. **Question:** True or False: **Verb ないことがある** can be used to express habitual actions.
+   - **Answer:** False. It expresses exceptions to habitual actions.
+---
+Feel free to practice by creating your own sentences using **Verb ないことがある** to describe exceptions in your daily routines!
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

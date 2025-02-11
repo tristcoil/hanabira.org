@@ -1,89 +1,113 @@
 Processing keyword: ~층 [cheung] (Floor count)
 # Korean Grammar Point: ~층 [cheung] (Floor count)
-# TOPIK Grammar Point: ~층 [cheung] (Floor Count)
+# Lesson on ~층 [cheung] (Floor Count)
+
 ## 1. Introduction
-In Korean, the suffix ~층 (cheung) is used to indicate the floor of a building. Just like in English where we say "first floor," "second floor," etc., ~층 serves a similar purpose in Korean.
+In Korean, counters are essential for expressing quantities, counts, and specific classifications of objects and concepts. One such counter is **~층** (*cheung*), used specifically to denote the **floor number** in a building. Understanding how to use ~층 is crucial for everyday conversations, especially when navigating buildings, discussing locations, or giving directions in Korea.
+---
 ## 2. Core Grammar Explanation
-### Detailed Explanation
-The suffix ~층 attaches to a number to specify which floor is being referenced. Here’s how it works:
-- The basic structure is **[Number] + 층**  
-- Numbers 1 to 10 have specific forms in Korean, but beyond that, you can create higher numbers using a combination of these forms.
-### Meaning, Structure, Formation Diagram
-| **Korean** | **Romanization** | **English**  |
-|------------|------------------|--------------|
-| 1층        | il-cheung        | first floor  |
-| 2층        | i-cheung         | second floor |
-| 3층        | sam-cheung       | third floor  |
-| 4층        | sa-cheung        | fourth floor |
-| ...        | ...              | ...          |
-| 10층       | sip-cheung       | tenth floor  |
-| 11층       | sip-il-cheung    | eleventh floor |
-**Example Formation**:
-- 1 + 층 = 1층 (first floor)
-- 5 + 층 = 5층 (fifth floor)
-  
-### Visual Aids
-Using a simple diagram to show the floors of a building:
+### Meaning
+**~층** (*cheung*) is a Sino-Korean word meaning "**floor**" or "**story**" of a building. It is attached to a numeral to indicate a specific floor level.
+### Structure
+The general structure for using ~층 is:
 ```
-Building Structure
----------------------
-|    5층 (fifth)    |
----------------------
-|    4층 (fourth)   |
----------------------
-|    3층 (third)    |
----------------------
-|    2층 (second)   |
----------------------
-|    1층 (first)    |
----------------------
+[Number] + 층
 ```
+- **[Number]**: A Sino-Korean numeral indicating the floor level.
+- **층**: The counter for floors.
+### Formation Diagram
+```
+[Number (Sino-Korean)] + 층 = Floor Number
+```
+### Visual Aid: Sino-Korean Numbers and 층
+
+| Numeral (Sino-Korean) | Pronunciation | Floor (층) | Pronunciation |
+|------------------------|---------------|------------|---------------|
+| 일                      | il            | 일층       | il-cheung     |
+| 이                      | i             | 이층       | i-cheung      |
+| 삼                      | sam           | 삼층       | sam-cheung    |
+| 사                      | sa            | 사층       | sa-cheung     |
+| 오                      | o             | 오층       | o-cheung      |
+| 육                      | yuk           | 육층       | yuk-cheung    |
+| 칠                      | chil          | 칠층       | chil-cheung   |
+| 팔                      | pal           | 팔층       | pal-cheung    |
+| 구                      | gu            | 구층       | gu-cheung     |
+| 십                      | sip           | 십층       | sip-cheung    |
+
+---
 ## 3. Comparative Analysis
-### Comparing ~층 with ~호 [ho]
-- ~층 refers to the floor number, while ~호 refers to the room number within that floor.
-- Example: 
-  - 5층 302호 = Room 302 on the fifth floor.
-### Differences in Usage
-- ~층 is used to indicate the physical level of a building, while ~호 is associated with room identification.
+While **층** is used for counting floors, it's important to distinguish it from other counters:
+- **명** (*myeong*): Used for counting people.
+- **개** (*gae*): Used for counting general items.
+- **호** (*ho*): Used for room numbers or apartment numbers.
+Understanding these differences helps avoid confusion. For example:
+- **삼층** (*sam-cheung*): 3rd floor.
+- **삼호** (*sam-ho*): Room or apartment number 3.
+---
 ## 4. Examples in Context
-### Sentence Examples
-1. **Formal Written**:  
-   - 그 사무실은 10층에 있습니다.  
-   - (Geu samusireun sip-cheung-e it습니다)  
-   - "That office is on the tenth floor."
-2. **Informal Spoken**:  
-   - 저기 2층에 있는 카페 알아?  
-   - (Jeogi i-cheung-e itneun kape ara?)  
-   - "Do you know the cafe on the second floor?"
-3. **Formal Inquiry**:  
-   - 손님, 몇 층에 가시겠어요?  
-   - (Son-nim, myeot cheung-e gasigess-eoyo?)  
-   - "Sir/Madam, which floor would you like to go to?"
-4. **Informal Statement**:  
-   - 우리 집은 3층이야.  
-   - (Uri jibeun sam-cheung-iya.)  
-   - "Our house is on the third floor."
+### Formal Situations
+1. **엘리베이터를 타고 오층에 올라가세요.**
+   - *Ellibeiteoreul tago ocheung-e ollagaseyo.*
+   - "Please take the elevator to the 5th floor."
+2. **회의실은 이층에 있습니다.**
+   - *Hoeuisireun icheung-e itsseumnida.*
+   - "The meeting room is on the 2nd floor."
+### Informal Situations
+1. **나 삼층에 있는 카페에서 기다릴게.**
+   - *Na samcheung-e inneun kapeseo gidarilge.*
+   - "I'll wait at the café on the 3rd floor."
+2. **우리 집은 육층이야.**
+   - *Uri jip-eun yukcheung-iya.*
+   - "My home is on the 6th floor."
+### Written Context
+1. **백화점 안내도: 식당은 팔층에 위치하고 있습니다.**
+   - *Baekhwajeom annaedo: Sikdang-eun palcheung-e wichihago itsseumnida.*
+   - "Department Store Guide: The restaurants are located on the 8th floor."
+### Spoken Context
+1. **엽서 여기 있어요. 우체국은 몇 층이에요?**
+   - *Yeopseo yeogi isseoyo. Ucheguk-eun myeot cheung-ieyo?*
+   - "Here's the postcard. What floor is the post office on?"
+---
 ## 5. Cultural Notes
 ### Cultural Relevance
-In Korea, buildings are commonly described using floors rather than ground levels. The first floor is above the ground level, which is considered the basement in many western buildings. Understanding this is crucial when navigating buildings in Korea.
+- **Floor Numbering in Korea**: Buildings in Korea typically count floors starting from the ground level as the 1st floor (**일층**). Unlike some Western countries where the ground floor is not counted as the 1st floor.
+  
+- **Tetraphobia**: The number **4 (사)** is sometimes considered unlucky in Korea due to its pronunciation similarity to the word for "death" (**사**). As a result, some buildings might label the 4th floor as **F** instead of **사층**.
 ### Idiomatic Expressions
-While there are no direct idiomatic expressions involving ~층, it is often used in phrases when giving directions or discussing locations.
+While there aren't many idioms specifically using **~층**, understanding floor-related terminology is helpful:
+- **고층 건물** (*gocheung geonmul*): High-rise building
+- **저층** (*jocheung*): Low floor
+---
 ## 6. Common Mistakes and Tips
 ### Error Analysis
-- **Common Mistake**: Confusing the term for floor with the term for room (~호). 
-  - Example Error: Saying "5호" when intending to say "5층."
+- **Using Native Korean Numbers**: Remember to use **Sino-Korean numbers** with **~층**, not native Korean numbers.
+  - Incorrect: *셋층* (**set-cheung**)
+  - Correct: *삼층* (**sam-cheung**)
+- **Confusing Counters**: Don't mix up **층** (floor) with **호** (room/apartment number).
+  - *삼호* is **room 3**, whereas *삼층* is the **3rd floor**.
 ### Learning Strategies
-- **Mnemonic Device**: Remember that "층" sounds like "cheung," which can remind you of "floor" (think about "chung" like change, and we change floors!).
+- **Mnemonic for Sino-Korean Numbers**: Practice counting from 1 to 10 in Sino-Korean to become comfortable.
+  ```
+  일, 이, 삼, 사, 오, 육, 칠, 팔, 구, 십
+  ```
+- **Association Technique**: Associate the floor number with a familiar place or action.
+  - *팔층* (8th floor) - Imagine eating (**먹다**) at a restaurant on the 8th floor.
+---
 ## 7. Summary and Review
 ### Key Takeaways
-- ~층 denotes the floor number in a building.
-- Attach the suffix ~층 to a number to specify the floor.
-- Be aware of the cultural context regarding building floors in Korea.
+- **~층** is a counter used with Sino-Korean numbers to indicate floor levels in a building.
+- Always use Sino-Korean numbers with **층**.
+- Be aware of cultural nuances like tetraphobia affecting floor numbering.
+- Differentiate **층** (floor) from other counters like **호** (room number).
 ### Quick Recap Quiz
-1. How do you say "third floor" in Korean?
-2. What is the difference between ~층 and ~호?
-3. If you are on the 7th floor, how would you express that in Korean?
-Answer Key:
-1. 3층 (sam-cheung)
-2. ~층 indicates the floor; ~호 indicates the room number on that floor.
-3. 7층 (chil-cheung)
+1. How would you say "7th floor" in Korean?
+   - **Answer**: **칠층** (*chilcheung*)
+2. Which number system should you use with **~층**?
+   - **Answer**: Sino-Korean numbers
+3. Translate to Korean: "The bookstore is on the 9th floor."
+   - **Answer**: **서점은 구층에 있습니다.** (*Seojeomeun gucheung-e itsseumnida.*)
+---
+Feel free to revisit this lesson to reinforce your understanding of using **~층** in Korean!
+
+---
+© [Hanabira.org](https://hanabira.org)

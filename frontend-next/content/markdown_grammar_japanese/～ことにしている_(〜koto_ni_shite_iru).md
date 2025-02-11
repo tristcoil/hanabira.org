@@ -1,71 +1,94 @@
 Processing keyword: ～ことにしている (〜koto ni shite iru)
 # Japanese Grammar Point: ～ことにしている (〜koto ni shite iru)
-# Grammar Point: ～ことにしている (〜koto ni shite iru)
+
 ## 1. Introduction
-The grammar point "～ことにしている" is used to express a decision or an intention that has been established over time. It indicates that the speaker has made a habit or a conscious choice regarding a particular action. This grammar is useful for discussing lifestyle choices or routines.
+In this lesson, we'll explore the Japanese grammar point **〜ことにしている (koto ni shite iru)**. This expression is commonly used to indicate habits or routines that one has consciously decided to adopt. It's a useful structure for discussing personal decisions that you regularly carry out.
+
+---
 ## 2. Core Grammar Explanation
 ### Meaning
-- "～ことにしている" translates to "have decided to" or "have made it a point to" in English. It signifies an ongoing commitment or lifestyle choice.
+**〜ことにしている** is used to express that someone has made a personal decision to do (or not do) something and is maintaining that decision as a regular practice or habit.
 ### Structure
-- The basic structure is:
-  - **Verb (dictionary form) + ことにしている**
-- For negative forms:
-  - **Verb (dictionary form) + ことにしていない**
-  
-### Formation Diagram
-```plaintext
-Verb (Dictionary Form)  +  ことにしている
-                          ↓
-                  Ongoing Choice/Decision
+The basic structure of **〜ことにしている** is:
 ```
-### Detailed Explanation
-1. **Verb Selection**: Use the dictionary form of the verb to express the action you're making a decision about.
-2. **Continuous Action**: This structure implies that the action is not just a one-time decision but an ongoing commitment.
-   
+Verb (dictionary form / ない-form) + ことにしている
+```
+- **Verb (dictionary form) + ことにしている**: Deciding to do something regularly.
+- **Verb (ない-form) + ことにしている**: Deciding not to do something regularly.
+### Formation Diagram
+| Verb Form               | + ことにしている             | Meaning                          |
+|-------------------------|-----------------------------|----------------------------------|
+| 食べる (taberu)          | **食べることにしている**     | I make it a habit to eat         |
+| 食べない (tabenai)       | **食べないことにしている**   | I make it a habit not to eat     |
+| 勉強する (benkyou suru)  | **勉強することにしている**   | I make it a habit to study       |
+| 運動しない (undou shinai)| **運動しないことにしている** | I make it a habit not to exercise|
+---
 ## 3. Comparative Analysis
-### Comparison with Similar Grammar Points
-- **～ことになる (koto ni naru)**: This means "it becomes" or "it is decided that." While "～ことにしている" indicates a personal decision or habit, "～ことになる" refers to external decisions or situations that affect the speaker.
-### Examples
-- ～ことにしている: 自分の健康のために、毎朝運動することにしている。
-  - (I have decided to exercise every morning for my health.)
-- ～ことになる: 来月から東京に引っ越すことになった。
-  - (It has been decided that I will move to Tokyo next month.)
+It's important to distinguish **〜ことにしている** from similar expressions:
+### Comparison Table
+| Grammar Point           | Meaning                                                        |
+|-------------------------|----------------------------------------------------------------|
+| **〜ことにしている**     | Personal decision, maintaining as a habit                      |
+| **〜ことになっている**   | A rule or decision made by others; social norms               |
+| **〜ようにしている**     | Making an effort to do something regularly (not guaranteed)    |
+- **〜ことにしている**: Emphasizes a personal, intentional habit.
+- **〜ことになっている**: Indicates an arrangement or rule that is beyond one's control.
+- **〜ようにしている**: Focuses on the effort or attempt to do something regularly.
+---
 ## 4. Examples in Context
 ### Sentence Examples
-1. **Formal**: 
-   - 健康のために、毎日野菜を食べることにしています。
-     - (I have made it a habit to eat vegetables every day for my health.)
-   
-2. **Informal**:
-   - 最近、運動することにしてるんだ。
-     - (I've decided to exercise lately.)
-   
-3. **Written**:
-   - 今年は、環境を守るためにプラスチックを使わないことにしています。
-     - (This year, I have decided not to use plastic to protect the environment.)
-   
-4. **Spoken**:
-   - 夕飯は自炊することにしてるよ。
-     - (I've decided to cook for dinner myself.)
+1. **健康のために、毎朝ジョギングすることにしています。**
+   *For my health, I've made it a habit to jog every morning.*
+2. **節約のために、外食しないことにしています。**
+   *To save money, I've decided not to eat out.*
+3. **環境のために、買い物にはマイバッグを持っていくことにしています。**
+   *For the environment, I make it a habit to bring my own bag when shopping.*
+4. **集中するために、勉強中はスマホを見ないことにしています。**
+   *To concentrate, I've decided not to look at my smartphone while studying.*
+5. **家族との時間を大切にするために、週末は仕事をしないことにしています。**
+   *To value time with my family, I've made it a rule not to work on weekends.*
+---
 ## 5. Cultural Notes
 ### Cultural Relevance
-In Japanese culture, personal commitments and decisions often reflect one's responsibility and respect for others. Using "～ことにしている" shows that you are taking your choices seriously, which aligns with societal expectations.
-### Levels of Politeness
-This grammar structure can be used in both formal and informal situations. Context will dictate the level of politeness.
-### Idiomatic Expressions
-- Using "～ことにしている" can be seen in idiomatic expressions about health, discipline, or habits, reflecting cultural values regarding perseverance and personal growth.
+- **Self-Discipline**: In Japanese culture, self-discipline and personal responsibility are valued traits. Using **〜ことにしている** reflects one's commitment to personal goals and self-improvement.
+- **Modesty**: Expressing habits or routines using this structure can convey humility, as it focuses on personal efforts rather than boasting.
+### Politeness and Formality
+- The expression is neutral but can be adjusted for politeness by conjugating **している** appropriately.
+  - Polite form: **〜ことにしています**
+  - Casual form: **〜ことにしてる**
+---
 ## 6. Common Mistakes and Tips
 ### Error Analysis
-- Learners may confuse "～ことにしている" with "～ことになる." Remember that "～ことにしている" conveys personal intention, while "～ことになる" reflects external circumstances.
+1. **Mixing up with 〜ことになっている**
+   - **Incorrect**: 毎日漢字を勉強することになっている。
+   - **Explanation**: Implies that someone else decided you should study kanji every day.
+   - **Correct**: 毎日漢字を勉強することにしている。
+2. **Using 〜ようにしている when 〜ことにしている is appropriate**
+   - **Incorrect**: 夜は甘いものを食べないようにしている。
+   - **Explanation**: Focuses on the effort, not the established habit.
+   - **Correct**: 夜は甘いものを食べないことにしている。
 ### Learning Strategies
-- To remember the difference, connect "～ことにしている" with habitual actions like training for a sport (personal decision), while "～ことになる" can be thought of as results beyond your control (like a scheduled event).
+- **Mnemonic Device**: Think of **こと** as "thing" or "matter," so **ことにしている** is like "making it a matter to do."
+- **Practice**: Create sentences about your own habits using **〜ことにしている** to internalize the structure.
+  
+---
 ## 7. Summary and Review
 ### Key Takeaways
-- "～ことにしている" signifies ongoing habits or personal decisions.
-- It is important to distinguish it from "～ことになる" which shows an external determination.
-- Use this structure to talk about your habits related to health, work, or any personal commitment.
+- **〜ことにしている** is used to express personal habits or routines resulting from a conscious decision.
+- **Structure**: **Verb (dictionary form / ない-form) + ことにしている**
+- Differentiate from similar expressions to avoid misunderstandings.
 ### Quick Recap Quiz
-1. What does "～ことにしている" mean in English?
-2. How is "～ことにしている" different from "～ことになる"?
-3. Provide an example sentence using "～ことにしている."
+1. **How would you say "I've made it a habit to read before bed" in Japanese?**
+   - **Answer**: 寝る前に本を読むことにしています。
+2. **What is the difference between 〜ことにしている and 〜ようにしている?**
+   - **Answer**: **〜ことにしている** indicates a decided and ongoing habit, while **〜ようにしている** emphasizes making an effort to do something regularly.
+3. **Which form is used to express not doing something as a habit?**
+   - **Answer**: Verb in **ない-form + ことにしている**
 ---
+By mastering **〜ことにしている**, you can effectively communicate your personal habits and decisions in Japanese, enhancing both your language skills and cultural understanding.
+
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

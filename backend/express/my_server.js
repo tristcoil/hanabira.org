@@ -27,7 +27,7 @@ const modelMapping = {
   JLPT_: Grammar,
   VIET: VnGrammar,
   HSK_: CnGrammar,
-  TOPIK_: KrGrammar,
+  KOREAN_: KrGrammar,
   "CU-TFL_": ThGrammar,
   // Add other mappings for different language models
 };

@@ -1,73 +1,127 @@
 Processing keyword: どの Noun (dono Noun)
 # Japanese Grammar Point: どの Noun (dono Noun)
-# Grammar Point: どの Noun (dono Noun)
-## Introduction
-The Japanese phrase "どの" (dono) is an interrogative adjective used to ask questions about which specific noun is being referred to. It translates to “which” in English. It is commonly used in everyday conversations, making it an essential grammar point for learners.
-## Core Grammar Explanation
-### Detailed Explanation
-- **Meaning**: "どの" is used to inquire about a specific item within a known set.
-- **Structure**: 
-  - "どの" + noun
-- **Formation Diagram**:
-  ```
-  Question Structure: 
-  [どの] + [Noun] + [verb/particle/etc.]
-  
-  Example:
-  どの本を読みますか？ (dono hon o yomimasu ka?)
-  Which book will you read?
-  ```
-### Visual Aid
-|         | Noun        |
-|---------|-------------|
-| どの   | Which      |
-| Noun | Book, car, etc. |
-## Comparative Analysis
-### Comparison with Similar Grammar Points
-- **何の (nan no)**: Used to ask about "what kind of" or "which type," but more specific in nature.
-  - Example: 何の本ですか？ (nan no hon desu ka?) - What kind of book is it?
-- **どれ (dore)**: Used to ask "which one," referring to an item among several options.
-  - Example: どれがいいですか？ (dore ga ii desu ka?) - Which one is good?
-### Differences
-- "どの" requires a noun to follow, while "どれ" stands alone.
-- "どの" functions best in situations where there are categories, while "どれ" fits better when asking about multiple specific items.
-## Examples in Context
-### Sentence Examples:
-1. **Formal**: 
-   - お好きなどの映画はありますか？ (Osuki na dono eiga wa arimasu ka?)
-   - Is there a movie you like (which one)?
-  
-2. **Informal**: 
-   - どのチョコレートが好き？ (Dono chokorēto ga suki?)
-   - Which chocolate do you like?
-3. **Written**: 
-   - どの研究が最も重要ですか？ (Dono kenkyū ga mottomo jūyō desu ka?)
-   - Which research is the most important?
-4. **Spoken**: 
-   - どの場所で待ち合わせしましょうか？ (Dono basho de machiawase shimashou ka?)
-   - Where shall we meet (which place)?
-## Cultural Notes
-### Cultural Relevance
-In Japanese culture, context and formality are important. When using "どの," it's essential to adjust your speech depending on the formality of the situation or your relationship with the person you're speaking to.
-### Levels of Politeness
-While "どの" can be used in various contexts, adding polite expressions or adjusting the structure (using more formal language) might be necessary depending on the audience.
-### Idiomatic Expressions
-- **どのように (dono you ni)**: Means "in what way," indicating method or manner.
-  - Example: どのように行きますか？ (Dono you ni ikimasu ka?) - How are you going (which way)?
-## Common Mistakes and Tips
-### Error Analysis
-- Mixing up どの and どれ: Remember, "どの" is for followed by nouns, while "どれ" can stand alone.
-- Incorrect conjugation: Ensure verb endings match the politeness of your question.
-### Learning Strategies
-- **Mnemonic Device**: Remember "どの" as "Do you (ど) know (の) which?" This emphasizes its questioning nature.
-## Summary and Review
-### Key Takeaways
-- "どの" is used to ask which specific noun is being referred to.
-- It must be followed by a noun and is used in both formal and informal contexts.
-- Understanding the subtleties between "どの," "どれ," and "何の" aids in clearer communication.
-### Quick Recap Quiz
-1. What does "どの" mean in English?
-2. How does "どの" differ from "どれ"?
-3. Create a sentence using "どの" followed by a noun.
+
+## 1. Introduction
+In this lesson, we'll explore the Japanese grammar point **「どの Noun」** (*dono* + noun), which is essential for asking "which" among multiple items. Understanding how to use **どの** will enhance your ability to ask specific questions and clarify information in conversations.
+
 ---
-Feel free to ask further questions or request variations of this content!
+## 2. Core Grammar Explanation
+### Meaning
+- **どの**: "Which" (used before a noun to ask about a specific item among several)
+### Structure
+The basic structure is:
+```plaintext
+どの + Noun
+```
+- **どの** modifies a noun to form a question about *which* item.
+### Formation Diagram
+| Japanese  | Function                 |
+|-----------|--------------------------|
+| **どの**   | Interrogative adjective ("which") |
+| **Noun**  | The item being inquired about   |
+### Detailed Explanation
+- **どの** is an interrogative word used to ask "which" when selecting among multiple known items.
+- It must be directly followed by the noun it modifies.
+- Commonly used in sentences to request specific information.
+---
+## 3. Comparative Analysis
+### Comparing **どの**, **どれ**, and **何の**
+- **どの** vs. **どれ**:
+  - **どの** is used **before** a noun.
+    - Example: **どの本** (*which book*)
+  - **どれ** stands alone and replaces the noun.
+    - Example: **どれが好きですか。** (*Which one do you like?*)
+- **どの** vs. **何の**:
+  - **どの** asks "which" among known options.
+  - **何の** asks "what kind of" or "what" when the options are unknown.
+    - Example: **何の本** (*what kind of book*)
+
+| Expression | Usage                        | Example                      |
+|------------|------------------------------|------------------------------|
+| **どの** Noun | "Which" specific item        | **どの車**があなたのですか。    |
+| **どれ**     | "Which one" (no noun)        | **どれ**があなたの車ですか。    |
+| **何の** Noun | "What kind of" or "What" item | **何の車**が好きですか。        |
+
+---
+## 4. Examples in Context
+### Sentence Examples
+#### Formal
+1. **どの資料を使用しますか。**
+   - *Dono shiryō o shiyō shimasu ka.*
+   - "Which materials will you use?"
+2. **どの会社にお勤めですか。**
+   - *Dono kaisha ni otsutome desu ka.*
+   - "Which company do you work for?"
+#### Informal
+3. **どの色がいい？**
+   - *Dono iro ga ii?*
+   - "Which color is good?"
+4. **どの映画を見たい？**
+   - *Dono eiga o mitai?*
+   - "Which movie do you want to watch?"
+#### Written
+5. **どの方法が最適か検討する必要があります。**
+   - *Dono hōhō ga saiteki ka kentō suru hitsuyō ga arimasu.*
+   - "We need to consider which method is optimal."
+#### Spoken
+6. **どの駅で降りるんだっけ？**
+   - *Dono eki de orirun dakke?*
+   - "Which station are we getting off at again?"
+### Dialogue Example
+**A:** 明日のミーティングはどの会議室ですか。
+- *Ashita no mītingu wa dono kaigishitsu desu ka.*
+- "Which conference room is tomorrow's meeting in?"
+**B:** 3階のCルームですよ。
+- *Sankai no C rūmu desu yo.*
+- "It's in Room C on the third floor."
+---
+## 5. Cultural Notes
+### Cultural Relevance
+- In Japanese society, clarity and specificity are valued in communication.
+- Using **どの** helps specify the exact item or person being referred to, which is important in situations that require precision.
+### Levels of Politeness
+- When referring to people, using **どの方（どのかた）** is more polite than **どの人（どのひと）**.
+  - Example: **どの方が先生ですか。**
+    - "Which person is the teacher?"
+### Idiomatic Expressions
+- **どの面下げて（どのつらさげて）**
+  - Literally: "With which face lowered"
+  - Meaning: "How dare you" or expressing indignation at someone's audacity.
+---
+## 6. Common Mistakes and Tips
+### Error Analysis
+1. **Using どの without a noun**
+   - Incorrect: **どのがあなたのですか。**
+   - Correct: **どれがあなたのですか。**
+   - Correction Explanation: **どの** must be followed by a noun. Use **どれ** when the noun is omitted.
+2. **Confusing どの with どれ**
+   - Mistake: Mixing up **どの** and **どれ**.
+   - Tip: Remember, **どの** + noun; **どれ** replaces the noun.
+### Learning Strategies
+- **Mnemonic Device**:
+  - **どの** has an 'n' just like **noun**. So, **どの** always needs a noun.
+- **Practice**:
+  - Create flashcards with **どの** + noun phrases to reinforce the pattern.
+---
+## 7. Summary and Review
+### Key Takeaways
+- **どの** means "which" and is always used before a noun.
+- It is used to ask about a specific item among several known items.
+- Do not confuse **どの** (which + noun) with **どれ** (which one).
+### Quick Recap Quiz
+1. **Fill in the blank**: ______ 本が一番面白いですか。
+   - **Answer**: **どの**
+   - "Which book is the most interesting?"
+2. **True or False**: **どの** can be used without a noun.
+   - **Answer**: **False**. **どの** must be followed by a noun.
+3. **Choose the correct sentence**:
+   a) **どれ人が先生ですか。**
+   b) **どの人が先生ですか。**
+   - **Answer**: b) **どの人が先生ですか。**
+---
+By mastering **どの Noun**, you can ask precise questions and engage in more detailed conversations in Japanese. Keep practicing by incorporating this grammar point into your daily interactions!
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

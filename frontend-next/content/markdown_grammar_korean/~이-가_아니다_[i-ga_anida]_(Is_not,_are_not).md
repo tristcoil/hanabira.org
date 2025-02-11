@@ -1,72 +1,125 @@
 Processing keyword: ~이/가 아니다 [i/ga anida] (Is not, are not)
 # Korean Grammar Point: ~이/가 아니다 [i/ga anida] (Is not, are not)
-# Grammar Point: ~이/가 아니다 [i/ga anida] (Is not, are not)
+
 ## 1. Introduction
-The expression ~이/가 아니다 is a fundamental Korean grammatical structure that is used to negate a noun. It translates to "is not" or "are not" in English and is essential for forming negative statements.
+The Korean grammar pattern **~이/가 아니다** [**i/ga anida**] is essential for expressing negation in Korean. It translates to "is not" or "are not" in English and is used to indicate that a subject is not something or someone.
+
+---
 ## 2. Core Grammar Explanation
-### Detailed Explanation
-- **Meaning:** 
-  - This structure gives a negative meaning to the noun it modifies. It indicates that the subject is not the noun in question.
-  
-- **Structure:**
-  - **Basic Formation:**
-    - **Subject + 이/가 아니다 + (noun).**
-  
-- **Usage of 이/가:**
-  - **이 (i)**: used after a noun ending in a consonant.
-  - **가 (ga)**: used after a noun ending in a vowel.
-### Formation Diagram
-```
-[Subject] + (이/가) + 아니다
-```
-### Visual Aids
-| Noun Ending | Form     |
-|-------------|----------|
-| Consonant   | 이 아니다  |
-| Vowel       | 가 아니다  |
+## Meaning
+The pattern **~이/가 아니다** is used to negate a noun, stating that the subject **is not** the noun that follows.
+## Structure
+- **Noun + 이/가 아니다**
+## Formation Diagram
+| **Subject (Noun)** | **이/가** | **아니다** |
+|--------------------|-----------|------------|
+| 책상              | 이        | 아니다     |
+| 학생              | 이        | 아니다     |
+| 우유              | 가        | 아니다     |
+| 선생님            | 이        | 아니다     |
+## Particle Selection
+- Use **이** after a noun ending with a consonant.
+- Use **가** after a noun ending with a vowel.
+### Examples:
+- 책**이** 아니다 (It is not a book)
+- 연필**이** 아니다 (It is not a pencil)
+- 사과**가** 아니다 (It is not an apple)
+- 친구**가** 아니다 (He/She is not a friend)
+---
 ## 3. Comparative Analysis
-- **Similar Structures:**
-  - **이 아니다 vs. 아니다**: 
-    - "아니다" alone can be used in informal settings but typically without a specific subject. For example, "그건 사실이 아니다" (That is not true).
-  - **~이/가 있어요 vs. ~이/가 없어요**:
-    - Where ~이/가 있어요 means "there is" or "has," the opposite ~이/가 없어요 means "there is not" or "does not have." 
+**~이/가 아니다** vs **~은/는 아니다**
+- Both are used for negation, but **~은/는 아니다** adds emphasis or contrast.
+- **~이/가 아니다** states a simple negation.
+- **~은/는 아니다** implies "not... but..." suggesting there's more to the statement.
+*Example:*
+- **그 사람은 학생이 아니다.**  
+  (That person is not a student.)
+- **그 사람은 학생은 아니다.**  
+  (That person is not a student [but perhaps something else].)
+---
 ## 4. Examples in Context
-### Sentence Examples
-1. **Formal:**
-   - 이 문장이 아닙니다. 
-     - (This is not the sentence.)
-   
-2. **Informal:**
-   - 그 책이 아니야.
-     - (That is not the book.)
-   
-3. **Written:**
-   - 이 영화는 재미있지 않다고 생각합니다.
-     - (I think this movie is not interesting.)
-   
-4. **Spoken:**
-   - 이거 내 거 아니야.
-     - (This is not mine.)
+### Formal Polite (존댓말)
+1. **저는 의사가 아닙니다.**  
+   *I am not a doctor.*
+2. **이곳은 회사가 아닙니다.**  
+   *This place is not a company.*
+### Informal Polite
+1. **나는 학생이 아니에요.**  
+   *I am not a student.*
+2. **그것은 사실이 아니에요.**  
+   *That is not true.*
+### Informal Casual (반말)
+1. **나는 가수가 아니야.**  
+   *I am not a singer.*
+2. **이건 내 문제가 아니야.**  
+   *This is not my problem.*
+### Written Context
+1. **본 제품은 완구가 아닙니다.**  
+   *This product is not a toy.*
+2. **해당 정보는 공식 자료가 아닙니다.**  
+   *The information is not official data.*
+---
 ## 5. Cultural Notes
-### Cultural Relevance
-In Korean culture, politeness and context matter significantly. When using ~이/가 아니다, the ending can change based on how formal or polite the speaker wants to be. It's essential in formal situations to use the formal version (이/가 아닙니다).
-### Idiomatic Expressions
-- "진실이 아니다." (It's not the truth.)
-- "내가 좋아하는 것이 아니다." (It is not what I like.)
+## Politeness Levels
+- Using **아닙니다** is formal and polite, suitable for official situations and with elders.
+- **아니에요** is polite but less formal, common in everyday conversations.
+- **아니야** is casual and used among close friends or to someone younger.
+## Idiomatic Expressions
+- **아닌 것 같다**  
+  *I think it's not...*
+  *Example:* **그건 사실이 아닌 것 같아요.**  
+  *(I think that's not true.)*
+---
 ## 6. Common Mistakes and Tips
-### Error Analysis
-- **Incorrect Usage:** 
-  - Saying "이가 아니다" (using 가 instead of 이) after a noun that ends in a consonant is a common mistake.
-  
-### Learning Strategies
-- **Mnemonic Device:** 
-  - Remember "이 for consonant" by linking "이" with "consonant ending" to practice the differences, such as "Vowel: 가" helped remember that 가 follows vowel endings.
+## Error Analysis
+- **Mistake:** Using **은/는** instead of **이/가** with **아니다**.
+  *Incorrect:* 나는 학생**은** 아니다.
+  *Correct:* 나는 학생**이** 아니다.
+- **Mistake:** Omitting the particle **이/가**.
+  *Incorrect:* 그는 선생님 아니다.
+  *Correct:* 그는 선생님**이** 아니다.
+## Learning Strategies
+- **Mnemonic for Particles:**
+  - If the noun ends with a **consonant**, use **이**.
+    - Think "**C**onsonant → **이**"
+  - If the noun ends with a **vowel**, use **가**.
+    - Think "**V**owel → **가**"
+---
 ## 7. Summary and Review
-### Key Takeaways
-- ~이/가 아니다 is used to negate nouns.
-- It changes based on whether the noun ends in a consonant or a vowel.
-- Use this structure to form negative statements in various contexts while paying attention to the level of formality. 
-### Quick Recap Quiz
-1. How do you negate a noun that ends in a consonant using ~이/가 아니다?
-2. Provide an example using ~이 아니다 in a sentence.
-3. What is the difference between using ~이 아니다 and ~이 아닙니다?
+## Key Takeaways
+- **~이/가 아니다** is used to express "is not" or "are not".
+- Attach **이** to nouns ending with consonants; attach **가** to nouns ending with vowels.
+- Politeness levels vary: **아닙니다** (formal), **아니에요** (informal polite), **아니야** (informal casual).
+## Quick Recap Quiz
+1. Fill in the blank with the correct particle:
+   **저는 학생___ 아니에요.**
+2. Is this sentence correct? If not, correct it:
+   **이것은 책이 아닙니다.**
+3. Translate to Korean:
+   **"They are not teachers."**
+
+### Answers:
+1. **저는 학생**이** 아니에요.**
+2. The sentence is correct.
+3. **그들은 선생님**이** 아닙니다.**
+---
+
+## Additional Notes
+Remember that **아니다** is a verb in Korean, so it should be conjugated accordingly to match the speech level and context.
+
+---
+## Visual Aid: Particle Usage Chart
+| Noun Ending        | Particle | Example Noun | Complete Form      |
+|--------------------|----------|--------------|--------------------|
+| Consonant (받침)   | 이        | 학생         | 학생**이** 아니다   |
+| Vowel (No 받침)    | 가        | 의사         | 의사**가** 아니다   |
+
+---
+# Practice Sentences
+Try creating your own sentences using **~이/가 아니다**:
+1. **I am not Korean.**
+2. **This is not coffee.**
+3. **He is not my brother.**
+
+---
+© [Hanabira.org](https://hanabira.org)

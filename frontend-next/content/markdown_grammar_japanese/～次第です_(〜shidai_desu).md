@@ -1,67 +1,127 @@
 Processing keyword: ～次第です (〜shidai desu)
 # Japanese Grammar Point: ～次第です (〜shidai desu)
-# Grammar Point: ～次第です (〜shidai desu)
+
 ## 1. Introduction
-The phrase ～次第です (〜shidai desu) is used to indicate that something will happen as soon as another action or event is completed. It expresses a sense of immediacy and is often used in formal or polite contexts.
+In this lesson, we'll explore the Japanese grammar point **～次第です (〜shidai desu)**, which is used to explain the reason or circumstances behind a decision or action. Understanding this expression will help you articulate explanations and justifications more naturally in Japanese.
+
+---
 ## 2. Core Grammar Explanation
-### Detailed Explanation
-The structure of this grammar point is as follows:
-- **Verb (in the ます-form) + 次第です (shidai desu)**
 ### Meaning
-"次第" (shidai) means "depending on" or "as soon as," and when combined with "です” (desu), it forms a polite expression used to describe events or situations that are contingent on a preceding action.
-### Structure Formation
-- **Structure:**  
-  - [Verb in ます-form] + 次第です
-    - Example: 準備ができ次第です (junbi ga deki shidai desu) - “As soon as it is ready”
-### Visual Aid
-| Component               | Explanation                                 |
-|-------------------------|---------------------------------------------|
-| Verb (ます-form)       | Indicates the action that must be completed |
-| 次第 (shidai)          | Indicates that the next action depends on the first action |
-| です (desu)            | Polite ending particle                       |
+**～次第です (〜shidai desu)** conveys the meaning of "that is why," "therefore," or "as a result." It is used to explain the reason or background for a certain situation or action, often in a formal context. This expression emphasizes that the preceding statement is the reason for the subsequent explanation.
+### Structure
+The structure of **～次第です** is as follows:
+- **Verb (dictionary form)** + **次第です**
+- **Verb (ます-stem)** + **次第です**
+However, it's most commonly used with the **ます-stem** of a verb.
+#### Formation Diagram
+| Component          | Form             |
+|--------------------|------------------|
+| Verb (ます-stem)    | 食べ **ます** → 食べ **** |
+| +                  | 次第です          |
+| **Combined Form**  | 食べ次第です      |
+### Examples of Verb Conjugation
+- **帰る (to return)** → **帰り** + **次第です** → **帰り次第です**
+- **伺う (to visit)** → **伺い** + **次第です** → **伺い次第です**
+---
 ## 3. Comparative Analysis
-Similar grammar points include:
-- **〜てから (〜te kara)**: This indicates that one action occurs after another. 
-  - Example: ご飯を食べてから、勉強します (Gohan o tabete kara, benkyou shimasu) – "I will study after eating."
-- **〜うちに (〜uchi ni)**: This indicates that an action occurs while a certain condition is true.
-  - Example: 雨が降らないうちに、出発しましょう (Ame ga furanai uchi ni, shuppatsu shimashou) – "Let's leave while it’s not raining."
-**Difference:** While 〜次第です focuses on immediacy and contingency, 〜てから is sequential and 〜うちに emphasizes the duration of a state.
+### Comparison with Similar Grammar Points
+#### ～からです (〜kara desu)
+- **Usage**: Used to provide a simple reason or cause.
+- **Formality**: Neutral to polite.
+- **Example**: 今日は忙しいからです。  
+  *Translation*: Because I am busy today.
+#### ～次第です (〜shidai desu)
+- **Usage**: Used to explain the reason or circumstances, often adding a formal tone.
+- **Formality**: Formal.
+- **Example**: 本日、忙しい状況である次第です。  
+  *Translation*: That is why I am in a busy situation today.
+**Note**: While both expressions provide reasons, **～次第です** is more formal and often used in business or official settings to elaborate on circumstances.
+---
 ## 4. Examples in Context
 ### Sentence Examples
-1. **Formal**: 
-   - 資料が届き次第、すぐにお知らせします。  
-     (Shiryou ga todoki shidai, sugu ni oshirase shimasu.)  
-     "As soon as the documents arrive, I will inform you immediately."
-     
-2. **Informal**: 
-   - 仕事が終わり次第、遊びに行こう。  
-     (Shigoto ga owari shidai, asobi ni ikou.)  
-     "Let's go hang out as soon as I finish work."
-3. **Written**: 
-   - 会議の日程が決まり次第、お知らせいたします。  
-     (Kaigi no nittei ga kimari shidai, oshirase itashimasu.)  
-     "We will notify you as soon as the meeting schedule is finalized."
-4. **Spoken**: 
-   - 電話が来次第、連絡しますね。  
-     (Denwa ga ki shidai, renraku shimasu ne.)  
-     "I will contact you as soon as the call comes in."
+1. **会議が延期になったことをお知らせする次第です。**
+   *Translation*: I am informing you that the meeting has been postponed.
+2. **この度、プロジェクトを終了する次第です。**
+   *Translation*: Therefore, we will be concluding the project at this time.
+3. **新しいシステムを導入する次第です。**
+   *Translation*: That is why we are introducing a new system.
+4. **皆様にご報告いたしました次第です。**
+   *Translation*: This is why I have reported to everyone.
+### Contextual Usage
+- **Formal Written Communication**: Such as emails, letters, or announcements.
+  **Example**: 
+  > お客様各位、価格改定のお知らせを申し上げる次第です。
+  *Translation*: 
+  > Dear customers, we are informing you of the price revisions.
+- **Formal Spoken Communication**: Speeches, presentations, or formal meetings.
+  **Example**: 
+  > 本日はご多用のところお集まりいただいた次第です。
+  *Translation*: 
+  > That is why we have gathered today despite everyone's busy schedules.
+---
 ## 5. Cultural Notes
 ### Cultural Relevance
-Using ～次第です shows respect for the listener's time and creates an expectation of prompt communication, which aligns with Japanese social norms emphasizing courtesy and consideration.
+In Japanese culture, expressing oneself appropriately in formal situations is crucial. Using **～次第です** shows respect and politeness, adhering to the social norms of formality.
+### Levels of Politeness and Formality
+- **Very Formal**: **～次第でございます**
+  Used in honorific expressions, elevating the politeness level.
+  **Example**: 
+  > このような結果となった次第でございます。
+  *Translation*: 
+  > That is how we arrived at this result.
+- **Formal**: **～次第です**
+  Standard formal expression suitable for business settings.
 ### Idiomatic Expressions
-- 何かあればすぐに次第です (Nanika areba sugu ni shidai desu) - "If anything happens, I will let you know right away."
+- **～する次第だ**
+  Conveys a formal explanation for taking action.
+  **Example**: 
+  > 詳細を確認した次第だ。
+  *Translation*: 
+  > That is why I have confirmed the details.
+---
 ## 6. Common Mistakes and Tips
 ### Error Analysis
-- **Using casually in formal situations**: Ensure appropriate usage; 〜次第です is more formal and not suitable for casual conversations.
+1. **Using in Casual Conversations**
+   - **Mistake**:  
+     Using **～次第です** with close friends or in informal settings.
+   - **Correction**:  
+     Use more casual expressions like **～だから** or **～なんです**.
+2. **Incorrect Verb Form**
+   - **Mistake**:  
+     Using the plain past tense before **次第です**.  
+     **Example**: 終わった次第です。
+   - **Correction**:  
+     Use the **ます-stem** form.  
+     **Example**: 終わり次第です。
 ### Learning Strategies
-- **Mnemonic Device**: Think of "next in line" as everything depends on the preceding action, just like passengers boarding a plane one after the other.
+- **Remember the Formality**: Associate **～次第です** with formal situations like business meetings or official announcements.
+- **Practice with Set Phrases**: Familiarize yourself with common expressions to gain a natural feeling for usage.
+- **Verb Stem Usage**: Recall that the **ます-stem** connects verbs to other structures, not the past tense.
+---
 ## 7. Summary and Review
 ### Key Takeaways
-- The phrase ～次第です indicates events occurring immediately after another.
-- It is used mostly in formal contexts to convey a sense of urgency.
-- Distinguish between similar phrases such as ～てから and ～うちに.
+- **～次第です** is used to formally explain reasons or circumstances behind actions.
+- It is constructed by attaching **次第です** to the **ます-stem** of a verb.
+- This expression adds a level of formality suitable for business or official contexts.
 ### Quick Recap Quiz
-1. What does ～次第です express?  
-2. In what contexts is ～次第です mainly used?  
-3. Give an example sentence using ～次第です.
-Feel free to revise the example sentences as per your needs, and practice using the grammar point in different scenarios!
+1. **Fill in the blank with the correct form:**
+   新しいサービスを開始する_______。
+   a) からです  
+   b) 次第です
+   **Answer**: **b) 次第です**
+2. **True or False:**
+   You can use **～次第です** in casual conversations with friends.
+   **Answer**: **False**
+3. **Which verb form is used before **次第です**?**
+   a) Dictionary form  
+   b) た-form (Past tense)  
+   c) ます-stem
+   **Answer**: **c) ます-stem**
+---
+By mastering **～次第です**, you'll enhance your ability to communicate formally and respectfully in Japanese. This grammar point is essential for professional interactions and demonstrates a high level of language proficiency.
+Feel free to practice by creating your own sentences using **～次第です**!
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

@@ -1,67 +1,113 @@
 Processing keyword: ～ように言う (〜you ni iu)
 # Japanese Grammar Point: ～ように言う (〜you ni iu)
-# Japanese Grammar Point: ～ように言う (～you ni iu)
+
 ## 1. Introduction
-The grammar point ～ように言う (〜you ni iu) is used when you want to express that someone is instructed or asked to do something. It translates to "to say to [someone] to [do something]." This structure is particularly useful when relaying requests or advice that have been communicated to another person.
+In Japanese, expressing indirect commands or requests is essential for polite and nuanced communication. The grammar structure **～ように言う** is used to convey such indirect commands, requests, or suggestions. Understanding this structure will enhance your ability to report what someone told someone else to do or to make polite requests.
+
+---
 ## 2. Core Grammar Explanation
-### Detailed Explanation
-- **Meaning**: The phrase expresses the idea that one is conveying instructions or requests to someone else.
-- **Structure**: This expression is formed by using the verb 言う (いう, "to say") with a clause that describes the request or instruction preceded by the expression ように (you ni).
-  
+### Meaning
+- **～ように言う**: *To tell someone to do something*; to report a command or request indirectly.
+### Structure
+- **Verb (Dictionary Form) + ように言う**
+- **Verb (Negative Form) + ように言う**
 ### Formation Diagram
+| **Pattern**                     | **Example**       | **Meaning**                   |
+|---------------------------------|-------------------|-------------------------------|
+| Verb (Dictionary Form) + ように言う | 食べるように言う      | Tell someone to eat            |
+| Verb (Negative Form) + ように言う  | 食べないように言う    | Tell someone not to eat        |
+### Usage Notes
+- Used to indirectly report commands or requests.
+- Makes the statement more polite and less direct.
+- Commonly used in both spoken and written Japanese.
+---
+### Visual Aid: Structure Breakdown
+```plaintext
+[Person A]は[Person B]に[Verb (Dictionary Form)/Negative Form]ように言う
 ```
-[誰か] + に (to [someone]) + [動詞のように] + 言う (to say)
-```
-### Example Breakdown
-- **Example**: 彼にもっと勉強するように言った。
-  - **Translation**: I told him to study more.
-  - **Breakdown**:
-    - 誰か (he) + に (to him) + もっと勉強する (study more) + ように言った (said).
+- **Person A** tells **Person B** to **do/not do something**.
+---
 ## 3. Comparative Analysis
-### Comparison with Similar Grammar Points
-1. **〜ようにする (you ni suru)**:
-   - Meaning: To make an effort to do something.
-   - Example: 毎日運動するようにしています。 (I try to exercise every day.)
-   - **Nuance**: Focuses on the attempt rather than on giving instructions.
-2. **〜てほしい (te hoshii)**:
-   - Meaning: I want someone to do something.
-   - Example: 友達に手伝ってほしい。 (I want my friend to help me.)
-   - **Nuance**: Expresses desire explicitly from the speaker's perspective rather than an instruction.
+### Similar Grammar Points
+#### ～てくださいと言う
+- **Meaning**: To tell someone to do something (direct request).
+- **Example**: 先生は学生に座ってくださいと言いました。
+  - *Sensei wa gakusei ni suwatte kudasai to iimashita.*
+  - "The teacher said to the students, 'Please sit down.'"
+#### Differences
+- **～ように言う** is more indirect and polite.
+- **～てくださいと言う** is a direct quotation of a request, less formal.
+---
 ## 4. Examples in Context
-### Sentence Examples
-1. **Formal**: 上司に早くレポートを提出するように言われました。  
-   *(I was told by my boss to submit the report quickly.)*
-2. **Informal**: 兄に宿題をちゃんとやるように言った。  
-   *(I told my brother to do his homework properly.)*
-3. **Written**: 講師から学生に授業に遅れないように言っておいてください。  
-   *(Please tell the students not to be late for class as instructed by the lecturer.)*
-4. **Spoken**: 母に野菜をもっと食べるように言われた。  
-   *(My mother told me to eat more vegetables.)*
+### Example Sentences
+1. **彼は私にもっと野菜を食べるように言った。**
+   - *Kare wa watashi ni motto yasai o taberu you ni itta.*
+   - "He told me to eat more vegetables."
+2. **医者は彼女にお酒を飲まないように言いました。**
+   - *Isha wa kanojo ni osake o nomanai you ni iimashita.*
+   - "The doctor told her not to drink alcohol."
+3. **先生は学生たちに遅刻しないように注意した。**
+   - *Sensei wa gakuseitachi ni chikoku shinai you ni chuui shita.*
+   - "The teacher cautioned the students not to be late."
+4. **母は妹に部屋を片付けるように言った。**
+   - *Haha wa imouto ni heya o katadzukeru you ni itta.*
+   - "Mother told my younger sister to tidy up her room."
+5. **上司は部下に報告書を締め切りまでに提出するように頼んだ。**
+   - *Joushi wa buka ni houkokusho o shimekiri made ni teishutsu suru you ni tanonda.*
+   - "The boss asked the subordinates to submit the report by the deadline."
+---
+### Context Variations
+- **Formal Spoken**: 部長は皆に安全に注意するように言われました。
+  - "The manager told everyone to pay attention to safety."
+- **Informal Spoken**: 友達に早く来るように言って。
+  - "Tell your friend to come early."
+---
 ## 5. Cultural Notes
-### Cultural Relevance
-In Japanese culture, direct commands can be seen as rude. Therefore, using ～ように言う softens the command into a suggestion or request. This is important in maintaining harmony and respect within communication.
+### Politeness and Indirectness
+- In Japanese culture, indirect expressions are preferred to maintain harmony and show respect.
+- **～ように言う** allows speakers to give commands or requests gently.
 ### Levels of Politeness
-The usage of this phrase can vary:
-- Adding 言う in a polite form (言います) makes it more respectful.
-- Using this structure is particularly common in business and polite conversations.
+- The verb **言う** can be made more polite:
+  - **言います** (iimasu): Polite form.
+  - **おっしゃいます** (osshaimasu): Honorific form.
+- Using these forms adjusts the politeness level of the entire expression.
 ### Idiomatic Expressions
-A common phrase to note:
-- **〜しなさい (shinasai)**: A more direct command that might replace the softer suggestion sometimes indicated by a ように phrase.
+- **気をつけるように言う**: To tell someone to be careful.
+- **頑張るように伝える**: To convey to someone to do their best.
+---
 ## 6. Common Mistakes and Tips
-### Error Analysis
-- **Mistake**: Mixing up the order or structure. Ensure you correctly place the particle に indicating the listener.
-- **Mistake**: Using the wrong verb tense: Always ensure that the verb you are asking about is in the appropriate form.
-### Learning Strategies
-- **Mnemonic Device**: Remember "ように" as "you need to do" -> "I say to you to do (this)."
-- **Practice**: Create sentences involving requests to develop familiarity with this structure.
+### Common Mistakes
+1. **Incorrect Verb Form**
+   - ❌ *先生は学生に静かにしてように言った。*
+   - ✅ *先生は学生に静かにするように言った。*
+   - *Mistake*: Using **して** instead of the dictionary form **する** before **ように言う**.
+2. **Omitting ように**
+   - ❌ *母は私に野菜を食べると言った。*
+   - ✅ *母は私に野菜を食べるように言った。*
+   - *Mistake*: Using **と言う** instead of **ように言う**, changing the meaning to simply quoting what was said.
+### Tips
+- **Remember the Verb Form**: Always use the dictionary form or negative form of the verb before **ように言う**.
+- **Mnemonic Device**: Think of **ように** as "so that" or "in order to", helping you remember its use in making indirect commands.
+- **Practice**: Create your own sentences to become familiar with the structure.
+---
 ## 7. Summary and Review
 ### Key Takeaways
-- The structure ～ように言う is used to convey instructions.
-- It is polite and maintains social harmony.
-- Always follow the correct structure to avoid confusion.
-### Quick Recap Quiz
-1. What does ～ように言う mean?
-2. Give an example sentence using ～ように言う.
-3. How does this structure relate to Japanese politeness?
+- **～ように言う** is used to indirectly convey commands or requests.
+- Formed by adding **ように言う** to the verb's dictionary or negative form.
+- It reflects the Japanese preference for indirect and polite communication.
 ---
-This Markdown format provides you with a structured approach to understanding the grammar point, making it accessible and easy to digest.
+### Quick Recap Quiz
+1. **Fill in the blank**: 先生は学生に宿題を忘れない____言いました。
+2. **True or False**: "母は私に早く寝ると言った。" correctly uses **～ように言う**.
+3. **Translate**: "He told me to be careful."
+#### Answers:
+1. **ように**
+2. **False** (It should be "母は私に早く寝るように言った。")
+3. **彼は私に気をつけるように言った。**
+---
+By mastering **～ように言う**, you can accurately report commands and make polite requests, adding depth to your Japanese communication skills. Keep practicing, and soon it will become second nature!
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

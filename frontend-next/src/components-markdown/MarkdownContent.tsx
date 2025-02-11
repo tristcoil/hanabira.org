@@ -6,6 +6,10 @@ import { marked } from 'marked';
 import DOMPurify from 'dompurify';
 import { JSDOM } from 'jsdom';
 
+
+//tailwind markdown pkg documentation
+//https://www.npmjs.com/package/@tailwindcss/typography
+
 interface MarkdownContentProps {
   lang: string;
   slug: string;
@@ -77,9 +81,9 @@ function MarkdownContent({ lang, slug }: MarkdownContentProps) {
   const content = DOMPurifyInstance.sanitize(rawContent);
 
   return (
-    <div className="prose prose-lg prose-slate mx-auto p-4 max-w-full">
+    <article className="prose prose-slate mx-auto p-4 max-w-full">
       <div dangerouslySetInnerHTML={{ __html: content }} />
-    </div>
+    </article>
   );
 }
 

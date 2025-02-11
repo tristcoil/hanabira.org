@@ -1,58 +1,108 @@
 Processing keyword: ~대로 [daero] (As per, following)
 # Korean Grammar Point: ~대로 [daero] (As per, following)
-# Korean Grammar Point: ~대로 [daero] (As per, following)
+
 ## 1. Introduction
-The grammar point ~대로 [daero] is used to express adherence to a certain way, method, or manner of doing something. It can be translated as "as per", "in the way", or "following". This expression is commonly used to convey that something should be done according to a specified way.
+The Korean grammar point **~대로 [daero]** is a versatile particle that means **"as per," "according to,"** or **"following."** It is used to express that an action or situation aligns with or follows a certain standard, expectation, or instruction. Understanding how to use ~대로 will enhance your ability to describe actions that occur in accordance with something else.
+
+---
 ## 2. Core Grammar Explanation
-### Detailed Explanation
-- **Meaning**: The particle ~대로 indicates that an action or state should correspond with a method, standard, or instruction.
-- **Structure**: It is attached to nouns, adjectives, or verbs in their respective forms.
-  
+### Meaning
+- **~대로** indicates that an action is done **"as per"** something else.
+- It expresses **conformity** to a preceding noun or verb.
+### Structure
+#### With Nouns
+```
+Noun + 대로
+```
+- Used when the preceding word is a noun.
+#### With Verbs
+##### Present Tense
+```
+Verb Stem + 는 대로
+```
+- Indicates doing something **"just as"** or **"right after"** the action.
+##### Past Tense
+```
+Verb Stem + (으)ㄴ 대로
+```
+- Used when the action has already occurred.
+##### Future Tense (Less Common)
+```
+Verb Stem + (으)ㄹ 대로
+```
+- Indicates an action that will occur as per something in the future.
 ### Formation Diagram
-1. **Noun + 대로** (daero) 
-    - Example: "계획대로" (gyehoegdaero) - As per the plan
-2. **Verb stem + 대로**
-    - Example: "말한 대로" (malhan daero) - As I said
-3. **Adjective stem + 대로**
-    - Example: "열심히 공부한 대로" (yeolsimhi gongbuhan daero) - As I studied diligently
-### Visual Aid
-| Structure        | Example                    | Translation               |
-|------------------|----------------------------|---------------------------|
-| Noun + 대로      | 계획대로 (gyehoegdaero)    | As per the plan           |
-| Verb stem + 대로 | 하던 대로 (hadeon daero)   | As you were doing         |
-| Adjective stem + 대로 | 좋은 대로 (joheun daero) | As it is good             |
+| Preceding Word | Attachment   | Example                          |
+|----------------|--------------|----------------------------------|
+| Noun           | + 대로       | 약속 **대로** (as per promise)      |
+| Verb (Present) | + 는 대로    | 말하는 **대로** (as you say)        |
+| Verb (Past)    | + (으)ㄴ 대로 | 들은 **대로** (as I heard)           |
+| Verb (Future)  | + (으)ㄹ 대로 | 갈 **대로** (as I will go) (rare)   |
+---
 ## 3. Comparative Analysis
-- **Similar Grammar Point**: ~처럼 [cheoreom] (like, similar to)
-    - **Difference**: While ~대로 emphasizes following a set method, ~처럼 suggests resemblance or similarity without the implication of instruction or method.
+### ~처럼 vs. ~대로
+- **~처럼** means **"like"** or **"similar to,"** emphasizing resemblance.
+- **~대로** means **"as per"** or **"following,"** emphasizing conformity.
+| Grammar Point | Meaning           | Example                       |
+|---------------|-------------------|-------------------------------|
+| ~처럼         | Like, Similar to   | 그는 영웅처럼 행동했어요. (He acted like a hero.) |
+| ~대로         | As per, Following | 그는 계획대로 행동했어요. (He acted as per the plan.) |
+---
 ## 4. Examples in Context
-### Sentence Examples
-1. **Formal**: 이 계획대로 진행해 주세요.  
-   *Translation*: Please proceed as per this plan.
-   
-2. **Informal**: 네가 말한 대로 해.  
-   *Translation*: Do it as you said.
-3. **Written**: 우리는 약속한 대로 만날 것이다.  
-   *Translation*: We will meet as promised.
-4. **Spoken**: 그냥 네 마음대로 해.  
-   *Translation*: Just do it as you feel (as per your heart).
+### Example Sentences
+1. **네가 원하는 대로 해.**
+   - *Do as you want.*
+2. **선생님이 말한 대로 공부했어요.**
+   - *I studied as the teacher said.*
+3. **계획대로 일이 진행되고 있어요.**
+   - *Things are progressing according to plan.*
+4. **제가 들은 대로 전해드릴게요.**
+   - *I will convey it as I heard.*
+5. **아이들은 부모님을 보는 대로 따라 해요.**
+   - *Children imitate exactly what they see their parents do.*
+### Formal Context
+- **회의는 일정대로 진행됩니다.**
+  - *The meeting will proceed as scheduled.*
+### Informal Context
+- **너는 너 생각한 대로 하면 돼.**
+  - *You can do as you think.*
+---
 ## 5. Cultural Notes
-### Cultural Relevance
-- **Politeness Levels**: Using ~대로 indicates a formal or serious tone, especially in professional or academic contexts. It shows respect for the given instructions or standards.
-- **Social Norms**: Following societal norms or seniors’ advice is crucial in Korean culture, making this grammar point particularly relevant.
+### Politeness and Formality
+- **~대로** itself is neutral; politeness is conveyed through verb endings.
+- Used in both formal and informal settings.
 ### Idiomatic Expressions
-- "말한 대로" (malhan daero) - As you said; used to reassure someone that the instructions will be followed.
+- **눈길 닿는 대로**
+  - *Wherever your eyes land.*
+- **발길 가는 대로**
+  - *Wherever your feet take you.*
+---
 ## 6. Common Mistakes and Tips
-### Error Analysis
-1. **Confusing ~대로 with ~처럼**: Learners often use ~처럼 (like) when they mean to express following instructions or methods. Remember that ~대로 is about obedience to a way of doing something.
-   
-### Learning Strategies
-- **Mnemonic Device**: Think of "대로" as "dear instructions". It reminds you to follow them closely.
+### Common Mistakes
+1. **Confusing ~대로 with ~처럼**
+   - **Incorrect:** *그는 지시처럼 행동했어요.* (He acted like instructions.)
+   - **Correct:** *그는 지시대로 행동했어요.* (He acted as per instructions.)
+2. **Omitting necessary particles**
+   - **Incorrect:** *계획 진행되고 있어요.*
+   - **Correct:** *계획대로 진행되고 있어요.*
+### Tips
+- **Mnemonic Device:** Think of **대로** as **"do the same way."**
+- Pay attention to whether the preceding word is a noun or verb to attach **대로** correctly.
+---
 ## 7. Summary and Review
 ### Key Takeaways
-- ~대로 means "as per" or "following" and indicates adherence to a method, plan, or standard.
-- Use it with nouns, verb stems, and adjective stems to specify the action that should be taken as per the mentioned idea.
+- **~대로** means **"as per," "according to,"** or **"following."**
+- Attach **대로** directly to nouns.
+- When attaching to verbs, use appropriate tense forms.
 ### Quick Recap Quiz
-1. What does ~대로 mean?
-2. Can you give an example using a verb with ~대로?
-3. How is ~대로 different from ~처럼? 
-Answer these questions to reinforce your understanding of this grammar point!
+1. How do you say "Do as I do" in Korean?
+   - **Answer:** *내가 하는 대로 해.*
+2. Fill in the blank: 약속___ 지켜야 해요. (You must keep your promise.)
+   - **Answer:** *약속대로 지켜야 해요.*
+3. True or False: **~대로** and **~처럼** can be used interchangeably.
+   - **Answer:** *False.*
+---
+By mastering **~대로**, you can express actions that follow specific standards or instructions, enhancing clarity in your communication.
+
+---
+© [Hanabira.org](https://hanabira.org)

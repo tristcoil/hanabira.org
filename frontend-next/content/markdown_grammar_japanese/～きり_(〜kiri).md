@@ -1,73 +1,107 @@
 Processing keyword: ～きり (〜kiri)
 # Japanese Grammar Point: ～きり (〜kiri)
-# Grammar Point: ～きり (〜kiri)
-## Introduction
-The Japanese grammar point ～きり (〜kiri) is often used to express the idea of "only" or "just." It implies a restriction or limitation of the subject being discussed. This expression can provide a sense of exclusivity or emphasis on a particular situation or condition.
-## Core Grammar Explanation
-### Detailed Explanation
-- **Meaning**: The term ～きり indicates that something is limited to one specific instance or is the only occurrence of something. It often conveys a sense of finality or sufficiency.
-### Structure
-The basic structure for using きり is:
-- [Noun] + きり
-- [Verb - ます form] + きり
-**Formation Diagram**:
-```
-Noun + きり  → "only" / "just"
-Verb (ます form) + きり
-```
-### Visual Aids
-| Form           | Example                               | Translation                     |
-|----------------|---------------------------------------|---------------------------------|
-| Noun + きり    | 友達きり招待しました。               | I invited only my friend.      |
-| Verb + きり    | 一度きり話しました。                 | I spoke only once.             |
-## Comparative Analysis
-### Comparison with Similar Grammar Points
-- **だけ (dake)**: Also means "only," but is generally more versatile and can be used in a wider range of contexts.
-  - Example: 友達だけ招待しました。 (I invited only friends.)
-  
-- **しか (shika)**: Often pairs with negative verbs to mean "only" in a restrictive sense.
-  - Example: 友達しか招待しなかった。(I didn’t invite anyone except friends.)
-### Nuances
-- While きり emphasizes exclusivity much like だけ, it often carries a heavier undertone, suggesting a sense of finality or completeness not present in だけ.
-## Examples in Context
+
+## 1. Introduction
+In this lesson, we'll explore the Japanese grammar point **～きり (〜kiri)**. This expression is used to indicate exclusivity or a state of remaining unchanged after an action. Understanding how to use **～きり** will help you express limitations and ongoing situations effectively in Japanese.
+
+---
+## 2. Core Grammar Explanation
+### Meaning and Usage
+**～きり (〜kiri)** is primarily used in two contexts:
+1. **To express "only" or "just":** Indicating that there is nothing more than what is mentioned.
+2. **To show that after an action, nothing else has occurred:** Suggesting that the situation remains unchanged since the action happened.
+### Formation
+#### 1. Indicating "Only" or "Just"
+- **Noun + きり**
+- **Noun + っきり** (more colloquial/spoken form)
+#### 2. Indicating No Subsequent Action
+- **Verb (た-form) + きり**
+### Formation Diagram
+| Usage                            | Formation                    |
+|----------------------------------|------------------------------|
+| Only/Just                        | Noun + きり / っきり          |
+| No Subsequent Action             | Verb (た-form) + きり         |
+---
+## 3. Comparative Analysis
+### Similar Grammar Points
+- **だけ (dake):** Also means "only" or "just," often used interchangeably but lacks the nuance of something remaining unchanged.
+- **ばかり (bakari):** Means "only" or "just," but can imply a repetitive or habitual action.
+### Differences and Nuances
+- **～きり vs. だけ:**
+  - **きり** emphasizes exclusivity and can imply that nothing else follows.
+  - **だけ** is more neutral, simply stating "only."
+- **～きり vs. ばかり:**
+  - **きり** focuses on limitation or a single occurrence.
+  - **ばかり** suggests repetition or that something just happened.
+---
+## 4. Examples in Context
 ### Sentence Examples
-1. **Formal**: 
-   - 彼女は一度きり会ったことがあります。
-   - (I have met her only once.)
-   
-2. **Informal**:
-   - 昨日きり、彼と会ってない。
-   - (I haven’t seen him since yesterday.)
-3. **Written**:
-   - この仕事は一人きりで行うことが求められる。
-   - (This job is required to be done by only one person.)
-4. **Spoken**:
-   - それは一度きりのチャンスだよ。
-   - (That’s a once-in-a-lifetime opportunity, you know.)
-## Cultural Notes
+#### A. Indicating "Only" or "Just"
+1. **二人きりで話したいです。**
+   *I want to talk just the two of us.*
+2. **彼女は朝食を食べたきり、何も食べていない。**
+   *She has eaten nothing since breakfast.*
+3. **これっきりで終わりにしましょう。**
+   *Let's end it with this.*
+#### B. Indicating No Subsequent Action
+1. **彼は出かけたきり、戻ってこない。**
+   *He went out and hasn't come back.*
+2. **祖父は5年前に家を出たきりです。**
+   *My grandfather left home five years ago and hasn't returned.*
+3. **友達に借りた本を返したきり、連絡がない。**
+   *Since I returned the book I borrowed from my friend, I haven't heard from them.*
+### Context Variations
+- **Formal Written:**
+  - **社長とは一度お会いしたきりで、それ以来お目にかかっておりません。**
+    *I have only met the president once and haven't seen him since.*
+- **Informal Spoken:**
+  - **昨日遊んだっきりだね。また会おう。**
+    *We only hung out yesterday. Let's meet again.*
+---
+## 5. Cultural Notes
 ### Cultural Relevance
-Using ～きり can convey a strong feeling of limitation which is culturally significant in Japan, where maintaining harmony and modesty is essential. The exclusive tone of きり might express humility or an acknowledgement of one’s limitations.
-### Levels of Politeness
-The politeness level largely depends on the context and form of speech rather than the きり itself, which can fit both formal and informal settings based on the verbs or nouns used.
+Japanese communication often values subtlety and understatement. Using **～きり** can subtly convey that a situation is limited or that nothing has changed, aligning with the cultural tendency to imply rather than state directly.
 ### Idiomatic Expressions
-A common expression using this grammar point:
-- *この旅行は彼きりの経験だ。*
-  - (This trip is an experience unique to him.)
-## Common Mistakes and Tips
+- **これっきり**
+  - *Just this once; after this (nothing more).*
+  - **これっきりあなたとは会いません。**
+    *I won't see you after this.*
+- **それっきり**
+  - *Since then; after that (nothing more).*
+  - **彼からはそれっきり連絡がない。**
+    *I haven't heard from him since then.*
+---
+## 6. Common Mistakes and Tips
 ### Error Analysis
-1. **Omitting the noun/verb**: Students often forget to include the necessary noun or verb before きり, leading to incomplete sentences.
-   - Incorrect: きり会ったことがあります。
-   - Correct: 一度きり会ったことがあります。
-2. **Confusing with だけ**: Some learners may use きり in contexts better suited for だけ, especially in non-restrictive scenarios.
+- **Mistake:** Confusing **～きり** with **～だけ** without considering the nuance.
+  - **Incorrect:** 二人だけで話したいです。
+    *(Grammatically correct but lacks the exclusivity nuance.)*
+  - **Correct:** 二人きりで話したいです。
+    *(Emphasizes wanting to talk with just the two of us and no one else.)*
+- **Mistake:** Using the plain form of the verb instead of the **た-form** before **きり**.
+  - **Incorrect:** 彼は出かけるきり、戻ってこない。
+  - **Correct:** 彼は出かけたきり、戻ってこない。
 ### Learning Strategies
-- **Mnemonic Device**: Associate きり with "key" to remember it signifies a key limitation or point of emphasis.
-## Summary and Review
+- **Tip:** Associate **きり** with the English word "cut," as in "cut off," to remember it implies something is limited or stops after a point.
+- **Practice:** Create your own sentences using both noun and verb forms to get comfortable with the nuances.
+---
+## 7. Summary and Review
 ### Key Takeaways
-- ～きり expresses the idea of "only" or "just," indicating a limitation or exclusivity.
-- It can be applied to nouns and verbs in both formal and informal contexts.
-- Understanding the nuance between ～きり, だけ, and しか is essential for correct usage.
+- **～きり** is used to express "only" or indicate that after an action, nothing else has occurred.
+- When used with a noun, it emphasizes exclusivity.
+- When used with a verb in the **た-form**, it shows that the state remains unchanged since that action.
 ### Quick Recap Quiz
-1. What does きり imply in a sentence?
-2. Provide an example sentence using きり.
-3. How does きり compare with だけ? 
-These questions are aimed to reinforce understanding and application of the grammar point ～きり.
+1. **How do you express "Just the two of us" using ～きり?**
+   - **Answer:** 二人きり
+2. **Which form of the verb do you use before ～きり to indicate no subsequent action?**
+   - **Answer:** Verb (た-form)
+3. **Translate the following sentence:**
+   **彼女は部屋に入ったきり、出てこない。**
+   - **Answer:** She went into her room and hasn't come out.
+---
+By mastering **～きり**, you can add depth to your Japanese by expressing limitations and ongoing states with ease. Practice using this grammar point in different contexts to become more fluent and natural in your expression.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

@@ -1,70 +1,128 @@
 Processing keyword: ~고서 [goseo] (After doing)
 # Korean Grammar Point: ~고서 [goseo] (After doing)
-# Grammar Point: ~고서 [goseo] (After doing)
+
 ## 1. Introduction
-The grammar point ~고서 (goseo) is used to indicate that one action or event occurs after completing another action. It plays a crucial role in conveying the sequence of actions in Korean, making it essential for effective communication.
+In this lesson, we will explore the Korean grammar point **~고서** (**[goseo]**), which is used to indicate that one action occurs **after** another action is completed. This structure emphasizes the completion of the first action before moving on to the next, allowing you to express sequences of events clearly and naturally in Korean.
+
+---
 ## 2. Core Grammar Explanation
-### Detailed Explanation
-- **Meaning**: ~고서 means "after doing" or "having done" something. It connects two verbs where the second action follows the completion of the first.
-- **Structure**: 
-  - The construction involves taking the verb stem and attaching -고서. 
-  - Example Structure: **[Verb Stem] + -고서**
+## Meaning and Usage
+**~고서** is attached to the verb stem to indicate that **after doing** one action, another action occurs. It emphasizes that the first action has been completed before the second action begins.
+- **Meaning**: *After doing*, *having done*, *and then*.
+### Key Points
+- Emphasizes **completion** of the first action.
+- Indicates that the second action **follows** the first action in sequence.
+- Can be used in various tenses and levels of politeness by adjusting the verb endings.
+## Formation
+### How to Form ~고서
+1. **Take the verb stem** of the action that is completed first.
+2. **Add** **고서** to the verb stem.
+3. **Attach** the second action clause.
 ### Formation Diagram
 ```
-[Action 1] + 고서 → [Action 2]
-       |
-  (Completion of Action 1)
+[Verb Stem] + 고서 + [Second Action]
 ```
-### Examples of Verb Stems
-- 가다 (gada - to go) → 가고서 (gagoseo - after going)
-- 먹다 (meokda - to eat) → 먹고서 (meokgoseo - after eating)
-## 3. Comparative Analysis
-~고서 is similar to other conjunctions that express time sequences, such as:
-- **-고**: Just as ~고 connects two actions but without emphasizing the completion of the first before the second.
-  - Example: "간다" (I go) + "먹는다" (I eat) = "가고 먹는다" (I go and eat)
-- **-은/는 후에**: This also indicates "after," but it is often more formal than ~고서.
-  - Example: "먹은 후에" (after eating)
-### Key Difference:
-- ~고서 stresses the completion of the first action before the second begins, while the others may not imply complete execution.
-## 4. Examples in Context
-### Sentence Examples
-1. **Formal**:
-   - 강의가 끝나고서 집에 갔습니다.
-   - (Gang-ui-ga kkeutnago서 jibe gasseumnida.)
-   - "After the lecture ended, I went home."
-2. **Informal**:
-   - 공부하고서 친구를 만났어.
-   - (Gongbuhago서 chingureul mannasseo.)
-   - "After studying, I met a friend."
-3. **Written**:
-   - 서류를 준비하고서 제출했습니다.
-   - (Seoryureul junbihago서 jaechulhaessseumnida.)
-   - "After preparing the documents, I submitted them."
-4. **Spoken**:
-   - 이사하고서 정리했어.
-   - (Isahago서 jeongrihaesseo.)
-   - "After moving, I organized (the place)."
-## 5. Cultural Notes
-### Cultural Relevance
-- In Korean culture, sequence and order can signify respect for the time and effort of activities. Using ~고서 shows a clear understanding of the sequence of events and respect for the processes involved.
-### Levels of Politeness
-- The level of formality can be signalized in the verbs used with ~고서, and it is essential to match the politeness level to the context (formal, semi-formal, informal).
-### Idiomatic Expressions
-- Korean does not have many idiomatic expressions specifically tied to ~고서, but contextual usage can reflect diligence in completing tasks.
-## 6. Common Mistakes and Tips
-### Error Analysis
-- **Mistake**: Confusing ~고서 with just ~고 and not indicating the completion of the first action.
-- **Tip**: Remember that ~고서 should always signal that the first action is completed before starting the second action.
-### Learning Strategies
-- Mnemonic: Think of **"go-seo"** as **"go, then do"** to remember the sequence of completion.
-## 7. Summary and Review
-### Key Takeaways
-- ~고서 indicates that one action follows another action that has been completed.
-- The structure involves verb stems using -고서 to show the sequence clearly.
-- It is crucial to observe appropriate levels of politeness in context.
-### Quick Recap Quiz
-1. What does ~고서 mean in English?
-2. How do you form a sentence using ~고서?
-3. What is the difference between ~고서 and just ~고?
+### Examples
+- **먹다** (to eat) → **먹** + **고서** → **먹고서**
+- **공부하다** (to study) → **공부하** + **고서** → **공부하고서**
+- **일하다** (to work) → **일하** + **고서** → **일하고서**
+## Visual Aid: Conjugation Table
+| First Action Verb (Dictionary Form) | Verb Stem | + 고서 | Meaning                     |
+|-------------------------------------|-----------|--------|-----------------------------|
+| 가다 (to go)                        | 가        | 가고서 | After going                 |
+| 만나다 (to meet)                    | 만나      | 만나고서 | After meeting               |
+| 쉬다 (to rest)                      | 쉬        | 쉬고서 | After resting               |
+| 배우다 (to learn)                   | 배우      | 배우고서 | After learning              |
+| 듣다 (to listen)                    | 듣        | 듣고서 | After listening             |
 ---
-Feel free to ask if you need further clarifications or examples!
+## 3. Comparative Analysis
+## ~고서 vs. ~고
+While both **~고서** and **~고** are used to connect actions, they have different nuances.
+### ~고서
+- **Emphasizes** the completion of the first action before the second begins.
+- Highlights a **sequential order** with the first action being fully completed.
+### ~고
+- Simply **links actions** without emphasizing completion.
+- The actions may occur in sequence or simultaneously.
+### Example Comparison
+1. **밥을 먹고 학교에 갔어요.**
+   - *I ate and went to school.*
+   - Actions are connected but no emphasis on the completion of eating.
+2. **밥을 먹고서 학교에 갔어요.**
+   - *After eating, I went to school.*
+   - Emphasizes that eating was completed before going to school.
+---
+## 4. Examples in Context
+Let's explore how **~고서** is used in different contexts.
+## Formal Context
+1. **저는 보고서를 작성하고서 제출했습니다.**
+   - *After writing the report, I submitted it.*
+2. **회의를 마치고서 고객과 통화했습니다.**
+   - *After finishing the meeting, I called the client.*
+## Informal Context
+1. **영화를 보고서 집에 갔어.**
+   - *After watching the movie, I went home.*
+2. **친구를 만나고서 커피를 마셨어.**
+   - *After meeting my friend, I had coffee.*
+## Written Context
+1. **그는 모든 준비를 마치고서 여행을 떠났다.**
+   - *Having completed all the preparations, he set off on his journey.*
+2. **작가는 책을 쓰고서 휴식을 취했다.**
+   - *The author took a rest after writing the book.*
+## Spoken Context
+1. **나 운동하고서 샤워할 거야.**
+   - *I'm going to shower after exercising.*
+2. **숙제하고서 게임할래?**
+   - *Do you want to play games after doing homework?*
+---
+## 5. Cultural Notes
+## Cultural Relevance
+In Korean culture, the sequence and completion of actions can be important, especially in formal settings or when giving instructions. Using **~고서** helps convey that certain steps should be completed before others begin, which is crucial in contexts like work procedures, academic instructions, or traditional practices.
+## Levels of Politeness and Formality
+The use of **~고서** itself doesn't change with levels of politeness, but the verb endings that follow should match the appropriate speech level.
+- **Formal Polite**: **-습니다**, **-ㅂ니다**
+- **Informal Polite**: **-아요/어요**
+- **Casual**: **-아/어**
+**Examples:**
+- **Formal Polite**: *그는 식사하고서 떠났습니다.* (He left after eating.)
+- **Informal Polite**: *그는 식사하고서 떠났어요.* (He left after eating.)
+- **Casual**: *그는 식사하고서 떠났어.* (He left after eating.)
+## Idiomatic Expressions
+Though not idiomatic expressions per se, **~고서야** is a variation that adds emphasis, meaning "only after."
+- **열심히 공부하고서야 성공할 수 있다.**
+  - *Only after studying hard can one succeed.*
+---
+## 6. Common Mistakes and Tips
+## Common Mistakes
+### 1. Confusing ~고 and ~고서
+- **Incorrect**: *책을 읽고 잠들었어요.* (Intending to emphasize completion)
+- **Correct**: *책을 읽고서 잠들었어요.* (I fell asleep after reading the book.)
+**Tip**: Use **~고서** when you want to emphasize that the first action was completed before the second began.
+### 2. Using ~고서 with Non-Sequential Actions
+- **Incorrect**: *저는 매일 운동하고서 요리해요.* (If the actions are unrelated in sequence)
+- **Correct**: *저는 매일 운동하고 요리해요.* (I exercise and cook every day.)
+**Tip**: Use **~고서** only when the actions are directly sequential and the first must be completed before the second.
+## Learning Strategies
+- **Mnemonic Device**: Remember **서** in **고서** as "so," indicating "and so after."
+- **Practice**: Create sentences linking daily routines to get comfortable with sequential actions.
+---
+## 7. Summary and Review
+## Key Takeaways
+- **~고서** is used to indicate that one action is completed before another begins.
+- Formed by adding **고서** to the verb stem of the first action.
+- Emphasizes the completion and sequence of actions.
+- Adjust verb endings for appropriate politeness levels.
+## Quick Recap Quiz
+1. **How do you form a sentence using ~고서?**
+2. **What is the main difference between ~고 and ~고서?**
+3. **Translate the following sentence using ~고서:**
+   "After finishing work, I met a friend."
+### Answers
+1. **Attach 고서 to the verb stem of the first action, then add the second action clause.**
+2. **~고 simply connects actions without emphasizing completion, whereas ~고서 emphasizes that the first action is completed before the second begins.**
+3. **일을 끝내고서 친구를 만났어요.**
+---
+Congratulations! You've learned how to use **~고서** to express sequences of actions in Korean. Practice by creating your own sentences, and soon you'll use this grammar point naturally in conversation.
+
+---
+© [Hanabira.org](https://hanabira.org)

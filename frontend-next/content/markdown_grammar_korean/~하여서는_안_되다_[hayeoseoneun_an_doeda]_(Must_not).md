@@ -1,66 +1,90 @@
 Processing keyword: ~하여서는 안 되다 [hayeoseoneun an doeda] (Must not)
 # Korean Grammar Point: ~하여서는 안 되다 [hayeoseoneun an doeda] (Must not)
-# Grammar Point: ~하여서는 안 되다 (hayeoseoneun an doeda) - Must Not
+
 ## 1. Introduction
-The expression "~하여서는 안 되다" is used to indicate that something is prohibited or should not be done. It conveys a strong sense of restriction or warning against a particular action.
+In Korean, expressing prohibition or strong advice against doing something is essential for clear communication. The grammar pattern **~하여서는 안 되다** is used to indicate that something **must not** or **should not** be done. This pattern is important for forming sentences that convey rules, prohibitions, or moral imperatives.
+
+---
 ## 2. Core Grammar Explanation
-### Detailed Explanation
-- **Meaning**: "Must not" or "should not."
-- **Structure**: The structure consists of the verb stem followed by "하여서는" (hayeoseoneun) and "안 되다" (an doeda). 
-    - **Formation Diagram**:
-      ```
-      Verb stem + 하여서는 + 안 되다
-      ```
-### Visual Aids
-| Component      | Description                           |
-|----------------|---------------------------------------|
-| Verb Stem      | The base form of the verb            |
-| 하여서는 (hayeoseoneun) | Indicates that the action is prohibited |
-| 안 되다 (an doeda)   | Means "not allowed"                |
-### Example Formation
-- If the verb is "가다" (gada – to go):
-    - 가 + 하여서는 안 되다 → "가서는 안 되다" (gaseoneun an doeda) - "Must not go."
+### Meaning
+The expression **~하여서는 안 되다** translates to **"must not"** or **"should not"** in English. It is used to strongly advise against an action or to state that an action is prohibited.
+### Structure
+The structure combines a verb stem with the grammar pattern to form the complete expression:
+```
+[Verb Stem] + -아/어/여서는 안 되다
+```
+### Formation Diagram
+| Verb Stem Type | Connection Form | Complete Expression             |
+|----------------|-----------------|---------------------------------|
+| Verbs ending with **아/오** vowel | -아서는 안 되다 | 가다 → **가** + **아서는 안 되다** → 가서는 안 된다 |
+| Verbs ending with other vowels   | -어서는 안 되다 | 먹다 → **먹** + **어서는 안 되다** → 먹어서는 안 된다 |
+| Verbs ending with **하다**       | -여서는 안 되다 | 일하다 → **일하** + **여서는 안 되다** → 일해서는 안 된다 |
+---
 ## 3. Comparative Analysis
-- **Similar Grammar Points**: 
-  - **~면 안 되다 (myeon an doeda)** - also expresses prohibition but is a bit softer. 
-    - Example: "이 버튼을 누르면 안 돼요." (I beoteun-eul nudeulmyun an dwaeyo) - "You must not press this button."
-   
-### Differences
-- **~하여서는 안 되다** emphasizes stronger prohibition compared to **~면 안 되다**, which can feel more polite or less forceful.
+### Similar Grammar Points
+- **~(으)면 안 되다**: Also means "must not" or "should not," but is used slightly differently.
+  - Example: 여기에서 담배를 피우면 안 됩니다. (You must not smoke here.)
+**Difference**:
+- **~하여서는 안 되다** emphasizes the prohibition and often carries a stronger moral or social implication.
+- **~(으)면 안 되다** is more common in everyday speech for general prohibitions.
+---
 ## 4. Examples in Context
-### Sentence Examples
-1. **Formal**:
-   - **Korean**: "이 회의에서 개인적인 이야기를 하여서는 안 됩니다."
-   - **Translation**: "You must not talk about personal matters in this meeting."
-   
-2. **Informal**:
-   - **Korean**: "그거 먹으면 안 해!"
-   - **Translation**: "You must not eat that!"
-3. **Written**:
-   - **Korean**: "이 연구에서 타인의 아이디어를 도용하여서는 안 된다."
-   - **Translation**: "You must not plagiarize others' ideas in this research."
-4. **Spoken**:
-   - **Korean**: "잡담하였서는 안 돼."
-   - **Translation**: "You must not chit-chat."
+### Formal Context
+1. 교실에서 떠들어서는 안 됩니다.
+   - *You must not make noise in the classroom.*
+2. 중요한 자료를 외부로 유출해서는 안 됩니다.
+   - *You must not leak important data outside.*
+### Informal Context
+1. 밤에 늦게까지 게임을 해서는 안 돼.
+   - *You shouldn't play games until late at night.*
+2. 친구의 비밀을 다른 사람에게 말해서는 안 돼.
+   - *You must not tell your friend's secret to others.*
+### Written Context
+1. 이 약은 의사와 상담 없이 복용해서는 안 됩니다.
+   - *You must not take this medicine without consulting a doctor.*
+### Spoken Context
+1. 그렇게 무례하게 행동해서는 안 돼요.
+   - *You must not behave so rudely.*
+---
 ## 5. Cultural Notes
 ### Cultural Relevance
-- In Korean culture, the language reflects levels of politeness. The structure "~하여서는 안 되다" is formal and carries a sense of seriousness, often used in official contexts, warnings, or rules. It is important to use appropriate levels of formality based on the situation and audience.
+In Korean culture, respect for rules and social norms is highly valued. Using **~하여서는 안 되다** reflects a strong emphasis on prohibitions, often related to societal expectations or moral standards.
+### Levels of Politeness
+- The pattern **~하여서는 안 되다** is polite and formal, suitable for written communication or formal spoken contexts.
+- In informal situations, **~하면 안 돼** is more commonly used.
 ### Idiomatic Expressions
-- There aren’t many idiomatic expressions directly using this structure, but it is often used in situations like warnings or rules, such as school rules or workplace etiquette.
+- **선을 넘어서서는 안 된다**: *You must not cross the line.*
+  - This idiom uses the pattern to express exceeding acceptable behavior.
+---
 ## 6. Common Mistakes and Tips
 ### Error Analysis
-- A common mistake is using a casual verb form instead of the appropriate formal one when stating prohibitions. For example, saying "가면 안 돼" (gamyun an dwae) instead of using a more formal structure when in a serious context.
+- **Mistake**: Using the wrong connecting vowel.
+  - *Incorrect*: 가어서는 안 된다.
+  - *Correct*: 가서는 안 된다.
+  
+- **Mistake**: Mixing with similar grammar patterns.
+  - Confusing **~하여서는 안 되다** with **~해도 된다** (may do).
+  
 ### Learning Strategies
-- **Mnemonic Device**: Remember that "하여서는 안 되다" is like a traffic light; "red" means stop. You cannot proceed with the action you are discussing.
+- **Mnemonic Device**: Think of **안 되다** as "not become," meaning the action should not happen.
+- **Practice**: Create sentences using verbs you commonly use to familiarize yourself with the pattern.
+---
 ## 7. Summary and Review
 ### Key Takeaways
-- **Usage**: "~하여서는 안 되다" indicates that an action is prohibited.
-- **Formality**: This expression is formal and used in serious contexts.
+- **~하여서는 안 되다** is used to express **"must not"** or **"should not"** do something.
+- It carries a strong sense of prohibition, often used in formal contexts.
+- Correct formation depends on the verb stem and its ending vowel.
 ### Quick Recap Quiz
-1. What does "~하여서는 안 되다" mean?
-   - **Answer**: Must not / Should not.
-   
-2. Compare "~하여서는 안 되다" with "~면 안 되다." What is one key difference?
-   - **Answer**: "~하여서는 안 되다" is a stronger prohibition than "~면 안 되다."
-3. Provide an example sentence using "~하여서는 안 되다."
-   - **Answer**: "학교에서는 휴대폰을 사용하여서는 안 됩니다." (You must not use your cellphone at school.)
+1. Fill in the blank with the correct form:
+   너는 거짓말을 ___________ 안 된다.
+2. Is **먹어서는 안 된다** correctly formed to mean "must not eat"?
+3. Translate to Korean using **~하여서는 안 되다**:
+   "You must not enter this room."
+---
+### Answers:
+1. **해서는** – 너는 거짓말을 **해서는** 안 된다.
+2. **Yes**, it is correctly formed.
+3. 이 방에 들어와서는 안 됩니다.
+
+---
+© [Hanabira.org](https://hanabira.org)

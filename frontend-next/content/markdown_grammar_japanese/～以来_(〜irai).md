@@ -1,67 +1,89 @@
 Processing keyword: ～以来 (〜irai)
 # Japanese Grammar Point: ～以来 (〜irai)
-# Japanese Grammar Point: ～以来 (〜irai)
-## Introduction
-The grammar point ～以来 (〜irai) is used to express that something has occurred or has been the case continuously from a certain point in time up until now. It highlights the idea of "since" a specific time or event.
-## Core Grammar Explanation
-### Meaning & Structure
-- **Meaning**: The phrase 以来 indicates a sense of duration or continuation starting from a particular time up to the present.
-- **Structure**: 
-  - [Noun/Verb in past tense] 以来 (いらい)
-  
+
+## 1. Introduction
+The grammar point ～以来 (〜いらい) is used in Japanese to indicate "since" a certain event or time up to the present. It expresses that something has continued from that point in the past until now.
+
+---
+## 2. Core Grammar Explanation
+### Meaning
+- **～以来 (〜いらい)** means **"since"** or **"ever since"**.
+### Usage
+- It is used to describe a state or action that has been ongoing from a specific point in the past up to the present.
+- Often used with verbs that denote a significant event or change.
+### Structure
+**Verb (た-form) + 以来**
+| Part of Speech | Formation                |
+|----------------|--------------------------|
+| Verb           | 動詞のた形 (Verb た-form) + 以来 |
 ### Formation Diagram
+```plaintext
+[Verb in た-form] + 以来
+       ↑
+   Past event
 ```
-[Time/Event] 以来
-    ↓ 
-[A] - Something has been true since that point in time.
-```
-### Examples of Structure:
-1. **Noun Use**: 
-   - 学生（がくせい）以来 (gakusei irai) - since I was a student.
-2. **Verb Use**: 
-   - 日本に行った（にほんにいった）以来 (nihon ni itta irai) - since I went to Japan.
-## Comparative Analysis
-### Similar Grammar Points
-- **〜から**: Both indicate the starting point of an action or situation, but から focuses on a more immediate sense of time, while 以来 emphasizes duration from that point onwards.
-  - 例: 日本に来てから、友達ができました。 (Nihon ni kite kara, tomodachi ga dekimashita.) - Since I came to Japan, I made friends.
-  
-- **〜て以来**: This can be used interchangeably but usually comes after a verb. It is more formal and emphasizes the action taken since that time.
-  - 例: 日本に行って以来、好きになった。(Nihon ni itte irai, suki ni natta.) - Since I went to Japan, I have come to like it.
-## Examples in Context
-### Sentence Examples
-1. **Formal**: 
-   - 彼が結婚した以来、彼とは会っていません。(Kare ga kekkon shita irai, kare to wa atteimasen.)  
-   Translation: Since he got married, I haven't met him. 
-2. **Informal**: 
-   - 大学を卒業して以来、ずっと働いているよ。(Daigaku o sotsugyou shite irai, zutto hataraite iru yo.)  
-   Translation: Since I graduated from college, I've been working continuously.
-3. **Written**: 
-   - その事件以来、彼女は家に閉じこもることが多くなった。(Sono jiken irai, kanojo wa ie ni tojikomoru koto ga ooku natta.)  
-   Translation: Since that incident, she has often stayed closed up in her house.
-4. **Spoken**: 
-   - この町に引っ越して以来、毎日散歩してる。(Kono machi ni hikkoshite irai, mainichi sanpo shiteru.)  
-   Translation: Since I moved to this town, I take a walk every day.
-## Cultural Notes
-### Cultural Relevance
-The use of 以来 often reflects Japanese values around long-standing relationships and continuity. You may find this expression in discussions about friendships, careers, and other commitments that hold significance over time.
+---
+## 3. Comparative Analysis
+### ～以来 vs. ～から
+- **～以来** emphasizes the continuation of a state or action from a past event to the present.
+- **～から** simply indicates "from" a certain point but doesn't necessarily imply continuous action.
+| Grammar Point | Emphasis                                 | Example                               |
+|---------------|------------------------------------------|---------------------------------------|
+| ～以来          | Continuous state/action since an event   | 日本に来て以来、日本語を勉強している。   |
+| ～から          | Starting point without continuity implied | 日本に来てから、たくさん旅行した。       |
+---
+## 4. Examples in Context
+### Example 1: Formal Written
+**日本に来て以来、ずっと忙しいです。**  
+*Ever since I came to Japan, I've been busy.*
+### Example 2: Conversational
+**卒業して以来、彼に会っていない。**  
+*I haven't seen him since we graduated.*
+### Example 3: Formal Speech
+**この薬を飲み始めて以来、体の調子が良くなりました。**  
+*Since I started taking this medicine, I've been feeling better.*
+### Example 4: Informal
+**その日以来、彼女は元気がない。**  
+*Since that day, she hasn't been herself.*
+---
+## 5. Cultural Notes
 ### Levels of Politeness
-Using 以来 in a formal context is more appropriate, especially in spoken or written communication to express respect and seriousness about the time elapsed.
+- ～以来 can be used in both formal and informal contexts.
+- The politeness level is adjusted by the surrounding sentences and verb forms.
 ### Idiomatic Expressions
-Some idiomatic expressions may use 以来, including:
-- 教えて以来 (oshiete irai) - since you taught me; highlighting a long-term impact on the speaker.
-## Common Mistakes and Tips
-### Error Analysis
-- **Overuse**: Learners might use 以来 with present or future actions. Remember, 以来 should always refer to events from the past leading to the present.
-- **Confusion with から**: Respect the nuance that 以来 indicates duration, while から merely states when an action began.
-### Learning Strategies
-- **Mnemonic Device**: "Iryai sounds like ‘in range,’ reminding you to think of ‘since this range of time’."
-- **Visualization**: Create a timeline from past to present and mark events where you can use 以来.
-## Summary and Review
+- **震災以来**  
+  *Since the earthquake disaster.*
+- **結婚して以来**  
+  *Since getting married.*
+---
+## 6. Common Mistakes and Tips
+### Common Mistake 1: Using Present Tense Verb Before 以来
+- **Incorrect:** 会う以来  
+- **Correct:** 会って以来
+*Always use the verb in its past (た-form) before 以来.*
+### Common Mistake 2: Confusing ～以来 with ～以後 (いご)
+- **～以来** implies continuity up to the present.
+- **～以後** can refer to any time after a point in the past, not necessarily continuous.
+### Learning Tip
+- **Mnemonic:** Think of 以来 as "Event **EYE** (い) witnessed in the past, continuing up to now."
+---
+## 7. Summary and Review
 ### Key Takeaways
-- The grammar point 以来 is used to express a period that continues from a specific past moment to the present.
-- It is appropriate for both formal and informal contexts, emphasizing the duration rather than just the start of an action.
+- **～以来** is used to express "since" an event, emphasizing continuity to the present.
+- Formation: **Verb (た-form) + 以来**
+- Be mindful to use the **た-form** of verbs before 以来.
 ### Quick Recap Quiz
-1. What does 以来 indicate about time?
-2. Can you use 以来 to refer to future events?
-3. Compare the usage of 以来 and から.
-Feel free to revisit this guide whenever you encounter or wish to use the 以来 grammar point in your studies!
+1. How do you form a sentence using ～以来?
+2. What verb form is used before 以来?
+3. Translate: **日本に帰って以来、毎日家族と過ごしています。**
+**Answers:**
+1. Verb (た-form) + 以来
+2. The past tense (た-form) of the verb
+3. "Since returning to Japan, I spend time with my family every day."
+---
+Feel free to revisit the examples and explanations to reinforce your understanding of ～以来 (〜いらい).
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

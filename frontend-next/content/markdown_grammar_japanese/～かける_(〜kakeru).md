@@ -1,72 +1,99 @@
 Processing keyword: ～かける (〜kakeru)
 # Japanese Grammar Point: ～かける (〜kakeru)
-# Grammar Point: ～かける (〜kakeru)
+
 ## 1. Introduction
-The grammar point ～かける (〜kakeru) is used in Japanese to express something that is in the process of being done or has just started to be done. It can indicate a state of something that is halfway completed or not yet finished. This expression can be attached to verbs to describe various actions or states.
+The grammar point ～かける (〜kakeru) is a versatile expression in Japanese that conveys the meaning of an action being **incomplete** or **in progress**. It often translates to "half-..." or "begun to..." in English, indicating that something has started but not yet finished.
+
+---
 ## 2. Core Grammar Explanation
-### Detailed Explanation
-- **Meaning**: The usage of ～かける can convey that an action is partially completed or just begun. It can also express potentiality or being about to do something.
-- **Structure**: The structure consists of taking a verb in its stem form (the verb minus the ます (masu) ending) and adding かける (kakeru).
-- **Formation**:
-    - For example, the verb "食べる" (taberu - to eat) becomes "食べかける" (tabekakeru - to be in the middle of eating).
-    
-    | Verb Stem        | Verb in ます-form | かける Form         |
-    |------------------|-------------------|---------------------|
-    | 食べる (taberu)  | 食べます (tabemasu)| 食べかける (tabekakeru) |
-    | 読む (yomu)      | 読みます (yomimasu)| 読みかける (yomikakeru)   |
-    | 書く (kaku)      | 書きます (kakimasu)| 書きかける (kakikakeru)   |
-### Visual Aids
-```plaintext
-Verb Stem + かける (〜kakeru)
-------------------------
-食べ (tabe) + かける → 食べかける (tabekakeru)
-読 (yo) + かける → 読みかける (yomikakeru)
-書 (ka) + かける → 書きかける (kakikakeru)
+### Meaning
+- **Incomplete Action**: Describes an action that has been started but not completed.
+- **In Progress**: Indicates that something is in the midst of occurring.
+### Structure
+1. **Verb Stem** + かける
+2. **Verb Stem** + かけの + Noun
+3. **Verb Stem** + かけだ
+### Formation Diagram
 ```
+[Verb Stem] + かける
+```
+### Breakdown
+- **Verb Stem**: The masu-form of a verb minus ます.
+  - For example, 飲みます (nomimasu) → 飲み (nomi)
+- **かける**: Attached to the verb stem to indicate an incomplete action.
+### Visual Aid: Verb Conjugation Table
+| Verb (Dictionary Form) | Verb Stem | + かける Form |
+|------------------------|-----------|---------------|
+| 読む (yomu)            | 読み      | 読みかける    |
+| 書く (kaku)            | 書き      | 書きかける    |
+| 食べる (taberu)        | 食べ      | 食べかける    |
+---
 ## 3. Comparative Analysis
-Similar expressions include:
-- **～始める (〜hajimeru)**: This indicates the action has just started (e.g., "食べ始める" - to start eating). In contrast, ～かける suggests an action in progress rather than a starting point.
-  
-- **～終わる (〜owaru)**: While this indicates that an action has been completed, ～かける indicates that it is still ongoing.
+### ～始める (〜hajimeru)
+- **Usage**: Indicates the **start** of an action.
+- **Example**: 読み始める (yomihajimeru) - "to start reading"
+**Difference**: While ～始める emphasizes the beginning of an action, ～かける emphasizes that an action has started but remains **unfinished**.
+### ～途中 (〜tochū)
+- **Usage**: Means "in the middle of" doing something.
+- **Example**: 読み途中 (yomitochū) - "in the middle of reading"
+**Difference**: Both indicate an ongoing action, but ～かける often implies that the action was interrupted or left incomplete, whereas ～途中 simply states that the action is ongoing.
+---
 ## 4. Examples in Context
-### Sentence Examples
-1. **Formal**:
-    - 昨日、本を読みかけましたが、最後まで読めませんでした。
-    - (Kinō, hon o yomikakemashita ga, saigo made yomemasen deshita.)
-    - "Yesterday, I started reading a book, but I couldn’t finish it."
-2. **Informal**:
-    - お菓子を食べかけてたから、ちょっと待ってて！
-    - (Okashi o tabekakete ta kara, chotto matte te!)
-    - "I was in the middle of eating some snacks, so wait a minute!"
-3. **Written**:
-    - 彼はまだレポートを書きかけの状態です。
-    - (Kare wa mada repōto o kakikake no jōtai desu.)
-    - "He is still in the process of writing the report."
-4. **Spoken**:
-    - 映画を見かけたんだけど、全部は見てないよ。
-    - (Eiga o mikaketan dakedo, zenbu wa mite nai yo.)
-    - "I started watching a movie, but I haven't seen it all."
+### Example 1: Informal Spoken
+- **Japanese**: 彼は言いかけて黙ってしまった。
+- **Romaji**: Kare wa iikakete damatte shimatta.
+- **English**: He started to say something but then fell silent.
+### Example 2: Formal Written
+- **Japanese**: 読みかけの本を図書館に返しました。
+- **Romaji**: Yomikake no hon o toshokan ni kaeshimashita.
+- **English**: I returned the half-read book to the library.
+### Example 3: Casual Conversation
+- **Japanese**: 食べかけのケーキを冷蔵庫に入れておいた。
+- **Romaji**: Tabekake no kēki o reizōko ni irete oita.
+- **English**: I put the partially-eaten cake in the fridge.
+### Example 4: Polite Speech
+- **Japanese**: 書きかけですが、レポートを送ります。
+- **Romaji**: Kakikake desu ga, repōto o okurimasu.
+- **English**: It's incomplete, but I will send the report.
+---
 ## 5. Cultural Notes
-### Cultural Relevance
-In Japanese culture, indicating that something is not yet completed can often convey politeness and humility. The use of such expressions indicates an awareness of the ongoing process rather than a definitive outcome.
-### Levels of Politeness
-Using the proper form of the verb when expressing actions (the ます form) reflects respect toward the listener. In informal contexts, casual forms are perfectly acceptable.
+### Levels of Formality
+- **～かける** can be used in both formal and informal contexts but is more common in everyday conversation.
+- In formal writing, other expressions like **未完の (mikan no)** meaning "unfinished" might be used.
 ### Idiomatic Expressions
-- **話しかける** (hanasikakeru - to start talking): This expression means to begin a conversation but can imply that the conversation is ongoing.
+- **死にかける (shinikakeru)**: Literally "on the verge of dying"; used idiomatically to mean "almost died" or "came close to dying."
+  - **Example**: 溺れて死にかけた。
+  - **English**: I nearly drowned.
+---
 ## 6. Common Mistakes and Tips
-### Error Analysis
-- **Using かける with Completed Actions**: One common error is to use ～かける with verbs that denote completed actions.
-    - Correct: 読みかけ (yomikake - halfway through reading)
-    - Incorrect: 読みかけた (yomikaketa - read completely)
-### Learning Strategies
-- Remember that ～かける indicates a state of incompletion. Visualize actions as "half-done" to grasp its meaning easily.
+### Common Mistake 1: Using the Plain Form Instead of the Verb Stem
+- **Incorrect**: 読むかける
+- **Correct**: 読みかける
+**Tip**: Always use the verb stem (masu-form minus ます) before attaching かける.
+### Common Mistake 2: Confusing with ～ている Form
+- **Incorrect**: 読んでかける
+- **Correct**: 読みかける
+**Tip**: Do not combine て-form with かける. Use the verb stem instead.
+### Mnemonic Device
+- Think of **かける** as "kakke," sounding like "cake" that's half-eaten. This can help you remember that it refers to something **half-done**.
+---
 ## 7. Summary and Review
 ### Key Takeaways
-- The grammar point ～かける denotes actions that are ongoing or incomplete.
-- It is formed by attaching かける to the verb stem.
-- Useful for expressing states in various contexts, from daily conversation to formal writing.
+- **～かける** is used to express an action that has started but is not completed.
+- It attaches to the **verb stem**.
+- Useful for indicating incomplete tasks or actions interrupted midway.
 ### Quick Recap Quiz
-1. What does ～かける indicate about an action?
-2. How do you form the かける construction?
-3. Compare ～かける with ～始める. What is the key difference?
-This comprehensive exploration of ～かける should help solidify your understanding of its usage in various contexts!
+1. How do you form the ～かける expression with verbs?
+2. Translate to Japanese using ～かける: "The movie was half-watched."
+3. What is the difference between ～かける and ～始める?
+**Answers**
+1. Attach かける to the verb stem (masu-form minus ます).
+2. 見かけの映画だった。 (Mikake no eiga datta.)
+3. ～かける indicates an action started but not finished; ～始める indicates the start of an action.
+---
+*Note: Ensure to practice forming sentences with ～かける to become comfortable with its usage in various contexts.*
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

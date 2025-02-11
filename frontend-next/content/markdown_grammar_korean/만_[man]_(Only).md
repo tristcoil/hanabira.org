@@ -1,65 +1,119 @@
 Processing keyword: 만 [man] (Only)
 # Korean Grammar Point: 만 [man] (Only)
-# Korean Grammar Point: 만 [man] (Only)
-## Introduction
-The Korean particle **만** [man] is used to mean "only" or "just." It is often used to emphasize the exclusivity of the noun or phrase it accompanies, indicating that nothing else is included or considered.
-## Core Grammar Explanation
-### Meaning and Structure
-- **만** is used to modify nouns and indicates limitation.
-- It can be placed directly after a noun to convey that only that noun is relevant.
-### Formation Diagram
-```plaintext
-Noun + 만 
-          ↓
-        Meaning: "only" + Noun
+
+## 1. Introduction
+In Korean, the particle **만** [*man*] is used to express the meaning of "only" or "just." It is a versatile particle that can be attached to nouns, pronouns, verbs, and adverbs to limit or restrict the scope of a sentence to a particular element. Understanding how to use **만** correctly will enhance your ability to express exclusivity and emphasis in Korean.
+
+## 2. Core Grammar Explanation
+## Meaning of **만**
+The particle **만** means **"only"**, **"just"**, or **"nothing but"**. It is used to indicate that the action or state is limited exclusively to the noun or verb it is attached to.
+## Structure
+### Attaching **만** to Nouns and Pronouns
+- Attach **만** directly after a noun or pronoun without any space.
+**Formation:**
+
+| Noun/Pronoun | + | 만 |
+|--------------|---|----|
+| 친구          | + | 만 |
+| 저            | + | 만 |
+
+**Example:**
+- 친구만 *[chin-gu-man]* - only friends
+- 저만 *[jeo-man]* - only me
+### Attaching **만** to Verbs and Adjectives
+- When attaching **만** to verbs or adjectives, it is combined with **-기만 하다** or **-만 하다** structures.
+**Formation:**
+
+| Verb/Adjective Stem | + | -기만 하다 / -만 하다 |
+|---------------------|---|---------------------|
+| 먹다                 | + | 먹기만 하다          |
+| 듣다                 | + | 듣기만 하다          |
+
+**Example:**
+- 먹기만 해요 *[meok-gi-man hae-yo]* - I only eat.
+- 듣기만 해요 *[deut-gi-man hae-yo]* - I only listen.
+## Visual Aid: Using **만** in Sentences
 ```
-### Detailed Explanation
-1. **Placement**: 만 is attached directly to the noun it modifies without any additional particles.
-2. **Politeness**: Man is neutral in formality, but the overall sentence structure might change depending on the level of politeness of the entire sentence.
-3. **Usage**: Commonly used in both spoken and written Korean to express exclusivity.
-4. **Exceptions**: When using 만 with verbs or adjectives, the structure might change slightly by focusing on the action or state being exclusive.
-## Comparative Analysis
-- **만 [man] vs. 밖에 [bakke]**: Both can mean "only," but:
-  - **만** emphasizes exclusivity.
-  - **밖에** often follows a negative verb (e.g., "I have nothing but...").
-  
-### Example Comparison
-- **나는 사과만 먹었다.** (I ate only an apple.)
-- **나는 사과밖에 안 먹었다.** (I only ate an apple (and nothing else). - emphasizes there are other options, but I chose an apple.)
-## Examples in Context
-### Sentence Examples
-1. **Formal Written Context**:
-   - **이 문제는 전문가의 도움이 필요하다. 전문가만이 해결할 수 있다.**
-   - (This problem needs expert help. Only an expert can solve it.)
-2. **Informal Spoken Context**:
-   - **나는 너만 믿어.**
-   - (I only trust you.)
-3. **Neutral Context**:
-   - **시간이 없어서 공부만 했다.**
-   - (I didn't have time, so I only studied.)
-4. **Request Context**:
-   - **내게 돈 만 주세요.**
-   - (Please just give me the money.)
-## Cultural Notes
-### Cultural Relevance
-- **Politeness Levels**: Using 만 may sound casual, making it essential to pair it with appropriate speech levels depending on the audience.
-  
-### Idiomatic Expressions
-- **온갖 것들은 다 하는데, 나만 안 했어.**
-  - (I did everything, but I only didn’t do it.)
-## Common Mistakes and Tips
-### Error Analysis
-1. **Overusing 만**: Learners might tend to use 만 excessively, making sentences sound unnatural. It's crucial to maintain context and clarity.
-2. **Misplacing 만**: Make sure it follows the noun directly. For example, **빨간색만** [only red] instead of **만 빨간색**.
-### Learning Strategies
-- **Mnemonic Device**: Remember **만** as "Just/Only = 'Man, only you!'" This can help reinforce the meaning of exclusivity.
-## Summary and Review
-### Key Takeaways
-- **만** indicates exclusivity, meaning "only" or "just."
-- It is used to modify nouns but can also correlate with verbs in specific contexts.
-- Understanding the distinction between 만 and 밖에 is crucial for fluent expression.
-### Quick Recap Quiz
-1. What does 만 mean?
-2. How do you use 만 with nouns?
-3. Compare 만 with 밖에. What is a key difference?
-These questions reinforce your understanding of the grammar point and its usage in Korean.
+A[Subject] -- 만 --> B[Action/Object]
+```
+- **Subject만** + Verb/Object
+- Subject + **Object만** + Verb
+
+## 3. Comparative Analysis
+## **만** vs. **밖에**
+Both **만** and **밖에** express limitation, but they differ in usage and nuance.
+| Particle | Usage                          | Form                         | Example                             |
+|----------|--------------------------------|------------------------------|-------------------------------------|
+| 만       | Neutral limitation             | Noun + 만                    | 물만 마셔요. *[mul-man ma-syeo-yo]* <br> I drink only water. |
+| 밖에     | Limitation with negative verb  | Noun + 밖에 + Negative Verb  | 물밖에 없어요. *[mul-bak-e eop-seo-yo]* <br> There is nothing but water. |
+- **만** can be used in positive and negative sentences.
+- **밖에** is used only with negative verbs to emphasize scarcity.
+
+## 4. Examples in Context
+## Formal Situations
+1. **저는 진실만 말합니다.**
+   *[jeo-neun jin-sil-man mal-ham-ni-da]*
+   *I only tell the truth.*
+2. **회원님들만 들어오실 수 있습니다.**
+   *[hoe-won-nim-deul-man deu-reo-o-sil su it-seum-ni-da]*
+   *Only members may enter.*
+## Informal Situations
+1. **나만 믿어.**
+   *[na-man mi-deo]*
+   *Just trust me.*
+2. **이거만 봐.**
+   *[i-geo-man bwa]*
+   *Look at only this.*
+## Written Language
+1. **꿈은 노력하는 자만이 이룰 수 있다.**
+   *[kkum-eun no-ryeok-ha-neun ja-man-i i-rul su it-da]*
+   *Only those who work hard can achieve their dreams.*
+## Spoken Language
+1. **오늘만 일찍 갈게요.**
+   *[o-neul-man il-jjik gal-ge-yo]*
+   *I'll leave early just for today.*
+
+## 5. Cultural Notes
+## Politeness and Formality
+- Using **만** does not inherently carry a level of politeness or formality.
+- Politeness is expressed through verb endings and honorifics attached to the verb, not through the particle **만**.
+## Idiomatic Expressions
+- **눈에 보이는 것만 믿어요.**
+  *[nun-e bo-i-neun geot-man mi-deo-yo]*
+  *I only believe what I see.*
+- **말만 앞세우지 마세요.**
+  *[mal-man ap-se-u-ji ma-se-yo]*
+  *Don't just put words forward (Don't just talk the talk).*
+
+## 6. Common Mistakes and Tips
+## Common Mistakes
+1. **Misplacing 만 in a sentence**
+   - Incorrect: **만 저는 사과를 먹었어요.**
+     *(Only I ate an apple.)*
+   - Correct: **저만 사과를 먹었어요.**
+2. **Using 밖에 with positive verbs**
+   - Incorrect: **사과밖에 먹었어요.**
+     *(I ate only apples.)*
+   - Correct: **사과만 먹었어요.**
+## Tips
+- **Position Matters**: Place **만** immediately after the word you want to emphasize as "only."
+- **Context Clues**: Pay attention to what is being limited in the sentence to use **만** correctly.
+- **Practice with Examples**: Create sentences replacing different elements with **만** to see how the meaning changes.
+
+## 7. Summary and Review
+## Key Takeaways
+- **만** means **"only"** or **"just"**.
+- Attach **만** directly after nouns, pronouns, or verb stems.
+- To say "only do something," use the structure **Verb Stem + -기만 하다**.
+- **만** can be used in both positive and negative sentences.
+- Be mindful of word order to ensure the correct meaning.
+## Quick Recap Quiz
+1. How do you say "I only study Korean" in Korean?
+   - **Answer:** **저는 한국어만 공부해요.**
+2. Which particle would you use to express "I have nothing but time"?
+   - **Answer:** **밖에** (시간밖에 없어요.)
+3. Correct the error: **저는 만 커피 마셔요.**
+   - **Corrected Sentence:** **저는 커피만 마셔요.**
+
+---
+© [Hanabira.org](https://hanabira.org)

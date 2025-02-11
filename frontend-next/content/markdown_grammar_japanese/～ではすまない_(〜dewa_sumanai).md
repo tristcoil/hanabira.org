@@ -1,64 +1,113 @@
 Processing keyword: ～ではすまない (〜dewa sumanai)
 # Japanese Grammar Point: ～ではすまない (〜dewa sumanai)
-# Grammar Point: ～ではすまない (〜dewa sumanai)
+
 ## 1. Introduction
-The grammar point ～ではすまない (〜dewa sumanai) is used to express that something cannot be resolved or concluded with just a certain condition or action. It implies that a more significant consequence, response, or action is necessary.
+In Japanese, expressing that something cannot be resolved or overlooked easily requires specific grammatical structures. One such expression is **～ではすまない (〜dewa sumanai)**, which conveys the idea that "it won't end with just..." or "cannot be settled with only...". This grammar point is essential for expressing a sense of inevitability or insufficiency in dealing with a situation, often implying that more serious consequences or actions are necessary.
+
+---
 ## 2. Core Grammar Explanation
-### Detailed Explanation
-The structure of this grammar point is as follows:
-- **Structure**: 
-  - [Noun] + ではすまない
-  - [Verb (ない-form)] + ではすまない
-### Meaning, Structure, Formation Diagram
-- **Translation**: "It cannot be settled with just...", "It cannot end with just...", or "It's not enough to just..."
-- **Use Case**: Commonly used when a situation requires a more serious response than is currently being considered or when the current action is insufficient.
-**Formation Diagram**:
+### Meaning
+The expression **～ではすまない (〜dewa sumanai)** is used to indicate that something **cannot be resolved merely by** a certain action or situation; more is required. It conveys a sense that the matter is too serious to be settled with just what has been mentioned.
+**Translations:**
+- "Cannot be settled with..."
+- "Won't end with..."
+- "Won't be enough to..."
+### Structure
+#### Formation
+| **Component**      | **Structure**                      |
+|--------------------|------------------------------------|
+| **Noun**           | Noun + ではすまない                 |
+| **Verb Phrase**    | Verb (て-form) + ではすまない      |
+#### Formation Diagram
+```plaintext
+[ Noun / Verb (て-form) ] + ではすまない
 ```
-[Subject/Action] では すまない
-```
-### Visual Aids
-| Element       | Example                      | Meaning                           |
-|---------------|------------------------------|-----------------------------------|
-| Noun          | この問題では                | "With this problem..."            |
-| Verb (ない)   | あやまってでは              | "Just apologizing..."             |
-| Full Form     | この問題では済まない       | "This problem cannot be settled"  |
+#### Explanation
+- **では** is the particle **で** (indicating means or context) combined with the topic marker **は**.
+- **すまない** is the negative form of **済む (すむ)**, meaning "to finish" or "to be settled".
+- Together, **～ではすまない** literally means "it won't be settled with...", implying that the mentioned action is insufficient.
+---
 ## 3. Comparative Analysis
-Similar grammar points include:
-- **～では足りない (〜dewa tarinai)**: This means "not enough" and is used when what is provided is insufficient.
-- **～では済まない (〜dewa sumanai)**: This indicates that the situation requires something beyond a mere sum-up or apology.
-**Nuance**: While both indicate insufficiency, ～ではすまない carries a heavier consequence or requirement compared to just stating something is insufficient (～では足りない).
+### Similar Grammar Points
+#### ～だけではすまない
+- **Meaning:** "It won't end with just..."
+- **Usage:** Emphasizes that **only** the mentioned action is not enough.
+- **Example:** 
+  - **Japanese:** 謝るだけではすまない。
+  - **English:** Apologizing alone won't suffice.
+#### ～ずにはすまない
+- **Meaning:** "Must..." / "Cannot help but..."
+- **Usage:** Expresses that an action is unavoidable due to social or moral obligations.
+- **Example:**
+  - **Japanese:** 真実を明かさずにはすまない。
+  - **English:** I must reveal the truth.
+### Differences and Nuances
+- **～ではすまない** focuses on the **insufficiency** of an action.
+- **～ずにはすまない** emphasizes the **necessity** of performing an action.
+---
 ## 4. Examples in Context
-### Sentence Examples
-1. **Formal**: 
-   - こんな小さな贈り物ではすまないと思います。
-   - *"I think a small gift like this is not enough."*
-2. **Informal**: 
-   - すみません、謝ってではすまないよ！
-   - *"Sorry, just apologizing won't cut it!"*
-3. **Written**: 
-   - この問題を放置しておくことでは済まない。
-   - *"Ignoring this issue can't be accepted."*
-4. **Spoken**: 
-   - 彼のことを無視してでは済まない！
-   - *"You can't just ignore him!"*
+### Example 1: Formal Context
+- **Japanese:** 社長に迷惑をかけたのだから、謝罪ではすまない。
+- **Romaji:** Shachō ni meiwaku o kaketa noda kara, shazai de wa sumanai.
+- **English:** Since I caused trouble for the president, an apology won't suffice.
+### Example 2: Informal Context
+- **Japanese:** あんなことしたら、ただではすまないよ。
+- **Romaji:** Anna koto shitara, tada de wa sumanai yo.
+- **English:** If you do something like that, you won't get away with just that.
+### Example 3: Written Context
+- **Japanese:** 法律を破った以上、罰金ではすまないだろう。
+- **Romaji:** Hōritsu o yabutta ijō, bakkin de wa sumanai darō.
+- **English:** Having broken the law, a fine probably won't settle it.
+### Example 4: Spoken Context
+- **Japanese:** 約束を破ったんだから、怒られるだけではすまないかも。
+- **Romaji:** Yakusoku o yabutta ndakara, okorareru dake de wa sumanai kamo.
+- **English:** Since I broke the promise, just being scolded might not be enough.
+---
 ## 5. Cultural Notes
 ### Cultural Relevance
-In Japanese culture, expressing remorse or acknowledging a mistake is very important, and the concept of "making amends" plays a crucial role in maintaining harmony (wa). The expression ～ではすまない emphasizes that simply apologizing is insufficient in certain situations, revealing the expectation for more profound actions and accountability.
+In Japanese culture, maintaining social harmony and fulfilling obligations are highly valued. The expression **～ではすまない** reflects the importance of taking appropriate responsibility when one has caused inconvenience or harm. It emphasizes that minimal actions are inadequate in serious situations, and more significant efforts are necessary to restore balance.
+### Levels of Politeness and Formality
+- **Formal Situations:** Use the full form **ではすまない**.
+- **Casual Conversations:** The contraction **じゃすまない** may be used.
 ### Idiomatic Expressions
-- **謝ってでは済まない** (Ayamatte dewa sumanai) – "It won't end with just an apology." 
+#### ただではすまない
+- **Meaning:** "Won't get off lightly" / "Won't go unpunished"
+- **Example:**
+  - **Japanese:** 彼はただではすまないだろう。
+  - **English:** He won't get off lightly.
+---
 ## 6. Common Mistakes and Tips
 ### Error Analysis
-- **Common Mistake**: Using お礼ではすまない (Orei dewa sumanai) when you should use the "無理しない" (Murishinai) form when referring to physical actions. 
-- **Tip**: Be cautious about the context; this expression is often used in negative scenarios, so use it when discussing consequences or responsibilities.
+#### Mistake 1: Using with Positive Outcomes
+- **Incorrect:** 試験に合格してはすまない。
+- **Explanation:** The expression is not used for positive situations.
+- **Correction:** 試験に合格しても満足してはいけない。
+#### Mistake 2: Misplacing Particles
+- **Incorrect:** 問題で済まない。
+- **Explanation:** Missing the topic marker **は** in **では**.
+- **Correction:** 問題ではすまない。
 ### Learning Strategies
-- **Mnemonic Device**: Associate "すまない" (sumanai) with “not enough” to remember that it reflects on the insufficiency of action.
+- **Mnemonic Device:** Think of **すまない** as "won't finish," so **ではすまない** means "won't be settled with..."
+- **Practice:** Create sentences involving serious situations where simple actions aren't enough.
+---
 ## 7. Summary and Review
 ### Key Takeaways
-- The grammar point ～ではすまない expresses that a situation cannot be resolved with a simple solution.
-- It is often tied to accountability and consequences in Japanese culture.
-- Distinguish it from similar phrases such as ～では足りない, which suggests insufficiency but not necessarily a failure to act.
+- **Usage:** Expresses that an action or situation is insufficient to resolve a matter.
+- **Formed With:** Nouns or verb (て-form) + **ではすまない**.
+- **Conveys:** Necessity for more significant actions due to the seriousness of the issue.
 ### Quick Recap Quiz
-1. What does ～ではすまない imply in a conversation?
-2. Provide an example in a formal setting using ～ではすまない.
-3. How does this expression reflect Japanese cultural values regarding responsibility?
-Feel free to ask any questions or for further clarifications!
+1. **What does ～ではすまない express in a sentence?**
+   - *It expresses that something cannot be resolved with just the mentioned action; more is required.*
+2. **How do you form ～ではすまない with a noun?**
+   - *Attach ではすまない directly to the noun: Noun + ではすまない.*
+3. **Correct the mistake in the sentence:**
+   - **Incorrect:** 彼に感謝してはすまない。
+   - **Correction:** 彼に感謝するだけではすまない。
+     - *Explanation:* Add **だけ** to emphasize that just thanking him is not enough.
+---
+By understanding **～ではすまない**, you can effectively express situations where minimal actions are insufficient, adding depth and nuance to your Japanese communication.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

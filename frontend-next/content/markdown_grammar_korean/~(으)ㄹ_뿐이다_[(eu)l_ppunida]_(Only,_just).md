@@ -1,78 +1,99 @@
 Processing keyword: ~(으)ㄹ 뿐이다 [(eu)l ppunida] (Only, just)
 # Korean Grammar Point: ~(으)ㄹ 뿐이다 [(eu)l ppunida] (Only, just)
-# Grammar Point: ~(으)ㄹ 뿐이다 [(eu)l ppunida] (Only, just)
-## Introduction
-The grammar point ~(으)ㄹ 뿐이다 is used in Korean to express the idea of "only" or "just." It emphasizes that the statement reflects a limitation and indicates that there is nothing more beyond what is being stated.
-## Core Grammar Explanation
-### Detailed Explanation
-The structure of ~(으)ㄹ 뿐이다 can be broken down as follows:
-- **Verb Stem + (으)ㄹ + 뿐이다**
-  - **(으)ㄹ**: This is the future tense suffix added to a verb stem. It indicates the possible future action or state.
-  - **뿐이다**: This phrase means "only" or "just," limiting the scope of the statement.
+
+## 1. Introduction
+The grammar point **~(으)ㄹ 뿐이다** is used in Korean to express the meaning of "only," "just," or "merely." It emphasizes that there is nothing more than what has been mentioned. This structure is commonly used to downplay an action or to express modesty.
+
+---
+## 2. Core Grammar Explanation
+### Meaning
+- **~(으)ㄹ 뿐이다** conveys that the subject **only does something** and **nothing more**.
+- It **emphasizes limitation** or **exclusivity** of an action or state.
+### Structure
+The formation of **~(으)ㄹ 뿐이다** depends on whether the verb or adjective stem ends with a consonant or a vowel.
+| Stem Ending         | Suffix           | Example Verb | Formation         | Meaning            |
+|---------------------|------------------|--------------|-------------------|--------------------|
+| Consonant (other than ㄹ) | **-을 뿐이다**   | 먹다 (to eat) | 먹**을 뿐이다**    | Only eat           |
+| Vowel or ㄹ         | **-ㄹ 뿐이다**    | 가다 (to go)  | 가**ㄹ 뿐이다**     | Only go            |
 ### Formation Diagram
-The structure can be visualized like this:
 ```
-[Verb Stem] + (으)ㄹ + 분이다 → "only" or "just" 
+[Verb/Adjective Stem] + (으)ㄹ 뿐이다
 ```
-### Examples of Conjugation
-- 먹다 (to eat)
-  - 먹을 뿐이다 (to only eat / just eat)
-- 하다 (to do)
-  - 할 뿐이다 (to only do / just do)
-  
-## Visual Aids
-| Verb            | Stem       | (으)ㄹ Ending | "Only" Form       |
-|------------------|------------|---------------|--------------------|
-| 먹다 (to eat)    | 먹         | 먹을          | 먹을 뿐이다        |
-| 하다 (to do)     | 하         | 할            | 할 뿐이다          |
-| 가다 (to go)     | 가         | 갈            | 갈 뿐이다          |
-| 마시다 (to drink)| 마시       | 마실          | 마실 뿐이다        |
-## Comparative Analysis
-### Comparison with Similar Grammar Points
-1. **~밖에 (bakk'e)** - This form also expresses limitation, but it has a negative connotation, meaning "only" in a restrictive sense:
-   - Example: 나밖에 모른다. (I only know [it] - implying that no one else knows.)
-2. **~만 (man)** - This is more straightforwardly equivalent to "only," but can be used with nouns as well:
-   - Example: 나만 간다. (Only I am going.)
-### Differences:
-- **~(으)ㄹ 뿐이다** is typically used in more formal contexts.
-- **~밖에** usually requires a negative form in the following clause.
-- **~만** is more versatile and can be used in informal contexts or with nouns.
-## Examples in Context
-### Sentence Examples
-1. **Formal Context:**
-   - 저는 한국어를 배우는 것뿐이다.
-   - Translation: I am just learning Korean.
-   
-2. **Informal Context:**
-   - 오늘은 집에 있는 것뿐이야.
-   - Translation: I’m just at home today.
-3. **Written Context:**
-   - 이 프로젝트는 학생들의 참여를 필요로 할 뿐이다.
-   - Translation: This project only requires the participation of students.
-4. **Spoken Context:**
-   - 나는 그냥 놀고 있을 뿐이야.
-   - Translation: I'm just playing around.
-## Cultural Notes
+- If the stem ends in a **consonant** (except ㄹ), add **-을 뿐이다**
+- If the stem ends in a **vowel** or the consonant **ㄹ**, add **-ㄹ 뿐이다**
+---
+## 3. Comparative Analysis
+### ~(으)ㄹ 뿐이다 vs. ~만
+- **~만** is a particle meaning "only," attached directly to nouns.
+  - Example: *책만 읽어요.* (I only read books.)
+- **~(으)ㄹ 뿐이다** is used with verbs and adjectives to express "only do something."
+  - Example: *읽을 뿐이에요.* (I only read.)
+**Nuance Difference:**
+- **~만** can be used with nouns, verbs, and adjectives, but when used with verbs, it generally requires a nominal form or additional grammar.
+- **~(으)ㄹ 뿐이다** specifically emphasizes that there's **nothing else beyond the mentioned action**.
+---
+## 4. Examples in Context
+### Formal Speech
+1. **저는 제 일을 했을 뿐입니다.**
+   - *I only did my work.*
+2. **그는 진실을 말했을 뿐입니다.**
+   - *He only told the truth.*
+### Informal Speech
+1. **난 그냥 농담했을 뿐이야.**
+   - *I was just joking.*
+2. **우리는 친구일 뿐이야.**
+   - *We are just friends.*
+### Written Context
+1. **그는 소망을 전했을 뿐이다.**
+   - *He merely conveyed his hopes.*
+2. **시간이 흐를 뿐이다.**
+   - *Time just passes by.*
+### Spoken Context
+1. **걱정했을 뿐이에요.**
+   - *I was only worried.*
+2. **맛을 본 것뿐이에요.**
+   - *I just tasted it.*
+---
+## 5. Cultural Notes
 ### Cultural Relevance
-The usage of ~(으)ㄹ 뿐이다 reflects the Korean tendency toward modesty and understatement. In social interactions, Koreans often downplay their achievements or situations, embodying the cultural value of humility.
+- In Korean culture, **modesty** is valued. Using **~(으)ㄹ 뿐이다** can express humility about one's actions or achievements.
+  - Example: *대단한 것은 없어요. 제가 한 일은 도왔을 뿐이에요.*
+    - *It's nothing great. I merely helped.*
 ### Levels of Politeness
-Using ~(으)ㄹ 뿐이다 in speech or writing conveys a level of respect and politeness, especially in formal situations. It's more appropriate than simply saying "only" in English, as Korean often places more emphasis on the level of formality.
-### Idiomatic Expressions
-- 아무것도 아닐 뿐이다. (It's nothing at all.)
-## Common Mistakes and Tips
-### Error Analysis
-1. **Incorrect Verb Forms:** Learners often forget to use the proper verb stem before adding (으)ㄹ.
-   - Correct: 할 뿐이다 (not 해뿐이다).
-   
-2. **Neglecting Context:** Using this structure in casual settings where less formal language is expected.
+- The ending **-이다** can change according to politeness levels:
+  - **Formal high respect:** -뿐입니다
+  - **Informal polite:** -뿐이에요
+  - **Casual speech:** -뿐이야
+---
+## 6. Common Mistakes and Tips
+### Common Mistakes
+1. **Incorrect attachment to nouns:**
+   - *책을 읽을 뿐이다.* (Correct)
+   - *책을 뿐이다.* (Incorrect)
+     - **Tip:** Remember that **~(으)ㄹ 뿐이다** attaches to **verbs or adjectives**, not directly to nouns.
+2. **Mixing up with ~만:**
+   - Using **~만** when **~(으)ㄹ 뿐이다** is more appropriate for emphasizing the limitation of an action.
 ### Learning Strategies
-- **Mnemonic Device:** Remember it as “(eu)l ppunida” = “just” in a formal way, emphasizing the limitation of what is being communicated.
-## Summary and Review
+- **Mnemonic Device:** Think of **"Only (뿐) the action (을)"** to remember that **~(으)ㄹ 뿐이다** emphasizes "only doing that action."
+- **Practice Transformation:** Take sentences using **~만** and try converting them to use **~(으)ㄹ 뿐이다** to understand the subtle differences.
+---
+## 7. Summary and Review
 ### Key Takeaways
-- **Meaning:** ~(으)ㄹ 뿐이다 expresses limitation, translating to "only" or "just."
-- **Structure:** It combines a verb with the future tense ending and the phrase "뿐이다."
-- **Usage Contexts:** Suitable for various contexts, but more commonly used in formal situations.
+- **~(으)ㄹ 뿐이다** is used to express "only," "just," or "merely" regarding an action or state.
+- It attaches to **verb or adjective stems** and emphasizes that there is nothing beyond what is mentioned.
+- Remember the formation rules based on whether the stem ends with a consonant or vowel.
 ### Quick Recap Quiz
-1. What does ~(으)ㄹ 뿐이다 mean?
-2. How is the verb stem modified before adding ~(으)ㄹ?
-3. Can ~밖에 be used interchangeably with ~(으)ㄹ 뿐이다? Why or why not?
+1. **Form the sentence using ~(으)ㄹ 뿐이다:**
+   - "I am merely listening."
+   - **Answer:** *저는 듣**고 있을 뿐이에요***.
+2. **True or False:**
+   - **~(으)ㄹ 뿐이다** can be attached directly to nouns.
+   - **Answer:** False
+3. **Fill in the blank:**
+   - *우리는 기다릴 __이에요.* (We are just waiting.)
+   - **Answer:** *뿐*
+---
+By understanding and practicing **~(으)ㄹ 뿐이다**, you'll be able to express limitations and modesty in your Korean communication more naturally.
+
+---
+© [Hanabira.org](https://hanabira.org)

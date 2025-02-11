@@ -1,67 +1,104 @@
 Processing keyword: ~(으)ㄹ 뿐만 아니라 [(eu)l ppunman anira] (Not only... but also...)
 # Korean Grammar Point: ~(으)ㄹ 뿐만 아니라 [(eu)l ppunman anira] (Not only... but also...)
-# ~ (으)ㄹ 뿐만 아니라 [(eu)l ppunman anira]
+
 ## 1. Introduction
-The grammar structure ~(으)ㄹ 뿐만 아니라 is used to express dual or multiple aspects of a situation, specifically denoting something that is "not only... but also...". It highlights the significance of both statements and what they offer.
+In this lesson, we'll explore the Korean grammar point **~(으)ㄹ 뿐만 아니라**, which translates to **"not only... but also..."** in English. This structure is used to connect two clauses, highlighting that not only the first situation exists but the second one as well. Understanding this grammar point will help you express additional information and enhance the complexity of your sentences.
+
+---
 ## 2. Core Grammar Explanation
-### Detailed Explanation
-This grammar point is formed using the following structure:
-- **Verb Stem + (으)ㄹ 뿐만 아니라** 
-- **Adjective Stem + (으)ㄹ 뿐만 아니라** 
-- **Noun + 일 뿐만 아니라** 
-### Meaning and Structure
-- "뿐만 아니라" can be translated as "not only... but also" or "besides".
-- The addition of "으" before "ㄹ" is necessary when the verb stem ends in a consonant. If the verb stem ends in a vowel, use "ㄹ" directly.
-### Formation Diagram
-```
-[Verb/Adjective Stem] + (으)ㄹ 뿐만 아니라 
-        ↓                     
-     "Not only... but also"
-```
+### Meaning
+~(으)ㄹ 뿐만 아니라 is used to:
+- **Indicate that what's stated in the second clause is in addition to what's stated in the first clause.**
+- Emphasize that both clauses hold true, highlighting the addition of information.
+### Structure
+The formation of ~(으)ㄹ 뿐만 아니라 depends on whether the verb stem ends with a vowel or a consonant.
+#### Formation Diagram
+| Verb Stem Ending | Attach                                         | Example Verb | Conjugation                   |
+|------------------|------------------------------------------------|--------------|-------------------------------|
+| Vowel or 'ㄹ'    | -ㄹ 뿐만 아니라                                 | 가다 (to go)  | 갈 뿐만 아니라                |
+| Consonant        | -을 뿐만 아니라                                 | 먹다 (to eat) | 먹을 뿐만 아니라              |
+| Noun             | Noun + 일 뿐만 아니라 *(noun + 일)*            | 학생 (student)| 학생일 뿐만 아니라            |
+### Conjugation Steps
+1. **Identify** the verb or adjective stem.
+2. **Check** if the stem ends with a vowel or consonant.
+3. **Attach** -ㄹ 뿐만 아니라 (vowel or 'ㄹ' ending) or -을 뿐만 아니라 (consonant ending).
+#### Examples:
+- 가다 → 가 + ㄹ 뿐만 아니라 → **갈 뿐만 아니라**
+- 먹다 → 먹 + 을 뿐만 아니라 → **먹을 뿐만 아니라**
+---
 ## 3. Comparative Analysis
-### Comparison with similar grammar points:
-- **-(으)ㄴ 데다가 / -는 데다가**: Used similarly to add another piece of information but focuses more on adding extra detail instead of contrasting.
-  
-Example:
-- **그는 똑똑한 데다가 친절하더라.**
-  - "He is not only smart but also kind."
-### Distinction:
-- ~(으)ㄹ 뿐만 아니라 emphasizes that both statements are equally important, while -(으)ㄴ 데다가 tends to add an extra piece of information which may carry less weight.
+### Similar Grammar Points
+- **~(으)ㄴ/는 데다가**: Also means "in addition to" or "not only... but also...".
+#### Differences:
+- **~(으)ㄹ 뿐만 아니라** often implies that the second clause adds more weight or emphasis to the first clause.
+- **~(으)ㄴ/는 데다가** is used when the two clauses are similar in nature and simply adding information.
+#### Example:
+- 그는 똑똑할 뿐만 아니라 친절하다.  
+  *(Not only is he smart, but he's also kind.)*
+- 그는 똑똑한 데다가 운동도 잘한다.  
+  *(He is smart, and in addition, he is good at sports.)*
+---
 ## 4. Examples in Context
-### Sentence Examples:
-1. **이 책은 재미있을 뿐만 아니라 유익하다.**  
-   - "This book is not only interesting but also informative."
-2. **그 사람은 한국어를 잘할 뿐만 아니라 영어도 잘한다.**  
-   - "That person not only speaks Korean well but also speaks English well."
-3. **가족 여행은 즐거울 뿐만 아니라 여유를 줄 수 있다.**  
-   - "Family trips are not only enjoyable but can also provide relaxation."
-4. **이 회사는 제품이 품질이 좋을 뿐만 아니라 가격도 적당하다.**  
-   - "This company not only has good quality products but also reasonable prices."
+### Formal Speech
+1. **그녀는 한국어를 잘할 뿐만 아니라 중국어도 할 줄 압니다.**  
+   *Not only does she speak Korean well, but she can also speak Chinese.*
+2. **이 제품은 품질이 좋을 뿐만 아니라 가격도 저렴합니다.**  
+   *Not only is this product of good quality, but it's also affordable.*
+### Informal Speech
+1. **오늘은 비가 올 뿐만 아니라 바람도 많이 불어.**  
+   *Not only is it raining today, but it's also very windy.*
+2. **그 사람은 재미있을 뿐만 아니라 매너도 좋아.**  
+   *Not only is that person funny, but they also have good manners.*
+### Written Context
+1. **환경오염은 인간의 건강에 해로울 뿐만 아니라 지구의 미래를 위협한다.**  
+   *Environmental pollution not only harms human health but also threatens the future of the Earth.*
+2. **이 책은 내용이 유익할 뿐만 아니라 글쓰기도 훌륭하다.**  
+   *This book not only has useful content but is also well-written.*
+### Spoken Context
+1. **A:** 이 영화 어때요?  
+   **B:** 재미있을 뿐만 아니라 감동적이었어요.  
+   *A: How is this movie?  
+   B: Not only was it interesting, but it was also touching.*
+2. **A:** 저 가수 알아요?  
+   **B:** 노래를 잘할 뿐만 아니라 춤도 정말 잘 춰요.  
+   *A: Do you know that singer?  
+   B: Not only does he sing well, but he also dances really well.*
+---
 ## 5. Cultural Notes
 ### Cultural Relevance
-In Korean culture, expressing both aspects of a situation shows a comprehensive understanding and respect for both sides of a topic. The use of this grammar point can thus demonstrate politeness by acknowledging different qualities or contributions of an individual.
+Understanding emphasis in Korean is important because:
+- **Politeness and emphasis**: Koreans often use structures like ~(으)ㄹ 뿐만 아니라 to emphasize points politely.
+- **Collective culture**: Adding information shows thoroughness, which is valued in Korean society.
 ### Idiomatic Expressions
-Common phrases using this structure include:
-- **예술뿐만 아니라 과학도 중요하다.**
-  - "Art is not only important but science is as well."
+- **얼굴이 예쁠 뿐만 아니라 마음도 아름답다.**  
+  *Not only is she pretty, but her heart is also beautiful.*  
+  *(An idiomatic way to compliment someone's appearance and character.)*
+---
 ## 6. Common Mistakes and Tips
 ### Error Analysis
-- **Common Mistakes:**
-  1. Ignoring the correct usage of (으) when there is a consonant. 
-  2. Using it with only one subject without another counterpart.
+- **Using the wrong conjugation**: Forgetting to use ㄹ or 을 based on the stem ending.
+  Incorrect: 가다 → 가을 뿐만 아니라 ❌  
+  Correct: 가다 → 갈 뿐만 아니라 ✅
+- **Misplacing the negative**: Misunderstanding that 뿐만 아니라 is not a negative form despite "not only" in English.
 ### Learning Strategies
-- **Mnemonic Device:** Remember "both + not only = (으)ㄹ 뿐만 아니라" to always include two contrasting ideas.
-- Practicing pairing phrases can help cement the structure in your mind.
+- **Mnemonic Device**: Think of **"뿐만 아니라"** as "**plus**" information. Both clauses are **positive additions**.
+- **Practice conjugation**: Make a list of verbs and practice attaching ~(으)ㄹ 뿐만 아니라 accordingly.
+---
 ## 7. Summary and Review
 ### Key Takeaways
-- The grammar structure ~(으)ㄹ 뿐만 아니라 is used to signify something that is "not only... but also...".
-- It can showcase the importance of two or more statements equally.
-- Comparison with similar structures helps clarify its unique use.
+- **~(으)ㄹ 뿐만 아니라** is used to express "not only... but also..." in Korean.
+- Attach **-ㄹ 뿐만 아니라** after vowel-ending stems, and **-을 뿐만 아니라** after consonant-ending stems.
+- It emphasizes that both the first and the second clauses are true.
 ### Quick Recap Quiz
-1. Translate the following sentence using ~(으)ㄹ 뿐만 아니라: 
-   - "This restaurant is good, but it is also inexpensive."
-2. Fill in the blank: "그녀는 노래를 잘할 _______ 춤도 잘 춘다."
-**Answers**:
-1. "이 식당은 맛있을 뿐만 아니라 가격도 저렴하다."
-2. "뿐만 아니라" 
-Feel free to ask more questions to clarify this grammar point!
+1. How do you conjugate **읽다 (to read)** with ~(으)ㄹ 뿐만 아니라?
+   - **Answer:** 읽을 뿐만 아니라
+2. Translate the following sentence:
+   **그는 영어를 배울 뿐만 아니라 스페인어도 배워요.**
+   - **Answer:** Not only is he learning English, but he's also learning Spanish.
+3. True or False: ~(으)ㄹ 뿐만 아니라 can be used to connect two unrelated clauses.
+   - **Answer:** False (They should be related in context, with the second adding information to the first.)
+---
+**Congratulations!** You've learned how to use ~(으)ㄹ 뿐만 아니라 to enhance your Korean sentences by adding more information and emphasis. Keep practicing by creating your own sentences using this grammar point.
+
+---
+© [Hanabira.org](https://hanabira.org)

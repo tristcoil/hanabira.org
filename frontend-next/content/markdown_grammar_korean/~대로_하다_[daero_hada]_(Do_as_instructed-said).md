@@ -1,66 +1,120 @@
 Processing keyword: ~대로 하다 [daero hada] (Do as instructed/said)
 # Korean Grammar Point: ~대로 하다 [daero hada] (Do as instructed/said)
-# Grammar Point: ~대로 하다 [daero hada] (Do as instructed/said)
+
+---
 ## 1. Introduction
-The grammar structure ~대로 하다 is used in Korean to indicate that someone is doing something exactly as instructed or as stated. It's often translated to "to do as told" or "to do according to."
+The Korean grammar pattern "~대로 하다" is used to express the idea of doing something as instructed, as said, or according to a certain way. It signifies following instructions, rules, or the manner in which something was previously done. Mastering this pattern will enhance your ability to convey adherence to guidelines and expectations in various contexts.
+
+---
 ## 2. Core Grammar Explanation
-### Detailed Explanation
-- **Meaning**: The structure ~대로 harmonizes with a verb to indicate that the action will be executed exactly how it has been suggested or directed.
-- **Structure**: The basic formation consists of:
-  - Verb stem + 대로 + 하다
-#### Formation Diagram
-```markdown
-[Verb Stem] + 대로 + 하다
-```
-- Example: 
-  - 가다 (gada - to go) → 가는 대로 하다 (ganeun daero hada - to go as instructed)
-### Visual Aids
-| Parts          | Description                          |
-|----------------|--------------------------------------|
-| Verb Stem      | Basic form of the verb               |
-| 대로 ([daero]) | Means 'as', 'in the way of'         |
-| 하다           | To do; combined means 'to do as'     |
+### Meaning
+- **~대로 하다**: "Do as...", "Do according to...", "Do in the same way as..."
+### Structure
+The pattern combines **대로**, meaning "as" or "according to", with **하다**, meaning "to do". It attaches to verbs, adjectives, or nouns to indicate that an action is done in accordance with something.
+### Formation Diagram
+| **Form**                     | **Usage**                                    |
+|------------------------------|----------------------------------------------|
+| **Verb/Adj. stem + 대로 하다** | Doing as described by the verb/adjective     |
+| **Noun + 대로 하다**             | Doing according to the noun                 |
+### How to Form
+1. **With Verbs/Adjectives**:
+   - **Verb/Adjective Stem + -(으)ㄴ 대로 하다**
+     - For **action verbs**, use **-는 대로 하다**
+     - For **descriptive verbs (adjectives)**, use **-(으)ㄴ 대로 하다**
+2. **With Nouns**:
+   - **Noun + 대로 하다**
+### Examples of Formation
+- **Verb Example**:
+  - **먹다** (to eat) → **먹은 대로 하다** (do as one ate)
+  - **말하다** (to speak) → **말한 대로 하다** (do as said)
+- **Noun Example**:
+  - **계획** (plan) → **계획대로 하다** (do according to the plan)
+  - **약속** (promise) → **약속대로 하다** (do as promised)
+---
 ## 3. Comparative Analysis
-This grammar point is similar to ~처럼 하다 ([cheoreom hada], "to do like") in that both express a way of doing something, but ~대로 하다 emphasizes following instructions or directions specifically rather than imitating an example.
-### Examples of Differences
-- **~대로 하다**: "Do it as instructed."
-- **~처럼 하다**: "Do it like someone else."
+### Similar Grammar Points
+#### 1. ~처럼 하다 (Do like...)
+- **Usage**: Indicates doing something in the same manner as someone or something else.
+- **Example**: **선생님처럼 말해 보세요.**  
+  *Try speaking like the teacher.*
+#### 2. ~따라 하다 (Follow and do)
+- **Usage**: Means to imitate or follow someone's actions.
+- **Example**: **제가 하는 것을 따라 하세요.**  
+  *Please follow what I do.*
+### Differences
+- **~대로 하다** emphasizes doing something **according to instructions or expectations**, not merely imitating.
+- **~처럼 하다** focuses on doing something **in the same way or style** as someone else.
+- **~따라 하다** involves **directly copying or following** someone's actions.
+---
 ## 4. Examples in Context
-### Sentence Examples
-1. **Formal**: 
-   - 선생님이 말씀하신 대로 하세요. 
-   - (Seonsaengnim-i malssmha-sin daero haseyo.)
-   - "Please do as the teacher said."
-2. **Informal**: 
-   - 네가 말한 대로 해. 
-   - (Nega malhan daero hae.) 
-   - "Do it as you said."
-3. **Written Context**: 
-   - 이 보고서를 작성하는 대로 하십시오. 
-   - (I bogoseoreul jaksanghaneun daero hasipsiyo.)
-   - "Please write this report as instructed."
-4. **Spoken Context**: 
-   - 걱정 말고, 그냥 내 말대로 해. 
-   - (Geokjeong malgo, geunyang nae maldaero hae.)
-   - "Don't worry, just do as I say."
+### Formal Situations
+1. **지시한 대로 하십시오.**  
+   *Please do as instructed.*
+2. **계획대로 진행하겠습니다.**  
+   *We will proceed according to the plan.*
+### Informal Situations
+1. **네가 원하는 대로 해.**  
+   *Do as you want.*
+2. **친구가 말한 대로 갔어요.**  
+   *I went as my friend said.*
+### Written Context
+1. **설명서에 나온 대로 설치하세요.**  
+   *Install it as described in the manual.*
+2. **규칙대로 행동해야 합니다.**  
+   *You must act according to the rules.*
+### Spoken Context
+1. **제가 하는 대로 따라 하세요.**  
+   *Follow along as I do.*
+2. **엄마가 해준 대로 요리했어.**  
+   *I cooked it the way mom did.*
+---
 ## 5. Cultural Notes
 ### Cultural Relevance
-In Korean culture, adhering to instructions is often seen as respect and compliance. The use of ~대로 하다 can reflect hierarchies and relationships, as it is frequently used in contexts where one shows deference to others (like teachers or elders).
+- In Korean society, following social norms, rules, and instructions is highly valued.
+- Using "~대로 하다" properly shows respect and adherence to these expectations.
+- It reflects a collectivist culture where harmony and conformity are important.
+### Levels of Politeness and Formality
+- **Formal Polite**: **대로 하십시오**, **대로 하세요**
+- **Informal Polite**: **대로 해요**
+- **Casual**: **대로 해**
 ### Idiomatic Expressions
-- "말씀하신 대로 해주세요." - "Please do as you said."
+1. **마음대로 하다**  
+   *To do as one pleases.*
+   - **Example**: **네 마음대로 하세요.**  
+     *Do as you please.*
+2. **예상대로**  
+   *As expected.*
+   - **Example**: **결과가 예상대로 나왔어요.**  
+     *The results came out as expected.*
+---
 ## 6. Common Mistakes and Tips
 ### Error Analysis
-- **Mistake**: Confusing ~대로 하다 with just ~하다 (to do).
-  - **Tip**: Remember that ~대로 implies there is an instruction or guideline being followed.
+- **Mistake**: Confusing **대로** with **처럼**.
+  - **Incorrect**: **설명서처럼 설치하세요.** (*Install it like the manual.*)
+  - **Correct**: **설명서대로 설치하세요.** (*Install it according to the manual.*)
+- **Mistake**: Omitting necessary particles or endings.
+  - Ensure you attach **대로 하다** correctly to the verb/noun.
 ### Learning Strategies
-- **Mnemonic Device**: "Daero means to follow directions. Think of a GPS direction - just follow it!"
+- **Association**: Link **대로** with "directive" to remember it relates to instructions.
+- **Practice Sentences**: Create sentences using your daily activities.
+  - **예시**: **저는 계획한 대로 공부했어요.**  
+    *I studied as I planned.*
+---
 ## 7. Summary and Review
 ### Key Takeaways
-- ~대로 하다 is a crucial grammar point for expressing compliance with instructions.
-- It establishes a connection between the verb and the instructions provided.
-- It emphasizes the importance of following guidance in Korean culture.
+- **~대로 하다** is used to express doing something **according to** instructions, words, plans, etc.
+- It can be attached to **verbs**, **adjectives**, and **nouns**.
+- Be mindful of the context and formality when using this pattern.
 ### Quick Recap Quiz
-1. What does ~대로 하다 mean in English?
-2. Give an example sentence using ~대로 하다 in a formal context.
-3. How does ~대로 하다 differ from ~처럼 하다?
-This should provide a solid understanding of the ~대로 하다 grammar point within different contexts and the nuances associated with its usage.
+1. **Fill in the blank**: 설명서___ 설치했습니다.
+   - **Answer**: 대로
+   - **Translation**: I installed it according to the manual.
+2. **True or False**: "~대로 하다" can be used to mean "do as you please".
+   - **Answer**: False (That's **마음대로 하다**)
+3. **Translate to Korean**: "Please act according to the rules."
+   - **Answer**: **규칙대로 행동해 주세요.**
+---
+By understanding and practicing "~대로 하다", you'll be able to clearly communicate adherence to instructions and expectations in Korean, which is essential in both personal and professional settings.
+
+---
+© [Hanabira.org](https://hanabira.org)

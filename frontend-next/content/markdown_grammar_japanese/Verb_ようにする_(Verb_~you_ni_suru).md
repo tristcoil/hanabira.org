@@ -1,69 +1,135 @@
 Processing keyword: Verb ようにする (Verb ~you ni suru)
 # Japanese Grammar Point: Verb ようにする (Verb ~you ni suru)
-# Verb ようにする (Verb ~you ni suru)
+
 ## 1. Introduction
-The expression ようにする (you ni suru) is commonly used in Japanese to indicate making an effort to do something or trying to do something. It expresses intention or a decision to carry out a certain action on a regular basis.
+In this lesson, we'll explore the Japanese grammar point **「Verb ようにする」**. This structure is essential for expressing efforts to perform an action or to make something a habit. By mastering this grammar point, you'll be able to talk about your intentions and the actions you are trying to make routine.
+
+---
 ## 2. Core Grammar Explanation
-### Detailed Explanation
-ようにする (you ni suru) consists of two parts:
-- ように (you ni): This can be thought of as "in order to" or "to the state of" something.
-- する (suru): This means "to do."
-### Meaning and Structure
-When combined, ようにする conveys the idea of making an effort or taking action to achieve a goal or to change a habit.
-#### Formation Diagram
-```
-[Verb (dictionary form)] + ようにする
-```
-- Examples:
-  - 食べる (taberu - to eat) → 食べるようにする (taberu you ni suru - to make an effort to eat)
-  - 努力する (doryoku suru - to strive) → 努力するようにする (doryoku suru you ni suru - to make an effort to strive)
+### Meaning
+**「Verb ようにする」** is used to indicate:
+- Making an effort to do something.
+- Trying to ensure that something happens.
+- Forming a habit or routine.
+It emphasizes the conscious effort someone is making towards an action.
+### Structure
+The formation of this grammar point is straightforward:
+1. **Verb in Dictionary Form + ようにする**
+   - To express making an effort to do something.
+2. **Verb in ない-form + ようにする**
+   - To express making an effort not to do something.
+### Formation Diagram
+| **Verb Form**             | **ようにする**     | **Meaning**                         |
+|---------------------------|-------------------|-------------------------------------|
+| Verb (Dictionary Form)    | ようにする        | Make an effort to do ~              |
+| Verb (ない-form)          | ようにする        | Make an effort not to do ~          |
+---
 ## 3. Comparative Analysis
-- **ようにする (you ni suru)** vs. **ように (you ni)**
-  - ように: Indicates purpose (e.g., 勉強するようにする - benkyou suru you ni suru - "so that I study").
-  - ようにする emphasizes the action of making a conscious effort (e.g., 毎日運動するようにする - mainichi undou suru you ni suru - "I make it a point to exercise daily").
-- **ようにする (you ni suru)** vs. **ようとする (you to suru)**
-  - ようとする indicates an attempt to do something (e.g., 行こうとする - ikou to suru - "I try to go"), whereas ようにする indicates the habitual effort to do something (e.g., 行くようにする - iku you ni suru - "I make an effort to go").
+### Comparing with Similar Grammar Points
+#### Verb ことにする vs. Verb ようにする
+- **Verb ことにする**
+  - **Meaning**: Deciding to do something.
+  - **Example**: *毎朝ジョギングすることにしました。*
+    - "I have decided to jog every morning."
+- **Verb ようにする**
+  - **Meaning**: Making an effort to do something regularly.
+  - **Example**: *毎朝ジョギングするようにしています。*
+    - "I am making an effort to jog every morning."
+**Difference**:  
+- **ことにする** emphasizes the decision.
+- **ようにする** emphasizes the ongoing effort or habit formation.
+#### Verb ようになる vs. Verb ようにする
+- **Verb ようになる**
+  - **Meaning**: To reach a state where something becomes possible or a change has occurred.
+  - **Example**: *日本語が話せるようになりました。*
+    - "I have become able to speak Japanese."
+- **Verb ようにする**
+  - **Meaning**: To make an effort to do something.
+  - **Example**: *日本語を話すようにしています。*
+    - "I am making an effort to speak Japanese."
+**Difference**:  
+- **ようになる** indicates a change or transition.
+- **ようにする** indicates a deliberate effort on the part of the subject.
+---
 ## 4. Examples in Context
-### Sentence Examples
-1. **Formal:**  
-   健康のために、毎日運動するようにしています。  
-   * (Kenkou no tame ni, mainichi undou suru you ni shiteimasu.)  
-   "For my health, I am making an effort to exercise every day."
-2. **Informal:**  
-   もっと早く起きるようにしてる。  
-   * (Motto hayaku okiru you ni shiteru.)  
-   "I’m trying to wake up earlier."
-3. **Written:**  
-   社会人として、ドキュメントを定期的に提出するように心がけています。  
-   * (Shakaijin to shite, dokyumento wo teikiteki ni teishutsu suru you ni kokorogaketeimasu.)  
-   "As a working professional, I am making a conscious effort to submit documents regularly."
-4. **Spoken:**  
-   もっと日本語を勉強するようにしてるよ。  
-   * (Motto Nihongo wo benkyou suru you ni shiteru yo.)  
-   "I’m trying to study more Japanese."
+### Formal Context
+1. **健康のために、毎日水をたくさん飲むようにしています。**
+   - *Kenkō no tame ni, mainichi mizu o takusan nomu you ni shite imasu.*
+   - "For my health, I make an effort to drink plenty of water every day."
+2. **環境を守るために、車を使わないようにしています。**
+   - *Kankyō o mamoru tame ni, kuruma o tsukawanai you ni shite imasu.*
+   - "To protect the environment, I try not to use my car."
+### Informal Context
+1. **もっと野菜を食べるようにするよ。**
+   - *Motto yasai o taberu you ni suru yo.*
+   - "I'll try to eat more vegetables."
+2. **夜更かししないようにする。**
+   - *Yofukashi shinai you ni suru.*
+   - "I'm going to try not to stay up late."
+### Spoken Language
+1. **忘れ物しないようにしなきゃ。**
+   - *Wasuremono shinai you ni shinakya.*
+   - "I have to make sure I don't forget things."
+2. **遅刻しないように気をつけてね。**
+   - *Chikoku shinai you ni ki o tsukete ne.*
+   - "Be careful not to be late."
+---
 ## 5. Cultural Notes
 ### Cultural Relevance
-The expression ようにする (you ni suru) reflects the Japanese value of perseverance and self-improvement. It is common in conversations about personal goals, health, and other habits.
+In Japanese culture, showing diligence and continuous effort is highly valued. Using **「ようにする」** conveys humility and responsibility, as it emphasizes one's ongoing efforts rather than boasting about results.
 ### Levels of Politeness and Formality
-- Verb forms can vary based on formality (e.g., using する vs. します), and it’s essential to choose the appropriate level based on the context and your audience.
+- **Polite Form**:  
+  - **ようにしています**  
+    - Used in formal situations, indicating ongoing effort.
+- **Casual Form**:  
+  - **ようにする** / **ようにしてる**  
+    - Used among friends or in informal settings.
 ### Idiomatic Expressions
-- "努力する" (doryoku suru) translates to "make an effort," often used alongside ようにする to emphasize the significance of trying.
+- **時間を守るようにする**  
+  - *Jikan o mamoru you ni suru*  
+  - "To try to be punctual."
+- **無駄遣いをしないようにする**  
+  - *Mudazukai o shinai you ni suru*  
+  - "To try not to waste money."
+---
 ## 6. Common Mistakes and Tips
 ### Error Analysis
-- **Mistake:** Using the verb in the negative form before ようにする incorrectly (e.g., 食べないようにする).
-- **Correction:** Explain the intention with more context (e.g. 食べないようにする means "to make an effort not to eat").
+1. **Using the wrong verb form**
+   - **Incorrect**: *早く寝ますようにしています。*
+   - **Correct**: *早く寝るようにしています。*
+   - **Tip**: Use the **dictionary form** or **ない-form** of the verb before **ようにする**.
+2. **Confusion with ようになる**
+   - **Mistake**: Mixing up effort (ようにする) with change of state (ようになる).
+   - **Example**:
+     - **Incorrect**: *野菜を食べるようになりました。* (Intending to say you're trying to eat vegetables)
+     - **Correct**: *野菜を食べるようにしました。* (I made an effort to eat vegetables)
+     - **Note**: *野菜を食べるようになりました。* actually means "I have come to eat vegetables" (a change has occurred).
 ### Learning Strategies
-- **Mnemonic Tip:** Remember that ようにする reflects a "conscious effort" not just an intention. Visualize a checklist of habits to reinforce the concept.
+- **Mnemonic Device**:  
+  - Think of **「ようにする」** as "ensuring to do" something.
+  - *You* need to *ensure*.
+- **Practice**:  
+  - Create sentences about your daily habits or efforts.
+  - Example: *毎日、日本語を勉強するようにしています。*
+---
 ## 7. Summary and Review
 ### Key Takeaways
-- ようにする (you ni suru) indicates a conscious effort to do something.
-- The structure combines a verb in its dictionary form with ようにする.
-- Use in various contexts to express habitual actions or goals.
+- **「Verb ようにする」** is used to express making an effort or habit to perform an action.
+- Formed by adding **ようにする** to the **dictionary form** or **ない-form** of a verb.
+- Emphasizes ongoing effort rather than a one-time decision.
 ### Quick Recap Quiz
-1. What does ようにする focus on in terms of action?
-2. How would you express the effort to learn more Japanese using ようにする?
-3. Provide the translation for: "I am trying to eat healthier."
-*Answers:*
-1. Making a conscious effort.
-2. 日本語をもっと勉強するようにしています (Nihongo wo motto benkyou suru you ni shiteimasu).
-3. 健康的に食べるようにしています (Kenkou-teki ni taberu you ni shiteimasu).
+1. **Fill in the blank**: To say "I am trying not to eat late at night," you would say:  
+   *夜遅くに食べ____ようにしています。*
+   **Answer**: **ない**
+2. **Choose the correct usage**: Which sentence correctly uses **ようにする**?
+   a) *毎日、走ることにする。*  
+   b) *毎日、走るようにする。*
+   **Answer**: **b)**
+3. **True or False**: **「ようにする」** is used to express a change that has naturally occurred.
+   **Answer**: **False** (That's **ようになる**)
+---
+By incorporating **「Verb ようにする」** into your speech, you can effectively communicate your efforts and habits in Japanese. Keep practicing by expressing what you are trying to do or avoid in your daily life!
+
+---
+
+© [Hanabira.org](https://hanabira.org)

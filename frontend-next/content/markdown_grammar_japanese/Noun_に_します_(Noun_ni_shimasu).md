@@ -1,69 +1,115 @@
 Processing keyword: Noun に します (Noun ni shimasu)
 # Japanese Grammar Point: Noun に します (Noun ni shimasu)
-# Grammar Point: Noun に します (Noun ni shimasu)
+
 ## 1. Introduction
-The construction **Noun に します** is a commonly used expression in Japanese that means "to decide on (something)" or "to choose (something)." It is often used when discussing preferences, decisions, or choices in various contexts.
+The grammar point **"Noun にします" (Noun ni shimasu)** is commonly used in Japanese to express a decision or choice among options. It translates to "I will have...", "I'll go with...", or "I choose..." in English. This construction is especially frequent in daily conversations, such as ordering food, shopping, or deciding on plans.
+
+---
 ## 2. Core Grammar Explanation
 ### Meaning
-- **Noun** refers to the thing you are deciding on or choosing.
-- **に (ni)** is a particle that indicates direction or result and, in this case, it connects the noun to the verb.
-- **します (shimasu)** is the polite form of the verb "to do" and indicates the action of making a decision.
+- **"Noun にします"** is used to indicate that the speaker has decided on a particular noun (item, option, or choice).
+- It conveys a sense of making a selection from available options.
 ### Structure
-- **Noun + に + します**
-  
-**Example Diagram:**
+The basic formation of this grammar point is:
+```plaintext
+[Chosen Noun] + にします
 ```
-[ Noun ]  +  [ に ]  +  [ します ]
-  (Choice)     (Direction)    (Do)
+- **[Chosen Noun]**: The item or option you are choosing.
+- **にします**: The verb phrase meaning "will do/make it into".
+### Formation Diagram
 ```
-### Formation
-1. Identify the noun representing your choice (e.g., メニュー/menu, 仕事/work).
-2. Add the particle **に** to show the action's direction or outcome.
-3. Use **します** to indicate the act of deciding or choosing.
+[Chosen Noun] + に (particle) + します (verb)
+```
+- **に**: A particle indicating the target or result of the action.
+- **します**: The polite form of the verb **する** (to do).
+### Visual Aid: Example Table
+| English                | Japanese                  |
+|------------------------|---------------------------|
+| I'll have tea.         | お茶にします。            |
+| We'll go with Plan B.  | プランBにします。         |
+| She chooses the cake.  | 彼女はケーキにします。    |
+---
 ## 3. Comparative Analysis
-- **Noun に します** vs. **Noun に なる (Noun ni naru)**: 
-  - **に します** indicates making a decision, whereas **に なる** indicates a change to a state or condition.
-  - Example: 
-    - **学生にします** (I will choose to be a student.)
-    - **学生になる** (I will become a student.)
+### Comparison with **"Noun をします"**
+- **"Noun をします"**: Means "to do [noun]", where the noun is often an activity.
+  - Example: テニスをします。("I play tennis.")
+- **"Noun にします"**: Means "to decide on [noun]", indicating a choice.
+  - Example: テニスにします。("I'll go with tennis [as my choice].")
+### Nuances
+- **にします** focuses on the selection process.
+- **をします** focuses on performing an action.
+---
 ## 4. Examples in Context
-### Sentence Examples
-1. **Formal**
-   - **私は新しい仕事にします。**  
-   - (Watashi wa atarashii shigoto ni shimasu.)  
-   - "I will choose a new job."
-2. **Informal**
-   - **コーヒーにするよ。**  
-   - (Kōhī ni suru yo.)  
-   - "I’ll have coffee."
-3. **Written**
-   - **彼は留学にします。**  
-   - (Kare wa ryūgaku ni shimasu.)  
-   - "He has decided to study abroad."
-4. **Spoken**
-   - **ランチはピザにしよう。**  
-   - (Ranchi wa piza ni shiyou.)  
-   - "Let’s decide on pizza for lunch."
+### Formal Situations
+- **注文するとき (When ordering):**
+  - **お客様:** コーヒーとサンドイッチをください。
+  - **店員:** サンドイッチはハムとチーズがありますが、どちらにしますか。
+  - **お客様:** チーズにします。
+    - *Customer: "Coffee and a sandwich, please."*
+    - *Clerk: "We have ham and cheese sandwiches; which would you like?"*
+    - *Customer: "I'll have the cheese."*
+### Informal Situations
+- **友達との会話 (Conversation with friends):**
+  - **Aさん:** 今日、映画とカラオケ、どっちにする？
+  - **Bさん:** 映画にするよ。
+    - *A: "Today, movie or karaoke, which shall we do?"*
+    - *B: "Let's go with a movie."*
+### Written Context
+- **アンケートで (In a survey):**
+  - **ご希望の配送方法にチェックしてください。**
+    - - [ ] 普通便
+    - - [x] 速達便
+    - *"Please check your preferred delivery method."*
+### Spoken Context
+- **買い物で (While shopping):**
+  - **店員:** 色は赤と青があります。
+  - **客:** 青にします。
+    - *Clerk: "We have red and blue colors."*
+    - *Customer: "I'll take blue."*
+---
 ## 5. Cultural Notes
 ### Cultural Relevance
-- Using **にします** reflects a thoughtful approach in Japanese culture, where making a decision often involves considering others' feelings and opinions.
-- The level of politeness in the choice of **します** can reflect respect, especially in formal or business settings.
+- Making choices politely is important in Japanese culture.
+- **にします** is a polite way to state your decision without being too direct.
+### Levels of Politeness
+- **にします** is polite and appropriate in most situations.
+- In very casual settings, one might simply say the noun:
+  - Example: **ビール。** ("Beer.") – Very casual.
 ### Idiomatic Expressions
-- **決まったらいいね (kimattara ii ne)**: “It’d be good if we could decide.”
-- This expression often precedes a discussion involving **にします**, highlighting the collaborative decision-making process typical in Japanese culture.
+- **お任せにします。**
+  - *"I'll leave it up to you."* – Often used in restaurants when you trust the chef's choice.
+---
 ## 6. Common Mistakes and Tips
-### Error Analysis
-- **Using the wrong noun**: Ensure the noun you choose appropriately reflects your intention.
-- **Omitting the particle に**: Remember that **に** is essential to indicate the direction of the decision.
-### Learning Strategies
-- Create a personal list of nouns that reflect your interests and practice forming sentences using **にします**.
-- Use flashcards: One side with a noun, the other with **Noun にします** in a complete sentence.
+### Common Mistakes
+1. **Using を instead of に:**
+   - Incorrect: **寿司をします。**
+   - Correct: **寿司にします。**
+     - *"I'll have sushi."*
+2. **Omitting します in polite conversation:**
+   - Incorrect: **コーヒーに。**
+   - Correct: **コーヒーにします。**
+     - *"I'll have coffee."*
+### Tips to Remember
+- Think of **に** as pointing to your choice.
+- **します** adds politeness and formality to your decision.
+- Associate **にします** with making decisions or choices.
+---
 ## 7. Summary and Review
 ### Key Takeaways
-- **Noun に します** is used to indicate a decision or choice about something.
-- It is essential to connect a noun properly with the **に** particle, followed by **します**.
+- **"Noun にします"** is used to express a decision or choice.
+- It's structured by adding **にします** to the noun representing your choice.
+- Used frequently in daily life when selecting items, ordering food, or making plans.
 ### Quick Recap Quiz
-1. What does **Noun に します** mean in English?
-2. How would you say "I will decide on sushi" in Japanese?
-3. Contrast **Noun に します** with **Noun に なる** and explain one difference.
-Feel free to attempt the answers, and let's review your understanding!
+1. How do you say "I'll choose this one" using **にします**?
+   - **Answer:** これにします。
+2. What's the difference between **パンを食べます** and **パンにします**?
+   - **Answer:** **パンを食べます** means "I will eat bread." **パンにします** means "I'll have bread (as my choice)."
+3. Translate to Japanese: "We will go with the morning flight."
+   - **Answer:** 午前の便にします。
+---
+By mastering **"Noun にします"**, you can effectively communicate your choices and decisions in a polite and natural manner in Japanese.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

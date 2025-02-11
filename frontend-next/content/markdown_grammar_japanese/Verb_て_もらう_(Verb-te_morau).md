@@ -1,71 +1,129 @@
 Processing keyword: Verb て もらう (Verb-te morau)
 # Japanese Grammar Point: Verb て もらう (Verb-te morau)
-# Grammar Point: Verb て もらう (Verb-te morau)
+
 ## 1. Introduction
-The Japanese expression "Verb て もらう" (verb-te morau) is used to indicate that someone does a favor for the speaker. It is a way to express gratitude for receiving assistance or a service. This structure combines the te-form of a verb with the verb "もらう" (morau), which means "to receive."
+Welcome to this lesson on the Japanese grammar point **Verb て もらう (Verb-te morau)**. This structure is commonly used to express receiving a favor or service from someone. Understanding how to use **Verb-te morau** will enhance your ability to describe situations where someone does something beneficial for you, which is a vital aspect of communicating in Japanese.
 ## 2. Core Grammar Explanation
-### Detailed Explanation
-- **Meaning**: To receive a favor from someone or to have someone do something for you.
-- **Structure**: Verb (te-form) + もらう (morau)
+## Meaning
+**Verb て もらう** is used when the speaker (or the subject) receives the favor of someone performing an action for them. It emphasizes the benefit or help that the subject gains from someone else's action.
+- **English Equivalent**: "have someone do something for you" or "get someone to do something"
+## Structure
+The basic structure is:
+- **[Person] に [Verb in て-form] + もらう**
 ### Formation Diagram
+
+| Component             | Explanation                                |
+|-----------------------|--------------------------------------------|
+| **[Person] に**        | The person who performs the action (marked by **に**) |
+| **[Verb in て-form]**  | The action performed                      |
+| **もらう**             | "to receive" (the favor/action)            |
+
+**Note**: The subject (often **私** "I") is usually omitted as it's understood from context.
+## Visual Aid
+Here's how the structure fits into a sentence:
+```markdown
+[私は] 友だちに 日本語を 教えて (Verb て-form) もらいました。
+   ↓         ↓         ↓                 ↓
+Subject   Person に    Object        Verb て-form + もらう
 ```
- [Verb (te-form)] + もらう (morau)
-          ↓
-      (to receive a favor)
-```
-### Breakdown:
-1. **Verb (te-form)**: Convert the main verb into its te-form. This is essential as it links the verb with "もらう."
-   - Example: 食べる (taberu) becomes 食べて (tabete).
-2. **もらう (morau)**: The verb that means "to receive," and in this context, it indicates receiving a favor or service.
-### Example in Context
-- 食べて もらう (tabete morau): "to have someone eat (for me)" → "to receive the favor of someone eating."
+**Example Breakdown**:
+- **友だちに**: from a friend
+- **日本語を**: Japanese language (object)
+- **教えてもらいました**: received the favor of teaching
+## Polite Forms
+To adjust politeness levels:
+- **Casual**: もらう
+  - 友だちに手伝ってもらう。
+- **Polite**: もらいます
+  - 友だちに手伝ってもらいます。
+- **Past Tense**: もらった / もらいました
+  - 友だちに手伝ってもらった。
+  - 友だちに手伝ってもらいました。
 ## 3. Comparative Analysis
-The expression "Verb て もらう" can be compared with "Verb て くれる" (verb-te kureru):
-- **Verb て くれる**: Indicates that someone does something for the benefit of the speaker, focusing more on the giver's action.
-    - Example: 先生が教えてくれる (Sensei ga oshiete kureru) – "The teacher teaches (for me)."
-- **Verb て もらう**: Emphasizes the speaker as the receiver of the action, placing importance on the favor received.
-    - Example: 先生に教えてもらう (Sensei ni oshiete morau) – "I receive teaching from the teacher."
+It's important to distinguish **Verb て もらう** from similar expressions:
+| Expression        | Usage                                         | Emphasis                   |
+|-------------------|-----------------------------------------------|----------------------------|
+| **Verb て もらう**   | Someone does something **for me** (I receive a favor) | **Receiver** (I)            |
+| **Verb て くれる**   | Someone does something **for me/us**         | **Giver**                   |
+| **Verb て あげる**   | I do something **for someone** (I give a favor) | **Giver** (I)               |
+**Key Differences**:
+- **もらう**: Focuses on receiving a favor.
+- **くれる**: Focuses on someone generously doing something for you.
+- **あげる**: Focuses on giving a favor to someone.
 ## 4. Examples in Context
-### Sentence Examples 
-1. **Formal**:
-   - 先生に質問をしてもらいました。
-     - (Sensei ni shitsumon o shite moraimashita.)
-     - "I had my teacher ask (a question) for me."
-2. **Informal**:
-   - 友達に手伝ってもらった。
-     - (Tomodachi ni tetsudatte moratta.)
-     - "I had my friend help me."
-3. **Written**:
-   - 私は彼にプレゼントを買ってもらいました。
-     - (Watashi wa kare ni purezento o katte moraimashita.)
-     - "I received (the favor of) him buying a present for me."
-4. **Spoken**:
-   - 兄に車を運転してもらうよ。
-     - (Ani ni kuruma o unten shite morau yo.)
-     - "I’m going to have my older brother drive (me)."
+## Example Sentences
+### 1. Receiving Help (Informal)
+**Japanese**: 母に宿題を手伝ってもらった。
+**Romaji**: Haha ni shukudai o tetsudatte moratta.
+**English**: "I got my mother to help me with my homework."
+### 2. Professional Assistance (Formal)
+**Japanese**: 弁護士に書類を準備してもらいます。
+**Romaji**: Bengoshi ni shorui o junbi shite moraimasu.
+**English**: "I will have a lawyer prepare the documents for me."
+### 3. Polite Request (Asking a Favor)
+**Japanese**: 写真を撮ってもらえませんか。
+**Romaji**: Shashin o totte moraemasen ka.
+**English**: "Could you please take a picture for me?"
+### 4. Expressing Gratitude (Formal)
+**Japanese**: 同僚に仕事を引き受けてもらって、助かりました。
+**Romaji**: Dōryō ni shigoto o hikiukete moratte, tasukarimashita.
+**English**: "I was saved by having my colleague take over the work for me."
+### 5. Negotiation (Casual)
+**Japanese**: 友だちにチケットを買ってもらう予定だ。
+**Romaji**: Tomodachi ni chiketto o katte morau yotei da.
+**English**: "I'm planning to have my friend buy the tickets for me."
 ## 5. Cultural Notes
-### Cultural Relevance
-In Japanese culture, politeness and expressing gratitude are essential. Using "Verb て もらう" reflects humility by acknowledging others' help. This structure is often used in everyday conversation, especially when talking about receiving favors from peers, elders, or superiors.
-### Levels of Politeness
-- The choice between using もらう (morau) and its more formal counterpart 頂く (itadaku) depends on the context and the relationship between the parties involved. For higher levels of formality, especially in business settings, "いただく" is preferred.
-### Idiomatic Expressions
-- お願いします (Onegaishimasu): "Please do (this for me)." Often used with the verb form, expressing a polite request.
+## Cultural Relevance
+- **Respect and Humility**: Using **もらう** shows appreciation for someone's effort, aligning with Japanese values of humility and gratitude.
+- **Indirectness**: Japanese often prefer indirect requests; using **Verb て もらえますか** softens the request.
+## Levels of Politeness and Formality
+- **Casual Speech**: Used among friends and family.
+  - 手伝ってもらえる？ (Can you help me?)
+- **Polite Speech**: Used in formal situations.
+  - 手伝ってもらえますか。 (Could you help me?)
+## Idiomatic Expressions
+- **Verb て もらってもいいですか**
+  - Used to ask permission or a favor politely.
+  - 道を教えてもらってもいいですか。
+  - "Would you mind telling me the way?"
 ## 6. Common Mistakes and Tips
-### Error Analysis
-- Students might confuse when to use "もらう" vs. "くれる." Remember:
-  - "もらう" is for the receiver's perspective.
-  - "くれる" is for the giver's perspective.
-### Learning Strategies
-- **Mnemonic Device**: Think of "もらう" as "to receive," thus focusing on the perspective of being grateful for the help.
-- Create sentences about daily activities where someone helps you to practice using て もらう.
+## Error Analysis
+### Mistake 1: Using Wrong Particle
+- **Incorrect**: 先生から教えてもらいました。
+- **Correct**: 先生に教えてもらいました。
+  - **Tip**: Use **に**, not **から**, to mark the person doing the action.
+### Mistake 2: Confusing with **Verb て くれる**
+- Remember that **もらう** focuses on the receiver (the speaker), while **くれる** focuses on the giver.
+  - **もらう Example**: 私は友だちに本を貸してもらった。 (I got my friend to lend me a book.)
+  - **くれる Example**: 友だちが本を貸してくれた。 (My friend lent me a book.)
+### Mistake 3: Forgetting to Use **て-form**
+- **Incorrect**: 手伝うもらいます。
+- **Correct**: 手伝ってもらいます。
+  - **Tip**: Always conjugate the verb to its **て-form** before adding **もらう**.
+## Learning Strategies
+- **Practice Conjugation**: Regularly practice converting verbs to their **て-form**.
+- **Role Play**: Create dialogues where you ask for favors using **Verb て もらう**.
+- **Visual Associations**: Associate **もらう** with receiving to remember its usage.
 ## 7. Summary and Review
-### Key Takeaways
-- "Verb て もらう" expresses receiving a favor from someone.
-- It combines the te-form of a verb with "もらう" and emphasizes the receiver's gratitude.
-- Similar but distinct from "verb て くれる," which focuses on the giver’s action.
-### Quick Recap Quiz
-1. What does "Verb て もらう" mean?
-2. How do you form the structure?
-3. Give an example sentence using "Verb て もらう."
-4. What is the difference between "もらう" and "くれる"? 
-This format should help reinforce the understanding of this grammar point while providing context and cultural relevance.
+## Key Takeaways
+- **Verb て もらう** is used to express receiving the favor of someone doing something for you.
+- The person performing the action is marked with **に**.
+- Always use the **て-form** of the verb before **もらう**.
+- Differentiate between **もらう**, **くれる**, and **あげる** to avoid misunderstandings.
+## Quick Recap Quiz
+1. **Question**: How do you express "I had my friend help me" using **Verb て もらう**?
+   **Answer**: 友だちに手伝ってもらった。
+   
+2. **Question**: Which particle is used with the person who does the action in **Verb て もらう**?
+   **Answer**: に
+
+3. **Question**: What is the main difference between **Verb て もらう** and **Verb て あげる**?
+   **Answer**: **もらう** focuses on receiving a favor from someone, whereas **あげる** focuses on giving a favor to someone.
+
+---
+By mastering **Verb て もらう**, you'll enhance your ability to communicate favors and express gratitude in Japanese, making your interactions more natural and culturally appropriate.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

@@ -1,64 +1,108 @@
 Processing keyword: (으)ㄹ 때 [(eu)l ttae] (When)
 # Korean Grammar Point: (으)ㄹ 때 [(eu)l ttae] (When)
-# Korean Grammar Point: (으)ㄹ 때 [(eu)l ttae] (When)
+
 ## 1. Introduction
-The grammar point (으)ㄹ 때 is used to express situations related to time, specifically when something happens or occurs. This can be translated as "when" in English and is a key structure for forming temporal clauses in Korean.
+The Korean grammar point **(으)ㄹ 때** is used to express "when" in temporal contexts. It's a fundamental structure that helps indicate the time when an action occurs or a state exists. Mastering **(으)ㄹ 때** will enhance your ability to describe actions and events in relation to time.
+
+---
 ## 2. Core Grammar Explanation
-### Detailed Explanation
-- **Meaning**: (으)ㄹ 때 indicates a specific time or occasion when an action takes place.
-- **Structure**: 
-  - The form (으)ㄹ is derived from the verb stem and changes based on the ending vowel of the verb:
-    - If the verb root ends in a consonant: (으)ㄹ 때
-    - If the verb root ends in a vowel: ㄹ 때
+### Meaning
+**(으)ㄹ 때** translates to **"when"** in English. It is used to describe the time **when** something happens or happened.
+### Structure
+The attachment of **(으)ㄹ 때** depends on whether the verb stem ends with a consonant or a vowel.
+#### Formation Rules
+1. **Verb stem ending with a consonant**:  
+   - Attach **-을 때**  
+   - **먹다** (to eat) ➔ **먹을 때** (when eating)
+2. **Verb stem ending with a vowel**:  
+   - Attach **-ㄹ 때**  
+   - **가다** (to go) ➔ **갈 때** (when going)
+3. **Verb stem ending with 'ㄹ'**:  
+   - Attach **- 때** (since the 'ㄹ' is already present)  
+   - **팔다** (to sell) ➔ **팔 때** (when selling)
 ### Formation Diagram
-| Verb Stem | Ending          | (으)ㄹ 때 Form |
-|-----------|----------------|-----------------|
-| 가 (to go) | vowel          | 갈 때 (when going)  |
-| 먹다 (to eat) | consonant   | 먹을 때 (when eating) |
-### Visual Aids
-- **Example Verb Stems**:
-    - 가다 (gada) ➔ 갈 때 (gal ttae)
-    - 마시다 (masida) ➔ 마실 때 (masil ttae)
+Let's visualize the formation:
+| Verb Stem Ending | Attach    | Example Verb | Combined Form | Meaning      |
+|------------------|-----------|--------------|---------------|--------------|
+| Consonant        | -을 때    | 먹다 (to eat)| 먹을 때       | when eating  |
+| Vowel            | -ㄹ 때    | 가다 (to go) | 갈 때         | when going   |
+| Ends with 'ㄹ'   | - 때      | 살다 (to live)| 살 때        | when living  |
+---
 ## 3. Comparative Analysis
-### Similar Grammar Points
-- **(으)ㄴ 때** vs. **(으)ㄹ 때**:
-  - (으)ㄴ 때 is used for situations that have already happened or are completed, while (으)ㄹ 때 relates to future events or actions.
-**Example**:
-- **(으)ㄴ 때**: 내가 학교에 갔던 때 (When I went to school)
-- **(으)ㄹ 때**: 내가 학교에 갈 때 (When I go to school)
+### Comparing **(으)ㄹ 때** with **았/었을 때**
+- **(으)ㄹ 때**: Refers to the present or future time when an action occurs.
+  - **집에 갈 때 전화를 해요.**  
+    *I call when I go home.*
+- **았/었을 때**: Refers to a past time when an action occurred.
+  - **집에 갔을 때 전화를 했어요.**  
+    *I called when I went home.*
+**Nuance Difference**:  
+- Use **(으)ㄹ 때** for present or habitual actions.
+- Use **았/었을 때** for completed past actions.
+---
 ## 4. Examples in Context
 ### Sentence Examples
-**Formal Context**:
-1. 회의할 때 준비물을 가져오세요.  
-   *(Please bring the materials when you have a meeting.)*
-**Informal Context**:
-2. 친구를 만날 때 전화해.  
-   *(Call me when you meet your friend.)*
-**Written Context**:
-3. 이 보고서를 제출할 때 주의사항을 확인하십시오.  
-   *(Please check the precautions when submitting this report.)*
-**Spoken Context**:
-4. 자주 운동할 때 건강에 좋아.  
-   *(It's good for your health when you exercise often.)*
+#### Formal Context
+1. **비가 올 때 운전을 조심하세요.**  
+   *Please be careful when driving in the rain.*
+2. **회의할 때 휴대폰을 끄십시오.**  
+   *Please turn off your phone when in a meeting.*
+#### Informal Context
+1. **시간 날 때 같이 영화 보자.**  
+   *Let's watch a movie together when you have time.*
+2. **너 집에 올 때 우유 좀 사 올래?**  
+   *Can you buy some milk when you come home?*
+#### Written Context
+1. **어렸을 때 꿈은 의사가 되는 것이었다.**  
+   *When I was young, my dream was to become a doctor.*
+2. **책을 읽을 때 집중이 잘 된다.**  
+   *I can concentrate well when I read a book.*
+#### Spoken Context
+1. **피곤할 때 어떻게 해?**  
+   *What do you do when you're tired?*
+2. **한국어를 공부할 때 재미있어.**  
+   *It's fun when studying Korean.*
+---
 ## 5. Cultural Notes
 ### Cultural Relevance
-- The usage of (으)ㄹ 때 reflects the importance of timing and politeness in Korean culture. Many interactions revolve around the right timing for actions or communication.
-- **Levels of Politeness**: The verbs in the sentence can change formality based on the audience, which is a significant aspect of Korean social norms.
+In Korean culture, discussing events in relation to time is common, and using **(으)ㄹ 때** appropriately reflects one’s grasp of the language's temporal nuances.
+### Levels of Politeness
+Selecting the correct speech level is vital. Combining **(으)ㄹ 때** with polite endings conveys respect.
+- **할머니를 뵐 때 항상 인사드려요.**  
+  *I always greet my grandmother when I see her.*
 ### Idiomatic Expressions
-- **When in Rome, do as the Romans do**: 한국에 가면 한국처럼 살아야 해. *(When you go to Korea, you should live like Koreans do.)*
+- **심심할 때 뭐 해요?**  
+  *What do you do when you're bored?*
+- **시간이 없을 때일수록 침착하세요.**  
+  *Especially when you have no time, stay calm.*
+---
 ## 6. Common Mistakes and Tips
-### Error Analysis
-- **Frequent Mistake**: Confusing (으)ㄹ 때 with (으)ㄴ 때.
-- **Tip**: Remember that (으)ㄹ 때 is used for future actions while (으)ㄴ 때 is for past actions. 
+### Common Mistakes
+1. **Incorrect attachment after consonant-ending verb stems**
+   - **Incorrect**: 먹다 ➔ 먹ㄹ 때  
+   - **Correct**: 먹다 ➔ **먹을 때**
+2. **Using (으)면 instead of (으)ㄹ 때**
+   - **(으)면** means **"if"**, which changes the meaning.
+   - **Incorrect**: 아플 **면** 약을 드세요. (If you're sick, take medicine.)
+   - **Correct**: 아플 **때** 약을 드세요. (When you're sick, take medicine.)
 ### Learning Strategies
-- Create a mnemonic using the verb roots to remember how to attach (으)ㄹ based on the final consonant or vowel.
+- **Associate with Time**: Remember that **때** itself means "time". So **(으)ㄹ 때** relates to "when (at the time of)".
+- **Consonant/Vowel Rule**: If the verb stem ends with a consonant, it's heavier (**을 때**). If it ends with a vowel, it's lighter (**ㄹ 때**).
+---
 ## 7. Summary and Review
 ### Key Takeaways
-- (으)ㄹ 때 is used to indicate when an action will happen in the future.
-- It’s essential for forming temporal clauses in both spoken and written Korean.
-- Be cautious of its distinction from (으)ㄴ 때.
+- **(으)ㄹ 때** is used to express "when" an action or state occurs.
+- Attach **-을 때** after consonant-ending verb stems and **-ㄹ 때** after vowel-ending verb stems.
+- Be mindful of the differences between **(으)ㄹ 때** and similar grammar points like **(으)면** and **(으)면서**.
 ### Quick Recap Quiz
-1. What is the structure used when the verb stem ends in a vowel?
-2. Give an example of a sentence using (으)ㄹ 때 in a formal context.
-3. How does (으)ㄹ 때 differ from (으)ㄴ 때? 
-Feel free to use these questions to assess your understanding of the grammar point!
+1. **Fill in the blank**: 공부___ 집중이 잘 돼요. (When studying, I can concentrate well.)
+   **Answer**: 공부**할 때** 집중이 잘 돼요.
+2. **Correct the mistake**: 놀다 ➔ 놀을 때
+   **Answer**: 놀다 ends with 'ㄹ', so it becomes **놀 때**.
+3. **Translate to Korean**: "When it's cold, I drink hot tea."
+   **Answer**: **추울 때** 뜨거운 차를 마셔요.
+---
+By understanding and practicing **(으)ㄹ 때**, you'll be able to express time-related actions more fluently in Korean. Remember to pay attention to verb endings and context to use this grammar point correctly.
+
+---
+© [Hanabira.org](https://hanabira.org)

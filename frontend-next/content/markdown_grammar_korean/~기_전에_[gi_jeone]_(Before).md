@@ -1,78 +1,104 @@
 Processing keyword: ~기 전에 [gi jeone] (Before)
 # Korean Grammar Point: ~기 전에 [gi jeone] (Before)
-# ~기 전에 [gi jeone] (Before)
+
 ## 1. Introduction
-The Korean grammar point "~기 전에" is used to indicate an action that takes place before another action. It is a common way to express sequences of events or actions in the past, present, or future.
+In this lesson, we will explore the Korean grammar point **~기 전에** (*gi jeone*), which is used to express the meaning of **"before doing something"**. This structure is essential for describing actions that occur prior to another action and is commonly used in daily conversations.
+
 ---
 ## 2. Core Grammar Explanation
-### Detailed Explanation
-- **Meaning**: "~기 전에" translates to "before (doing something)".
-- **Structure**: It is used after a verb in its noun form. The general structure is:
-  - Verb stem + 기 전에
-- **Formation**:
-  - **Verb Stem + 기**: Converts the verb into a noun form.
-  - **전에**: Means "before".
-### Formation Diagram
+### Meaning
+**~기 전에** is attached to the stem of a verb to indicate that one action happens **before** another action. It effectively turns the verb into a noun form that can be used with **전에**, which means **"before"**.
+### Structure
+#### Formation Steps
+1. **Take the verb stem**: Remove **-다** from the dictionary form of the verb.
+2. **Add 기 전에**: Attach **기 전에** to the verb stem.
+#### Formation Diagram
 ```
-   [Verb Stem] + 기 → Noun Form
-                  | 
-             +  전에 → Before
+[Verb Stem] + 기 전에 + [Main Action]
 ```
-### Visual Aids
-| Verb Stem | Noun Form    | Example                     |
-|-----------|--------------|-----------------------------|
-| 가다 (gada - to go) | 가기 (gagi)   | 가기 전에 (before going)   |
-| 오다 (oda - to come) | 오기 (ogi)   | 오기 전에 (before coming)   |
-| 먹다 (meokda - to eat) | 먹기 (meokgi) | 먹기 전에 (before eating)  |
+#### Example
+- Verb: **공부하다** (*gongbuhada*, "to study")
+  - Remove **-다**: 공부하**다** → 공부하
+  - Add **기 전에**: 공부하 + 기 전에 → **공부하기 전에**
+So, **공부하기 전에** means "before studying".
 ---
 ## 3. Comparative Analysis
-The expression "~기 전에" is often compared with "~고 나서" (after doing). 
-- **Usage of ~기 전에**: Focuses on what happens before an action.
-  - Example: "밥 먹기 전에 손을 씻어요." (I wash my hands before eating.)
-  
-- **Usage of ~고 나서**: Focuses on what happens after an action.
-  - Example: "밥 먹고 나서 숙제를 해요." (I do my homework after eating.)
+### Comparing Similar Grammar Points
+#### ~기 전에 vs. ~(으)ㄴ 후에
+- **~기 전에** (*gi jeone*): Means **"before doing something"**.
+  - Example: **자기 전에** (*jagi jeone*, "before sleeping")
+- **~(으)ㄴ 후에** (*(eu)n hue*): Means **"after doing something"**.
+  - Example: **잔 후에** (*jan hue*, "after sleeping")
+Both structures are used to sequence events but signify opposite temporal relationships.
 ---
 ## 4. Examples in Context
 ### Sentence Examples
-1. **Formal**:
-   - 수업이 시작하기 전에 자리에서 일어나지 마세요.  
-   (Please do not stand up before the class starts.)
-  
-2. **Informal**:
-   - 집에 가기 전에 친구를 만날 거야.  
-   (I will meet my friend before going home.)
-3. **Written**:
-   - 회의 전에 모든 자료를 준비해야 합니다.  
-   (All materials must be prepared before the meeting.)
-4. **Spoken**:
-   - 닭고기 요리하기 전에 양념을 해야 해.  
-   (I need to marinate the chicken before cooking it.)
+#### Example 1: Informal Spoken
+- **영화를 보기 전에 뭐 먹을까?**
+- *Yeonghwareul bogi jeone mwo meogeulkka?*
+- **Translation**: What should we eat **before watching the movie**?
+#### Example 2: Polite Informal
+- **집에 가기 전에 친구를 만나요.**
+- *Jibe gagi jeone chingureul mannayo.*
+- **Translation**: I meet my friend **before going home**.
+#### Example 3: Formal Written
+- **회의를 시작하기 전에 자료를 준비하십시오.**
+- *Hoeireul sijakagi jeone jaryoreul junbihasipsio.*
+- **Translation**: Please prepare the materials **before starting the meeting**.
+#### Example 4: Casual Conversation
+- **숙제하기 전에 잠깐 쉴래요.**
+- *Sukjehagi jeone jamkkan swilraeyo.*
+- **Translation**: I want to rest for a bit **before doing homework**.
+#### Example 5: Advice
+- **운전하기 전에 꼭 안전벨트를 매세요.**
+- *Unjeonhagi jeone kkok anjeonbelteureul maeseyo.*
+- **Translation**: Be sure to fasten your seatbelt **before driving**.
 ---
 ## 5. Cultural Notes
 ### Cultural Relevance
-- In Korea, punctuality and order are highly valued, and stating "before" certain actions is important in social interactions, especially in formal settings.
-- Understanding the appropriate level of politeness is crucial; using the proper speech level reflects respect towards the listener.
+In Korean culture, emphasizing the order of actions is important, especially when it comes to showing respect and following social norms. Using **~기 전에** can reflect attentiveness and consideration in planning and communicating.
+### Levels of Politeness and Formality
+Korean language has different speech levels. The use of **~기 전에** remains consistent across these levels, but the verb endings change to match the appropriate level of politeness.
+- **Informal polite**: **-어요/아요**
+  - Example: **가기 전에 봐요.** (*Gagi jeone bwayo.*)
+- **Formal polite**: **-습니다**
+  - Example: **가기 전에 봅니다.** (*Gagi jeone bomnida.*)
 ### Idiomatic Expressions
-There's no prevalent idiomatic expression with "~기 전에", but it is commonly used in scripts or cues to indicate order, such as in cooking shows: "재료를 준비하기 전에..." (Before preparing ingredients...)
+- **떠나기 전에 인사하세요.**
+  - *Tteonagi jeone insahaseyo.*
+  - **Translation**: Please say goodbye **before leaving**.
+- This reflects the importance of proper farewells in Korean culture.
 ---
 ## 6. Common Mistakes and Tips
 ### Error Analysis
-1. **Missing Connective**: Learners may forget to connect the verb correctly to the noun form.
-   - Incorrect: "가 전에" → Correct: "가기 전에"
-  
-2. **Omitting Context**: Not specifying what comes after "before" may confuse the listener.
+1. **Forgetting to add 기**
+   - **Incorrect**: **먹다 전에** (*Meokda jeone*)
+   - **Correct**: **먹기 전에** (*Meokgi jeone*)
+   - **Tip**: Remember that **기** is needed to nominalize the verb.
+2. **Using the wrong tense**
+   - **Incorrect**: **가기 전에 갔어요.** (*Gagi jeone gasseoyo.*)
+   - **Correct**: **가기 전에 말했어요.** (*Gagi jeone malhaesseoyo.*)
+   - **Tip**: Ensure the main verb appropriately follows the timing indicated by **~기 전에**.
 ### Learning Strategies
-- **Mnemonic Device**: Associate "기 전에" with the image of a clock ticking down, emphasizing the importance of timing in actions.
-- **Practice with Lists**: Write down daily routines using "~기 전에" to reinforce usage, for example, "샤워하기 전에" (before showering), "수업 듣기 전에" (before attending class).
+- **Mnemonic Device**: Think of **기** as "key" to unlock the verb into a noun form. So, you need the "key" (**기**) **before** (**전에**) proceeding.
+- **Practice**: Make your own sentences by listing daily routines and sequencing them using **~기 전에**.
 ---
 ## 7. Summary and Review
 ### Key Takeaways
-- "~기 전에" is used to express actions that occur before another action.
-- It requires the verb to be converted into noun form using "기."
-- Understanding and using this structure appropriately can enhance clarity in communication.
+- **~기 전에** is used to express actions done **before** another action.
+- Formed by attaching **기 전에** to the verb stem.
+- Remember to adjust the verb endings to match the appropriate level of politeness.
 ### Quick Recap Quiz
-1. Translate: "I wash my hands before eating." into Korean using "~기 전에."
-2. What is the main difference between "~기 전에" and "~고 나서"?
-3. Provide an example sentence using "~기 전에" in a formal context.
-By mastering "~기 전에," students can effectively communicate sequences of actions in Korean, enhancing both spoken and written expression.
+1. How do you attach **~기 전에** to the verb **만나다** (*mannada*, "to meet")?
+2. What does **먹기 전에** mean?
+3. Correct the sentence: **공부하다 전에 게임해요.**
+---
+**Quiz Answers:**
+1. Remove **-다** to get **만나**, then add **기 전에**: **만나기 전에**.
+2. It means **"before eating"**.
+3. Corrected: **공부하기 전에 게임해요.** (*Gongbuhagi jeone geimhaeyo.*)
+---
+By mastering **~기 전에**, you can effectively communicate sequences of actions and enhance your fluency in Korean. Keep practicing by creating your own sentences and using this structure in daily conversations!
+
+---
+© [Hanabira.org](https://hanabira.org)

@@ -1,89 +1,102 @@
 Processing keyword: そんなに～ (sonna ni〜)
 # Japanese Grammar Point: そんなに～ (sonna ni〜)
-# Japanese Grammar Point: そんなに～ (sonna ni〜)
-## Introduction
-The phrase そんなに (sonna ni) is a common Japanese expression used in conversation to convey a variety of meanings related to degree, extent, or comparison. It primarily translates to "that much" or "so much" in English and is used to modify verbs, adjectives, or adverbs.
+
+## 1. Introduction
+In this lesson, we'll explore the Japanese expression **「そんなに」 (sonna ni)**, which is commonly used to indicate a degree or extent of something. Understanding this grammar point will enhance your ability to express comparisons and nuances in Japanese conversation.
+
 ---
-## Core Grammar Explanation
-### Detailed Explanation
-**Meaning:** The phrase そんなに indicates a certain degree or extent of something, often suggesting that it is significant or noteworthy. 
-**Structure:**
-- そんなに (sonna ni) + Verb (dictionary form) / Adjective (い-adjective / な-adjective)
-**Formation Diagram:**
+## 2. Core Grammar Explanation
+### Meaning
+**「そんなに」 (sonna ni)** translates to **"so much", "so", "like that", or "to that extent"** in English. It is used to emphasize the degree of an adjective, adverb, or verb.
+### Structure
+**そんなに + Adjective/Adverb/Verb**
+### Formation Diagram
+```plaintext
+そんなに ＋ [Adjective/Adverb/Verb]
+(So much)        (Describing word/action)
 ```
-                +------------------+
-                |     そんなに     |
-                +------------------+
-                        |
-          +-----------------------+
-          |                       |
-     Verb (dictionary form)  Adjective
-          |                       |
-      (e.g., 食べる)              (e.g., 便利だ)
-```
-### Usage
-1. **Verb Example:**
-   - そんなに食べるの？ (sonna ni taberu no?)
-   - Translation: "Do you eat that much?"
-2. **Adjective Example:**
-   - そんなに便利ですか？ (sonna ni benri desu ka?)
-   - Translation: "Is it that convenient?"
+### Usage Notes
+- Often used to express surprise, disbelief, or a lack of expectation about the extent of something.
+- Can be used in both affirmative and negative sentences.
+- When used in negative sentences, it often implies "not that much" or "not so".
 ---
-## Comparative Analysis
+## 3. Comparative Analysis
 ### Similar Grammar Points
-- **あまり (amari):**  While both そんなに and あまり indicate degrees, あまり is often used negatively (with a negative verb) to mean "not that much."  
-  - **Example:** あまり食べない (amari tabenai) - "I don’t eat that much."
-- **とても (totemo):** This term also indicates a high degree but is used more positively or neutrally compared to そんなに.
-  - **Example:** とても面白い (totemo omoshiroi) - "It’s very interesting."
-### Differences:
-- そんなに often implies a sense of surprise or disbelief regarding the extent of the action or quality, while あまり implies a lack or a downplayed quality.
+| Grammar Point        | Usage                                   | Example                                 |
+|----------------------|-----------------------------------------|-----------------------------------------|
+| **とても (totemo)**   | Indicates a high degree (very)          | とても暑いです。 (It's very hot.)         |
+| **あまり (amari)**    | Used in negative sentences (not very)   | あまり好きじゃない。 (I don't like it much.)|
+| **そんな (sonna)**    | Modifies nouns (such, that kind of)     | そんな話は信じられない。 (I can't believe such a story.)|
+**「そんなに」 vs. 「とても」**
+- **そんなに** often carries a comparative or contrasting nuance, sometimes with surprise.
+- **とても** simply indicates a high degree without comparison.
 ---
-## Examples in Context
-### Sentence Examples:
-#### Formal
-1. **質問:** お忙しいですか？ 
-   (Shitsumon: Oisogashii desu ka?)
-   - **Response:** そんなに忙しくありません。 
-   (Sonna ni isogashiku arimasen.)
-   - Translation: "I’m not that busy."
-#### Informal
-2. **友達と:** そんなに面白い映画だったの？ 
-   (Tomodachi to: Sonna ni omoshiroi eiga datta no?)
-   - Translation: "Was it that interesting of a movie?"
-#### Written
-3. **Essay:** そんなに辛い料理は食べたことがない。 
-   (Essay: Sonna ni karai ryouri wa tabeta koto ga nai.)
-   - Translation: "I have never eaten food that spicy."
-#### Spoken
-4. **日常会話:** 彼はそんなに速く走れない。 
-   (Nichijou kaiwa: Kare wa sonna ni hayaku hasurenai.)
-   - Translation: "He can't run that fast."
+## 4. Examples in Context
+### Formal Speech
+1. **そんなに難しくありません。**
+   - *Sonna ni muzukashiku arimasen.*
+   - *It's not that difficult.*
+2. **その映画はそんなに長いですか。**
+   - *Sono eiga wa sonna ni nagai desu ka.*
+   - *Is that movie that long?*
+### Informal Speech
+1. **そんなに急がなくてもいいよ。**
+   - *Sonna ni isoganakute mo ii yo.*
+   - *You don't have to hurry so much.*
+2. **彼はそんなに強いの？**
+   - *Kare wa sonna ni tsuyoi no?*
+   - *Is he that strong?*
+### Written Context
+1. **そんなに大変な仕事とは思わなかった。**
+   - *Sonna ni taihen na shigoto to wa omowanakatta.*
+   - *I didn't think it was such a tough job.*
+### Spoken Context
+1. **そんなに怒らないでください。**
+   - *Sonna ni okoranaide kudasai.*
+   - *Please don't be so angry.*
 ---
-## Cultural Notes
+## 5. Cultural Notes
 ### Cultural Relevance
-The phrase そんなに is often used when expressing surprise about how much something is or is not. In more formal situations, the level of politeness (using -masu form) must be taken into account when speaking to someone of higher status or age.
-### Levels of Politeness
-- Using そんなに in casual conversations (among friends) is perfectly acceptable.
-- In formal speech, it’s advisable to follow up with appropriate politeness markers.
+In Japanese culture, modesty and understatement are valued. Using **「そんなに」** in negative sentences aligns with this cultural nuance by downplaying or softening statements.
+### Politeness Levels
+- **Polite Form:** そんなに高くありません。
+  - *It's not that expensive.*
+- **Casual Form:** そんなに高くないよ。
+  - *It's not that expensive.*
 ### Idiomatic Expressions
-Common expressions using this grammar include:
-- そんなに簡単じゃない (sonna ni kantan janai) - "It's not that easy."
+1. **そんなに気にしないで。**
+   - *Don't worry about it that much.*
+2. **そんなに焦らなくても大丈夫。**
+   - *It's okay not to rush so much.*
 ---
-## Common Mistakes and Tips
-### Error Analysis
-- **Omitting the 'に':** Many learners forget to include the 'に' particle when using そんなに. It is essential for correct grammatical structure.
-- **Improper Context Usage:** Using そんなに in contexts where it is not surprising may lead to misunderstandings.
-### Learning Strategies
-- **Mnemonic Device:** Remembering that 'sonna' relates to 'that' can help students visualize the context of comparison or extent.
-- **Practice with Context:** Create scenarios to practice using そんなに in both affirmative and negative forms.
+## 6. Common Mistakes and Tips
+### Common Mistakes
+- **Confusing 「そんなに」 with 「そんなん」**
+  - **Incorrect:** そんなんに美味しい。
+  - **Correct:** そんなに美味しい。
+  - *Using the colloquial "そんなん" as "そんなに" is incorrect in this context.*
+- **Overusing in Positive Sentences Without Context**
+  - Remember that **「そんなに」** often implies a comparison or unexpected degree.
+### Tips
+- **Mnemonic Device:** Think of **「そんなに」** as "to that extent?" or "so much?" which can help remember its usage in expressing degree.
+- **Practice Negative Sentences:** Since **「そんなに」** is frequently used in negative forms, try creating sentences that express "not so much".
 ---
-## Summary and Review 
+## 7. Summary and Review
 ### Key Takeaways
-- そんなに means "that much" or "so much".
-- It is used with verbs and adjectives to express degree or extent.
-- Politeness and context are crucial when using this expression.
+- **「そんなに」** means **"so much", "that much", "like that"**.
+- Used to express the extent or degree of something, often with a nuance of surprise or unexpectedness.
+- Commonly used in both affirmative and negative sentences.
 ### Quick Recap Quiz
-1. Translate the sentence: 彼女はそんなにうまく歌えますか？
-2. What would be the correct form: そんなに (_____) いいですか？ (Fill in with a verb)
-3. In what context would you use そんなに with a negative verb?
-By understanding and practicing そんなに, learners can enrich their conversational skills and express degrees of actions and qualities effectively in Japanese.
+1. How do you say, "It's not that spicy"?
+   - **Answer:** そんなに辛くないです。
+2. Translate to Japanese: "Are you really that busy?"
+   - **Answer:** 本当にそんなに忙しいの？
+3. Fill in the blank: そんなに______ないよ。
+   - **Possible Answers:** 高く, 難しく, 美味しく
+---
+By mastering **「そんなに」**, you enhance your ability to express subtle nuances in Japanese, making your conversations more natural and engaging.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

@@ -1,68 +1,114 @@
 Processing keyword: 는/은 데 [neun/eun de] (Situation or condition)
 # Korean Grammar Point: 는/은 데 [neun/eun de] (Situation or condition)
-# Grammar Point: 는/은 데 [neun/eun de] (Situation or Condition)
+
 ## 1. Introduction
-The Korean grammar point **는/은 데** is used to provide additional information about a situation or condition that precedes a statement. It can often be translated as “in that situation” or “when it comes to.” This structure helps to connect thoughts and gives context to the information that follows.
+In Korean, the grammar pattern **-는/은 데** is a versatile connective that links two clauses, providing context or background information about a situation or condition. Understanding how to use **-는/은 데** correctly will enhance your ability to form complex sentences and express nuanced relationships between events or states.
+
+---
 ## 2. Core Grammar Explanation
-### Detailed Explanation
-**는** and **은** are topic markers that attach to verbs and adjectives, while **는 데** and **은 데** serve to introduce a situation or condition.
-1. **는 데** is used after verbs or adjectives that end in a vowel or the verb stem ends with a vowel:
-   - Example: 가다 (to go) + 는 데 → 가는 데
-2. **은 데** is used after verbs or adjectives that end with a consonant:
-   - Example: 크다 (to be big) + 은 데 → 큰 데
+### Meaning and Usage
+The grammar pattern **-는/은 데** is used to:
+- Introduce background information or a situation before stating a related fact.
+- Contrast two clauses.
+- Provide a reason or explanation.
+- Indicate a situation where the second clause is unexpected based on the first.
 ### Structure
-- **Verb/Adjective + 는/은 데 + (additional statement)**
-### Formation Diagram
-```plaintext
-[Verb/Adjective] + 는/은 데 → [Situation/Condition]
-                                   |
-                                   v
-                               [New Information]
+The formation of **-는/은 데** depends on the verb or adjective stem it attaches to:
+#### Formation Table
+| Verb/Adjective Type      | Stem Ending in Consonant | Stem Ending in Vowel | Past Tense        |
+|--------------------------|--------------------------|----------------------|-------------------|
+| **Action Verb (Present)**     | -는데                     | -는데                 | -았/었는데          |
+| **Descriptive Verb (Adjective) (Present)** | -은데                     | -ㄴ데                 | -었는데             |
+| **Noun + 이다**          |  -인데                    | -인데                 | -이었는데/였는데    |
+#### Examples of Formation
+1. **Action Verb (Present):**
+   - 먹다 (to eat) → 먹는데
+   - 가다 (to go) → 가는데
+2. **Descriptive Verb (Adjective) (Present):**
+   - 작다 (to be small) → 작은데
+   - 크다 (to be big) → 큰데
+3. **Past Tense:**
+   - 먹었다 (ate) → 먹었는데
+   - 갔다 (went) → 갔는데
+### Visual Diagram
 ```
+[Clause A] + -는/은 데 + [Clause B]
+```
+- **Clause A**: Provides background, situation, contrast, or reason.
+- **Clause B**: Main statement or result related to Clause A.
+---
 ## 3. Comparative Analysis
-- **는/은 데** vs. **고**: 
-  - **는/은 데** introduces a situation or condition while **고** simply connects two clauses without implying a context.
-  - **Example**: 
-    - (는/은 데) 나는 학생인데, 공부를 잘 해요. (I am a student, and I study well.)
-    - (고) 나는 학생이고, 공부를 잘 해요. (I am a student, and I study well - without additional context.)
+### Comparison with Other Connectives
+- **-아서/어서/해서**: Indicates reason or cause. Unlike **-는/은 데**, it cannot express contrast.
+  - Example: 배가 고파서 밥을 먹었어요. (I was hungry, so I ate food.)
+  
+- **-지만**: Specifically used for contrast, equivalent to "but/however" in English.
+  - Example: 바쁘지만 갈 거예요. (I'm busy, but I will go.)
+  
+- **-니까**: Also indicates reason or cause, often used for commands or suggestions.
+  - Example: 시간이 없으니까 빨리 갑시다. (Since we don't have time, let's go quickly.)
+**-는/은 데** is more versatile as it can imply background information, contrast, or an unexpected result.
+---
 ## 4. Examples in Context
-### Sentence Examples
-1. **Formal Context**: 
-   - **저는 학교에 갔는데, 친구를 만났어요.**  
-     *(I went to school, and I met a friend.)*
-2. **Informal Context**: 
-   - **지금 일하고 있는데, 나중에 전화해 줄게.**  
-     *(I’m working right now, but I will call you later.)*
-3. **Written Context**: 
-   - **이 문제는 복잡한 데, 많은 사람들이 이해하지 못하고 있습니다.**  
-     *(This problem is complicated, and many people cannot understand it.)*
-4. **Spoken Context**: 
-   - **날씨가 좋은데, 공원에 가고 싶어.**  
-     *(The weather is nice, and I want to go to the park.)*
+### Example Sentences
+1. **Providing Background Information:**
+   - 제가 지금 바쁜데 나중에 전화해도 될까요?  
+     *(I am busy now, so could you call me later?)*
+2. **Contrast:**
+   - 그는 학생인데 저는 선생님이에요.  
+     *(He is a student, but I am a teacher.)*
+3. **Unexpected Result:**
+   - 비가 오는데 그는 우산이 없어요.  
+     *(It's raining, but he doesn't have an umbrella.)*
+4. **Reason/Explanation:**
+   - 길이 막혔는데 그래서 늦었어요.  
+     *(There was traffic, so I was late.)*
+5. **Informal Spoken Context:**
+   - 뭐 하는데?  
+     *(What are you doing?)*
+6. **Formal Written Context:**
+   - 이 제품은 사용이 간편한데 가격도 저렴합니다.  
+     *(This product is easy to use, and it's also affordable.)*
+---
 ## 5. Cultural Notes
-### Cultural Relevance
-The use of **는/은 데** often indicates a context or reasoning behind actions and decisions in Korean culture, reflecting the importance of background information in conversation.
 ### Levels of Politeness and Formality
-- This structure is flexible and can be used in both formal and informal settings, depending on the verb forms preceding **는/은 데**.
+- Using **-는/은 데** is acceptable in both formal and informal contexts.
+- Adding polite endings like **-어요/아요** or honorifics adjusts the politeness level.
+  - Example: 시간이 없는**데요**. (I don't have time [polite].)
 ### Idiomatic Expressions
-- **문제가 있는 데** (There is a problem)
-- **그런 이야기인데** (In that case/story)
+- **-는데요** is often used to soften a statement or imply an expectation for a response.
+  - Example: 저는 잘 모르겠는데요.  
+    *(I don't know [implying the other person might provide more information].)*
+---
 ## 6. Common Mistakes and Tips
-### Error Analysis
-1. **Omitting the topic marker**: Students may forget to include “는” or “은” when it is necessary.
-   - Error: **그는 힘들데, 일해야 돼.** 
-   - Correction: **그는 힘든 데, 일해야 돼.**
-2. **Confusing it with other conjunctions** like "고":
-   - Verify if you are providing a situation/context or connecting ideas.
-### Learning Strategies
-- **Mnemonic Device**: Remember **는/은 데** as “Context connector” to keep in mind that it is sharing background information.
+### Common Mistakes
+1. **Incorrect Attachment to Adjectives:**
+   - Incorrect: 좋는데 → 좋은데  
+     *(When using descriptive verbs/adjectives, ensure you're using -은데/-ㄴ데)*
+2. **Confusing with **-고**:**
+   - **-고** simply lists actions, whereas **-는/은 데** provides background or contrast.
+### Tips
+- Remember that **-는데** attaches to action verbs and **-은데/-ㄴ데** attaches to descriptive verbs.
+- Think of **-는/은 데** as a way to set the stage for what comes next in your sentence.
+---
 ## 7. Summary and Review
 ### Key Takeaways
-- **는/은 데** introduces a situation or condition.
-- Used with verbs/adjectives based on final sounds (consonant/vowel).
-- Helps in creating context for the following statements.
+- **-는/은 데** is a connective ending used to link two clauses.
+- It provides background information, contrasts ideas, or indicates an unexpected result.
+- Proper attachment depends on whether the stem is an action verb, descriptive verb, or noun.
 ### Quick Recap Quiz
-1. What does **는/은 데** primarily express?
-2. How do you know whether to use **는** or **은**?
-3. Create a sentence using **는/은 데** in a formal context.
-By understanding and applying the **는/은 데** structure, learners can provide necessary context that enriches their conversations in Korean!
+1. Choose the correct form of **-는/은 데** for the verb **예쁘다** (to be pretty).
+   a) 예쁜데  
+   b) 예쁘는데  
+   c) 예뻤는데
+2. Translate the following sentence:
+   - 날씨가 추운데 나가지 맙시다.
+3. What is one common mistake learners make when using **-는/은 데**?
+
+**Answers:**
+1. a) 예쁜데
+2. "It's cold outside, so let's not go out."
+3. Attaching **-는데** to descriptive verbs instead of **-은데/-ㄴ데**.
+
+---
+© [Hanabira.org](https://hanabira.org)

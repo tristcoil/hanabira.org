@@ -31,8 +31,8 @@ const CloneButton: React.FC<CloneButtonProps> = ({collection, level, userId }) =
       case 'words':
         url += 'clone-static-collection-words';
         break;
-      case 'grammar':
-        url += 'clone-static-collection-grammar';
+      case 'grammars':
+        url += 'clone-static-collection-grammars';
         break;
       default:
         console.error('Invalid collection type');

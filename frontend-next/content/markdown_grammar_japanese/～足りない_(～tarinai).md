@@ -1,73 +1,95 @@
 Processing keyword: ～足りない (～tarinai)
 # Japanese Grammar Point: ～足りない (～tarinai)
-# Grammar Explanation: 〜足りない (〜tarinai)
+
 ## 1. Introduction
-The grammar point 〜足りない (tarinai) is used to express that something is insufficient or lacking. This can be used with various nouns, verbs, or other adjectives to convey the idea of inadequacy.
+In this lesson, we will explore the Japanese grammar point **～足りない (～tarinai)**, which expresses the idea of **"not enough"** or **"insufficient."** Understanding this grammar point is essential for conveying situations where something is lacking or inadequate in quantity or degree.
+
+---
 ## 2. Core Grammar Explanation
-### Detailed Explanation
-- **Meaning**: The suffix 足りない (tarinai) means "not enough" or "insufficient."
-- **Structure**: The basic structure is [Noun/Verb/Adjective] + 足りない.
-### Formation Diagram
+### Meaning
+**～足りない (～tarinai)** is used to indicate that something is **not sufficient**, **not enough**, or **lacking.** It is the negative form of the verb **足りる (tariru)**, which means **"to be enough"** or **"to suffice."**
+### Structure
+The grammar structure involves using **足りない (tarinai)** after a noun or quantitative expression to express insufficiency.
+**Structure Diagram:**
 ```
-[Basic Form] + 足りない
-Examples:
-- お金 + 足りない → お金足りない (not enough money)
-- 時間 + 足りない → 時間足りない (not enough time)
-- 準備する + 足りない → 準備が足りない (the preparation is insufficient)
+[Quantity/Amount/Noun] + が + 足りない
 ```
-### Visual Aids
-| Element      | Example             | Translation          |
-|--------------|---------------------|----------------------|
-| Noun         | お金足りない        | Not enough money      |
-| Verb         | 努力が足りない      | Insufficient effort    |
-| Adjective    | 知識が足りない      | Lack of knowledge     |
+- **[Quantity/Amount/Noun]**: The item or amount that is insufficient.
+- **が (ga)**: Subject marker.
+- **足りない (tarinai)**: "Not enough" or "insufficient."
+### Formation Examples
+| Component                | Example                         |
+| ------------------------ | ------------------------------- |
+| Quantity/Amount/Noun     | 時間 (jikan) – time             |
+| が                       | が (ga) – subject marker        |
+| 足りない                 | 足りない (tarinai) – not enough |
+| **Combined Sentence**    | 時間が足りない。                |
+---
 ## 3. Comparative Analysis
-### Compare with Similar Grammar Points
-- **〜不足 (busoku)**: This is a more formal way to state insufficiency, often used in written language (e.g., resources不足).
-- **〜ない (nai)**: This simply indicates a lack of something, without the nuance of insufficiency (e.g., お金ない → I have no money).
-### Differences
-- **足りない** emphasizes that the amount is not sufficient.
-- **不足** is often used in professional or academic contexts.
-- **ない** indicates absence without necessarily implying that it's insufficient.
+**～足りない (tarinai)** vs. **～ない (nai)**
+- **足りない (tarinai):** Specifically means "not enough" or "insufficient."
+- **～ない (nai):** General negative form meaning "do not" or "is not."
+**Example:**
+- 食べる　→　食べない (taberu → tabenai) – "to eat" → "do not eat."
+- お金が**足りない** (okane ga tarinai) – "There is **not enough** money."
+---
 ## 4. Examples in Context
-### Sentence Examples
-1. **Formal Context**:
-   - **日本語の勉強が足りないので、もっと練習が必要です。**  
-     (にほんごのべんきょうがたりないので、もっとれんしゅうがひつようです。)  
-     "I need more practice because my Japanese study is insufficient."
-2. **Informal Context**:
-   - **お金が足りないから、映画に行けない。**  
-     (おかねがたりないから、えいがにいけない。)  
-     "I can't go to the movies because I don't have enough money."
-3. **Spoken**:
-   - **彼は準備が足りない。**  
-     (かれはじゅんびがたりない。)  
-     "He is not prepared enough."
-4. **Written**:
-   - **このプロジェクトの資金が足りない。**  
-     (このプロジェクトのしきんがたりない。)  
-     "There is a lack of funding for this project."
+### Example Sentences
+1. **時間が足りない。**
+   *Jikan ga tarinai.*
+   - *Translation:* "There isn't enough time."
+2. **お金が足りないので、旅行に行けません。**
+   *Okane ga tarinai node, ryokō ni ikemasen.*
+   - *Translation:* "I can't go on a trip because I don't have enough money."
+3. **この料理は塩が足りないようです。**
+   *Kono ryōri wa shio ga tarinai yō desu.*
+   - *Translation:* "It seems this dish doesn't have enough salt."
+4. **彼の努力はまだ足りない。**
+   *Kare no doryoku wa mada tarinai.*
+   - *Translation:* "His effort is still not enough."
+5. **睡眠時間が足りないと、健康に悪いです。**
+   *Suimin jikan ga tarinai to, kenkō ni warui desu.*
+   - *Translation:* "If you don't get enough sleep, it's bad for your health."
+---
 ## 5. Cultural Notes
 ### Cultural Relevance
-In Japanese culture, the idea of sufficiency often ties into societal expectations. For example, being prepared or having enough knowledge is valued highly in both educational and professional settings. 
-### Levels of Politeness and Formality
-Depending on the context, the use of 〜足りない can vary in formality. While 足りない itself is fairly neutral, it can be adapted for formal contexts using alternative constructions.
-### Idiomatic Expressions
-- **"足りないものがあったら教えてください。"**  
-  "If there is anything you feel is lacking, please let me know."
+In Japanese culture, expressing insufficiency can be a subtle way of indicating a need or desire without making direct demands. It reflects the cultural emphasis on humility and indirect communication.
+### Politeness Levels
+While **足りない (tarinai)** is appropriate in casual conversation, in formal contexts, you might use the polite form **足りません (tarimasen).**
+**Example:**
+- **時間が足りません。**
+  *Jikan ga tarimasen.*
+  - *Translation:* "There isn't enough time." (Polite)
+---
 ## 6. Common Mistakes and Tips
-### Error Analysis
-- **Confusing with the usage of ない**: Learners might say "お金ない" where "お金足りない" is more appropriate if they mean 'not enough.'
-- **Overusing synonyms**: Using 足りない too much instead of a more formal term can seem casual in written contexts.
-### Learning Strategies
-- **Mnemonic Devices**: "足りない" sounds like "tarry" (to linger, which suggests slow progress). Think of 'not enough progress' to relate it to this grammar.
+### Common Mistakes
+1. **Confusing with 足る (taru):**
+   - Some learners might confuse **足りる (tariru)** with **足る (taru)**, which also means "to be sufficient" but is less commonly used in modern Japanese.
+2. **Incorrect Particle Usage:**
+   - Using **を (wo)** instead of **が (ga).**
+   - **Incorrect:** お金を足りない。
+   - **Correct:** お金が足りない。
+### Tips for Remembering
+- **Mnemonic Device:** Think of **足 (ashi)** meaning "foot," and imagine you need to "step up" to meet the required amount—if you can't, it's **足りない (not enough steps).**
+- Remember that **足りない** always involves the particle **が (ga)** to mark the subject that is insufficient.
+---
 ## 7. Summary and Review
 ### Key Takeaways
-- 〜足りない (tarinai) expresses insufficiency.
-- Used with nouns, verbs, and adjectives.
-- Related to cultural norms of preparedness and adequacy.
+- **足りない (tarinai)** means "not enough" or "insufficient."
+- Used to express a lack or insufficiency of something.
+- Formed by stating the lacking item + **が** + **足りない**.
+- Be mindful of using the correct particle **が (ga)**.
 ### Quick Recap Quiz
-1. What does 足りない mean?
-2. How does 足りない differ from ない?
-3. Give an example sentence using 足りない.
-Feel free to ask if you have any questions about this grammar point!
+1. How do you say "I don't have enough money" in Japanese?
+   - **Answer:** お金が足りない。
+2. Which particle is used with **足りない**?
+   - **Answer:** が (ga)
+3. Translate to English: 彼女の説明は足りない。
+   - **Answer:** "Her explanation is not enough."
+---
+*Feel free to revisit this lesson to reinforce your understanding of ～足りない (～tarinai). Practice by creating your own sentences expressing insufficiency!*
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

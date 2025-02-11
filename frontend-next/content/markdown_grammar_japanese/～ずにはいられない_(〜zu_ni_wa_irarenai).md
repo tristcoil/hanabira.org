@@ -1,72 +1,98 @@
 Processing keyword: ～ずにはいられない (〜zu ni wa irarenai)
 # Japanese Grammar Point: ～ずにはいられない (〜zu ni wa irarenai)
-# Grammar Point: ～ずにはいられない (〜zu ni wa irarenai)
+
 ## 1. Introduction
-The expression ～ずにはいられない (〜zu ni wa irarenai) is used to convey an inability to refrain from doing something. It expresses strong urges or compulsions, emphasizing that the speaker cannot help but perform the action stated in the verb.
+The grammar point **～ずにはいられない** expresses an irresistible urge to do something. It conveys the idea that the speaker **"can't help but..."** perform an action due to strong feelings or circumstances.
+### Meaning
+- **Cannot help but...**
+- **Cannot help doing...**
+- **Can't resist...**
+
 ---
 ## 2. Core Grammar Explanation
-### Detailed Explanation
-- **Meaning**: The phrase roughly translates to "cannot help but..." or "cannot refrain from..." in English.
-- **Structure**: 
-  - The base form of the verb is transformed into its negative form (root + ず) and then followed by the phrase にはいられない.
-  - The negative form of a verb is used to indicate that the action is not taken, and this combined form then signifies an unavoidable situation or compulsion.
+### Structure
+- **Verb (Negative Stem) + ずにはいられない**
 ### Formation Diagram
-1. Take the verb in its dictionary form (e.g., 食べる → 食べ).
-2. Convert to its negative form: 食べる → 食べず.
-3. Add the structure: 食べずにはいられない.
-**Example**:  
-Verb: 食べる (taberu — to eat)  
-Negative: 食べず (tabemazu)  
-Final Structure: 食べずにはいられない (tabenai ni wa irarenai — cannot help but eat)
+For most verbs:
+| Verb (Dictionary Form) | Negative Form (ない形) | Negative Stem (Remove ない) | Add **ずにはいられない**       | Full Form                 |
+|------------------------|-----------------------|----------------------------|------------------------------|---------------------------|
+| 食べる (たべる)         | 食べない               | 食べ                       | ずにはいられない             | 食べ**ずにはいられない**   |
+| 行く (いく)             | 行かない               | 行か                       | ずにはいられない             | 行か**ずにはいられない**   |
+| 読む (よむ)             | 読まない               | 読ま                       | ずにはいられない             | 読ま**ずにはいられない**   |
+
+For the verb **する**:
+
+| Verb (Dictionary Form) | Negative Form (ない形) | Special Negative Stem | Add **ずにはいられない**       | Full Form                 |
+|------------------------|-----------------------|-----------------------|------------------------------|---------------------------|
+| する                   | しない                 | **せ**                | ずにはいられない             | **せずにはいられない**     |
+### Detailed Explanation
+1. **Create the Negative Stem**: Convert the verb to its negative form (**ない形**) and remove the **ない**.
+2. **Add ずにはいられない**: Attach **ずにはいられない** to the negative stem.
+3. **Special Note on する**: The verb **する** becomes **せずにはいられない**.
 ---
 ## 3. Comparative Analysis
-### Comparison with Similar Grammar Points
-- **～ないではいられない (nai de wa irarenai)**: This is a similar expression, often used interchangeably with ～ずにはいられない. However, ～ないではいられない may sound slightly more formal or emphatic.
-  - Example: 彼の話を聞かないではいられない (kare no hanashi o kikanai de wa irarenai) — "I cannot help but listen to his story."
-  
-- **～たくてたまらない (taku te tamaranai)**: Although used to express a strong desire, it reflects a sense of urgency or desperate longing, while ～ずにはいられない indicates a compulsive action.
-  - Example: 旅行に行きたくてたまらない (ryokou ni ikitakute tamaranai) — "I really want to go on a trip."
+### ～ずにはいられない vs. ～ないではいられない
+Both expressions mean **"can't help but..."**, but there are subtle differences.
+|                     | ～ずにはいられない          | ～ないではいられない          |
+|---------------------|---------------------------|------------------------------|
+| **Formality**        | More formal/written       | More conversational          |
+| **Usage**            | Used in formal writing, literature | Common in spoken language   |
+| **Formation**        | Verb Negative Stem + ずにはいられない | Verb Negative Form + ではいられない |
+| **Example**          | 行か**ずにはいられない**   | 行か**ないではいられない**   |
 ---
 ## 4. Examples in Context
 ### Sentence Examples
-1. **Formal**: この映画を見ずにはいられませんでした。  
-   *(Kono eiga o mizu ni wa iraremasen deshita.)*  
-   "I could not help but watch this movie."
-2. **Informal**: 彼のことを考えずにはいられない。  
-   *(Kare no koto o kangaezu ni wa irarenai.)*  
-   "I can't help but think about him."
-3. **Written**: 彼女の手紙を読まずにはいられなかった。  
-   *(Kanojo no tegami o yomazu ni wa irarenakatta.)*  
-   "I could not help but read her letter."
-4. **Spoken**: このケーキを食べずにはいられない！  
-   *(Kono keeki o tabezu ni wa irarenai!)*  
-   "I can't help but eat this cake!"
+1. **彼のジョークを聞いて、笑わずにはいられなかった。**
+   *Kare no jōku o kiite, warawazu ni wa irarenakatta.*
+   "I couldn't help but laugh after hearing his joke."
+2. **この曲を聞くと、踊らずにはいられない。**
+   *Kono kyoku o kiku to, odorazu ni wa irarenai.*
+   "When I hear this song, I can't help but dance."
+3. **彼女の態度に、文句を言わずにはいられなかった。**
+   *Kanojo no taido ni, monku o iwazu ni wa irarenakatta.*
+   "I couldn't help but complain about her attitude."
+4. **美味しそうなケーキを見て、食べずにはいられなかった。**
+   *Oishisō na kēki o mite, tabezuni wa irarenakatta.*
+   "Seeing the delicious-looking cake, I couldn't help but eat it."
+5. **忙しいのに、彼に会いたくて電話をせずにはいられない。**
+   *Isogashii noni, kare ni aitakute denwa o sezuni wa irarenai.*
+   "Even though I'm busy, I can't help but call him because I want to see him."
 ---
 ## 5. Cultural Notes
-### Cultural Relevance
-This grammar point reflects the Japanese cultural context of expressing emotions and actions modestly. It highlights social norms concerning politeness and restraint, while acknowledging uncontrollable emotions or actions that one must undertake. 
-### Levels of Politeness
-- Using ずにはいられない can indicate a level of formality depending on the surrounding context and verb conjugation.
-- For more casual contexts, using the informal forms is common.
+### Levels of Politeness and Formality
+- **～ずにはいられない** is often used in **formal writing**, literature, and speeches.
+- In **casual conversation**, people may prefer **～ないではいられない**.
 ### Idiomatic Expressions
-Common idioms or expressions may not directly include this structure but often share the underlying theme of compulsion or unavoidable feelings, such as:
-- 笑わずにはいられない (warawazu ni wa irarenai) — "cannot help but laugh."
+- This grammar point reflects the Japanese cultural emphasis on restraint and subtle expression of emotions.
 ---
 ## 6. Common Mistakes and Tips
 ### Error Analysis
-- Learners may confuse the use of the negative form with the affirmative structure. Always ensure you are beginning with the verb’s negative form.
-- Mixing up similar structures can lead to improper usage: make sure to differentiate between verbs to avoid confusion.
+- **Incorrect Verb Form**: Using the plain negative form instead of the negative stem.
+  - **Wrong**: *行かないずにはいられない。*
+  - **Right**: *行かずにはいられない。*
+- **Forgetting the Special Form of する**:
+  - **Wrong**: *しずにはいられない。*
+  - **Right**: *せずにはいられない。*
 ### Learning Strategies
-**Mnemonic Device**: Think of "zu" (ず) as a barrier you cannot cross, indicating an action that is a must, thus "cannot help but..." Perform mental visualization of the action being unavoidable when you formulate sentences with this structure.
+- **Mnemonic**: Think of **ず** as an old negative form (like "not"), so **行かずにはいられない** literally feels like "I can't exist without not going," meaning "I can't help but go."
+- **Practice**: Create sentences using verbs you commonly use to become familiar with the pattern.
 ---
 ## 7. Summary and Review
 ### Key Takeaways
-- **Usage**: Indicates an unavoidable action or strong compulsion.
-- **Structure**: Verb negative form + ずにはいられない (cannot refrain from doing).
-- **Cultural Context**: Reflects Japanese social norms and levels of politeness, expressing emotions modestly.
+- **Meaning**: Expresses that one **cannot help but** do something.
+- **Structure**: **Verb Negative Stem + ずにはいられない**.
+- **Special Verb**: **する** becomes **せずにはいられない**.
+- **Formality**: More formal than **～ないではいられない**.
 ### Quick Recap Quiz
-1. What does ～ずにはいられない mean in English?
-2. How do you form this grammatical structure?
-3. Provide an example sentence using this grammar point in an informal context.
+1. **Form the expression with the verb 書く (かく).**
+   - **Answer**: **書かずにはいられない**
+2. **Translate to English:**
+   **彼のことを忘れずにはいられない。**
+   - **Answer**: "I can't help but think about him."
+3. **True or False**: **～ずにはいられない** is more common in casual spoken Japanese.
+   - **Answer**: **False** (It's more formal; **～ないではいられない** is more common in casual speech.)
+
+
 ---
-This concludes our detailed exploration of the grammar point ～ずにはいられない.
+
+© [Hanabira.org](https://hanabira.org)

@@ -1,69 +1,112 @@
 Processing keyword: Noun によらず (～ni yorazu)
 # Japanese Grammar Point: Noun によらず (～ni yorazu)
-# Grammar Point: Noun によらず (～ni yorazu)
+
 ## 1. Introduction
-The grammar point **よらず (yorazu)** is used to express the idea of "regardless of" or "irrespective of." It indicates that something applies universally, regardless of the condition or specific aspect mentioned.
+In this lesson, we'll explore the Japanese grammar point **Noun によらず (～によらず)**. This expression is used to convey the meaning of "regardless of" or "irrespective of" something. It's a valuable structure that allows you to indicate that an action or situation is not influenced by a particular factor.
+
+---
 ## 2. Core Grammar Explanation
+### Meaning
+**Noun によらず** means:
+- **"Regardless of [Noun]"**
+- **"Irrespective of [Noun]"**
+- **"Without depending on [Noun]"**
+It indicates that the action or state that follows is not affected by the noun mentioned.
+### Structure
+**Formation:**
+```plaintext
+Noun + によらず
+```
+| Part      | Function              |
+|-----------|-----------------------|
+| **Noun**  | Factor being disregarded |
+| **によらず** | Indicates "regardless of" |
 ### Detailed Explanation
-- **Structure:** Noun + によらず (ni yorazu)
-- **Meaning:** "regardless of" or "irrespective of"
-- It implies that the following action or state does not change based on whatever factor is mentioned before "によらず."
-### Formation Diagram
-```
-[ noun ] + によらず → "irrespective of [ noun ]"
-```
-### Visual Aids
-| Noun          | によらず                      | Meaning                        |
-|---------------|-------------------------------|--------------------------------|
-| 年齢 (nenrei) | 年齢によらず (nenrei ni yorazu)| regardless of age             |
-| 地域 (chiiki) | 地域によらず (chiiki ni yorazu)| regardless of region           |
-| 性別 (seibetsu)| 性別によらず (seibetsu ni yorazu)| regardless of gender          |
+- **によらず** is the negative form of **による** (which means "to depend on" or "due to"). By adding the negative form, it expresses the absence of dependence.
+- **Noun** can be any noun that represents the factor or condition that does not influence the outcome.
+---
 ## 3. Comparative Analysis
-- **Similar Grammar:**
-  - **Noun に関わらず (ni kakawarazu)**: This also means "regardless of," but it's more commonly used in formal contexts, whereas よらず is used broadly.
-  
-- **Differences:**
-  - **よらず** focuses on the fact that the condition does not affect the outcome.
-  - **に関わらず** tends to emphasize the relationship of the condition to the result more deeply.
+### Similar Grammar Points
+#### 1. Noun を問わず (Noun をとわず)
+- **Meaning:** "Regardless of", "Irrespective of", "No matter"
+- **Usage:** Often used interchangeably with **によらず**, but **を問わず** is more formal and commonly used in written language.
+**Example:**
+- **経験を問わず、応募できます。**
+  - *Keiken o towazu, oubo dekimasu.*
+  - "You can apply regardless of experience."
+#### 2. Noun にかかわらず (Noun にかかわらず)
+- **Meaning:** "Regardless of", "Despite"
+- **Usage:** Similar in meaning but often emphasizes that the action is unaffected by the noun.
+---
 ## 4. Examples in Context
 ### Sentence Examples
-1. **Formal Context:**
-   - 年齢によらず、すべての人が参加できます。
-   - *Nensai ni yorazu, subete no hito ga sanka dekimasu.*
-   - "Everyone can participate regardless of age."
-2. **Informal Context:**
-   - 好き嫌いによらず、何でも食べるよ！
-   - *Suki kirai ni yorazu, nandemo taberu yo!*
-   - "I’ll eat anything, regardless of whether I like it or not!"
-3. **Written Context:**
-   - この制度は国により、国民の必要によらず適用される。
-   - *Kono seido wa kuni ni yori, kokumin no hitsuyou ni yorazu tekiyou sareru.*
-   - "This system applies irrespective of the country and the needs of the citizens."
-4. **Spoken Context:**
-   - 勉強方法によらず、君の成績は良いよ。
-   - *Benkyou houhou ni yorazu, kimi no seiseki wa yoi yo.*
-   - "Regardless of the study method, your grades are good."
+1. **性別によらず、この仕事に応募できます。**
+   *Seibetsu ni yorazu, kono shigoto ni oubo dekimasu.*
+   "You can apply for this job regardless of gender."
+2. **年齢によらず、皆が楽しめるイベントです。**
+   *Nenrei ni yorazu, mina ga tanoshimeru ibento desu.*
+   "It's an event that everyone can enjoy regardless of age."
+3. **学歴によらず、能力で評価します。**
+   *Gakureki ni yorazu, nouryoku de hyouka shimasu.*
+   "We evaluate based on ability regardless of educational background."
+4. **国籍によらず、平等な権利があります。**
+   *Kokuseki ni yorazu, byoudou na kenri ga arimasu.*
+   "There are equal rights regardless of nationality."
+5. **経験によらず、新しいことに挑戦できます。**
+   *Keiken ni yorazu, atarashii koto ni chousen dekimasu.*
+   "You can challenge new things regardless of experience."
+### Formal and Informal Contexts
+- **Formal Written:**
+  **職位によらず、意見を述べてください。**
+  *Shokui ni yorazu, iken o nobete kudasai.*
+  "Please express your opinions regardless of your position."
+- **Informal Spoken:**
+  **好き嫌いによらず、これは食べてみて。**
+  *Suki kirai ni yorazu, kore wa tabete mite.*
+  "Try this out regardless of whether you like it or not."
+---
 ## 5. Cultural Notes
 ### Cultural Relevance
-This grammar point reflects Japan's social norm of valuing inclusivity. It shows that certain actions or rights are given without prejudice. 
-- **Politeness and Formality**: 使用 explains that various levels of politeness can be applied depending on the context in which you choose to use this phrase. In formal settings, you might pair it with honorific language.
+- **Equality Emphasis:** Using **によらず** often emphasizes fairness and equality, which is valued in Japanese society.
+- **Politeness Level:** This structure is neutral and appropriate in both formal and informal settings.
 ### Idiomatic Expressions
-- **気にしないでください、結果は状況によらず大事です。**
-  - *Ki ni shinaide kudasai, kekka wa joukyou ni yorazu daiji desu.*
-  - "Please don't worry; the result is important regardless of the situation."
+While **によらず** itself is not idiomatic, it's commonly used in set phrases promoting inclusivity.
+**Examples:**
+- **人種によらず**: "Regardless of race"
+- **信仰によらず**: "Regardless of belief"
+---
 ## 6. Common Mistakes and Tips
 ### Error Analysis
-- Mixing up **によらず** with **によって**. 
-  - **によって** means "depending on," while **によらず** means "regardless of."
+1. **Using the Wrong Particle**
+   - **Incorrect:** *経験**を**よらず*
+   - **Correct:** *経験**に**よらず*
+   *Tip:* Always use the particle **に** before **よらず**.
+2. **Confusing with Positive Form**
+   - **によらず** (Negative): "Regardless of"
+   - **によって** (Positive): "Depending on"
+   *Tip:* Remember that **-ず** is a negative ending, turning "depending on" into "not depending on".
 ### Learning Strategies
-- **Mnemonic Device:** Think of **よらず** as "yore" (old way). "Yore" reflects that rules were disregarded in the past, helping you remember that this means something is not influenced by factors.
+- **Association:** Link **によらず** with "not relying on" something.
+- **Practice:** Create sentences with factors commonly disregarded (age, experience, gender) to become familiar with the usage.
+---
 ## 7. Summary and Review
 ### Key Takeaways
-- **によらず** means "regardless of."
-- Structure: Noun + によらず.
-- It is used to indicate that a condition does not change the outcome or state.
+- **Noun によらず** means "regardless of [Noun]" and is used to indicate that an action is not influenced by a particular factor.
+- It's formed by attaching **によらず** directly to a noun.
+- Commonly used in both formal and informal contexts to promote ideas of equality and inclusivity.
 ### Quick Recap Quiz
-1. How do you structure a sentence using によらず?
-2. What is a similar expression to によらず, and what does it mean?
-3. Create a sentence using 年齢によらず without using the English translation.
-Feel free to use these explanations and examples to reinforce your understanding of the grammar point **によらず!**
+1. **Fill in the blank:** "____によらず、誰でも参加できます。" (Regardless of age, anyone can participate.)
+   - **Answer:** *年齢* (ねんれい)
+     **年齢によらず、誰でも参加できます。**
+2. **True or False:** "によらず" can be used to mean "depending on".
+   - **Answer:** False. "によらず" means "regardless of" (not depending on).
+3. **Choose the correct particle:** "経験____よらず、挑戦できます。"
+   - **Answer:** *に*
+     **経験によらず、挑戦できます。**
+---
+By understanding and practicing **Noun によらず**, you can express inclusivity and neutrality in your Japanese communication.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

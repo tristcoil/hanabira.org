@@ -1,74 +1,110 @@
 Processing keyword: ~이든지 ~든지 [ideunji deunji] (Whether… or)
 # Korean Grammar Point: ~이든지 ~든지 [ideunji deunji] (Whether… or)
-# Detailed Grammar Explanation: ~이든지 ~든지 (Whether... or)
+
 ## 1. Introduction
-The Korean grammar point **~이든지 ~든지** (ideunji deunji) is used to express alternatives or options, similar to the English phrase "whether... or." This structure emphasizes that no matter which option you choose, the outcome remains the same.
+In Korean, expressing choices or possibilities often involves using the grammar point **~이든지 ~든지**. This structure is equivalent to "whether... or" in English and is used to indicate that any of the given options are acceptable or that the outcome is the same regardless of the choice.
+
 ---
 ## 2. Core Grammar Explanation
-### Detailed Explanation
-**~이든지 ~든지** is a versatile grammar point used when presenting two or more options or choices. 
-### Structure
-- **Noun + 이든지/든지**
-- The first component, **이든지**, is used after a noun that ends with a consonant, whereas **든지** follows a noun that ends with a vowel. 
-**Formation Diagram:**
-```
-[Option 1] + 이든지 + [Option 2] + 든지
-```
 ### Meaning
-This grammar structure indicates that both options are equally valid or considered, allowing for flexibility in choice.
-### Examples
-- **책이든지 영화든지 골라요.**  
-  *(Choose whether it’s a book or a movie.)*
-- **사과든지 배든지 주세요.**  
-  *(Please give me either an apple or a pear.)*
+**~이든지 ~든지** is used to:
+- Express that any of the options are acceptable.
+- Indicate that the result is the same regardless of the choices.
+- Convey flexibility or indifference among options.
+### Structure
+#### For Nouns:
+| **Ending of Noun**  | **Attach**      | **Example**          |
+|---------------------|-----------------|----------------------|
+| Ends with consonant | **-이든지**     | 책 **이든지**        |
+| Ends with vowel     | **-든지**       | 영화 **든지**        |
+#### For Verbs and Adjectives:
+Attach **-든지** directly to the verb or adjective stem.
+| **Type**           | **Formation**             | **Example**                |
+|--------------------|---------------------------|----------------------------|
+| Verb/Adjective     | **Verb/Adj. Stem + 든지** | 먹 **든지**, 크 **든지**   |
+### Formation Diagram
+For Nouns:
+```
+[Noun] + (이)든지
+```
+For Verbs/Adjectives:
+```
+[Verb/Adjective Stem] + 든지
+```
 ---
 ## 3. Comparative Analysis
-**Similar structures:**
-- **~거나** (geona): This grammar point also indicates options but is generally used with verbs.  
-  - **Example:** 가거나 (to go or...)
-  
-- **~든가** (deunga): Used similarly to present choices but less common.  
-  - **Example:** 고르든가 (choose or...)
-### Differences:
-- **~이든지 ~든지** is predominantly for nouns, while **~거나** is for actions or states (verbs).
-  
+### Comparison with **거나**
+- **거나** is used to list alternatives but is only used with verbs and adjectives.
+- **~이든지 ~든지** can be used with nouns, verbs, and adjectives.
+- **~이든지 ~든지** often emphasizes that any option is acceptable.
+
+| **Grammar Point** | **Usage**                         | **Example**                             |
+|-------------------|-----------------------------------|-----------------------------------------|
+| **거나**          | Verb/Adjective alternatives       | 먹거나 마신다 (eat or drink)            |
+| **~(이)든지**     | Noun/Verb/Adjective alternatives  | 책이든지 영화든지 좋아요 (I like either books or movies) |
+
 ---
 ## 4. Examples in Context
-### Sentence Examples
-1. **공원에 가든지 집에 있든지 상관없어요.**
-   - *(I don't care whether I go to the park or stay at home.)* [Informal]
-  
-2. **학생이든지 선생님이든지 모두 참여해야 합니다.**
-   - *(Whether a student or a teacher, everyone must participate.)* [Formal]
-3. **돈이 필요하든지 시간은 있으신가요?**
-   - *(Do you need money or do you have time?)*
-  
-4. **차를 사든지 대중교통을 이용하든지 결정하세요.**
-   - *(Decide whether to buy a car or use public transportation.)*
+### Example Sentences
+1. **Formal Written**
+   - 시간이 있을 때는 **책이든지 영화든지** 봅니다.
+     - *When I have time, I read books or watch movies.*
+     
+2. **Informal Spoken**
+   - 네가 **오든지 말든지** 난 갈 거야.
+     - *Whether you come or not, I'm going.*
+     
+3. **Polite Spoken**
+   - 무엇을 **먹든지** 다 맛있을 거예요.
+     - *Whatever we eat, it will all be delicious.*
+     
+4. **Formal Spoken**
+   - 내일 **비가 오든지 안 오든지** 행사는 진행됩니다.
+     - *Whether it rains or not tomorrow, the event will proceed.*
+### Breakdown of an Example
+- **네가 가든지 말든지 상관없어.**
+  - **네가**: You (informal)
+  - **가**: Go
+  - **든지 말든지**: Whether or not
+  - **상관없어**: I don't care
+  - *I don't care whether you go or not.*
 ---
 ## 5. Cultural Notes
-### Cultural Relevance
-In Korean culture, offering choices is common, especially in polite conversations. This structure shows respect for the listener's preference.
-### Levels of Politeness
-Understanding when and how to use this structure is also tied to the level of politeness in Korean society, determining which form to use based on your relationship with the listener.
+### Politeness Levels
+- The use of **~이든지 ~든지** does not inherently convey politeness or informality.
+- Politeness is typically adjusted through sentence endings rather than the use of this grammar point.
+- However, being aware of the context and choosing appropriate vocabulary is important in Korean culture.
 ### Idiomatic Expressions
-- **물어보든지 말든지.**
-  - *(You can ask or not.)*
-  
+- **죽든지 살든지**
+  - *Whether I die or live* (An expression used to indicate doing something with full commitment)
 ---
 ## 6. Common Mistakes and Tips
-### Error Analysis
-- Mixing up **이든지** and **든지** based on the noun's final vowel/consonant.
-  - **Tip:** Remember that **이든지** follows consonants. (e.g., *책이든지*), and **든지** follows vowels. (e.g., *사과든지*).
-### Learning Strategies
-- **Mnemonic Device:** Imagine "Whether" as a bridge connecting two islands (options) to remember this is all about choices.
+### Common Mistakes
+1. **Misplacing (이)**
+   - Incorrect: 영화**이**든지 (when 영화 ends with a vowel)
+   - Correct: 영화**든지**
+2. **Confusing with ~(으)나**
+   - ~(으)나 means "but" or "although", not "whether... or".
+   - **~(이)든지** expresses options, whereas ~(으)나 expresses contrast.
+### Learning Tips
+- **Mnemonic Device**: Think of **든지** as "doesn’t matter which one".
+- **Practice**: Create sentences using nouns, verbs, and adjectives to get comfortable with the structure.
 ---
 ## 7. Summary and Review
 ### Key Takeaways
-- **~이든지 ~든지** indicates options and is used with nouns.
-- The structure is respectful, considering choices, and relevant in polite conversations.
+- **~이든지 ~든지** means "whether... or..."
+- Used with nouns, verbs, and adjectives.
+- Indicates that any of the options are acceptable or the outcome is the same.
 ### Quick Recap Quiz
-1. Write an example sentence using **~이든지 ~든지** with the noun ‘음악’ (music).
-2. What is the difference between **~이든지** and **~든지**?
-3. Why is it important to choose the correct ending based on the noun’s final sound?
-By mastering the grammar point **~이든지 ~든지**, you'll enhance your conversational skills in Korean, allowing you to express choices and alternatives effectively!
+1. How do you attach **~이든지 ~든지** to a noun ending with a consonant?
+2. Translate to Korean: "Whether it's tea or coffee, I like both."
+3. What is a common mistake when using **~이든지 ~든지**?
+#### Answers:
+1. Attach **-이든지** after nouns ending with a consonant.
+2. 차**이든지** 커피**든지** 둘 다 좋아해요.
+3. Misplacing **(이)** by not matching it with the noun ending (vowel or consonant).
+---
+Feel free to practice by making your own sentences using **~이든지 ~든지** to solidify your understanding!
+
+---
+© [Hanabira.org](https://hanabira.org)

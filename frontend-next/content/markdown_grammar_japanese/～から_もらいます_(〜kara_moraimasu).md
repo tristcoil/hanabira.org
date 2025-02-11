@@ -1,63 +1,100 @@
 Processing keyword: ～から もらいます (〜kara moraimasu)
 # Japanese Grammar Point: ～から もらいます (〜kara moraimasu)
-# Grammar Point: ～から もらいます (〜kara moraimasu)
+# ～からもらいます (〜kara moraimasu)
 ## 1. Introduction
-The phrase "～から もらいます" (〜kara moraimasu) is a useful Japanese grammar structure that expresses receiving something from someone. It is often used in both conversational and formal contexts to indicate the source of the item being received.
+In this lesson, we'll explore the Japanese grammar point **～からもらいます** (〜kara moraimasu), which is used to express receiving something **from someone**. Understanding this structure is essential for conveying interactions involving giving and receiving, a fundamental aspect of daily communication in Japanese.
+
+---
 ## 2. Core Grammar Explanation
-### Detailed Explanation
-- **Meaning**: "I receive from (someone)."
-- **Structure**: 
-  - [Person/Source] + から (kara) + もらいます (moraimasu)
-### Breakdown
-1. **から (kara)**: This particle indicates the source or origin of something, translating roughly as "from."
-2. **もらいます (moraimasu)**: This is the polite form of the verb もらう (morau), which means "to receive."
+### Meaning
+**～からもらいます** translates to "**receive from ~**" in English. It indicates that the subject receives something **from** someone or somewhere.
+### Structure
+The basic structure is:
+```
+[Recipient] は [Giver] から [Object] を もらいます。
+```
+- **[Recipient] は**: The person who receives (marked by **は**).
+- **[Giver] から**: The person who gives (followed by **から** meaning "from").
+- **[Object] を**: The item received (marked by **を**).
+- **もらいます**: "to receive".
 ### Formation Diagram
-```
-[Source / Person] から (kara) もらいます (moraimasu)
-```
+| Component        | Japanese               | Function                   |
+|------------------|------------------------|----------------------------|
+| Recipient        | [Recipient] は          | Subject (receiver)         |
+| Giver            | [Giver] **から**        | Source of the object       |
+| Object           | [Object] **を**         | The item being received    |
+| Verb             | **もらいます**          | Verb meaning "to receive"  |
+---
 ## 3. Comparative Analysis
-### Similar Grammar Points
-- **～を もらいます (〜o moraimasu)**: This structure focuses on what is being received rather than from whom.
-- **～に くれます (〜ni kuremasu)**: This indicates giving something to someone, emphasizing the giver's action rather than the receiver.
-**Differences**:
-- "から もらいます" focuses on the act of receiving from a specified source, while "に くれます" focuses on the giver's action towards someone.
+### ～にあげます versus ～からもらいます
+- **～にあげます** (**~ni agemasu**) means "to give to ~".
+- **～からもらいます** (**~kara moraimasu**) means "to receive from ~".
+
+| English                    | Japanese                     |
+|----------------------------|------------------------------|
+| I give a book to Tom.      | 私はトムに本をあげます。         |
+| I receive a book from Tom. | 私はトムから本をもらいます。|
+
+**Note:** The giver and receiver switch roles, and the particles **に** (to) and **から** (from) indicate the direction of the action.
+
+---
 ## 4. Examples in Context
-### Sentence Examples
-1. **Informal Context**:
-   - 友達から本をもらった。  
-   (Tomodachi kara hon o moratta.)  
-   "I received a book from my friend."
-   
-2. **Formal Context**:
-   - 上司からアドバイスをもらいました。  
-   (Jōshi kara adobaisu o moraimashita.)  
-   "I received advice from my boss."
-3. **Written Context**:
-   - 彼女から手紙をもらいましたが、内容は秘密です。  
-   (Kanojo kara tegami o moraimashita ga, naiyō wa himitsu desu.)  
-   "I received a letter from her, but the content is a secret."
-4. **Spoken Context**:
-   - お母さんからプレゼントをもらったよ！  
-   (Okaasan kara prezento o moratta yo!)  
-   "I received a present from my mom!"
+### Example 1: Basic Sentence
+**Japanese:** 私は友達からプレゼントをもらいました。
+**Romaji:** Watashi wa tomodachi kara purezento o moraimashita.
+**English:** I received a present from a friend.
+### Example 2: Using Formal Language
+**Japanese:** 私は社長から賞をいただきました。
+**Romaji:** Watashi wa shachō kara shō o itadakimashita.
+**English:** I received an award from the company president.
+*(**いただきました** is the humble form of **もらいました**.)*
+### Example 3: Informal Conversation
+**Japanese:** 彼女から手紙もらったよ。
+**Romaji:** Kanojo kara tegami moratta yo.
+**English:** I got a letter from her.
+### Example 4: Receiving from a Place or Organization
+**Japanese:** 市役所からお知らせをもらいました。
+**Romaji:** Shiyakusho kara oshirase o moraimashita.
+**English:** I received a notice from the city hall.
+
+---
 ## 5. Cultural Notes
-### Cultural Relevance
-- **Politeness Levels**: The structure "から もらいます" is often used in polite situations, especially when mentioning superiors or guests, reflecting the Japanese cultural emphasis on respect.
+### Levels of Politeness
+- **もらいます** is polite and commonly used in neutral situations.
+- **いただきます** is the humble form, used to show respect when receiving from someone of higher status.
 ### Idiomatic Expressions
-- **いただきます (itadakimasu)**: Although not exactly the same, this phrase is commonly said before meals to express gratitude to those who provided the food, showing appreciation.
+- **恩恵を受ける** *(onkei o ukeru)*: To receive a favor/benefit.
+---
 ## 6. Common Mistakes and Tips
 ### Error Analysis
-- **Using the Wrong Form**: Learners may mistakenly use もらう instead of もらいます in polite context.
-- **Omitting から**: Some may forget the "から" and simply use "もらいます," leading to misunderstandings about the source of the receiving.
+- **Using the wrong particle:** Mixing up **から** and **に**.
+  - **Incorrect:** 私は友達**に**プレゼントをもらいました。
+  - **Correct:** 私は友達**から**プレゼントをもらいました。
 ### Learning Strategies
-- **Mnemonic Device**: Remember “から” as “from” to clearly identify it as the source. Think "I receive from..." to keep the structure in mind.
+- **Mnemonic for Particles:**
+  - **から (kara)** sounds like "come from" → use when receiving.
+  - **に (ni)** is like "to" → use when giving.
+---
 ## 7. Summary and Review
 ### Key Takeaways
-- "から もらいます" indicates receiving something from someone.
-- It emphasizes the source of the received item, which is important in Japanese culture for expressing gratitude.
-- The structure is versatile and used in various social contexts.
+- **～からもらいます** is used to express receiving something from someone.
+- The giver is marked with **から**.
+- Be mindful of politeness levels and use **いただきます** when appropriate.
 ### Quick Recap Quiz
-1. What does "から" signify in the structure?
-2. Translate the following: "I received a gift from my teacher."
-3. Which verb form is used to make this structure polite: もらう or もらいます?
-Using these guidelines, learners can effectively understand and use "～から もらいます" in their Japanese conversations!
+1. How do you say "I received a book from my teacher" in Japanese?
+2. Which particle do you use with **もらいます** to indicate the giver?
+3. What is the humble form of **もらいます**?
+<details>
+<summary>Answer Key</summary>
+1. **私は先生から本をもらいました。**
+2. **から**
+3. **いただきます**
+</details>
+
+---
+Feel free to practice by creating your own sentences using **～からもらいます**!
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

@@ -1,61 +1,107 @@
 Processing keyword: ~하기는 하다 [hagineun hada] (Do it somehow)
 # Korean Grammar Point: ~하기는 하다 [hagineun hada] (Do it somehow)
-# 1. Introduction
-The grammar point **~하기는 하다 [hagineun hada]** is used in Korean to express that an action is indeed done, often with some nuance of reluctance, difficulty, or reservation. It translates roughly as "I do (it), but..." or "I do (it) somehow.” This expression is frequently utilized when the speaker acknowledges the action but emphasizes that it may not be done positively or easily.
-# 2. Core Grammar Explanation
-### Detailed Explanation
-- **Meaning**: The structure implies that while the action is carried out, it may come with certain sentiments, often a sense of struggle or half-heartedness.
-- **Structure**: 
-  - The form **~하기는 하다** is constructed from the verb stem + **기** (noun form) + **는** (present tense modifier) + **하다** (to do). 
+
+## 1. Introduction
+In Korean, expressing nuances and subtle meanings often involves specific grammatical constructions. One such construction is **~하기는 하다** (*hagineun hada*), which is used to acknowledge an action or state, sometimes implying a contrast or reservation. This lesson will delve into the usage of **~하기는 하다**, exploring its meaning, formation, and practical applications.
+
+---
+## 2. Core Grammar Explanation
+## Meaning
+The grammar point **~하기는 하다** is used to admit or acknowledge that an action occurs or a state exists, often with a hint of concession or reservation. It can be translated as "do indeed," "do (something), but...," or "I admit that..., however..."
+## Structure
+### Formation
+To form **~하기는 하다**, follow these steps:
+1. **Verb Stem**: Start with the verb stem.
+2. **Nominalization**: Add **-기** to nominalize the verb.
+3. **Topic Marker**: Add **는** after **-기** to introduce the topic.
+4. **하다**: Conclude with **하다** (to do).
 ### Formation Diagram
 ```
-[Verb Stem] + 기 + 는 + 하다
+A[Verb Stem] --> B[-기]
+B --> C[-기는]
+C --> D[하다]
 ```
-### Visual Aids
-| Component    | Description                         |
-|--------------|-------------------------------------|
-| **Verb Stem**| The root form of the verb to be used. |
-| **기**      | Turns the verb into a noun.       |
-| **는**      | Indicates present tense for habitual actions. |
-| **하다**    | Means "to do" and completes the phrase. |
-# 3. Comparative Analysis
-- Compared to **~하기도 하다 [hagido hada]**, which means "I sometimes do (it) too" (with emphasis on occasional action), **~하기는 하다** emphasizes that while the action happens, there is a specific sentiment associated with it, often suggesting it’s not being done with joy.
-# 4. Examples in Context
-### Sentence Examples
-1. **Formal**: 
-   - **공부하기는 합니다.**  
-   (I do study, but...)
-   
-2. **Informal**: 
-   - **가기는 가는데 재미없어.**  
-   (I do go, but it's not fun.)
-   
-3. **Written**: 
-   - **이 문제를 해결하기는 합니다, 어렵긴 하지만.**  
-   (I do find a solution to this problem, though it's hard.)
-4. **Spoken**: 
-   - **청소하기는 해. 귀찮은데.**  
-   (I do clean, but it’s annoying.)
-# 5. Cultural Notes
-### Cultural Relevance
-Korean society values humility and modesty. Therefore, expressions like **~하기는 하다** can reflect a level of self-awareness and modesty, as the speaker downplays their effort or achievement. 
-- **Levels of Politeness**: It's important to adjust the verb ending depending on the formality of the conversation. Use formal endings in respectful contexts.
-### Idiomatic Expressions
-- **할 만큼 했다 [hal mankeum haetda]**: This expression means “I did it as much as I could,” which carries a similar sentiment of doing something with limits.
-# 6. Common Mistakes and Tips
-### Error Analysis
-- **Overusing the structure**: Beginners might use this expression in every context, whereas it is best reserved for situations where there is an emotional complexity to the action.
-- **Confusing with similar structures**: Mixing up **~하기는 하다** with **~하기도 하다** is common, but they serve different purposes.
-### Learning Strategies
-- **Mnemonic Devices**: Remember the phrase "I do it, but..." to recall the nuance of reluctance or reservation in the expression.
-  
-# 7. Summary and Review
-### Key Takeaways
-- **~하기는 하다** emphasizes the action is done, often with a sentiment of reluctance or difficulty.
-- Structure includes the verb stem followed by 기, 는, and 하다.
-- Adjust formality based on context to show respect.
-### Quick Recap Quiz
-1. What does **~하기는 하다** imply about the action?
-2. How would you use **~하기는 하다** in a sentence about attending a meeting?
-3. What is the difference between **~하기는 하다** and **~하기도 하다**? 
-Feel free to ask more questions if you need further clarification!
+### Formula
+```
+Verb Stem + -기 + 는 + 하다
+```
+## Usage
+- **Acknowledgment with Reservation**: Indicates that while the action is done, there may be some limitations or contrasting circumstances.
+- **Emphasis**: Highlights that the action does occur, possibly contrary to expectations.
+---
+## 3. Comparative Analysis
+### ~기는 하다 vs. ~기는 하지만
+- **~기는 하다**: Simply acknowledges the action with a possible implied contrast.
+- **~기는 하지만**: Explicitly states a contrast using **하지만** (but/however).
+**Example**:
+- **먹기는 먹었다.**  
+  "I did eat (but...)." (Implied reservation)
+- **먹기는 했지만 배가 고프다.**  
+  "I did eat, but I'm still hungry." (Explicit contrast)
+---
+## 4. Examples in Context
+## Formal Context
+1. **그 영화가 재미있기는 합니다.**  
+   *Geu yeonghwaga jaemiitgineun hamnida.*  
+   "The movie is interesting, indeed."
+2. **회의에 참석하기는 했습니다.**  
+   *Hoeie chamseokhagineun haetseumnida.*  
+   "I did attend the meeting."
+## Informal Context
+1. **알기는 알아.**  
+   *Algineun ara.*  
+   "I do know."
+2. **하기는 하는데 별로 즐겁지 않아.**  
+   *Hagineun haneunde byeollo jeulgeopji ana.*  
+   "I do it, but it's not really enjoyable."
+## Spoken Language
+1. **먹기는 먹었어.**  
+   *Meokgineun meogeosseo.*  
+   "I did eat."
+2. **가기는 갈 거야.**  
+   *Gagineun gal geoya.*  
+   "I will go."
+## Written Language
+1. **그 책을 읽기는 했지만 이해하지 못했다.**  
+   *Geu chaegeul ilkgineun haetjiman ihaehaji mothaetda.*  
+   "I did read the book, but I couldn't understand it."
+---
+## 5. Cultural Notes
+## Cultural Relevance
+In Korean communication, modesty and indirectness are valued. Using **~하기는 하다** allows speakers to acknowledge something while maintaining humility or expressing subtle reservations, aligning with cultural norms of modesty.
+## Levels of Politeness
+The construction can be adjusted for formality:
+- **Formal Polite**: **~하기는 합니다**
+- **Informal Polite**: **~하기는 해요**
+- **Casual**: **~하기는 해**
+---
+## 6. Common Mistakes and Tips
+## Error Analysis
+- **Omitting the Nominalizer**: Forgetting **-기** results in grammatical errors.
+  - Incorrect: **먹는 하다**
+  - Correct: **먹기는 하다**
+- **Misplacing the Topic Marker**: Placing **는** incorrectly can confuse the meaning.
+  - Incorrect: **먹기는는 하다**
+  - Correct: **먹기는 하다**
+## Learning Strategies
+- **Mnemonic Device**: Remember "Verb + **-기** (to make it a noun) + **는 하다** (do indeed)."
+- **Practice with Common Verbs**: Apply the structure to frequently used verbs to internalize the pattern.
+---
+## 7. Summary and Review
+## Key Takeaways
+- **~하기는 하다** is used to acknowledge an action with possible reservations.
+- Formed by **Verb Stem + -기 + 는 하다**.
+- It conveys nuances similar to "I do..., but..." in English.
+- Adjust formality based on context.
+## Quick Recap Quiz
+1. How do you form **~하기는 하다** with the verb **보다** (to see)?
+   **Answer**: **보** + **-기** + **는 하다** = **보기는 하다**
+2. Translate to English: **운동을 하기는 하는데 시간이 없어요.**
+   **Answer**: "I do exercise, but I don't have time."
+3. True or False: **~하기는 하다** can express acknowledgment with implied contrast.
+   **Answer**: True
+---
+By understanding and practicing **~하기는 하다**, you can express subtle nuances in Korean, acknowledging actions while conveying reservations or contrasts, enriching your communication skills in the language.
+
+---
+© [Hanabira.org](https://hanabira.org)

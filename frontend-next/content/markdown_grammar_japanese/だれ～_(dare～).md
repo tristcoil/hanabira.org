@@ -1,64 +1,108 @@
 Processing keyword: だれ～ (dare～)
 # Japanese Grammar Point: だれ～ (dare～)
-# Japanese Grammar: だれ～ (dare～)
+
 ## 1. Introduction
-The だれ (dare) is a pivotal interrogative pronoun in Japanese that translates to "who" in English. It is used to inquire about the identity of a person or people.
----
+**Grammar Point:** だれ～ (dare～)
+**Meaning:** The interrogative pronoun **"だれ"** means **"who"** in English. It is used to ask about a person or people in a sentence.
 ## 2. Core Grammar Explanation
-### Detailed Explanation
-- **Meaning**: The word だれ means "who" and is used to ask questions about a person's identity.
-- **Structure**: 
-  - **Questioning Format**: だれ + Verb + ですか (or other verb forms)
-  - Example: **だれが来ますか？** (Dare ga kimasu ka?) - "Who is coming?"
-### Formation Diagram
+## Detailed Explanation
+### Usage of だれ
+- **Asking about a person:** Use *だれ* to inquire about the identity of someone.
+- **Position in a sentence:** It typically appears where the noun it replaces would be.
+### Structure
+The basic sentence structure using *だれ* is:
 ```
-[だれ] + [verb] + [ですか] (Question)
+だれ ＋ が/の/に/を ＋ Verb/Adjective/ですか？
 ```
----
+### Particle Usage with だれ
+
+| Particle | Function                | Example                                  | Translation                      |
+|----------|-------------------------|------------------------------------------|----------------------------------|
+| が       | Subject marker          | だれが来ますか？                         | Who is coming?                   |
+| の       | Possessive marker       | これはだれの本ですか？                   | Whose book is this?              |
+| に       | Indirect object marker  | あなたはだれに会いましたか？             | Who did you meet?                |
+| を       | Direct object marker    | だれを知っていますか？                   | Who do you know?                 |
+
+## Formation Diagram
+```plaintext
+[Question Word (だれ)] ＋ [Particle] ＋ [Verb Phrase] ＋ か？
+```
 ## 3. Comparative Analysis
-In Japanese, other interrogative words are used in similar contexts:
-- 何 (なに, nani) - "what"
-- どこ (doko) - "where"
-- いつ (itsu) - "when"
-**Example Comparison**:
-- だれが来ますか？ (Who is coming?)
-- 何が起こりますか？ (What will happen?)
-  
-While だれ is specifically for persons, the other words ask about things, places, or times.
----
+### だれ vs. どなた
+- **だれ** is informal or neutral.
+- **どなた** is the polite form of "who".
+**Example:**
+- だれが先生ですか？ (Who is the teacher?) - Neutral
+- どなたが先生ですか？ (Who is the teacher?) - Polite
 ## 4. Examples in Context
-### Sentence Examples
-1. **Informal Context**:
-   - だれが来るの？ (Dare ga kuru no?) - "Who is coming?"
-   
-2. **Formal Context**:
-   - だれがこちらにいますか。 (Dare ga kochira ni imasu ka?) - "Who is here?"
-   
-3. **In Writing**:
-   - だれがその問題を解決しましたか。 (Dare ga sono mondai o kaiketsu shimashita ka?) - "Who solved that problem?"
-   
-4. **In Speech**:
-   - だれか手伝ってくれませんか？ (Dareka tetsudatte kuremasen ka?) - "Can someone help me?"
----
+### Formal Situations
+1. **だれが部長ですか？**
+   - **Romaji:** Dare ga buchō desu ka?
+   - **Translation:** Who is the department manager?
+2. **これはだれの傘ですか？**
+   - **Romaji:** Kore wa dare no kasa desu ka?
+   - **Translation:** Whose umbrella is this?
+### Informal Situations
+1. **昨日、だれに会ったの？**
+   - **Romaji:** Kinō, dare ni atta no?
+   - **Translation:** Who did you meet yesterday?
+2. **だれを呼んだの？**
+   - **Romaji:** Dare wo yonda no?
+   - **Translation:** Who did you call?
+### Written Context
+1. **だれがこの詩を書いたのか分かりますか？**
+   - **Romaji:** Dare ga kono shi wo kaita no ka wakarimasu ka?
+   - **Translation:** Do you know who wrote this poem?
+### Spoken Context
+1. **パーティーにはだれが来るの？**
+   - **Romaji:** Pātī ni wa dare ga kuru no?
+   - **Translation:** Who is coming to the party?
 ## 5. Cultural Notes
-### Cultural Relevance
-- Inquiry into someone's identity is treated with varying levels of politeness in Japan. It's essential to use ですか for formal situations and appropriate language in the context of the relationship.
-### Idiomatic Expressions
-- だれのこと？ (Dare no koto?) - "About whom?" or "Who are you talking about?"
----
+## Cultural Relevance
+- Using **どなた** instead of **だれ** shows respect and politeness, especially when speaking to or about someone of higher status.
+- In formal business settings, it's appropriate to use **どなた** to maintain politeness.
+## Idiomatic Expressions
+- **だれかれなしに**
+  - **Meaning:** Without distinction; to anyone and everyone.
+  - **Example:** 彼はだれかれなしに話しかける。
+    - **Translation:** He talks to anyone and everyone.
 ## 6. Common Mistakes and Tips
-### Error Analysis
-- A common mistake is confusing だれ with their informal counterpart だれか (dareka), which means "someone." Be cautious when indicating whether you are asking about one specific person or any person.
-### Learning Strategies
-- **Mnemonic Device**: Associate だれ (dare) with the English word "dare," which suggests bravery to ask "who" in either language.
----
+## Error Analysis
+- **Using だれ without appropriate particles:**
+  - Incorrect: **だれ行きますか？**
+  - Correct: **だれが行きますか？** (Who will go?)
+- **Mixing up polite and casual forms:**
+  - Using **だれ** in very formal settings instead of **どなた**.
+## Learning Strategies
+- **Mnemonic for particles:**
+  - **が** for subjects: Think "Ga" for "Gonna do something" (subject doing the action).
+  - **の** for possession: Think of "No" as " 's " in English (possessive).
+  - **に** for indirect objects/directions: "Ni" sounds like "knee" – someone is bending towards something.
+  - **を** for direct objects: "Wo(o)" sounds like "Oh" – direct and straightforward.
 ## 7. Summary and Review
-### Key Takeaways
-- だれ is used to ask about a person.
-- It can be used in various contexts but maintains a core meaning of identifying someone.
-### Quick Recap Quiz
-1. What does だれ mean in English?
-2. How would you ask "Who is that?" in Japanese using だれ?
-3. What is the difference between だれ and だれか?
+## Key Takeaways
+- **だれ** means "who" and is used to ask about people.
+- Use appropriate particles with **だれ** to indicate grammatical relationships.
+- **どなた** is the polite form of **だれ**.
+- Remember to match the level of politeness to the context.
+## Quick Recap Quiz
+1. **Fill in the blank with the correct particle:**
+   **あなたは___と話しましたか？ (Who did you talk with?)**
+2. **Translate to Japanese using だれ:**
+   **Whose bag is that?**
+3. **Choose the more polite option:**
+   - a) だれが来ましたか？
+   - b) どなたが来ましたか？
+
+### Answers:
+1. **だれと**話しましたか？
+2. **あれはだれの鞄ですか？**
+3. b) **どなたが来ましたか？**
+
 ---
-Feel free to reflect on these concepts and practice forming your own sentences using the grammar point だれ!
+**Congratulations!** You've learned how to use **だれ** to ask questions about people in Japanese.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

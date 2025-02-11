@@ -1,96 +1,121 @@
 Processing keyword: Noun に する (Noun ni suru)
 # Japanese Grammar Point: Noun に する (Noun ni suru)
-# Noun に する (Noun ni suru) - Detailed Grammar Explanation
+
 ## 1. Introduction
-The Japanese grammar point "Nounにする" (Noun ni suru) translates to "to decide on" or "to make (something) into" in English. It is often used to express a choice or decision regarding a noun, indicating a change or selection.
+In this lesson, we'll explore the Japanese grammar point **「Noun にする」 (Noun ni suru)**. This expression is commonly used to indicate making a choice or decision about something. Understanding this pattern will enhance your ability to express decisions and preferences in everyday conversations.
+
 ---
 ## 2. Core Grammar Explanation
 ### Detailed Explanation
-"Noun にする" is composed of:
-- **Noun**: This can be any noun that represents an object, decision, or state.
-- **に**: A particle that indicates direction or focus towards which action is directed.
-- **する**: The verb meaning "to do" or "to make."
-In combination, "Noun にする" expresses the idea of turning something into a specific state or making a choice regarding something.
-### Structure and Formation
-The general structure is:
-```
+**「Noun にする」** is a phrase used to express that someone has decided on or chosen a particular noun. It's equivalent to saying "I'll have ~," "I choose ~," or "I've decided on ~" in English.
+- **Meaning**: To decide on [noun]; to choose [noun]; to make something [noun].
+### Structure
+```plaintext
 Noun + にする
 ```
-### Meaning
-- **To decide on [something]**
-- **To make it [something]**
-### Formation Diagram
-```
- +---------------+
- |    Noun      |
- +---------------+
-          |
-          v
-    +------------+
-    |     に     |  (particle indicating direction)
-    +------------+
-          |
-          v
-    +------------+
-    |    する    |  (to do/make)
-    +------------+
-```
+- **Noun**: The item or option being chosen.
+- **に**: A particle indicating direction or target of the decision.
+- **する**: The verb "to do," indicating action.
+#### Formation Diagram
+| Component | Description                     |
+|-----------|---------------------------------|
+| Noun      | The choice or decision made     |
+| に         | Particle indicating “to” or “on” |
+| する       | Verb meaning “to do/decide”     |
 ---
 ## 3. Comparative Analysis
-"Noun にする" is often compared with similar structures such as:
-- **Nounにする** vs **Nounになる**: 
-  - **にする** denotes an active choice or intention, while **になる** (Noun ni naru) implies a passive change happening to the subject (to become).
-  - Example: 
-    - 〔ビジネスにする (bijinesu ni suru)〕: "to decide on a business"
-    - 〔ビジネスになる (bijinesu ni naru)〕: "to become a business"
+### Comparing with Similar Grammar Points
+#### 1. 「Noun にする」 vs. 「Noun に決める」 (Noun ni kimeru)
+- **Similarity**: Both express making a decision.
+- **Difference**:
+  - **にする**: More casual, often used in everyday decisions like ordering food.
+  - **に決める**: Emphasizes the act of deciding, often for significant decisions.
+
+| Grammar Point       | Usage                              | Example                                      |
+|---------------------|------------------------------------|----------------------------------------------|
+| **Noun にする**     | Casual choice or decision          | コーヒーにします。<br>(I'll have coffee.)       |
+| **Noun に決める**   | Firm decision, often significant   | 日本に留学することに決めました。<br>(I decided to study abroad in Japan.) |
+
+#### 2. 「Noun になる」 (Noun ni naru)
+- **Usage**: Indicates a change into something; "to become [noun]."
+- **Difference**: **にする** is an active decision by the subject, whereas **になる** often indicates a passive change or result.
+
+| Grammar Point     | Usage                        | Example                                    |
+|-------------------|------------------------------|--------------------------------------------|
+| **Noun にする**   | Subject decides on something | 部屋をきれいにする。<br>(I'll make the room clean.) |
+| **Noun になる**   | Something becomes something  | 部屋がきれいになる。<br>(The room becomes clean.)   |
+
 ---
 ## 4. Examples in Context
 ### Sentence Examples
-1. **Formal Context**
-   - **日本にすることに決めました。**
-     - (Nihon ni suru koto ni kimemashita.)
-     - "I have decided on Japan."
-   
-2. **Informal Context**
-   - **バスにするよ。**
-     - (Basu ni suru yo.)
-     - "I’ll take the bus."
-3. **Written Context**
-   - **彼の名前は「山田」にすることにしました。**
-     - (Kare no namae wa "Yamada" ni suru koto ni shimashita.)
-     - "I have decided to make his name 'Yamada.'"
-4. **Spoken Context**
-   - **晩ごはんは寿司にしよう！**
-     - (Ban gohan wa sushi ni shiyou!)
-     - "Let’s make dinner sushi!"
+#### Example 1: Ordering at a Restaurant (Casual)
+- **Japanese**: 私はカレーにする。
+- **Romaji**: Watashi wa karee ni suru.
+- **English**: I'll have curry.
+#### Example 2: Making a Decision (Polite)
+- **Japanese**: 私は魚にします。
+- **Romaji**: Watashi wa sakana ni shimasu.
+- **English**: I'll go with the fish.
+#### Example 3: Choosing a Meeting Time (Formal)
+- **Japanese**: 会議は午後2時にします。
+- **Romaji**: Kaigi wa gogo ni-ji ni shimasu.
+- **English**: We'll set the meeting for 2 PM.
+#### Example 4: Selecting an Outfit
+- **Japanese**: このドレスにするわ。
+- **Romaji**: Kono doresu ni suru wa.
+- **English**: I'll choose this dress.
+#### Example 5: Deciding on a Gift
+- **Japanese**: プレゼントは本にします。
+- **Romaji**: Purezento wa hon ni shimasu.
+- **English**: I'll make the gift a book.
 ---
 ## 5. Cultural Notes
 ### Cultural Relevance
-This grammar point is useful in Japan's consensus-based decision-making culture. When someone uses "Nounにする," it often indicates consideration of group consensus, making it significant in social contexts.
-### Levels of Politeness
-Using "Nounにする" can reflect different levels of politeness depending on the verb form:
-- **する** (more casual)
-- **します** (more formal)
+When making decisions in Japanese culture, especially in group settings, it's common to be considerate of others' opinions. Using **「にする」** can soften the assertion of one's choice, aligning with cultural values of harmony and politeness.
 ### Idiomatic Expressions
-Common idioms include:
-- **選んで決めるがいい** (Erande kimeru ga ii): "Choose and decide."
+- **気にする (Ki ni suru)**: To worry about; to care about.
+  - **Example**: そんなこと気にしないで。
+    - *Don't worry about such things.*
+- **目にする (Me ni suru)**: To witness; to catch sight of.
+  - **Example**: 有名人を目にした。
+    - *I caught sight of a celebrity.*
 ---
 ## 6. Common Mistakes and Tips
 ### Error Analysis
-- **Using "に" incorrectly**: Confusing it with "で" or "へ."
-- **Overusing "にする" in passive contexts**: Remember it is about a decision made.
+1. **Using the Wrong Particle**
+   - **Incorrect**: お茶をする。
+     - *This means "to have tea" in the sense of "do tea," which can sound odd.*
+   - **Correct**: お茶にする。
+     - *"I'll have tea."*
+2. **Confusing with 「Verb (Dictionary Form) + ことにする」**
+   - **Mistake**: Using **「にする」** directly with verbs.
+   - **Correction**: Use the dictionary form of the verb plus **ことにする** to express deciding to do an action.
+     - **Example**: 旅行に行くことにします。
+       - *I've decided to go on a trip.*
 ### Learning Strategies
-- **Mnemonic Device**: Recall "にする" as "decide on" to remember its decision-making aspect.
-  
+- **Practice with Real-life Scenarios**: Pretend you're in situations like ordering food, shopping, or planning events, and use **「Noun にする」** to express your choices.
+- **Visual Associations**: Picture directing your decision toward an item; the particle **「に」** can be remembered as the arrow pointing to your choice.
 ---
 ## 7. Summary and Review
 ### Key Takeaways
-- **Noun にする** expresses the act of deciding on or making something into a specific state.
-- Understand its difference from "Noun になる" for better usage.
-- Context influences its formality and politeness.
+- **「Noun にする」** is used to express choosing or deciding on something.
+- The structure is straightforward: **Noun + にする**.
+- It's commonly used in everyday situations, such as ordering food or making selections.
+- Be mindful of the particle **「に」**; it indicates the target of your decision.
 ### Quick Recap Quiz
-1. What does "Noun にする" mean?
-2. How would you say "I decided on coffee" in Japanese?
-3. What is the main difference between "にする" and "になる"?
+1. **Translate to Japanese**: "I'll have the salad."
+   **Answer**: サラダにします。
+2. **Fill in the blank with the correct particle**: 彼は新しい電話___した。
+   **Answer**: に
+   **Complete Sentence**: 彼は新しい電話にした。
+3. **Explain the difference** between **「Noun にする」** and **「Noun になる」**.
+   **Answer**:
+   - **「Noun にする」**: The subject actively decides on or makes something.
+   - **「Noun になる」**: Something becomes or changes into something else, often passively.
 ---
-By mastering "Nounにする," you can clearly express decisions and choices in Japanese, enhancing both your vocabulary and your understanding of important cultural norms!
+By mastering **「Noun にする」**, you'll be able to communicate your decisions and preferences effectively in Japanese. Keep practicing, and soon it'll become a natural part of your speech!
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

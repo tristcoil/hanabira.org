@@ -1,73 +1,155 @@
 Processing keyword: ～ずにすんだ (〜zuni sunda)
 # Japanese Grammar Point: ～ずにすんだ (〜zuni sunda)
-# JLPT Grammar Point: ～ずにすんだ (〜zuni sunda)
-## 1. Introduction
-The grammar point "～ずにすんだ" is used to express a situation where a negative action or a negative verb form is avoided, leading to a resolution of a potential problem. It conveys a sense of relief that something did not have to happen.
----
-## 2. Core Grammar Explanation
-### Meaning
-- "～ずにすんだ" implies that a situation was resolved or avoided without having to do something negative. 
-- It can be translated to "managed to avoid (doing something)" or "didn't have to (do something)" in English.
-### Structure
-- The basic structure is as follows:
-  - Verb (in ない form) + ず + に + すんだ
+
+# 1. Introduction
+In this lesson, we'll explore the Japanese grammar point **～ずにすんだ (〜zuni sunda)**. This expression is used to convey relief that an action you anticipated or feared didn't happen, or that you managed to avoid doing something undesirable.
+# 2. Core Grammar Explanation
+## Meaning
+**～ずにすんだ** means:
+- "Managed to get by without doing..."
+- "Ended up not having to..."
+- "Was able to avoid..."
+It expresses relief that something unpleasant or unnecessary was avoided.
+## Structure
+The structure for forming **～ずにすんだ** is:
+1. **Verb Negative Stem** + **ずにすんだ**
+### Formation Steps
+1. **Take the dictionary form of the verb.**
+   Example: 食べる (taberu)
+2. **Convert it to the negative stem by replacing the negative ending "ない" with "ず".**
+   - **食べる** → Negative form: 食べ**ない**
+   - Remove **ない**, add **ず**: 食べ**ず**
+   **Note:** For verbs ending with **-う**, the negative stem ends with an **-あ** sound plus **ず**.
+   - 行く (iku) → Negative stem: 行かず (ikazu)
+3. **Add "にすんだ" to the negative stem.**
+   - 食べず + にすんだ = **食べずにすんだ**
+### Irregular Verb: する
+- **する** becomes **せずにすんだ**
 ### Formation Diagram
-```
-Verb (ない form) + ず + に + すんだ
-                      ↓
-             (Means: Avoidance of action)
-```
-### Breakdown
-1. **Verb (ない form)**: This is the negative form of the verb.
-2. **ず**: This is a classical negative marker that is used instead of ない.
-3. **に**: This particle here indicates the purpose or the result.
-4. **すんだ**: The past form of "する" (to do), indicating that the action has been completed in the past.
+| Verb     | Negative Form | Negative Stem | ～ずにすんだ Form |
+|----------|----------------|---------------|-----------------|
+| 食べる    | 食べない         | 食べず          | 食べずにすんだ   |
+| 行く      | 行かない         | 行かず          | 行かずにすんだ   |
+| 飲む      | 飲まない         | 飲まず          | 飲まずにすんだ   |
+| 来る      | 来ない           | 来ず            | 来ずにすんだ     |
+| する      | しない           | せず            | せずにすんだ     |
+# 3. Comparative Analysis
+## ～ないで済む (～naide sumu)
+A similar expression is **～ないで済む**, which also means "to get by without doing something."
+### Differences
+- **～ずにすんだ** is more formal and often used in written language.
+- **～ないで済む** is more colloquial and common in spoken language.
+### Example Comparison
+- **Formal (Written):**
+  - パスポートを取りに行かずにすんだ。
+  - *I managed to avoid going to get the passport.*
+- **Casual (Spoken):**
+  - パスポートを取りに行かないで済んだ。
+  - *I didn't have to go to get the passport.*
+# 4. Examples in Context
+### Example 1: Formal Written Context
+**Japanese:**
+問題が早く解決して、時間を無駄にせずにすんだ。
+**Romaji:**
+Mondai ga hayaku kaiketsu shite, jikan o muda ni sezu ni sunda.
+**English Translation:**
+The problem was resolved quickly, so I avoided wasting time.
+
 ---
-## 3. Comparative Analysis
-- **Similar Grammar Points**
-  - **～ないで (〜naide)**: This indicates doing something without taking a certain action but does not convey the sense of relief. 
-    - Example: 食べないで行った (Tabenai de itta) - "I went without eating."
-  - **～ずに (〜zuni)**: This can also denote avoidance, but it doesn't include the sense of completion or relief that "すんだ" provides.
+### Example 2: Business Setting
+**Japanese:**
+顧客からのクレームを受けずにすんで安心しました。
+**Romaji:**
+Kokyaku kara no kureemu o ukezuni sunde anshin shimashita.
+**English Translation:**
+I'm relieved that we avoided receiving a complaint from the customer.
+
 ---
-## 4. Examples in Context
-### Sentence Examples
-1. **Formal:**
-   - 彼は怒らずにすんだ。  
-     *Kare wa okorazu ni sunda.*  
-     "He managed to avoid getting angry."
-2. **Informal:**
-   - そんなこと言わずにすんだよ。  
-     *Sonna koto iwazu ni sunda yo.*  
-     "You didn't have to say something like that."
-3. **Written:**
-   - もし遅れずにすんだら、みんなに会える。  
-     *Moshi okurezu ni sundara, minna ni aeru.*  
-     "If I can avoid being late, I can meet everyone."
-4. **Spoken:**
-   - 彼女と喧嘩せずにすんでよかった。  
-     *Kanojo to kenka sezu ni sunde yokatta.*  
-     "I'm glad we managed to avoid fighting."
+### Example 3: Casual Spoken Context
+**Japanese:**
+渋滞がなかったから、遅刻せずにすんだよ。
+**Romaji:**
+Jūtai ga nakatta kara, chikoku sezu ni sunda yo.
+**English Translation:**
+Since there was no traffic jam, I managed not to be late.
+
 ---
-## 5. Cultural Notes
-### Cultural Relevance
-- The use of "～ずにすんだ" reflects a cultural value in Japan where avoiding confrontation and maintaining harmony is highly regarded. 
-- This grammar point often implies politeness and consideration for others' feelings, showing a reluctance to cause trouble.
-### Idiomatic Expressions
-- "大事に至らずにすんだ" (Daiji ni itarazu ni sunda) - "It didn’t come to a big deal."
+### Example 4: Personal Experience
+**Japanese:**
+友達が車で送ってくれたので、歩かずにすんだ。
+**Romaji:**
+Tomodachi ga kuruma de okutte kureta node, arukazu ni sunda.
+**English Translation:**
+My friend gave me a ride, so I didn't have to walk.
+
 ---
-## 6. Common Mistakes and Tips
-### Error Analysis
-1. **Mixing up with ないで**: Learners often confuse "ずに" with "ないで," leading to incorrect usage in contexts where relief is being emphasized.
-2. **Incorrect Verb Form**: Remember to use the negative form of the verb correctly when forming "ずにすんだ."
-### Learning Strategies
-- **Mnemonic Device**: Think of "ずにすんだ" as a "successful avoidance." This connects the negative action with the successful result of not having to do it.
+### Example 5: Avoiding Unpleasant Task
+**Japanese:**
+幸運にも試験を受けずにすんだ。
+**Romaji:**
+Kōun ni mo shiken o ukezuni sunda.
+**English Translation:**
+Fortunately, I was able to avoid taking the exam.
+
 ---
-## 7. Summary and Review
-### Key Takeaways
-- **Usage**: "～ずにすんだ" expresses avoidance of an action, providing a sense of relief.
-- **Structure**: Verb (ない form) + ず + に + すんだ.
-- **Cultural Aspect**: Reflects the importance of harmony and avoiding conflict in Japanese society.
-### Quick Recap Quiz
-1. How is "～ずにすんだ" formed grammatically?
-2. What does it mean to say "お金を使わずにすんだ"?
-3. Give an example of a situation where you would use "～ずにすんだ."
+# 5. Cultural Notes
+## Cultural Relevance
+- **Expressing Modesty:** In Japanese culture, there's value placed on humility and not boasting. Using **～ずにすんだ** allows speakers to express relief without overt pride.
+- **Formal vs. Casual Speech:** Choosing between **～ずにすんだ** and **～ないで済む** can reflect the social context and the level of formality appropriate for the situation.
+## Levels of Politeness
+- **～ずにすんだ** is suitable for formal writing, such as reports, essays, and formal conversations.
+- Using polite forms and formal expressions is important in business settings and when speaking to superiors.
+## Idiomatic Expressions
+- **済んだこと (sunda koto):** "Something that is over/past." Often used to suggest moving on from an issue.
+  - **Example:** 済んだことは仕方ない。
+  - *What's done is done.*
+# 6. Common Mistakes and Tips
+## Common Mistakes
+1. **Incorrect Negative Stem Formation**
+   - **Mistake:** 食べないずにすんだ。
+   - **Correction:** 食べずにすんだ。
+   *Explanation:* Do not include "ない" when forming the negative stem; replace "ない" with "ず".
+2. **Using the Wrong Negative Form for する**
+   - **Mistake:** しずにすんだ。
+   - **Correction:** せずにすんだ。
+   *Explanation:* The verb **する** is irregular and its negative stem is **せず**, not **しず**.
+3. **Confusion with ～なくてすんだ**
+   - **Mistake:** 行かなくてすんだ。
+   - **Correction:** 行かずにすんだ。
+   *Explanation:* While **～なくてすんだ** may be understood, **～ずにすんだ** is the correct and more natural expression.
+## Learning Strategies
+- **Mnemonic Device:** Remember that **ず** is an old-fashioned negative, so think of **Verb + ずにすんだ** as "Without doing Verb, it ended."
+- **Practice with Common Verbs:** Start by conjugating common verbs into this form to get comfortable.
+# 7. Summary and Review
+## Key Takeaways
+- **Usage:** Use **～ずにすんだ** to express relief at avoiding something undesirable.
+- **Formation:** Negative stem of the verb + **ずにすんだ**.
+- **Formality:** More formal than **～ないで済む**, suitable for written and formal spoken Japanese.
+- **Irregular Verb する:** Be careful with irregular verbs—**する** becomes **せずにすんだ**.
+## Quick Recap Quiz
+1. **Question:**
+   Fill in the blank with the correct form of **～ずにすんだ**:
+   雨が降らなかったので、傘を持って行か___。
+   **Answer:**
+   雨が降らなかったので、傘を持って行か**ずにすんだ**。
+   *(Since it didn't rain, I didn't have to take an umbrella.)*
+2. **Question:**
+   What's the **～ずにすんだ** form of the verb **読む (yomu)**?
+   **Answer:**
+   読ま**ずにすんだ**
+3. **Question:**
+   True or False: **～ずにすんだ** is commonly used in casual, everyday conversation.
+   **Answer:**
+   **False**
+   *Explanation:* It's more formal and often used in written language.
+4. **Question:**
+   How do you express "I managed to avoid doing homework" using **～ずにすんだ**?
+   **Answer:**
+   宿題をせずにすんだ。
+---
+By understanding and practicing **～ずにすんだ**, you'll be able to express relief and discuss outcomes where something undesirable was avoided, all while enhancing the formality and nuance in your Japanese communication.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

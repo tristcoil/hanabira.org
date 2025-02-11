@@ -1,68 +1,95 @@
 Processing keyword: ~던지 [deonji] (Whether)
 # Korean Grammar Point: ~던지 [deonji] (Whether)
-# Grammar Point: ~던지 [deonji] (Whether)
+
 ## 1. Introduction
-The grammar point **~던지** is used to express uncertainty or inquire about alternative actions or states, often translating to "whether" or "if" in English. It is frequently used in conversational Korean to indicate a range of possibilities or options without asserting a definitive choice.
+In this lesson, we'll explore the Korean grammar point **~던지** (*~deonji*), which is used to express uncertainty or to indicate "whether" something happened or not. Understanding this grammar will help you talk about unknowns and possibilities in Korean.
+
+---
 ## 2. Core Grammar Explanation
-### Detailed Explanation
-**Structure**: 
-- The structure of **~던지** is typically attached to a verb or an adjective in the past tense to indicate a suggestion or inquiry into different possibilities. 
-- It can be formed with the past tense form of the verb + "던지".
-**Formation Diagram**:
+### Meaning
+The suffix **~던지** is attached to verbs to express uncertainty or to convey the meaning of "whether" or "if". It's often used in sentences where the speaker is unsure about an action or state and is commonly paired with verbs like **알다** (*to know*) or **모르다** (*to not know*).
+### Structure
+#### Formation
+1. **Verb Stem** + **~던지** + **Main Verb (e.g., 알다, 모르다, 궁금하다)**
+#### Diagram
 ```
-Verb (Past Tense) + 던지
+[Verb Stem] + 던지 + Main Verb
 ```
-Example: 
-- 가다 (to go) → 갔던지 (whether went)
-### Meaning and Usage
-- **~던지** conveys a sense of options or alternative possibilities, often implying a choice or uncertainty about what one might do or what's being discussed.
-- It can be used to suggest a hypothetical situation or to ask for clarification regarding choices.
+- **Verb Stem**: The base form of the verb (remove 다 from the dictionary form).
+- **던지**: The grammatical ending expressing "whether".
+- **Main Verb**: Usually verbs like 알다 (to know), 모르다 (to not know), 궁금하다 (to be curious).
+### Usage Notes
+- **~던지** is used after **action verbs**.
+- It often appears with **question words** like **누구** (who), **뭐/무엇** (what), **어디** (where), **언제** (when), **어떻게** (how), but it can also be used without them.
+- The verb before **~던지** is in the **past tense**, reflecting uncertainty about a past event.
+---
 ## 3. Comparative Analysis
-Compared to:
-- **~든지**: It is also used to express options but can be more definitive as it states that both options exist.
-- **~거나**: This expression is typically used to indicate alternatives but is more straightforward and less about uncertainty than **~던지**.
-**Differences**:
-- **~던지** carries the nuance of uncertainty or inquiry about past actions or events, while **~거나** simply offers choices.
+### Comparison with **~는지**
+- **~는지** is used to express uncertainty in the **present tense**.
+- **~던지** focuses on past actions or states, emphasizing that the speaker is unsure about **whether a past event occurred**.
+
+| Grammar Point | Tense       | Example                        | Translation                      |
+|---------------|-------------|--------------------------------|----------------------------------|
+| ~는지         | Present/Future | 가는지 모르겠어요          | I don't know if (someone) is going |
+| ~던지         | Past        | 갔던지 모르겠어요             | I don't know whether (someone) went |
+
+---
 ## 4. Examples in Context
-### Sentence Examples
-1. **Formal Context**:
-   - "어디에 가셨던지 말씀해 주세요."  
-     (Please tell me where you went.)
-   
-2. **Informal Context**:
-   - "이것을 하던지 저것을 하던지 마음대로 해."  
-     (You can do this or that, do as you like.)
-   
-3. **Written Context**:
-   - "그 사람은 아는 사람이라던지 친구라던지 꼭 확인해야 한다."  
-     (You should definitely confirm whether they are an acquaintance or a friend.)
-   
-4. **Spoken Context**:
-   - "지금 카페에 가던지 집에 가던지 결정해!"  
-     (Decide whether to go to the cafe or home!)
+### Formal Speech
+1. **그분이 어제 회의에 참석했던지 알아요?**
+   - *Do you know whether he attended the meeting yesterday?*
+2. **어제 무엇을 했던지 기억이 안 납니다.**
+   - *I can't remember what I did yesterday.*
+### Informal Speech
+1. **네가 어디에 갔던지 몰라.**
+   - *I don't know where you went.*
+2. **우리가 그 영화를 봤던지 아닌지 생각이 안 나.**
+   - *I can't remember whether we watched that movie or not.*
+### Written Context
+1. **그는 그 사실을 알았던지 몰랐던지 아무 말이 없었다.**
+   - *He didn't say anything about whether he knew that fact or not.*
+### Spoken Context
+1. **어제 비가 왔던지 안 왔던지 기억나?**
+   - *Do you remember whether it rained yesterday or not?*
+---
 ## 5. Cultural Notes
-### Cultural Relevance
-- The use of **~던지** reflects the Korean social norm of politeness and ambiguity. Koreans often prefer indirect statements over direct requests, making this grammar point useful in softening inquiries or suggestions.
+### Politeness Levels
+- Using **~던지** appropriately shows an understanding of past events and nuances in conversation.
+- It can indicate humility or uncertainty, which aligns with the Korean cultural value of being modest and indirect, especially when unsure.
 ### Idiomatic Expressions
-- "선택하던지, 포기하던지."  
-  (Choose whether to take it or give it up.)
+- **어디서 뭘 했던지 모르겠어.**
+  - *I have no idea where or what I did.*
+  - Often used humorously when someone has forgotten past events.
+---
 ## 6. Common Mistakes and Tips
-### Error Analysis
-- Learners might confuse **~던지** with **~든지**. Remember that **~던지** emphasizes uncertainty about past actions, while **~든지** simply states options.
-### Learning Strategies
-- To remember the difference, think of **~던지** as grappling with the past. The “-던” reminds you of earlier actions, whereas **~든지** is more straightforward.
+### Common Mistakes
+1. **Using ~던지 with present tense verbs**
+   - Incorrect: *가던지 몰라요.* (When referring to a present action)
+   - Correct: *가는지 몰라요.* (Use **~는지** for present tense)
+2. **Confusing ~던지 with ~든지**
+   - **~든지** means "any" or "whatever", used for alternatives.
+   - Example: *먹든지 마시든지 마음대로 해.* (*Do whatever you want, eat or drink.*)
+### Tips
+- Remember that **~던지** is about **past uncertainty**.
+- Pair **~던지** with verbs like **알다**, **모르다**, **기억하다**.
+---
 ## 7. Summary and Review
 ### Key Takeaways
-- **~던지** indicates uncertainty or choice about past actions.
-- It is formed by adding **던지** to the past tense of verbs/adjectives.
-- It differs from similar expressions like **~든지** and **~거나** by emphasizing ambiguity.
+- **~던지** is used to express uncertainty about past events (whether something happened).
+- It is attached to the **verb stem** of action verbs in the past tense.
+- Commonly used with verbs like **알다** (to know), **모르다** (to not know), and **기억하다** (to remember).
 ### Quick Recap Quiz
-1. What does **~던지** signify in English?
-   - A) Future actions 
-   - B) Choices and uncertainties in the past 
-   - C) Simple past tense 
-2. Which is an example of using **~던지**?
-   - A) 저는 갔던지 클럽에 갔던지 생각 중이에요.
-   - B) 저는 가요.
-  
- (Answers: 1. B, 2. A)
+1. Fill in the blank: **어제 누가 왔___ 모르겠어요.**
+   - a) 는지
+   - b) 던지
+2. True or False: **~던지** can be used with present tense verbs.
+3. What is the difference between **~던지** and **~든지**?
+#### Answers:
+1. b) 던지
+2. False
+3. **~던지** expresses uncertainty about past events ("whether"), while **~든지** indicates options or alternatives ("any", "either... or...").
+---
+By mastering **~던지**, you can more effectively discuss past uncertainties and add nuance to your Korean conversations. Keep practicing by creating your own sentences using this grammar point!
+
+---
+© [Hanabira.org](https://hanabira.org)

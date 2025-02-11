@@ -1,77 +1,114 @@
 Processing keyword: Verb て くる (Verb te kuru)
 # Japanese Grammar Point: Verb て くる (Verb te kuru)
-# Verb てくる (Verb te kuru)
-## Introduction
-The expression "Verb て くる" is a common grammatical structure in Japanese that involves a verb in the て-form followed by "くる" (kuru). This construction conveys the idea of an action that has been performed and its result is now arriving toward the speaker, emphasizing the speaker's perspective. It can be used for both past actions and future intentions.
-## Core Grammar Explanation
-### Detailed Explanation
-- **Structure**: The structure of this grammar point is:
-  
-  ```
-  Verb (て-form) + くる
-  ```
-- **Meaning**: This construction generally indicates:
-  - An action that has occurred and has relevance to the present situation.
-  - The sense of something coming towards the speaker or the speaker's current location.
-  - Can imply a change or an ongoing process.
-### Formation Diagram
-| Verb Base | て-form   | くる   | Meaning                       |
-|-----------|-----------|--------|-------------------------------|
-| 歩く      | 歩いて    | くる   | to come walking (from some place) |
-| 読む      | 読んで    | くる   | to come reading (something)    |
-| 習う      | 習って    | くる   | to come learning (something)   |
-### Visual Aid
-1. **Verb て-form**: How to create the て-form based on verb groups:
-| Verb Group | Verb Example  | て-form      |
-|------------|---------------|--------------|
-| Group 1    | 書く (kaku)   | 書いて (kaite) |
-| Group 2    | 食べる (taberu) | 食べて (tabete) |
-| Irregular  | する (suru)   | して (shite)    |
-| Irregular  | 来る (kuru)   | 来て (kite)     |
-## Comparative Analysis
-"Verb てくる" is often compared with "Verb ていく" (te iku), which conveys the opposite sense of moving away from the speaker. 
-- **Verb てくる (te kuru)**: Focus on an action coming toward the speaker's perspective.
-  - Example: 助けてくる (tasukete kuru) - "I will come to help."
-- **Verb ていく (te iku)**: Focus on an action moving away from the speaker's perspective.
-  - Example: 助けていく (tasukete iku) - "I will go help (and leave)."
-## Examples in Context 
-### Sentence Examples
-1. **Formal**: 先生が教えてくると言いました。  
-   (Sensei ga oshiete kuru to iimashita.)  
-   "The teacher said they will come to teach."
-2. **Informal**: 友達が遊びに来てくる。  
-   (Tomodachi ga asobi ni te kuru.)  
-   "My friend is coming over to hang out."
-3. **Written**: 彼は東京に引っ越してきた。  
-   (Kare wa Tōkyō ni hikkoshite kita.)  
-   "He moved to Tokyo (and is now here)."
-4. **Spoken**: 今、仕事を終わらせてくる。  
-   (Ima, shigoto o owarasete kuru.)  
-   "I’m finishing up work and coming back."
-## Cultural Notes 
+
+## 1. Introduction
+The grammar pattern **Verb てくる** is a versatile construction in Japanese that combines a verb in the **-te form** with **くる (kuru)**, meaning "to come." This pattern is used to express actions that have started in the past and continue to the present, movements towards the speaker, or gradual changes. Understanding this grammar point will enhance your ability to describe ongoing actions and changes in Japanese.
+
+---
+## 2. Core Grammar Explanation
+### Meaning and Usage
+The **Verb てくる** construction is used to express:
+1. **An action or state that began in the past and continues up to now.**
+2. **A change or process that has occurred up to the present moment.**
+3. **Movement towards the speaker or the current location.**
+### Structure
+**Formation Diagram:**
+```
+[Verb in て-form] + くる
+```
+- **Verb in て-form**: Conjugate the verb to its -te form.
+- **くる**: The verb "to come" in plain form.
+**Examples of Verb Conjugation:**
+
+| Verb (Dictionary Form) | て-form      | + くる          |
+|------------------------|--------------|-----------------|
+| 食べる (taberu)         | 食べて       | 食べてくる      |
+| 行く (iku)             | 行って       | 行ってくる      |
+| 帰る (kaeru)           | 帰って       | 帰ってくる      |
+| 増える (fueru)         | 増えて       | 増えてくる      |
+| 勉強する (benkyou suru)| 勉強して     | 勉強してくる    |
+
+---
+## 3. Comparative Analysis
+The pattern **Verb てくる** is often compared with **Verb ていく (Verb te iku)**.
+- **Verb てくる**: Indicates actions or changes moving **towards** the present or the speaker.
+- **Verb ていく**: Indicates actions or changes moving **away** from the present or the speaker into the future.
+**Comparison Table:**
+
+| Usage               | Verb てくる                     | Verb ていく                   |
+|---------------------|---------------------------------|-------------------------------|
+| Past to Present     | 雨が降ってきた \(It started raining\) | だんだん暖かくなっていく \(It will gradually become warmer\) |
+| Movement Direction  | 駅から走ってきた \(I ran from the station (to here)\) | 家まで歩いていく \(I will walk to home (from here)\) |
+
+---
+## 4. Examples in Context
+### Example Sentences
+1. **An action that started in the past and continues to the present:**
+   - **Japanese:** 日本語を3年間勉強してきました。
+   - **Romaji:** Nihongo o san-nenkan benkyou shite kimashita.
+   - **English:** I have been studying Japanese for three years.
+2. **A change that has occurred up to now:**
+   - **Japanese:** 最近、日が短くなってきた。
+   - **Romaji:** Saikin, hi ga mijikaku natte kita.
+   - **English:** Lately, the days have been getting shorter.
+3. **Movement towards the speaker:**
+   - **Japanese:** 友達が家に遊びに来てくれた。
+   - **Romaji:** Tomodachi ga ie ni asobi ni kite kureta.
+   - **English:** A friend came over to my house to hang out.
+4. **Expressing gradual change:**
+   - **Japanese:** 物価が上がってきています。
+   - **Romaji:** Bukka ga agatte kite imasu.
+   - **English:** Prices have been going up.
+5. **In a formal context:**
+   - **Japanese:** 技術が発展してきたおかげで、生活が便利になりました。
+   - **Romaji:** Gijutsu ga hatten shite kita okage de, seikatsu ga benri ni narimashita.
+   - **English:** Thanks to technological advances, life has become convenient.
+---
+## 5. Cultural Notes
 ### Cultural Relevance
-Using "verb te kuru" can indicate a polite intention of hospitality or arrival, and maintaining awareness of context and the listener is important in Japanese culture. Depending on the situation, choosing between "てくる" or "ていく" can reflect the speaker’s position and relationship with the listener.
-### Levels of Politeness
-In formal contexts, using the respectful form that maintains politeness like てきます (te kimasu) is appropriate. 
+In Japanese society, expressing the flow of time and changes in states is important for communication. The use of **てくる** conveys not just the action but also its relation to the speaker's perspective and time frame.
 ### Idiomatic Expressions
-- **来る (kuru)** can also be used idiomatically:
-  - 何が起こってくるか分からない (Nani ga okotte kuruka wakaranai) - "I don't know what will come to happen."
-## Common Mistakes and Tips 
+- **やってくる (yatte kuru):** To come; to show up.
+  - **Example:** 新しい時代がやってくる。
+  - **Translation:** A new era is coming.
+- **思えてくる (omoete kuru):** To come to feel.
+  - **Example:** 彼が正しいように思えてくる。
+  - **Translation:** I’m starting to feel like he is right.
+---
+## 6. Common Mistakes and Tips
 ### Error Analysis
-1. **Incorrect Verb Form**: Using the dictionary form instead of the て-form.
-   - Incorrect: 行く来る (iku kuru)
-   - Correct: 行ってくる (itte kuru)
-2. **Confusing with ていく**: Mixing up the direction of the action.
-   - Remember that "てくる" signifies an action coming towards you.
+1. **Confusing てくる with ていく:**
+   - **Mistake:** 将来、もっと寒くなってくるでしょう。
+   - **Correction:** 将来、もっと寒くなっていくでしょう。
+   - **Explanation:** Use **ていく** for actions moving away from the present into the future.
+2. **Incorrect verb conjugation:**
+   - **Mistake:** 食べるてくる。
+   - **Correction:** 食べてくる。
+   - **Explanation:** The -te form of **食べる** is **食べて**, not **食べるて**.
 ### Learning Strategies
-- **Mnemonic Device**: Think of "くる" as "come", and imagine the action approaching you, while "いく" means "go", which is the action moving away.
-## Summary and Review 
+- **Mnemonic Device:**
+  - Think of **くる (come)** as actions **coming towards** you or the present moment.
+  - Associate **てくる** with **arrival** of an action or change.
+- **Practice Tip:**
+  - Create sentences about daily changes you observe to become comfortable with **てくる**.
+  - Example: 花が咲いてきた。(The flowers have started blooming.)
+---
+## 7. Summary and Review
 ### Key Takeaways
-- "Verb てくる" indicates an action coming towards the speaker.
-- It is essential to know the て-form of verbs to use this structure correctly.
-- It differs from "verb ていく," which indicates movement away from the speaker.
+- **Verb てくる** expresses actions or changes that have occurred up to the present or movement towards the speaker.
+- It is formed by combining the **-te form** of a verb with **くる**.
+- Be mindful of the context to choose between **てくる** and **ていく**.
 ### Quick Recap Quiz
-1. What is the structure for "verb てくる"?
-2. How does "verb てくる" differ from "verb ていく"?
-3. Provide an example sentence using "verb てくる." 
-By mastering "verb てくる," you can convey actions and their ongoing relevance to the present, enriching your fluency in Japanese conversation!
+1. How do you form the **Verb てくる** construction?
+2. What is the difference between **てくる** and **ていく**?
+3. Translate the following sentence: 彼は走ってきた。
+**Answers:**
+1. **[Verb in て-form] + くる**
+2. **てくる** indicates actions moving towards the speaker or present; **ていく** indicates actions moving away from the speaker or present into the future.
+3. **He came running.**
+---
+By mastering **Verb てくる**, you'll enhance your ability to describe ongoing actions, changes, and movements in Japanese, making your communication more natural and nuanced.
+
+---
+
+© [Hanabira.org](https://hanabira.org)

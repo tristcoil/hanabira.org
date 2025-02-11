@@ -1,72 +1,129 @@
 Processing keyword: ～に応じて (〜ni oujite)
 # Japanese Grammar Point: ～に応じて (〜ni oujite)
-# Grammar Point: ～に応じて (〜ni oujite)
+
 ## 1. Introduction
-The Japanese grammar structure ～に応じて (〜ni oujite) is used to express that something changes or is applied according to a certain condition or situation. This structure is commonly used in contexts where actions or responses are tailored based on varying factors.
+In this lesson, we'll explore the grammar point **～に応じて (〜ni oujite)**, a useful expression in Japanese that allows you to indicate that something changes or is done **"in accordance with," "depending on," or "according to"** certain circumstances or conditions. Mastering this grammar point will enable you to describe actions or outcomes that adjust based on varying factors.
+
+---
 ## 2. Core Grammar Explanation
-### Detailed Explanation
-- **Meaning**: "in accordance with", "depending on", "according to"
-- **Structure**: 
-  - [Noun] + に応じて 
-  - [Verb/Adjective] + に応じて
-#### Formation Diagram:
+### Meaning
+- **English Equivalents:** "In accordance with," "depending on," "according to," "in response to."
+### Usage
+- Used to express that an action, decision, or outcome varies or is adjusted **based on** specific situations, conditions, or criteria.
+### Structure
+#### Formation
+| **Noun** | + に応じて |
+|----------|-----------|
+
+#### Diagram
 ```
-[Situation/Condition] + に応じて → [Action/Response]
+[Condition Noun] + に応じて + [Action/Outcome]
 ```
-### Visual Aids:
-| Components         | Description         |
-|--------------------|---------------------|
-| Noun                | A variable condition or situation |
-| に応じて (におうじて) | The phrase indicating adaptation |
-| Action/Response     | The corresponding outcome or behavior |
+---
+### Visual Aid: Structure Breakdown
+| **Component**          | **Explanation**                                |
+|------------------------|------------------------------------------------|
+| **Noun**               | The condition or criteria influencing change   |
+| **に応じて**           | Indicates adjustment according to the noun     |
+| **Action/Outcome**     | The resultant action or change                 |
+---
 ## 3. Comparative Analysis
-### Comparison with Similar Grammar Points
-1. **～に従って (〜ni shitagatte)**: This means "in accordance with" as well, but usually implies following instructions or a set order.
-   - Example: ルールに従って行動してください。(Please act according to the rules.)
-   
-2. **～によって (〜ni yotte)**: This can mean "by means of" or "depending on," been used for more absolute distinctions, focusing on the cause.
-   - Example: 天候によってイベントが中止される。(The event will be canceled depending on the weather.)
-### Key Differences
-- **に応じて** focuses on adaptation based on a variable condition.
-- **に従って** emphasizes following rules or procedures.
-- **によって** indicates causality or means used.
+### Similar Grammar Points
+#### ～によって (〜ni yotte)
+- **Meaning:** "Depending on," "by," "due to."
+- **Comparison:** While both express dependency, **～によって** can indicate cause, means, or methods, whereas **～に応じて** emphasizes adjustment or correspondence to conditions.
+#### ～次第で (〜shidai de)
+- **Meaning:** "Depending on," "as soon as."
+- **Comparison:** **～次第で** also means "depending on," but it's often used to express that something is contingent upon a preceding action or condition.
+---
+### Comparison Table
+| Grammar Point    | Meaning           | Usage Focus                                  |
+|------------------|-------------------|----------------------------------------------|
+| **～に応じて**     | In accordance with | Adjusting actions based on conditions        |
+| **～によって**     | Depending on      | Cause, means, methods; varies by circumstances |
+| **～次第で**      | Depending on      | Outcomes contingent upon prior events        |
+---
 ## 4. Examples in Context
 ### Sentence Examples
-1. **Formal Context**: 
-   - 収入に応じて税金が決まります。
-     - (Shūnyū ni oujite zeikin ga kimarimasu.)
-     - "Taxes are determined according to income."
-2. **Informal Context**:
-   - 友達に応じて遊びに行く場所を変えるよ。
-     - (Tomodachi ni oujite asobi ni iku basho wo kaeru yo.)
-     - "I’ll change the place we go to play depending on my friends."
-3. **Written Context**:
-   - このプログラムは、参加者のレベルに応じて設計されています。
-     - (Kono puroguramu wa, sankashano reberu ni oujite sekkeishiteimasu.)
-     - "This program is designed according to the participants' levels."
-4. **Spoken Context**:
-   - 反応は、イベントの面白さに応じて変わるかもしれない。
-     - (Hannou wa, ibento no omoshirosa ni oujite kawaru kamoshirenai.)
-     - "The reactions might change depending on how interesting the event is."
+#### Example 1: Formal Written
+- **需要に応じて生産量を調整します。**
+  - *Juyō ni oujite seisanryō wo chōsei shimasu.*
+  - *We adjust production volume according to demand.*
+#### Example 2: Formal Spoken
+- **社員の能力に応じて、適切な職務が与えられます。**
+  - *Shain no nōryoku ni oujite, tekisetsu na shokumu ga ataeraremasu.*
+  - *Appropriate duties are assigned according to employees' abilities.*
+#### Example 3: Informal Spoken
+- **気分に応じて音楽を選ぶ。**
+  - *Kibun ni oujite ongaku wo erabu.*
+  - *I choose music according to my mood.*
+#### Example 4: Written Announcement
+- **成績に応じて奨学金が支給されます。**
+  - *Seiseki ni oujite shōgakukin ga shikyū saremasu.*
+  - *Scholarships are awarded based on grades.*
+#### Example 5: Everyday Conversation
+- **天候に応じて、イベントの内容を変更します。**
+  - *Tenkō ni oujite, ibento no naiyō wo henkō shimasu.*
+  - *We'll change the event's content depending on the weather.*
+---
 ## 5. Cultural Notes
 ### Cultural Relevance
-Using ～に応じて shows an understanding of the Japanese value of adaptability and consideration for others. It reflects the need to be flexible based on changing circumstances or people’s needs, which is significant in Japanese social interactions.
+In Japanese culture, adaptability and responsiveness to situations are highly valued. The use of **～に応じて** reflects this cultural emphasis on adjusting one's actions to suit different contexts, maintaining harmony and appropriateness.
+### Levels of Politeness and Formality
+- **～に応じて** is a neutral expression suitable for both formal and informal contexts.
+- Adjust the politeness level by modifying the surrounding verbs and expressions.
 ### Idiomatic Expressions
-One common phrase that utilizes this structure is:
-- **状況に応じて** (Jōkyō ni oujite) - "depending on the situation."
+- **状況に応じた対応**
+  - *Jōkyō ni oujita taiō*
+  - **Meaning:** Response appropriate to the situation.
+- **需要に応じる**
+  - *Juyō ni oujiru*
+  - **Meaning:** To meet demand.
+---
 ## 6. Common Mistakes and Tips
 ### Error Analysis
-- **Mistake**: Using a verb or adjective without a noun reference.
-- **Correction**: Always ensure to have a subject to refer to, e.g., "条件に応じて" "in accordance with conditions."
+#### Common Mistake 1: Misplacing に応じて
+- **Incorrect:** *に応じて天気、服装を変える。*
+- **Correct:** *天気に応じて、服装を変える。*
+  - **Explanation:** Place **に応じて** immediately after the noun it modifies.
+#### Common Mistake 2: Using with Verbs Directly
+- **Incorrect:** *走るに応じて、景色が変わる。*
+- **Correct:** *速度に応じて、景色が変わる。*
+  - **Explanation:** **に応じて** should be used with nouns, not verbs.
 ### Learning Strategies
-- **Mnemonic**: Think of "応じて" as “responding to” in English. This will help remind you that it involves a response or action based on a certain condition.
+- **Mnemonic Tip:** Remember that **応じる (おうじる)** means "to respond" or "to comply with." So, **～に応じて** involves responding or adjusting according to something.
+- **Practice:** Create sentences using **～に応じて** with different nouns to become comfortable with the structure.
+---
 ## 7. Summary and Review
 ### Key Takeaways
-- The grammar point ～に応じて means "depending on" or "in accordance with," implying adaptability.
-- It's essential to have a noun or condition as the subject when using this structure.
-- Compare it with other similar structures to clarify its unique usage.
+- **Meaning:** **～に応じて** expresses that an action or outcome changes **"in accordance with"** a condition or situation.
+- **Structure:** Attach **に応じて** to a **noun** representing the condition.
+- **Usage:** Suitable for both formal and informal contexts; adjust politeness accordingly.
+- **Cultural Aspect:** Reflects the Japanese value of adaptability and appropriate response.
 ### Quick Recap Quiz
-1. What does ～に応じて mean?
-2. Provide an example sentence using ～に応じて.
-3. How does ～に応じて differ from ～によって?
-Feel free to review these examples, analyses, and notes, and practice using the structure in various contexts!
+1. **Fill in the blank with the correct particle:**
+   **人数＿応じて、料理の量を決めましょう。**
+   - *Answer:* **に**
+2. **True or False:**
+   **～に応じて** can be used with verbs directly without a noun.
+   - *Answer:* **False**
+3. **Choose the correct translation:**
+   "The company changes its policy in response to market trends."
+   a) 会社は市場の傾向に応じて方針を変えます。
+   b) 会社は市場の傾向によって方針を変えます。
+   - *Answer:* **a)**
+---
+By understanding and using **～に応じて**, you can effectively communicate adjustments and responses to varying conditions in Japanese. Remember to pair it with a noun and adjust your sentence's politeness level to suit the context.
+
+---
+**Practice Sentence Creation:**
+Try creating your own sentences using **～に応じて**. For example:
+- **あなたの予算に応じて、最適なプランを提案します。**
+  - *Anata no yosan ni oujite, saiteki na puran wo teian shimasu.*
+  - *We'll propose the best plan according to your budget.*
+Feel free to share your sentences with peers or teachers for feedback!
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

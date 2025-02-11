@@ -1,71 +1,107 @@
 Processing keyword: 이/그/저 [i/geu/jeo] (This, that, that over there)
 # Korean Grammar Point: 이/그/저 [i/geu/jeo] (This, that, that over there)
-# Grammar Point: 이/그/저 [i/geu/jeo] (This, That, That Over There)
+
 ## 1. Introduction
-The Korean demonstratives 이, 그, and 저 are essential for indicating specific objects or people relative to the speaker's position. Understanding how to use these terms will dramatically improve communication and comprehension in Korean.
+In Korean, **이**, **그**, and **저** are demonstrative adjectives and pronouns used to indicate objects or people relative to the speaker and listener. They are essential in everyday conversation, helping speakers specify which item or person they are referring to based on proximity.
+
+---
 ## 2. Core Grammar Explanation
+### Meaning and Usage
+| Demonstrative | Pronunciation | Meaning            | Usage                               |
+|---------------|---------------|--------------------|-------------------------------------|
+| **이**        | [i]           | This               | Near the speaker                    |
+| **그**        | [geu]         | That               | Near the listener or not visible    |
+| **저**        | [jeo]         | That over there    | Far from both speaker and listener  |
 ### Detailed Explanation
-- **이 (i)**: This / These
-  - Used for objects or people that are close to the speaker.
-- **그 (geu)**: That / Those
-  - Used for objects or people that are close to the listener or previously mentioned.
-- **저 (jeo)**: That over there / Those over there
-  - Used for objects or people that are far from both the speaker and the listener.
-#### Structure and Formation
-- Demonstratives can also modify nouns to indicate specificity. The patterns are as follows:
-| Demonstrative | Meaning     | Example                      | Translation                |
-|---------------|-------------|------------------------------|----------------------------|
-| 이            | This       | 이 책                        | This book                  |
-| 그            | That       | 그 사람                      | That person                |
-| 저            | That over there | 저 건물                  | That building over there    |
-### Visual Aids
-Here's a diagram to illustrate the spatial relationships of the three demonstratives:
+1. **이 [i] (This):**
+   - Refers to something close to the speaker.
+   - Used when the object is within the speaker's reach.
+2. **그 [geu] (That):**
+   - Refers to something close to the listener.
+   - Also used for something mentioned previously or not present in the immediate environment.
+3. **저 [jeo] (That over there):**
+   - Refers to something far from both the speaker and the listener.
+   - Used when pointing at a distant object.
+### Structure and Formation
+Demonstrative + Noun
+- **이** + **책** (book) ⇒ **이 책** (This book)
+- **그** + **사람** (person) ⇒ **그 사람** (That person)
+- **저** + **건물** (building) ⇒ **저 건물** (That building over there)
+### Visual Diagram
 ```
-Speaker     Listener
-   |            |
-   |            |
-  이            그         저
-(This)      (That)     (That over there)
+[Speaker] ●──(이)──► [Object near Speaker]
+[Speaker]    [Listener] ●──(그)──► [Object near Listener]
+[Speaker] ●───────────────(저)──────────────► [Object far from both]
 ```
+---
 ## 3. Comparative Analysis
-- **이 vs. 그**: 이 indicates proximity to the speaker, while 그 indicates proximity to the listener.
-- **그 vs. 저**: 그 is used when the item is familiar or has been previously mentioned, while 저 is used when the item is physically distant from both speaker and listener.
+- **이** vs. **그**:
+  - **이** is used for items near the speaker.
+  - **그** is for items near the listener or previously mentioned.
+- **그** vs. **저**:
+  - **그** refers to something closer to the listener or contextually known.
+  - **저** indicates items far from both parties.
+---
 ## 4. Examples in Context
-### Sentence Examples
-- **Formal Context**:
-  - 이 책은 정말 좋습니다. (This book is really good.)
-  - 그 분은 저희 선생님이십니다. (That person is our teacher.)
-  - 저 집은 매우 아름답습니다. (That house over there is very beautiful.)
-- **Informal Context**:
-  - 이거 맛있어! (This is delicious!)
-  - 그거 가져와. (Bring that here.)
-  - 저거 뭐야? (What is that over there?)
-- **Written Context**:
-  - 이 연구 결과는 중요합니다. (This research result is important.)
-  - 그 주제는 매우 흥미롭습니다. (That topic is very interesting.)
-  
-- **Spoken Context**:
-  - 이거 해봤어? (Have you tried this?)
-  - 그럼, 저거 할래? (Then, do you want to do that?)
+### Formal Speech
+1. **이 물건은 얼마입니까?**
+   - *How much is this item?*
+2. **그 책을 읽어 보셨나요?**
+   - *Have you read that book?*
+3. **저 건물이 우리 회사입니다.**
+   - *That building over there is our company.*
+### Informal Speech
+1. **이거 뭐야?**
+   - *What's this?*
+2. **그 사람 알아?**
+   - *Do you know that person?*
+3. **저 산 정말 예쁘다.**
+   - *That mountain over there is really beautiful.*
+### Written Context
+- **이러한 이유로 우리는 결정을 내렸습니다.**
+  - *For these reasons, we made a decision.*
+### Spoken Context
+- **저기 봐! 저 새 정말 크다.**
+  - *Look over there! That bird is really big.*
+---
 ## 5. Cultural Notes
 ### Cultural Relevance
-In Korean culture, the use of polite language is paramount. Using the correct demonstrative should align with the overall level of politeness in the conversation. For example, using 이, 그, and 저 in polite contexts can signal respect toward the listener.
+- Demonstratives are often accompanied by pointing gestures.
+- They reflect politeness levels when combined with appropriate speech styles.
+### Levels of Politeness
+- Adding polite endings (e.g., **-요**, **-니다**) adjusts formality.
+  - **이것은 무엇입니까?**
+    - *What is this?* (Formal)
+  - **이게 뭐예요?**
+    - *What is this?* (Polite)
 ### Idiomatic Expressions
-- "그런 것 같아요." (I think that's the case.) - Here, 그 indicates something already known or mentioned in conversation.
+- **그럼** (geureom) - "Then" or "In that case"
+- **저기요** (jeogiyo) - "Excuse me" (to get someone's attention)
+---
 ## 6. Common Mistakes and Tips
-### Error Analysis
-- Learners often confuse 이 and 그 when speaking. Remember: Use 이 for things close to you and 그 for things closer to the listener or already known to both.
-### Learning Strategies
-- **Mnemonic Device**: 
-  - Associate 이 with *"In my hand"* (close to me), 그 with *"Gimme that"* (close to my listener), and 저 with *"Just beyond reach"* (further away).
-  
+### Common Mistakes
+1. **Confusing 그 and 저:**
+   - Learners might use **그** and **저** interchangeably.
+   - Remember, **그** is for items near the listener or previously mentioned, **저** is for items far from both.
+2. **Overusing 이 for all situations:**
+   - Using **이** even when the object is not near the speaker.
+### Tips and Mnemonics
+- **이 [i]** - Imagine saying "I have this."
+- **그 [geu]** - Think "You have that."
+- **저 [jeo]** - Sounds like "Joe over there."
+---
 ## 7. Summary and Review
 ### Key Takeaways
-- **이 (i)**: This, for objects near the speaker.
-- **그 (geu)**: That, for objects near the listener or previously mentioned.
-- **저 (jeo)**: That over there, for distant objects.
+- **이** refers to things near the **speaker**.
+- **그** refers to things near the **listener** or previously mentioned.
+- **저** refers to things **far** from both speaker and listener.
 ### Quick Recap Quiz
-1. What does 이 mean?
-2. When would you use 그 instead of 저?
-3. Create a sentence using 저 and explain why it was selected.
-Take a moment to think through these questions to reinforce your understanding of this important grammar point!
+1. Which demonstrative would you use for something close to the listener?
+   - **Answer:** 그
+2. Fill in the blank: **___ 사람은 누구예요?** (Who is that person over there?)
+   - **Answer:** 저
+3. Translate to Korean: *This book is interesting.*
+   - **Answer:** **이 책은 재미있어요.**
+
+---
+© [Hanabira.org](https://hanabira.org)

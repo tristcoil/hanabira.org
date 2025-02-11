@@ -1,69 +1,116 @@
 Processing keyword: ～折には (〜ori ni wa)
 # Japanese Grammar Point: ～折には (〜ori ni wa)
-# Japanese Grammar Point: ～折には (〜ori ni wa)
+
 ## 1. Introduction
-The grammar point ～折には (〜ori ni wa) is used to express conditional situations. It indicates when something happens or will happen under certain circumstances. Typically, it translates to "when" or "in the event that" in English.
+The grammar point **～折には (〜おりには)** is a formal Japanese expression used to convey "on the occasion of" or "when". It's often employed in polite conversations, formal writings, or business contexts to indicate a specific time or opportunity when something happens or is expected to happen.
+
+---
 ## 2. Core Grammar Explanation
-### Detailed Explanation
-The structure of this grammar point is as follows:
-- **Structure**: Noun + 折 (ori) + に (ni) + は (wa)
-Here’s the breakdown:
-- **折 (ori)**: This means "occasion" or "time". It refers to a specific instance or event.
-- **に (ni)**: This is a particle that indicates the target of the action, similar to "at" or "to" in English.
-- **は (wa)**: This is the topic particle, used to emphasize or specify what happens under that condition.
-### Meaning, structure, and formation diagram
-- **Meaning**: "When [Noun] happens" or "In the event that [Noun] occurs."
-- **Formation Diagram**: 
+### Meaning
+**～折には** is used to express:
+- **"On the occasion of..."**
+- **"When..."**
+- **"At the time when..."**
+It emphasizes a special occasion or a particular opportunity, often with the nuance that such events are not frequent.
+### Structure
+The formation of **～折には** depends on the preceding word:
+| Preceding Word Type      | Formation                          | Example                                   |
+|--------------------------|-------------------------------------|-------------------------------------------|
+| **Verb Dictionary Form** | **Verb + 折には**                   | 行く折には (*iku ori ni wa*)              |
+| **Verb Past Tense Form** | **Verbた + 折には**                  | 行った折には (*itta ori ni wa*)           |
+| **Noun**                 | **Noun + の + 折には**              | お暇の折には (*o-hima no ori ni wa*)      |
+#### Formation Diagram
+```markdown
+[Verb (Dictionary Form)] + 折には
+[Verbた (Past Form)] + 折には
+[Noun] + の + 折には
 ```
-[Context/Noun] + 折には → (When [Context/Noun] occurs)
-```
+### Usage
+- Utilized in **formal contexts** such as business communications, official letters, or polite conversations.
+- Indicates a **specific opportunity or occasion** when an action occurs.
+- Often suggests that the event is **special** or **not frequently occurring**.
+---
 ## 3. Comparative Analysis
-### Similar Grammar Points
-- **～時 (〜toki)**: Also means "when" but is used more broadly for time. 
-  - Example: 学校に行く時 (Gakkou ni iku toki) - "When I go to school."
-- **～場合には (〜baai ni wa)**: Means "in the case of" or "if." Used for hypothetical situations rather than scheduled or expected events.
-  - Example: 雨の場合には (Ame no baai ni wa) - "In the case of rain."
-### Key Differences 
-- **時 (toki)** is more general and time-related, while **折には (ori ni wa)** focuses on specific occasions.
-- **場合には (baai ni wa)** suggests uncertainty, while **折には (ori ni wa)** implies a more definite occurrence. 
+### ～折には vs. ～際に (〜さいに) vs. ～時に (〜ときに)
+| Grammar Point    | Formality | Nuance                                               | Example                                      |
+|------------------|-----------|------------------------------------------------------|----------------------------------------------|
+| **～折には**       | Formal    | Special occasion, opportunity (less frequent events) | 来日した折には (*rainichi shita ori ni wa*)  |
+| **～際に**        | Formal    | At the time of (specific point in time/event)        | 来日した際に (*rainichi shita sai ni*)        |
+| **～時に**        | Neutral   | When (general timing)                                | 来日した時に (*rainichi shita toki ni*)       |
+- **～折には** and **～際に** are both formal, but **折には** emphasizes the specialness or rarity of the occasion.
+- **～時に** is more common and used in both formal and informal contexts without special emphasis.
+---
 ## 4. Examples in Context
 ### Sentence Examples
-1. **Formal Context**:
-   - 日本に行く折には、お土産を買ってください。
-   - (Nihon ni iku ori ni wa, omiyage wo katte kudasai.)
-   - "When you go to Japan, please buy souvenirs."
-2. **Informal Context**:
-   - 友達に会う折には、電話してね。
-   - (Tomodachi ni au ori ni wa, denwa shite ne.)
-   - "When you meet your friends, give me a call."
-3. **Written Context**:
-   - 会社の会議で発言する折には、準備をしておくべきです。
-   - (Kaisha no kaigi de hatsugen suru ori ni wa, junbi wo shite oku beki desu.)
-   - "When speaking at the company meeting, you should be prepared."
-4. **Spoken Context**:
-   - 旅行の折には、カメラを忘れないでね。
-   - (Ryokou no ori ni wa, kamera wo wasurenai de ne.)
-   - "Don't forget your camera when you travel."
+1. **日本へお越しの折には、ぜひお立ち寄りください。**
+   *Nihon e okoshi no ori ni wa, zehi otachiyori kudasai.*
+   "When you come to Japan, please be sure to drop by."
+2. **次回お会いした折には、新しい企画についてご説明いたします。**
+   *Jikai oai shita ori ni wa, atarashii kikaku ni tsuite go-setsumei itashimasu.*
+   "When we meet next time, I will explain the new project to you."
+3. **お近くにお越しの折には、ぜひお立ち寄りくださいませ。**
+   *O-chikaku ni okoshi no ori ni wa, zehi otachiyori kudasaimase.*
+   "If you are ever in the neighborhood, please feel free to drop by."
+4. **京都を訪れた折には、古い友人に再会した。**
+   *Kyōto o otozureta ori ni wa, furui yūjin ni saikai shita.*
+   "When I visited Kyoto, I reunited with an old friend."
+5. **ご入院の折には、大変お世話になりました。**
+   *Go-nyūin no ori ni wa, taihen osewa ni narimashita.*
+   "Thank you very much for your help when I was hospitalized."
+---
 ## 5. Cultural Notes
 ### Cultural Relevance
-The use of **折には (ori ni wa)** reflects the importance of context and situation in Japanese culture. It indicates awareness of circumstances, which is vital in Japanese social interactions. Being considerate of specific occasions is viewed positively.
-### Levels of Politeness
-- Generally used in both formal and informal situations, but it tends to skew more towards polite interactions, especially in business.
+- **Politeness and Formality**: Japanese culture places a strong emphasis on politeness levels. Using expressions like **～折には** shows respect and formality, appropriate in business or when speaking to superiors.
+- **Business Etiquette**: Commonly used in formal letters, emails, and official communications to clients or partners.
 ### Idiomatic Expressions
-- The phrase can be used in various contexts, but there aren’t many set phrases uniquely associated with it.
+- **折(おり)を見(み)て**
+  *Ori o mite*
+  "Looking for the right opportunity/time"
+- **折(おり)に触(ふ)れて**
+  *Ori ni furete*
+  "On occasion; whenever there is a chance"
+---
 ## 6. Common Mistakes and Tips
 ### Error Analysis
-- **Confusing with ～時 (toki)**: Many learners might use **toki** instead of **ori ni wa** in situations where a specific occasion is referenced.
+1. **Using ～折には in Casual Conversation**
+   - *Mistake*: 明日映画を見る折には、一緒に行こう。
+     - *Ashita eiga o miru ori ni wa, issho ni ikō.*
+   - *Correction*: 明日映画を見る時に、一緒に行こう。
+     - *Ashita eiga o miru toki ni, issho ni ikō.*
+   - **Explanation**: **～折には** is too formal for casual contexts. Use **～時に** instead.
+2. **Confusing ～折には with ～時に**
+   - *Mistake*: 日本に行った時には、お土産を買いました。
+     - *Nihon ni itta toki ni wa, omiyage o kaimashita.*
+   - *Correction*: 日本に行った折には、お土産を買いました。
+     - *Nihon ni itta ori ni wa, omiyage o kaimashita.*
+   - **Explanation**: If emphasizing the special occasion of visiting Japan, **～折には** is more appropriate.
 ### Learning Strategies
-- **Mnemonic Device**: Think of "折" (ori) as a "fold" in time where events are recognized to occur, emphasizing specific occasions.
-- Practice differentiating contexts where specific occasions vs. general time references are used.
+- **Contextual Practice**: Create sentences in formal contexts, such as letters or business meetings, to practice using **～折には** appropriately.
+- **Compare with Similar Expressions**: Understand the nuances between **～折には**, **～際に**, and **～時に** by comparing example sentences.
+- **Mnemonic Device**: Associate **折 (おり)** with "opportunity" to remember its usage in special occasions.
+---
 ## 7. Summary and Review
 ### Key Takeaways
-- **折には (ori ni wa)** is used for conditional statements relating to specific occasions.
-- It is used to express events that occur under certain circumstances.
+- **～折には** is a **formal expression** meaning "on the occasion of" or "when".
+- Used to emphasize a **special or infrequent occasion**.
+- Appropriate in **formal writings**, **polite conversations**, and **business contexts**.
+- Be mindful of the **level of formality**; avoid using it in casual conversations.
 ### Quick Recap Quiz
-1. What does the grammar point ～折には mean in English?
-2. How is it different from ～時 (toki)?
-3. Create a sentence using ～折には to describe a future event.
---- 
-You can practice using the grammar point by reflecting on various occasions in your life where you would apply it!
+1. **What is the main usage of ～折には?**
+   a) To express a habitual action.
+   b) To indicate a formal, special occasion when something happens.
+   c) To show causation between two events.
+2. **Which of the following sentences uses ～折には correctly?**
+   a) 昨日、友達に会う折には、プレゼントをもらった。
+   b) 来月の出張の折には、お客様と会議を行います。
+3. **Why should ～折には be avoided in casual conversation?**
+---
+### Answers:
+1. **b)** To indicate a formal, special occasion when something happens.
+2. **b)** 来月の出張の折には、お客様と会議を行います。
+3. Because **～折には** is too formal for casual settings; using it in casual conversation may sound out of place or overly stiff.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

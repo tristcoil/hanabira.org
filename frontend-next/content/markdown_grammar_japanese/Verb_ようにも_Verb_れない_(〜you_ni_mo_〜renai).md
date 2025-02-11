@@ -1,61 +1,108 @@
 Processing keyword: Verb ようにも Verb れない (〜you ni mo 〜renai)
 # Japanese Grammar Point: Verb ようにも Verb れない (〜you ni mo 〜renai)
-# JLPT Grammar Point: Verb ようにも Verb れない (〜you ni mo 〜renai)
+
+
+
 ## 1. Introduction
-The grammar point "ようにもれない" (you ni mo renai) expresses the idea that something is difficult or impossible to do, despite wanting to or trying to do it. This construction conveys a sense of frustration or limitation when it comes to action.
+In this lesson, we'll explore the grammar pattern **Verb ようにも Verb れない (〜ようにも〜れない)**, which expresses the inability to do something even if one wants to. This structure is commonly used to convey frustration or helplessness in situations where external factors prevent an action.
+
+---
 ## 2. Core Grammar Explanation
-### Detailed Explanation
-- **Meaning**: The phrase indicates inability to perform an action despite one's intention or effort to do so.
-- **Structure**: 
-  - **Verb (in the volitional form) + ように + も + Verb (negative potential form or negative of the verb)**. 
-  - The volitional form is used to indicate intention or a desire to do something, while the negative potential form expresses inability.
+### Meaning
+This grammar pattern is used to express that **even if one tries or wants to do something, they cannot do it due to some impediment**. It highlights a combination of intent and inability.
+### Structure
+The structure of this grammar point is:
+1. **Verb (Volitional Form) + にも + Verb (Potential Negative Form)**
 ### Formation Diagram
-```markdown
-[Volitional Form] ように + [Negative Potential Form] も Verbれない
-     (Wanting to...)    (But cannot...)
-```
-### Breakdown:
-- **Volitional form**: Indicates desire (e.g., 食べよう "I'm going to eat")
-- **Negative potential form**: Indicates inability (e.g., 食べられない "cannot eat")
+| Verb Form          | Conjugation                       |
+|--------------------|-----------------------------------|
+| Volitional Form    | 食べる → 食べ**よう**             |
+|                    | 行く → 行こ**う**                 |
+| Potential Negative | 食べる → 食べ**られない**         |
+|                    | 行く → 行**けない**               |
+### How to Form
+1. **Convert the verb to its volitional form** (意志形):
+   - For **る-verbs**: Replace る with よう
+     - 食べる → 食べ**よう**
+   - For **う-verbs**: Change the last character to the corresponding おう sound
+     - 行く → 行こ**う**
+2. **Add にも** after the volitional form:
+   - 食べよう**にも**
+   - 行こう**にも**
+3. **Add the potential negative form of the verb**:
+   - 食べ**られない**
+   - 行**けない**
+4. **Combine them**:
+   - 食べようにも食べられない
+   - 行こうにも行けない
+---
 ## 3. Comparative Analysis
-### Similar Grammar Points
-- **Verb ようとする (〜you to suru)**: Meaning "to attempt to do something". It focuses more on the effort or attempt rather than inability.
-  - **Example**: 彼は食べようとしたが、病気で食べられなかった。 (He tried to eat, but he couldn't because he was sick.)
-The key difference is that "ようにも〜れない" emphasizes the impossibility despite intent, whereas "ようとする" simply shows the intent to perform the action.
+### Comparison with Verb たくても Verb られない
+While both expressions convey the inability to do something, there's a nuance:
+- **Verb たくても Verb られない**: "Even though I want to do..., I cannot do..."
+  - Focuses more on **desire**.
+- **Verb ようにも Verb れない**: "Even if I try to do..., I cannot do..."
+  - Emphasizes **attempting** but being **prevented by external factors**.
+---
 ## 4. Examples in Context
-### Sentence Examples
-1. **Formal**: 
-   - 学校に行こうにも、雨がひどくて行けない。  
-   (I want to go to school, but it's raining heavily, so I can't.)
-2. **Informal**: 
-   - 勉強しようにも、全然集中できない。  
-   (I want to study, but I can't concentrate at all.)
-3. **Written**: 
-   - 忘れようにも、忘れられない大切な思い出だ。  
-   (It's an important memory that I can't forget, no matter how much I try to.)
-4. **Spoken**: 
-   - みんなに伝えようにも、緊張してうまく話せない。  
-   (I want to tell everyone, but I'm so nervous that I can't speak well.)
+### Example 1
+**日本語で書こうにも書けない。**
+- *Nihongo de kakou ni mo kakenai.*
+- **Translation**: Even if I try to write in Japanese, I can't.
+### Example 2
+**忙しくて、休もうにも休めない。**
+- *Isogashikute, yasumou ni mo yasumenai.*
+- **Translation**: I'm so busy that even if I want to take a break, I can't.
+### Example 3
+**財布を忘れて、買おうにも買えない。**
+- *Saifu o wasurete, kaou ni mo kaenai.*
+- **Translation**: I forgot my wallet, so even if I try to buy it, I can't.
+### Example 4
+**風邪で声が出なくて、歌おうにも歌えない。**
+- *Kaze de koe ga denakute, utaou ni mo utaenai.*
+- **Translation**: I lost my voice due to a cold, so even if I want to sing, I can't.
+### Example 5 (Formal Context)
+**事故の影響で電車が止まり、行こうにも行けない状況です。**
+- *Jiko no eikyō de densha ga tomari, ikou ni mo ikenai jōkyō desu.*
+- **Translation**: Due to the accident, the trains have stopped, and we are in a situation where we can't go even if we try.
+---
 ## 5. Cultural Notes
-### Cultural Relevance
-In Japanese culture, expressing inability or constraint is often done in a humble manner. This grammar reflects a certain level of politeness and acknowledges limitations, which is important in social interactions.
+### Levels of Politeness and Formality
+This grammar pattern is **neutral** and can be used in both formal and informal contexts. Adjust the politeness level by:
+- Using **です/ます** forms for formal speech.
+- Maintaining plain forms for casual conversation.
 ### Idiomatic Expressions
-- 伝えようにも言葉が見つからない。  
-  (I want to convey it, but I can't find the words.)
+While **Verb ようにも Verb れない** is itself a grammatical structure, it often appears in idiomatic expressions conveying frustration.
+
+---
 ## 6. Common Mistakes and Tips
-### Error Analysis
-- **Common Mistake**: Confusing the volitional form with the plain form. Always ensure you are using the volitional form properly before "ように".
-- **Example Error**: 走ろうにも行けない (should be using the negative potential).
-### Learning Strategies
-- **Mnemonic Device**: Think of it like saying "I want to..." but then, due to circumstances, you follow it up with "...but I can't."
-  
+### Common Mistakes
+1. **Incorrect Verb Forms**
+   - Using the negative form instead of the potential negative form.
+     - Incorrect: *行こうにも行かない。*
+     - Correct: *行こうにも行けない。*
+2. **Omitting にも**
+   - Forgetting to include **にも** after the volitional form.
+     - Incorrect: *食べよう食べられない。*
+     - Correct: *食べようにも食べられない。*
+### Tips to Remember
+- **Mnemonic Device**: Think of "**Attempt (よう) + Even if (にも) + Can't (れない)**".
+- **Associate にも** with "even if/also", emphasizing the contrast between desire/attempt and inability.
+---
 ## 7. Summary and Review
 ### Key Takeaways
-- "ようにも〜れない" conveys a sense of wanting to do something but being unable, indicating frustration.
-- Structure is crucial: Volitional form + ように + も + Negative potential.
-- Cultural nuances around politeness are important in using this grammar point.
+- **Verb ようにも Verb れない** expresses the inability to do something even if one wants or tries to.
+- Formed by combining the **volitional form** + **にも** + **potential negative form**.
+- Conveys frustration due to external circumstances preventing an action.
 ### Quick Recap Quiz
-1. What is the structure of "ようにも〜れない"?  
-2. Provide an example sentence using "ようにも〜れない".  
-3. How does "ようにも〜れない" differ from "ようとする"?
-Feel free to practice formulating your sentences using "ようにも〜れない" for more familiarity!
+1. **Fill in the blanks**: 日本に _______ にも _______ ない。
+   - **Answer**: *日本に **行こう** にも **行け** ない。*
+2. **True or False**: The pattern Verb ようにも Verb れない can be used to express that you don't want to do something.
+   - **Answer**: *False.*
+3. **Identify the mistake**: 話そうにも話さない。
+   - **Correction**: *話そうにも話せない。*
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

@@ -1,63 +1,119 @@
 Processing keyword: ~하기에 [hakie] (For, considering)
 # Korean Grammar Point: ~하기에 [hakie] (For, considering)
-# Grammar Point: ~하기에 [hakie] (For, Considering)
+
 ## 1. Introduction
-The grammar point **~하기에** is used to express the reason, justification, or grounds for an action or situation. It translates to "for" or "considering" in English, and it often precedes a clause or a verb that explains a circumstance or condition.
+The Korean grammar pattern **~하기에** is used to express a reason or basis for a judgment, action, or decision. It can be translated into English as "for", "considering", or "because of". This pattern allows the speaker to state a condition or situation that influences their thought process or action.
+
+---
 ## 2. Core Grammar Explanation
-### Detailed Explanation
-**~하기에** is formed by taking the verb stem, adding **-하기** (the noun form of the verb, which means "to do"), followed by **-에** which indicates direction or purpose. 
-**Structure:**
-- **Verb Stem** + **-하기** + **-에**
-### Meaning and Structure Diagrams
-- **Example Verb**: 가다 (to go)
-- **Transformation**: 
-  - 가다 → 가기에 (for going)
+### Meaning and Usage
+**~하기에** is attached to the verb stem to indicate that the preceding action or state provides the ground for the subsequent action, decision, or judgment. It often conveys the idea of evaluating or assessing something based on certain conditions.
+### Formation
+**Structure**:
+```
+[Verb Stem] + 기에
+```
+**How to Form**:
+1. **Take the verb stem**:
+   - Remove **다** from the dictionary form of the verb.
+   - Example: **먹다** (to eat) → **먹**.
+2. **Add **기** to nominalize the verb**:
+   - **먹** + **기** → **먹기**.
+3. **Attach **에** to indicate the basis**:
+   - **먹기** + **에** → **먹기에**.
 ### Formation Diagram
-| Verb Stem | -하기 | -에  | Resulting Form |
-|-----------|-------|------|----------------|
-| 가다      | 하기  | 에   | 가기에         |
-| 사다      | 하기  | 에   | 사기에         |
+```plaintext
+[Verb Stem] + 기 + 에 → ~하기에
+```
+---
 ## 3. Comparative Analysis
-**~하기에** is often confused with similar structures such as **~므로** (because) or **~때문에** (due to). However, while **~하기에** focuses on justifying an action or making a recommendation, †~므로** and **~때문에** emphasize causation.
-### Differences:
-- **~하기에**: Focuses on the justification for an action.
-- **~므로**/**~때문에**: Emphasizes the cause of a situation.
+### Similar Grammar Points
+1. **~해서**:
+   - **Usage**: Indicates cause or reason.
+   - **Example**: 피곤해서 일찍 잤어요. (I was tired, so I went to bed early.)
+   - **Difference**: More casual and directly states the cause-effect relationship.
+2. **~기 때문에**:
+   - **Usage**: Expresses a strong cause-and-effect relationship.
+   - **Example**: 날씨가 추기 때문에 코트를 입었어요. (Because the weather is cold, I wore a coat.)
+   - **Difference**: More formal and emphatic about the cause.
+3. **~하느라(고)**:
+   - **Usage**: Indicates an action is hindered due to another action.
+   - **Example**: 공부하느라 친구를 못 만났어요. (I couldn't meet my friend because I was studying.)
+   - **Difference**: Focuses on the action that prevented another action.
+**Key Distinction**: **~하기에** often implies a consideration or evaluation before making a judgment or decision, whereas other forms may simply state a cause.
+---
 ## 4. Examples in Context
-### Sentence Examples
-1. **Formal Context:**
-   - 이 책은 공부하기에 매우 유용합니다.  
-     (This book is very useful for studying.)
-     
-2. **Informal Context:**
-   - 날씨가 좋기 때문에 여행하기에 딱이에요.  
-     (The weather is nice, so it's perfect for traveling.)
-3. **Written Context:**
-   - 이 프로그램은 사용자 친화적이니 사용하기에 간편합니다.  
-     (This program is user-friendly and convenient to use.)
-4. **Spoken Context:**
-   - 운동하기에 좋은 날씨야!  
-     (It's a good day for exercising!)
+### Example Sentences
+1. **Formal Written**
+   - **이 옷은 입기에 편해요.**
+     - *Translation*: These clothes are comfortable to wear.
+   - **학생들이 이해하기에 너무 어려운 내용입니다.**
+     - *Translation*: The content is too difficult for students to understand.
+2. **Informal Spoken**
+   - **날씨가 좋기에 산책했어요.**
+     - *Translation*: Since the weather was nice, I took a walk.
+   - **영화가 재미있기에 추천해요.**
+     - *Translation*: The movie is interesting, so I recommend it.
+3. **Negative Context**
+   - **가격이 비싸기에 사지 않았어요.**
+     - *Translation*: I didn't buy it because the price is expensive.
+   - **시간이 없기에 오래 머물 수 없어요.**
+     - *Translation*: I can't stay long because I don't have time.
+4. **Expressing Judgments**
+   - **여기는 여행하기에 안전한 곳입니다.**
+     - *Translation*: This is a safe place to travel.
+   - **그 음악은 듣기에 좋았어요.**
+     - *Translation*: That music was good to listen to.
+---
 ## 5. Cultural Notes
 ### Cultural Relevance
-In Korean culture, politeness and respect are essential. Choosing the correct speech level when interacting with others can reflect social norms. Using **~하기에** can add a more formal tone to a recommendation or justification.
+- **Politeness and Consideration**: Using **~하기에** shows a thoughtful evaluation, which is valued in Korean communication, especially when making recommendations or giving opinions.
+### Levels of Politeness and Formality
+- **Formal Contexts**: Commonly used in formal speech and writing, such as news reports, essays, and polite conversations.
+- **Avoid Overusing in Casual Speech**: In informal settings, Koreans may opt for simpler forms like **~해서**.
 ### Idiomatic Expressions
-A common idiom using this structure might be:
-- **시간이 부족하기에 미리 준비해야 해요.**  
-  (Considering that time is short, we need to prepare in advance.)
+- **살기에 좋다**: A common phrase meaning "good to live in".
+  - **이 도시는 살기에 좋아요.**
+    - *Translation*: This city is good to live in.
+- **보기에도 좋다**: Means "good to look at" or "pleasing to the eye".
+  - **그 그림은 보기에 참 좋네요.**
+    - *Translation*: That painting is really nice to look at.
+---
 ## 6. Common Mistakes and Tips
 ### Error Analysis
-Learners often misuse **~하기에** by confusing it with **~때문에**. Remember that **~하기에** justifies actions rather than explaining causes.
+1. **Incorrect Verb Stem Attachment**
+   - **Mistake**: 가다기에 (Attaching **기에** directly to the infinitive form)
+   - **Correction**: 가기에
+   - **Tip**: Always remove **다** from the verb before adding **기에**.
+2. **Using with Adjectives Improperly**
+   - **Mistake**: 예쁘기에 사진을 찍었어요.
+   - **Correction**: 예쁘기에 → 예뻐서 사진을 찍었어요.
+   - **Tip**: Use **~기에** mainly with action verbs. For adjectives, **~아서/어서** is more appropriate.
 ### Learning Strategies
-- **Mnemonic Device**: Remember “가야 하기에” (I must go), which emphasizes that the justification leads to an action.
-  
+- **Remember the Function**: Think of **~하기에** as "considering this action/state" to remind you that it sets up a basis for the next clause.
+- **Practice with Common Verbs**: Use verbs like **먹다**, **가다**, **보다** to make your own sentences.
+- **Contrast with Similar Forms**: Create sentences using **~해서**, **~기 때문에**, and **~하기에** to understand the nuances.
+---
 ## 7. Summary and Review
 ### Key Takeaways
-- **~하기에** is used for justification of an action considering circumstances.
-- It differs from **~므로** and **~때문에**, which focus on causation.
-- Pay attention to the formality in communication.
+- **~하기에** is used to express a reason or basis for a judgment or action.
+- It is formed by attaching **기에** to the verb stem: **[Verb Stem] + 기에**.
+- Used primarily in formal contexts and conveys thoughtful consideration.
+- Important to distinguish it from similar grammar points like **~해서** or **~기 때문에**.
 ### Quick Recap Quiz
-1. Translate the following sentence using **~하기에**: "This restaurant is good for eating."  
-2. How does **~하기에** differ from **~때문에**?  
-3. Provide an example of **~하기에** in a formal context.  
---- 
-End of Lesson on ~하기에 [hakie]!
+1. **Form the correct expression**:
+   - Attach **기에** to **읽다** (to read).
+     - **Answer**: 읽기에
+2. **Choose the appropriate grammar point**:
+   - For the sentence "Because it's raining, I took an umbrella," which is better?
+     - a) 비가 오해서 우산을 가져왔어요.
+     - b) 비가 오기에 우산을 가져왔어요.
+     - **Answer**: b) 비가 오기에 우산을 가져왔어요.
+3. **True or False**:
+   - **~하기에** can be used with adjectives without modification.
+     - **Answer**: False (Adjectives often require different grammatical structures)
+---
+By understanding and practicing **~하기에**, you enhance your ability to express reasons based on considerations or evaluations, adding depth to your Korean communication skills.
+
+---
+© [Hanabira.org](https://hanabira.org)

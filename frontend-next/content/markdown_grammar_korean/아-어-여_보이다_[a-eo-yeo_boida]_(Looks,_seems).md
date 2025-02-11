@@ -1,68 +1,88 @@
 Processing keyword: 아/어/여 보이다 [a/eo/yeo boida] (Looks, seems)
 # Korean Grammar Point: 아/어/여 보이다 [a/eo/yeo boida] (Looks, seems)
-# TOPIK Grammar Point: 아/어/여 보이다 [a/eo/yeo boida] (Looks, seems)
+
 ## 1. Introduction
-The Korean expression **아/어/여 보이다** is used to indicate that something appears or looks a certain way. It can be used to express opinions about someone's situation, feelings, or to describe objects and their states.
+In Korean, expressing perceptions or assumptions about something's appearance is common in daily conversations. The grammatical structure **아/어/여 보이다** is used to convey that someone or something "looks" or "seems" a certain way based on visual or sensory perception. This lesson will delve into the usage of **아/어/여 보이다**, helping you understand its formation, application, and nuances.
+
+---
 ## 2. Core Grammar Explanation
-### Detailed Explanation
-- **Structure**: The structure is formed by attaching **-아/어/여** to the verb stem (which typically describes a physical characteristic or state) and then adding **보이다**. The ending used (아, 어, 여) depends on the vowel of the verb stem.
-  
 ### Meaning
-1. It conveys an inference or a subjective perception regarding the appearance or situation.
-2. It can be used in casual or formal discourse depending on the context.
+The grammar point **아/어/여 보이다** is used to express that something appears or seems to be in a certain state. It translates to "looks" or "seems" in English.
+### Structure
+**Verb Stem + 아/어/여 보이다**
 ### Formation Diagram
-| Verb Stem | Vowel | Attachment | Resulting Form       | Meaning                    |
-|-----------|-------|------------|----------------------|----------------------------|
-| 놀다       | ㅗ     | -아       | 놀아 보이다 (looks fun)| "It looks fun."            |
-| 가다       | ㅏ     | -아       | 가 보이다 (looks like it's going)| "It looks like it's going."|
-| 먹다       | ㅓ     | -어       | 먹어 보이다 (looks delicious)| "It looks delicious."      |
-| 살다       | ㅏ     | -아       | 살아 보이다 (looks lively)| "It looks lively."         |
-| 자다       | ㅏ     | -아       | 자 보이다 (looks like it’s sleeping)| "It looks like it’s sleeping."|
+| **Verb Stem Ending** | **Connector** | **Example Verb** | **Conjugation**       | **Meaning**       |
+|----------------------|---------------|------------------|-----------------------|-------------------|
+| Ends with **ㅏ** or **ㅗ** | 아 보이다     | 낮다 (to be low)   | 낮아 보이다           | Looks low         |
+| Ends with other vowels | 어 보이다     | 높다 (to be high)  | 높아 보이다           | Looks high        |
+| **하다** verbs          | 여 보이다     | 행복하다 (to be happy) | 행복해 보이다     | Looks happy       |
+---
 ## 3. Comparative Analysis
-- **Similar Structures**: 
-  - **처럼 (cheoreom)**: "like" or "as if." Whereas **아/어/여 보이다** expresses an opinion based on appearance, **처럼** is often used in comparisons:
-    - Ex: "그는 나처럼 똑똑해 보인다." (He looks smart like me.)
-  
-- **다르다 (dareuda)**: "to be different." While **-아/어/여 보이다** can suggest resemblance or similarity, 다르다 does not infer appearance but difference.
+### Similar Grammar Points
+- **아/어 보이다** vs. **(으)ㄴ 것 같다**
+  - **아/어 보이다** is based on visual perception; it's used when making judgments from what you see.
+  - **(으)ㄴ 것 같다** means "seems like" or "I think that," and is used more broadly for assumptions, not just visual.
+**Example:**
+- 그 사람은 피곤해 보여요. *(He looks tired.)* - Based on appearance.
+- 그 사람은 피곤한 것 같아요. *(I think he is tired.)* - General assumption.
+---
 ## 4. Examples in Context
-### Sentence Examples
-1. **Formal**: 
-   - **그 물건은 아주 비싸 보입니다.**
-   - *(That item looks very expensive.)*
-   
-2. **Informal**: 
-   - **너 오늘 기분이 좋게 보인다!**
-   - *(You look great today!)*
-   
-3. **Written**:
-   - **이 영화는 재미있어 보입니다.**
-   - *(This movie looks interesting.)*
-4. **Spoken**: 
-   - **그 사람은 너무 슬퍼 보이네.**
-   - *(That person looks really sad.)*
+### Formal Situations
+1. **저 건물이 정말 높아 보입니다.**
+   - *That building looks really tall.*
+2. **선생님께서 기분이 좋아 보이세요.**
+   - *The teacher seems to be in a good mood.*
+### Informal Situations
+1. **너 오늘 피곤해 보여.**
+   - *You look tired today.*
+2. **이 음식 맛있어 보여!**
+   - *This food looks delicious!*
+### Written Context
+1. **그의 작품은 매우 독특해 보인다.**
+   - *His work appears very unique.*
+### Spoken Context
+1. **밖에 날씨가 추워 보여요.**
+   - *It looks cold outside.*
+---
 ## 5. Cultural Notes
-### Cultural Relevance
-In Korean culture, appearance is often linked to societal perceptions. Using **아/어/여 보이다** appropriately reflects social awareness and consideration for others' feelings. 
 ### Levels of Politeness
-- The informal forms are suitable among friends or younger individuals, whereas the formal versions are used in speeches or official settings.
+The verb **보다** (to see) changes formality levels through conjugation:
+- **보여요** - Polite informal
+- **보입니다** - Formal
+Understanding the appropriate level of politeness is crucial in Korean culture, which places a strong emphasis on respect and hierarchy.
 ### Idiomatic Expressions
-- **배고파 보이다** (looks hungry)
-- **피곤해 보인다** (looks tired)
+- **겉은 멀쩡해 보여도 속은 썩었다.**
+  - *Even if it looks fine on the outside, it's rotten inside.* (Meaning appearances can be deceiving.)
+---
 ## 6. Common Mistakes and Tips
-### Error Analysis
-- **Confusing vowel endings**: Beginners may incorrectly choose the vowel ending (아, 어, 여). It's vital to identify the verb stem's vowel accurately.
-  
+### Common Errors
+1. **Using the wrong vowel connector.**
+   - Incorrect: *맛있아 보여요.*
+   - Correct: *맛있어 보여요.*
+   **Tip:** Remember that verbs not ending with **ㅏ** or **ㅗ** use **어 보이다**.
+2. **Confusing with **아/어 보다** (to try doing something).**
+   - **아/어 보다**: *영화를 봤어요.* *(I watched a movie.)*
+   - **아/어 보이다**: *피곤해 보여요.* *(You look tired.)*
 ### Learning Strategies
-- Remember the endings by thinking of the root vowel sounds:
-  - Vowel ㅗ (아), ㅏ (아), ㅓ (어), and other endings (여).
+- **Mnemonic Device:** For verbs ending with **하다**, think of **해 보여요** as "Hey, it looks!"
+---
 ## 7. Summary and Review
 ### Key Takeaways
-- Use **아/어/여 보이다** to express how something looks or seems.
-- Pay attention to the vowel sound of the verb stem to use the correct form.
-- Differentiate between similar expressions like **처럼** and **다르다**.
+- **아/어/여 보이다** is used to express that something **looks** or **seems** a certain way.
+- The connector between the verb stem and **보이다** depends on the vowel in the last syllable of the verb stem.
+- It's primarily based on visual perception.
 ### Quick Recap Quiz
-1. How do you say "It looks beautiful" in Korean if using the verb "아프다" (to be pretty)?
-2. What is the ending used with the verb "읽다" (to read)?
-3. Provide a sentence using "피곤해 보이다."
+1. How do you say "The flower looks pretty" using **아/어/여 보이다**?
+2. What is the correct form of **작다** (to be small) with **아/어/여 보이다**?
+3. Is **맛있어 보여요** correctly formed? If yes, what does it mean?
+<details><summary><strong>Answers</strong></summary>
+1. **꽃이 예뻐 보여요.**
+2. **작아 보여요.**
+3. Yes, it means "It looks delicious."
+</details>
+
 ---
-Remember to practice these structures in conversation for proficiency!
+By mastering **아/어/여 보이다**, you'll enhance your ability to describe perceptions in Korean, making your expressions more natural and nuanced.
+
+---
+© [Hanabira.org](https://hanabira.org)

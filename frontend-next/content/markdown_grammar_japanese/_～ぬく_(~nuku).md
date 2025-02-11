@@ -1,75 +1,111 @@
 Processing keyword:  ～ぬく (~nuku)
 # Japanese Grammar Point:  ～ぬく (~nuku)
-# Grammar Point: ～ぬく (~nuku)
+# ～ぬく (~nuku)
 ## 1. Introduction
-The grammar point ～ぬく (~nuku) is used in Japanese to express the idea of "to do something to the end" or "to persist until completion." It signifies a sense of endurance and determination in carrying out an action or maintaining a state.
+The grammar point ～ぬく (~nuku) is a verb suffix in Japanese that conveys the meaning of doing something **through to the end** or **completing an action thoroughly despite difficulties**. It emphasizes persistence, endurance, and the completion of an action.
+
+---
 ## 2. Core Grammar Explanation
-### Detailed Explanation
-- **Meaning**: The suffix ～ぬく indicates that an action is done thoroughly or continuously until the end or the intended result is achieved.
-- **Structure**: This grammar point is formed by attaching ～ぬく to the verb's stem.
-### Formation
-1. Take the verb in its **stem form** (for example, 食べる (taberu) becomes 食べ (tabe)).
-2. Add ～ぬく to the verb stem.
-   **Examples**:
-   - 食べる (taberu – to eat) → 食べぬく (tabenuku – to eat thoroughly)
-   - 考える (kangaeru – to think) → 考えぬく (kangaenuku – to think through)
-### Visual Aids
-| Verb | Stem | ～ぬく Form | Translation               |
-|------|------|-------------|---------------------------|
-| 食べる | 食べ  | 食べぬく    | to eat thoroughly          |
-| 考える | 考え  | 考えぬく    | to think all the way through |
-| 読む   | 読み  | 読みぬく     | to read to the end        |
+### **Meaning**
+- **To do something thoroughly**
+- **To carry through with an action until the end**
+- **To persevere in doing something**
+### **Structure**
+The suffix ～ぬく attaches to the **ます-stem** (the stem form) of verbs.
+```plaintext
+Verb ます-stem + ぬく
+```
+### **Formation Diagram**
+| Verb (Dictionary Form) | ます-stem          | + ぬく | Example Verb       | Combined Form       |
+|------------------------|--------------------|--------|--------------------|---------------------|
+| 耐える (たえる)         | 耐え               | ぬく   | 耐え + ぬく         | 耐えぬく             |
+| 走る (はしる)           | 走り               | ぬく   | 走り + ぬく         | 走りぬく             |
+| 頑張る (がんばる)       | 頑張り             | ぬく   | 頑張り + ぬく       | 頑張りぬく           |
+---
 ## 3. Comparative Analysis
-The grammar point ～ぬく can be compared with other expressions such as:
-- **～続ける (~tsuzukeru)**: which means "to continue" but does not have the same connotation of reaching a final completion.
-- **～きる (~kiru)**: Means "to be able to do" something completely, but focuses more on capability rather than persistence.
-### Differences:
-- **Focus**: 
-  - ～ぬく emphasizes perseverance and thoroughness.
-  - ～続ける emphasizes continuation of an action.
-  - ～きる emphasizes completion or ability.
+### **Comparing ～ぬく with Similar Grammar Points**
+1. **～きる (~kiru)**
+   - **Meaning**: To do something completely.
+   - **Difference**: ～きる emphasizes the **completion** of an action, while ～ぬく emphasizes **perseverance** and **endurance** until the completion of the action.
+   - **Example**:
+     - 食べ**きる**: To eat it all.
+     - 食べ**ぬく**: To keep eating despite difficulties (e.g., lack of appetite).
+2. **～通す (~tōsu)**
+   - **Meaning**: To do something throughout; to carry on doing something.
+   - **Difference**: ～通す emphasizes continuity without interruption, whereas ～ぬく emphasizes enduring to the end despite challenges.
+   - **Example**:
+     - 信じ**通す**: To keep believing throughout.
+     - 信じ**ぬく**: To believe firmly until the end despite doubts.
+---
 ## 4. Examples in Context
-### Sentence Examples
-1. **Formal**: 
-   - **日本語を学び続けて、最後までしゃべれるように頑張ります。**
-   - (*Nihongo o manabi tsuzukete, saigo made shaberu you ni ganbarimasu.*)
-   - "I will continue learning Japanese and strive to be able to speak until the end."
-2. **Informal**: 
-   - **この本を読みぬくのは大変だ。**
-   - (*Kono hon o yominuku no wa taihen da.*)
-   - "It’s tough to read this book thoroughly."
-3. **Written**:
-   - **彼は問題を考えぬいた結果、解決策を見つけた。**
-   - (*Kare wa mondai o kangaenuita kekka, kaiketsusaku o mitsuketa.*)
-   - "After thinking through the problem thoroughly, he found a solution."
-4. **Spoken**:
-   - **友達とずっと遊びぬいた。**
-   - (*Tomodachi to zutto asobinuita.*)
-   - "I played with my friends until the end."
+### **Example Sentences**
+1. **Formal Written**
+   - この小説は最後まで読み**ぬく**価値があります。
+     - *Kono shōsetsu wa saigo made yomi**nuku** kachi ga arimasu.*
+     - **Translation**: This novel is worth reading thoroughly to the end.
+2. **Casual Spoken**
+   - マラソンを走り**ぬいた**自分を誇りに思う。
+     - *Marason o hashiri**nuita** jibun o hokori ni omou.*
+     - **Translation**: I'm proud of myself for having run the marathon all the way.
+3. **Expressing Determination**
+   - 難しいプロジェクトだけど、最後までやり**ぬく**つもりだ。
+     - *Muzukashii purojekuto dakedo, saigo made yari**nuku** tsumori da.*
+     - **Translation**: It's a difficult project, but I intend to see it through to the end.
+4. **Describing Persistence**
+   - 彼女は苦労を乗り越えて、研究をやり**ぬいた**。
+     - *Kanojo wa kurō o norikoete, kenkyū o yari**nuita**.*
+     - **Translation**: She overcame hardships and thoroughly completed her research.
+5. **Idiomatic Expression**
+   - 信じ**ぬく**ことが大切だ。
+     - *Shinji**nuku** koto ga taisetsu da.*
+     - **Translation**: It's important to keep believing firmly.
+---
 ## 5. Cultural Notes
-### Cultural Relevance
-The use of ～ぬく reflects the Japanese cultural value of persistence and dedication. In a society that appreciates perseverance, using this grammar point can show commitment to tasks and responsibilities, aligning with cultural norms of diligence.
-### Idiomatic Expressions
-Common phrases include:
-- **やりぬく (yarinuku)**: "to carry out until completion."
-- **守り抜く (mamorinuku)**: "to protect until the end."
+### **Cultural Relevance**
+- In Japanese culture, perseverance and endurance are highly valued traits, often encapsulated in the concept of **"頑張る" (ganbaru)**.
+- The use of ～ぬく highlights a person's determination to overcome obstacles, reflecting the cultural emphasis on persistence.
+### **Levels of Politeness**
+- The use of ～ぬく is neutral and can be used in both formal and informal contexts.
+- Politeness is adjusted through verb endings and politeness markers, not the suffix ～ぬく itself.
+### **Idiomatic Expressions**
+- **生き抜く (いきぬく)**
+  - *To survive; to live through difficulties.*
+- **耐え抜く (たえぬく)**
+  - *To endure until the end.*
+---
 ## 6. Common Mistakes and Tips
-### Error Analysis
-- **Mistake**: Using the plain form of the verb instead of the stem form.
-  - **Incorrect**: 読むぬく (yomunuku)
-  - **Correct**: 読みぬく (yominuku)
-### Learning Strategies
-- **Tip**: Remember that ～ぬく implies persistence. Think of it as "doing something all the way through" or "to the end."
+### **Error Analysis**
+1. **Attaching ～ぬく to the Wrong Verb Form**
+   - Incorrect: 食べ**る**ぬく ❌
+     - *Attaching to the dictionary form.*
+   - Correct: 食べ**ぬく** ✔️
+     - *Attach to the ます-stem (食べ).*
+2. **Confusing ～ぬく with Negative Form**
+   - Since "ぬ" can also be an old negative ending (e.g., 知らぬ), learners might confuse ～ぬく with negative meanings.
+   - Remember that in ～ぬく, "ぬ" is part of the verb "抜く" (to extract), not a negation.
+### **Learning Strategies**
+- **Mnemonic Device**: Think of **抜く (ぬく)** as "to extract" or "pull through," which can help you remember that ～ぬく involves pulling through difficulties to complete an action.
+- **Practice**: Create your own sentences using verbs related to challenges you face, applying ～ぬく to express your determination.
+---
 ## 7. Summary and Review
-### Key Takeaways
-- The grammar point ～ぬく signifies thoroughness and persistence in actions.
-- Formed by attaching ～ぬく to the verb stem.
-- Different from expressions like ～続ける and ～きる in focus and meaning.
-### Quick Recap Quiz
-1. What does ～ぬく express?
-2. How do you form ～ぬく from a verb?
-3. Give an example of ～ぬく in a sentence.
-### Answers
-1. Thoroughness and persistence.
-2. By attaching ～ぬく to the verb stem.
-3. Example: "この料理を作りぬくのは楽しい。 (It’s fun to cook this dish thoroughly.)"
+### **Key Takeaways**
+- **～ぬく (~nuku)** expresses **perseverance** and **completion** despite difficulties.
+- It attaches to the **ます-stem** of verbs.
+- Emphasizes endurance until the very **end** of an action.
+- Different from ～きる and ～通す, which have nuanced differences in meaning.
+### **Quick Recap Quiz**
+1. **Question**: How do you form the ～ぬく form of a verb?
+   **Answer**: Attach ～ぬく to the ます-stem of the verb.
+2. **Question**: What is the main nuance conveyed by using ～ぬく?
+   **Answer**: It emphasizes doing something thoroughly to the end, highlighting perseverance and endurance despite difficulties.
+3. **Question**: Choose the correct usage of ～ぬく:
+   a) 書きるぬく  
+   b) 書きぬく  
+   c) 書くぬく
+   **Answer**: **b) 書きぬく**
+
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

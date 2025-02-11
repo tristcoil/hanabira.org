@@ -1,0 +1,219 @@
+ ssh keepalive when connecting to my server
+ https://superuser.com/questions/699676/how-to-prevent-ssh-from-disconnecting-if-its-been-idle-for-a-while
+
+coil@coil-VM:~/Desktop$ ssh -o "ServerAliveInterval 60" root@zen-lingo.com
+
+super cool, you can even put this to ssh config on local VM
+################################################################################
+
+
+
+
+
+
+
+iptables commands for reference
+
+[root@VPS-O2A4 sites-enabled]# history | grep iptables
+   32  iptables -t nat -A PREROUTING -i eth0 -p tcp --dport 80 -j REDIRECT --to-port 3000
+   33  systemctl status iptables
+   34  systemctl iptables status
+   35  systemctl status iptables
+   36  yum install iptables-services
+   37  systemctl status iptables
+   38  systemctl reload iptables
+   39  systemctl start iptables
+   40  systemctl reload iptables
+   41  systemctl status iptables
+   42  iptables sh
+   43  iptables --help
+   45  iptables -t nat -A PREROUTING -i ens3 -p tcp --dport 80 -j REDIRECT --to-port 3000
+   46  systemctl reload iptables\
+   47  systemctl reload iptables
+   52  iptables -L
+   53  iptables -L -n
+   54  iptables -L -n -t nat
+   55  sudo iptables -I INPUT -i ens3 -p tcp --dport 80 -m comment --comment "# react frontend #" -j ACCEPT
+   56  sudo iptables -I INPUT -i ens3 -p tcp --dport 3000 -m comment --comment "# react frontend #" -j ACCEPT
+   57  service iptables save
+   58  iptables -L -n -t nat
+   59  systemctl reload iptables
+   68  iptables -I INPUT -i ens3 -p tcp --dport 8501 -m comment --comment "# streamlit frontend #" -j ACCEPT
+   69  service iptables save
+   70  systemctl reload iptables
+   72  history | grep iptables
+   73  iptables -t nat -A PREROUTING -i ens3 -p tcp --dport 81 -j REDIRECT --to-port 3001
+   74  iptables -I INPUT -i ens3 -p tcp --dport 81 -m comment --comment "# react frontend #" -j ACCEPT
+   75  iptables -I INPUT -i ens3 -p tcp --dport 3001 -m comment --comment "# react frontend #" -j ACCEPT
+  104  history | grep iptables
+  105  iptables -A INPUT -p tcp --dport 8081 -j ACCEPT
+  129  history | grep iptables
+  130  iptables -A INPUT -p tcp --dport 443 -j ACCEPT
+  139  iptables -L
+  140  systemctl reload iptables
+  141  iptables -L
+  145  history | grep iptables
+  146  iptables -I INPUT -p tcp -m tcp --dport 8081 -j ACCEPT
+  147  iptables -I INPUT -p tcp -m tcp --dport 443 -j ACCEPT
+  148  service iptables save
+  149  iptables -L
+  162  history | grep iptables
+[root@VPS-O2A4 sites-enabled]# 
+
+
+
+Alma Linux / Redhat / Centos
+-------- Certbot for Lets Encrypt -------
+all work to be done as root 
+
+https://snapcraft.io/docs/installing-snap-on-centos
+as root :
+yum install snapd
+systemctl enable --now snapd.socket
+ln -s /var/lib/snapd/snap /snap
+now log in as root in different terminal
+snap install core
+snap refresh core
+install the actual certbot 
+snap install --classic certbot
+ln -s /snap/bin/certbot /usr/bin/certbot
+
+https://certbot.eff.org/instructions?ws=nginx&os=centosrhel8
+[root@VPS-O2A4 ~]# certbot --nginx
+Saving debug log to /var/log/letsencrypt/letsencrypt.log
+Enter email address (used for urgent renewal and security notices)
+ (Enter 'c' to cancel): michal.vasulka@gmail.com
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Please read the Terms of Service at
+https://letsencrypt.org/documents/LE-SA-v1.3-September-21-2022.pdf. You must
+agree in order to register with the ACME server. Do you agree?
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+(Y)es/(N)o: Y
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Would you be willing, once your first certificate is successfully issued, to
+share your email address with the Electronic Frontier Foundation, a founding
+partner of the Let's Encrypt project and the non-profit organization that
+develops Certbot? We'd like to send you email about our work encrypting the web,
+EFF news, campaigns, and ways to support digital freedom.
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+(Y)es/(N)o: Y
+Account registered.
+
+Which names would you like to activate HTTPS for?
+We recommend selecting either all domains, or all domains in a VirtualHost/server block.
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+1: zen-lingo.com
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Select the appropriate numbers separated by commas and/or spaces, or leave input
+blank to select all options shown (Enter 'c' to cancel): 1
+Requesting a certificate for zen-lingo.com
+
+Successfully received certificate.
+Certificate is saved at: /etc/letsencrypt/live/zen-lingo.com/fullchain.pem
+Key is saved at:         /etc/letsencrypt/live/zen-lingo.com/privkey.pem
+This certificate expires on 2023-05-27.
+These files will be updated when the certificate renews.
+Certbot has set up a scheduled task to automatically renew this certificate in the background.
+
+Deploying certificate
+Successfully deployed certificate for zen-lingo.com to /etc/nginx/sites-enabled/zen-lingo.com
+Congratulations! You have successfully enabled HTTPS on https://zen-lingo.com
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+If you like Certbot, please consider supporting our work by:
+ * Donating to ISRG / Let's Encrypt:   https://letsencrypt.org/donate
+ * Donating to EFF:                    https://eff.org/donate-le
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+[root@VPS-O2A4 ~]# 
+
+[root@VPS-O2A4 ~]# crontab -l
+no crontab for root
+[root@VPS-O2A4 ~]# certbot renew --dry-run
+Saving debug log to /var/log/letsencrypt/letsencrypt.log
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Processing /etc/letsencrypt/renewal/zen-lingo.com.conf
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Account registered.
+Simulating renewal of an existing certificate for zen-lingo.com
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Congratulations, all simulated renewals succeeded: 
+  /etc/letsencrypt/live/zen-lingo.com/fullchain.pem (success)
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+[root@VPS-O2A4 ~]# 
+
+
+looks good so far
+
+
+[root@VPS-O2A4 sites-enabled]# cat zen-lingo.com 
+# Redirect HTTP traffic to HTTPS
+server {
+    if ($host = zen-lingo.com) {
+        return 301 https://$host$request_uri;
+    } # managed by Certbot
+
+
+  listen 80;
+  server_name zen-lingo.com;
+
+  return 301 https://$server_name$request_uri;
+
+
+}
+
+server {
+  listen 443 ssl;
+  server_name zen-lingo.com;
+    ssl_certificate /etc/letsencrypt/live/zen-lingo.com/fullchain.pem; # managed by Certbot
+    ssl_certificate_key /etc/letsencrypt/live/zen-lingo.com/privkey.pem; # managed by Certbot
+
+
+  location / {
+    proxy_pass http://localhost:3000;
+    proxy_set_header Host $host;
+    proxy_set_header X-Real-IP $remote_addr;
+    proxy_set_header X-Forwarded-For $proxy_add_x_forwarded_for;
+    proxy_set_header X-Forwarded-Proto $scheme;
+    proxy_pass_request_headers on;
+    proxy_http_version 1.1;
+    proxy_cache_bypass $http_upgrade;
+    proxy_set_header Upgrade $http_upgrade;
+  }
+
+  location /api/videos {
+    proxy_pass http://localhost:8000;
+    proxy_set_header Host $host;
+    proxy_set_header X-Real-IP $remote_addr;
+    proxy_set_header X-Forwarded-For $proxy_add_x_forwarded_for;
+    proxy_pass_request_headers on;
+    proxy_http_version 1.1;
+    proxy_set_header Upgrade $http_upgrade;
+    proxy_set_header Connection 'upgrade';
+  }
+
+}
+
+[root@VPS-O2A4 sites-enabled]# 
+
+so certs are now managed by certbot
+
+lets make sure we deployed latest certs 
+systemctl reload nginx
+
+
+
+------------------
+
+
+
+
+
+
+
+
+
+

@@ -1,65 +1,104 @@
 Processing keyword: ～にあたり (〜ni atari)
 # Japanese Grammar Point: ～にあたり (〜ni atari)
-# Japanese Grammar Point: ～にあたり (〜ni atari)
+
 ## 1. Introduction
-The grammar point ～にあたり (ni atari) is used to express a specific context or occasion when one is doing something. It often conveys the idea of ‘on the occasion of’ or 'when'. This grammar is formal and is commonly found in written Japanese, such as official announcements, speeches, and formal letters.
+The grammar point **～にあたり (〜ni atari)** is a formal expression used in Japanese to indicate an important event or occasion where some action is taken. It translates to **"on the occasion of," "at the time of,"** or **"when."** This expression is often found in speeches, formal announcements, and written documents.
+
+---
 ## 2. Core Grammar Explanation
-### Detailed Explanation
-- **Meaning**: The phrase ～にあたり indicates that when a certain event or situation occurs, something is being done in conjunction with that event. It can show a sense of seriousness or importance about what is happening.
-  
-- **Structure**: 
-  - **Form**: Verb (dictionary form) + にあたり, or Noun + にあたり
-  - **Usage**:
-    - Primarily used in formal contexts.
-    - Follows a major event, such as a celebration, announcement, or other significant occasions.
-### Formation Diagram
-| Structure                  | Notes                                |
-|----------------------------|--------------------------------------|
-| Verb (dictionary form) + にあたり | Used when the context is an action or event. |
-| Noun + にあたり            | Used when referring to specific occasions. |
+### Meaning
+- **～にあたり (〜ni atari):** *On the occasion of; At the time of; When; Before undertaking*
+### Structure
+The structure involves attaching **～にあたり** to a noun or the dictionary form of a verb.
+#### Formation Diagram
+| **Formation**            | **Usage**                                  |
+| ------------------------ | ------------------------------------------ |
+| **Noun** + にあたり      | When doing **Noun**                        |
+| **Verb (Dictionary form)** + にあたり | When **Verb-ing**; On the occasion of **Verb** |
+---
+### Examples:
+- **会議**にあたり
+  - *On the occasion of the meeting*
+- **留学する**にあたり
+  - *When studying abroad*
+---
 ## 3. Comparative Analysis
-### Similar Grammar Points
-- **～に際して (ni saishite)**: This also expresses an occasion, but it is slightly more formal and emphasizes actions taken before something occurs.
-- **～に就いて (ni tsuite)**: This is used to talk about something regarding a specific topic or theme.
-  
-**Difference**: 
-- Use 〜にあたり when you want to emphasize actions related to a significant event happening. Use 〜に際して for more formal or preparatory actions.
+### ～に際して (〜ni saishite)
+- **Similarity:** Both expressions are used in formal contexts to indicate *"on the occasion of"* or *"when."*
+- **Difference:** **～に際して** can be used for both positive and neutral events, whereas **～にあたり** often implies preparation for an important or special event.
+### Example Comparison
+- **出発**にあたり、必要な書類を確認した。
+  - *Before departing, I checked the necessary documents.*
+- **出発**に際して、皆が見送りに来てくれた。
+  - *On the occasion of my departure, everyone came to see me off.*
+---
 ## 4. Examples in Context
-### Sentence Examples
-1. **Formal Context (Official Announcement):**
-   - 新しいプロジェクトを開始するにあたり、全員に説明会を開催します。
-   - *"On the occasion of starting a new project, we will hold an explanatory meeting for everyone."*
-2. **Formal Occasions (Speeches):**
-   - 卒業式にあたり、心からお祝い申し上げます。
-   - *"On the occasion of the graduation ceremony, I sincerely offer my congratulations."*
-3. **Written Requests (Letters):**
-   - あなたの卒業を祝うにあたり、パーティーを開きます。
-   - *"We will hold a party to celebrate your graduation."*
-4. **Informal Context (Conversation):**
-   - 旅行に行くにあたり、カメラを買いました。
-   - *"I bought a camera in preparation for going on a trip."*
+### Formal Written Context
+1. **新プロジェクトを開始するにあたり、皆様のご協力をお願い申し上げます。**
+   - *On the occasion of starting the new project, we kindly request everyone's cooperation.*
+2. **図書館の利用方法変更にあたり、以下の点にご注意ください。**
+   - *When changing the library's usage methods, please pay attention to the following points.*
+### Formal Spoken Context
+3. **開会にあたり、一言ご挨拶申し上げます。**
+   - *On the occasion of the opening, I would like to say a few words of greeting.*
+4. **展示会開催にあたり、多くの方々のご尽力に感謝いたします。**
+   - *On the occasion of holding the exhibition, we express our gratitude to the efforts of many people.*
+### Business Context
+5. **契約更新にあたり、条件を見直したいと思います。**
+   - *When renewing the contract, we would like to review the conditions.*
+6. **新製品発売にあたり、キャンペーンを実施します。**
+   - *On the occasion of the new product launch, we will conduct a campaign.*
+### Academic Context
+7. **論文を発表するにあたり、多くのご指導をいただきました。**
+   - *On the occasion of presenting my thesis, I received a lot of guidance.*
+8. **入学にあたり、必要な手続きを説明します。**
+   - *When enrolling, I will explain the necessary procedures.*
+---
 ## 5. Cultural Notes
 ### Cultural Relevance
-Using ～にあたり reflects a level of politeness suitable in formal contexts. Japanese society values shows of respect, especially during significant occasions like ceremonies, anniversaries, or celebrations.
+- **Formality:** **～にあたり** is a highly formal expression, appropriate for official documents, formal speeches, and written communications.
+- **Politeness:** Its usage reflects respect and seriousness towards the occasion or event, aligning with Japanese values of formality and respect in professional and social settings.
 ### Idiomatic Expressions
-- **何かを始めるにあたり** (nani ka o hajimeru ni atari): "on the occasion of starting something"
-  
+- **就任にあたり**
+  - *On the occasion of assuming a position*
+- **創立記念にあたり**
+  - *On the occasion of the founding anniversary*
+---
 ## 6. Common Mistakes and Tips
-### Error Analysis
-- **Common Mistake**: Mixing up with 〜に際して (ni saishite). The distinction lies in the timing of the actions and the level of formality.
-  
-### Learning Strategies
-- **Mnemonic Device**: Think of "あたり" as "at this occasion". This helps to remember that it’s used during significant events.
+### Common Mistakes
+1. **Using with Casual Events**
+   - Incorrect: **友達と遊ぶにあたり、準備をした。**
+     - *(Using にあたり for a casual event like playing with friends is unnatural.)*
+   - Correction: **友達と遊ぶ前に、準備をした。**
+     - *Before playing with my friends, I prepared.*
+2. **Incorrect Verb Forms**
+   - Incorrect: **卒業したにあたり**
+     - *(Using past tense is incorrect.)*
+   - Correction: **卒業するにあたり**
+     - *On the occasion of graduating*
+### Tips
+- **Formality Check:** Reserve **～にあたり** for formal situations involving important events or actions.
+- **Verb Form:** Always use the dictionary form of the verb before **にあたり**.
+---
 ## 7. Summary and Review
 ### Key Takeaways
-- **Meaning**: Used to express actions related to specific occasions.
-- **Usage**: Primarily in formal contexts.
-- **Structure**: Verb (dictionary form) + にあたり or Noun + にあたり.
+- **～にあたり** is a formal expression meaning *"on the occasion of"* or *"when."*
+- Used with nouns or dictionary form verbs.
+- Appropriate for formal written and spoken contexts.
+- Reflects respect and preparation for significant events.
 ### Quick Recap Quiz
-1. What does ～にあたり mean?
-2. In what contexts is ～にあたり typically used?
-3. Compare ～にあたり and ～に際して. What is a key difference?
-Answer Key:
-1. "On the occasion of."
-2. Formal contexts such as announcements or speeches.
-3. ～にあたり is used for actions during an event, while ～に際して is more for preparations before an event.
+1. **Fill in the blank with the correct grammar point:**
+   **新店舗オープン______、セールを開催します。**
+   - **Answer:** にあたり
+2. **Is it appropriate to use ～にあたり in the following sentence?**
+   **昨日、映画を見るにあたり、チケットを予約した。**
+   - **Answer:** No. It is too casual; **にあたり** is too formal for this context.
+3. **Which verb form is used before にあたり?**
+   - **Answer:** Dictionary form (plain present tense)
+---
+Thank you for studying **～にあたり**! Practice using this expression in formal contexts to enhance your Japanese proficiency.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

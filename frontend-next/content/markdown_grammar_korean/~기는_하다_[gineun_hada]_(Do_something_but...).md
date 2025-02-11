@@ -1,66 +1,110 @@
 Processing keyword: ~기는 하다 [gineun hada] (Do something but...)
 # Korean Grammar Point: ~기는 하다 [gineun hada] (Do something but...)
-# Grammar Point: ~기는 하다 [gineun hada]
+
 ## 1. Introduction
-The grammar point ~기는 하다 is used in Korean to express that an action or quality exists, but it often implies a contrast or limitation to that statement. This structure can indicate acknowledgment of a fact while simultaneously softening the statement with a qualification.
+The Korean grammar construct **~기는 하다** is used to acknowledge or admit a fact, often followed by a contrasting statement. It is similar to saying "I do... but..." or "It is... but..." in English. This structure allows the speaker to express a concession or slight contradiction, adding nuance to their statements.
+
+---
 ## 2. Core Grammar Explanation
-### Detailed Explanation
-- **Meaning**: The phrase essentially translates to "It is the case that..." or "I do (something), but...". It emphasizes that while something is true, there may be a caveat or limit to it.
-  
-- **Structure**: 
-  - The basic structure is Verb/Adjective stem + 기는 하다.
-  - Example: 가다 (to go) + 기는 하다 → 가기는 하다 (I do go, but...)
+### Meaning
+The structure **~기는 하다** is used to:
+- Admit or acknowledge something, but then add a contrasting point.
+- Emphasize a verb or adjective, indicating that while the action or state is true, there is some reservation or contrast.
+### Structure
+**Formation**:
+1. **Verb/Adjective Stem** + **기는 하다**
 ### Formation Diagram
-```
- Verb/Adjective stem + 기는 하다
-           ↓
-      Affirmation with limitation
-```
-### Visual Aids
-| Korean Form                               | English Translation                          |
-|-------------------------------------------|---------------------------------------------|
-| 가기는 하다 (gagineun hada)               | I do go, but...                            |
-| 맛있기는 하다 (masitgina hada)            | It is delicious, but...                    |
-| 예쁘기는 하다 (yeppeugina hada)           | She is pretty, but...                      |
+| Verb/Adjective Type | Stem Ending | Attach | Result                   |
+|---------------------|-------------|--------|--------------------------|
+| Action Verb         | 가          | 기는 하다 | **가기는 하다** (go but...)     |
+| Descriptive Verb    | 크다        | 기는 하다 | **크기는 하다** (is big but...) |
+**Conjugation of 하다**:
+- **Past Tense**: 하다 → 했다
+- **Present Tense**: 하다 → 한다
+- **Future Tense**: 하다 → 할 것이다
+**Politeness Levels**:
+- **Formal**: 합니다
+- **Informal polite**: 해요
+- **Casual**: 해
+---
 ## 3. Comparative Analysis
-**Similar Grammar Points**:
-- **~지만 [jiman]**: This is another structure used to express contrast, meaning "but." However, ~기에는 하다 is more about acknowledging a fact while highlighting limitations or exceptions.
-  
-  - Example:
-    - ~기에는 하다:  재밌기는 하다, 그런데 좀 길다.  (It is interesting, but it is a bit long.)
-    - ~지만:  재미있지만 길다. (It is interesting, but it is long.)
+### Similar Grammar Points
+- **~지만**: Used directly after a verb/adjective stem to mean "but".
+  - **예:** **춥지만** (It's cold, but...)
+- **~ㄴ/은/는데**: Provides background or contrast.
+  - **예:** **먹는데** (I eat, but...)
+**Difference**:
+- **~기는 하다** emphasizes the acknowledgment before introducing the contrast, adding a layer of emphasis or concession.
+- **~지만** is a straightforward conjunction for "but" without additional emphasis.
+---
 ## 4. Examples in Context
 ### Sentence Examples
-#### Formal Context:
-1. 선생님들은 열심히 가르치기는 하시지만, 때때로 학생들이 안 듣는 것 같아요.  
-   (Teachers do teach hard, but sometimes it seems like the students are not listening.)
-2. 이 책은 읽기에는 좋기는 하다, 하지만 너무 어렵네요.  
-   (This book is good to read, but it is very difficult.)
-#### Informal Context:
-1. 영화를 보기는 하는데, 재미있지 않아.  
-   (I do watch movies, but they’re not interesting.)
-2. 운동은 하기는 하는데, 효과가 별로 없어.  
-   (I do exercise, but it's not very effective.)
+1. **집이 크기는 한데 너무 비싸요.**
+   - *jibi keugineun hande neomu bissayo.*
+   - The house **is big**, but it's too expensive.
+2. **그 영화가 재미있기는 했지만 다시 보고 싶지는 않아요.**
+   - *geu yeonghaga jaemiitgineun haetjiman dasi bogo sipjineun anayo.*
+   - The movie **was interesting**, but I don't want to watch it again.
+3. **운동을 하기는 하지만 자주 못 해요.**
+   - *undongeul hagineun hajiman jaju mot haeyo.*
+   - I **do exercise**, but I can't do it often.
+4. **맛있기는 한데 너무 매워요.**
+   - *masitgineun hande neomu maewoyo.*
+   - It's **tasty**, but it's too spicy.
+5. **그 사람이 친절하기는 한데 믿음이 안 가요.**
+   - *geu sarami chinjeolhagineun hande mideumi an gayo.*
+   - That person **is kind**, but I can't trust them.
+### Formal vs. Informal Usage
+- **Formal**:
+  - **제가 알기는 합니다만 확실하지는 않습니다.**
+    - *jega algineun hamnidaman hwaksilhajineun anseumnida.*
+    - I **do know**, but I'm not certain.
+- **Informal**:
+  - **보고서 쓰기는 했어, 그런데 완벽하지는 않아.**
+    - *bogoseo sseugineun haesseo, geureonde wanbyeokhajineun anha.*
+    - I **did write** the report, but it's not perfect.
+---
 ## 5. Cultural Notes
 ### Cultural Relevance
-In Korean culture, politeness and humility are important. The structure ~기는 하다 reflects a softening of statements, which is particularly valued in personal interactions. It allows the speaker to acknowledge their own actions or the actions of others while maintaining humility. 
+- In Korean culture, indirect communication is valued to maintain harmony and show respect.
+- Using **~기는 하다** allows speakers to acknowledge a point while gently introducing a differing opinion or reservation.
+### Levels of Politeness
+- Adjusting the conjugation of **하다** changes the politeness level.
+  - **Casual**: 하다 → 해
+  - **Polite Informal**: 하다 → 해요
+  - **Polite Formal**: 하다 → 합니다
 ### Idiomatic Expressions
-Common phrases that utilize this grammar point may include:
-- 가기는 가지만 (I do go, but...)
-- 맛있기는 하신데 (It is tasty, but...)
+- **먹기는 먹었다**: I did eat, but...
+- **오기는 왔다**: I came, but...
+---
 ## 6. Common Mistakes and Tips
 ### Error Analysis
-- Learners often confuse ~기는 하다 with simple affirmative statements. Remember that ~기는 하다 always implies a contrast or limitation.
-  
+- **Misplacing the Conjugation**: Incorrectly conjugating **하다** instead of the main verb.
+  - Incorrect: **공부하기는 했다.**
+  - Correct: **공부를 하기는 했다.**
+- **Overusing in Simple Sentences**: Using **~기는 하다** when there is no contrasting point can confuse the listener.
 ### Learning Strategies
-- **Mnemonic Device**: Associate the phrase with the image of a balance scale. It acknowledges one side (the affirmative) but leans towards another side (the limitation).
+- **Mnemonic Device**: Think of **기는** as "Yes, it's true..." and **하다** as "but..."
+- **Practice**: Create your own sentences acknowledging a fact and adding a contrast.
+---
 ## 7. Summary and Review
 ### Key Takeaways
-- ~기는 하다 is used to affirm an action or quality while introducing a limitation or contrast.
-- It is essential in expressing nuanced opinions and maintaining politeness in conversation.
+- **~기는 하다** is used to acknowledge something before introducing a contrasting point.
+- It emphasizes the verb or adjective, adding nuance to your statements.
+- Conjugate **하다** to match the tense and politeness level.
+- It differs from **~지만** by adding emphasis on acknowledgment.
 ### Quick Recap Quiz
-1. What does ~기는 하다 imply in a sentence?
-2. Provide an example sentence using ~기는 하다 in an informal context.
-3. How is ~기는 하다 different from ~지만? 
+1. **Question**: How do you form the **~기는 하다** structure with a verb?
+   - **Answer**: Attach **기는 하다** to the verb stem. For example, **가다** (to go) becomes **가기는 하다**.
+2. **Question**: What is the main difference between **~기는 하다** and **~지만**?
+   - **Answer**: **~기는 하다** emphasizes the acknowledgment before introducing contrast, while **~지만** is a direct conjunction meaning "but" without added emphasis.
+3. **Question**: Translate using **~기는 하다**: "I do like coffee, but I prefer tea."
+   - **Answer**: **커피를 좋아하기는 하지만 차를 더 좋아해요.**
+     - *keopireul joahagineun hajiman chareul deo joahaeyo.*
 ---
-This format provides a clear, detailed overview of the grammar point ~기는 하다, suitable for English-speaking learners of Korean looking to understand its usage better.
+
+Try creating your own sentences using **~기는 하다** to express concessions or contrasts.
+
+
+---
+© [Hanabira.org](https://hanabira.org)

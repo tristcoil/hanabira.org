@@ -1,65 +1,138 @@
 Processing keyword: ~뿐만 아니라 [ppunman anira] (Not only... but also)
 # Korean Grammar Point: ~뿐만 아니라 [ppunman anira] (Not only... but also)
-# Grammar Point: ~뿐만 아니라 [ppunman anira] (Not only... but also)
+
 ## 1. Introduction
-The grammar point ~뿐만 아니라 is used to express that there is more than one thing being mentioned, emphasizing the idea of "not only... but also." It is often used to add additional information or to stress the importance of both components in a sentence.
+The Korean grammar point **~뿐만 아니라** translates to **"not only... but also..."** in English. It's used to express that in addition to one thing, there is also another. This structure allows speakers to add emphasis and provide additional information, making their sentences more expressive and nuanced.
+
+---
 ## 2. Core Grammar Explanation
+### Meaning
+- **~뿐만 아니라** is used to indicate that **not only** the first item or action is true, **but also** the second one.
+- It emphasizes that multiple things apply in a situation.
+### Structure
+The structure varies slightly depending on whether you're attaching it to a **noun**, **verb**, or **adjective**.
+#### Formation Diagram
+**1. With Nouns:**
+```markdown
+[Noun] + 뿐만 아니라 + [noun/verb phrase]
+```
+**2. With Verbs/Adjectives:**
+```markdown
+[Verb/Adjective stem] + -(으)ㄹ 뿐만 아니라 + [noun/verb phrase]
+```
+- **Add '-을'** after consonants.
+- **Add '-ㄹ'** after vowels.
+---
 ### Detailed Explanation
-- **Meaning**: This grammar structure is used to link two statements, showing that what is stated in the first part is valid, but there is also an additional piece of information in the second part that is equally important.
-- **Structure**: 
-  - The structure is as follows:
-    - **[Noun/Verb/Adjective] + 뿐만 아니라 + [additional Noun/Verb/Adjective]**
-  - Depending on what is being expressed, the verb or adjective can take various forms.
-### Formation Diagram
-```
-[First Component] + 뿐만 아니라 + [Second Component]
-```
-For example:
-```
-한국 음식이 맛있다 + 뿐만 아니라 + 건강에도 좋다
-(“Korean food is delicious, not only that, but it is also good for health.”)
-```
+#### 1. Using with Nouns
+- **Attach directly** to the noun.
+**Example:**
+- **음악**뿐만 아니라 **미술**도 좋아해요.
+  - _I like not only music but also art._
+#### 2. Using with Verbs and Adjectives
+- **Attach -(으)ㄹ 뿐만 아니라** to the verb or adjective stem.
+**Rules:**
+- If the stem ends with a **consonant**, use **-을 뿐만 아니라**.
+- If the stem ends with a **vowel**, use **-ㄹ 뿐만 아니라**.
+**Examples:**
+- 공부**할** 뿐만 아니라 운동도 해요.
+  - _Not only does he study, but he also exercises._
+- 예쁘**ㄹ** 뿐만 아니라 똑똑해요.
+  - _She is not only pretty but also smart._
+---
 ## 3. Comparative Analysis
-Compared to other conjunctions such as ~뿐만 (ppunman) or ~뿐이다 (ppunida), which indicate "only," ~뿐만 아니라 adds the idea of inclusion and expansion of meaning. 
-- **~뿐만 (ppunman)**: This implies exclusivity. It means "only." 
-  - Example: "사과뿐만" (only apple).
-  
-- **~뿐이다 (ppunida)**: Stating something as being solely one thing, often seen with nouns.
-  - Example: "학생뿐이다" (only a student).
-In contrast, ~뿐만 아니라 invites additional elements, enhancing the statement.
+### Similar Grammar Points
+1. **-고 나서 (After...)**
+   - Indicates the sequence of actions.
+   - **Example:** 일하고 나서 집에 갔어요. (_After working, I went home._)
+2. **-뿐만 아니라... -도 (Not only... but also...)**
+   - Similar in meaning but emphasizes the inclusion by adding **-도** (_also_).
+   - **Example:** 그는 학생일 뿐만 아니라 선생님**도** 이에요.
+     - _He is not only a student but also a teacher._
+### Differences
+- **~뿐만 아니라** vs. **-고**
+  - **~뿐만 아니라** emphasizes addition, whereas **-고** simply connects actions or states.
+---
 ## 4. Examples in Context
-### Sentence Examples
-1. **Formal Context**: 
-   - 한국 음식이 맛있을 뿐만 아니라 건강에도 좋습니다.  
-   *(Korean food is not only delicious, but also good for health.)*
-2. **Informal Context**: 
-   - 그 영화는 재밌을 뿐만 아니라 감동적이야.  
-   *(That movie is not only fun, but also touching.)*
-3. **Written Context**: 
-   - 이 제품은 품질이 우수할 뿐만 아니라 가격도 저렴하다.  
-   *(This product is of excellent quality, and not only that, the price is also affordable.)*
-4. **Spoken Context**: 
-   - 그는 똑똑할 뿐만 아니라 성격도 좋아.  
-   *(He is not only smart, but also has a good personality.)*
+### Formal Situations
+1. **Conference Speech:**
+   - 이 연구는 혁신적**일 뿐만 아니라** 실용적입니다.
+     - _This research is not only innovative but also practical._
+2. **Business Meeting:**
+   - 우리 회사는 국내**뿐만 아니라** 해외에서도 인기가 있습니다.
+     - _Our company is popular not only domestically but also internationally._
+### Informal Conversations
+1. **With Friends:**
+   - 철수는 재미있**을 뿐만 아니라** 친절해.
+     - _Chul-soo is not only fun but also kind._
+2. **Casual Chatting:**
+   - 영화**뿐만 아니라** 드라마도 봐요?
+     - _Do you watch not only movies but also dramas?_
+### Written Language
+1. **Essay Writing:**
+   - 환경 오염은 미래**뿐만 아니라** 현재에도 큰 문제입니다.
+     - _Environmental pollution is a big problem not only for the future but also for the present._
+2. **News Article:**
+   - 이 법안은 경제**뿐만 아니라** 사회 전반에 영향을 미칠 것입니다.
+     - _This bill will affect not only the economy but also society as a whole._
+### Spoken Language
+1. **Daily Conversation:**
+   - 오늘은 춥**을 뿐만 아니라** 비도 와요.
+     - _Today, not only is it cold, but it's also raining._
+2. **Shopping:**
+   - 이 가게는 옷**뿐만 아니라** 신발도 팔아요.
+     - _This store sells not only clothes but also shoes._
+---
 ## 5. Cultural Notes
 ### Cultural Relevance
-Using ~뿐만 아니라 conveys a sense of balance and consideration in communication. In Korean culture, where harmony and inclusiveness are valued, this grammar point helps articulate the comprehensive attributes of someone or something, aligning with social norms for politeness and respect.
+- In Korean culture, expressing multiple related ideas in one sentence is common and shows linguistic proficiency.
+- Using structures like **~뿐만 아니라** adds depth to conversations and writing.
+### Politeness Levels
+- The usage remains the same across different politeness levels, but ensure verb endings match the appropriate level of formality.
+**Example:**
+- Formal: 할 뿐만 아니라 **합니다**.
+- Informal: 할 뿐만 아니라 **해요**.
 ### Idiomatic Expressions
-- Not applicable directly, but you can often find this structure in various forms of speech where expressing additional positive attributes is necessary.
+- Sometimes used in proverbs or idiomatic phrases.
+**Example:**
+- 보기만 할 뿐만 아니라 직접 참여하세요.
+  - _Don't just watch, but participate directly._
+---
 ## 6. Common Mistakes and Tips
-### Error Analysis
-1. **Omitting the "뿐만 아니라"**: Students sometimes forget to use the phrase when listing positives, creating incomplete comparisons.
-   - Incorrect: 한국 음식이 맛있다, 건강에도 좋다. (Is missing "뿐만 아니라")
-   - Correct: 한국 음식이 맛있을 뿐만 아니라 건강에도 좋다.
-### Learning Strategies
-- **Mnemonic Device**: Think of the phrase as a "bridge" that connects two islands (ideas). Visualize it as a structure that holds up two strong points.
+### Common Mistakes
+1. **Incorrect Attachment:**
+   - Attaching **~뿐만 아니라** incorrectly to verbs without the proper ending.
+   **Mistake:** 가다뿐만 아니라
+   **Correction:** 갈 뿐만 아니라
+2. **Incorrect Use of Endings:**
+   - Using the wrong particle or verb ending with the structure.
+   **Mistake:** 예뻐뿐만 아니라
+   **Correction:** 예쁠 뿐만 아니라
+### Tips
+- **Remember the Ending:** For verbs and adjectives, always add **-을/ㄹ** before **뿐만 아니라**.
+- **Practice with Common Verbs and Adjectives:** This helps solidify the pattern in your memory.
+---
 ## 7. Summary and Review
 ### Key Takeaways
-- **~뿐만 아니라** is used to express "not only... but also" to emphasize additional information.
-- It enhances statements by connecting them meaningfully.
-- It is essential to maintain the structure correctly to avoid ambiguity.
+- **~뿐만 아니라** means **"not only... but also..."**.
+- Attach directly to **nouns**, use **-을/ㄹ 뿐만 아니라** with **verbs/adjectives**.
+- Enhances sentences by adding additional, related information.
+- Pay attention to the stem endings when conjugating.
 ### Quick Recap Quiz
-1. What does ~뿐만 아니라 mean?
-2. Construct a sentence using ~뿐만 아니라.
-3. Compare ~뿐만 아니라 with another similar grammar point.
-By understanding ~뿐만 아니라, students can effectively communicate complex ideas and enhance their conversational skills in Korean!
+1. **Fill in the blank:**
+   그는 친절___ 뿐만 아니라 똑똑해요.
+   
+   **Answer:** 할 (그는 친절**할** 뿐만 아니라 똑똑해요.)
+2. **True or False:**
+   "~뿐만 아니라" can be used with both nouns and verbs.
+   
+   **Answer:** True
+3. **Translate to Korean:**
+   "She is not only a teacher but also a writer."
+   
+   **Answer:** 그녀는 선생님**뿐만 아니라** 작가입니다.
+---
+By mastering **~뿐만 아니라**, you can make your Korean sentences more expressive and detailed, effectively communicating multiple related ideas with ease.
+
+---
+© [Hanabira.org](https://hanabira.org)

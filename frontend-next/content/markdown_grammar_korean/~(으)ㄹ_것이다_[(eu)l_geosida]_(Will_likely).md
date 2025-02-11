@@ -1,75 +1,137 @@
 Processing keyword: ~(으)ㄹ 것이다 [(eu)l geosida] (Will likely)
 # Korean Grammar Point: ~(으)ㄹ 것이다 [(eu)l geosida] (Will likely)
-# TOPIK Grammar Point: ~(으)ㄹ 것이다
+
 ## 1. Introduction
-The grammar point ~(으)ㄹ 것이다 is used to express future actions or events that are likely to happen. It conveys a sense of inevitability or assumption regarding future situations.
+The Korean grammar point **~(으)ㄹ 것이다** (pronounced *[eu]l geosida*) is a fundamental structure used to express future actions or strong suppositions. It is equivalent to "will" or "probably will" in English. Mastering this grammar point is essential for conveying intentions, plans, and predictions in Korean.
 ## 2. Core Grammar Explanation
-### Detailed Explanation
-- **Meaning:** This form is used to talk about something that will probably happen in the future or express one's intention.
-- **Structure:** 
-  - The basic structure of this grammar point is: 
-    - Verb + (으)ㄹ 것이다
-    - In the case of adjectives, it combines similarly: Adjective stem + (으)ㄹ 것이다
+## Meaning and Usage
+### **Future Tense**
+- **Definition**: Indicates an action or event that will occur in the future.
+- **Example**: 저는 내일 여행을 갈 것입니다.  
+  *I will go on a trip tomorrow.*
+### **Supposition/Conjecture**
+- **Definition**: Expresses a strong assumption or guess about a situation.
+- **Example**: 비가 올 것입니다.  
+  *It will probably rain.*
+## Structure and Formation
 ### Formation Diagram
+For **verbs**:
+```markdown
+[Verb Stem] + ~(으)ㄹ 것이다
 ```
-           Future Tense
-               ↓
-       [Verb Stem] + (으)ㄹ 것이다 
-             /     \
-        Vowel Ending  Consonant Ending
-             |             |
-             (ㄹ 것이다)   (을 것이다)
-```
-### Visual Aids
-| Verb Stem   | Ending       | Example                       | Translation                |
-|-------------|--------------|-------------------------------|----------------------------|
-| 가다        | (ㄹ 것이다)  | 갈 것이다                     | (I) will go                |
-| 먹다        | (을 것이다)  | 먹을 것이다                   | (I) will eat               |
-| 마시다      | (ㄹ 것이다)  | 마실 것이다                   | (I) will drink             |
-| 예쁘다      | (ㄹ 것이다)  | 예쁠 것이다                   | (I) will be pretty         |
+### Formation Rules
+1. **If the verb stem ends with a vowel:**
+   - Attach **`-ㄹ 것이다`**.
+   - **Example**:
+     - 가다 (to go) → 가 + **-ㄹ 것이다** → 갈 것이다
+2. **If the verb stem ends with a consonant:**
+   - Attach **`-을 것이다`**.
+   - **Example**:
+     - 먹다 (to eat) → 먹 + **-을 것이다** → 먹을 것이다
+### Conjugation Table
+| Verb (Dictionary Form) | Verb Stem | Ending     | Resulting Form |
+|------------------------|-----------|------------|----------------|
+| 가다 (to go)           | 가         | -ㄹ 것이다 | 갈 것이다      |
+| 먹다 (to eat)          | 먹        | -을 것이다 | 먹을 것이다    |
+| 쓰다 (to write)        | 쓰        | -을 것이다 | 쓸 것이다      |
+| 보다 (to see)          | 보        | -ㄹ 것이다 | 볼 것이다      |
+| 읽다 (to read)         | 읽        | -을 것이다 | 읽을 것이다    |
+### Politeness Levels
+To adjust for politeness and formality, conjugate **것이다** appropriately:
+1. **Formal Polite (합니다체):**
+   - **습니다/ㅂ니다** style.
+   - **Example**: 갈 것입니다.
+2. **Informal Polite (해요체):**
+   - Use **거예요** (contraction of **것이에요**).
+   - **Example**: 갈 거예요.
+3. **Plain/Formal Written Style:**
+   - Use **것이다**.
+   - **Example**: 갈 것이다.
 ## 3. Comparative Analysis
-Similar expressions include:
-- **~겠다:** This form expresses strong intention or prediction. While ~(으)ㄹ 것이다 indicates likelihood or assumption, ~겠다 is more about one's firm decision. 
-  - Example: (가겠다) "I will go" (strong intention).
-- **~을/를 예정이다:** Suggests planned events. This is used when something is officially scheduled rather than likely.
-  - Example: (가기로 했다) "I have decided to go."
+## Comparison with Similar Grammar Points
+### **~겠~ (겠어요)**
+- **Usage**: Expresses the speaker's intention or immediate future action.
+- **Nuance**: More spontaneous or immediate than **~(으)ㄹ 것이다**.
+- **Example**: 지금 출발하겠습니다.  
+  *I will depart now.*
+### **~(으)려고 하다**
+- **Usage**: Indicates an intention or plan to do something.
+- **Nuance**: Focuses on the intention rather than the action itself.
+- **Example**: 내일 친구를 만나려고 합니다.  
+  *I intend to meet a friend tomorrow.*
+## Differences Highlighted
+- **~(으)ㄹ 것이다** emphasizes a future action or a supposition.
+- **~겠~** implies a strong will or immediate decision.
+- **~(으)려고 하다** stresses the intention or plan before the action.
 ## 4. Examples in Context
-### Sentence Examples
-1. **Formal Written:** 
-   - 내일 비가 올 것이다.
-   - (Nael biga ol geosida.)
-   - "It will likely rain tomorrow."
-2. **Formal Spoken:** 
-   - 그 사람은 이 일을 할 것이다.
-   - (Geu sarameun i il-eul hal geosida.)
-   - "That person will likely do this work."
-3. **Informal Spoken:** 
-   - 다음 주에 친구가 올 거야.
-   - (Daeum jue chinguga ol geoya.)
-   - "My friend will likely come next week."
-4. **Informal Written:** 
-   - 나중에 연락할 거야.
-   - (Najunge yeollakhalk geoya.)
-   - "I will probably contact you later."
+## Example Sentences
+### Formal Contexts
+1. **회의는 오후 3시에 시작할 것입니다.**  
+   *The meeting will start at 3 PM.*
+2. **그분은 내일 도착할 것입니다.**  
+   *He/She will arrive tomorrow.*
+### Informal Contexts
+1. **주말에 뭐 할 거예요?**  
+   *What will you do on the weekend?*
+2. **나는 저녁에 영화를 볼 거야.**  
+   *I'll watch a movie in the evening.*
+### Supposition Examples
+1. **길이 막힐 거예요.**  
+   *The traffic will probably be congested.*
+2. **그는 이미 집에 갔을 것입니다.**  
+   *He has probably already gone home.*
+## Various Contexts Table
+| Context             | Korean Sentence                             | English Translation                            |
+|---------------------|---------------------------------------------|------------------------------------------------|
+| Formal Written      | 이 제품은 내일부터 판매될 것입니다.           | This product will be sold starting tomorrow.   |
+| Casual Conversation | 너도 갈 거야?                                 | Are you going too?                             |
+| Prediction          | 내일 비가 올 것입니다.                         | It will rain tomorrow.                         |
+| Supposition         | 그녀는 아직 모를 거예요.                       | She probably doesn't know yet.                 |
+| Plan Announcement   | 우리는 다음 주에 이사할 것입니다.               | We will move next week.                        |
 ## 5. Cultural Notes
-### Cultural Relevance
-In Korean culture, the level of politeness greatly influences how this expression is used. Using the formal ending in professional settings or when speaking with elders is crucial. The informal version might be acceptable among friends but can be seen as disrespectful in more formal contexts.
-### Idiomatic Expressions
-- **할 생각이다** (hal saeng-gagida): "I think I will do it."
-- **아마~할 것이다** (ama~hal geosida): "I will probably do~.”
+## Cultural Relevance
+- **Formal Speech**: Using **~(으)ㄹ 것입니다** indicates a polite and formal tone, suitable for business, official announcements, and respectful conversations.
+- **Informal Speech**: The contracted form **~(으)ㄹ 거예요** is more common in everyday casual conversations.
+## Levels of Politeness
+- **Hierarchy Importance**: Korean language emphasizes respect and politeness, especially towards elders and superiors. Choosing the appropriate speech level is crucial.
+- **Business Settings**: In professional environments, using formal endings like **~(으)ㄹ 것입니다** reflects professionalism and respect.
+## Idiomatic Expressions
+- **잘 될 것입니다**: *It will go well.*  
+  Used to encourage or reassure someone about a future outcome.
+- **알게 될 것입니다**: *You will come to know.*  
+  Suggests that someone will understand or realize something in the future.
 ## 6. Common Mistakes and Tips
-### Error Analysis
-- **Confusion Between Formal and Informal:** Learners often mix formal and informal endings. It's important to choose the appropriate ending based on the context.
-- **Using with the Wrong Stem:** Some learners mistakenly use this ending with the wrong form of the verb (e.g., not recognizing vowel/consonant endings).
-### Learning Strategies
-- **Mnemonic Device:** Remember "(으)ㄹ 것이다" as "likely to happen."
-- **Practice with Future Plans:** Try making sentences about your future plans using this structure for reinforcement.
-## 7. Summary and Review
-### Key Takeaways
-- ~(으)ㄹ 것이다 is used to express likely future actions.
-- It is vital to consider the stem of the verb and the context (formal vs. informal) to apply it correctly.
-### Quick Recap Quiz
-1. What does ~(으)ㄹ 것이다 express?
-2. Translate the sentence: "내일 시험이 있을 것이다." 
-3. Which form would you likely use to express strong intention, ~(으)ㄹ 것이다 or ~겠다?
-Feel free to practice more with various verbs and expressions using this grammar point!
+## Common Mistakes
+1. **Incorrect Ending Attachment**
+   - **Error**: 먹다 → 먹ㄹ 것이다 ❌
+   - **Correction**: 먹다 (to eat) → 먹을 것이다 ✔️
+2. **Mixing Formality Levels**
+   - **Error**: 갈 것입니다 (formal) used in casual conversation.
+   - **Tip**: Use **갈 거예요** for informal polite situations.
+3. **Confusing with Past Tense**
+   - Remember that **~(으)ㄹ 것이다** is for future actions, not past events.
+## Learning Strategies
+- **Mnemonic Device**: For verbs ending with a vowel, think "**V**owel → **-ㄹ 것이다**".
+- **Practice with Common Verbs**: Regularly conjugate frequently used verbs to become familiar with the patterns.
+- **Listening and Imitation**: Listen to native speakers and imitate their usage in different contexts.
+# 7. Summary and Review
+## Key Takeaways
+- **Usage**: **~(으)ㄹ 것이다** is used to express future actions or strong suppositions.
+- **Formality**: Adjust the ending **것이다** to match the appropriate politeness level.
+- **Formation**:
+  - Verb stems ending with a **vowel**: Attach **-ㄹ 것이다**.
+  - Verb stems ending with a **consonant**: Attach **-을 것이다**.
+- **Context**: Essential for discussing future plans, making predictions, and expressing assumptions in Korean.
+## Quick Recap Quiz
+1. **Question**: How do you conjugate **읽다 (to read)** using **~(으)ㄹ 것이다**?
+   **Answer**: 읽을 것이다
+2. **Question**: What is the informal polite form of **갈 것입니다**?
+   **Answer**: 갈 거예요
+3. **Question**: True or False? **~(으)ㄹ 것이다** can only be used for actions that the speaker will personally do.
+   **Answer**: False (It can be used for any future actions or suppositions, regardless of who performs them.)
+
+---
+By understanding and practicing **~(으)ㄹ 것이다**, you enhance your ability to communicate about future events and express assumptions, which is crucial for fluency in Korean.
+
+---
+© [Hanabira.org](https://hanabira.org)

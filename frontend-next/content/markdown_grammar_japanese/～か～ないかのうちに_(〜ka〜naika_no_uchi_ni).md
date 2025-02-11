@@ -1,64 +1,111 @@
 Processing keyword: ～か～ないかのうちに (〜ka〜naika no uchi ni)
 # Japanese Grammar Point: ～か～ないかのうちに (〜ka〜naika no uchi ni)
-# Japanese Grammar Point: ～か～ないかのうちに (〜ka〜naika no uchi ni)
-## Introduction
-The construction ～か～ないかのうちに is used to express a situation where two events happen in quick succession, suggesting that one action occurs just before or just after another action. It can be translated to "just as; no sooner than" in English.
-## Core Grammar Explanation
-### Detailed Explanation
-1. **Meaning**: This grammar point indicates that one action occurs almost immediately after or simultaneously with another action, highlighting their close temporal relationship.
-2. **Structure**:
-   - The structure is formed as follows:
-     - **Verb (casual form) + か + Verb (negative form) + のうちに**
-   - The first verb is typically in its informal form (casual present), and the second verb is in the negative form (indicative of the action not happening).
-3. **Formation Diagram**:
-   ```
-   Action 1 (Verb casual form) + か + Action 2 (Verb negative form) + のうちに
-   ```
-### Visual Aids
-| Action 1         | Action 2          | Translation                       |
-|------------------|-------------------|-----------------------------------|
-| 起きる (okiru)   | 起きない (okinai) | "Just as I woke up, (something happened)" |
-| 食べる (taberu)  | 食べない (tabenai)| "No sooner had I eaten, (than something happened)" |
-## Comparative Analysis
-- **Similar Grammar Points**:
-  - ～たら (tara): This implies a conditional ("if/when") but does not strongly indicate the immediacy between actions.
-  - ～と (to): Similar to ～たら, but can also indicate general actions or predictable results rather than just immediate succession.
-### Differences:
-- The key difference is that ～か～ないかのうちに focuses on the immediacy of the interactions, while the other constructions do not necessarily imply a close timing.
-## Examples in Context
-### Sentence Examples
-1. **Formal Context**:
-   - **Japanese**: 先生が教室に入るか入らないかのうちに、学生たちは静かになった。
-   - **Translation**: No sooner had the teacher entered the classroom than the students became quiet.
-2. **Informal Context**:
-   - **Japanese**: 彼が電話をかけるかけないかのうちに、もう寝ちゃった。
-   - **Translation**: Just as he was about to make a phone call, I already fell asleep.
-3. **Written Context**:
-   - **Japanese**: 雨が降るか降らないかのうちに、私たちは出発した。
-   - **Translation**: We left just as the rain was about to start.
-4. **Spoken Context**:
-   - **Japanese**: 彼女が笑うか笑わないかのうちに、私は冗談を言った。
-   - **Translation**: Just as she was about to laugh, I made a joke.
-## Cultural Notes
-### Cultural Relevance
-This grammar point underscores the importance of timing and responsiveness in Japanese culture. It reflects the nuances in social interactions, where reactions to an event can be contextually significant.
+
+## 1. Introduction
+In this lesson, we'll explore the Japanese grammar point **～か～ないかのうちに (〜ka〜naika no uchi ni)**. This expression is used to indicate that one action happens **almost simultaneously** with another action, emphasizing the immediacy between the two events.
+
+---
+## 2. Core Grammar Explanation
+### Meaning
+**～か～ないかのうちに** conveys the meaning of "as soon as" or "just barely... when...". It highlights that the second action occurs **right after** the first action, sometimes **even before** the first action is fully completed.
+### Structure
+The structure of this grammar point is as follows:
+```
+[Verb (Dictionary Form)] + か + [Verb (ない-form without ない)] + ないかのうちに + [Second Action]
+```
+- The same verb is used before and after **か**.
+- The verb before **ないかのうちに** is in the negative form **without** the **ない**.
+### Formation Diagram
+| Component                  | Explanation                         |
+|----------------------------|-------------------------------------|
+| Verb (Dictionary Form)     | The base form of the first action   |
+| か                          | Question particle "ka"              |
+| Verb (ない-form without ない)| Negative stem of the verb           |
+| ないかのうちに               | Fixed expression meaning "before one realizes"|
+| Second Action              | The action that occurs immediately after |
+### Example:
+If we use the verb **始まる (to start)**:
+```
+始まるか始まらないかのうちに
+```
+---
+## 3. Comparative Analysis
+### ～た途端（とたん）に vs. ～か～ないかのうちに
+Both expressions convey immediacy between two actions, but there are subtle differences:
+| Grammar Point          | Usage                                      | Nuance                                        |
+|------------------------|--------------------------------------------|-----------------------------------------------|
+| ～た途端に              | Action B occurs **exactly at the moment** Action A is completed | Emphasizes suddenness of Action B |
+| ～か～ないかのうちに     | Action B occurs **almost simultaneously**, possibly **before** Action A is completed | Emphasizes overlap between actions |
+---
+## 4. Examples in Context
+### Example Sentences
+1. **電車が止まるか止まらないかのうちに、乗客がドアに殺到した。**
+   *Translation:* *As soon as the train came to a stop, passengers rushed to the door.*
+2. **ベルが鳴るか鳴らないかのうちに、学生たちは教室を飛び出した。**
+   *Translation:* *The moment the bell rang, the students dashed out of the classroom.*
+3. **雨が降り出すか降り出さないかのうちに、雷が鳴り始めた。**
+   *Translation:* *Just as it started to rain, thunder began to roll.*
+4. **彼女が店を出るか出ないかのうちに、忘れ物に気づいた。**
+   *Translation:* *She realized she forgot something immediately after leaving the store.*
+5. **布団に入るか入らないかのうちに、眠りに落ちた。**
+   *Translation:* *I fell asleep almost as soon as I got into bed.*
+### Context Variations
+- **Formal Written:**
+  **試合が始まるか始まらないかのうちに、雨が降り出した。**
+  *Translation:* *No sooner had the game started than it began to rain.*
+- **Informal Spoken:**
+  **食べ終わるか終わらないかのうちに、またお腹が空いた。**
+  *Translation:* *I was hungry again almost immediately after finishing eating.*
+---
+## 5. Cultural Notes
 ### Levels of Politeness
-In formal situations, it's advisable to use polite forms of verbs since they emphasize respect towards the listener or subject involved in the actions.
+- This grammar point is neutral and can be used in both formal and informal contexts.
+- Adjust the verb forms and vocabulary to match the desired level of politeness.
 ### Idiomatic Expressions
-While there aren't direct idioms using this structure, its usage is often implied in narratives to convey heightened dynamics between characters or events.
-## Common Mistakes and Tips
+- **寝るか寝ないかのうちに**
+  *Meaning:* "Hardly had I gone to sleep..."
+---
+## 6. Common Mistakes and Tips
 ### Error Analysis
-- **Common Mistake**: Using the た form instead of the informal form. Remember, the first verb should remain in casual present form, while the second must be in negative form.
-- **Example Error**: 彼は来たか来ないのうちに... (Incorrect)
+1. **Using different verbs before and after か**
+   - **Incorrect:** 行くか来ないかのうちに
+   - **Correct:** 行くか行かないかのうちに
+   *Tip:* Use the **same verb** before and after **か**.
+2. **Incorrect verb forms**
+   - **Incorrect:** 食べるか食べないかうちに
+   - **Correct:** 食べるか食べないかのうちに
+   *Tip:* Don't forget the **の** particle before **うちに**.
 ### Learning Strategies
-- **Mnemonic Device**: Think of "Kani" - "just before/just as," to remember that this structure reflects immediacy and pending actions.
-## Summary and Review
+- **Mnemonic Device:** Think of **"Whether or not (verb), immediately..."** to remember that the action happens almost simultaneously.
+- **Practice Pattern:**
+  ```
+  [Verb Dictionary Form] + か + [Same Verb Negative Stem] + ないかのうちに + [Second Action]
+  ```
+---
+## 7. Summary and Review
 ### Key Takeaways
-- The construction ～か～ないかのうちに indicates two actions occurring in quick succession.
-- It uses the informal form of the first verb and the negative form of the second verb.
-- It is useful for narrative techniques in storytelling or describing events.
+- **～か～ないかのうちに** expresses that the second action occurs **almost at the same time** as the first action.
+- The **same verb** is used before **か** and before **ないかのうちに**.
+- It emphasizes the immediacy and sometimes the overlapping of the two actions.
 ### Quick Recap Quiz
-1. What does ～か～ないかのうちに mean?
-2. What is the correct formation for the first verb in this structure?
-3. Give an example of an informal context using this grammar point.
-These components help reinforce understanding and usage of the construction, making it easier to incorporate into everyday conversation and writing.
+1. **Fill in the blanks to complete the structure:**
+   ```
+   [Verb (_______)] + か + [Verb (_______)] + ないかのうちに + [Second Action]
+   ```
+2. **True or False:**
+   - It's acceptable to use different verbs before and after **か**.
+3. **Translate the following sentence:**
+   ```
+   映画が始まるか始まらないかのうちに、彼は寝てしまった。
+   ```
+### Answers:
+1. [Verb (**Dictionary Form**)] + か + [Verb (**ない-form without ない**)]
+2. False
+3. *He fell asleep almost as soon as the movie started.*
+---
+By understanding and practicing **～か～ないかのうちに**, you can express actions that occur in rapid succession with greater nuance and fluency in Japanese. Keep practicing with different verbs to become more comfortable with this grammar pattern!
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

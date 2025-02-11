@@ -1,72 +1,107 @@
 Processing keyword: ~거니와 [geoniwa] (And, besides)
 # Korean Grammar Point: ~거니와 [geoniwa] (And, besides)
-# Grammar Point: ~거니와 [geoniwa] (And, besides)
+
 ## 1. Introduction
-The Korean grammar point ~거니와 [geoniwa] is used to connect two clauses or phrases, indicating that not only is the first clause true, but the second clause adds additional information or context that reinforces or elaborates on the first. It can be translated as "and," "besides," or "as well as" in English.
+In Korean, expressing multiple related thoughts in a sentence can enhance fluency and coherence. The grammar point **~거니와** is used to connect clauses, indicating that not only is the first statement true, but the second one is also true. It is akin to saying "and," "besides," or "not only... but also..." in English.
+
+---
 ## 2. Core Grammar Explanation
-### Detailed Explanation
-- **Meaning**: The structure is often used to show that the speaker is adding extra information that is relevant or enhances the preceding statement.
-- **Structure**: The ~거니와 construction is typically attached to the verb or adjective stem (the verb/adjective in its dictionary form minus 다) and follows it directly.
-  
+### Meaning
+**~거니와** connects two clauses to emphasize that both statements are true, with the second clause often intensifying or adding to the first. It translates to "and," "as well as," or "not only... but also..."
+### Structure
+The structure of **~거니와** is as follows:
+| **Verb/Adjective Stem** | + | **~거니와** | + | **Additional Clause** |
+|-------------------------|---|------------|---|-----------------------|
+| 가다 (to go)             |   | 가거니와     |   | ...                   |
+| 예쁘다 (to be pretty)    |   | 예쁘거니와   |   | ...                   |
 ### Formation Diagram
 ```
-[Verb/Adjective Stem] + 거니와 + [Additional Information]
+[Clause A (Verb/Adjective Stem + 거니와)] + [Clause B]
 ```
-  
-| Part       | Example                                        |
-|------------|------------------------------------------------|
-| Verb Stem  | 공부하 + 거니와 → 공부하거니와 (studying and)     |
-| Adj. Stem  | 예쁘 + 거니와 → 예쁘거니와 (is pretty and)         |
-| Additional | 밥도 잘 해요. → (I cook well too.)              |
+- **Clause A**: The first statement.
+- **Clause B**: The second statement that adds information or emphasis.
+### Conjugation Rules
+1. **For Verbs and Adjectives**: Attach **~거니와** directly to the stem.
+   - 받다 (to receive) → 받거니와
+   - 크다 (to be big) → 크거니와
+2. **For Nouns**: Attach **~이거니와** if the noun ends with a consonant, or **~거니와** if it ends with a vowel.
+   - 학생 (student) → 학생이거니와
+   - 친구 (friend) → 친구거니와
+---
 ## 3. Comparative Analysis
 ### Comparison with Similar Grammar Points
-1. **~고 [go]**: This connector simply means "and" without the added nuance of additional information. Example: 
-   - 저는 학생이에요. **그리고** 저는 한국어를 공부해요. (I am a student. **And** I study Korean.)
-2. **~뿐만 아니라 [ppunman anira]**: This phrase means "not only... but also," which is similar to ~거니와 but is often used in more formal contexts.
-   - 저는 한국어 뿐만 아니라 영어도 할 수 있어요. (I can speak not only Korean but also English.)
-### Nuance
-While both ~거니와 and ~뿐만 아니라 convey a sense of addition, ~거니와 is more conversational and versatile for day-to-day use, while ~뿐만 아니라 may sound more formal.
+| Grammar Point | Usage                                    | Example                                  |
+|---------------|------------------------------------------|------------------------------------------|
+| ~거니와        | Connects clauses, both statements true   | 날씨가 춥거니와 바람도 많이 분다.            |
+| ~뿐만 아니라   | "Not only... but also..."                | 그는 똑똑할 뿐만 아니라 성격도 좋다.        |
+| ~고           | Simple "and" connector between actions   | 책을 읽고 음악을 듣는다.                   |
+**Difference**:
+- **~거니와** emphasizes that both clauses are true and often used in formal contexts.
+- **~뿐만 아니라** similarly means "not only... but also..." but is more commonly used.
+- **~고** simply lists actions or states without emphasis.
+---
 ## 4. Examples in Context
-### Sentence Examples
-1. **Informal Context**:
-   - 영화가 너무 재미있었어. 그거니와 음악도 정말 좋았어.
-     - (The movie was really fun. **Besides**, the music was really good.)
+### Formal Written
+1. **환경오염이 심각하거니와 자원도 고갈되고 있다.**
+   - *Not only is environmental pollution severe, but resources are also depleting.*
+   
+2. **그는 재능이 뛰어나거니와 노력도 게을리하지 않는다.**
+   - *He not only has outstanding talent but also doesn't neglect hard work.*
+### Formal Spoken
+1. **이번 프로젝트는 예산이 부족하거니와 인력도 모자랍니다.**
+   - *This project not only lacks budget but also is short of manpower.*
   
-2. **Formal Context**:
-   - 그 연구 결과는 흥미롭습니다. 거니와 관련 분야에서도 중요한 기여를 했습니다.
-     - (The research results are interesting. **And**, they have made significant contributions in related fields.)
-3. **Written Context**:
-   - 이 책은 내용이 알차고, 거니와 그림도 아름답습니다.
-     - (This book is rich in content and, **besides**, the illustrations are beautiful.)
-4. **Spoken Context**:
-   - 오늘 날씨도 좋고, 거니와 친구들도 많이 왔어!
-     - (The weather is nice today, **and** many friends came too!)
+2. **제품의 품질이 우수하거니와 가격도 합리적입니다.**
+   - *The product not only has excellent quality but also is reasonably priced.*
+### Informal Written
+1. **그 영화는 스토리가 재미있거니와 배우들도 훌륭하다.**
+   - *That movie not only has an interesting story but also great actors.*
+2. **여름은 덥거니와 습해서 참 힘들다.**
+   - *Summer is not only hot but also humid, so it's really tough.*
+### Informal Spoken
+1. **이 식당은 음식이 맛있거니와 분위기도 좋아.**
+   - *This restaurant not only has delicious food but also a good atmosphere.*
+2. **그 친구는 성격이 좋거니와 유머 감각도 뛰어나.**
+   - *That friend not only has a good personality but also a great sense of humor.*
+---
 ## 5. Cultural Notes
 ### Cultural Relevance
-- In Korean culture, emphasizing additional positive aspects during conversations or presentations is common to promote harmony and positivity. This grammar point is useful for enhancing statements and fostering a more engaging dialogue.
-### Levels of Politeness
-- The usage of ~거니와 can vary in politeness depending on the context. For formal settings, ensure that the surrounding sentences maintain a respectful formality.
-### Idiomatic Expressions
-- Although direct idioms with ~거니와 are rare, the structure can be found in various expressions where affirmation and enhancement are essential.
-## 6. Common Mistakes and Tips
-### Error Analysis
-- **Omitting Subject**: Often, learners may omit the subject in the second clause leading to confusion.
-  - Incorrect: 영화가 재미있었어, **거니와** 맛있었어.
-  - Correct: 영화가 재미있었어, **거니와** 음식도 맛있었어. (The movie was fun, **and the food was delicious**.)
-### Learning Strategies
-- **Mnemonic Device**: Remember "Geoniwa connects and expands," which helps recall that it not only connects but also enhances information in conversations.
+- **Emphasis in Communication**: In Korean culture, emphasizing multiple positive or negative aspects strengthens the message. **~거니와** serves this purpose by combining related statements.
   
+### Levels of Politeness and Formality
+- **Formality**: **~거니와** is more commonly used in written and formal contexts.
+- In **spoken informal language**, people might prefer using **~뿐만 아니라** or simply **~고**.
+### Idiomatic Expressions
+- While **~거니와** itself is not idiomatic, it can be found in formal speeches or writings to emphasize points.
+---
+## 6. Common Mistakes and Tips
+### Common Mistakes
+1. **Using ~거니와 in Informal Speech Incorrectly**
+   - Incorrect: *이 영화 좋거니와 재미있어.*
+   - Correct: *이 영화 좋고 재미있어.* (In casual speech, using **~고** is more natural.)
+2. **Misplacing the Conjugation**
+   - Incorrect: *좋니와 거...*
+   - Correct: *좋거니와...*
+### Tips
+- **Remember the Formality**: Use **~거니와** in formal settings to impress with advanced grammar.
+- **Think of Emphasis**: When you want to strongly highlight that both clauses are true and connected, **~거니와** is appropriate.
+---
 ## 7. Summary and Review
 ### Key Takeaways
-- ~거니와 is used to connect clauses with an added emphasis, using "and" or "besides."
-- It is often more conversational in nature and can be used effectively in both spoken and written Korean.
-- Be mindful of the context and levels of politeness while using it.
+- **~거니와** connects two clauses where both are true, adding emphasis.
+- It is often used in formal writing and speeches.
+- It translates to "and," "besides," or "not only... but also..."
 ### Quick Recap Quiz
-1. How do you form ~거니와?  
-   - Answer: Attach it to the verb/adjective stem.
-   
-2. Is ~거니와 more formal or informal compared to ~뿐만 아니라?  
-   - Answer: More informal.
-3. Provide an example sentence using ~거니와.  
-   - Answer: [Student's answer may vary; example: "저는 영어를 잘해요. 거니와 한국어도 공부했어요."]
-This structured approach aims to provide clear insights into the grammar point ~거니와, ensuring a comprehensive understanding of its usage in various contexts.
+1. **Fill in the blank**: 날씨가 춥____ 바람도 많이 분다.
+   - **Answer**: 거니와
+2. **True or False**: **~거니와** is commonly used in casual spoken Korean.
+   - **Answer**: False
+3. **Choose the correct usage**:
+   - a) 그는 친절니와 똑똑하다.
+   - b) 그는 친절거니와 똑똑하다.
+   - **Answer**: b) 그는 친절거니와 똑똑하다.
+---
+By understanding and practicing **~거니와**, you can enhance your Korean skills, especially in formal communication!
+
+---
+© [Hanabira.org](https://hanabira.org)

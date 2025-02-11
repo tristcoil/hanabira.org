@@ -1,68 +1,109 @@
 Processing keyword: ～にしては (〜ni shite wa)
 # Japanese Grammar Point: ～にしては (〜ni shite wa)
-# Grammar Point: ～にしては (〜ni shite wa)
+
 ## 1. Introduction
-The grammar point ～にしては is used to express a contrast or unexpected outcome. It can be translated as "considering" or "for" in English, often suggesting that something is surprising given the circumstances.
+The grammar point **～にしては (〜ni shite wa)** is a Japanese expression used to indicate that something is unexpected or surprising, considering the standard or norm set by the preceding phrase. It can be translated as "considering", "for", or "given" in English.
+
+---
 ## 2. Core Grammar Explanation
-### Detailed Explanation
-- **Meaning**: It is used to indicate that something is surprising or doesn't quite match the expectations based on a given reference point.
-- **Structure**: 
-   - **AにしてはB** 
-   - Here, A is the standard or reference point, and B is the surprising outcome.
-### Formation Diagram
+### Meaning
+**～にしては** is used when the outcome or situation is different from what one would normally expect based on the information before **にしては**. It expresses a sense of contradiction between expectations and reality.
+- **Translation equivalents**: "for", "considering", "even though", "despite"
+### Structure
+#### Formation Diagram
 ```
-A (reference) + にしては (ni shite wa) + B (unexpected result)
+[Verb (casual form)] + にしては
+[Noun] + にしては
 ```
-### Visual Aid
-| Reference Point (A) | Grammar (にしては) | Unexpected Outcome (B) |
-|----------------------|--------------------|------------------------|
-| 彼 (Kare - he)       | にしては            | すごく話が上手だ (Sugoku hanashi ga jōzu da - he's very good at talking) |
+#### Components
+- **Verb (casual form)**: Plain form of the verb (past or present)
+- **Noun**: Any noun representing a standard or expectation
+- **にしては**: Particle indicating contradiction or unexpectedness
+### Examples of Formation
+- **Verb example**: 食べたにしては (tabeta ni shite wa) - "Considering (I) ate"
+- **Noun example**: 初心者にしては (shoshinsha ni shite wa) - "For a beginner"
+---
 ## 3. Comparative Analysis
-### Comparison with Similar Grammar Points
-- **〜に対して (ni taishite)**: This emphasizes the contrast but is more neutral, while ～にしては suggests surprise.
-    - *Example*: 日本人に対しては、日本文化に詳しいです (Nihonjin ni taishite wa, Nihon bunka ni kuwashii desu - Regarding Japanese people, [I] am well-versed in Japanese culture.)
-- **〜としては (to shite wa)**: Used to refer to a person's role or status, while ～にしては adds a sense of expectation.
-    - *Example*: 教師としては、彼は素晴らしい (Kyoushi to shite wa, kare wa subarashii - As a teacher, he is wonderful.)
+### ～わりに (〜wari ni)
+Both **～にしては** and **～わりに** express a contrast between expectation and reality.
+- **～にしては**: Emphasizes that something is *unexpectedly* different from the standard.
+- **～わりに**: Indicates that something is different from what one would normally think, often used with a sense of proportionality.
+**Example Comparison**
+- **にしては**: 彼は新人にしては仕事が上手です。
+  - "He is good at his job *for* a newcomer." (Surprisingly good)
+- **わりに**: 彼は年齢のわりに落ち着いている。
+  - "He is calm *considering* his age." (Proportionally calm)
+---
 ## 4. Examples in Context
-### Sentence Examples
-1. **Formal Context**: 
-   - この料理は簡単に作れるにしては、とても美味しいです。  
-   (Kono ryouri wa kantan ni tsukureru ni shite wa, totemo oishii desu.)  
-   *Translation*: Considering that this dish is easy to make, it is very delicious.
-2. **Informal Context**: 
-   - 彼女は学生にしては、すごくお金持ちだよ！  
-   (Kanojo wa gakusei ni shite wa, sugoku okanemochi da yo!)  
-   *Translation*: For a student, she is really rich!
-3. **Written Context**: 
-   - この小説は初心者にしては、内容が難しい。  
-   (Kono shōsetsu wa shoshinsha ni shite wa, naiyou ga muzukashii.)  
-   *Translation*: This novel is difficult for beginners.
-4. **Spoken Context**: 
-   - その映画は子供にしては、ちょっと怖いかもね。  
-   (Sono eiga wa kodomo ni shite wa, chotto kowai kamo ne.)  
-   *Translation*: That movie might be a bit scary for kids.
+### Example Sentences
+1. **彼は日本人にしては背が高い。**
+   - *Kare wa Nihonjin ni shite wa se ga takai.*
+   - **Translation**: He is tall for a Japanese person.
+2. **初めて作ったにしてはおいしくできた。**
+   - *Hajimete tsukutta ni shite wa oishiku dekita.*
+   - **Translation**: Considering it's my first time making it, it turned out delicious.
+3. **雨が降ったにしては道が乾いている。**
+   - *Ame ga futta ni shite wa michi ga kawaite iru.*
+   - **Translation**: Despite the fact that it rained, the roads are dry.
+4. **彼女は初心者にしてはとても上手に運転できます。**
+   - *Kanojo wa shoshinsha ni shite wa totemo jōzu ni unten dekimasu.*
+   - **Translation**: She can drive very well for a beginner.
+5. **今日は夏にしては涼しい。**
+   - *Kyō wa natsu ni shite wa suzushii.*
+   - **Translation**: It's cool today for summer.
+### Context Variations
+- **Formal Speech**: Usage remains the same; politeness is adjusted in verbs and endings.
+- **Informal Speech**: Common in daily conversations among friends or family.
+- **Written Language**: Used in essays or articles to express unexpected findings or observations.
+---
 ## 5. Cultural Notes
 ### Cultural Relevance
-Using ～にしては shows an awareness of expectations based on societal norms. In Japanese culture, acknowledging someone's status or context is important, and using this grammar point reflects the speaker's sensitivity to those norms.
+Understanding **～にしては** helps in comprehending Japanese expectations and norms. For example, saying someone is "tall for a Japanese person" acknowledges general height trends in Japan.
 ### Levels of Politeness
-- **Casual Usage**: Suitable for speaking with friends or peers.
-- **Formal Usage**: Can be adjusted for politeness, but context usually defines tone.
-### Idiomatic Expressions
-- *「彼にしては、信じられないことだ」*: "For him, it's unbelievable."
+The politeness in sentences using **～にしては** depends on the surrounding verbs and context. **～にしては** itself is neutral and can be used in both polite and casual speech.
+
+---
 ## 6. Common Mistakes and Tips
-### Error Analysis
-- Misusing with non-comparative statements or confusing it with other grammar points. 
-    - **Mistake**: 彼はいい人にしては、時々悪いことをする (Doesn’t correctly contrast).
-    - **Correction**: 彼はいい人にしては、時々意地悪をする (Correctly reflects surprise or expectation).
+### Common Mistakes
+1. **Confusing with ～としては (〜toshite wa):**
+   - **～としては** means "as" or "in the capacity of."
+   - **Tip**: Remember that **～にしては** implies a contrast, whereas **～としては** indicates a role or capacity.
+2. **Using it without a standard for comparison:**
+   - **Incorrect**: 彼はにしては優しい。
+     - Missing the standard. *For what* is he kind?
+   - **Correct**: 彼は見た目にしては優しい。
+     - "He is kind considering his appearance."
 ### Learning Strategies
-- **Mnemonic Device**: Think of "ni shite wa" as "considering [something]." This helps link it to the unexpected outcome.
+- **Mnemonic Device**: Think of **にしては** as "Into (に) considering (しては)," where you're stepping into someone/something to consider an unexpected result.
+- **Practice**: Create sentences comparing expectations vs reality in your daily life.
+---
 ## 7. Summary and Review
 ### Key Takeaways
-- ～にしては indicates surprise related to expectations based on a reference.
-- Structure: AにしてはB.
-- Common in both spoken and written Japanese.
+- **～にしては** is used to express an unexpected result based on a certain standard.
+- It often translates to "for", "considering", or "despite."
+- It requires a noun or verb before it that sets up the expectation.
 ### Quick Recap Quiz
-1. How do you use ～にしては in a sentence?
-2. What is a common mistake when using this grammar point?
-3. Can ～にしては be used in both formal and informal contexts?
-Feel free to reflect on the answers or ask about specific examples to further clarify your understanding!
+1. **Fill in the blank:**
+   - 子供___してはよく知っている。
+   - a) に
+   - b) にしては
+   - c) としては
+2. **True or False:**
+   - **～にしては** and **～としては** have the same meaning.
+3. **Choose the correct translation for the following sentence:**
+   - 彼は運動したにしてはあまり汗をかいていない。
+     - a) He didn't sweat much even though he exercised.
+     - b) He sweated a lot because he exercised.
+     - c) Considering he didn't exercise, he sweated a lot.
+---
+### Answers
+1. **b) にしては**
+2. **False**
+3. **a) He didn't sweat much even though he exercised.**
+---
+By understanding and practicing **～にしては**, you can more accurately express contrasts between expectations and reality in Japanese.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

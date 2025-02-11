@@ -1,73 +1,101 @@
 Processing keyword: Noun ですら (~desura)
 # Japanese Grammar Point: Noun ですら (~desura)
-# JLPT Grammar Point: Noun ですら (~desura)
+
 ## 1. Introduction
-The grammar point "ですら" (desura) is a phrase used in Japanese to express "even" or "as much as." It emphasizes that something is true to an extent that it may be surprising or unexpected. This structure is often used to indicate a contrast with common expectations.
+The grammar point **～ですら** is used in Japanese to emphasize that something is true **even** in an extreme or unexpected case. It often highlights surprising information or expresses that a situation applies even to the most unlikely examples.
+
 ---
 ## 2. Core Grammar Explanation
-### Detailed Explanation
-- The structure "Noun ですら" (Noun desura) combines a noun with "ですら" to highlight that even the stated noun is included or noteworthy in the context of what follows.
-- It implies a sense of surprise or emphasis on the significance of the noun being mentioned.
-### Meaning and Structure
-- **Meaning**: "Even [noun]", "As much as [noun]"
-- **Structure**: 
-    - [Noun] + ですら
-    - Used to emphasize the noun's unexpected significance in comparison to other items in the same context.
+### Meaning
+- **～ですら** translates to "**even**" in English.
+- It emphasizes that the statement applies even to the extreme case of the noun it follows.
+### Structure
+The structure for using **～ですら** is straightforward:
+```
+Noun + ですら
+```
+- **Noun**: Any noun to which the emphasis applies.
+- **ですら**: A particle indicating "even".
 ### Formation Diagram
+```markdown
+[ Noun ] + ですら
 ```
-   +--------------------+
-   | Noun               |
-   +--------------------+
-            |
-            v
-  +-------------------+
-  | ですら (desura)   |
-  +-------------------+
-```
+### Visual Aid
+| Component | Role                      |
+|-----------|---------------------------|
+| Noun      | The subject being emphasized |
+| ですら    | Particle meaning "even"    |
 ---
 ## 3. Comparative Analysis
-- **Similar Grammar Points**:
-  - **さえ (sae)**: Also means "even" but is used with verbs and adjectives, emphasizing a similar sense of surprise.
-  - **すら (sura)**: This is a more informal version used in spoken Japanese, whereas "ですら" is more polite.
-- **Nuances**:
-  - "ですら" conveys a more formal tone compared to "すら."
-  - "さえ" can convey a more extreme form of "even," suitable for scenarios involving larger emphasis or surprise.
+**～ですら** vs. **～さえ**
+- Both **ですら** and **さえ** mean "even" and are used to emphasize unexpected or extreme examples.
+- **ですら** is considered slightly more formal or literary than **さえ**.
+- **さえ** can be used in more casual contexts and can attach to verbs and adjectives with additional grammar, whereas **ですら** is primarily used with nouns.
+| Grammar Point | Usage                                  | Formality |
+|---------------|----------------------------------------|-----------|
+| ～ですら      | Emphasizes "even" with nouns           | Formal    |
+| ～さえ        | Emphasizes "even" with nouns and verbs | Informal  |
 ---
 ## 4. Examples in Context
-### Sentence Examples:
-1. **Formal**:
-   - 日本の首相ですら、その問題について答えられなかった。
-   - *Nihon no shushou desura, sono mondai ni tsuite kotaerarenakatta.*
-   - "Even the Prime Minister of Japan could not answer that question."
-2. **Informal**:
-   - あなたですら、それを知らないの？
-   - *Anata desura, sore o shiranai no?*
-   - "Even you don’t know that?"
-3. **Written Context**:
-   - 彼女は忙しい学生ですら、毎日運動をしています。
-   - *Kanojo wa isogashii gakusei desura, mainichi undou o shiteimasu.*
-   - "Even busy students exercise every day."
+### Example Sentences
+1. **忙しくて、食事ですら取れない。**
+   *Isogashikute, shokuji desura torenai.*
+   "I'm so busy that I can't **even** have a meal."
+2. **彼は自分の名前ですら忘れてしまった。**
+   *Kare wa jibun no namae desura wasurete shimatta.*
+   "He forgot **even** his own name."
+3. **この問題は専門家ですら解けない。**
+   *Kono mondai wa senmonka desura tokenai.*
+   "**Even** experts cannot solve this problem."
+4. **彼女はひらがなですら読めない。**
+   *Kanojo wa hiragana desura yomenai.*
+   "She can't **even** read hiragana."
+5. **その出来事は子供ですら知っている。**
+   *Sono dekigoto wa kodomo desura shitte iru.*
+   "**Even** children know about that incident."
+### Contextual Notes
+- The use of **ですら** adds emphasis, highlighting that the noun is an extreme or unexpected case.
+- These sentences can be used in both spoken and written Japanese, though **ですら** leans towards a more formal tone.
 ---
-## 5. Cultural Notes 
+## 5. Cultural Notes
 ### Cultural Relevance
-- Using "ですら" is a way of emphasizing humility or respect in Japanese, reflecting the culture's focus on politeness. This phrase is particularly useful in formal discussions and can demonstrate depth in a person's understanding of a topic.
-### Idiomatic Expressions
-- While "ですら" itself is not a standalone idiomatic expression, it often appears in discussions about achievements or expectations in Japanese society.
+- Emphasizing unexpected situations is common in Japanese communication to express surprise or to stress the severity of a situation.
+- Understanding the nuance of particles like **ですら** helps in grasping the speaker's intent and the emphasis they want to convey.
+### Politeness and Formality
+- **ですら** is more formal and may be used in written language, speeches, or formal conversations.
+- In casual conversations, **さえ** might be more commonly used.
 ---
 ## 6. Common Mistakes and Tips
 ### Error Analysis
-- **Mistake**: Confusing "ですら" with "さえ" or "すら" due to similar meanings.
-- **Tip**: Remember that "ですら" is used for nouns and maintains a formal register, while "さえ" can apply to verbs/adjectives in informal contexts.
+- **Misusing ですら with verbs or adjectives:**
+  Incorrect: *彼は走るですらできない。*
+  Correct: *彼は走ることですらできない。*
+- **Confusing ですら with でも (which means "but" or "however"):**
+  *でも* is a conjunctive particle and does not convey the meaning of "even".
 ### Learning Strategies
-- To remember the difference, think of "ですら" as being strictly for nouns like "the Prime Minister," while "さえ" would be more appropriate for actions, such as “even seeing.”
+- **Mnemonic Device:**
+  Think of **ですら** as "**DE**monstrating **SU**rprising **RA**re cases" to remember that it emphasizes even the rarest instances.
+- **Practice by creating sentences:**
+  Make your own sentences using **ですら** to emphasize unexpected situations in your daily life.
 ---
 ## 7. Summary and Review
 ### Key Takeaways
-- "ですら" (desura) is used to express "even" concerning nouns.
-- It serves to emphasize the surprising significance of the noun in context.
-- It is more formal than "さえ" and "すら."
+- **～ですら** is used to emphasize that something is true even in an extreme case.
+- It attaches directly to nouns.
+- It is more formal than **～さえ**.
+- Helps express surprise or highlight the unexpected nature of a situation.
 ### Quick Recap Quiz
-1. What does "ですら" mean in English?
-2. Give an example of a noun that can use "ですら."
-3. How is "ですら" different from "さえ"?
+1. What does **ですら** mean and how is it used?
+2. How does **ですら** differ from **さえ**?
+3. Create a sentence using **ですら** to express that you didn't have time to sleep.
 ---
+### Answers
+1. **ですら** means "even" and is used to emphasize that something applies even to an extreme or unexpected case. It attaches directly to nouns.
+2. **ですら** is more formal and used primarily with nouns, whereas **さえ** is less formal and can be used with nouns, verbs, and adjectives.
+3. **忙しくて、睡眠ですら取れなかった。**
+   *Isogashikute, suimin desura torenakatta.*
+   "I was so busy that I couldn't **even** get any sleep."
+
+---
+
+© [Hanabira.org](https://hanabira.org)

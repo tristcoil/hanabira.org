@@ -1,75 +1,95 @@
 Processing keyword: ~지 않을까 하다 [ji anheulkka hada] (I guess, I suspect)
 # Korean Grammar Point: ~지 않을까 하다 [ji anheulkka hada] (I guess, I suspect)
-# Grammar Point: ~지 않을까 하다 [ji anheulkka hada] (I guess, I suspect)
-## Introduction
-The grammar structure ~지 않을까 하다 is used in Korean to express a guess, suspicion, or conjecture about something. It conveys a sense of uncertainty and is often used when the speaker wants to say something they believe or assume might be true.
+
+## 1. Introduction
+The Korean grammar construction **~지 않을까 하다** is used to express speculation or conjecture about a possibility. It conveys the speaker's guess, suspicion, or uncertainty about an event or situation. This expression is often translated as "I think that perhaps..." or "I suspect that...".
+
 ---
-## Core Grammar Explanation
+## 2. Core Grammar Explanation
+### Meaning
+- **Function**: To express a tentative assumption or speculation.
+- **Translation**: "I guess that...", "I suspect that...", "Perhaps..."
 ### Structure
-The structure consists of three main components:
-- A verb stem or adjective + ~지 (ji) 
-- Optional negation + 않을까 (anheulkka)
-- The phrase 하다 (hada) which translates to "to think" or "to do."
+The structure combines the negative form **~지 않다** with **~을까 하다** to create a nuanced speculative meaning.
+```
+[Verb Stem] + 지 않을까 하다
+```
 ### Formation Diagram
-```
-[Verb/Adjective Stem] + 지 (ji) + 않을까 (anheulkka) + 하다 (hada)
-```
+| Component             | Explanation                                  |
+|-----------------------|----------------------------------------------|
+| **[Verb Stem]**       | The base form of the verb                    |
+| **지 않다**           | Negative form meaning "do not [verb]"         |
+| **을까 하다**         | Expresses uncertainty or speculation          |
+| **Combined Form**     | Introduces a speculative negative statement  |
 ### Breakdown
-1. **Verb/Adjective Stem**: Identify the stem of the verb or adjective you want to use.
-2. **Add ~지**: This connects the stem to the following phrase.
-3. **Negation ~ 않을까**: This expresses doubt or speculation, often translated as "I wonder if not" or "might not."
-4. **끝내 하다**: The word 하다 is attached to signify the act of thinking or considering the guess.
-### Example Breakdown
-- **가다 (gada - to go)** → 가 (ga) + 지 → 가지 않을까 하다 – "I guess [you] might not go."
-- **예쁘다 (yeppeuda - to be pretty)** → 예쁠 (yeppleul) + 지 → 예쁠지 않을까 하다 – "I guess [she] might not be pretty."
+1. **[Verb Stem] + 지 않다**: Forms the negative of the verb.
+2. **지 않다 + 을까**: Adds the speculative ending **~을까**, turning it into a question form.
+3. **~을까 하다**: The verb **하다** (to do) follows, making the phrase mean "I think that perhaps [not]..."
 ---
-## Comparative Analysis
-### Similar Structures
-1. **~겠지 (geotji)**: Used to indicate a guess, but without the negative implication.
-   - Usage: "That will likely happen," vs. "~지 않을까 하다" which implies doubt.
-   
-2. **~이지 않을까 (iji anheulkka)**: A more direct way to state "might not be" without the verb 하다.
-   - More formal and direct.
+## 3. Comparative Analysis
+### Similar Grammar Points
+- **~ㄹ 것 같다**: "It seems that...", "I think that..."
+  - Less speculative, more based on observation.
+- **~나 보다**: "It seems like...", "I guess..."
+  - Used when making conjectures based on evidence.
 ### Differences
-- **~지 않을까 하다** may sound more tentative or polite in suggestions compared to the directness of **~겠지**. 
+- **~지 않을까 하다** emphasizes uncertainty and is more tentative.
+- **~ㄹ 것 같다** is less speculative and can be used for both present and future events.
+- **~나 보다** often relies on visible evidence or information.
 ---
-## Examples in Context
-### Sentence Examples
-1. Formal:
-   - **그 사람이 올지 않을까 합니다.**
-   - Translation: "I suspect that person might not come."
-   
-2. Informal:
-   - **내일 비가 안 올지 않을까 해.**
-   - Translation: "I guess it might not rain tomorrow."
-3. Written:
-   - **이 영화가 흥행에 실패할지 않을까 합니다.**
-   - Translation: "I wonder if this movie might fail at the box office."
-4. Spoken:
-   - **너 그거 안 되지 않을까?**
-   - Translation: "I guess that might not work for you?"
+## 4. Examples in Context
+### Example Sentences
+1. **비가 오지 않을까 해요.**
+   - *I guess it might rain.*
+2. **그 사람이 이미 떠나지 않았을까 합니다.**
+   - *I suspect that he might have already left.*
+3. **가격이 오르지 않을까 해서 미리 샀어요.**
+   - *I bought it in advance because I thought the price might go up.*
+4. **시험이 어렵지 않을까 해요?**
+   - *Do you think the exam might be difficult?*
+5. **그 소문이 사실이 아니지 않을까 싶어요.**
+   - *I think that rumor might not be true.*
+### Context Variations
+- **Formal Written**: *회의가 길어지지 않을까 합니다.*
+  - *(I suspect the meeting might be extended.)*
+- **Informal Spoken**: *오늘 영화 볼 수 있지 않을까 해.*
+  - *(I guess we might be able to watch a movie today.)*
 ---
-## Cultural Notes
+## 5. Cultural Notes
 ### Cultural Relevance
-The use of ~지 않을까 하다 reflects the cultural tendency in Korea to express opinions or guesses politely and tentatively. Koreans typically prefer to communicate uncertainty without sounding demanding or confrontational.
-### Levels of Politeness
-Using this structure appropriately shows awareness of engaging respectfully and modestly in conversation.
+In Korean, expressing oneself indirectly or tentatively is a common way to maintain politeness and avoid confrontation. Using **~지 않을까 하다** allows the speaker to convey their thoughts without sounding assertive.
 ### Idiomatic Expressions
-- **안 될지 않을까 (an doelji anheulkka)**: "I suspect it might not work out."
+- **혹시 문제가 되지 않을까 합니다.**
+  - *I'm concerned that it might become a problem.*
+- **시간이 좀 걸리지 않을까 싶어요.**
+  - *I think it might take some time.*
 ---
-## Common Mistakes and Tips
+## 6. Common Mistakes and Tips
 ### Error Analysis
-- **Forgetting to add negation**: Learners sometimes skip the "안" and just say ~지 할까, which loses the intended sense of doubt.
-  
+- **Omitting 하다**: Forgetting to include **하다** at the end.
+  - Incorrect: *비가 오지 않을까.*
+  - Correct: *비가 오지 않을까 해요.*
+- **Misplacing Negation**: Placing **않을까** incorrectly in the sentence.
+  - Ensure **지 않을까 하다** follows the verb stem directly.
 ### Learning Strategies
-- **Mnemonic Device**: Remember that "지" connects to a verb/adjective and "않을까" indicates "might not" while "하다" refers to thinking, helping remember the entire expression's meaning.
+- **Mnemonic Device**: Remember that **하지 않을까 하다** combines negation (**지 않다**) with speculation (**을까 하다**).
+- **Practice**: Create sentences using verbs you are familiar with to become comfortable with the structure.
 ---
-## Summary and Review
+## 7. Summary and Review
 ### Key Takeaways
-- The structure ~지 않을까 하다 is used to express guesswork or suspicion.
-- It combines a verb/adjective stem with "지," a negation "않을까," and the verb "하다."
+- **~지 않을까 하다** is used to express speculation or a tentative guess.
+- It combines the negative form with a speculative ending to convey uncertainty.
+- It is a polite way to express thoughts without being too direct.
 ### Quick Recap Quiz
-1. What does ~지 않을까 하다 mean?
-2. Provide an example using an adjective in this structure.
-3. Is this structure more formal or informal?
+1. What is the function of **~지 않을까 하다** in a sentence?
+2. How do you form **~지 않을까 하다** with a verb?
+3. Provide an example sentence using **~지 않을까 하다**.
 ---
+**Answers:**
+1. To express speculation or a tentative guess about something.
+2. Attach **지 않다** to the verb stem, then add **을까 하다**.
+3. *(Example)* 친구가 늦지 않을까 해요. *I guess my friend might be late.*
+
+
+---
+© [Hanabira.org](https://hanabira.org)

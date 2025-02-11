@@ -1,82 +1,113 @@
 Processing keyword: ~고 있다 [go itda] (In the process of doing)
 # Korean Grammar Point: ~고 있다 [go itda] (In the process of doing)
-# Korean TOPIK Grammar Point: ~고 있다 (In the process of doing)
+
+---
 ## 1. Introduction
-The grammar point **~고 있다 (go itda)** is used to indicate actions that are currently ongoing or in progress. It conveys the sense of "to be in the middle of" doing something.
+In Korean, expressing ongoing actions is essential for daily communication. The grammatical structure **~고 있다** is used to indicate that an action is currently in progress, similar to the present continuous tense in English ("am/is/are doing"). This lesson will delve into the usage of **~고 있다**, providing you with the tools to describe ongoing activities naturally in Korean.
+
 ---
 ## 2. Core Grammar Explanation
-### Detailed Explanation
-The structure consists of the verb stem + 고 있다. Here’s how it breaks down:
-1. **Verb Stem**: This is the base form of the verb without the 다 (da).
-2. **~고**: This connector links the action of the verb to the auxiliary ‘있다’ (itda) meaning "to exist" or "to be."
-3. **있다**: When combined, it indicates that the action is currently being performed.
+### Meaning
+**~고 있다** is attached to the stem of a verb to express that an action is happening right now. It denotes that someone **is doing** something at the present moment.
 ### Structure
-- **Formation Diagram**:
-  ```
-  [Verb Stem] + 고 + 있다
-  ```
-#### Examples of Verb Stems
-- 먹다 (meokda) → 먹고 있다 (meokgo itda) - eating
-- 가다 (gada) → 가고 있다 (gago itda) - going
-- 자다 (jada) → 자고 있다 (jago itda) - sleeping
+To form **~고 있다**, follow these steps:
+1. **Take the verb stem** (remove **다** from the dictionary form).
+2. **Add** **고 있다** to the verb stem.
+3. **Conjugate** **있다** to match the appropriate tense and politeness level.
+### Formation Diagram
+| **Verb (Dictionary Form)** | **Verb Stem** | **+ 고 있다**       | **Meaning**          |
+|----------------------------|---------------|---------------------|----------------------|
+| 가다 (to go)               | 가            | 가고 있다           | is going             |
+| 먹다 (to eat)              | 먹           | 먹고 있다           | is eating            |
+| 배우다 (to learn)          | 배우         | 배우고 있다         | is learning          |
+| 읽다 (to read)             | 읽           | 읽고 있다           | is reading           |
+| 마시다 (to drink)          | 마시         | 마시고 있다         | is drinking          |
+### Visual Aid: Formation Flowchart
+```
+A[Verb Dictionary Form]
+A --> B[Remove 다]
+B --> C[Verb Stem]
+C --> D[Add 고 있다]
+D --> E[Conjugate 있다 appropriately]
+```
 ---
 ## 3. Comparative Analysis
-It is important to note that **~고 있다** is different from:
-- **~고 있다** vs **~고 있었어요**
-  - ~고 있다 indicates an action happening right now.
-  - ~고 있었어요 indicates an action that was happening in the past.
-### Example:
-- 지금 공부하고 있어요. (I am studying now.)
-- 어제 공부하고 있었어요. (I was studying yesterday.)
+### **~고 있다** vs. Simple Present Tense
+- **~고 있다**: Emphasizes an action **currently in progress**.
+  - *영화를 보고 있어요.* (I am watching a movie.)
+- **Simple Present Tense**: Describes habitual actions or general statements.
+  - *영화를 봐요.* (I watch movies.)
+### **~고 있다** vs. **~아/어 있다**
+- **~고 있다**: Used with **action verbs** to indicate an ongoing action.
+  - *편지를 쓰고 있어요.* (I am writing a letter.)
+- **~아/어 있다**: Used with **some verbs** to indicate a resultant state.
+  - *문이 열려 있어요.* (The door is open.)
 ---
 ## 4. Examples in Context
-### Sentence Examples
-1. **Formal**:
-   - 저는 지금 이메일을 쓰고 있습니다.  
-     (I am currently writing an email.)
-   
-2. **Informal**:
-   - 나는 영화 보고 있어.  
-     (I am watching a movie.)
-   
-3. **Written**:
-   - 프로젝트를 준비하고 있는 중입니다.  
-     (I am in the process of preparing the project.)
-   
-4. **Spoken**:
-   - 지금 뭐하고 있어?  
-     (What are you doing now?)
+### Formal Speech (존댓말)
+- **지하철역에서 기다리고 있습니다.**
+  - *I am waiting at the subway station.*
+- **회의 자료를 준비하고 있습니다.**
+  - *I am preparing the meeting materials.*
+### Informal Polite Speech (해요체)
+- **무슨 책을 읽고 있어요?**
+  - *What book are you reading?*
+- **비가 오고 있어요. 우산을 가져가세요.**
+  - *It's raining. Please take an umbrella.*
+### Informal Speech (반말)
+- **지금 뭐 하고 있어?**
+  - *What are you doing now?*
+- **친구랑 이야기하고 있어.**
+  - *I'm talking with a friend.*
+### Written Context (Diary/SNS)
+- **요즘 열심히 운동하고 있어요.**
+  - *These days, I'm exercising diligently.*
+- **새로운 언어를 배우고 있어요.**
+  - *I am learning a new language.*
 ---
 ## 5. Cultural Notes
 ### Cultural Relevance
-The use of **~고 있다** demonstrates active engagement in actions, which reflects a value placed on productivity and being diligent in Korean culture. 
-### Levels of Politeness
-- Using **-고 있습니다** is formal and suitable for professional or respectful settings.
-- Using **-고 있어** is informal and appropriate among friends or younger individuals.
+- **Politeness Levels**: In Korean, the level of speech must match the social relationship.
+  - When referring to someone respected, use **~고 계시다** instead of **~고 있다**.
+    - **할머니께서는 텔레비전을 보고 계세요.**
+      - *Grandmother is watching television.*
 ### Idiomatic Expressions
-- **일하면서 먹고 있다**  
-  (I am eating while working.)  
-  This is commonly used to indicate multitasking.
+- **꿈을 꾸고 있다**: *to be dreaming (metaphorically pursuing a dream)*
+  - **그는 가수가 되기 위해 꿈을 꾸고 있어요.**
+    - *He is dreaming of becoming a singer.*
+- **생각에 잠기고 있다**: *to be lost in thought*
+  - **그녀는 깊은 생각에 잠기고 있어요.**
+    - *She is lost in deep thought.*
 ---
 ## 6. Common Mistakes and Tips
 ### Error Analysis
-1. **Omitting “고”**: 
-   - Incorrect: 저는 지금 공부 있다. (I study now.)
-   - Correct: 저는 지금 공부하고 있다. 
-   
-2. **Confusing with Past Tense**: 
-   - Mixing present and past forms can lead to confusion.
+1. **Omitting the Polite Ending**
+   - Incorrect: **뭐 하고 있어?** (to a teacher)
+   - Correct: **뭐 하고 계세요?**
+     - Always match the speech level to the listener.
+2. **Using **~고 있다** with Stative Verbs**
+   - Incorrect: **알고 있어요.** (from 알다 - to know)
+   - Correct: **알아요.**
+     - Stative verbs generally don't use **~고 있다**.
 ### Learning Strategies
-- **Mnemonic Device**: Think of **고** as a road that connects the main activity with the "to be" state of existing in the action.
+- **Tip**: Practice by narrating your actions throughout the day using **~고 있다**.
+- **Mnemonic**: Think of **고** as "and," so you're linking the action to the state of "being" (**있다**).
 ---
 ## 7. Summary and Review
 ### Key Takeaways
-- **~고 있다** expresses ongoing actions.
-- It requires the verb stem + 고 + 있다 structure.
-- It differs from the past form ~고 있었어요 in context.
+- **~고 있다** is used to express actions currently in progress.
+- Attach **고 있다** to the verb stem; conjugate **있다** accordingly.
+- Use **~고 계시다** for honorific forms when speaking about someone respected.
+- Be mindful of politeness levels to maintain proper etiquette.
 ### Quick Recap Quiz
-1. What does **~고 있다** mean?
-2. How would you express "I am studying" in Korean?
-3. What is the difference between **~고 있다** and **~고 있었어요**?
+1. **Fill in the blank**: 친구를 ________ 있어요. *(I am meeting a friend.)*
+   - **Answer**: 만나고
+2. **True or False**: It's appropriate to use **~고 있다** with the verb **싫어하다** (to dislike).
+   - **Answer**: False (It's a stative verb; we don't use **~고 있다** with stative verbs)
+3. **Rewrite in honorific form**: 선생님이 사진을 찍고 있어요.
+   - **Answer**: 선생님께서 사진을 찍고 계세요.
 ---
-Use this detailed explanation to understand how to use **~고 있다** effectively in Korean conversations and writing!
+By understanding and practicing **~고 있다**, you'll be able to describe ongoing actions confidently and naturally in Korean. Keep practicing with different verbs and contexts to solidify your grasp of this essential grammar point!
+
+---
+© [Hanabira.org](https://hanabira.org)

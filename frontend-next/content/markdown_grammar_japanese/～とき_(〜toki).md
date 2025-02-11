@@ -1,70 +1,123 @@
 Processing keyword: ～とき (〜toki)
 # Japanese Grammar Point: ～とき (〜toki)
-# Introduction to 〜とき (toki)
-The Japanese grammar point 〜とき (toki) is used to indicate the time or occasion when something happens. It often translates to "when" or "at the time" in English, making it a key structure in expressing temporal scenarios in both spoken and written Japanese.
+
+
 ---
-## Core Grammar Explanation
+## 1. Introduction
+The grammar point **～とき (〜toki)** is a fundamental structure in Japanese that is used to express **"when"** or **"at the time when"**. It allows speakers to indicate the time or occasion when an action or event occurs.
+
+---
+## 2. Core Grammar Explanation
+### Meaning
+- **～とき** translates to **"when", "at the time of", or "on the occasion of"** in English.
+- It connects two clauses, indicating that one action occurs **when** another action or state happens.
+### Structure
+The structure of ～とき varies depending on whether it follows a noun, adjective, or verb and the tense (past or present).
+#### Formation Diagram
+| **Part of Speech** | **Formation**            | **Example**                |
+|--------------------|--------------------------|----------------------------|
+| Verb (dictionary)  | Verb **る** + とき        | 行く **とき** (when going)  |
+| Verb (た-form)     | Verb **た** + とき        | 行った **とき** (when went) |
+| い-adjective       | Adj **い** + とき         | 忙しい **とき** (when busy) |
+| な-adjective       | Adj **な** + とき         | 静かな **とき** (when quiet)|
+| Noun               | Noun **の** + とき        | 子供 **のとき** (when a child)|
 ### Detailed Explanation
-The structure of 〜とき is based on the following components:
-- **Noun + のとき** (no toki): Used when the subject is a noun (e.g., 学校のとき - gakkou no toki - "at the time of school").
-- **Verb (plain form) + とき**: Used when the subject is a verb; it refers to the time when the action of the verb occurs (e.g., 行くとき - iku toki - "when (I/you/he/she) go").
-- **I-adjective + とき**: Time when the state described by the adjective is true (e.g., 暑いとき - atsui toki - "when it is hot").
-- **Na-adjective + なとき**: Use the na-adjective without the na for the noun modifier (e.g., 便利なとき - benri na toki - "when (it is) convenient").
-### Structure and Formation Diagram
-| Structure                                | Meaning                   |
-|------------------------------------------|---------------------------|
-| Noun + のとき                            | "when (Noun)"             |
-| Verb (plain form) + とき                 | "when (verb action)"      |
-| I-adjective + とき                       | "when (it is) (adjective)"|
-| Na-adjective + なとき                    | "when (it is) (na-adjective)" |
+- **Verbs in Present Tense (Dictionary Form) + とき**
+  - Indicates that the action in the main clause occurs **before or during** the action in the とき clause.
+  - Example: *行くとき、電話してください。* (*When you go, please call me.*)
+- **Verbs in Past Tense (た-form) + とき**
+  - Indicates that the action in the main clause occurs **after** the action in the とき clause.
+  - Example: *行ったとき、電話しました。* (*When I went, I called.*)
+- **Adjectives and Nouns**
+  - Follow the standard conjugation patterns with **とき**.
+  - Example with い-adjective: *忙しいとき、カフェに行きます。* (*When I'm busy, I go to a cafe.*)
+  - Example with な-adjective: *静かなとき、本を読みます。* (*When it's quiet, I read a book.*)
+  - Example with Noun: *子供のとき、よく遊んだ。* (*When I was a child, I often played.*)
 ---
-## Comparative Analysis
-### Comparison with Other Time Expressions
-1. **〜時 (〜ji)**: While 〜時 (ji) refers specifically to the time on a clock (e.g., 3時 - 3 o'clock), 〜とき (toki) refers to an event in relation to time.
-2. **〜たら (〜tara)**: This structure is used for conditional statements (e.g., "if" statements), whereas 〜とき (toki) simply notes the time when something happens without implying a condition.
-3. **〜と (〜to)**: This is used for facts or habitual actions (e.g., "when I do X, Y happens"), while 〜とき (toki) can refer to any point in time, not just habitual actions.
+## 3. Comparative Analysis
+### ～とき vs. ～ときに
+- **とき** and **ときに** are often interchangeable.
+- **に** emphasizes the specific time when something happens.
+- Example:
+  - *会うとき、話しましょう。* (Let's talk when we meet.)
+  - *会うときに、話しましょう。* (Let's talk at the time we meet.)
+### ～とき vs. ～間 (あいだ)
+- **とき** refers to a specific point or period in time.
+- **間** refers to the entire duration of a period.
+- Example:
+  - *勉強するとき、音楽を聴きます。* (I listen to music when I study.)
+  - *勉強している間、音楽を聴きます。* (I listen to music while I am studying.)
 ---
-## Examples in Context
-### Sentence Examples
-1. **Formal Context**:
-   - **日本に行くとき、観光地を訪れます。**
-   - *Nihon ni iku toki, kankouchi wo otozuremasu.*
-   - "When I go to Japan, I will visit tourist spots."
-2. **Informal Context**:
-   - **友達と遊ぶとき、映画を見ます。**
-   - *Tomodachi to asobu toki, eiga wo mimasu.*
-   - "When I hang out with my friends, I watch movies."
-3. **Written Context**:
-   - **学生のとき、たくさん本を読みました。**
-   - *Gakusei no toki, takusan hon wo yomimashita.*
-   - "When I was a student, I read a lot of books."
-4. **Spoken Context**:
-   - **明日買い物に行くとき、買ってきてね。**
-   - *Ashita kaimono ni iku toki, katte kite ne.*
-   - "When you go shopping tomorrow, please buy (it) for me."
+## 4. Examples in Context
+### Formal Situations
+- **出張するとき、連絡してください。**
+  - *しゅっちょうするとき、れんらくしてください。*
+  - *Please contact me when you go on a business trip.*
+- **会議が終わったとき、報告書を提出します。**
+  - *かいぎがおわったとき、ほうこくしょをていしゅつします。*
+  - *I will submit the report when the meeting ends.*
+### Informal Situations
+- **暇なとき、映画を見よう。**
+  - *ひまなとき、えいがをみよう。*
+  - *Let's watch a movie when we're free.*
+- **東京に来たとき、連絡してね。**
+  - *とうきょうにきたとき、れんらくしてね。*
+  - *When you come to Tokyo, get in touch!*
+### Spoken Language
+- **寝るとき、テレビを消してください。**
+  - *ねるとき、テレビをけしてください。*
+  - *Please turn off the TV when you go to bed.*
+- **忙しいときは後で電話するよ。**
+  - *いそがしいときはあとででんわするよ。*
+  - *When I'm busy, I'll call you later.*
+### Written Language
+- **桜が咲くとき、日本はとても美しい。**
+  - *さくらがさくとき、にほんはとてもうつくしい。*
+  - *When the cherry blossoms bloom, Japan is very beautiful.*
+- **旅行する時は、事前に計画を立てるべきだ。**
+  - *りょこうするときは、じぜんにけいかくをたてるべきだ。*
+  - *When traveling, one should make plans in advance.*
 ---
-## Cultural Notes
-### Cultural Relevance
-- The usage of 〜とき (toki) reflects Japanese culture's focus on timing and context. Specific phrases may alter depending on the social setting, requiring a nuance of politeness when addressing different audiences.
+## 5. Cultural Notes
 ### Levels of Politeness
-- The level of formality in speech may affect how 〜とき is applied. In more formal situations, a complete sentence with respectful language is critical.
+- The use of **とき** is neutral and can be used in both polite and casual settings.
+- Adjust the politeness level by changing verb endings and using appropriate honorifics.
 ### Idiomatic Expressions
-- **必要なときに必要なものを持っている**: *Hitsuyou na toki ni hitsuyou na mono wo motte iru.*
-- "Having what you need when you need it."
+- **時は金なり** (*ときはかねなり*)
+  - *Time is money.*
+- **いい時もあれば悪い時もある**
+  - *There are good times and bad times.*
 ---
-## Common Mistakes and Tips
+## 6. Common Mistakes and Tips
 ### Error Analysis
-- **Common Mistake**: Confusing 〜とき with 〜たら. Remember, 〜とき is used for stating when something happens, while 〜たら implies conditions.
+- **Using the wrong verb tense before とき**
+  - Remember that the verb tense before **とき** affects the temporal relationship between the two clauses.
+- **Forgetting the の with nouns**
+  - When using nouns before **とき**, don't forget to add **の**.
+  - Incorrect: *子供とき*
+  - Correct: *子供のとき*
 ### Learning Strategies
-- **Mnemonic Tip**: Associate 将来の夢や計画を知るために、必要なことを考えるときに (shōrai no yume ya keikaku wo shiru tame ni, hitsuyou na koto wo kangaeru toki ni) - "Think of what is necessary when knowing future dreams or plans". This reinforces that 〜とき refers to a time of reflection or action.
+- **Mnemonic Device**
+  - *"When in time, とき is fine."* - Remember that **とき** relates to "when" in time.
+- **Practice with Timelines**
+  - Draw timelines to visualize when actions occur in relation to each other.
 ---
-## Summary and Review
+## 7. Summary and Review
 ### Key Takeaways
-- 〜とき (toki) is a crucial grammar point for expressing when an event occurs.
-- It can be applied with nouns, verbs, and adjectives.
-- Comparing it with similar grammar helps clarify its usage.
+- **～とき** is used to express "when" an action or state occurs.
+- The verb form before **とき** determines the timing relationship between clauses.
+- It is important to use the correct form based on the part of speech (verbs, adjectives, nouns).
 ### Quick Recap Quiz
-1. How do you express "when I eat" using 〜とき?
-2. What is the difference between 〜とき and 〜たら?
-3. Can you give an example of 〜とき with a na-adjective?
-This concludes the lesson on 〜とき (toki). Practice constructing sentences using this grammar point in various contexts for better retention!
+1. How do you say "When I eat, I watch TV" in Japanese?
+   - **Answer:** *食べるとき、テレビを見ます。*
+2. Which form of the verb do you use before とき if the main action happens **after**?
+   - **Answer:** The **past tense (た-form)** of the verb.
+3. Fill in the blank: 静か_とき、本を読みます。
+   - **Answer:** *静かなとき、本を読みます。*
+---
+Feel free to revisit any section for clarification or further practice!
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

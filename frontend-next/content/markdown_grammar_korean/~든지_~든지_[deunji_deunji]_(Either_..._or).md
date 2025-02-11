@@ -1,84 +1,127 @@
 Processing keyword: ~든지 ~든지 [deunji deunji] (Either ... or)
 # Korean Grammar Point: ~든지 ~든지 [deunji deunji] (Either ... or)
-# Grammar Point: ~ 든지 ~ 든지 [deunji deunji] (Either ... or)
-## Introduction
-The grammar point **~든지 ~든지** is used in Korean to express choices or alternatives, similar to saying "either ... or ..." in English. It allows the speaker to provide two or more options without needing to choose between them, suggesting that both options are acceptable.
+
+## 1. Introduction
+In Korean, expressing choices or alternatives is an essential part of conversation. The grammar pattern **~든지 ~든지** is used to indicate "either... or..." when presenting options. Mastering this pattern will enhance your ability to discuss preferences, possibilities, and choices in Korean.
+
 ---
-## Core Grammar Explanation
+## 2. Core Grammar Explanation
 ### Meaning
-This structure indicates that any one of the mentioned options can be true or chosen. It is often used in contexts where a decision might need to be made or where multiple possibilities exist.
+The pattern **~든지 ~든지** means "either... or..." and is used to list options without emphasizing any preference. It implies that any of the options are acceptable or possible.
 ### Structure
-The structure is formed by taking a noun, adjective, or verb and attaching **-든지** after it. 
-1. **For nouns**:
-   - Noun + **든지** + Noun + **든지**
-   
-2. **For verbs**:
-   - Verb stem + **든지** + Verb stem + **든지**
-3. **For adjectives**:
-   - Adjective stem + **든지** + Adjective stem + **든지**
-### Example Formation
-Here’s a simple diagram to illustrate the structure:
+Attach **~든지** to the verb or noun stems of each option you want to present.
+### Formation Diagram
 ```
-(Noun/Verb/Adjective) + 든지 + (Noun/Verb/Adjective) + 든지
+Option A Verb/Noun Stem + 든지 + Option B Verb/Noun Stem + 든지
 ```
-### Usage
-- When you are giving options between two nouns:
-  - 고기든지 생선이든지 먹을 수 있어요.
-    - (I can eat meat or fish.)
-- When you mention a verb option:
-  - 공부하든지 놀든지 결정해봐요.
-    - (Decide whether to study or play.)
-- With adjectives:
-  - 이 가방이든지 저 가방이든지 마음에 들어요.
-    - (I like this bag or that bag.)
+### Detailed Explanation
+- **Verb Usage**: When using verbs, you attach **~든지** directly to the verb stem.
+  ```korean
+  먹다 (to eat) → 먹든지
+  마시다 (to drink) → 마시든지
+  ```
+- **Noun Usage**: When using nouns, you attach **~(이)든지** to the noun.
+  ```korean
+  커피 (coffee) → 커피든지
+  차 (tea) → 차든지
+  ```
+  If the noun ends with a consonant, use **이든지**.
+  ```korean
+  학생 (student) → 학생이든지
+  ```
+- **Adjective Usage**: Similar to verbs, attach **~든지** to the adjective stem.
+  ```korean
+  크다 (big) → 크든지
+  작다 (small) → 작든지
+  ```
+### Visual Aid: Structure Table
+| Part of Speech | Stem        | + 든지       | Result     |
+|----------------|-------------|-------------|------------|
+| Verb           | 먹다         | 먹 + 든지    | 먹든지     |
+| Noun (vowel)   | 커피        | 커피 + 든지 | 커피든지   |
+| Noun (consonant)| 학생       | 학생 + 이든지| 학생이든지 |
+| Adjective      | 예쁘다       | 예쁘 + 든지  | 예쁘든지   |
 ---
-## Comparative Analysis
-### Differences with Similar Grammar Points
-- **~거나**: While **~거나** also indicates choices, it's used more casually. **~든지** tends to be more formal and is often used to provide options without preference.
-  - Example: 
-    - 사과나 배를 주세요. (Please give me an apple or a pear.)
-    - 사과든지 배든지 주세요. (Please give me either an apple or a pear.)
-- **~든지** can also be used to express uncertainty or indifference about the options mentioned.
+## 3. Comparative Analysis
+### Similar Grammar Points
+- **거나 (~geona)**: Also means "or" but is used to present options, often implying that only one of them will actually occur.
+  ```korean
+  먹거나 마시거나 해요.  
+  (I eat or drink.)
+  ```
+- **든(~deun)**: A shortened, less formal version of **~든지**.
+### Differences and Nuances
+- **~든지 ~든지** emphasizes that any of the options are equally acceptable.
+- **거나** often suggests a selection between options, possibly excluding the others.
+- **~든지** can be used more flexibly to show indifference or inclusiveness of options.
 ---
-## Examples in Context
-### Sentence Examples
-1. **Formal**: 
-   - 여름이든지 겨울이든지 한국에 가고 싶어요.
-   - (I want to go to Korea either in summer or in winter.)
-   
-2. **Informal**:
-   - 영화든지 드라마든지 뭐 볼래?
-   - (Do you want to watch a movie or a drama?)
-3. **Written**:
-   - 학생이든지 선생님이든지 참여할 수 있습니다.
-   - (Either students or teachers can participate.)
-4. **Spoken**:
-   - 집에 가든지, 카페에 가든지 할래?
-   - (Do you want to go home or to a café?)
+## 4. Examples in Context
+### Example Sentences
+1. **Formal Written**
+   ```korean
+   내일은 비가 오든지 눈이 오든지 행사는 진행됩니다.
+   ```
+   *No matter if it rains or snows tomorrow, the event will proceed.*
+2. **Informal Spoken**
+   ```korean
+   영화 보든지 쇼핑하든지 결정하자.
+   ```
+   *Let's decide whether to watch a movie or go shopping.*
+3. **Polite Conversation**
+   ```korean
+   주말에 집에 있든지 나가든지 편한 대로 하세요.
+   ```
+   *On the weekend, do as you wish, whether you stay home or go out.*
+4. **Casual Chat**
+   ```korean
+   너든지 나든지 가야 해.
+   ```
+   *Either you or I have to go.*
+5. **Expressing Indifference**
+   ```korean
+   뭐를 먹든지 난 상관없어.
+   ```
+   *I don't care what we eat.*
 ---
-## Cultural Notes
-### Cultural Relevance
-In Korean culture, offering choices politely is important. Using **~든지** reflects consideration for someone's preferences, and it is often seen in both formal invitations or requests.
-### Levels of Politeness
-The use of **~든지** is generally polite and can be used in both spoken and written forms, maintaining a respectful tone.
+## 5. Cultural Notes
+### Politeness and Formality
+- The **~든지 ~든지** pattern is neutral and can be used in both formal and informal contexts.
+- Adjust the level of politeness with the rest of the sentence endings.
+### Idiomatic Expressions
+- **있으나 없으나 마찬가지다.**
+  *It's the same whether it's there or not.*
+  
+- **알든지 말든지 해라.**
+  *Know it or not, do as you please.*
 ---
-## Common Mistakes and Tips
-### Error Analysis
-- **Omitting the second option**: Some learners might forget to provide a second option, which defeats the purpose of this grammar structure.
-  - Incorrect: 한국에 가든지.
-  - Correct: 한국에 가든지 일본에 가든지.
+## 6. Common Mistakes and Tips
+### Common Mistakes
+- **Omitting 이 with Nouns Ending in Consonants**
+  Incorrect: 학생든지
+  Correct: 학생**이**든지
+- **Confusing with 거나**
+  Mixing up **~든지** and **~거나** can change the nuance of the sentence.
 ### Learning Strategies
-- **Mnemonic Device**: Remember "deunji" like "do this or that," emphasizing the choice aspect.
-- **Practice with Choices**: Create sentences about daily choices to reinforce the structure’s application.
+- **Mnemonic Device**: Think of **~든지** as "doesn't matter which (do you) choose," since it presents options equally.
+- **Practice Pairing**: Create sentences using pairs of verbs or nouns to get comfortable with attaching **~든지**.
 ---
-## Summary and Review
+## 7. Summary and Review
 ### Key Takeaways
-- **~든지 ~든지** is used for offering choices or alternatives.
-- Applicable to nouns, verbs, and adjectives.
-- More formal than **~거나** and conveys politeness in suggesting options.
+- **~든지 ~든지** is used to express "either... or..." and presents options equally.
+- Attach **~든지** to verb or adjective stems and **~(이)든지** to nouns.
+- It differs from **~거나** in nuance, emphasizing inclusiveness or indifference.
 ### Quick Recap Quiz
-1. How do you translate **~든지 ~든지** into English?
-2. What is the primary function of this grammar structure?
-3. Create a sentence using **~든지 ~든지** with nouns.
---- 
-This structured approach should help you confidently use and understand the grammar point **~든지 ~든지** in various contexts. Happy learning!
+1. How do you attach **~든지** to the noun *학교*?
+   **Answer**: 학교**든지**
+2. Translate the following sentence:
+   ```korean
+   읽든지 쓰든지 선택하세요.
+   ```
+   **Answer**: Please choose whether to read or write.
+3. What is a common mistake when using **~든지 ~든지** with nouns?
+   **Answer**: Forgetting to use **이든지** after nouns ending with a consonant.
+---
+By mastering **~든지 ~든지**, you enhance your ability to discuss options and preferences smoothly in Korean conversations. Keep practicing with different verbs, nouns, and adjectives to become more confident!
+
+---
+© [Hanabira.org](https://hanabira.org)

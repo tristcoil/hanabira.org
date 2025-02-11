@@ -1,74 +1,120 @@
 Processing keyword: ~부터 [buteo] (From, starting from)
 # Korean Grammar Point: ~부터 [buteo] (From, starting from)
-# Korean Grammar Point: ~부터 [buteo] (From, Starting From)
-## Introduction
-The grammar point ~부터 is used in Korean to indicate the starting point of an action, time, or direction. It is similar to the English word "from." In this lesson, we will explore its form, usage, and additional nuances in various contexts.
-## Core Grammar Explanation
-### Detailed Explanation
-- **Meaning**: ~부터 indicates the starting point of an action, time, or series of events.
-- **Structure**: 
-  - The structure of ~부터 is attached to nouns and can be used in various contexts, typically concerning time or place.
-  
-- **Formation Diagram**:
-  - **Noun + 부터**
-  - Example: 
-    - 시간부터 (from time)
-    - 학교부터 (from school)
+
+## 1. Introduction
+In Korean, the particle **~부터** is used to indicate the starting point in time or place. It translates to "from" or "starting from" in English. This grammar point is essential for expressing when or where an action begins.
+
+---
+## 2. Core Grammar Explanation
+### Meaning
+- **~부터** denotes the **starting point** of an action or state in terms of **time** or **place**.
+- It specifies **when** or **where** something **starts**.
+### Structure
+```
+Noun (Time/Place) + 부터
+```
+### Formation Diagram
+```markdown
+[Time/Place Noun] + 부터
+```
 ### Visual Aid
-| Example   | Meaning               | Usage Context            |
-|-----------|-----------------------|--------------------------|
-| 오늘부터 (oneul-buteo)  | From today            | Time                     |
-| 부산부터 (Busan-buteo)  | From Busan            | Place                    |
-| 8시부터 (8si-buteo)     | From 8 o’clock        | Time                     |
-## Comparative Analysis
-~부터 can be compared with ~까지 [kkaji], which means "until" or "up to." While ~부터 marks the starting point, ~까지 marks the endpoint. 
-- **Example**:
-  - ~부터: "저는 내일부터 일할 거예요." (I will work from tomorrow.)
-  - ~까지: "저는 다음 주까지 공부할 거예요." (I will study until next week.)
-## Examples in Context
-### Sentence Examples
-1. **Formal**:
-   - 오늘부터 수업이 시작됩니다. 
-     - (The class starts from today.)
-     
-2. **Informal**:
-   - 너는 언제부터 나랑 공부할 거야? 
-     - (When are you going to study with me from?)
-     
-3. **Written**:
-   - 이 프로젝트는 2023년부터 진행될 예정입니다. 
-     - (This project is scheduled to begin from 2023.)
-     
-4. **Spoken**:
-   - 나는 금요일부터 여행이야. 
-     - (I have a trip starting from Friday.)
-## Cultural Notes
+
+| Component          | Particle | Example      |
+|--------------------|----------|--------------|
+| **시간** (Time)    | 부터     | **아침부터** (from the morning) |
+| **장소** (Place)   | 부터     | **여기부터** (from here)       |
+
+---
+## 3. Comparative Analysis
+### Comparing **~부터** with **~에서**
+While both particles can mean "from," they have different usages:
+
+| Particle | Usage                                    | Example                       | Meaning                          |
+|----------|------------------------------------------|-------------------------------|----------------------------------|
+| **부터** | Starting point in time or place          | **지금부터 시작해요.**         | I will start from now.           |
+| **에서** | Location of an action; starting point of movement | **집에서 공부해요.** | I study at home.                 |
+
+- **~부터** focuses on **when/where** something **starts**.
+- **~에서** indicates **where** an action **takes place** or **originates**.
+---
+## 4. Examples in Context
+### Formal Context
+1. **회의는 오전 10시부터입니다.**
+   - _The meeting is from 10 AM._
+2. **교육은 다음 주 월요일부터 시작됩니다.**
+   - _The training starts from next Monday._
+### Informal Context
+1. **우리 지금부터 영화 볼래?**
+   - _Shall we watch a movie from now?_
+2. **여기부터 산책하자.**
+   - _Let's take a walk starting from here._
+### Polite Speech
+1. **수업은 몇 시부터예요?**
+   - _From what time is the class?_
+2. **내일은 아침부터 바빠요.**
+   - _I am busy from the morning tomorrow._
+### Written Context
+1. **프로젝트는 5월부터 진행될 예정입니다.**
+   - _The project is scheduled to proceed from May._
+2. **전시회는 서울에서부터 시작해 전국으로 퍼졌습니다.**
+   - _The exhibition started from Seoul and spread nationwide._
+---
+## 5. Cultural Notes
 ### Cultural Relevance
-Understanding the use of ~부터 is important in Korean culture because it indicates planning and organization, which are highly valued in both personal and professional settings. 
-### Levels of Politeness
-When using ~부터, it is essential to match the politeness level of your sentence to your audience. For example, use formal language when speaking to superiors or in formal settings.
+- **Time Punctuality**: Koreans value punctuality. Specifying starting times with **~부터** reflects the importance of being on time.
+  
+### Levels of Politeness and Formality
+- **~부터** itself is neutral.
+- Politeness is conveyed through verb endings.
 ### Idiomatic Expressions
-- "내일부터" (from tomorrow) is frequently used in informal conversations among friends to indicate a change that will take place soon.
-## Common Mistakes and Tips
+- **처음부터 끝까지**: _From beginning to end_
+  - **그 영화는 처음부터 끝까지 재미있었어요.**
+    - _That movie was interesting from start to finish._
+- **아예 처음부터**: _From the very beginning_
+  - **아예 처음부터 다시 합시다.**
+    - _Let's start over from the very beginning._
+---
+## 6. Common Mistakes and Tips
 ### Error Analysis
-1. **Incorrect Use**: 
-   - Using ~부터 without a clear noun.
-     - Example Mistake: "이제부터" (from now) should be used appropriately in context.
-     
-2. **Misplaced Structure**:
-   - Failing to follow it with a noun or beginning of an action correctly.
+1. **Incorrect Usage with Verbs**
+   - **Incorrect**: 먹다부터 시작해요.
+     - _Starting from eating._
+   - **Correct**: **식사**부터 시작해요.
+     - _Starting from the meal._
+   - **Tip**: Attach **~부터** to **nouns**, not verbs.
+2. **Confusing **~부터** with **~까지** (until)**
+   - **부터**: **from** (starting point)
+   - **까지**: **until** (ending point)
+   - **Example**:
+     - **오전 9시부터 오후 5시까지 일해요.**
+       - _I work from 9 AM until 5 PM._
 ### Learning Strategies
-- To remember that ~부터 indicates a starting point, you can think of “buteo” as “beginning” in English. This can help create a mental link to "from."
-## Summary and Review
+- **Mnemonic Device**: Think "**부**" (**bu**) as in "**beginning**," starting point.
+- **Practice Pairing**: Use **~부터** with specific times or places to form habits.
+  - **내일부터**, **오늘부터**, **여기부터**
+---
+## 7. Summary and Review
 ### Key Takeaways
-- The grammar point ~부터 is used to indicate the starting point of an action, time, or direction.
-- It can be applied in various contexts (formal, informal, spoken, written).
-- ~부터 is different from ~까지, which indicates an endpoint.
+- **~부터** is used to indicate the **starting point** in **time** or **place**.
+- It attaches directly to **nouns**.
+- Do not confuse **~부터** with **~에서** or **~까지**.
 ### Quick Recap Quiz
-1. How do you say "from tomorrow" in Korean?
-   - Answer: 내일부터 (naeilbuteo)
-2. What is the opposite of ~부터?
-   - Answer: ~까지 (kkaji)
-3. Is ~부터 more formal or informal?
-   - Answer: It can be used in both contexts depending on accompanying words.
-By understanding and practicing ~부터, learners can enhance their fluency in Korean by accurately expressing starting points in conversation and writing.
+1. **Translate to Korean**: "From tomorrow"
+   - **Answer**: **내일부터**
+2. **Fill in the Blank**: 수업은 오후 2시__ 시작해요.
+   - **Answer**: **부터**
+3. **Choose the Correct Particle**: 집__ 학교까지 걸어가요. (from)
+   - **Answer**: **부터**
+---
+## Additional Practice Sentences
+1. **영화는 7시부터예요.**
+   - _The movie is from 7 o'clock._
+2. **시험 공부를 지금부터 시작할 거예요.**
+   - _I will start studying for the exam from now._
+3. **이 길은 여기부터 막혀 있어요.**
+   - _This road is blocked from here._
+---
+Feel free to review these points and practice creating your own sentences using **~부터**!
+
+---
+© [Hanabira.org](https://hanabira.org)

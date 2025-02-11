@@ -1,74 +1,104 @@
 Processing keyword: ~과/와 같이 [gwa/wa gachi] (Like, as if)
 # Korean Grammar Point: ~과/와 같이 [gwa/wa gachi] (Like, as if)
-# Grammar Point: ~과/와 같이 [gwa/wa gachi] (Like, as if)
+
 ## 1. Introduction
-The expression ~과/와 같이 is used to indicate a similarity or comparison between two things. It can be translated as "like" or "as if" in English. This grammatical structure can help in describing situations, qualities, or actions that are comparable.
+In this lesson, we'll explore the Korean grammar point **~과/와 같이** (*~gwa/wa gachi*), which translates to **"like"** or **"as if"** in English. This expression is used to compare one thing to another, highlighting similarities between them. Understanding how to use **~과/와 같이** will enhance your ability to make comparisons and describe things more vividly in Korean.
+
 ---
 ## 2. Core Grammar Explanation
-### Detailed Explanation
-- **Meaning**: ~과/와 같이 is used to express that something is similar to something else or behaves in a way that is analogous to another thing.
-- **Structure**: 
-  - *Noun + (이/가) + ~과/와 같이*
-  - (Note: Use 과 after a noun ending in a consonant and 와 after a vowel.)
+## Meaning
+The expression **~과/와 같이** means **"like"** or **"as if"** and is used to compare a subject to something else. It attaches to nouns to indicate that the subject shares characteristics or behaves in a way similar to the noun it's compared with.
+## Structure
+The structure is straightforward:
+- **NOUN + 과/와 같이**
+  - **과 같이** is used after nouns ending with a **consonant**.
+  - **와 같이** is used after nouns ending with a **vowel**.
 ### Formation Diagram
-```
-Noun (with consonant)  -> Noun + 과 같이
-Noun (with vowel)      -> Noun + 와 같이
-```
-### Visual Aids
-| Noun Ending  | Form       |
-|--------------|------------|
-| Consonant    | 과 같이    |
-| Vowel        | 와 같이    |
+| Noun Ending  | Particle + 같이 | Meaning          |
+| ------------ | --------------- | ---------------- |
+| Consonant    | **과 같이**     | Like [noun]      |
+| Vowel        | **와 같이**     | Like [noun]      |
+---
+## Visual Aid: Usage Chart
+| Noun       | Ending Type | Correct Form     | Example                    |
+| ---------- | ----------- | ---------------- | -------------------------- |
+| 바람 (wind) | Consonant   | 바람**과 같이** | 바람과 같이 달렸다.        |
+| 물 (water)  | Consonant   | 물**과 같이**   | 물과 같이 맑은 눈동자.    |
+| 아이 (child)| Vowel       | 아이**와 같이** | 아이와 같이 웃었다.        |
+| 새 (bird)   | Vowel       | 새**와 같이**   | 새와 같이 노래했다.        |
 ---
 ## 3. Comparative Analysis
-- **Similar Grammar Points**:
-  - **~처럼 (cheoreom)**: Also means "like" but is used more in verbal comparisons.
-  - **~같은 (gateun)**: Often used with nouns to describe something similar, as in "a person like" or "something like."
-### Differences:
-- **~과/와 같이** emphasizes a direct comparison, often used in formal contexts.
-- **~처럼** is more commonly used in everyday conversation and can imply a metaphorical comparison.
+## Similar Grammar Points
+- **~처럼**: Also means **"like"** or **"as"** and can be used interchangeably with **~과/와 같이** in many contexts.
+  - **Example**: 바람처럼 달렸다. (I ran like the wind.)
+### Difference between **~과/와 같이** and **~처럼**
+- **~과/와 같이** attaches to nouns using the particles **과/와**, emphasizing the similarity.
+- **~처럼** directly attaches to nouns without particles and is slightly less formal.
 ---
 ## 4. Examples in Context
-### Sentence Examples
-1. **Formal**:
-   - 그들은 왕과 같이 격려했어요.  
-     (Geudeul-eun wang-gwa gachi gyeonglyeohaess-eoyo.)  
-     "They encouraged (me) like a king."
-2. **Informal**:
-   - 너는 나와 같이 춤을 잘 춰.  
-     (Neoneun na-wa gachi chum-eul jal chwo.)  
-     "You dance well like I do."
-3. **Written**:
-   - 이 도시는 역사와 같이 깊은 의미를 가지고 있다.  
-     (I dosi-neun yeogs-wa gachi gip-eun uimileul gajigo itda.)  
-     "This city has deep meanings like history."
-4. **Spoken**:
-   - 이 영화는 만화와 같이 재미있어!  
-     (I yeonghwa-neun manhwa-wa gachi jaemiisseo!)  
-     "This movie is as fun as a cartoon!"
+## Example Sentences
+### Formal Context
+1. **선생님**과 같이 열심히 공부하겠습니다.
+   - *I will study hard like my teacher.*
+2. 그는 **전문가**와 같이 문제를 해결했다.
+   - *He solved the problem like an expert.*
+### Informal Context
+3. 그녀는 **아이**와 같이 순수해요.
+   - *She is pure like a child.*
+4. 너도 **나**와 같이 가겠니?
+   - *Will you go with me?*
+### Written Context
+5. 이 그림은 **꿈**과 같이 아름답다.
+   - *This painting is beautiful like a dream.*
+6. 그의 목소리는 **음악**과 같이 감미롭다.
+   - *His voice is sweet like music.*
+### Spoken Context
+7. 오늘 **하늘**과 같이 기분이 맑아.
+   - *I feel clear like the sky today.*
+8. 그는 **토끼**와 같이 빨리 뛸 수 있어.
+   - *He can run fast like a rabbit.*
 ---
 ## 5. Cultural Notes
-### Cultural Relevance
-The use of ~과/와 같이 often reflects the respect and formality within the Korean language. Choosing to use this structure can increase the politeness of a statement, making it suitable for formal writing or speaking contexts.
-### Idiomatic Expressions
-- "왕과 같이" (like a king) can be used to describe someone who acts with a lot of confidence or authority.
+## Cultural Relevance
+In Korean culture, expressing comparisons using **~과/와 같이** adds vividness to speech and writing. It reflects the Korean language's descriptive nature, allowing speakers to convey emotions and imagery effectively.
+## Levels of Politeness
+- The use of **~과/와 같이** itself doesn't inherently change the politeness level, but it's important to match the sentence ending to the appropriate formality level.
+  - Formal: ~습니다, ~습니다만
+  - Informal: ~아/어, ~해
+## Idiomatic Expressions
+- **하늘과 같이 넓은 마음**
+  - *A heart as broad as the sky* (meaning a very generous person)
+- **산과 같이 굳건하다**
+  - *As firm as a mountain* (meaning very steadfast or reliable)
 ---
 ## 6. Common Mistakes and Tips
-### Error Analysis
-- A common mistake is using ~와 with a consonant-ending noun or vice-versa. Remember to use 과 for consonants and 와 for vowels.
-- Mixing up with ~처럼, which carries a different nuance.
-### Learning Strategies
-- **Mnemonic Device**: Think of "과" and "가" as “G” for "Glide" (with consonants), while "와" starts with a "W" for "Wave" (with vowels).
-  
+## Error Analysis
+1. **Incorrect Particle Usage**
+   - **Wrong**: 바다**와 같이** (after consonant)
+   - **Correct**: 바다**와 같이** (since '바다' ends with a vowel, '와' is correct)
+2. **Mixing with Verbs Directly**
+   - **Wrong**: 달리다과 같이 빨리 (Cannot attach '과 같이' directly to a verb)
+   - **Correct**: **바람과 같이** 빨리 달린다. (Attach to a noun)
+## Learning Strategies
+- **Mnemonic Device**: Remember that **'과'** comes after **consonants** like the **'c'** in **'consonant'**, and **'와'** comes after vowels.
+- **Practice**: Create your own sentences comparing things you're familiar with to reinforce the pattern.
 ---
 ## 7. Summary and Review
-### Key Takeaways
-- ~과/와 같이 means "like" or "as if."
-- Use 과 after consonants and 와 after vowels.
-- Ensures comparative emphasis and is formal in nature.
-### Quick Recap Quiz
-1. Which form would you use after a consonant-ending noun?
-2. Translate the sentence: "She sings like a bird."
-3. Which structure is more common in informal speech: ~과/와 같이 or ~처럼?
-By understanding ~과/와 같이, students can express comparisons more accurately in Korean, enhancing both written and spoken communication.
+## Key Takeaways
+- **~과/와 같이** is used to compare nouns, meaning **"like"** or **"as if"**.
+- Use **과 같이** after nouns ending with a **consonant**, and **와 같이** after nouns ending with a **vowel**.
+- It's similar to **~처럼**, but attaches to nouns differently and can be slightly more formal.
+## Quick Recap Quiz
+1. Fill in the blank with the correct particle:
+   - 그는 호랑이__ 같이 힘이 세다.
+     - **Answer**: **처럼** or **와** 같이 (Since '호랑이' ends with a vowel, use '와 같이')
+2. Which is more formal, **~과/와 같이** or **~처럼**?
+   - **Answer**: **~과/와 같이** is slightly more formal.
+3. Correct the error in the sentence:
+   - 바람처럼 같이 달린다.
+   - **Answer**: Remove either '처럼' or '같이' to correct redundancy: "바람처럼 달린다." or "바람과 같이 달린다."
+---
+Feel free to practice by making your own sentences using **~과/와 같이** to describe similarities!
+
+---
+© [Hanabira.org](https://hanabira.org)

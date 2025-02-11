@@ -1,74 +1,101 @@
 Processing keyword: ~하건마는 [hageonmaneun] (But, however)
 # Korean Grammar Point: ~하건마는 [hageonmaneun] (But, however)
-# Detailed Grammar Explanation: ~하건마는 [hageonmaneun] (But, however)
+
 ## 1. Introduction
-The Korean grammar point **~하건마는** is a conjunctive ending used to express contrast or contradiction between two clauses, similar to "but" or "however" in English. It helps to introduce a conflicting idea or statement after presenting an initial thought.
+In this lesson, we'll explore the grammatical construction **~하건마는 [hageonmaneun]**, which is used to express contrast or concession, similar to "but" or "however" in English. Understanding this grammar point will help you convey nuanced contrasts in Korean, especially in written and formal contexts.
+
 ---
 ## 2. Core Grammar Explanation
-### Detailed Explanation
-**Meaning:**  
-~하건마는 indicates that while the first statement is true or valid, there is an opposing or contrasting idea that follows.
-**Structure:**  
-The structure of ~하건마는 can be broken down as follows:
-- **Base form + 하건마는**  
-  - The **stem** of the verb is followed by **하건마는**.
-  
-**Formation Diagram:**
-| Base Verb | + | 하건마는 | 
-|-----------|---|----------|
-|   하다    |   | 하건마는 | 
-|   가다    |   | 가건마는 |
-|   먹다    |   | 먹건마는 |
+### Meaning
+**~하건마는 [hageonmaneun]** is used to acknowledge a fact or situation but introduce a contrasting statement. It conveys a sense of concession or opposition, akin to saying "although" or "even though" in English.
+### Structure
+The structure **~하건마는** attaches to the verb stem and is typically used in formal or written Korean.
+#### Formation Diagram
+```
+[Verb Stem] + 건마는
+```
+#### Conjugation Steps
+1. **Take the verb stem**:
+   | Verb (Dictionary Form) | Verb Stem |
+   |------------------------|-----------|
+   | 먹다 (to eat)           | 먹        |
+   | 가다 (to go)            | 가        |
+   | 알다 (to know)          | 알        |
+2. **Add 건마는** to the verb stem:
+   - 먹 **건마는**
+   - 가 **건마는**
+   - 알 **건마는**
+### Notes on Usage
+- **Formal and Literary Tone**: This grammar point is more formal and often found in written texts such as essays, literature, or formal speeches.
+- **Contrasting Statements**: It is used when the speaker wants to acknowledge a prior action or state but present a contrasting outcome or opinion.
 ---
 ## 3. Comparative Analysis
 ### Comparison with Similar Grammar Points
-- **~지만** [jiman]: Also used to express contrast, but is less emphatic than ~하건마는. 
-  - Example: "나는 가고 싶지만, 시간이 없다." (I want to go, but I don't have time.)
-  
-- **~ㄴ/는 반면에** [banmyeon-e]: Used to show a stronger contrast between two situations or qualities.
-  - Example: "그는 똑똑한 반면에, 공부를 하지 않는다." (He is smart, however, he does not study.)
-### Nuance:
-~하건마는 more directly emphasizes the contrast, making it suitable for situations where the contradiction is significant.
+| Grammar Point           | Usage                                  | Nuance                                                            |
+|-------------------------|----------------------------------------|-------------------------------------------------------------------|
+| ~지만 [jiman]            | "but," "however"                       | Commonly used in both spoken and written Korean.                   |
+| ~는데 [neunde]           | "but," "so," "and"                     | Used to provide background or contrast; more colloquial.           |
+| ~하건마는 [hageonmaneun] | "although," "even though," "but"       | More formal; adds a sense of concession; used in formal writing.   |
 ---
 ## 4. Examples in Context
-### Sentence Examples
-1. **Formal Context**  
-   "이 제품은 비싸하건마는, 품질이 좋습니다."  
-   *(This product is expensive, but the quality is good.)*
-2. **Informal Context**  
-   "나는 영화를 보고 싶하건마는, 시간이 없어."  
-   *(I want to watch a movie, but I don't have time.)*
-3. **Written Context**  
-   "그의 주장은 설득력이 있지만, 하건마는 정확성을 결여하고 있다."  
-   *(His argument is persuasive, but it lacks accuracy.)*
-4. **Spoken Context**  
-   "맛있하건마는, 너무 맵다."  
-   *(It's tasty, but it's too spicy.)*
+### Example Sentences
+1. **Formal/Written**
+   - 그가 노력 **하건마는** 성과가 없다.
+     - *Although he makes an effort, there are no results.*
+2. **Formal Speech**
+   - 시간이 많지 않 **건마는** 최선을 다하겠습니다.
+     - *Even though there isn't much time, I will do my best.*
+3. **Literary Context**
+   - 봄이 오 **건마는** 마음은 아직 겨울이다.
+     - *Spring has come, but my heart is still in winter.*
+4. **Essay Writing**
+   - 연구를 진행 **하건마는** 새로운 발견은 없었다.
+     - *We conducted the research; however, there were no new findings.*
 ---
 ## 5. Cultural Notes
-### Cultural Relevance
-In Korean culture, expressing contrasting ideas is often used to maintain politeness while critiquing something. Using ~하건마는 allows speakers to soften the impact of their disagreement or criticism.
-### Levels of Politeness  
-Using this construction shows a level of formality and respect, making it suitable for conversations with acquaintances, superiors, or formal situations.
+### Politeness and Formality
+- **Formal Contexts**: **~하건마는** is considered formal and is often seen in literary works, official documents, and formal speeches.
+- **Not Common in Spoken Korean**: In everyday conversation, Koreans prefer using **~지만** or **~는데** for expressing contrast.
 ### Idiomatic Expressions
-"하건마는" can be part of idiomatic phrases used in debates, discussions, or social commentary, showcasing how opinions can vary even when certain truths are acknowledged.
+- While **~하건마는** itself is not part of idiomatic expressions, understanding its usage can help in comprehending formal writing and classical Korean literature where such structures are more prevalent.
 ---
 ## 6. Common Mistakes and Tips
-### Error Analysis
-- **Overusing**: Beginners often overuse ~하건마는 when a simpler contrast like ~지만 would suffice.
-- **Context**: It’s essential to ensure that both clauses genuinely present contrasting ideas when using this grammar point.
-### Learning Strategies
-- **Mnemonic Device**: Remember: "I have a point (하) that may (건) contrast with what follows (마는)."
-  
+### Common Mistakes
+1. **Using in Informal Conversation**
+   - Incorrect: 오늘 바쁘 **건마는** 못 갈 것 같아. (Using 건마는 in casual speech)
+   - Correct: 오늘 바쁘 **지만** 못 갈 것 같아.
+2. **Attaching to the Wrong Verb Form**
+   - Incorrect: 노력하 **는데건마는** 성과가 없다.
+   - Correct: 노력하 **건마는** 성과가 없다.
+### Tips
+- **Remember the Formality**: Use **~하건마는** in formal writing or situations. For daily conversations, opt for **~지만**.
+- **Verb Stem Usage**: Always attach **건마는** directly to the verb stem without any tense markers.
 ---
 ## 7. Summary and Review
 ### Key Takeaways
-- ~하건마는 is a grammatical structure used to indicate contrast.
-- It is stronger and more formal than ~지만.
-- Appropriate for both spoken and written Korean, especially in formal contexts.
+- **~하건마는 [hageonmaneun]** expresses contrast or concession, similar to "although" or "but" in English.
+- It is used by attaching **건마는** to the verb stem.
+- Predominantly used in formal and written contexts.
+- Not commonly used in everyday spoken Korean.
 ### Quick Recap Quiz
-1. What does ~하건마는 mean in English?
-2. How is ~하건마는 different from ~지만?
-3. Provide an example sentence using ~하건마는 in a formal context.
+1. **Fill in the blank with the correct form of ~하건마는**:
+   그는 돈이 많 **____** 행복하지 않다.
+   
+   <details><summary>Answer</summary>
+   그는 돈이 많 **건마는** 행복하지 않다.
+   </details>
+2. **True or False**: ~하건마는 can be used interchangeably with ~지만 in casual conversation.
+   <details><summary>Answer</summary>
+   False. ~하건마는 is formal and not commonly used in casual conversation.
+   </details>
+3. **Choose the sentence that correctly uses ~하건마는**:
+   a) 시간이 없 **는데건마는** 일을 끝냈다.
+   b) 시간이 없 **건마는** 일을 끝냈다.
+   <details><summary>Answer</summary>
+   b) 시간이 없 **건마는** 일을 끝냈다.
+   </details>
 ---
-This format provides a comprehensive learning guide on the grammar point ~하건마는, ensuring clarity and context for its usage in Korean language.
+By mastering **~하건마는 [hageonmaneun]**, you enhance your ability to express complex contrasts in formal Korean. Keep practicing by reading formal texts and trying to incorporate this structure into your writing exercises.
+
+---
+© [Hanabira.org](https://hanabira.org)

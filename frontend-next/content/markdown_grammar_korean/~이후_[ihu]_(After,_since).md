@@ -1,87 +1,99 @@
 Processing keyword: ~이후 [ihu] (After, since)
 # Korean Grammar Point: ~이후 [ihu] (After, since)
-# Grammar Point: ~이후 [ihu] (After, Since)
-## Introduction
-The Korean grammar point **~이후** is used to indicate that something occurs after a certain point in time or an event. It can also denote the concept of "since" in contexts that describe time.
+
+### 1. Introduction
+In Korean, expressing the sequence of events is essential for clear communication. The grammar point **"~이후"** [ihu], meaning **"after"** or **"since,"** is commonly used to indicate that something happens following a certain time or event.
+
 ---
-## Core Grammar Explanation
-### Detailed Explanation
-- **Meaning**: **~이후** translates to "after" or "since" in English. It denotes a point in time that follows an event.
-- **Structure**: 
-  - It attaches directly to nouns that represent time periods or specific events.
-  - The structure is: **Noun + 이후**
-  
-### Formation Diagram
+### 2. Core Grammar Explanation
+#### **Meaning**
+- **"~이후"** is used to express that an action or event occurs **after** a particular time or event.
+- It can also indicate that a state has continued **since** a specific point in time.
+#### **Structure**
+- **Noun + 이후**
+#### **Formation Diagram**
 ```
-Noun + 이후 → (Time/Event) After/Since
+[Noun (Time/Event)] + 이후
 ```
-### Examples of Usage:
-1. **신년 이후** (after the new year)
-2. **어제 이후** (since yesterday)
-3. **그 사건 이후** (after that incident)
+#### **Usage Notes**
+- Attach **"~이후"** directly to a **noun** representing a time or event.
+- It cannot be used with verbs directly; for verbs, use **"~(으)ㄴ 후에"**.
 ---
-## Visual Aids
-| Noun        | Meaning                     | Example Sentence                               |
-|-------------|-----------------------------|------------------------------------------------|
-| 신년       | New Year                    | 신년 이후로 많은 일이 발생했다. (Many events occurred after the new year.)|
-| 어제       | Yesterday                   | 어제 이후로 연락이 없다. (I haven't had contact since yesterday.)|
-| 그 사건    | That incident               | 그 사건 이후로 그는 조용해졌다. (He became quiet after that incident.)|
+### 3. Comparative Analysis
+#### **Comparison with Similar Grammar Points**
+| Grammar Point      | Structure               | Meaning                   |
+|--------------------|-------------------------|---------------------------|
+| **~이후**          | Noun + 이후             | After/Since (a noun)      |
+| **~(으)ㄴ 후에**   | Verb Stem + (으)ㄴ 후에 | After doing (an action)   |
+| **~(으)면서**      | Verb Stem + (으)면서    | While doing (simultaneous)|
+| **~전(에)**        | Noun + 전(에)           | Before (a noun)           |
+- **Key Differences:**
+  - **"~이후"** is used with **nouns**.
+  - **"~(으)ㄴ 후에"** is used with **verbs** to indicate **after doing something**.
 ---
-## Comparative Analysis
-### Comparing with Similar Grammar Points
-- **~후에 [hu-e]**: Similar to **~이후**, it also means "after," but it can be used after verbs or adjectives and is more versatile.
-  - Example: 3시에 수업이 끝난 후에 나와요. (I'll come out after the class ends at 3.)
-- **~부터 [buteo]**: This means "from" and indicates the starting point of an activity but does not necessarily imply an endpoint like **이후** does.
-  - Example: 아침 8시부터 일해요. (I work from 8 AM.)
-### Key Difference
-- Use **~이후** to indicate something that happens afterward and can imply a broad time period.
-- Use **~후에** when emphasizing actions following specific verbs or events.
-- Use **~부터** to specify the starting point of an action.
+### 4. Examples in Context
+#### **Formal Context**
+1. **회의 이후에 결정을 내리겠습니다.**
+   - *We will make a decision **after the meeting**.*
+2. **입사 이후로 열심히 일하고 있습니다.**
+   - *I have been working hard **since joining the company**.*
+#### **Informal Context**
+1. **수업 이후에 뭐 할 거야?**
+   - *What are you going to do **after class**?*
+2. **점심 이후에 커피 마시자.**
+   - *Let's grab a coffee **after lunch**.*
+#### **Written Context**
+1. **2000년 이후 기술이 많이 발전했다.**
+   - *Technology has advanced a lot **since the year 2000**.*
+2. **그 사건 이후 사회가 변했다.**
+   - *Society changed **after that incident**.*
+#### **Spoken Context**
+1. **영화 이후에 집에 갈래요?**
+   - *Do you want to go home **after the movie**?*
+2. **퇴근 이후에 시간이 있을까요?**
+   - *Will you have time **after work**?*
 ---
-## Examples in Context
-### Sentence Examples
-1. **Formal Written**:
-   - **회의 이후에 보고서를 제출해야 합니다.**
-   - (You must submit the report after the meeting.)
-  
-2. **Informal Spoken**:
-   - **학교 이후에 친구들이랑 놀 거야.**
-   - (I will hang out with my friends after school.)
-  
-3. **Written**:
-   - **그 날 이후로 우리는 연락을 하지 않았다.**
-   - (We haven’t been in contact since that day.)
-  
-4. **Spoken**:
-   - **여름 방학 이후에 더워졌다.**
-   - (It got hotter after summer vacation.)
+### 5. Cultural Notes
+#### **Cultural Relevance**
+- In Korean work and social culture, being specific about time is important. Using terms like **"~이후"** helps clarify schedules and plans.
+- Punctuality and adherence to agreed times are valued, so specifying **"after"** certain events is common in planning.
+#### **Idiomatic Expressions**
+- **사건 이후로 손을 씻었다.**
+  - *I washed my hands of it **since the incident**.*
+- **그날 이후로 연락이 끊겼다.**
+  - *Communication has ceased **since that day**.*
 ---
-## Cultural Notes
-### Cultural Relevance
-In Korean culture, timing and punctuality are valued. Using **이후** appropriately reflects an understanding of social norms regarding time management, especially in formal situations. 
-### Levels of Politeness
-Using **이후** is generally neutral and used in both formal and informal contexts, depending on the surrounding sentence structure and additional contextual factors.
-### Idiomatic Expressions
-- **그 후** (after that): A common expression to indicate the continuation of events.
-- **이후로** (after that): Often used to talk about subsequent events.
+### 6. Common Mistakes and Tips
+#### **Error Analysis**
+1. **Incorrect Usage with Verbs**
+   - *Incorrect:* 먹다 **이후**
+   - *Correct:* 식사 **이후**
+   - **Explanation:** **"~이후"** should attach to a noun. For verbs, use **"~(으)ㄴ 후에"** (먹은 후에).
+2. **Confusing with "~(으)면" (if/when)**
+   - *Incorrect:* 수업 이후면 전화해 주세요.
+   - *Correct:* 수업 **이후에** 전화해 주세요.
+   - **Explanation:** Do not mix **"~이후"** with conditional endings.
+#### **Learning Strategies**
+- **Remember the Noun Connection:** **"이후"** starts with **"이,"** just like **"이름"** (name/noun). This can help you recall that **"~이후"** attaches to **nouns**.
+- **Practice Pairing:** Make lists of events or times (e.g., **퇴근**, **저녁**, **시험**) and practice adding **"~이후"** to them.
 ---
-## Common Mistakes and Tips
-### Error Analysis
-- **Confusing ~이후 with ~전 [jeon]**: Many learners mistake it for **~전** (before). Remember that **이후** indicates a time **after** an event.
-  
-### Learning Strategies
-- **Mnemonic Device**: Remember "이후" as “after” by associating "이" with "it" which denotes an action and "후" with "who" that signifies what comes next in a sequence.
+### 7. Summary and Review
+#### **Key Takeaways**
+- **"~이후"** means **"after"** or **"since"** and is used with **nouns**.
+- It indicates that something happens following a specific time or event.
+- Do **not** attach **"~이후"** to verbs; use **"~(으)ㄴ 후에"** for verbs.
+#### **Quick Recap Quiz**
+1. **Fill in the blank with the correct grammar point:**
+   **졸업 ____ 무엇을 할 계획이에요?**
+   - **Answer:** **이후에**
+2. **True or False:** **"만난 이후에"** is correctly using **"~이후."**
+   - **Answer:** **False** (Because **"만난"** is a verb form; should use **"만난 후에"**)
+3. **Choose the correct sentence:**
+   a) 그는 여행 이후에 사진을 정리했어요.
+   b) 그는 여행한 이후에 사진을 정리했어요.
+   - **Answer:** **a) 그는 여행 이후에 사진을 정리했어요.**
 ---
-## Summary and Review
-### Key Takeaways
-- **~이후** means "after" or "since" and is used to denote events happening after a certain time or event.
-- It attaches to nouns and can indicate time frames or specific incidents.
-- It is crucial to differentiate it from other similar expressions.
-### Quick Recap Quiz
-1. What does **~이후** mean in English?
-2. Give an example of a sentence using **~이후**.
-3. How does **~이후** differ from **~후에**? 
-Answers:
-1. "After" or "since".
-2. (Varies by learner.)
-3. **~이후** indicates the timeframe following a noun, while **~후에** often follows verbs or actions.
+By mastering **"~이후,"** you enhance your ability to discuss timelines and articulate events with clarity in Korean. Keep practicing by forming your own sentences and soon it will become second nature!
+
+---
+© [Hanabira.org](https://hanabira.org)

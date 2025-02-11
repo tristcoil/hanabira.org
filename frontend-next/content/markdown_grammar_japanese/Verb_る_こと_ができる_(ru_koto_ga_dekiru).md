@@ -1,64 +1,150 @@
 Processing keyword: Verb る こと ができる (ru koto ga dekiru)
 # Japanese Grammar Point: Verb る こと ができる (ru koto ga dekiru)
-# Verb る こと ができる (ru koto ga dekiru)
+
 ## 1. Introduction
-The grammar point ることができる (ru koto ga dekiru) is used to express the ability or possibility to do something. It is commonly used to convey that a certain action can be performed. 
+The grammar structure **Verbることができる** is used in Japanese to express **ability or possibility** to do something. It translates to "**can**" or "**be able to**" in English.
+
+---
 ## 2. Core Grammar Explanation
 ### Detailed Explanation
-- **Structure**: Verb る (ru-form) + こと + が (ga) + できる (dekiru)
-- This structure combines the **ru-form** of the verb, which is the dictionary form, with こと (koto), indicating "the fact of doing (something)", followed by ができる (ga dekiru), meaning "can do".
+**Meaning:**  
+To express the ability or possibility to perform an action.
+**Structure:**  
+- **[Verb in Dictionary Form] + ことができる**
+**Explanation:**  
+- **こと** means "thing" or "matter".
+- **が** is the subject marker.
+- **できる** means "can" or "be able to".
+So, literally, it means "**the thing of doing [verb] is possible**".
+---
 ### Formation Diagram
+1. **Take the dictionary form of the verb.**
+2. **Add ことができる after the verb.**
 ```
-[Base Verb] る + こと + が + できる
+[Verb (Dictionary Form)] + ことができる
 ```
-### Meaning
-- Essentially, this construction indicates the ability to perform an action defined by the verb.
-### Examples of Verb Forms
-- 食べる (taberu - to eat) → 食べることができる (taberu koto ga dekiru - can eat)
-- 行く (iku - to go) → 行くことができる (iku koto ga dekiru - can go)
-  
+---
+### Examples:
+| Verb (Dictionary Form) | + ことができる       | Meaning               |
+|------------------------|----------------------|-----------------------|
+| 見る (miru)             | 見ることができる     | can see               |
+| 食べる (taberu)         | 食べることができる   | can eat               |
+| 行く (iku)              | 行くことができる     | can go                |
+| 書く (kaku)             | 書くことができる     | can write             |
+| 話す (hanasu)           | 話すことができる     | can speak             |
+---
 ## 3. Comparative Analysis
-- **Verb なければならない (naka-reba naranai)**: Indicates necessity, while ことができる indicates ability. For instance, 
-  - できる (dekiru) = can do
-  - なければならない (nakereba naranai) = must do
+### ことができる vs. Potential Form
+Japanese has another way to express ability called the **Potential Form**.
+- **Potential Form Example:**  
+  - 見る → 見られる (miru → mirareru)  
+    *can see*
+- **ことができる Example:**  
+  - 見ることができる (miru koto ga dekiru)  
+    *can see*
+**Differences:**
+- **Formality:**  
+  - **ことができる** is more formal and often used in written language.
+  - **Potential Form** is used more in spoken language.
+- **Usage with Verbs:**  
+  - Some verbs do not have a potential form, so **ことができる** must be used.
+  - **Potential Form** can sometimes be shorter and more conversational.
+---
 ## 4. Examples in Context
 ### Sentence Examples
-1. **Formal Context**:
-   - 日本語を話すことができます。  
-   (Nihongo o hanasu koto ga dekimasu.)  
-   "I can speak Japanese."
- 
-2. **Informal Context**:
-   - 週末は遊びに行けることができるよ。  
-   (Shūmatsu wa asobi ni ikeru koto ga dekiru yo.)  
-   "I can go out to play this weekend."
-3. **Written Context**:
-   - このプログラムでは、様々な言語を学ぶことができる。  
-   (Kono puroguramu de wa, samazama na gengo o manabu koto ga dekiru.)  
-   "This program allows one to learn various languages."
-4. **Spoken Context**:
-   - 山登りは簡単で、誰でもできることだ。  
-   (Yama nobori wa kantan de, dare demo dekiru koto da.)  
-   "Hiking is easy and anyone can do it."
+1. **Formal Written:**
+   - **この美術館では写真を撮ることができません。**  
+     *Kono bijutsukan de wa shashin o toru koto ga dekimasen.*  
+     *You cannot take photos in this art museum.*
+2. **Informal Spoken:**
+   - **明日、海に行くことができる？**  
+     *Ashita, umi ni iku koto ga dekiru?*  
+     *Can you go to the beach tomorrow?*
+3. **Polite Request:**
+   - **質問することができますか。**  
+     *Shitsumon suru koto ga dekimasu ka.*  
+     *May I ask a question?*
+4. **Expressing Ability:**
+   - **彼女は日本語を話すことができます。**  
+     *Kanojo wa Nihongo o hanasu koto ga dekimasu.*  
+     *She can speak Japanese.*
+5. **Negative Form:**
+   - **車を運転することができない。**  
+     *Kuruma o unten suru koto ga dekinai.*  
+     *I can't drive a car.*
+---
+### Context Variations
+- **Formal Conversations:**  
+  - 先生と相談することができます。  
+    *Sensei to sōdan suru koto ga dekimasu.*  
+    *You can consult with the teacher.*
+- **Giving Permissions:**  
+  - **ここで喫煙することができません。**  
+    *Koko de kitsuen suru koto ga dekimasen.*  
+    *You cannot smoke here.*
+- **Expressing Past Ability:**
+  - **昨日は早く起きることができました。**  
+    *Kinō wa hayaku okiru koto ga dekimashita.*  
+    *I was able to wake up early yesterday.*
+---
 ## 5. Cultural Notes
 ### Cultural Relevance
-- Discussing one's abilities is a common part of conversations in Japan. Politeness is crucial, so using the correct form (できる vs. できます) reflects respect toward the listener.
-  
+- **Politeness Levels:**  
+  Using **ことができる** is considered more polite and formal, which aligns with the Japanese emphasis on respecting social hierarchy and formality in language.
+- **Indirectness:**  
+  Japanese communication often prefers indirect expressions. **ことができる** adds a level of softness and formality.
 ### Idiomatic Expressions
-- **何でもできる** (nandemo dekiru) - "can do anything"
+- **見ることができる番組:**  
+  *Miru koto ga dekiru bangumi*  
+  *Programs you can watch*
+- **利用することができます:**  
+  *Riyō suru koto ga dekimasu*  
+  *You can use (formal, often seen in public facilities)*
+---
 ## 6. Common Mistakes and Tips
 ### Error Analysis
-- Mixing up the verb forms: Remember to use the ru-form of the verb before ことができる.
-- Using できる (dekiru) in a polite form without changing to できます (dekimasu) when needed.
+1. **Omitting the Particle が:**
+   - **Incorrect:** *食べることできる*
+   - **Correct:** *食べること**が**できる*
+   - **Tip:** Don't forget the particle **が** after **こと**.
+2. **Using ことができる with Potential Form Verb:**
+   - **Incorrect:** *食べられることができる*
+   - **Correct:** Use either **食べられる** *or* **食べることができる**, not both.
+   - **Tip:** Do not combine potential form verbs with **ことができる**.
+3. **Misplacing ことができる:**
+   - **Incorrect:** *ことができる食べる*
+   - **Correct:** *食べることができる*
+   - **Tip:** Place **ことができる** after the dictionary form of the verb.
 ### Learning Strategies
-- Mnemonic: Think of **"能力"** (nouryoku - ability) being linked to **"できる"** to remember that this grammatical structure refers to capabilities.
+- **Practice with Common Verbs:**  
+  Make a list of verbs you frequently use and practice forming sentences with **ことができる**.
+- **Visualize the Structure:**  
+  Remember that **ことができる** turns the verb into a noun phrase meaning "the act of doing [verb] is possible".
+- **Listen and Repeat:**  
+  Listen to native speakers or audio resources using **ことができる** to get accustomed to its usage.
+---
 ## 7. Summary and Review
 ### Key Takeaways
-- ることができる is used to express the ability to perform an action.
-- Always use the ru-form of the verb before ことができる.
-- Understand the levels of politeness when communicating abilities.
+- **Verbることができる** is used to express the ability or possibility to do something.
+- It is formed by adding **ことができる** to the dictionary form of a verb.
+- **ことができる** is more formal than the potential form and is suitable for formal writing and speech.
+- Be mindful of particles and do not mix potential forms with **ことができる**.
 ### Quick Recap Quiz
-1. What is the structure of ることができる?
-2. How do you say "I can eat" using this grammar point?
-3. What is the difference between できる and できます? 
-Feel free to use this information to enhance your understanding of the grammar point!
+1. **How do you say "I can read Japanese" using ことができる?**
+   a) 日本語を読むことができます。  
+   b) 日本語を読めることができます。  
+   c) 日本語を読むことができる。
+2. **Which is more formal:**
+   a) 食べられる  
+   b) 食べることができる
+3. **Is it correct to say "話せることができる"?**
+---
+**Answers:**
+1. **a)** 日本語を読むことができます。  
+2. **b)** 食べることができる  
+3. **No**, you should not combine the potential form **話せる** with **ことができる**.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

@@ -1,159 +1,111 @@
 Processing keyword: A とも B とも (A tomo B tomo)
 # Japanese Grammar Point: A とも B とも (A tomo B tomo)
-# A とも B とも (A tomo B tomo)
+
 ## 1. Introduction
-The grammar point A とも B とも (A tomo B tomo) is used in Japanese to express the idea of "both A and B" or "either A or B", emphasizing the inclusion of both elements in a statement. It is often used to convey a sense of equivalence or similarity between the two subjects.
+In Japanese, expressing uncertainty or ambiguity is often necessary, especially when you cannot clearly define or categorize something. The grammar point **AともBとも** is used to convey that something cannot be definitively labeled as A or B. This structure is particularly useful for expressing nuanced opinions or observations.
+
 ---
 ## 2. Core Grammar Explanation
-### Detailed Explanation
-- **Meaning**: The phrase indicates that both items A and B are considered together. 
-- **Structure**: 
-  - A とも B とも
-  - Where A and B can be nouns, verbs, or adjectives.
+### Meaning
+**AともBとも** translates to "**Neither A nor B**" or "**Cannot say whether A or B**". It is used when the speaker cannot definitively state that something is A or B, highlighting uncertainty or indecisiveness.
+### Structure
+The basic formation of this grammar point is:
+```
+[A] とも [B] とも + 言えない／分からない／決められない／判断できない
+```
+- **A** and **B** are usually adjectives, verbs in plain form, or nouns.
+- Often followed by verbs like **言えない** (cannot say), **分からない** (don't know), or **判断できない** (cannot judge).
 ### Formation Diagram
-```plaintext
-[ A ] とも [ B ] とは 
-  |
-  v
-Both A and B are included/noted.
+| **Component**               |                **Explanation**                |
+| --------------------------- | :-------------------------------------------: |
+| Aとも                       |    "even A" (implying not definitively A)     |
+| Bとも                       |    "even B" (implying not definitively B)     |
+| 言えない／分からない etc.    | Expression of inability to decide or define |
+### Visual Aid
+```mermaid
+graph LR
+A[Aとも] --> C{言えない<br/>分からない}
+B[Bとも] --> C
 ```
 ---
 ## 3. Comparative Analysis
-### Compared with Similar Grammar Points:
-- **A も B も (A mo B mo)**: This also means "both A and B," but it maintains a connection or similarity without the emphasis of personal involvement or preference.
-- **A か B か (A ka B ka)**: This form means "either A or B," indicating a choice between two options rather than inclusion.
-### Nuances:
-- **A とも B とも** carries a tone that includes both options equally and is often used in contexts where both aspects are relevant.
-- **A も B も** leans more toward stating that each item belongs to a list without an implicative or inclusive tone.
+### Similar Grammar Points
+- **AでもBでもない**: Directly means "not A nor B". Used to state that something is neither A nor B.
+  - *Example*: 彼は学生でも先生でもない。 (He is neither a student nor a teacher.)
+**Comparison**:
+- **AともBとも言えない** implies uncertainty or inability to classify, while **AでもBでもない** definitively states that something is neither A nor B.
 ---
 ## 4. Examples in Context
-### Sentence Examples
-1. **Formal**:  
-   私は、日本語とも英語とも話せます。  
-   (Watashi wa, Nihongo tomo Eigo tomo hanasemasu.)  
-   "I can speak both Japanese and English."
-2. **Informal**:  
-   昨日は遊びとも勉強とも忙しかった。  
-   (Kinō wa asobi tomo benkyō tomo isogashikatta.)  
-   "Yesterday was busy both with playing and studying."
-3. **Written**:  
-   この会議では、成長とも発展とも関連するテーマを議論します。  
-   (Kono kaigi de wa, seichō tomo hatten tomo kanrensuru tēma o giron shimasu.)  
-   "In this meeting, we will discuss themes related to both growth and development."
-4. **Spoken**:  
-   泳ぐとも走るとも好きだよ！  
-   (Oyogu tomo hashiru tomo suki da yo!)  
-   "I like both swimming and running!"
+### Example 1
+**Sentence**:
+- 彼の表情は嬉しいとも悲しいとも判断できない。
+**Reading**:
+- かれの ひょうじょう は うれしい とも かなしい とも はんだん できない。
+**Translation**:
+- "I cannot determine whether his expression is happy or sad."
+### Example 2
+**Sentence**:
+- その映画は面白いともつまらないとも言えない。
+**Reading**:
+- その えいが は おもしろい とも つまらない とも いえない。
+**Translation**:
+- "I can't say whether the movie is interesting or boring."
+### Example 3
+**Sentence**:
+- この料理は美味しいとも美味しくないとも言えない味だ。
+**Reading**:
+- この りょうり は おいしい とも おいしくない とも いえない あじ だ。
+**Translation**:
+- "This dish has a taste that I can't say is delicious or not."
+### Example 4 (Formal Context)
+**Sentence**:
+- 結果は成功とも失敗とも申せません。
+**Reading**:
+- けっか は せいこう とも しっぱい とも もうせません。
+**Translation**:
+- "I cannot say whether the results are a success or a failure."
 ---
 ## 5. Cultural Notes
 ### Cultural Relevance
-Understanding this grammar point is essential to navigate social situations in Japan where expressing preferences or confirming agreement on multiple options is common.
-### Levels of Politeness and Formality
-This grammar can be used in both formal and informal settings; however, the context in which you choose to use it (formal greetings vs casual chats) may dictate other grammatical choices.
-### Idiomatic Expressions
-- 友達とも遊びたいです。  
-  (Tomodachi tomo asobitai desu.)  
-  "I want to hang out with my friends too."
+In Japanese communication, expressing uncertainty or avoiding direct statements is common, especially to maintain harmony and avoid conflict. The use of **AともBとも** allows the speaker to convey ambiguity politely.
+### Levels of Politeness
+- The verbs following **AともBとも** can be adjusted for politeness:
+  - Casual: 言えない (can't say)
+  - Polite: 言えません (can't say)
+  - Humble/Formal: 申せません (cannot say - humble form)
 ---
 ## 6. Common Mistakes and Tips
 ### Error Analysis
-- Mistaking A とも B とも for A も B も may lead to subtle changes in meaning. 
-- Learners sometimes forget to use the とも conjunction correctly with plural nouns or verbs.
+- **Mistake**: Using **AともBとも** with only one option.
+  - *Incorrect*: 彼は行くとも言えない。
+  - *Correct*: 彼は行くとも行かないとも言えない。
+- **Mistake**: Forgetting to include the verb expressing uncertainty.
+  - *Incorrect*: 天気は晴れとも雨とも。
+  - *Correct*: 天気は晴れとも雨とも分からない。
 ### Learning Strategies
-- **Mnemonic Device**: Remember both "tomo" means "together" or "both", think of "two" in "together".
-- Practice with lists: Write sentences pairing different activities or objects to internalize this structure.
+- **Mnemonic Device**: Remember that **とも** repeats after both A and B to emphasize the uncertainty about both options.
+- **Tip**: Pair **AともBとも** with verbs like **言えない**, **判断できない**, **分からない** to complete the expression.
 ---
 ## 7. Summary and Review
 ### Key Takeaways
-- **Usage**: A とも B とも conveys the idea of "both A and B".
-- **Context**: Flexible for use in both formal and informal speech.
-- **Comparison**: Distinct from similar forms like A も B も and A か B か.
+- **AともBとも** is used to express that something cannot be clearly defined as A or B.
+- It emphasizes uncertainty or the inability to make a definitive judgment.
+- Commonly followed by verbs expressing inability to decide, such as **言えない** or **分からない**.
+- Reflects the Japanese communication style of expressing ambiguity politely.
 ### Quick Recap Quiz
-1. What does A とも B とも mean in English?
-2. How does A とも B とも differ from A も B も?
-3. Provide an example sentence using A とも B とも in a context you might encounter daily.
+1. **Fill in the blank**: その答えは正しいとも間違っているとも ______。
+   - **Answer**: 言えない
+2. **True or False**: The structure **AともBとも** can be used to definitively state that something is neither A nor B.
+   - **Answer**: False (It expresses uncertainty, not a definitive statement.)
+3. **Choose the correct verb**: 天気が良いとも悪いとも ______。
+   - a) 思う
+   - b) 分からない
+   - c) 決めた
+   - **Answer**: b) 分からない
 ---
-Processing keyword: A とも B とも (A tomo B tomo)
-# Japanese Grammar Point: A とも B とも (A tomo B tomo)
-# A とも B とも (A tomo B tomo)
-## Introduction
-The grammar point **とも (tomo)** is used in Japanese to express similarity or equivalence between two nouns or clauses. It conveys the idea that both elements are considered together, often implying that they hold the same significance or truth. This structure is commonly seen in both formal and informal contexts.
-## Core Grammar Explanation
-### Detailed Explanation
-- **Structure**: The construction follows the pattern **A とも B とも**.
-  - **A** and **B** represent nouns or nominal phrases.
-  - The use of **とも** emphasizes that both **A** and **B** share a common attribute or quality.
-### Meaning
-- The phrase **A とも B とも** translates to "both A and B" or "whether A or B" in English.
-- It is often used to highlight agreement, similarity, or the fact that both elements are equally valid or acceptable.
-### Formation Diagram
-```
-A とも B とも
-   ↓      ↓
-Both A and B
-```
-## Visual Aids
-|     |       |
-|-----|-------|
-| A   | Item 1|
-| とも | (and/or) |
-| B   | Item 2|
-## Comparative Analysis
-**とも** vs **や**:
-- While **とも** emphasizes equality or similarity, **や** is used to list items without the same level of equivalence.
-  - **Example**: 
-    - A とも B とも (Both A and B are true.)
-    - A や B (A, B, etc. – not necessarily implying equivalence.)
-**とも** vs **も**:
-- **も** is generally used to express "too" or "also" but typically focuses on one element rather than drawing a parallel between two.
-  - **Example**: 
-    - 彼も行きます (He is going too.)
-    - However, A とも B とも sanctions a stronger sense of togetherness in comparison.
-## Examples in Context
-### Sentence Examples
-1. **Formal**:
-   - 日本の文化ともアメリカの文化とも、非常に興味深いです。
-   - (Both Japanese culture and American culture are very interesting.)
-   
-2. **Informal**:
-   - 今日とも明日とも、遊びに行こうよ。
-   - (Let's hang out either today or tomorrow.)
-   
-3. **Written**:
-   - 彼の成功とも努力とも、我々は学ぶことが多い。
-   - (There is much to learn from both his success and his effort.)
-4. **Spoken**:
-   - その映画とも本とも、話題にしています。
-   - (We are talking about both the movie and the book.)
-## Cultural Notes
-### Cultural Relevance
-- **とも** showcases the Japanese value placed on group harmony and equality. Using this structure can reflect a respectful acknowledgment of multiple perspectives or experiences, reinforcing the concept of considering all parties equally.
-### Levels of Politeness
-- The use of **とも** in various contexts does not inherently change with politeness levels; however, the context (i.e., formal setting) may dictate the overall tone of conversation.
-### Idiomatic Expressions
-- A common expression using this grammar is: 
-  - 「事実とも意見とも、考えを共有することが大切です。」
-  - (Both the facts and opinions are important to share.)
-## Common Mistakes and Tips
-### Error Analysis
-- **Incorrect**: 私の友達とも母とも好きです。
-  - (Incorrect because it lacks a verb; it seems incomplete.)
-  
-- **Correct**: 私の友達とも母とも、映画が好きです。
-  - (Correct structure including a verb.)
-### Learning Strategies
-- To remember the usage of **とも**, think of "together". If you consider it as both elements being equally important or valid, you will use it correctly.
-## Summary and Review
-### Key Takeaways
-- **とも** indicates similarity, focusing on two elements being equally relevant or true.
-- It can be used in formal and informal contexts alike.
-- It differs from similar expressions like **や** (or) and **も** (also), which do not emphasize similarity.
-### Quick Recap Quiz
-1. What does **A とも B とも** mean in English?
-   - Answer: Both A and B / either A or B.
-  
-2. In which context would you use **A とも B とも**?
-   - Answer: To express that both items or statements being referred to are of equal significance.
-3. Provide an example sentence using **A とも B とも**.
-   - Answer: 旅行とも勉強とも、楽しいです。
-   - (Both traveling and studying are fun.)
+Feel free to revisit the examples and explanations to reinforce your understanding of **AともBとも**. Practice by creating your own sentences using this grammar point!
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

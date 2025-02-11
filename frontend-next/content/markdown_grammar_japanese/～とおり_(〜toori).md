@@ -1,150 +1,120 @@
 Processing keyword: ～とおり (〜toori)
 # Japanese Grammar Point: ～とおり (〜toori)
-# Japanese Grammar Point: ～とおり (〜toori)
+
 ## 1. Introduction
-The grammar point ～とおり (〜toori) is used to express that something is done in the way as it has been stated or in accordance with something else. It can mean "as" or "in accordance with." 
+The grammar point **〜とおり** (〜**とおり**) is a useful expression in Japanese that means "just as", "exactly as", or "according to". It is used to indicate that an action or state occurs in the same way as something else. Understanding how to use 〜とおり can help you accurately describe events and actions that align with expectations, instructions, or previous statements.
+
+---
 ## 2. Core Grammar Explanation
-### Meaning and Structure
-The structure of ～とおり is as follows:
-- **Noun + の + とおり**  
-- **Verb (dictionary form) + とおり**  
-- **い-Adjective (root form) + とおり**  
-- **な-Adjective (root form) + とおり**
-### Formation Diagram
-```
-[ Noun/Verb/Adjective ] + とおり
-```
-**Example Structure:**
-- 本のとおり = as the book says
-- 学んだとおり = as I learned
-- きれいなとおり = in a beautiful way
-### Detailed Explanation
-1. **Nouns**: When using a noun, you must connect it with の (no) before adding とおり (toori).
-   - 例: 彼の言ったとおり (Kare no itta toori) – "as he said."
-2. **Verbs**: Use the dictionary form of the verb directly before とおり.
-   - 例: 説明したとおり (Setsumei shita toori) – "as explained."
-3. **Adjectives**: For い-adjectives, use their root form directly with とおり.
-   - 例: 高いとおり (Takai toori) – "in a high way."
-4. **な-Adjectives**: Use the root form followed by な before とおり.
-   - 例: きれいなとおり (Kirei na toori) – "in a beautiful way."
+### Meaning
+- **〜とおり** conveys the meaning of "as", "just as", "the same as", or "according to".
+- It is used to express that something happens in the same manner or way as something else.
+### Structure
+The structure of **〜とおり** depends on the word that precedes it.
+#### Formation
+1. **Verb Dictionary Form + とおり**
+   - **Vる + とおり**
+   - *Indicates that an action is done as per the verb's action.*
+2. **Verb Ta-Form (Past Tense) + とおり**
+   - **Vた + とおり**
+   - *Expresses that something occurred just as was done or said.*
+3. **Noun + のとおり**
+   - **N + のとおり**
+   - *Uses the possessive particle の to connect the noun.*
+4. **Noun + どおり**
+   - **N + どおり**
+   - *An alternative where の is omitted, and とおり becomes どおり.*
+#### Visual Aid: Structure Table
+| Preceding Word         | Structure       | Example                        |
+|------------------------|-----------------|--------------------------------|
+| Verb (Dictionary Form) | Vる + とおり     | 見るとおり (Just as I see)       |
+| Verb (Ta-Form)         | Vた + とおり     | 聞いたとおり (Just as I heard)   |
+| Noun                   | N + のとおり     | 指示のとおり (According to instructions) |
+| Noun                   | N + どおり       | 予定どおり (As planned)          |
+---
 ## 3. Comparative Analysis
-### Similar Grammar Points
-- **～ように (〜you ni)**: While both are used to express a manner of doing something, ～ように can imply a request or instruction, while ～とおり describes adherence to an established fact or instruction.
-  - Example: 言ったように (Itta you ni) – "as I said (in a way that you should follow)."
+### 〜とおり vs 〜ように
+- **〜ように** also means "as" or "like", but it is often used to express a goal or a desired outcome.
+- **〜とおり** emphasizes that something happens exactly as something else.
+**Example:**
+- **先生が言ったとおりに書きます。**
+  - "I will write exactly as the teacher said."
+- **先生が言うように書きます。**
+  - "I will write so that it is like the teacher says."
+---
 ## 4. Examples in Context
-### Sentence Examples
-1. **Formal:**
-   - 先生が説明したとおりに、宿題を提出してください。  
-     (Sensei ga setsumei shita toori ni, shukudai o teishutsu shite kudasai.)  
-     – "Please submit your homework as the teacher explained."
-2. **Informal:**
-   - あなたの言ったとおりだよ。  
-     (Anata no itta toori da yo.)  
-     – "You're right, just as you said."
-3. **Written:**
-   - 彼の教えたとおりに実行する必要があります。  
-     (Kare no oshieta toori ni jikkou suru hitsuyou ga arimasu.)  
-     – "It is necessary to execute it as he taught."
-4. **Spoken:**
-   - 昨日の試合のとおりでいいの?  
-     (Kinou no shiai no toori de ii no?)  
-     – "Is it okay to do it the same way as yesterday's match?"
+### Example Sentences
+#### 1. Verb Dictionary Form + とおり
+- **彼は思うとおりに行動した。**
+  - *Kare wa omou toori ni kōdō shita.*
+  - "He acted just as he thought."
+#### 2. Verb Ta-Form + とおり
+- **試験は私が予想したとおり難しかった。**
+  - *Shiken wa watashi ga yosō shita toori muzukashikatta.*
+  - "The exam was difficult just as I had expected."
+#### 3. Noun + のとおり
+- **地図のとおりに行けば迷わない。**
+  - *Chizu no toori ni ikeba mayowanai.*
+  - "If you go according to the map, you won't get lost."
+#### 4. Noun + どおり
+- **計画どおりに仕事が進んでいます。**
+  - *Keikaku doori ni shigoto ga susunde imasu.*
+  - "The work is progressing as planned."
+### Formal and Informal Contexts
+#### Formal
+- **説明書のとおりに操作してください。**
+  - *Setsumeisho no toori ni sōsa shite kudasai.*
+  - "Please operate according to the instruction manual."
+#### Informal
+- **君の言ったとおりだね。**
+  - *Kimi no itta toori da ne.*
+  - "It's just as you said."
+---
 ## 5. Cultural Notes
 ### Cultural Relevance
-The usage of ～とおり is significant in Japanese culture, reflecting the importance of following instructions and respecting others' input. It emphasizes conformity and the societal expectation to adhere to established norms.
+- In Japanese culture, **following instructions and conforming to expectations** is often emphasized.
+- Using **〜とおり** reflects a respect for directions, plans, and the insights of others.
+### Levels of Politeness
+- The politeness level is determined by the formality of the verbs and expressions used alongside **〜とおり**.
+- **〜とおり** itself is neutral but can be used in both formal and informal settings.
 ### Idiomatic Expressions
-- 彼の意見に従うとおり、私たちも同じことをしなければなりません。  
-  (Kare no iken ni shitagau toori, watashitachi mo onaji koto o shinakereba narimasen.)  
-  – "We must also do the same thing as per his opinion."
+- **思いどおり**
+  - Means "as one wishes" or "to one's satisfaction".
+  - **例:** **全てが思いどおりにいくわけではない。**
+    - *Subete ga omoidoori ni iku wake de wa nai.*
+    - "Not everything goes as one wishes."
+---
 ## 6. Common Mistakes and Tips
 ### Error Analysis
-- **Missing の in Noun Phrases**: Learners often forget to use の when using nouns.
-- **Incorrect Verb Forms**: Using a conjugated verb form instead of the dictionary form.
+1. **Incorrect Verb Form Usage**
+   - **Common Mistake:** Using the wrong verb form before **〜とおり**.
+     - Incorrect: **彼が言うとおりにします。**
+     - Correct (if referring to something he said in the past): **彼が言ったとおりにします。**
+2. **Confusing のとおり and どおり**
+   - **Tip:** Remember that **どおり** is used directly after certain nouns without **の**.
 ### Learning Strategies
-- **Mnemonic Device**: Remember "toori" as "doorway" to correctly follow through and adhere to instructions.
+- **Mnemonic Device:** Think of **とおり** as "to order" — doing something "to order" or "as ordered".
+- **Practice Pairing:** Create sentence pairs using both **〜とおり** and **〜ように** to understand the nuances.
+---
 ## 7. Summary and Review
 ### Key Takeaways
-- ～とおり expresses doing something "as" or "in accordance with" something else.
-- This grammar point incorporates nouns, verbs, and adjectives structurally.
-- It conveys a level of politeness and adherence to societal norms in Japanese culture.
+- **〜とおり** is used to express that something happens "just as" something else.
+- It can be used with verbs in dictionary or past tense forms and with nouns.
+- Pay attention to verb forms and whether to use **のとおり** or **どおり** after nouns.
 ### Quick Recap Quiz
-1. What is the structure to use a noun with とおり?
-2. Translate this sentence: 彼は私が言ったとおりに行動した。
-3. True or False: ～ように and ～とおり can be used interchangeably.
-Feel free to review these points and ask any questions for clarification!
-Processing keyword: ～とおり (〜toori)
-# Japanese Grammar Point: ～とおり (〜toori)
-# Grammar Point: ～とおり (〜toori)
-## 1. Introduction
-The grammar point ～とおり (〜toori) is commonly used in Japanese to indicate that something is done in accordance with a method, direction, or manner. It expresses the idea of "as you have shown," "in the same way," or "as stated."
-## 2. Core Grammar Explanation
-### Detailed Explanation
-The structure of ～とおり (〜toori) is as follows:
-- **Structure**: 
-  - [Verb (dictionary form) + とおり] 
-  - [Noun + の + とおり]
-#### Meaning and Usage
-- **Literal Translation**: "in accordance with" or "as"
-- **Purpose**: To describe an action or state that follows a certain method or model.
-- **Forms**:
-  - **Verb**: Verb (dictionary form) + とおり, e.g., する → する とおり
-  - **Noun**: Noun + の + とおり, e.g., 計画 → 計画のとおり
-### Formation Diagram
-```plaintext
-[Verb (dictionary form) + とおり]
-         ↓
-    する とおり → することにした (Decided to do)
-[Noun + の + とおり]
-         ↓
-    計画のとおり (As stated in the plan)
-```
-### Visual Aids
-| Structure            | Example                  | Translation                        |
-|---------------------|--------------------------|------------------------------------|
-| Verb + とおり       | 言ったとおり (itta toori) | Just as I said                    |
-| Noun + の + とおり   | 彼の言ったとおり (kare no itta toori) | Just as he said                   |
-## 3. Comparative Analysis
-### Comparison with similar grammar points:
-- **ような/ように (youna/youni)**: While both ～とおり and ように express similarity, ように is often used for similes and indirect comparisons, whereas ～とおり is more direct and often relates to actions or procedures.
-  
-- **まま (mama)**: まま refers to something being left unchanged or in its current state, while ～とおり indicates action is performed according to a specific method or description.
-## 4. Examples in Context
-### Sentence Examples
-1. **Formal**: 
-   - 先生が教えたとおりに、宿題をやりました。
-   - (Sensei ga oshieta toori ni, shukudai o yarimashita.)
-   - "I did my homework as the teacher instructed."
-2. **Informal**: 
-   - 彼が言ったとおり、遅れてしまった。
-   - (Kare ga itta toori, okurete shimatta.)
-   - "I was late, just like he said."
-3. **Written**: 
-   - 計画のとおりに進めてください。
-   - (Keikaku no toori ni susumete kudasai.)
-   - "Please proceed according to the plan."
-4. **Spoken**:
-   - 彼女のアドバイス通りにやったよ。
-   - (Kanojo no adobaisu toori ni yatta yo.)
-   - "I did it just like her advice."
-## 5. Cultural Notes
-### Cultural Relevance
-- **Politeness**: Using ～とおり in formal contexts demonstrates respect for instructions or guidance from others, especially from authority figures like teachers or supervisors.
-- **Social Norms**: Following someone's lead or instructions is valued in Japanese society, making this grammar point particularly useful in communicating adherence to protocols.
-### Idiomatic Expressions
-- *言ったとおり* (itta toori) - "as I said"
-- *想像したとおり* (sozou shita toori) - "just as I imagined"
-## 6. Common Mistakes and Tips
-### Error Analysis
-- **Mistake**: Confusing the usage of noun and verb formats. Remember to use noun + の + とおり or verb (dictionary form) + とおり accordingly.
-### Learning Strategies
-- **Mnemonic Device**: Think of ～とおり as "following the path of" (通り means "street" or "way"), which helps remember its meaning of following guidelines.
-## 7. Summary and Review
-### Key Takeaways
-- The grammar point ～とおり expresses actions done according to a method, description, or instruction.
-- It can use both verbs and nouns to convey this meaning.
-- Cultural context emphasizes respect for instructions.
-### Quick Recap Quiz
-1. What is the structure for using nouns with ～とおり?
-2. Give an example sentence using ～とおり with a verb.
-3. How does ～とおり differ from ように?
-Feel free to reach out for any clarifications or further examples!
+1. **Fill in the blanks with the correct form of 〜とおり:**
+   a. 説明______に組み立てました。
+   b. 試合は私たちが期待した______になりました。
+2. **True or False:** 〜とおり can be used after both verbs and nouns.
+---
+### Answers:
+1. a. **説明書のとおり**に組み立てました。
+   b. 試合は私たちが期待した**とおり**になりました。
+2. **True**
+---
+By mastering **〜とおり**, you can more accurately describe situations that occur as expected or instructed, enhancing both your comprehension and expression in Japanese.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

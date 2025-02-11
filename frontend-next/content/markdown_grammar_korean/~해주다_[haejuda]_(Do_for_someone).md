@@ -1,75 +1,101 @@
 Processing keyword: ~해주다 [haejuda] (Do for someone)
 # Korean Grammar Point: ~해주다 [haejuda] (Do for someone)
-# Introduction
-The grammar point ~해주다 [haejuda] is a commonly used expression in Korean that means "to do for someone." It expresses an act of kindness or service extended towards someone else. Understanding its nuances can enhance both your speaking and understanding of everyday Korean interactions.
-# Core Grammar Explanation
-## Detailed Explanation
-The structure ~해주다 is formed by combining the verb "하다" (to do) with "주다" (to give). In this case, “해주다” implies that someone is doing something for someone else, reflecting a sense of consideration or help.
-### Structure Breakdown
-- **하다** (hada) + **주다** (juda) → **해주다** (haejuda)
-- Subject (who does the action) + 해주다 + Object (for whom the action is done)
+
+## 1. Introduction
+In Korean, expressing actions done **for someone else's benefit** is essential for polite and considerate communication. The grammar point **~해주다** is used to indicate that you are performing an action **for someone**. Mastering this structure will enhance your ability to show kindness, make requests, and offer assistance in Korean.
+
+---
+## 2. Core Grammar Explanation
+### Meaning
+- **~해주다** combines an action verb with **주다** (to give) to express doing something **for someone**.
+### Structure
+- **Verb Stem + 아/어/해주다**
 ### Formation Diagram
-```     
-[doer] + 해주다 + [receiver]
-```
-## Meaning
-The core meaning of 해주다 is to indicate that an action is being performed on behalf of someone else, suggesting that the doer is providing help or service.
-# Visual Aids
-| Doer  | Verb          | Receiver                |
-|-------|---------------|-------------------------|
-| 나    | 해주다       | 친구에게 (to my friend) |
-| 엄마  | 해주다       | 아이에게 (to the child) |
-| 선생님| 해주다       | 학생에게 (to the student)|
-# Comparative Analysis
-**Similar Grammar Points**
-- **~주다** (juda): Simply means "to give" without the connotation of performing an action for someone.
-- **~하다** (hada): Means "to do" without the implication of doing it for another person.
-**Nuances**
-- Using ~해주다 emphasizes an act of service, while ~주다 is broader and can mean literally giving something without the element of action.
-# Examples in Context
-### Formal Context
-1. 선생님이 학생을 위해 숙제를 도와주셨어요.  
-   (The teacher helped the student with homework.)
-  
-2. 친구에게 생일 선물을 사주었어요.  
-   (I bought a birthday gift for my friend.)
-### Informal Context
-1. 내가 네 숙제를 해줄게!  
-   (I will do your homework for you!)
-2. 엄마가 나를 위해 저녁을 해줬어.  
-   (Mom made dinner for me.)
-### Written Context
-1. 이 책은 나를 위해 추천해 주신 거예요.  
-   (This book was recommended for me.)
-### Spoken Context
-1. 너를 위해 이 편지를 써줄게.  
-   (I’ll write this letter for you.)
-# Cultural Notes
-## Cultural Relevance
-In Korean culture, showing consideration for others is highly valued. The expression ~해주다 carries with it an inherent respect for the other person's needs, making it a crucial part of polite conversation and interaction.
-## Levels of Politeness
-This grammar point can be adjusted for formality:
-- Use **해주셨어요** (haejusyeosseoyo) for formal contexts.
-- Use **해줬어** (haejwosseo) in casual settings with friends.
-## Idiomatic Expressions
-- **도와주다** (dowajuda): To help someone.
-- **선물해주다** (seonmulhaejuda): To give a gift for someone.
-# Common Mistakes and Tips
-## Error Analysis
-1. **Using it without context**: It’s essential to specify the receiver to maintain clarity.
-   - Mistake: "숙제를 해주다" (Do homework).
-   - Correct: "친구에게 숙제를 해주다" (Do homework for a friend).
-2. **Pronunciation Missteps**: Make sure to articulate the “주다” clearly as it can easily blend into other syllables.
-## Learning Strategies
-- **Mnemonic Device**: Remember "hae" (do) and "ju" (give) together to think about acts of kindness or help.
-- Practice by making a list of daily actions you do for others using ~해주다.
-# Summary and Review
-## Key Takeaways
-1. ~해주다 expresses performing an action for someone else.
-2. It reflects a sense of service and kindness in the Korean culture.
-3. Remember to practice varying levels of formality based on context.
-## Quick Recap Quiz
-1. How do you say "I will do it for you" using ~해주다 in informal speech?
-2. In what kind of situations would you use the formal version of 해주다?
-3. Can you name a similar expression that conveys assistance?
-Feel free to try forming sentences using ~해주다, considering the receiver and context!
+| Verb Type          | Verb Stem Ending | Connective Ending | Form with ~주다 |
+|--------------------|------------------|-------------------|-----------------|
+| **Verb ending with vowel ㅏ or ㅗ** | 받**다** → 받 | **아주다** | 받아주다 |
+| **Verb ending with other vowels** | 먹**다** → 먹 | **어주다** | 먹어주다 |
+| **하**다 verbs       | 공부하**다** → 공부하 | **해주다** | 공부해주다 |
+### Detailed Explanation
+1. **Identify the Verb Stem**: Remove **-다** from the dictionary form.
+   - Example: **주다** (to give) → **주**
+2. **Add the Appropriate Connective Ending**:
+   - If the last vowel is **ㅏ** or **ㅗ**, add **아주다**.
+   - If the last vowel is anything else, add **어주다**.
+   - For **하다** verbs, add **해주다**.
+3. **Conjugate 주다 if Necessary**: Adjust **주다** to match the tense and politeness level.
+   - Example: **줘요**, **줍니다**, **줬어요**
+---
+## 3. Comparative Analysis
+### ~해주다 vs. ~해보다
+- **~해주다**: Doing something **for someone else**.
+  - *친구를 위해 음식을 만들어주었어요.*  
+    *(I made food for my friend.)*
+- **~해보다**: Trying or attempting to do something.
+  - *새로운 음식을 만들어봤어요.*  
+    *(I tried making new food.)*
+---
+## 4. Examples in Context
+### Sentence Examples
+#### Formal Situations
+1. **제가 설명해드리겠습니다.**
+   - *I will explain it for you.*
+2. **고객님께 안내해드릴게요.**
+   - *I will guide you, dear customer.*
+#### Informal Situations
+1. **내가 도와줄게.**
+   - *I'll help you.*
+2. **이 책을 읽어줄까?**
+   - *Shall I read this book to you?*
+#### Written Context
+1. **친절한 사람들이 길을 알려주었다.**
+   - *Kind people showed me the way.*
+2. **선생님이 자료를 보내주셨다.**
+   - *The teacher sent the materials.*
+#### Spoken Context
+1. **사진 좀 찍어줄래요?**
+   - *Can you take a picture for me?*
+2. **시간 있다면 같이 가르쳐줄 수 있어.**
+   - *If you have time, I can teach you together.*
+---
+## 5. Cultural Notes
+### Cultural Relevance
+- **Hierarchy and Politeness**: In Korean culture, it's crucial to show respect, especially when offering help. Using **~해주다** politely conveys assistance.
+- **Honorific Form**: When the beneficiary is of higher status, use **~해드리다** instead of **~해주다**.
+  - *할머니께서 오시면 자리 안내해드리세요.*
+    *(When grandmother arrives, please guide her to her seat.)*
+### Idiomatic Expressions
+1. **마음을 써주다**  
+   *To care about someone.*
+2. **시간을 내주다**  
+   *To make time for someone.*
+---
+## 6. Common Mistakes and Tips
+### Error Analysis
+- **Incorrect Connective Ending**:
+  - *Incorrect*: 공부**아주다*
+  - *Correct*: 공부**해주다*
+- **Forgetting Honorifics**:
+  - Using **주다** instead of **드리다** when speaking to someone of higher status.
+### Learning Strategies
+- **Mnemonic Device**: Imagine you're "giving" your action to someone else.
+- **Practice with Common Verbs**: Apply **~해주다** to verbs you frequently use to get comfortable with the pattern.
+---
+## 7. Summary and Review
+### Key Takeaways
+- **~해주다** is used to express doing an action **for someone else's benefit**.
+- Formed by adding **아/어/해주다** to the verb stem.
+- Adjust the formality by conjugating **주다** appropriately and using honorifics when needed.
+### Quick Recap Quiz
+1. **Translate**: "Can you help me?" using **~해주다**.
+2. **What's the honorific form** of **주다**?
+3. **Correct the mistake**: *먹다* + *아주다* → **먹아주다**
+#### Answers:
+1. **도와줄 수 있어요?**
+2. **드리다**
+3. **Correct Form**: **먹어주다**
+---
+By incorporating **~해주다** into your speech, you'll communicate more naturally and respectfully in Korean, enhancing your interactions and conveying thoughtfulness.
+
+---
+© [Hanabira.org](https://hanabira.org)

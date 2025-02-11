@@ -1,69 +1,96 @@
 Processing keyword: Verbる にはあたらない (Verb-ru ni wa ataranai)
 # Japanese Grammar Point: Verbる にはあたらない (Verb-ru ni wa ataranai)
-# Grammar Point: Verbるにはあたらない (Verb-ru ni wa ataranai)
+
 ## 1. Introduction
-The expression Verbるにはあたらない (Verb-ru ni wa ataranai) is a Japanese grammar point used to convey that something is not worth the action or effort described by the verb. It's often used to imply that the situation is trivial or insignificant.
+In this lesson, we'll explore the grammar point **Verbる にはあたらない (Verb-る にはあたらない)**. This expression is used to convey that something is **"not worth doing"** or **"there's no need to do"** a certain action. It's a useful structure for expressing restraint or downplaying a situation.
+
+---
 ## 2. Core Grammar Explanation
-### Detailed Explanation
-- **Meaning**: The phrase essentially means "it is not worth (doing)..." or "there’s no need to (do)...". It communicates that the action is unnecessary in a given context.
-- **Structure**:
-  - **Verb + る (ru)**: This is the dictionary form of the verb, which represents the action.
-  - **にはあたらない (ni wa ataranai)**: This part is a fixed phrase where:
-    - **には (ni wa)** indicates the target or focus (the action).
-    - **あたらない (ataranai)** is the negative form of the verb **あたる (ataru)** which means "to be worth" or "to apply".
+### Meaning
+- **"There's no need to..."**
+- **"It's not worth..."**
+- **"Does not deserve..."**
+This grammar point is used to indicate that an action or reaction is unnecessary or unwarranted given the circumstances.
+### Structure
+```
+Verb-dictionary form + にはあたらない
+```
+- **Verb-dictionary form**: The basic, non-conjugated form of the verb.
 ### Formation Diagram
-```
-[Verb (dictionary form)] + にはあたらない
-```
-### Example Structure
-- 昨日の出来事について怒るにはあたらない。
-  - (Kinou no dekigoto ni tsuite okoru ni wa ataranai.)
-  - Translation: "It’s not worth getting angry about yesterday’s events."
+| Component             | Role                             |
+|-----------------------|----------------------------------|
+| **Verb-dictionary form** | Main action or reaction         |
+| **には**                | Particle indicating purpose or necessity |
+| **あたらない**         | Negative form of **当たる (あたる)** meaning "not necessary" or "does not correspond to" |
+---
 ## 3. Comparative Analysis
-### Comparison with Similar Grammar Points
-- **Verbする必要はない (Verb suru hitsuyou wa nai)**: This expression also conveys that there is no need to do something but can sound slightly more formal or definitive.
-  - Example: 勉強する必要はない (Benkyou suru hitsuyou wa nai) - "There is no need to study."
-- **Verbてもさしつかえない (Verb-te mo sashitsukaenai)**: This can imply that it is acceptable to do something, but unlike にはあたらない, it doesn’t express insignificance.
-  - Example: 行ってもさしつかえない (Itte mo sashitsukaenai) - "It won’t hurt to go."
+### Similar Grammar Points
+- **Verbるまでもない (Verb-る までもない)**
+  - **Meaning**: "There's no need to go so far as to..."
+  - **Usage**: Indicates that an action is unnecessary because it's excessive.
+**Comparison**
+- Both expressions convey that something is unnecessary.
+- **にはあたらない** is often used to downplay praise or criticism.
+- **までもない** emphasizes that an action is unnecessary because the situation doesn't require it.
+---
 ## 4. Examples in Context
-### Sentence Examples
-1. **Formal Context**:
-   - この問題について議論するにはあたらない。
-   - (Kono mondai ni tsuite giron suru ni wa ataranai.)
-   - Translation: "It’s not worth discussing this issue."
-2. **Informal Context**:
-   - そんなことを気にするにはあたらないよ。
-   - (Sonna koto o ki ni suru ni wa ataranai yo.)
-   - Translation: "You shouldn’t worry about that kind of thing."
-3. **Written Context**:
-   - 彼女の選択を批判するにはあたらない。
-   - (Kanojo no sentaku o hihan suru ni wa ataranai.)
-   - Translation: "It's not necessary to criticize her choice."
-4. **Spoken Context**:
-   - 彼の意見を聞くにはあたらない。
-   - (Kare no iken o kiku ni wa ataranai.)
-   - Translation: "It’s not worth listening to his opinion."
+### Example 1
+**彼が失敗したからといって、非難するにはあたらない。**
+- **Romaji**: Kare ga shippai shita kara to itte, hinan suru ni wa Ataranai.
+- **Meaning**: "Just because he failed doesn't mean we should criticize him."
+### Example 2
+**その映画は期待するにはあたらない。**
+- **Romaji**: Sono eiga wa kitai suru ni wa ataranai.
+- **Meaning**: "That movie is not worth getting excited about."
+### Example 3
+**彼女の成績は驚くにはあたらない。いつも努力しているから。**
+- **Romaji**: Kanojo no seiseki wa odoroku ni wa ataranai. Itsumo doryoku shiteiru kara.
+- **Meaning**: "Her grades are not surprising. She always works hard."
+### Example 4
+**心配するにはあたらない。計画は順調に進んでいる。**
+- **Romaji**: Shinpai suru ni wa ataranai. Keikaku wa juncho ni susundeiru.
+- **Meaning**: "There's no need to worry. The plan is progressing smoothly."
+### Example 5
+**その程度のミスで落ち込むにはあたらない。**
+- **Romaji**: Sono teido no misu de ochikomu ni wa ataranai.
+- **Meaning**: "It's not worth getting depressed over such a minor mistake."
+---
 ## 5. Cultural Notes
 ### Cultural Relevance
-Using **すごく (sugoku)** and **全部 (zenbu)** to exaggerate can make your statement more emphatic. This grammar point reflects the Japanese cultural tendency towards modesty and not making a big deal out of minor issues. It also demonstrates the importance of humility, as saying something is "not worth" implies a certain level of detachment and lack of urgency.
+In Japanese culture, modesty and humility are highly valued. Using **にはあたらない** is a way to downplay achievements or to show restraint in criticism, aligning with social norms that discourage excessive praise or blame.
 ### Idiomatic Expressions
-- それほど大したことではない (Sorehodo taishita koto de wa nai): This phrase can express a similar sentiment: "It’s not that big of a deal."
+- **驚くにはあたらない**
+  - Meaning: "Not surprising"
+  - Usage: Used to express that something is expected and doesn't warrant surprise.
+---
 ## 6. Common Mistakes and Tips
 ### Error Analysis
-- **Confusing with する必要がある (suru hitsuyou ga aru)**: Learners may wrongly use にはあたらない when expressing necessity instead of insignificance.
-  
+- **Using the wrong verb form**: Remember to use the **dictionary form** of the verb.
+  - Incorrect: **驚いたにはあたらない**
+  - Correct: **驚くにはあたらない**
+- **Confusing with similar expressions**: Don't mix up **にはあたらない** with **わけにはいかない** (cannot do something due to social norms).
 ### Learning Strategies
-- **Mnemonic Device**: Remember that "あたらない" sounds like "not worth it" = "nothing" + "to do." If a situation is "not worth it," use "にはあたらない."
+- **Mnemonic Device**: Think of **あたらない** as "not hitting the mark" — the action doesn't "hit" necessity.
+- **Practice with common verbs**: Try forming sentences using common verbs like **心配する**, **驚く**, **非難する**.
+---
 ## 7. Summary and Review
 ### Key Takeaways
-- **Verbるにはあたらない** is used to express that doing a particular action is unnecessary or not worth the effort.
-- It is formed by putting the verb in dictionary form followed by にはあたらない.
-  
+- **Verbるにはあたらない** is used to express that something is not worth doing or unnecessary.
+- The structure involves the **dictionary form of a verb** + **にはあたらない**.
+- It often reflects modesty or advises against overreaction.
 ### Quick Recap Quiz
-1. What does "Verbるにはあたらない" mean in English?
-2. How would you structure a sentence using this grammar point?
-3. What is a common mistake when using this expression?
-### Answers
-1. "It’s not worth (doing)..."
-2. [Verb (dictionary form)] + にはあたらない
-3. Confusing it with necessity phrases (e.g., する必要がある).
+1. **Fill in the blank**: その結果は驚く______。
+   - **Answer**: にはあたらない
+2. **True or False**: **にはあたらない** can be used to express that an action must be done.
+   - **Answer**: False
+3. **Choose the correct usage**:
+   - a) 論文を書くにはあたらない。
+   - b) 論文を書いてにはあたらない。
+   - **Answer**: a) 論文を書くにはあたらない。
+---
+Happy learning! Practice creating your own sentences using **にはあたらない** to deepen your understanding.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

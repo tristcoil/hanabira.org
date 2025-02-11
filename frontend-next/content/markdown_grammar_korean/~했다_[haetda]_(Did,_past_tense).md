@@ -1,78 +1,99 @@
 Processing keyword: ~했다 [haetda] (Did, past tense)
 # Korean Grammar Point: ~했다 [haetda] (Did, past tense)
-# Introduction 
-The grammar point ~했다 (haetda) is the past tense form of the verb 하다 (hada), which means "to do" in Korean. Understanding how to use this structure is essential for expressing completed actions in the past. 
+
+## 1. Introduction
+The past tense in Korean allows speakers to express actions or states that have already occurred or been completed. One of the most common ways to form the past tense is by using the verb ending **~했다 [haetda]**. Mastering this grammar point is essential for effective communication about past events in Korean.
+
 ---
-# Core Grammar Explanation 
-## Detailed Explanation
-The structure ~했다 is utilized to indicate that an action has already been completed in the past. It is often used in both formal and informal speech.
-### Meaning
-The basic meaning of ~했다 is "did" or "have done." It is used to indicate that an action took place in the past.
-### Structure
-1. **Verb + 했**: To make the past tense, the verb 하다 (hada) changes to 했 (haet) and is attached to the stem of verbs. 
-2. **Subject + Object + 했다**: The typical sentence structure is: 
-   - Subject + Object + 했다
-### Formation Diagram
-Here's a visual aid to help you understand the structure better:
+## 2. Core Grammar Explanation
+### Detailed Explanation
+The verb ending **~했다** is attached to the verb stem to indicate that an action was completed in the past. This form is derived from the verb **하다 [hada]**, which means "to do." It is commonly used with **하**다 verbs (verbs that end with **하다**), transforming them into their past tense form.
+#### Formation Rules
+1. **Identify the Verb Stem:**
+   - For **하다** verbs, the stem is **하**.
+   - Example: 공부하다 (to study) ➔ 공부 (study) + 하다 (to do).
+2. **Replace 하다 with 했다:**
+   - Remove **하다** and replace it with **했다**.
+   - Example: 공부**하다** ➔ 공부**했다** (studied).
+3. **Conjugate Non-하다 Verbs:**
+   - For verbs not ending with **하다**, other past tense endings like **~았다** or **~었다** are used.
+#### Meaning and Usage
+- **~했다** conveys that an action was completed.
+- It is used in written and spoken Korean, often in formal contexts.
+### Visual Aid: Formation Diagram
 ```
-[Subject] + [Object] + 하다 (to do) 
-        ↓
- [Subject] + [Object] + 했다 (did)
+[Verb Stem] + 했다
+Example:
+공부하다 (to study)
+→ 공부 (study) + 했다
+→ 공부했다 (studied)
 ```
 ---
-# Comparative Analysis 
-- **Similar Grammar Points**:
-  - **~였다 (yeotda)**: This is another past tense structure used for the verb 이다 (ida, to be). 
-  - **~았다/었다 (atta/eotta)**: These forms are also used for past tense but are applicable to other verbs, indicating different nuances based on the vowel harmony. 
-### Differences:
-- ~했다 is specifically used for the verb 하다, while ~였다 indicates the past tense of to be, and ~았다/었다 applies to various action verbs.
+## 3. Comparative Analysis
+While **~했다** is used with **하다** verbs, other verbs use different past tense endings:
+| Verb Type      | Past Tense Ending | Example            | Past Tense Form   |
+|----------------|-------------------|--------------------|-------------------|
+| Verbs ending with **하다** | ~했다            | 공부하다 (to study) | 공부했다 (studied) |
+| Verbs with vowel **ㅏ** or **ㅗ** | ~았다            | 가다 (to go)       | 갔다 (went)        |
+| Other verbs     | ~었다            | 먹다 (to eat)      | 먹었다 (ate)       |
 ---
-# Examples in Context 
-## Sentence Examples:
-1. **Formal Context**:
-   - **지난 주에 이 책을 읽었다.**  
-     *(Jinan jue i chaekeul ilgeotda.)*  
-     – "I read this book last week."
-2. **Informal Context**:
-   - **너 어제 뭐 했어?**  
-     *(Neo eoje mwo haesseo?)*  
-     – "What did you do yesterday?"
-3. **Written Context**:
-   - **그 사건은 많은 사람들에게 알려졌다.**  
-     *(Geu sageun-eun manheun saramdeul-ege allyeojeotda.)*  
-     – "That incident was known to many people."
-4. **Spoken Context**:
-   - **나는 점심을 먹었다.**  
-     *(Naneun jeomsimeul meogeotda.)*  
-     – "I had lunch."
+## 4. Examples in Context
+### Formal Context
+1. **저는 어제 책을 읽었습니다.**
+   - *I read a book yesterday.*
+2. **그는 회의를 마쳤습니다.**
+   - *He finished the meeting.*
+### Informal Context
+1. **어제 영화 봤어.**
+   - *I watched a movie yesterday.*
+2. **친구를 만났어.**
+   - *I met a friend.*
+### Using **~했다** with 하다 Verbs
+1. **운동했다.**
+   - *I exercised.*
+2. **청소했다.**
+   - *I cleaned.*
 ---
-# Cultural Notes 
-## Cultural Relevance
-Using the proper tense in Korean is important, especially in different contexts. The past tense is frequently used in storytelling or recalling memories, which is a common practice in Korean conversational culture.
+## 5. Cultural Notes
 ### Levels of Politeness
-- In Korean, the past tense forms can denote different levels of politeness and formality.
-- **했다 (haetda)** is informal and should be used with peers or friends.
-- In formal situations, use 하셨습니다 (hasyeotseumnida) for politeness.
-### Idiomatic Expressions
-- **어제 할 일을 오늘 하다.**  
-  *(Eoje hal il-eul oneul hada.)*  
-  – “Doing today what should have been done yesterday.” (a common expression reflecting procrastination)
+Korean language has different levels of speech politeness:
+- **Formal Polite:** ~했습니다 (e.g., 했습니다)
+- **Informal Polite:** ~했어요 (e.g., 했어요)
+- **Informal Casual:** ~했다 or ~했어 (e.g., 했다 / 했어)
+Choosing the appropriate form shows respect and understanding of social norms.
+### Idiomatic Expressions Using **~했다**
+1. **실수를 했다.**
+   - *I made a mistake.*
+2. **결심했다.**
+   - *I made a decision.*
 ---
-# Common Mistakes and Tips 
-## Error Analysis
-1. **Forgetting Subject/Object**: Learners may omit the subject or object in a sentence, leading to confusion.
-2. **Using the Present Form**: Mixing up ~했다 with present tense forms like 한다 (handa) can cause misunderstandings.
-## Learning Strategies
-- **Mnemonic Device**: Remember the concept of "completed action" by associating it with a finish line (you've "done" the action).
-  
+## 6. Common Mistakes and Tips
+### Error Analysis
+- **Using the Wrong Ending:**
+  - Incorrect: 공부하**았다**.
+  - Correct: 공부했**다**.
+- **Mixing Politeness Levels:**
+  - Using casual forms in formal settings can be impolite.
+### Learning Strategies
+- **Mnemonic Device:**
+  - For **하다** verbs in past tense, think "하다 ➔ 했다."
+- **Practice with Common **하다** Verbs:**
+  - Make a list of common **하다** verbs and conjugate them.
 ---
-# Summary and Review 
-## Key Takeaways
-- ~했다 is the past tense form of 하다 and indicates completed actions.
-- It's integral to Korean sentence structure and varies by context.
-- Pay attention to levels of formality when using this structure.
-## Quick Recap Quiz 
-1. What does ~했다 express?
-2. In what context would you use 하셨습니다 instead of 했다?
-3. Provide an example sentence using ~했다.
+## 7. Summary and Review
+### Key Takeaways
+- **~했다** is used to form the past tense of **하다** verbs.
+- Replace **하다** with **했다** to indicate past actions.
+- Be mindful of politeness levels when conjugating verbs.
+### Quick Recap Quiz
+1. How do you conjugate **일하다** (to work) in the past tense?
+   - **Answer:** 일했다 (worked)
+2. What is the past tense of **먹다** (to eat)?
+   - **Answer:** 먹었다 (ate)
+3. Which ending is used for verbs ending with **하다** in the past tense?
+   - **Answer:** ~했다
 ---
+By understanding and practicing the use of **~했다**, you'll be able to discuss past events accurately and appropriately in Korean.
+
+---
+© [Hanabira.org](https://hanabira.org)

@@ -1,75 +1,147 @@
 Processing keyword: Verb ないで ください (〜naide kudasai)
 # Japanese Grammar Point: Verb ないで ください (〜naide kudasai)
-# Grammar Point: Verb ないで ください (〜naide kudasai)
+
 ## 1. Introduction
-The construction "ないでください" is a polite way of requesting someone not to do something in Japanese. It is commonly used in everyday conversation as well as in written Japanese, showing consideration and respect toward the listener.
+In Japanese, expressing polite requests is essential for smooth communication. When you want to **ask someone not to do something politely**, you use the grammar pattern **〜ないでください (〜naide kudasai)**. This form is widely used in everyday conversations, formal announcements, and written instructions.
+
 ---
 ## 2. Core Grammar Explanation
-### Detailed Explanation
-**Structure:**
-- Depending on the context, "ないで" corresponds to the negative form of verbs, which indicates not performing an action, followed by "ください" (kudasai), a polite request meaning "please."
-**Formation:**
-1. Start with the verb in its "negative form" (ない).
-2. Attach "で" to the negative form.
-3. End with "ください" to make it a polite request.
-**Examples of Verb Conversion:**
-- 食べる (taberu - to eat) → 食べない (tabenai - to not eat) → 食べないでください (tabenaide kudasai - please do not eat)
-- 行く (iku - to go) → 行かない (ikanai - to not go) → 行かないでください (ikanai de kudasai - please do not go)
-### Visual Aid: Formation Diagram
-| Verb Type | Verb (Dictionary Form) | Negative Form | "ないで" Form | Complete Request |
-|-----------|------------------------|---------------|---------------|------------------|
-| **Group 1** | 飲む (nomu - to drink)  | 飲まない (nomanai)  | 飲まないで (nomanai de)  | 飲まないでください (nomanai de kudasai - please do not drink) |
-| **Group 2** | 見る (miru - to see)    | 見ない (minai)   | 見ないで (minai de)    | 見ないでください (minai de kudasai - please do not see) |
-| **Group 3** | する (suru - to do)     | しない (shinai)   | しないで (shinai de)    | しないでください (shinai de kudasai - please do not do) |
-| **Group 3** | 来る (kuru - to come)   | 来ない (konai)    | 来ないで (konai de)     | 来ないでください (konai de kudasai - please do not come) |
+### Meaning
+**〜ないでください** means **"Please don't [verb]"**. It is used to **politely request someone to refrain from doing an action**.
+### Structure
+To form this expression:
+1. **Convert the verb to its negative form (ない-form).**
+2. **Add でください after the ない-form.**
+### Formation Diagram
+```
+[Verb in ない-form] + でください
+```
+### Formation Steps
+1. **Find the dictionary form of the verb.**
+2. **Conjugate it to the ない-form (negative form).**
+3. **Add でください to the ない-form.**
+---
+### Verb Conjugation Table
+| Verb (Dictionary Form) | Verb Group | ない-form (Negative Form) | ないでください Form     | Meaning                      |
+|------------------------|------------|---------------------------|------------------------|------------------------------|
+| 食べる (taberu)         | Ichidan    | 食べ**ない** (tabe**nai**)       | 食べないでください        | Please don't eat             |
+| 行く (iku)              | Godan      | 行か**ない** (ika**nai**)        | 行かないでください        | Please don't go              |
+| 話す (hanasu)           | Godan      | 話さ**ない** (hanasa**nai**)     | 話さないでください        | Please don't speak           |
+| 来る (kuru)             | Irregular  | 来**ない** (ko**nai**)          | 来ないでください          | Please don't come            |
+| する (suru)             | Irregular  | し**ない** (shi**nai**)         | しないでください          | Please don't do              |
 ---
 ## 3. Comparative Analysis
-### Comparison with "Verb ないほうがいい" (〜na hou ga ii)
-- **ないでください** = Please do not do (a polite request to refrain from action).
-- **ないほうがいい** = It is better if you do not (implies advice or recommendation).
-### Example Sentences:
-- **ないでください:** それを食べないでください。 (Sore o tabenaide kudasai - Please do not eat that.)
-- **ないほうがいい:** それを食べないほうがいいです。 (Sore o tabenai hou ga ii desu - It’s better if you do not eat that.)
+### 〜ないでください vs. 〜てください
+- **〜てください**: Used to make polite requests **to do** something.
+  - **Example**: 座ってください。(*Suwatte kudasai.*) — *Please sit down.*
+- **〜ないでください**: Used to make polite requests **not to do** something.
+  - **Example**: 立たないでください。(*Tatanaide kudasai.*) — *Please don't stand up.*
+### 〜ないでください vs. 〜ないで
+- **〜ないでください**: Polite request not to do something.
+  - Suitable for formal situations.
+- **〜ないで**: Casual way to ask someone not to do something.
+  - Used among friends and family.
+  - **Example**: 行かないで。(*Ikanaide.*) — *Don't go.*
 ---
 ## 4. Examples in Context
-### Sentence Examples
-1. **Formal:** 
-   - 会議中に話さないでください。 
-   - (Kaigi chuu ni hanasanaide kudasai - Please do not talk during the meeting.)
-  
-2. **Informal:**
-   - うるさくしないでね。
-   - (Urusaku shinaide ne - Please don’t be loud, okay?)
-   
-3. **Written:**
-   - ここでタバコを吸わないでください。
-   - (Koko de tabako o suwanaide kudasai - Please do not smoke here.)
-4. **Spoken:**
-   - 今、写真を撮らないでください。
-   - (Ima, shashin o toranaide kudasai - Please do not take pictures right now.)
+### Formal Situations
+1. **写真を撮らないでください。**
+   - *Shashin o toranaide kudasai.*
+   - *Please don't take pictures.*
+2. **携帯電話を使わないでください。**
+   - *Keitai denwa o tsukawanaide kudasai.*
+   - *Please don't use mobile phones.*
+3. **ここでタバコを吸わないでください。**
+   - *Koko de tabako o suwanaide kudasai.*
+   - *Please don't smoke here.*
+---
+### Informal Situations
+1. **まだ寝ないで。**
+   - *Mada nenaide.*
+   - *Don't sleep yet.*
+2. **一人で行かないで。**
+   - *Hitori de ikanaide.*
+   - *Don't go alone.*
+3. **そんなに心配しないで。**
+   - *Sonnani shinpai shinaide.*
+   - *Don't worry so much.*
+---
+### Written Notices
+1. **危険！触らないでください。**
+   - *Kiken! Sawaranaide kudasai.*
+   - *Danger! Please do not touch.*
+2. **芝生に入らないでください。**
+   - *Shibafu ni hairanaide kudasai.*
+   - *Please do not enter the lawn.*
+3. **ここに駐車しないでください。**
+   - *Koko ni chūsha shinaide kudasai.*
+   - *Please do not park here.*
+---
+### Spoken Conversations
+1. **遅れないでくださいね。**
+   - *Okurenaide kudasai ne.*
+   - *Please don't be late.*
+2. **そのことを忘れないでください。**
+   - *Sono koto o wasurenaide kudasai.*
+   - *Please don't forget about that.*
+3. **部屋を出るとき、電気を消しないでください。**
+   - *Heya o deru toki, denki o keshinaide kudasai.*
+   - *Please don't turn off the lights when you leave the room.*
 ---
 ## 5. Cultural Notes
-### Cultural Relevance
-In Japan, politeness and respect in communication are vital, especially in formal settings. Using "ないでください" conveys respect toward the listener's feelings and shows a humble request rather than a command.
-### Levels of Politeness
-Using this form adheres to the cultural norms of politeness, making it appropriate for conversations with strangers, elders, or people in professional settings.
+### Politeness and Indirectness
+- In Japanese culture, being direct can sometimes be considered rude.
+- **〜ないでください** is a polite and indirect way to ask someone to stop or avoid an action.
+- It helps maintain harmony and shows respect for the other person's feelings.
+### Usage in Public Places
+- You'll often see **〜ないでください** in public signs and announcements.
+- It reflects the collective consideration in Japanese society.
 ### Idiomatic Expressions
-- "静かにしないでください" (Shizuka ni shinaide kudasai - Please do not be quiet): This expression is often used in educational contexts when encouraging participation.
+- **気にしないでください。**
+  - *Ki ni shinaide kudasai.*
+  - *Please don't worry about it.*
+- This phrase is commonly used to reassure someone.
 ---
 ## 6. Common Mistakes and Tips
-### Error Analysis
-- **Confusing with affirmative request forms:** Learners often mix up "〜てください" (te kudasai) with "〜ないでください." Remember that the former is to request someone to do something, while the latter is to request someone not to do something.
+### Mistake 1: Using ませんでください
+- **Incorrect**: 来ませんでください。(*Kimasen de kudasai.*)
+- **Correct**: 来ないでください。(*Konaide kudasai.*)
+- **Tip**: Always use the **ない-form**, not the **ません-form**, with **でください**.
+### Mistake 2: Omitting で
+- **Incorrect**: 食べないください。(*Tabenai kudasai.*)
+- **Correct**: 食べないでください。(*Tabenaide kudasai.*)
+- **Tip**: Don't forget the **で**. It's essential to connect the negative form with **ください**.
+### Mistake 3: Mixing Forms
+- **Incorrect**: 行かないくてください。(*Ikanaikute kudasai.*)
+- **Correct**: 行かないでください。(*Ikanaide kudasai.*)
+- **Tip**: Use **ないで** not **ないくて** when forming this request.
+---
 ### Learning Strategies
-- **Mnemonic Device:** Think of “naide kudasai” as a polite way to “not focus” on something it might be inappropriate to do.
+- **Mnemonic Device**: Think of **ないで** as "don't do", so **[Verb in ない-form] + でください** becomes "Please don't [verb]".
+- **Practice**: Create sentences using verbs you frequently use to become familiar with the pattern.
+- **Visual Aids**: Write down the steps to conjugate verbs into the ない-form and keep the structure visible while practicing.
 ---
 ## 7. Summary and Review
 ### Key Takeaways
-- **Formulation**: Verb's negative form + でください.
-- **Usage**: To politely ask someone not to perform an action.
-- **Contextual Appropriateness**: Useful in both formal and informal situations.
-### Quick Recap Quiz
-1. What does "食べないでください" mean?
-2. How would you ask someone not to talk during a meeting?
-3. Compare "ないでください" with "ないほうがいい" in terms of meaning.
+- **〜ないでください** is used to make polite requests not to do something.
+- Formation: **[Verb in ない-form] + でください**.
+- Do not use **ませんでください**; always use the **ない-form** with **でください**.
+- Remember to include **で** between the negative verb and **ください**.
 ---
-This structured explanation provides clarity on the usage of "ないでください," ensuring learners understand both its formation and cultural significance.
+### Quick Recap Quiz
+1. **How do you say "Please don't run" in Japanese?**
+   - **Answer**: **走らないでください。** (*Hashiranaide kudasai.*)
+2. **Is the following sentence correct? Why or why not?**
+   - **飲みませんでください。** (*Nomimasen de kudasai.*)
+   - **Answer**: Incorrect. It should be **飲まないでください** (*Nomanaide kudasai*) because you should use the **ない-form**, not the **ません-form**.
+3. **Fill in the blank:**
+   - **ここで写真を______ください。** (*Koko de shashin o ______ kudasai.*)
+   - **Answer**: **撮らないで** (*toranaide*) — **ここで写真を撮らないでください。** (*Please don't take pictures here.*)
+---
+By mastering **〜ないでください**, you'll enhance your ability to communicate politely and effectively in Japanese, especially when requesting someone to refrain from certain actions.
+Feel free to practice by creating your own sentences using this pattern!
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

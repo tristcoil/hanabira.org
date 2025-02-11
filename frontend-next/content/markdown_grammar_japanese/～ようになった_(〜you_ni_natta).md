@@ -1,73 +1,131 @@
 Processing keyword: ～ようになった (〜you ni natta)
 # Japanese Grammar Point: ～ようになった (〜you ni natta)
-# Detailed Grammar Explanation: ～ようになった (〜you ni natta)
+
 ## 1. Introduction
-The grammar point ～ようになった (〜you ni natta) is a frequently used expression in Japanese that signifies a change in state or condition. It conveys that something has come to be in a certain way over time, often indicating a shift from a previous situation.
+In this lesson, we'll explore the Japanese grammar point ～ようになった (〜you ni natta), which is used to express a change or development in ability, habit, or situation over time. Understanding this structure will enable you to describe how you or others have started to do something or have come to be able to do something.
+
+---
 ## 2. Core Grammar Explanation
-### Detailed Explanation
-- **Meaning**: The expression indicates that something has changed to the point where it now regularly occurs, or a skill or ability has developed.
-- **Structure**: 
-  - Verb Dictionary Form (or する (suru) for "to do") + ようになった
-  - Noun + になる + ようになった
-- **Formation Diagram**:
+### Meaning and Usage
+The expression ～ようになった is used to indicate that someone **has begun to do something** or **has come to be able to do something** that they didn't do before. It emphasizes a **change in state or habit**.
+- **Translation Equivalents:**
+  - "Started to..."
+  - "Became able to..."
+  - "Came to (do something)..."
+### Structure and Formation
+#### Formation
+To form this expression, attach ようになった to the **dictionary form** or **negative form** of a verb.
+**Structure Diagram:**
+```plaintext
+[Verb Dictionary Form] + ようになった
+[Verb Negative Form] + ようになった
 ```
-(Previous state) -> (Change) -> (New state)
-   ↓               ↓               ↓
-Verb/ Noun       ようになった      New circumstance
-```
-### Visual Aids
-| Element          | Example                   |
-|------------------|---------------------------|
-| Verb (Dictionary Form)   | 食べる (taberu - to eat)      |
-| Complete Structure | 食べるようになった (taberu you ni natta - started to eat) |
-| Noun + なる       | 学生 (gakusei - student) + なる  |
-| New Structure     | 学生になった (gakusei ni natta - became a student) |
+---
+**Verb Forms:**
+| Verb Form            | Construction                   | Example                                 |
+|----------------------|--------------------------------|-----------------------------------------|
+| Affirmative (する)   | するようになった               | 勉強するようになった                    |
+| Negative (しない)    | しないようになった             | 甘い物を食べないようになった            |
+---
+**Examples:**
+1. **Affirmative Form:**
+   - 学校で英語を話す**ようになった**。
+     _I have started speaking English at school._
+2. **Negative Form:**
+   - 毎日テレビを見**ないようになった**。
+     _I have stopped watching TV every day._
+---
+### Visual Aid: Verb Formation Chart
+| Type       | Verb Form          | ようになった Form       | Meaning                               |
+|------------|--------------------|-------------------------|---------------------------------------|
+| Group 1    | 食べる (to eat)    | 食べるようになった      | Started to eat                        |
+| Group 1    | 食べない           | 食べないようになった     | Stopped eating                        |
+| Group 2    | 行く (to go)       | 行くようになった        | Started to go                         |
+| Group 2    | 行かない           | 行かないようになった     | Stopped going                         |
+| Irregular  | する (to do)       | するようになった        | Started to do                         |
+| Irregular  | しない             | しないようになった       | Stopped doing                         |
+---
 ## 3. Comparative Analysis
-### Compared to:
-- **～ようにする (you ni suru)**: This expresses an intention to make something happen rather than stating that a change has occurred.
-- **～てくる (te kuru)**: Reflects a change that has begun in the past and is ongoing, emphasizing an action rather than a state change.
-### Nuances:
-- Use ～ようになった to emphasize the result of a change over time rather than just the action.
+### ～ようになった vs. ～始める (〜hajimeru)
+While both ～ようになった and ～始める can indicate the start of an action, they have nuanced differences:
+- **～始める**
+  - Attaches directly to the **ます-stem** of a verb.
+  - Emphasizes the **starting point** of an action.
+  - Used for actions that have a clear beginning.
+- **～ようになった**
+  - Attaches to the **dictionary form** or **negative form**.
+  - Emphasizes a **change in habit or ability** over time.
+  - Indicates that something was not done before but has become a habit or ability.
+**Example Comparison:**
+- 日本語を勉強し**始めた**。
+  _I started studying Japanese._ (Emphasis on the moment I began.)
+- 日本語を話す**ようになった**。
+  _I have become able to speak Japanese._ (Emphasis on the development over time.)
+---
 ## 4. Examples in Context
-### Sentence Examples
-1. **Formal**: 
-   - 日本語を勉強して、日本語が話せるようになりました。
-   - (Nihongo o benkyou shite, nihongo ga hanaseru you ni narimashita.)
-   - "I studied Japanese, and I have come to be able to speak Japanese."
-2. **Informal**:
-   - 昔は朝早く起きれなかったけど、最近は起きれるようになった。
-   - (Mukashi wa asa hayaku okirenakatta kedo, saikin wa okireru you ni natta.)
-   - "I couldn't wake up early in the morning, but recently I have been able to wake up early."
-3. **Written**:
-   - 私の趣味はエクササイズですが、運動ができるようになりました。
-   - (Watashi no shumi wa ekusasaizu desu ga, undou ga dekiru you ni narimashita.)
-   - "My hobby is exercising, but I have come to be able to do physical activities."
-4. **Spoken**:
-   - 彼女はピアノが上手になった。
-   - (Kanojo wa piano ga jouzu ni natta.)
-   - "She has become good at playing the piano."
+### Formal Situations
+1. **会社でスーツを着るようになりました。**
+   _I have started wearing suits at the company._
+2. **彼は野菜を食べるようになりました。**
+   _He has started eating vegetables._
+### Informal Situations
+1. **最近、早起きするようになった。**
+   _Lately, I've started getting up early._
+2. **彼女はコーヒーを飲まないようになったらしい。**
+   _It seems she has stopped drinking coffee._
+### Negative Form Examples
+1. **週末は仕事をしないようになった。**
+   _I've stopped working on weekends._
+2. **無駄遣いをしないようになりました。**
+   _I have stopped wasting money._
+### Additional Contexts
+1. **子供の頃より、辛い食べ物が食べられるようになった。**
+   _I've become able to eat spicy food compared to when I was a child._
+2. **健康のために運動するようになった。**
+   _I've started exercising for my health._
+---
 ## 5. Cultural Notes
 ### Cultural Relevance
-The grammar point emphasizes progress and self-improvement, which are highly valued in Japanese culture. When using this expression, it may imply perseverance and hard work, reflecting societal respect for personal development.
-### Levels of Politeness
-- The structure can be made formal by using "なりました" (narimashita) instead of "なった" (natta).
+In Japanese culture, personal development and gradual improvement are highly valued. The use of ～ようになった reflects a recognition of changes in one's habits or abilities, often due to effort or life circumstances.
+- **Politeness Levels:**
+  The expression can be used in both formal and informal contexts by adjusting the politeness of the verb (e.g., なった → なりました).
 ### Idiomatic Expressions
-- "できるようになった" (dekiru you ni natta): "has come to be able to” — emphasizes gained abilities or skills.
+- **日本語がわかるようになった。**
+  _I've come to understand Japanese._
+- **早寝早起きするようになった。**
+  _I've gotten into the habit of sleeping early and waking up early._
+These expressions are commonly used to discuss improvements in skills or changes in lifestyle.
+---
 ## 6. Common Mistakes and Tips
 ### Error Analysis
-- **Mistake**: Confusing with 〜ようにする
-  - Correct use is about a change that has happened, not about making a habit.
-  
+1. **Using the ます-form instead of the dictionary form:**
+   - Incorrect: 食べ**ます**ようになった。
+   - Correct: 食べ**る**ようになった。
+2. **Confusing with potential form (〜れる/られる):**
+   - Potential form expresses ability in general, whereas ～ようになった emphasizes a change in ability or habit.
 ### Learning Strategies
-- **Mnemonic Device**: "You are now!" Think of it as marking a change where something is now possible as a result of past actions.
+- **Mnemonic Device:**
+  Think of ようになった as "It became so that..." which helps remember that it's about a change to a new state.
+- **Practice Tip:**
+  Create sentences about your own life changes to internalize the structure.
+---
 ## 7. Summary and Review
 ### Key Takeaways
-- **Usage**: Indicating change or progress.
-- **Structure**: Verb (dictionary form) + ようになった; Noun + なる + ようになった.
-- **Cultural significance**: Reflects values of improvement and effort.
+- **～ようになった** is used to express a change or development in ability or habit over time.
+- Attach **ようになった** to the **dictionary form** or **negative form** of a verb.
+- It highlights that something that wasn't true before **has become** true now.
 ### Quick Recap Quiz
-1. How would you say "I couldn't run before, but now I can" using ～ようになった?
-2. What is the difference between ～ようになった and ～ようにする?
-3. Translate to Japanese: "I've come to enjoy music."
+**Fill in the blanks with the correct form of the verb and ～ようになった:**
+1. 毎日ランニングをする______。(I have started running every day.)
+   **Answer:** ようになった
+2. 甘い物を食べ______ようになった。(I have stopped eating sweets.)
+   **Answer:** ない
+3. 彼は日本語を話す______。(He has become able to speak Japanese.)
+   **Answer:** ようになった
 ---
-By understanding and using ～ようになった, you can communicate personal growth or changes more effectively in your Japanese conversations!
+Thank you for studying ～ようになった! Keep practicing by making your own sentences to describe changes in your habits or abilities.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

@@ -1,71 +1,104 @@
 Processing keyword: ~는지 알다 [neunji alda] (Know if)
 # Korean Grammar Point: ~는지 알다 [neunji alda] (Know if)
-# Korean Grammar Point: ~는지 알다 [neunji alda] (Know if)
+
 ## 1. Introduction
-The grammar point **~는지 알다** is used to express the idea of knowing whether something is true or not. It can be translated as "know if" or "know whether" in English. This structure is common in both spoken and written Korean, allowing speakers to inquire about or relay information concerning certain situations or conditions.
+In Korean, expressing whether you know or don't know a piece of information is essential for everyday communication. The grammar pattern **~는지 알다** is commonly used to convey the meaning of "knowing if" or "knowing whether" something is the case.
+
+---
 ## 2. Core Grammar Explanation
-### Detailed Explanation
-The structure **~는지 알다** combines the verb **알다 (to know)** with a clause that ends in **-는지**. Here's how it works:
-1. **Verb/Adjective Stem + -는지/-은지/-인지**
-   - **-는지** is used with verbs in the present tense.
-   - **-은지** is used with verbs in the past tense.
-   - **-인지** is used with adjectives or when the subject is unknown.
-   
-2. **Using 알다**
-   - After forming the clause with **-는지**, you add **알다** to express "to know".
-### Formation Diagram
-```
-[Verb/Adjective Stem] + -는지/-은지/-인지 + 알다
-```
-### Visual Aids
-| Verb/Adj | Suffix  | Meaning                   | Example                             |
-|----------|---------|---------------------------|-------------------------------------|
-| 가다     | -는지   | Know if (go)             | 어디 가는지 알아요? (Do you know where I'm going?) |
-| 하다     | -는지   | Know if (do)             | 무엇 하는지 모르겠어요. (I don't know what you're doing.) |
-| 예쁘다   | -인지   | Know if (pretty)         | 그녀가 예쁜지 알아요? (Do you know if she is pretty?) |
+### Meaning
+The structure **~는지 알다** is used to indicate that the speaker knows or doesn't know certain information. It translates to "know if" or "know whether" in English.
+### Structure
+The pattern combines a verb or adjective with **~는지** (or **~(으)ㄴ지**, **인지** for adjectives and nouns) followed by **알다** (to know) or **모르다** (to not know).
+#### Formation Diagram
+| Type                       | Stem         | Connector    | Ending     |
+|----------------------------|--------------|--------------|------------|
+| **Action Verb**            | 가다 (to go) | 가           | 는지       |
+| **Descriptive Verb**       | 크다 (big)   | 큰           | 지         |
+| **Noun + 이다**            | 학생이다 (be a student) | 학생인 | 지         |
+|                            |              |              | **알다/모르다** |
+#### Conjugation Rules
+1. **Action Verbs**: Attach **~는지** to the verb stem.
+   - 받다 (to receive) → 받**는지**
+   - 먹다 (to eat) → 먹**는지**
+2. **Descriptive Verbs (Adjectives)**: Attach **~(으)ㄴ지** to the stem.
+   - 작다 (small) → 작**은지**
+   - 예쁘다 (pretty) → 예쁘**ㄴ지**
+3. **Nouns + 이다**: Attach **~인지** directly to the noun.
+   - 친구 (friend) → 친구**인지**
+### Usage
+- Used to express knowledge or lack of knowledge about something.
+- Often paired with question words:
+  - **누구** (who), **언제** (when), **어디** (where), **뭐** (what), **어떻게** (how), **왜** (why).
+---
 ## 3. Comparative Analysis
-- **~는지 알다 vs. ~고 있다 (Present Continuous)**: 
-  - **~고 있다** describes ongoing actions, while **~는지 알다** expresses knowledge about whether or not something is occurring.
-  - Example: *그가 학교에 가고 있다* (He is going to school) vs. *그가 학교에 가는지 안 가는지 알아요?* (Do you know if he is going to school or not?).
-- **~는지 알다 vs. ~는지 모르다**: 
-  - **~는지 모르다** is used to indicate uncertainty about something.
-  - Example: *그가 올지 모르겠어요* (I don't know if he will come) vs. *그가 오는지 알아요?* (Do you know if he is coming?).
+### **~는지 알다** vs. **~(으)ㄹ지 알다**
+- **~는지 알다**: Refers to present situations or general facts.
+  - 예: 그가 어디에 사는지 알아요? (Do you know where he lives?)
+- **~(으)ㄹ지 알다**: Refers to future possibilities or uncertainties.
+  - 예: 내일 비가 올지 알아요? (Do you know if it will rain tomorrow?)
+---
 ## 4. Examples in Context
-### Sentence Examples
-1. **Formal Context**:
-   - **이 영화가 재미있는지 알고 싶어요.**
-   - Translation: I want to know if this movie is interesting.
-2. **Informal Context**:
-   - **그 친구가 나와 같이 갈 건지 알아?**
-   - Translation: Do you know if that friend is going with me?
-3. **Written Context**:
-   - **그 제안이 수용될지 알 수 없다.**
-   - Translation: We cannot know if that proposal will be accepted.
-4. **Spoken Context**:
-   - **지금 몇 시인지 알지?**
-   - Translation: Do you know what time it is right now?
+### Formal Situations
+1. **회의가 언제 시작하는지 아십니까?**
+   - Do you know when the meeting starts?
+2. **그분이 누구인지 압니까?**
+   - Do you know who that person is?
+### Informal Situations
+1. **오늘 수업이 있는지 알아?**
+   - Do you know if there's a class today?
+2. **영화가 몇 시에 시작하는지 알아?**
+   - Do you know what time the movie starts?
+### Written Context
+1. **이 단어의 의미가 무엇인지 모릅니다.**
+   - I don't know what this word means.
+2. **문제가 어디에서 발생하는지 조사해야 합니다.**
+   - We need to investigate where the problem originates.
+### Spoken Context
+1. **너 그 소식 들었는지 알아?**
+   - Do you know if he heard the news?
+2. **요즘 그녀가 어떻게 지내는지 알아요?**
+   - Do you know how she's doing these days?
+---
 ## 5. Cultural Notes
 ### Cultural Relevance
-Using **~는지 알다** reflects a level of curiosity or concern about the actions or states of others, which is an important aspect of Korean culture that values community and relationships. 
-### Levels of Politeness and Formality
-Be mindful of using different levels of formality. In formal situations, you may want to use **아세요?** (Do you know?) rather than simply **알아?** (Do you know?).
+- **Politeness Levels**: The verbs **알다** and **모르다** are often conjugated to match the appropriate level of politeness.
+  - **Formal Polite**: 압니다 / 모릅니다
+  - **Informal Polite**: 알아요 / 몰라요
+  - **Casual**: 알아 / 몰라
 ### Idiomatic Expressions
-- **그게 사실인지 알아?** (Do you know if that’s true?)
-- **무슨 소리인지 알려 줘.** (Let me know what that means.)
+- **아는 것이 힘이다**: Knowledge is power.
+- **모르는 게 약이다**: Ignorance is bliss.
+---
 ## 6. Common Mistakes and Tips
 ### Error Analysis
-- **Incorrect form**: Saying **~는지 아는지** instead of **~는지 알다**.
-- **Confusing suffixes**: Using **-는지** for past verbs (should use **-은지**).
+1. **Mixing up Connectors**:
+   - Incorrect: 먹다 → 먹은지 알다
+   - **Correct**: 먹다 → 먹**는지** 알다
+2. **Using the Wrong Form for Adjectives**:
+   - Incorrect: 예쁘다 → 예쁜지 알다
+   - **Correct**: 예쁘다 → 예쁘**ㄴ지** 알다
 ### Learning Strategies
-- **Mnemonic Device**: Remember **알다** as "to know" to keep in mind that you are contemplating knowledge about a situation.
-- Use flashcards to practice the differences between **-는지**, **-은지**, and **-인지** with relevant example sentences.
+- **Mnemonic Device**: Remember that **~는지** is like adding "if" after a verb.
+  - Think of **먹는지 알다** as "know if (someone) eats".
+- **Practice with Question Words**:
+  - Create sentences using question words to get familiar with the structure.
+    - **어디에 가는지 알아요?** (Do you know where he's going?)
+---
 ## 7. Summary and Review
 ### Key Takeaways
-- **~는지 알다** means "to know whether" or "to know if."
-- Structure: Verb/Adjective Stem + -는지/-은지/-인지 + 알다.
-- Usage is common in questions and casual inquiries about actions or states.
+- **~는지 알다** is used to express knowledge about a fact or situation.
+- The connector **~는지** varies depending on whether it's an action verb, descriptive verb, or noun.
+- Often used with question words for more precise information.
 ### Quick Recap Quiz
-1. What does **~는지 알다** mean?
-2. Which suffix would you use for a present tense action?
-3. Provide an example sentence using **~는지 알다** in a formal context.
-By understanding and using **~는지 알다**, you can better navigate conversations and inquiries in Korean, which reflects a key aspect of interpersonal communication in the culture!
+1. **Fill in the blank**: Attach **~___지** to action verbs when using **~는지 알다**.
+   - **Answer**: 는 (받**는지**, 가**는지**)
+2. **Translate**: "Do you know why he is late?"
+   - **Answer**: 그가 왜 늦었**는지** 알아요?
+3. **True or False**: **~는지 알다** can be used for future events without modifications.
+   - **Answer**: False (Use **~(으)ㄹ지 알다** for future events)
+---
+By understanding and practicing **~는지 알다**, you'll enhance your ability to ask and answer questions about information you or others may or may not know, which is a vital skill in Korean communication.
+
+---
+© [Hanabira.org](https://hanabira.org)

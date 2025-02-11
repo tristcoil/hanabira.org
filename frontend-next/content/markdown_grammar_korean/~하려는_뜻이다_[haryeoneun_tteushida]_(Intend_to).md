@@ -1,72 +1,106 @@
 Processing keyword: ~하려는 뜻이다 [haryeoneun tteushida] (Intend to)
 # Korean Grammar Point: ~하려는 뜻이다 [haryeoneun tteushida] (Intend to)
-# Introduction
-In this lesson, we will explore the Korean grammar point **~하려는 뜻이다 [haryeoneun tteushida]**, which translates to "intend to" in English. This structure is used to express intention or the meaning behind an action.
+
+## 1. Introduction
+In Korean, expressing intentions or plans is crucial for effective communication. The grammar pattern **~하려는 뜻이다** is used to convey one's intention to perform a specific action. This lesson will guide you through understanding and using **~하려는 뜻이다** to express intentions naturally in Korean.
+
 ---
-## Core Grammar Explanation
-### Detailed Explanation
-**~하려는 뜻이다** consists of three main parts:
-1. **하려는**: This part is derived from the verb **하다 [hada]**, which means "to do". The form **하** [ha] is combined with the suffix **-려는** [-ryeoneun], which indicates an intention or a positive action towards doing something.
-2. **뜻**: This noun means "meaning" or "intention".
-3. **이다**: This is the copula verb "to be", used here to link the subject and its definition.
+## 2. Core Grammar Explanation
+### Meaning
+**~하려는 뜻이다** translates to **"intend to do"** or **"have the intention to do."** It is used to express a strong intent or plan to carry out an action.
 ### Structure
-- **Formation**: Subject + ~하려는 뜻이다
-- **English Translation**: "The intention is to..." or "It means that..."
-### Visual Aid
-| Korean Structure       | Meaning             |
-|-----------------------|---------------------|
-| 주어 + 하려는 뜻이다   | Subject + intends to |
+The structure of this grammar pattern is:
+```
+[Verb Stem] + ~려는 뜻이다
+```
+- **Verb Stem**: The base form of the verb without the ending **-다**.
+- **~려는**: Contraction of **~려고 하는**, indicating intention.
+- **뜻이다**: Means "meaning is" or "it is the intention."
+### Formation Diagram
+Let's break down the formation:
+| Step               | Process                                       | Example with **가다** (to go) |
+|--------------------|-----------------------------------------------|------------------------------|
+| **1. Verb Stem**   | Remove **-다** from the verb                  | **가다** → **가**             |
+| **2. Add ~려는**   | Attach **~려는** to the verb stem             | **가** + **려는** = **가려는** |
+| **3. Add 뜻이다**  | Append **뜻이다** to complete the expression  | **가려는** + **뜻이다** = **가려는 뜻이다** |
 ---
-## Comparative Analysis
-### Similar Grammar Points
-- **~려고 하다 [ryeogo hada]**: This conveys a plan or intention to do something. 
-  - **Usage Difference**: While **~려고 하다** is more about planning or intending at the moment, **~하려는 뜻이다** emphasizes the underlying meaning or intention of something more clearly.
-  
-- **~하고자 하다 [hagoja hada]**: This also expresses intention but is often used in formal contexts.
-  - **Nuance**: **~하고자 하다** can feel more formal compared to **~하려는 뜻이다**, which can be used in both casual and formal contexts.
+## 3. Comparative Analysis
+### **~하려는 뜻이다** vs. **~려고 하다**
+Both grammar patterns express intention, but there are nuances:
+| Grammar Pattern    | Usage                                 | Nuance                                           |
+|--------------------|---------------------------------------|--------------------------------------------------|
+| **~하려는 뜻이다** | Expresses a definitive intention or plan | Emphasizes the intention, often more formal      |
+| **~려고 하다**     | Indicates an intention or immediate plan | More common in everyday speech, less formal      |
+**Example Comparison:**
+- **집을 사려는 뜻입니다.**
+  - *I intend to buy a house.* (Emphasizes a clear intention)
+- **집을 사려고 합니다.**
+  - *I'm planning to buy a house.* (General intention)
 ---
-## Examples in Context
-### Sentence Examples
-1. **Formal Context**:
-   - 그 프로젝트는 많은 사람들을 돕고자 하는 뜻이다.
-   - (The intention of this project is to help many people.)
-2. **Informal Context**:
-   - 나는 축구를 잘 하려는 뜻이야.
-   - (My intention is to play soccer well.)
-3. **Written Context**:
-   - 그녀의 연구는 사회 문제를 해결하려는 뜻이다.
-   - (Her research means to resolve social issues.)
-4. **Spoken Context**:
-   - 너의 메시지는 뭘 하려는 뜻이야?
-   - (What do you intend to say with your message?)
+## 4. Examples in Context
+### Example Sentences
+1. **대학교에 입학하려는 뜻입니다.**
+   - *I intend to enter university.*
+2. **사업을 시작하려는 뜻이에요.**
+   - *I intend to start a business.*
+3. **올해에는 여행을 많이 하려는 뜻입니다.**
+   - *I intend to travel a lot this year.*
+4. **새로운 언어를 배우려는 뜻이에요.**
+   - *I intend to learn a new language.*
+5. **건강을 위해 운동을 시작하려는 뜻입니다.**
+   - *I intend to start exercising for my health.*
+### Formal and Informal Contexts
+- **Formal:** **회의를 연기하려는 뜻입니다.**
+  - *I intend to postpone the meeting.*
+- **Informal:** **저녁에 영화 보려는 뜻이야.**
+  - *I intend to watch a movie this evening.*
 ---
-## Cultural Notes
+## 5. Cultural Notes
 ### Cultural Relevance
-In Korean culture, intentions behind actions carry significant meaning. Expressing one’s intention explicitly can reflect politeness and consideration for how one's actions are perceived by others. Using **~하려는 뜻이다** allows for a clear understanding of one’s motivations, which is sometimes more important than the action itself.
-### Levels of Politeness
-This grammar structure can be used in both polite and casual speech, making it versatile across different social situations. However, care should always be taken to adjust the formality of the surrounding language accordingly.
+- **Politeness Levels:** Using **~하려는 뜻입니다** shows respect and formality, suitable in professional or unfamiliar social settings.
 ### Idiomatic Expressions
-- "다 하려는 뜻이야." (I mean to do everything.)
-  
+- **뜻이 있다:** *To have meaning or intention.*
+  - **그는 큰 뜻이 있는 사람입니다.**
+    - *He is a person with big ambitions.*
 ---
-## Common Mistakes and Tips
-### Error Analysis
-1. **Incorrect Structure**: Often learners forget to include **이다** at the end, making the sentence incomplete.
-   - Incorrect: "이 영화는 재밌으려는 뜻이야."
-   - Correct: "이 영화는 재밌으려는 뜻이다."
-2. **Confusion with Other Forms**: Mixing up with **~려고 하다** can lead to confusion. Remember, **~하려는 뜻이다** is focused on expressing the underlying intention.
+## 6. Common Mistakes and Tips
+### Common Mistakes
+1. **Incorrect Verb Stem Usage**
+   - **Incorrect:** **먹다려는 뜻이에요.**
+   
+   - **Correct:** **먹으려는 뜻이에요.**
+     - *"먹다" requires adding **-으** before **~려는** because it ends with a consonant.*
+2. **Confusing with ~려고 하는 뜻이다**
+   - **Incorrect:** **가려고 하는 뜻입니다.**
+   - **Correct:** **가려는 뜻입니다.**
+     - *Although similar, **~려는 뜻이다** is preferred for conciseness.*
 ### Learning Strategies
-- Remember that **뜻** indicates meaning, so think of this structure as explaining the meaning behind your intentions.
-- Use mnemonic devices such as associating **뜻** with "dictionary meaning" to recall its usage in intention-related contexts.
+- **Remember the Contraction:**
+  - **~려고 하는 뜻이다** → **~려는 뜻이다**
+  - Think of **~려는 뜻이다** as a shorter, more natural expression.
+- **Verb Stem Ending Rules:**
+  - If the verb stem ends with a consonant, add **-으려는 뜻이다**.
+    - **앉다** (to sit) → **앉으려는 뜻이다**
+  - If the verb stem ends with a vowel, add **-려는 뜻이다** directly.
+    - **가다** (to go) → **가려는 뜻이다**
 ---
-## Summary and Review
+## 7. Summary and Review
 ### Key Takeaways
-- **~하려는 뜻이다** expresses the intention behind an action.
-- It is formed by combining **하** with **-려는** to describe intention and concluding with **이다** to link the thought.
-- Suitable for both formal and informal contexts.
-- Compare with similar structures like **~려고 하다** and **~하고자 하다** for clarity.
+- **~하려는 뜻이다** is used to express a definitive intention or plan.
+- Formed by adding **~려는 뜻이다** to the verb stem.
+- More formal and emphasizes intention compared to **~려고 하다**.
+- Be mindful of verb stem endings when attaching **~려는 뜻이다**.
 ### Quick Recap Quiz
-1. What does **~하려는 뜻이다** mean?
-2. How do you correctly form this structure?
-3. Compare **~하려는 뜻이다** and **~려고 하다** in terms of usage.
-By understanding and practicing this grammar point, you will enhance your ability to communicate intentions clearly in Korean!
+1. **Fill in the blank:** *(I intend to read a book.)*
+   - **책을 ______ 뜻이에요.**
+     - **Answer:** **읽으려는**
+2. **True or False:** **~하려는 뜻이다** is less formal than **~려고 하다**.
+   - **Answer:** **False**
+3. **Correct the Sentence:** **공부를 하려는 뜻입니다.**
+   - **Answer:** **공부하려는 뜻입니다.**
+     - *"공부하다" is already a verb, so **-를** is unnecessary.*
+---
+By mastering **~하려는 뜻이다**, you can effectively express your intentions in Korean with clarity and appropriate formality. Practice creating your own sentences to become more comfortable with this grammar pattern!
+
+---
+© [Hanabira.org](https://hanabira.org)

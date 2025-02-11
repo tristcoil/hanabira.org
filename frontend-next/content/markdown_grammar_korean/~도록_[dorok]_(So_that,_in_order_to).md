@@ -1,62 +1,117 @@
 Processing keyword: ~도록 [dorok] (So that, in order to)
 # Korean Grammar Point: ~도록 [dorok] (So that, in order to)
-# ~도록 (dorok) - So that, in order to
+
+
 ## 1. Introduction
-The grammar point ~도록 (dorok) is used to express purpose or intention, meaning "so that" or "in order to." This structure is often used when you want to indicate the reason behind an action or the result you hope to achieve.
+In Korean, **~도록** (pronounced *dorok*) is a versatile grammatical particle used to express purpose, result, or extent. It is often translated as "so that," "in order to," or "to the extent that" in English. Mastering **~도록** will enhance your ability to convey intentions, goals, and degrees of actions in more nuanced ways in both spoken and written Korean.
+
+---
 ## 2. Core Grammar Explanation
-### Detailed Explanation
-- **Meaning**: ~도록 indicates that one action is taken to achieve a specific goal or result. 
-- **Structure**: This grammar point is usually attached to the verb stem or adjective stem. 
+### Meaning and Usage
+**~도록** is attached to verbs to express:
+1. **Purpose or intention**: Indicating the goal or purpose of an action.
+2. **Result or effect**: Showing the outcome or effect caused by an action.
+3. **Extent or degree**: Describing the extent to which an action is done.
+### Structure
+The general formation is:
+- **Verb Stem + 도록**
 ### Formation Diagram
-```markdown
-[Verb/Adjective Stem] + ~도록
+```plaintext
+[Verb Stem] + 도록
 ```
-### Examples of Formation
-- **Using a Verb**: 음식이 맛있도록 요리해 주세요. 
-  - (I cook it so that the food tastes good.)
-- **Using an Adjective**: 공부하기 쉽도록 자료를 정리했어요.
-  - (I organized the materials so that it would be easier to study.)
+### Detailed Explanation
+1. **Expressing Purpose or Intention**
+   When **~도록** is used to express purpose, it is similar to "so that" or "in order to" in English.
+   - **Example**: 이해하**도록** 설명하다.
+   - **Translation**: Explain *so that* (someone) understands.
+2. **Expressing Result or Effect**
+   It can indicate that a preceding action results in a certain effect.
+   - **Example**: 길이 막히지 않**도록** 일찍 출발하세요.
+   - **Translation**: Depart early *so that* you don't get stuck in traffic.
+3. **Expressing Extent or Degree**
+   Describes doing something to a certain extent or degree.
+   - **Example**: 목이 아프**도록** 소리치다.
+   - **Translation**: Shout *to the extent that* one's throat hurts.
+### Visual Aid: Usage Breakdown Table
+
+| Usage                           | Meaning                              | Example                                     | Translation                                        |
+|---------------------------------|--------------------------------------|---------------------------------------------|----------------------------------------------------|
+| Purpose or Intention            | So that, In order to                 | 이해하**도록** 노력하다               | Try *so that* (someone) understands            |
+| Result or Effect                | So that (result happens)             | 넘어지지 않**도록** 조심하세요         | Be careful *so that* you don't fall             |
+| Extent or Degree                | To the extent that                   | 밤새도록 공부하다                         | Study *to the extent that* (you) stay up all night |
+
+---
 ## 3. Comparative Analysis
-| **Grammar Point** | **Meaning**                    | **Example**                                | **Notes**                     |
-|-------------------|--------------------------------|--------------------------------------------|-------------------------------|
-| ~도록 (dorok)     | So that, in order to          | 그녀가 이해하도록 설명했어요.           | Focuses on the purpose of action |
-| ~게 (ge)          | So that, to make                | 그를 웃게 하려고 노력했어요.            | Focuses more on the result     |
-| ~기 위하여 (gi wihayeo) | In order to                  | 성공하기 위해 열심히 공부해요.        | More formal, indicates purpose  |
+### Comparing **~도록** with **~기 위해(서)**
+Both **~도록** and **~기 위해(서)** can express purpose, but there are nuances.
+- **~도록** can be used for both **purpose** and **extent**, whereas **~기 위해서** is primarily for **purpose**.
+- **~도록** is more versatile and can imply causing an effect or result.
+
+| Grammar Point     | Usage                 | Example                                   | Translation                                     |
+|-------------------|-----------------------|-------------------------------------------|-------------------------------------------------|
+| **~도록**         | Purpose/Extent/Result | 기억하**도록** 메모하세요.           | Make a note *so that* you remember.        |
+| **~기 위해서**    | Purpose only          | 기억하**기 위해서** 메모하세요.       | Make a note *in order to* remember.        |
+
+---
 ## 4. Examples in Context
-### Sentence Examples
-1. **Formal**: 아이들이 재미있도록 이야기를 해 주십시오.
-   - (Please tell a story so that the children find it interesting.)
-   
-2. **Informal**: 피곤하지 않도록 일찍 자야 돼.
-   - (I need to sleep early so that I'm not tired.)
-3. **Written**: 교육이 효과적이도록 여러 방법을 검토하고 있습니다.
-   - (We are reviewing various methods so that the education is effective.)
-4. **Spoken**: 너가 잘 이해하도록 천천히 설명할게.
-   - (I'll explain slowly so that you can understand well.)
+### Formal Context
+1. **회의에 늦지 않도록 빨리 가십시오.**
+   - *Please go quickly so that you are not late for the meeting.*
+2. **환경을 보호하도록 노력합시다.**
+   - *Let's make efforts so that we protect the environment.*
+### Informal Context
+1. **감기에 걸리지 않도록 따뜻하게 입어.**
+   - *Dress warmly so that you don't catch a cold.*
+2. **시험에 합격하도록 열심히 공부했어.**
+   - *I studied hard so that I could pass the exam.*
+### Written Context
+1. **사람들이 이해할 수 있도록 자세히 설명했습니다.**
+   - *I explained in detail so that people could understand.*
+2. **데이터가 손실되지 않도록 백업을 만들었습니다.**
+   - *I created a backup so that data wouldn't be lost.*
+### Spoken Context
+1. **넘어지지 않도록 조심해!**
+   - *Be careful so that you don't fall!*
+2. **네가 들을 수 있도록 크게 말할게.**
+   - *I'll speak loudly so that you can hear.*
+---
 ## 5. Cultural Notes
-### Cultural Relevance
-In Korean culture, expressing intentions clearly is important. Using ~도록 shows consideration for the listener's understanding or needs, which aligns with the culture of respect and indirect communication. 
-### Levels of Politeness
-- The usage of ~도록 can vary in politeness. It is suitable for both casual and formal conversations, but the politeness level of the surrounding sentence must align.
-### Idiomatic Expressions
-- "잘 되도록" (so that it goes well) is often used in various contexts, such as wishing success in endeavors.
+### Levels of Politeness and Formality
+- **~도록** can be used in both formal and informal situations without changing its form.
+- The level of politeness is conveyed through sentence endings rather than the particle **~도록** itself.
+### Idiomatic Expressions Using **~도록**
+1. **뼈가 부러지도록 운동하다**
+   - *To exercise to the extent that bones break* (meaning excessive exercise)
+2. **입이 아프도록 말하다**
+   - *To talk to the extent that the mouth hurts* (meaning talking a lot or repeatedly)
+---
 ## 6. Common Mistakes and Tips
-### Error Analysis
-1. **Using an Inappropriate Verb Form**: Make sure to use the proper stem form before attaching ~도록.
-   - Incorrect: 먹도록 (He did not eat).
-   - Correct: 먹도록 (He eats so that…).
-2. **Confusing with ~게**: Remember that ~도록 indicates purpose while ~게 focuses more on the result.
-### Learning Strategies
-- **Mnemonic Device**: Think of ~도록 as "directing your action to a goal." 
-- **Tip**: When using it with verbs that show an ongoing action, be clear about the intended outcome to avoid confusion.
+### Common Mistakes
+1. **Confusing with **~까지**
+   - **Incorrect**: 밤새**까지** 공부했어요. (Using **~까지** to express extent)
+   - **Correct**: 밤새**도록** 공부했어요.
+2. **Using **~도록** with adjectives**
+   - **Incorrect**: 예쁜**도록** 꽃을 샀어요. (**~도록** is not used with adjectives)
+   - **Correct**: 예쁜 꽃을 샀어요.
+### Tips to Remember
+- **Mnemonic for Purpose**: Think of **~도록** as "do-rock" your goal (do it to achieve the goal).
+- **Association for Extent**: Associate **~도록** with "to the limit of the action."
+---
 ## 7. Summary and Review
 ### Key Takeaways
-- ~도록 is used to express purpose or intention.
-- It can be attached to both verbs and adjectives.
-- Essential for clarity in communication about intentions.
+- **~도록** is used to express purpose, result, or extent.
+- It's attached directly to verb stems.
+- Versatile in expressing "so that," "in order to," or "to the extent that."
+- Can be used in various contexts without changing form.
 ### Quick Recap Quiz
-1. How do you say "I exercise so that I can be healthy" in Korean using ~도록?
-2. Is ~도록 more formal or informal compared to ~게?
-3. Provide an example sentence using ~도록 in a casual context.
+1. How do you express "Study hard so that you can succeed" using **~도록**?
+   - **Answer**: 성공하도록 열심히 공부하세요.
+2. True or False: **~도록** can be used with adjectives.
+   - **Answer**: False
+3. Fill in the blank: 넘어지지 않_____ 조심하세요. (So that you don't fall, be careful.)
+   - **Answer**: 넘어지지 않**도록** 조심하세요.
 ---
-This concludes the explanation of the grammar point ~도록. Understanding its usage will greatly enhance your ability to express intentions and purposes in Korean!
+By understanding and practicing **~도록**, you'll be able to express purposes and extents more naturally in Korean, enhancing both your speaking and comprehension skills.
+
+---
+© [Hanabira.org](https://hanabira.org)

@@ -1,60 +1,107 @@
 Processing keyword: ~어/아 갖다 [eo/a gatda] (To keep doing)
 # Korean Grammar Point: ~어/아 갖다 [eo/a gatda] (To keep doing)
-# Grammar Point: ~어/아 갖다 [eo/a gatda] (To keep doing)
-## Introduction
-The expression ~어/아 갖다 is a useful Korean grammar point that conveys the idea of 'keeping' or 'continuing' to do something. It is often used to indicate an ongoing action or state that a subject maintains.
-## Core Grammar Explanation
-### Detailed Explanation
-When using ~어/아 갖다, the structure consists of:
-1. **Verb Stem**: The stem of the verb that you wish to use.
-2. **~어/아**: The appropriate ending based on the last vowel of the verb stem. 
-   - If the last vowel is **ㅏ** or **ㅗ**, we use **-아**.
-   - For all other vowels, we use **-어**.
-3. **갖다**: This means 'to have' or 'to keep'. When combined with the verb, it indicates the action is not just completed but is being sustained or held.
+
+## 1. Introduction
+In this lesson, we'll explore the Korean grammar point **~어/아 갖다 [eo/a gatda]**, which conveys the meaning of **"to keep doing"** an action. This structure is commonly used in colloquial Korean to express the continuity or repetition of an action over time.
+
+---
+## 2. Core Grammar Explanation
+### Meaning
+The grammar pattern **~어/아 갖다** is used to indicate that someone **continues to do** an action or **keeps doing** something. It emphasizes the ongoing nature of the activity.
+### Structure
+The structure combines the verb stem with **~어/아 갖다**:
+1. **Verb Stem** + **~어/아** + **갖다**
 ### Formation Diagram
+Let's break down the formation:
 ```
-Verb Stem + (Vowel Ending) + 갖다 → ~어/아 갖다
+[Verb Stem] + 어/아 + 갖다
 ```
-### Examples of Verb Conjugation
-- 가다 (to go) → 가 + 아 갖다 → 가 갖다 (to keep going)
-- 먹다 (to eat) → 먹 + 어 갖다 → 먹어 갖다 (to keep eating)
-- 자다 (to sleep) → 자 + 아 갖다 → 자 갖다 (to keep sleeping)
-## Comparative Analysis
-The expression ~어/아 갖다 can be compared to other similar grammar points such as:
-- **~고 있다**: This indicates an ongoing action but does not carry the implication of 'keeping' that 갖다 does. For instance, 가고 있다 simply means 'is going' without the context of intention to keep going.
-- **~은/는 중이다**: This also signifies being in the middle of an action but does not imply maintaining the action over time as ~어/아 갖다 does.
-## Examples in Context
-### Sentence Examples
-1. **Formal**: 
-   - 그는 매일 운동을 해 갖다. 
-   - *(He keeps exercising every day.)*
-  
-2. **Informal**:
-   - 나는 아침마다 커피를 마시고 갖다. 
-   - *(I keep drinking coffee every morning.)*
-3. **Written**:
-   - 글을 쓰고 갖는 것이 어렵다. 
-   - *(Keeping on writing is hard.)*
-4. **Spoken**:
-   - 그녀는 공부해 갖고, 시험 잘 봤어. 
-   - *(She kept studying and did well on the exam.)*
-## Cultural Notes
-In Korean culture, the expression of ongoing actions often relates to the cultural values of perseverance and dedication. Using ~어/아 갖다 may reflect a person's commitment to tasks or responsibilities. It also implies humility and effort in actions.
+- **Verb Stem**: The base form of the verb without **다**.
+- **어/아**: Connecting vowel, depends on the final vowel of the verb stem.
+- **갖다**: Means "to have," but in this structure, it emphasizes continuation.
+### Choosing Between ~어 and ~아
+The connecting vowel **~어/아** is chosen based on vowel harmony:
+- **아/오** vowel in the verb stem ➔ Use **~아 갖다**
+- Any other vowel ➔ Use **~어 갖다**
+### Examples of Verb Stem Connections
+| Verb (Dictionary Form) | Verb Stem | Connection | Result       |
+|------------------------|-----------|------------|--------------|
+| 먹다 (to eat)          | 먹        | 어 갖다    | 먹어 갖다    |
+| 가다 (to go)           | 가        | 아 갖다    | 가아 갖다 → 가아갖다 (contracted to **가갖다**) |
+| 보다 (to see)          | 보        | 아 갖다    | 보아 갖다 → 보아갖다 (contracted to **봐갖다**) |
+| 읽다 (to read)         | 읽        | 어 갖다    | 읽어 갖다    |
+---
+## 3. Comparative Analysis
+### Comparison with ~어/아 가다
+- **~어/아 가다**: Indicates an action that continues **into the future**.
+- **~어/아 갖다**: Emphasizes the **repetition or continuation** of an action, often colloquial.
+### Comparison with ~고 있다
+- **~고 있다**: Denotes the **present continuous tense** (currently doing something).
+- **~어/아 갖다**: Focuses on the **ongoing repetition** rather than just the current action.
+---
+## 4. Examples in Context
+### Example Sentences
+1. **Informal Spoken**
+   - **친구를 기다려 갖고 있어.**
+     - *Chingureul gidaryeo gatgo isseo.*
+     - "I'm keeping on waiting for my friend."
+2. **Formal Spoken**
+   - **책을 계속 읽어 갖고 있습니다.**
+     - *Chaekeul gyesok ilgeo gatgo it-seumnida.*
+     - "I keep reading the book."
+3. **Informal Written**
+   - **요즘 운동을 해서 건강을 챙겨 갖고 있어.**
+     - *Yojum undongeul haeseo geongangeul chaenggyeo gatgo isseo.*
+     - "These days, I'm exercising to keep taking care of my health."
+4. **Formal Written**
+   - **그는 목표를 향해 노력해 갖고 있다.**
+     - *Geuneun mokpyoreul hyanghae noryeokhae gatgo itda.*
+     - "He keeps striving towards his goal."
+### Breakdown of an Example
+**Sentence**: 공부를 열심히 해 갖고 있어요.
+- **공부를**: studying (object)
+- **열심히**: diligently
+- **해**: do (verb stem 하다)
+- **갖고 있어요**: keep doing (갖다 + 고 있다)
+- **Translation**: "I keep studying hard."
+---
+## 5. Cultural Notes
+### Colloquial Usage
+- **~어/아 갖다** is more commonly used in **spoken Korean**.
+- It adds a casual tone to the speech and is often used among friends or peers.
+### Politeness Levels
+- When speaking formally, it's better to use structures like **~어/아 가다** or **계속 ~하다** to convey continuation without sounding casual.
 ### Idiomatic Expressions
-- "고생하다" (to endure hardship): This idiom often implies going through struggles while maintaining a task, akin to using ~어/아 갖다.
-## Common Mistakes and Tips
-### Error Analysis
-- **Common Mistake**: Confusing it with the progressive form ~고 있다. It is essential to remember that ~어/아 갖다 indicates ongoing maintenance of an action rather than just occurrence.
-- **Learning Strategy**: Associating “갖다” with the English word ``'keep'`` can help position the correct mindset of continuously doing something.
-## Summary and Review
+- **먹어 갖고는 살이 찔 수밖에 없어.**
+  - "If you keep eating like that, you'll inevitably gain weight."
+---
+## 6. Common Mistakes and Tips
+### Common Mistakes
+1. **Using the Wrong Connecting Vowel**
+   - Incorrect: *먹아 갖다*
+   - Correct: *먹어 갖다*
+2. **Overusing in Formal Contexts**
+   - **~어/아 갖다** is informal; avoid using it in formal writing or speeches.
+### Tips
+- **Mnemonic for Vowel Harmony**: If the verb stem ends with **아** or **오**, use **~아 갖다**; otherwise, use **~어 갖다**.
+- **Remember the Context**: Use this grammar point in casual conversations to sound more natural.
+---
+## 7. Summary and Review
 ### Key Takeaways
-- ~어/아 갖다 signifies 'to keep doing' and is formed by combining a verb stem with appropriate endings and 갖다.
-- It indicates ongoing actions with an emphasis on maintaining that action over time.
+- **~어/아 갖다** is used to express the continuation or repetition of an action.
+- It is a casual, colloquial structure best suited for informal contexts.
+- Proper use of connecting vowels is essential for grammatical accuracy.
 ### Quick Recap Quiz
-1. What does the expression ~어/아 갖다 mean in English?
-2. How do you decide whether to use -어 or -아?
-3. Give an example sentence using ~어/아 갖다 in the informal context.
-### Answers:
-1. 'To keep doing'
-2. Use -아 after ㅏ/ㅗ; use -어 after other vowels.
-3. (Any valid sentence in the context would be acceptable)
+1. What does **~어/아 갖다** express in a sentence?
+2. How do you attach **~어/아 갖다** to the verb **읽다** (to read)?
+3. Is it appropriate to use **~어/아 갖다** in formal writing?
+
+**Answers:**
+1. It expresses that someone keeps doing an action or continues to do something.
+2. **읽어 갖다** (*ilgeo gatda*)
+3. No, it's considered informal and is better used in casual conversation.
+---
+By understanding and practicing **~어/아 갖다**, you'll be able to express continuous actions more naturally in Korean. Remember to pay attention to the context and formality when using this grammar point!
+
+---
+© [Hanabira.org](https://hanabira.org)

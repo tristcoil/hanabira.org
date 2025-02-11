@@ -1,84 +1,85 @@
 Processing keyword: ～次第で (〜shidai de)
 # Japanese Grammar Point: ～次第で (〜shidai de)
-# Grammar Point: ～次第で (〜shidai de)
-## Introduction
-The Japanese expression ～次第で (〜shidai de) is a conditional phrase that indicates that something will depend on certain circumstances or conditions. It is commonly used to express that the outcome or result of a situation hinges on specific factors.
+
+## 1. Introduction
+The grammar point ～**次第で** (〜しだいで) is an essential expression in Japanese that conveys the meaning of "depending on" or "according to." It is used to indicate that the outcome or result of a situation is influenced by a preceding factor. Mastering this grammar point will enhance your ability to discuss conditional scenarios and express dependency in Japanese.
+
 ---
-## Core Grammar Explanation
-### Detailed Explanation
-- **Meaning**: "Depending on" or "based on".
-- **Structure**: The structure of this grammar point is as follows:
-  - [Noun] + 次第で
-  - [Verb (ます-form)] + 次第で
+## 2. Core Grammar Explanation
+### Meaning
+- **～次第で** expresses that something **depends on** or is **determined by** something else.
+### Structure
+| **Formation**        |                             |
+| -------------------- | --------------------------- |
+| **Noun** + 次第で     | Depending on [Noun]         |
 ### Formation Diagram
-| Part of Speech | Structure                | Example                                     |
-|----------------|--------------------------|---------------------------------------------|
-| Noun           | Noun + 次第で             | 結果次第で (Depending on the result)         |
-| Verb           | Verb (ます-form) + 次第で | 決定次第で (Depending on the decision)       |
-### Example Sentence Breakdown
-- **Basic Structure**: 
-  - 結果次第で、次のステップを決めます。
-  - (Kekka shidai de, tsugi no suteppu o kimemasu.)
-  - "Depending on the result, we will decide the next steps."
+```
+[Cause/Condition Noun] + 次第で + [Resulting Action/Outcome]
+```
 ---
-## Comparative Analysis
-### Comparison with Similar Grammar Points
-1. **〜に応じて (〜ni oojite)**
-   - Usage: Also means "depending on" but is more general.
-   - Example: 需要に応じて価格が変わる。 (Juyou ni oojite kakaku ga kawaru.)
-     - "Prices change depending on demand."
-2. **〜によって (〜ni yotte)**
-   - Usage: Means "depending on," but can imply more causation rather than simple conditional dependency.
-   - Example: 成績によって奨学金が決まる。 (Seiseki ni yotte shougakukin ga kimaru.)
-     - "Scholarships are determined based on grades."
-### Nuance Differences
-- **私の意見次第で (Watashi no iken shidai de)** means decisions may change based on my opinion.
-- **収入に応じて (Shuunyuu ni oojite)** means income affects decisions broadly, not directly tied to a specific condition.
+### Detailed Explanation
+- **次第で** attaches to a **noun** to show that the outcome **varies** based on that noun.
+- It emphasizes that the result is **not fixed** and will change **according to** the preceding factor.
 ---
-## Examples in Context
-### Sentence Examples
-1. **Formal**: 
-   - その結果次第で、プロジェクトの進行が変わります。
-   - (Sono kekka shidai de, purojekuto no shinkou ga kawarimasu.)
-   - "Depending on that outcome, the progress of the project will change."
-2. **Informal**: 
-   - お金次第で、旅行に行くかどうか決めるよ。
-   - (Okane shidai de, ryokou ni iku ka dou ka kimeru yo.)
-   - "I’ll decide whether to go on a trip depending on the money."
-3. **Written Context**: 
-   - 調査次第で、今後の方針が決まります。
-   - (Chousa shidai de, kongo no houshin ga kimarimasu.)
-   - "The future policy will be decided based on the survey."
-4. **Spoken Context**:
-   - 彼の気持ち次第で、デートに行くよ。
-   - (Kare no kimochi shidai de, deeto ni iku yo.)
-   - "Depending on his feelings, I’ll go on a date."
+## 3. Comparative Analysis
+- **～によって** (〜によって): Also means "depending on," but **によって** often emphasizes methods or means, while **次第で** focuses on conditions influencing outcomes.
+- **～次第** (without で): Means "as soon as" when attached to a verb stem, which is different from **次第で**.
 ---
-## Cultural Notes
+## 4. Examples in Context
+### Example Sentences
+1. **努力**次第で成功できる。
+   - *Doryoku shidai de seikō dekiru.*
+   - Depending on your effort, you can succeed.
+2. **天気**次第で試合が中止になるかもしれない。
+   - *Tenki shidai de shiai ga chūshi ni naru kamoshirenai.*
+   - Depending on the weather, the match might be canceled.
+3. **あなたの言い方**次第で彼の反応は変わる。
+   - *Anata no iikata shidai de kare no han'nō wa kawaru.*
+   - His reaction will change depending on how you say it.
+4. **結果**次第では計画を変更する必要がある。
+   - *Kekka shidai dewa keikaku o henkō suru hitsuyō ga aru.*
+   - Depending on the results, we may need to change the plan.
+5. **資金**次第でプロジェクトの規模が決まる。
+   - *Shikin shidai de purojekuto no kibo ga kimaru.*
+   - The scale of the project will be decided depending on the funds.
+---
+## 5. Cultural Notes
 ### Cultural Relevance
-Using ～次第で often reflects the Japanese values of flexibility and consensus-building. It shows respect for the nuances of decision-making processes and allows for changes based on circumstances or the opinions of others.
-### Levels of Politeness
-Depending on context, this phrase can take various levels of politeness:
-- Use in formal situations to show respect.
-- More casual in informal settings, but still retains a sense of consideration for the listener.
+In Japanese culture, acknowledging variables and the influence of circumstances is important in communication. Using **～次第で** reflects an understanding that outcomes are not always fixed and can be influenced by various factors, which aligns with the Japanese value of considering context and conditions.
+
+---
 ### Idiomatic Expressions
-- それ次第だ (Sore shidai da) - "It depends on that."
-  
+- **考え方次第で人生が変わる。**
+  - *Kangaekata shidai de jinsei ga kawaru.*
+  - Your life can change depending on your way of thinking.
 ---
-## Common Mistakes and Tips
+## 6. Common Mistakes and Tips
 ### Error Analysis
-- **Misinterpretation**: Confusing with other conditionals. Remember that ～次第で relies solely on conditions rather than causation.
-- **Incorrect Form**: Forgetting to use the polite form with verbs in formal situations.
+- **Mistake:** Using **次第で** with verbs directly.
+  - **Incorrect:** *行く**次第で**、連絡します。*
+  - **Correct Usage:** *行く場合は、連絡します。*
+  - **Explanation:** **次第で** attaches to nouns, not verbs.
 ### Learning Strategies
-- **Mnemonic Device**: Think of "shidai" as "side" or "condition" – both relate to the outcome being determined by the situation at hand.
+- **Tip:** Remember that **次第で** always follows a **noun**. If you have a verb, convert it into a noun using the nominalizer **こと** or use the verb's noun form if available.
+  - Example: **努力する** → **努力**
 ---
-## Summary and Review
+## 7. Summary and Review
 ### Key Takeaways
-- **Meaning**: Indicates dependency on certain conditions.
-- **Structure**: Follow the noun or verb (ます-form) with 次第で.
-- **Use Cases**: Common in both formal and informal settings.
+- **～次第で** means "depending on" or "according to."
+- It is used by attaching **次第で** to a **noun**.
+- It indicates that the outcome is influenced by the preceding noun.
+---
 ### Quick Recap Quiz
-1. What does ～次第で mean?
-2. Provide an example sentence using ～次第で in a formal context.
-3. How is ～次第で different from 〜によって?
-By understanding and practicing this grammar point, learners can effectively express conditional relationships in Japanese conversations and writing.
+1. How do you say "Depending on the weather, the picnic might be canceled" using **次第で**?
+   - **Answer:** *天気次第でピクニックが中止になるかもしれない。*
+2. True or False: **次第で** can attach directly to verbs.
+   - **Answer:** False. **次第で** attaches to nouns.
+3. Fill in the blank: 努力______成功できる。
+   - **Answer:** 努力**次第で**成功できる。
+---
+By understanding and practicing **～次第で**, you'll be able to express dependency and conditions more naturally in Japanese. Keep practicing by creating your own sentences, and soon this grammar point will become a natural part of your language skills!
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

@@ -1,81 +1,104 @@
 Processing keyword: ～てまで (〜te made)
 # Japanese Grammar Point: ～てまで (〜te made)
-# Japanese Grammar Point: ～てまで (～te made)
+
 ## 1. Introduction
-The grammar point ～てまで (～te made) is used to express actions taken to an extreme or excessive extent. It highlights a certain level of effort, action, or behavior that seems unreasonable or beyond normal expectations. 
+The grammar pattern **～てまで (〜te made)** is used in Japanese to express the idea of going to great lengths, even to the extent of doing something extreme or undesirable, to achieve a certain outcome. It often carries a connotation of surprise, criticism, or disapproval towards the extent of the action taken.
+
 ---
 ## 2. Core Grammar Explanation
 ### Meaning
-- The phrase ～てまで indicates an action that goes as far as to do something that might be considered extreme or unacceptable.
+- **English Equivalent:** "Even to the point of doing...", "To the extent of...", "Even if it means..."
 ### Structure
-- The basic formation of this grammar point combines the te-form of a verb with まで (made):
-  
-  **[Verb (te-form) + まで]**
-### Formation Diagram
-```markdown
-[Verb (te-form)] -> て -> まで
+```plaintext
+Verbて-form + まで
 ```
-### Visual Aid
-| Verb (te-form) | まで (made)    | Meaning                        |
-|----------------|----------------|--------------------------------|
-| 食べて         | まで           | to the extent of (eating)     |
-| 行って         | まで           | to the extent of (going)      |
+### Formation Diagram
+| Verb Dictionary Form | て-form | + まで |
+|----------------------|---------|-------|
+| 遊ぶ (あそぶ)         | 遊んで  | まで  |
+| 食べる (たべる)       | 食べて  | まで  |
+| 嘘をつく (うそをつく) | 嘘をついて | まで  |
+---
+### Detailed Explanation
+The pattern **～てまで** is attached to the **て-form of a verb**, indicating that someone does something to an extreme degree, often beyond what is considered normal or acceptable, in order to achieve a certain goal. It highlights the lengths to which someone is willing to go, sometimes suggesting that the action is excessive or unnecessary.
+
 ---
 ## 3. Comparative Analysis
-### Similar Grammar Points
-- **まで (made)**: Used to indicate "up to" a certain point but does not imply extremity.
-  - Example: 6時まで働く (I work until 6 o'clock)
-  
-- **ても (temo)**: Used to say "even if," which expresses concession rather than extremity.
-  - Example: 雨が降っても行く (Even if it rains, I will go)
-### Highlighting Differences
-- While まで simply indicates a limit or extent, ～てまで emphasizes that the action taken is excessive or unreasonable.
+### Comparison with ～までして (～made shite)
+Both **～てまで** and **～までして** express doing something to an extreme extent, but there are subtle differences:
+- **～てまで**
+  - Focuses on the action itself.
+  - Emphasizes the degree to which one goes, often with a nuance of being excessive or questionable.
+- **～までして**
+  - Attaches directly to the **noun** or **verb stem + までして**.
+  - Often implies that the means used are extreme or underhanded.
+**Example:**
+- 彼は借金をしてまで、ギャンブルを続けた。
+  - He continued gambling **even to the extent of** getting into debt.
+- 彼は借金までして、ギャンブルを続けた。
+  - He continued gambling **even going as far as** borrowing money.
 ---
 ## 4. Examples in Context
-### Sentence Examples
-1. **Formal Context:**
-   - 彼は会社のために、自分の健康を犠牲にしてまで働いている。
-   - *Kare wa kaisha no tame ni, jibun no kenkou o gisei ni shite made hataraite iru.*
-   - "He is working to the point of sacrificing his health for the company."
-2. **Informal Context:**
-   - そんなことをするぐらいなら、寝てまで待ってるよ！
-   - *Sonna koto o suru gurai nara, nete made matteru yo!*
-   - "If I have to do something like that, I'll just wait until I fall asleep!"
-3. **Written Context:**
-   - 彼女は成功を収めるために、夜遅くまで働いて、泣いてまで努力した。
-   - *Kanojo wa seikou o osameru tame ni, yoru osoku made hataraite, naite made doryoku shita.*
-   - "She worked late into the night and even cried in her effort to achieve success."
-4. **Spoken Context:**
-   - 友達はお金を借りてまで旅行に行くつもりだ。
-   - *Tomodachi wa okane o karite made ryokou ni iku tsumori da.*
-   - "My friend is planning to go on a trip to the extent of borrowing money."
+### Example Sentences
+1. **健康を害してまで、仕事を優先するべきではない。**
+   *けんこうを がいしてまで、しごとを ゆうせんするべきではない。*
+   - You shouldn't prioritize work **to the extent of** harming your health.
+2. **彼女は嘘をついてまで、自分の立場を守ろうとした。**
+   *かのじょは うそをついてまで、じぶんの たちばを まもろうとした。*
+   - She tried to protect her position **even to the point of** telling lies.
+3. **親に反対されてまで、彼と結婚したい。**
+   *おやに はんたいされてまで、かれと けっこんしたい。*
+   - I want to marry him **even if it means** being opposed by my parents.
+4. **徹夜してまで、そのプロジェクトを完成させた。**
+   *てつやしてまで、そのプロジェクトを かんせいさせた。*
+   - I completed the project **even by** pulling an all-nighter.
+5. **命を危険にさらしてまで、冒険するつもりはない。**
+   *いのちを きけんにさらしてまで、ぼうけんするつもりはない。*
+   - I have no intention of going on an adventure **to the extent of** risking my life.
 ---
 ## 5. Cultural Notes
 ### Cultural Relevance
-In Japanese culture, dedication and hard work are highly valued. The use of ～てまで emphasizes this cultural trait by highlighting sacrifices people are willing to make. However, it also hints at a caution about going too far, showing that while effort is admirable, there are limits to what is considered acceptable.
+In Japanese culture, moderation and harmony are valued. Actions that go to extremes, especially those that disrupt social harmony or personal well-being, may be viewed negatively. Using **～てまで** can imply that the action is beyond what is socially acceptable or advisable.
+### Levels of Politeness
+The use of **～てまで** is neutral in politeness but the context in which it's used can carry strong emotional or critical overtones. It's important to be mindful of the context and relationship between the speaker and listener.
 ### Idiomatic Expressions
-One common expression might be:
-- **泣いてまで支持する (naite made shiji suru)**
-   - "To support to the extent of crying."
+- **泣いてまで頼む**
+  *ないてまで たのむ*
+  - To ask **even to the extent of** crying.
+- **借金してまで買う**
+  *しゃっきんしてまで かう*
+  - To buy something **even if it means** going into debt.
 ---
 ## 6. Common Mistakes and Tips
 ### Error Analysis
-1. **Improper Use**: Overusing ～てまで in casual conversation may sound pretentious or exaggerated.
-   - **Mistake:** 友達を助けるために、雨の中を走ってまで行った。
-   - **Correction:** 友達を助けるために、雨の中を走って行った。
-  
-2. **Misunderstanding the Nuance**: Sometimes learners take it too literally, not realizing the stress on extremes.
+**Common Mistake 1:** Using **まで** without the **て-form**.
+- Incorrect: *健康を害すまで仕事をする。*
+- Correct:   *健康を害してまで仕事をする。*
+**Common Mistake 2:** Confusing **～てまで** with **～までに** (by the time).
+- **～てまで**: Indicates extent.
+- **～までに**: Indicates a deadline.
 ### Learning Strategies
-- **Mnemonic Device**: Remember "extreme effort leads to extreme stress" to relate to the usage of ～てまで.
-  
+- **Mnemonic Device:** Think of **"て (te)"** as a connector meaning **"do this action to such an extent"**, and **"まで (made)"** as **"up to the point of"**.
+- **Practice:** Create your own sentences using actions you consider extreme to reinforce understanding.
 ---
 ## 7. Summary and Review
 ### Key Takeaways
-- The grammar point ～てまで indicates actions taken to an extreme extent, often implying a sense of sacrifice or unreasonableness.
-- Structure: [Verb (te-form) + まで]
-- It differs from basic まで and ても by emphasizing extremity.
+- **～てまで** is used to express doing something extreme to achieve a goal.
+- Formed by attaching **まで** to the **て-form of a verb**.
+- Often carries a nuance of criticism or surprise.
 ### Quick Recap Quiz
-1. What does the grammar point ～てまで emphasize?
-2. Provide an example with an appropriate translation.
-3. How does this grammar relate to cultural values in Japan?
-This guide to the grammar point ～てまで should give you a thorough understanding of its usage and cultural significance in the Japanese language!
+1. What is the structure of **～てまで**?
+   - **Answer:** Verbて-form + まで
+2. Translate the sentence: *彼は借金をしてまで、車を買った。*
+   - **Answer:** He bought a car **even to the extent of** getting into debt.
+3. True or False: **～てまで** can be used interchangeably with **～までに**.
+   - **Answer:** False
+---
+### Additional Practice
+Try creating sentences using **～てまで** about actions you might consider excessive or unnecessary in your own life.
+
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

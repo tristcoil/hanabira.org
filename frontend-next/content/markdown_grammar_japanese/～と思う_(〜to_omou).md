@@ -1,71 +1,139 @@
 Processing keyword: ～と思う (〜to omou)
 # Japanese Grammar Point: ～と思う (〜to omou)
-# Grammar Point: ～と思う (〜to omou)
 ## 1. Introduction
-The expression ～と思う (〜to omou) translates to "I think that..." in English. It's used to express one's thoughts, opinions, or beliefs about a subject. This grammar point is particularly useful for sharing your perspective respectfully and is commonly used in both spoken and written Japanese.
+The Japanese grammar point **～と思う (〜とおもう)** translates to "**I think that...**" or "**I believe that...**" in English. It's a fundamental expression used to convey thoughts, opinions, and beliefs about various topics. Mastering **～と思う** allows you to express yourself more naturally and engage in deeper conversations in Japanese.
+
+---
 ## 2. Core Grammar Explanation
+### Meaning
+- **～と思う (〜とおもう)**: To think that..., to feel that..., to believe that...
+This construction is used when stating your personal thoughts or opinions about something.
+### Structure
+The basic structure is:
+**[Plain Form] + と思う**
+Where **[Plain Form]** can be:
+- Verbs (plain form)
+- い-adjectives
+- な-adjectives + **だ**
+- Nouns + **だ**
+#### Formation Diagram
+| **Type**        | **Plain Form** | **+** | **と思う**     | **Meaning**                |
+|-----------------|----------------|-------|----------------|----------------------------|
+| Verb            | 食べる          | +     | と思う         | I think (someone) eats     |
+| い-Adjective    | 高い            | +     | と思う         | I think it's expensive     |
+| な-Adjective    | 便利 **だ**     | +     | と思う         | I think it's convenient    |
+| Noun            | 学生 **だ**     | +     | と思う         | I think (someone) is a student |
+**Note:** For **な-adjectives** and **nouns**, you must include **だ** before **と思う**.
 ### Detailed Explanation
-- **Meaning**: The phrase conveys that the speaker is expressing their own opinion or thought about a particular topic.
-- **Structure**: 
-  - The basic structure is [Statement] + と思う.
-  - The statement can be a verb, adjective, or noun, which is then followed by と思う.
-### Formation Diagram
+1. **Verbs**
+   Use the **plain form** of the verb (dictionary form for present/future; た-form for past).
+   - **彼は来ると思う。**
+     - *I think he will come.*
+   - **雨が降ったと思います。**
+     - *I think it rained.*
+2. **い-Adjectives**
+   Use the adjective as-is (since the plain form is the same as the dictionary form).
+   - **この本は面白いと思う。**
+     - *I think this book is interesting.*
+3. **な-Adjectives and Nouns**
+   Add **だ** before **と思う** to link the noun or な-adjective to the verb.
+   - **この町は静かだと思います。**
+     - *I think this town is quiet.*
+   - **彼は先生だと思う。**
+     - *I think he is a teacher.*
+### Visual Aid
+Here's a simple diagram representing the structure:
 ```
-+[Verb/Adj./Noun] + と思う
+[Verb (plain form)] + と思う
+[い-Adjective] + と思う
+[な-Adjective/Noun] + だ + と思う
 ```
-- If the statement is a verb, use the plain form (辞書形、ます form is inappropriate).
-- If it's a noun, attach the noun and the copula 'だ' (だ can be omitted in informal speech).
-- For adjectives, you use the plain form.
-### Visual Aids
-| Type          | Form                     | Example              | Translation                |
-|---------------|--------------------------|----------------------|-----------------------------|
-| Verb          | [Verb (plain)] + と思う  | 行くと思う (iku to omou) | I think (I will) go       |
-| Noun          | [Noun] + だ + と思う     | 学生だと思う (gakusei da to omou) | I think (I am a) student   |
-| Adjective     | [Adj. (plain)] + と思う  | きれいだと思う (kirei da to omou) | I think (it is) beautiful  |
+---
 ## 3. Comparative Analysis
-- **Similar point**: ～だと思う (da to omou) vs. と思う (to omou) 
-  - The addition of だ (da) is used mainly with nouns or na-adjectives to clarify the noun's status (e.g., tall, beautiful). It’s often omitted in casual conversation.
-### Differences with Related Grammar:
-- **～と思っている (to omotte iru)**: conveys ongoing thought or belief, implying the speaker's current view is still held, while ～と思う (to omou) may suggest a more transient opinion.
-  
+### ～と思う vs. ～と思っています
+- **～と思う**: Expresses a thought or opinion formed at the moment or a general belief.
+  - **明日、雨が降ると思う。**
+    - *I think it will rain tomorrow.*
+- **～と思っています**: Indicates a thought or opinion that has been held for some time; a more continuous state.
+  - **彼は日本に住みたいと思っています。**
+    - *He has been thinking of wanting to live in Japan.*
+### ～と思う vs. ～と言う
+- **～と思う**: "I think that..." (expressing personal thoughts)
+  - **その映画は面白いと思う。**
+    - *I think that movie is interesting.*
+- **～と言う**: "They say that..." or "To say that..." (reporting speech)
+  - **彼はその映画は面白いと言う。**
+    - *He says that movie is interesting.*
+---
 ## 4. Examples in Context
-### Sentence Examples
-1. **Formal spoken**: 
-   - 明日、会議があると思います。  
-     (*Ashita, kaigi ga aru to omoimasu.*)  
-     "I think there is a meeting tomorrow."
-2. **Informal spoken**: 
-   - 彼は面白いと思う。  
-     (*Kare wa omoshiroi to omou.*)  
-     "I think he is interesting."
-3. **Written context**: 
-   - この映画は名作だと思います。  
-     (*Kono eiga wa meisaku da to omoimasu.*)  
-     "I think this movie is a masterpiece."
-4. **Casual context**: 
-   - 彼女は日本が好きだと思うよ。  
-     (*Kanojo wa Nihon ga suki da to omou yo.*)  
-     "I think she likes Japan."
+### Formal Speech
+1. **この提案は良いと思います。**
+   - *I think this proposal is good.*
+2. **あの方は有名な先生だと思います。**
+   - *I think that person is a famous teacher.*
+### Informal Speech
+1. **今日は暇だと思う。**
+   - *I think I have free time today.*
+2. **彼はもう寝たと思う。**
+   - *I think he already went to sleep.*
+### Written Context
+1. **環境保護は重要だと思います。**
+   - *I think environmental protection is important.*
+2. **私は、この計画は成功すると思います。**
+   - *I believe that this plan will succeed.*
+### Spoken Conversations
+1. **明日のパーティーに行くと思う？**
+   - *Do you think you'll go to tomorrow's party?*
+2. **彼女は忙しいと思うよ。**
+   - *I think she is busy.*
+---
 ## 5. Cultural Notes
 ### Cultural Relevance
-In Japanese culture, expressing thoughts modestly is essential. Using と思う softens the presentation of one's opinion, maintaining an air of politeness. It shows awareness of others’ perspectives and is preferable in discussions.
+In Japanese communication, it's common to soften statements to be more polite and less direct. Using **～と思う** helps to express opinions modestly, which is appreciated in Japanese social norms.
+- **直接的:** **これは間違いです。** (This is wrong.)
+- **やわらかく:** **これは間違いだと思います。** (I think this is wrong.)
+Expressing uncertainty or personal opinion avoids potentially offending others and shows humility.
 ### Idiomatic Expressions
-- 〜と思うと (to omou to): "when I think that...", can be used to express thoughts leading to an action or another outcome.
+- **そう思います。**
+  - *I think so.*
+- **私もそう思います。**
+  - *I think so too.*
+These phrases are commonly used to agree with someone's opinion politely.
+---
 ## 6. Common Mistakes and Tips
 ### Error Analysis
-- **Incorrect Verb Form**: Using the ます form instead of the plain form of the verb when using と思う.
-  - Example of mistake: 食べますと思う (tabemasu to omou) → Correct: 食べると思う (taberu to omou).
-  
+1. **Using Polite Forms Before と思う**
+   - **Incorrect:** **寒いですと思う。**
+   - **Correct:** **寒いと思う。**
+   - **Tip:** Always use the **plain form** before **と思う**, not the polite **〜です／〜ます** form.
+2. **Omitting だ with Nouns and な-Adjectives**
+   - **Incorrect:** **彼は学生と思う。**
+   - **Correct:** **彼は学生だと思う。**
+   - **Tip:** Remember to insert **だ** before **と思う** when using nouns and な-adjectives.
 ### Learning Strategies
-- To remember the basic structure, think of it as "I think (what's before is true)".
+- **Practice Forming Sentences:**
+  Create your own sentences using different verbs, adjectives, and nouns to become comfortable with the structure.
+- **Mnemonic Device:**
+  Think **"Plain Form + と思う"**, and remember that **だ** acts as a bridge for nouns and な-adjectives.
+---
 ## 7. Summary and Review
 ### Key Takeaways
-- Use ～と思う to express your thoughts, opinions, or beliefs.
-- Pay attention to the verb forms (always use plain form).
-- Understand the nuances of politeness and modesty in Japanese.
+- **～と思う** is used to express thoughts and opinions, equivalent to "I think that..." in English.
+- Always use the **plain form** before **と思う**.
+- For nouns and な-adjectives, include **だ** before **と思う**.
+- Using **～と思います** adds politeness suitable for formal situations.
 ### Quick Recap Quiz
-1. Translate the following: 
-   - "I think it’s going to rain."
-2. What verb form should you always use before と思う?
-3. Can you use the ます form before と思う? Why or why not? 
-Answer these questions to reinforce your understanding of this grammar point!
+1. **How do you say "I think it's delicious" in Japanese?**
+   - **Answer:** **おいしいと思う。**
+2. **Which form should you use before と思う: polite form or plain form?**
+   - **Answer:** Plain form.
+3. **Correct the sentence: これは重要ですと思います。**
+   - **Answer:** これは重要だと思います。
+---
+Feel free to apply **～と思う** in your daily Japanese conversations to express your thoughts and opinions naturally!
+
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

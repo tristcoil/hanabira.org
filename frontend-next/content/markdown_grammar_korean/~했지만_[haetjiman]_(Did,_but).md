@@ -1,65 +1,122 @@
 Processing keyword: ~했지만 [haetjiman] (Did, but)
 # Korean Grammar Point: ~했지만 [haetjiman] (Did, but)
-# Grammar Point: ~했지만 (haetjiman) - "Did, but"
+
 ## 1. Introduction
-The Korean phrase ~했지만 (haetjiman) is a conjunction that translates to "did, but" in English. It is used to express a contrast or a contradiction between two clauses, usually indicating that while the first action or statement has occurred, the second part presents a different outcome or opinion.
+In learning Korean, understanding how to express contrast between actions and results is essential. The grammar point **"~했지만 (haetjiman)"** allows speakers to say "did, but..." in Korean. This structure is commonly used to connect two contrasting ideas or actions that occurred in the past.
 ## 2. Core Grammar Explanation
-### Detailed Explanation
-- **Meaning**: The structure ~했지만 introduces a contrast between two statements. The first part usually presents a fact or an action that has been completed, while the second part offers a contrasting or unexpected result.
-  
-- **Structure**:
-  - This grammar point is constructed with the past tense form of the verb, followed by the conjunction -지만.
-  - Example structure: [Verb stem + 았/었/했 + 지만]
-#### Formation Diagram
+## Meaning
+- **"~했지만"** translates to **"did, but..."** or **"although (I) did..."**
+- It is used to **contrast a past action with an unexpected result** or to introduce an opposing statement.
+## Structure
+To use "~했지만," you attach **"지만"** to the **past tense** form of a verb.
+### Formation Diagram
 ```
 [Verb Stem] + 았/었/했 + 지만
 ```
-### Visual Aids
-| Verb Stem | Tense | ~했지만 Example                       | Translation                       |
-|-----------|-------|--------------------------------------|-----------------------------------|
-| 가다      | 갔   | 학교에 갔지만 사람이 없었다.         | I went to school, but there was noone. |
-| 먹다      | 먹었 | 밥을 먹었지만 아직 배가 고프다.      | I ate rice, but I'm still hungry.  |
-| 하다      | 했   | 일은 했지만 결과가 좋지 않았다.     | I did the work, but the result was not good. |
+### Steps to Form "~했지만"
+1. **Identify the verb stem**: Remove "다" from the dictionary form.
+2. **Conjugate to past tense**:
+   - For verbs with vowel **ㅏ** or **ㅗ**: Add **았**.
+   - For verbs with other vowels: Add **었**.
+   - For **하다** verbs: Becomes **했**.
+3. **Add "지만"** to the past tense form.
+### Example
+Let's form "먹다 (to eat)" with "~했지만":
+1. **Verb Stem**: 먹
+2. **Past Tense**: 먹 + 었 = 먹었
+3. **Add "지만"**: 먹었 + 지만 = **먹었지만**
+## Conjugation Table
+| Verb (Dictionary Form) | Verb Stem | Past Tense Ending | Past Tense Form | + 지만 | Full Form    | Translation             |
+|------------------------|-----------|-------------------|-----------------|--------|--------------|-------------------------|
+| 가다 (to go)           | 가         | 았                | 갔             | 지만   | 갔지만       | Went, but...            |
+| 먹다 (to eat)          | 먹        | 었                | 먹었           | 지만   | 먹었지만     | Ate, but...             |
+| 하다 (to do)           | 하         | 했                | 했             | 지만   | 했지만       | Did, but...             |
+| 마시다 (to drink)      | 마시       | 었                | 마셨           | 지만   | 마셨지만     | Drank, but...           |
+| 배우다 (to learn)      | 배우       | 았                | 배웠           | 지만   | 배웠지만     | Learned, but...         |
+
 ## 3. Comparative Analysis
-- **Similar Expressions**: 
-  - **~지만 [jiman]**: This also indicates contrast but can be used with a wider range of verbs without the need for past tense.
-  - **~그러나 [geureona]** / **~그렇지만 [geureochiman]**: These are more formal ways to indicate contrast and can replace ~했지만 in certain contexts, often used in written or formal speech.
+### "~했지만" vs "~했는데"
+- **~했지만**:
+  - **Usage**: Expresses a direct contrast between two past actions or states.
+  - **Translation**: "Did, but..."
+  - **Example**: 비가 왔지만 우산이 없었어요.
+    - *It rained, but I didn't have an umbrella.*
+- **~했는데**:
+  - **Usage**: Provides background information or sets up a context; can imply contrast or continuation.
+  - **Translation**: "Did, and/but...", "Even though..."
+  - **Example**: 비가 왔는데 우산을 안 썼어요.
+    - *It was raining, but I didn't use an umbrella.*
+**Key Difference**:
+- **~했지만** focuses on **contrast** between two clauses.
+- **~했는데** can indicate **contrast, explanation, or sequence** and is more versatile.
+
 ## 4. Examples in Context
-### Sentence Examples
-1. **Formal Context**: 
-   - 연구를 했지만 결과가 없었다.
-   - (I conducted research, but there were no results.)
-   
-2. **Informal Context**: 
-   - 어제 영화를 봤지만 재미없었어.
-   - (I watched a movie yesterday, but it wasn’t fun.)
-   
-3. **Written Context**: 
-   - 그녀는 공부를 했지만 시험에 떨어졌다.
-   - (She studied, but she failed the exam.)
-   
-4. **Spoken Context**: 
-   - 그 책을 읽었지만 이해하기 어려웠어.
-   - (I read that book, but it was hard to understand.)
+## Formal (Written)
+1. **계획을 세웠지만 실행하지 못했습니다.**
+   - *I made plans, but I couldn't execute them.*
+2. **그들은 열심히 노력했지만 성공하지 못했다.**
+   - *They tried hard, but they couldn't succeed.*
+## Informal (Spoken)
+1. **어제 운동했지만 아직도 아파.**
+   - *I exercised yesterday, but I'm still sore.*
+2. **파티에 갔지만 재미없었어.**
+   - *I went to the party, but it wasn't fun.*
+## Polite (Conversational)
+1. **영화를 봤지만 이해하지 못했어요.**
+   - *I watched the movie, but I couldn't understand it.*
+2. **전화했지만 받지 않으셨어요.**
+   - *I called you, but you didn't answer.*
+## Honorific
+1. **할머니께서 말씀하셨지만 제가 놓쳤습니다.**
+   - *Grandmother spoke, but I missed it.*
+2. **선생님께 질문을 드렸지만 답을 듣지 못했습니다.**
+   - *I asked the teacher a question, but I didn't hear the answer.*
+
 ## 5. Cultural Notes
-### Cultural Relevance
-Using ~했지만 reflects a level of politeness and respect toward the listener by acknowledging differing opinions or outcomes. This contrasts with a more direct approach which may come off as rude in Korean culture.
-### Idiomatic Expressions
-- **그렇지만 말이에요** (geureochiman malieyo): "But that's what I'm saying." This phrase can be used to emphasize the contrast or disagreement in a conversation.
+## Cultural Relevance
+- **Respect and Formality**:
+  - Using proper verb endings like "~했지만" is important in Korean to show politeness.
+  - The level of formality can affect the meaning and reception of your statement.
+## Idiomatic Expressions
+- **미안하지만...**:
+  - *"I'm sorry, but..."* - A polite way to introduce a contrasting statement or decline.
+  - Example: **미안하지만 그날은 시간이 없어요.**
+    - *I'm sorry, but I don't have time that day.*
+
 ## 6. Common Mistakes and Tips
-### Error Analysis
-- **Omitting the verb**: Beginners might forget to include the verb form leading to incomplete sentences.
-  - **Incorrect**: 학교에 갔지만
-  - **Correct**: 학교에 갔지만 사람이 없었다.
-### Learning Strategies
-- **Mnemonic Devices**: Remember that ~했지만 connects two contrasting ideas. Think of it as " though/although I did that..." which can help tie the idea together in your mind.
+## Error Analysis
+1. **Forgetting Past Tense Conjugation**:
+   - Incorrect: **가지만** (ga-ji-man)
+     - *"Go, but..."* (present tense)
+   - Correct: **갔지만** (gat-ji-man)
+     - *"Went, but..."* (past tense)
+2. **Misplacing "지만"**:
+   - Incorrect: **갔지만요**
+     - The "요" should be attached to the final verb for politeness.
+   - Correct: **갔지만** (in the sentence with polite ending elsewhere)
+## Learning Strategies
+- **Mnemonic Device**: Remember that **"지만"** sounds like "G-man" who contrasts with the protagonist. So, think of "verb-ed + G-man (지만)" to express contrast.
+- **Practice Conjugation**: Regularly practice past tense conjugations to ensure you're comfortable forming the correct base before adding "지만".
+
 ## 7. Summary and Review
-### Key Takeaways
-- ~했지만 is used to express contrast between two statements.
-- It follows the structure of the past tense form of a verb plus -지만.
-- Can replace or be compared to other contrastive phrases like ~지만, ~그러나, and ~그렇지만.
-### Quick Recap Quiz
-1. What does ~했지만 translate to in English?
-2. How is the structure of ~했지만 formed?
-3. Provide an example sentence using ~했지만.
-By understanding and practicing ~했지만, learners will be able to express contrasting ideas effectively in various contexts!
+## Key Takeaways
+- **"~했지만"** is used to express contrast between a past action and an outcome.
+- Formed by attaching **"지만"** to the **past tense** of a verb.
+- It is essential to conjugate the verb correctly to reflect the past tense before adding "지만".
+- Be mindful of the level of politeness needed in different contexts.
+## Quick Recap Quiz
+1. **Fill in the blank**: 저는 책을 ___ 재미없었어요. *(I read the book, but it wasn't interesting.)*
+   - **Answer**: **읽었지만**
+     - 저는 책을 **읽었지만** 재미없었어요.
+2. **True or False**: "갔지만" is the correct past tense form for "가다" with "지만".
+   - **Answer**: **True**
+3. **Choose the correct form**: To say "did, but..." for "하다", you would say:
+   a) 하지만
+   b) 했지만
+   - **Answer**: **b) 했지만**
+
+---
+Feel free to ask if you have any questions or need further clarification on "~했지만"!
+
+---
+© [Hanabira.org](https://hanabira.org)

@@ -1,67 +1,92 @@
 Processing keyword: ~었더라면 [eotdeoramyeon] (If it had been the case that)
 # Korean Grammar Point: ~었더라면 [eotdeoramyeon] (If it had been the case that)
-# Grammar Point: ~었더라면 [eotdeoramyeon]
+
 ## 1. Introduction
-The expression **~었더라면** is used to express hypothetical situations in the past that did not happen. It combines the past tense with a conditional nuance, suggesting that if something had occurred differently, the outcome would have changed.
+In this lesson, we'll explore the Korean grammar point **~었더라면** (*eotdeoramyeon*), which is used to express hypothetical situations in the past that didn't happen. It's similar to saying **"If I had done..."** or **"Had I..."** in English, often conveying a sense of regret or reflection.
+
+---
 ## 2. Core Grammar Explanation
-### Detailed Explanation
-- **Structure**: The expression is constructed by taking the past tense form of a verb (which typically ends in **-었/았**) and adding **더라면**.
-#### Formation:
-- Verb stem + **-었/았** + **더라면**
-  
-### Meaning
-- "If it had been the case that..."
-- It reflects regret or a missed opportunity regarding a past event.
-### Visual Aid: Formation Diagram
-```markdown
-| Verb Stem | Past Tense Ending | > (combine) | 더라면  |
-|-----------|-------------------|-------------|---------|
-| 가다      | 갔                |             | 갔더라면   |
-| 하다      | 했다              |             | 했더라면   |
-| 먹다      | 먹었              |             | 먹었더라면 |
-```
+## Meaning
+**~었더라면** is used to speculate about past events and their possible outcomes if things had been different. It reflects on actions that didn't occur and imagines the results if they had.
+- **Usage**: To express a hypothetical past condition and its imagined result.
+- **Emotional nuance**: Often conveys regret, relief, or wistfulness about past events.
+## Structure
+### Formation
+For verbs and adjectives:
+1. **Verb/Adjective Stem** + **았/었/했** + **더라면**
+### Formation Diagram
+| Verb/Adjective Type | Stem Ending | Add |
+|---------------------|-------------|-----|
+| **Final vowel ㅏ or ㅗ** | 받[**다**] → **받** | **았다더라면** |
+| **Other vowels** | 먹[**다**] → **먹** | **었다더라면** |
+| **하다 verbs** | 공부[**하다**] → **공부하** | **했다더라면** |
+---
 ## 3. Comparative Analysis
-- Similar expressions include:
-  - **~았더라면 / ~었더라면**: Specifically for completed actions in the past.
-  - **~면 (myeon)**: Used for present or future conditionals, which is less about the past.
-  
-### Key Differences:
-- **~었더라면** indicates a past conditional situation, whereas **~면** discusses current or future hypotheticals.
+## Comparison with ~았/었으면
+- **~았/었으면**: General conditional "if" for past events.
+  - Example: 돈이 있었으면 샀을 거예요.  
+    (*If I had money, I would have bought it.*)
+- **~었더라면**: Hypothetical past with stronger emotion, often regret.
+  - Example: 돈이 많았더라면 집을 샀을 거예요.  
+    (*If I had had a lot of money, I would have bought a house.*)
+**Key Difference**: ~었더라면 emphasizes that the condition did not happen and often expresses stronger feelings about it.
+---
 ## 4. Examples in Context
-### Sentence Examples
-1. **Formal**:
-   - "학교에 갔더라면 숙제를 할 수 있었을 텐데."
-   - Translation: "If I had gone to school, I could have done my homework."
-2. **Informal**:
-   - "그때 전화했더라면 얘기가 달라졌을 거야."
-   - Translation: "If I had called back then, things would have been different."
-3. **Written**:
-   - "이번 기회를 놓쳤기에, 참여했더라면 결과가 달라졌을 것이다."
-   - Translation: "Having missed this opportunity, if I had participated, the result would have changed."
-4. **Spoken**:
-   - "우리 친구가 올 때까지 기다렸더라면 지금쯤 다 같이 있었겠지!"
-   - Translation: "If we had waited for our friend to come, we would all be together by now!"
+## Example Sentences
+1. **어제 일찍 잤더라면 피곤하지 않았을 거예요.**  
+   *If I had gone to bed early yesterday, I wouldn't be tired.*
+2. **그때 그 기회를 잡았더라면 인생이 달라졌을 거예요.**  
+   *If I had seized that opportunity then, my life would have changed.*
+3. **공부를 더 열심히 했더라면 시험에 합격했을 거야.**  
+   *(Informal) If I had studied harder, I would have passed the exam.*
+4. **비가 오지 않았더라면 여행을 갔을 텐데요.**  
+   *If it hadn't rained, we would have gone on the trip.*
+5. **친구가 도와주지 않았더라면 끝내지 못했을 거예요.**  
+   *If my friend hadn't helped me, I wouldn't have been able to finish it.*
+---
 ## 5. Cultural Notes
-### Cultural Relevance
-- Expressing hypothetical situations in Korean often carries a sense of introspection or reflection on past decisions. It reflects a culture that values contemplation and learning from past experiences.
-### Levels of Politeness and Formality
-- The usage of **~었더라면** can vary in formality, with more formal contexts likely using full sentences and proper titles, while informal contexts may drop subjects or use colloquialisms.
-### Idiomatic Expressions
-- "지금 생각해 보니, 좀 더 일찍 계획했더라면 좋았을 텐데." 
-- Translation: "Now that I think about it, it would have been better if I had planned a bit earlier."
+## Levels of Politeness and Formality
+- **~었더라면** can be used in both formal and informal contexts.
+- Adjust politeness levels by modifying the ending of the result clause.
+  - Formal: **~습니다**, **~어요**
+  - Informal: **~아/어**, **~았/었다**
+## Idiomatic Expressions
+- **알았더라면 가지 않았을 거예요.**  
+  *If I had known, I wouldn't have gone.*
+- **시간이 더 있었더라면 좋았을 텐데요.**  
+  *It would have been nice if we had more time.*
+---
 ## 6. Common Mistakes and Tips
-### Error Analysis
-- Common errors include:
-  - Using present tense verbs instead of past tense verbs before **더라면**.
-  - Misplacing the structure; beginners might forget the **-었/았** past tense ending.
-### Learning Strategies
-- **Mnemonic Device**: Remember that **-었더라면** is always related to past actions. Think of it as "If I had..." to solidify its hypothetical nature.
+## Common Mistakes
+1. **Mixing up tenses**: Forgetting that **~었더라면** refers to past hypotheticals.
+   - Incorrect: 길이 막혔더라면 늦을 거예요.
+   - Correct: 길이 막혔더라면 늦었을 거예요.
+2. **Using with present or future events**: Applying **~었더라면** to current or future conditions.
+   - Incorrect: 시간이 있더라면 갈 거예요.
+   - Correct: 시간이 있었더라면 갔을 거예요.
+## Tips
+- **Mnemonic Device**: Remember that **~었더라면** = "If [past action] had happened"
+- **Practice**: Create sentences about past events you wish had been different.
+---
 ## 7. Summary and Review
-### Key Takeaways
-- **~었더라면** is used for past hypotheticals, indicating regret or reflection on what could have been.
-- It requires the verb to be in the past tense before adding **더라면**.
-- It is commonly used in various contexts from formal to informal speech.
-### Quick Recap Quiz
-1. How do you form the expression **~었더라면**?
-2. Is **~었더라면** used for present or past situations?
-3. Provide an example sentence using **~었더라면** in a hypothetical context.
+## Key Takeaways
+- **~었더라면** is used to discuss hypothetical situations in the past that didn't occur.
+- It often conveys regret, wistfulness, or reflection.
+- Formed by adding **았/었/했더라면** to the verb or adjective stem.
+- Different from **~았/었으면** by its stronger emotional nuance.
+## Quick Recap Quiz
+1. **Fill in the blank**: 시간이 더 ________ 여행을 했을 거예요.  
+   (*If I had more time, I would have traveled.*)
+2. **True or False**: **~었더라면** can be used for future hypothetical situations.
+3. **Correct the mistake**: 돈이 많았더라면 새 차를 사요.
+
+### Answers:
+1. 시간이 더 **있었더라면** 여행을 했을 거예요.
+2. False. **~었더라면** is used for past hypotheticals.
+3. 돈이 많았더라면 새 차를 **샀을 거예요**.
+---
+## Additional Practice
+Try creating your own sentences using **~었더라면** to talk about past situations that could have been different!
+
+---
+© [Hanabira.org](https://hanabira.org)

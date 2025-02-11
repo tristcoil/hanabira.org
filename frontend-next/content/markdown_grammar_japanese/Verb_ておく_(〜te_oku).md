@@ -1,66 +1,101 @@
 Processing keyword: Verb ておく (〜te oku)
 # Japanese Grammar Point: Verb ておく (〜te oku)
-# Verb ておく (〜te oku) Grammar Explanation
+
 ## 1. Introduction
-The Japanese grammar point ておく (〜te oku) is used to express the idea of performing an action in advance or preparing for a future event. It indicates that the action is done with a specific purpose in mind, often for someone else's benefit or for future convenience.
+The grammar point **〜ておく (〜te oku)** is a commonly used expression in Japanese that indicates doing something in advance or preparing for the future. It combines the _te-form_ of a verb with the auxiliary verb **おく (oku)**.
+
+---
 ## 2. Core Grammar Explanation
-### Detailed Explanation
-- **Meaning:** ておく implies that an action is completed in preparation for something that will occur later. It can also suggest a deliberate manner of doing something, especially to make future activities easier or possible.
-- **Structure:** 
-  - て (te) form of a verb + おく (oku)
-  
-  **Formation Diagram:**
-  ```
-  Verb (て form) + おく
-  ```
-### Visual Aids
-| Verb in Dictionary Form | Verb in て Form | Example with ておく |
-|-------------------------|------------------|---------------------|
-| 食べる (taberu - to eat)      | 食べて (tabete)      | 食べておく (tabete oku - eat in advance) |
-| 買う (kau - to buy)          | 買って (katte)       | 買っておく (katte oku - buy in advance) |
-| 行く (iku - to go)          | 行って (itte)       | 行っておく (itte oku - go in advance) |
-| する (suru - to do)         | して (shite)        | しておく (shite oku - do in advance) |
+### Meaning
+- **〜ておく (〜te oku)**: To do something in advance, to prepare, or to leave something as it is.
+### Usage
+The structure is used to express:
+1. **Preparation**: Performing an action now for future convenience.
+2. **Maintaining State**: Leaving things in a certain state for a reason.
+3. **Temporary Measures**: Doing something temporarily until a more permanent solution is found.
+### Structure
+#### Formation Diagram
+| Verb Form       | + ておく              | Meaning                          |
+|-----------------|----------------------|----------------------------------|
+| Verb (て-form)  | + おく               | Do something in advance          |
+#### Example:
+- **飲む (nomu)** ➔ **飲んでおく (nonde oku)**
+### Conjugation Example
+1. **食べる (taberu) - to eat**
+   - て-form: **食べて (tabete)**
+   - **食べておく (tabete oku)** - Eat in advance
+2. **読む (yomu) - to read**
+   - て-form: **読んで (yonde)**
+   - **読んでおく (yonde oku)** - Read beforehand
+---
 ## 3. Comparative Analysis
-- **Similar Grammar Point:** 
-  - **Verb てから (〜te kara)**: This means "after doing" and is used to indicate an action that takes place after another action has been completed. In contrast, ておく focuses on preparing ahead of time rather than the sequence of actions.
-### Nuances
-- While both ておく and てから deal with sequences of actions, the primary difference is the intention behind the action: ておく emphasizes preparation, while てから emphasizes the order of actions.
+### Comparing with 〜てみる (〜te miru)
+- **〜てみる (〜te miru)**: To try doing something.
+- **〜ておく (〜te oku)**: To do something in preparation.
+**Difference**: **〜てみる** focuses on the attempt, while **〜ておく** focuses on preparation or future convenience.
+---
 ## 4. Examples in Context
-### Sentence Examples
-1. **Formal:**
-   - 会議の前に資料を読んでおきます。(Kaigi no mae ni shiryō o yonde okimasu.)
-     - "I will read the materials in advance before the meeting."
-  
-2. **Informal:**
-   - 明日、友達に会うから、事前にメールを送っておくね。(Ashita, tomodachi ni au kara, jizen ni mēru o okutte oku ne.)
-     - "I'm meeting a friend tomorrow, so I’ll send an email in advance."
-3. **Written:**
-   - 旅行の前にチケットを購入しておくことをお勧めします。(Ryokō no mae ni chiketto o kōnyū shite oku koto o osusume shimasu.)
-     - "I recommend buying tickets in advance before the trip."
-4. **Spoken:**
-   - もうカメラのバッテリーを充電しておいたから、心配しなくていいよ。(Mō kamera no batterī o jūden shite oita kara, shinpai shinaide ii yo.)
-     - "I've already charged the camera battery, so you don't have to worry."
+### Formal Situations
+1. **会議の前に資料を読んでおきます。**
+   *Kaigi no mae ni shiryō o yonde okimasu.*
+   - _I will read the materials before the meeting._
+2. **出張のためにホテルを予約しておきました。**
+   *Shucchō no tame ni hoteru o yoyaku shite okimashita.*
+   - _I booked a hotel in advance for the business trip._
+### Informal Situations
+1. **後で使うから、この本をここに置いておくね。**
+   *Ato de tsukau kara, kono hon o koko ni oite oku ne.*
+   - _I'll leave this book here because I'll use it later._
+2. **パーティーの前に飲み物を買っておこう。**
+   *Pātī no mae ni nomimono o katte okō.*
+   - _Let's buy drinks before the party._
+### Spoken Language
+1. **先に切符を買っておかないと。**
+   *Saki ni kippu o katte okanai to.*
+   - _We need to buy the tickets in advance._
+2. **それ、忘れないようにメモしておくよ。**
+   *Sore, wasurenai yō ni memo shite oku yo.*
+   - _I'll make a note of that so I don't forget._
+---
 ## 5. Cultural Notes
 ### Cultural Relevance
-In Japanese culture, doing things in advance is considered polite and respectful. It shows thoughtfulness and responsibility toward others, indicating that you care about their time and convenience.
+In Japanese culture, being prepared and considering future needs is highly valued. Using **〜ておく** reflects a proactive attitude and conscientiousness, which are appreciated traits in social and professional contexts.
 ### Idiomatic Expressions
-- 準備しておくことが大切です。(Junbi shite oku koto ga taisetsu desu.)
-  - "It's important to prepare in advance."
+- **そのままにしておく**
+  *Sono mama ni shite oku*
+  - _Leave it as it is._
+- **忘れないうちに連絡しておく**
+  *Wasurenai uchi ni renraku shite oku*
+  - _Contact someone before you forget._
+---
 ## 6. Common Mistakes and Tips
 ### Error Analysis
-- **Mistake:** Confusing ておく with てから.
-  - Example: Using ておく when intending to say "after doing".
-  
-- **Tip:** Remember that ておく emphasizes preparation, while てから emphasizes the sequence.
-### Learning Strategies 
-- **Mnemonic Device:** 
-  - Think of "oku" as "to keep or store for later". This will help link the concept of doing something in advance to the idea of preparation.
+1. **Misplacing おく with other verbs**
+   - Incorrect: **食べている (tabete iru)** instead of **食べておく (tabete oku)**
+   - _**食べている** means "eating (currently)" whereas **食べておく** means "eat in advance"._
+2. **Forgetting to use the て-form**
+   - Incorrect: **飲むおく (nomu oku)**
+   - Correct: **飲んでおく (nonde oku)**
+### Learning Strategies
+- **Mnemonic Device**: Think of **おく (oku)** as "occur ahead" to remember it's about doing something beforehand.
+- **Practice**: Conjugate different verbs into their て-form and add **おく** to get comfortable with the structure.
+---
 ## 7. Summary and Review
 ### Key Takeaways
-- ておく is used to indicate preparation or doing something in advance.
-- It can make future tasks easier and is a reflection of thoughtfulness in Japanese culture.
+- **〜ておく (〜te oku)** is used to indicate actions done in advance for future benefit.
+- Formed by adding **おく** to the て-form of a verb.
+- Expresses preparation, leaving things as they are, or temporary actions.
 ### Quick Recap Quiz
-1. What does ておく mean in English?
-2. Compare ておく with another similar grammar point, and explain the difference.
-3. Give an example sentence using ておく in an informal context. 
-This detailed explanation of ておく should give you a good understanding of how to use this grammar point effectively in various contexts!
+1. How do you say "I'll check the schedule in advance" using **〜ておく**?
+   - **Answer**: **スケジュールを確認しておきます。**
+2. What is the meaning of **本を読んでおきました**?
+   - **Answer**: _I read the book beforehand._
+3. True or False: **〜ておく** can be used to express trying something new.
+   - **Answer**: **False**. That's **〜てみる**.
+---
+Feel free to practice by creating your own sentences using **〜ておく**!
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

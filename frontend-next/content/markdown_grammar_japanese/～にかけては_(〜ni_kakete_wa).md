@@ -1,72 +1,129 @@
 Processing keyword: ～にかけては (〜ni kakete wa)
 # Japanese Grammar Point: ～にかけては (〜ni kakete wa)
-# Grammar Point: ～にかけては (〜ni kakete wa)
+
 ## 1. Introduction
-The grammar point ～にかけては (〜ni kakete wa) is used to denote a specific area or scope in which someone excels or has a particular quality. It translates roughly to "in terms of," "when it comes to," or "in the area of."
+In this lesson, we'll explore the Japanese grammar point **～にかけては (〜ni kakete wa)**. This expression is used to highlight someone's exceptional skill or ability in a particular field. It conveys the idea that "when it comes to ~, (someone) is the best" or "in terms of ~, (someone) excels."
+
+---
 ## 2. Core Grammar Explanation
-### Detailed Explanation
-- **Meaning**: This structure highlights someone's excellence or a particular feature related to a certain topic or area.
-- **Structure**: 
-  - Subject + は (wa) + noun + にかけては (ni kakete wa) + compliment/statement
-### Example Breakdown
-- **Noun**: The subject or area being discussed (e.g., 成績 / seikaku = grades).
-- **にかけては**: This phrase indicates that we are focusing on that particular subject.
-- **Compliment**: A statement about the subject (e.g., 彼は最高です / kare wa saikou desu = he is the best).
-### Formation Diagram
+### Meaning
+**～にかけては** is used to emphasize that someone is outstanding or unparalleled in a specific area or skill. It often carries a sense of praise, highlighting exceptional ability.
+**Translation:**  
+- "When it comes to ~"  
+- "In terms of ~"  
+- "Regarding ~ (someone) is the best"
+### Structure
+**Formation:**
 ```
-[Subject/Area] + は + [Topic] + にかけては + [Comment]
+[Skill/Field Noun] + にかけては + [Positive statement about ability]
 ```
+- **[Skill/Field Noun]:** The area in which someone excels.
+- **にかけては:** Grammar point indicating exceptional ability.
+- **[Positive statement]:** A comment highlighting the person's skill.
+### Explanation
+- Attach **にかけては** to the noun representing the skill or field.
+- Follow it with a positive statement that showcases the person's excellence.
+- The expression is used to make comparisons, often implying that no one else matches up.
+---
 ## 3. Comparative Analysis
-- **Similar Grammar**: 
-  - **〜に関して (〜ni kanshite)**: Similar to 〜にかけては, this phrase also refers to a topic but is more neutral and can refer to a broader discussion rather than emphasis on excellence.
-  - **〜について (〜ni tsuite)**: This means "regarding" or "about" and does not necessarily imply a judgment of quality.
-**Comparison Table**
-| Grammar         | Meaning                  | Context Usage                          | Nuance                      |
-|------------------|--------------------------|----------------------------------------|-----------------------------|
-| 〜にかけては     | In terms of             | Highlighting excellence or ability     | Focus on quality            |
-| 〜に関して       | Concerning               | Discussing broad topics                | Neutral discussion          |
-| 〜について       | About                    | General information                    | Neutral, less emphasis      |
+### Comparing with Similar Grammar Points
+| Grammar Point            | Meaning                   | Usage                                  |
+|--------------------------|---------------------------|----------------------------------------|
+| **～については**        | About; concerning          | Introducing a topic or subject.        |
+| **～に関しては**        | Regarding; concerning      | Formal version of については.           |
+| **～としては**          | As; in the role of         | Expressing one's role or capacity.     |
+| **～においては**        | In; at; regarding          | Formal context; indicating location or field. |
+| **～にかけては**        | When it comes to; regarding | Highlighting exceptional skill or ability. |
+**Key Differences:**
+- **～にかけては** specifically emphasizes unparalleled skill or excellence.
+- **～については** and **～に関しては** introduce topics without implying skill level.
+- **～としては** refers to roles or capacities, not necessarily skills.
+- **～においては** is used in formal contexts to denote a location or field without emphasis on skill.
+---
 ## 4. Examples in Context
-### Sentence Examples
-1. **Formal**: 
-   - 彼は数学にかけては、全国一です。
-   - *Kare wa suugaku ni kakete wa, zenkoku ichi desu.*
-   - (In terms of mathematics, he is the best in the country.)
-2. **Informal**: 
-   - この料理にかけては、彼女が一番上手だよ。
-   - *Kono ryouri ni kakete wa, kanojo ga ichiban jouzu da yo.*
-   - (When it comes to cooking, she's the best.)
-3. **Written**: 
-   - 環境保護にかけては、彼の意見は特に重要です。
-   - *Kankyou hogo ni kakete wa, kare no iken wa tokuni juuyou desu.*
-   - (In the area of environmental protection, his opinion is particularly important.)
-4. **Spoken**: 
-   - スポーツにかけては、彼はいつも熱心だね。
-   - *Supōtsu ni kakete wa, kare wa itsumo nesshin da ne.*
-   - (When it comes to sports, he is always enthusiastic.)
+### Example Sentences
+1. **彼はスポーツにかけては、クラスで一番です。**  
+   *Kare wa supōtsu ni kakete wa, kurasu de ichiban desu.*  
+   *When it comes to sports, he is the best in the class.*
+2. **料理の腕前にかけては、彼女にかなう人はいない。**  
+   *Ryōri no udemae ni kakete wa, kanojo ni kanau hito wa inai.*  
+   *When it comes to cooking skills, no one can beat her.*
+3. **日本史の知識にかけては、先生以上です。**  
+   *Nihonshi no chishiki ni kakete wa, sensei ijō desu.*  
+   *In terms of knowledge of Japanese history, he surpasses even the teacher.*
+4. **彼は音楽センスにかけては、天才と言われています。**  
+   *Kare wa ongaku sensu ni kakete wa, tensai to iwarete imasu.*  
+   *When it comes to musical sense, he is called a genius.*
+5. **英語の発音にかけては、ネイティブ並みです。**  
+   *Eigo no hatsuon ni kakete wa, neitibu nami desu.*  
+   *When it comes to English pronunciation, he's on par with native speakers.*
+### Context Variations
+- **Formal Context:**  
+  **おもてなしの心にかけては、日本人は世界一です。**  
+  *Omotenashi no kokoro ni kakete wa, Nihonjin wa sekaiichi desu.*  
+  *When it comes to the spirit of hospitality, Japanese people are the best in the world.*
+- **Informal Speech:**  
+  **ゲームにかけては、あいつに勝てないよ。**  
+  *Gēmu ni kakete wa, aitsu ni katenai yo.*  
+  *When it comes to games, I can't beat that guy.*
+---
 ## 5. Cultural Notes
 ### Cultural Relevance
-This structure reflects the importance of specialization and excellence in various fields in Japanese culture. It often hints at respect toward someone's skills or knowledge in a certain area, acknowledging them as an expert.
+- **Recognition of Expertise:** Japanese culture often values humility, but it's also important to recognize and acknowledge others' skills respectfully. Using **～にかけては** is a polite way to highlight someone's strengths.
+- **Group Harmony:** By emphasizing individual skills in a specific context, it maintains group harmony while recognizing personal achievements.
+### Levels of Politeness
+- The expression **～にかけては** is neutral; politeness is adjusted with verb endings and honorifics.
+- **Polite Form Example:**  
+  **田中さんはサービスにかけては、他のスタッフより優れています。**  
+  *Tanaka-san wa sābisu ni kakete wa, hoka no sutaffu yori sugurete imasu.*  
+  *When it comes to service, Mr. Tanaka excels compared to other staff.*
 ### Idiomatic Expressions
-- 料理にかけてはプロ (ryouri ni kakete wa puro) - "When it comes to cooking, [he/she] is a pro."
+- While **～にかけては** is not an idiom, it's commonly used in set phrases that highlight unparalleled ability.
+---
 ## 6. Common Mistakes and Tips
 ### Error Analysis
-- **Mistake**: Using 〜にかけては with unrelated subjects.
-  - **Correct Usage**: Ensure the subject pertains to the discussed skill or topic.
-  
+1. **Using Negative Statements:**
+   - **Incorrect:**  
+     彼は数学にかけては、苦手です。  
+     *Kare wa suugaku ni kakete wa, nigate desu.*  
+     *(He is bad at math.)*  
+   - **Correction:**  
+     **～にかけては** is used with positive statements about exceptional abilities.
+2. **Confusing with Topic Markers:**
+   - **Mix-up:** Using **～については** instead of **～にかけては** when emphasizing skill.
+   - **Example:**  
+     **Incorrect:**  
+     絵画については、彼女が一番上手です。  
+     *Kaiga ni tsuite wa, kanojo ga ichiban jōzu desu.*  
+     - This means "Regarding painting, she is the best," but doesn't emphasize her exceptional skill.
+   - **Correction:**  
+     **絵画にかけては、彼女が一番上手です。**
 ### Learning Strategies
-- **Mnemonic Device**: "Kakete wa = Capable" - Think of "kakete" as a bridge to showcase capability in specific areas. 
+- **Association:** Remember that **かける (kakeru)** can mean "to hang" or "to stake." Think of **にかけては** as "staking one's reputation on" a skill, emphasizing confidence in that area.
+- **Positive Context:** Always use **～にかけては** with positive statements to highlight excellence.
+---
 ## 7. Summary and Review
 ### Key Takeaways
-- 〜にかけては indicates excellence or quality in a specific area.
-- It highlights the subject being discussed before making a definitive comment about it.
-  
+- **～にかけては** emphasizes exceptional skill or ability in a specific field.
+- Attach it to the noun representing the skill area, followed by a positive statement.
+- It differs from **～については** and **～に関しては**, which introduce topics without highlighting skill level.
+- Use it to praise someone's abilities in a respectful and culturally appropriate manner.
 ### Quick Recap Quiz
-1. What does 〜にかけては mean in English?
-   - **Answer**: In terms of or when it comes to.
-  
-2. Is 〜にかけては used in formal or informal contexts?
-   - **Answer**: It can be used in both contexts.
-3. Compare 〜にかけては with 〜に関して and explain the difference.
-   - **Answer**: 〜にかけては emphasizes excellence in a specific area, while 〜に関して is more neutral and general.
-By understanding and using 〜にかけては accurately, learners can express respect and acknowledgment of skills in various contexts in Japanese conversations.
+1. **Fill in the blank with the correct grammar point:**  
+   彼女はデザイン______、会社で一番才能があります。  
+   **Answer:** にかけては
+2. **True or False:**  
+   **～にかけては** can be used with negative statements about someone's abilities.  
+   **Answer:** False
+3. **Choose the correct sentence that uses **～にかけては** appropriately:**
+   a) 彼は料理にかけては、全然ダメです。  
+   b) 彼女はファッションにかけては、誰にも負けない。  
+   c) 彼は歴史については、興味がない。
+   **Answer:** b) 彼女はファッションにかけては、誰にも負けない。
+---
+By understanding and practicing **～にかけては**, you can effectively express exceptional skills and abilities in Japanese, enhancing both your language proficiency and cultural awareness.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

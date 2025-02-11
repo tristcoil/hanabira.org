@@ -1,67 +1,137 @@
 Processing keyword: ~나 보다 [na boda] (It seems, looks like)
 # Korean Grammar Point: ~나 보다 [na boda] (It seems, looks like)
-# Grammar Point: ~나 보다 [na boda] (It seems, looks like)
+
 ## 1. Introduction
-The expression ~나 보다 is commonly used in Korean to indicate that the speaker is making an assumption or inference based on what they have observed or heard. It translates roughly to "it seems" or "looks like" in English. Using this expression can help convey the speaker's perspective or feelings about a situation.
+In Korean, expressing assumptions or making guesses based on observations is a common part of daily communication. One useful grammar point for this purpose is **~나 보다**. This expression allows speakers to convey speculation or inference about a situation, much like saying "It seems" or "I guess" in English.
+
+---
 ## 2. Core Grammar Explanation
-### Detailed Explanation
-- **Meaning**: 
-  - The phrase suggests that the speaker is drawing a conclusion based on indirect evidence. It's often used when the speaker is not completely certain but has a strong feeling about something. 
-- **Structure**:
-  - The structure can be broken down as follows:
-    1. **Verb stem + 나 보다**
-    2. **Adjective stem + 나 보다**
-    3. **Noun + 인가 보다**
-### Formation Diagram
-| Components               | Examples                              |
-|--------------------------|---------------------------------------|
-| Verb + 나 보다          | 가다 (to go) → 가나 보다 (It seems he's going) |
-| Adjective + 나 보다     | 예쁘다 (to be pretty) → 예쁘나 보다 (It seems pretty) |
-| Noun + 인가 보다        | 학생이다 (to be a student) → 학생인가 보다 (It seems to be a student) |
+### Meaning and Usage
+**~나 보다** is used to express a guess or assumption based on indirect evidence or what you've observed. It's similar to saying:
+- "It seems that..."
+- "I guess..."
+- "Looks like..."
+### Structure and Formation
+The formation of **~나 보다** depends on whether the verb is an **action verb** or a **descriptive verb (adjective)**.
+#### For Action Verbs:
+Attach **~나 보다** directly to the verb stem.
+- **Formation**:
+  ```
+  [Action Verb Stem] + 나 보다
+  ```
+- **Examples**:
+  | Verb (Dictionary Form) | Verb Stem | + 나 보다 | Meaning                    |
+  |------------------------|-----------|-----------|----------------------------|
+  | 가다 (to go)           | 가        | 가나 보다 | It seems (someone) goes    |
+  | 먹다 (to eat)          | 먹        | 먹나 보다 | It looks like (someone) eats |
+  | 오다 (to come)         | 오        | 오나 보다 | I guess (someone) is coming |
+#### For Descriptive Verbs (Adjectives):
+Use **~(으)ㄴ가 보다** instead.
+- **Formation**:
+  ```
+  [Descriptive Verb Stem] + (으)ㄴ가 보다
+  ```
+- **Rules**:
+  - If the stem ends with a consonant (except for 'ㄹ'), add **~은가 보다**.
+  - If the stem ends with a vowel or 'ㄹ', add **~ㄴ가 보다**.
+- **Examples**:
+  | Verb (Dictionary Form) | Verb Stem | + (으)ㄴ가 보다 | Meaning                       |
+  |------------------------|-----------|----------------|-------------------------------|
+  | 크다 (to be big)       | 크        | 큰가 보다      | It seems it's big             |
+  | 작다 (to be small)     | 작        | 작은가 보다    | I guess it's small            |
+  | 길다 (to be long)      | 길        | 긴가 보다      | Looks like it's long          |
+### Visual Aid: Formation Diagram
+```plaintext
+For Action Verbs:
+[Verb Stem] + 나 보다
+For Descriptive Verbs:
+[Verb Stem] + (으)ㄴ가 보다
+```
+---
 ## 3. Comparative Analysis
-### Similar Grammar Points:
-- **~겠 (get)**: Indicates intention or guess based on a strong feeling, whereas ~나 보다 is based more on assumption after observation.
-    - Example: 오늘 날씨가 좋겠어요. (I think the weather will be nice today.)
-- **~군요 (gunyo)**: Used to imply surprise or new information, but it doesn’t indicate uncertainty as ~나 보다 does.
-    - Example: 날씨가 더워요, 군요! (Oh, the weather is hot!)
+### Comparing **~나 보다** with **~는 것 같다**
+Both expressions are used to make assumptions, but there are subtle differences.
+- **~나 보다**:
+  - Used more when the speaker has some evidence or observation.
+  - Slightly more subjective.
+  - Cannot be used with nouns.
+- **~는 것 같다**:
+  - Can be used more generally, including with nouns.
+  - Less direct; conveys a softer assumption.
+  - Can express personal thoughts or feelings.
+**Example Comparison**:
+- **비가 오나 봐요.**
+  - *It seems it's raining (I see people with umbrellas).*
+- **비가 오는 것 같아요.**
+  - *I think it's raining (maybe I heard the sound of rain).*
+---
 ## 4. Examples in Context
-### Sentence Examples
-1. **Formal**:
-   - 그 사람이 바쁘나 봐요. 
-   - (It seems that person is busy.)
-   
-2. **Informal**:
-   - 오늘 수업이 재미없나 봐. 
-   - (Looks like today’s class is boring.)
-   
-3. **Written**:
-   - 그녀의 표정을 보니 기분이 좋지 않나 봅니다. 
-   - (Seeing her expression, it seems she isn't in a good mood.)
-4. **Spoken**:
-   - 너 요즘 피곤한가 봐. 
-   - (Looks like you’re tired these days.)
+### Formal Speech
+1. **회의가 늦게 끝났나 봅니다.**
+   *Translation*: It seems the meeting ended late.
+2. **그분이 바쁘신가 봅니다.**
+   *Translation*: Looks like he is busy.
+### Informal Speech
+1. **너 오늘 기분이 좋나 봐.**
+   *Translation*: You seem to be in a good mood today.
+2. **주말이라서 길이 복잡한가 보다.**
+   *Translation*: I guess the roads are crowded because it's the weekend.
+### Written Context
+1. **사람들이 그 소식을 아직 모르나 보다.**
+   *Translation*: It appears people don't know that news yet.
+### Spoken Context
+1. **밖에 비가 오나 봐요. 우산을 쓰고 있는 사람들이 많아요.**
+   *Translation*: It looks like it's raining outside. Many people are carrying umbrellas.
+---
 ## 5. Cultural Notes
-### Cultural Relevance
-- This grammar point reflects the Korean culture of indirect communication; Koreans often express assumptions or observations rather than making direct statements.
-- The use of politeness levels is vital in Korean;~나 보다 is typically used in a neutral or polite form unless in casual conversation.
-### Idiomatic Expressions
-- “눈으로 보아도 하늘은 파란가 보다.” 
-- (It seems the sky is blue even by looking at it.)
+### Levels of Politeness and Formality
+- **~나 보다** is moderately polite and commonly used in both spoken and written Korean.
+- To increase politeness, especially in formal contexts, use the honorific form:
+  - **~나 보네요** (polite)
+  - **~나 봅니다** (formal polite)
+### Expressing Humility and Indirectness
+In Korean culture, being indirect can be a way to show politeness and humility. Using **~나 보다** softens statements, making them sound less assertive and more considerate.
+
+---
 ## 6. Common Mistakes and Tips
 ### Error Analysis
-- **Common Mistake**: Using ~나 보다 indiscriminately. It's important that the evidence or reason supports the inference.
-- **Example of Error**: 
-   - Incorrect: 내가 좋나 보다. (I seem to be good.)
-   - Correct: 당신이 나를 좋아하나 보다. (It seems that you like me.)
+1. **Using the wrong form with descriptive verbs**:
+   - **Incorrect**: 날씨가 춥나 보다.
+   - **Correct**: 날씨가 추운가 보다.
+   *Explanation*: With descriptive verbs like 춥다 (to be cold), use **~(으)ㄴ가 보다**.
+2. **Using ~나 보다 with nouns**:
+   - **Incorrect**: 학생이나 보다.
+   - **Correct**: 학생인가 보다.
+   *Explanation*: When making assumptions about nouns, use **~인가 보다**.
 ### Learning Strategies
-- **Mnemonic Device**: Remember it as "it looks like; I deduce" to reinforce the inference aspect. 
+- **Identify the Verb Type**:
+  - Action Verb → **~나 보다**
+  - Descriptive Verb → **~(으)ㄴ가 보다**
+  - Noun → **~인가 보다**
+- **Mnemonic Device**:
+  - **Action** = **A** = **~나 보다**
+  - **Descriptive** = **D** = **~(으)ㄴ가 보다**
+- **Practice with Common Verbs**:
+  - Create sentences using frequently used verbs to become familiar with the patterns.
+---
 ## 7. Summary and Review
 ### Key Takeaways
-- ~나 보다 is used for assumptions or inferences.
-- Structure varies based on verbs, adjectives, and nouns.
-- Politeness and context are crucial in its use.
+- **~나 보다** is used to express guesses based on observations.
+- Attach **~나 보다** to action verbs.
+- Use **~(으)ㄴ가 보다** with descriptive verbs.
+- For nouns, use **~인가 보다**.
+- Be mindful of verb types to avoid common mistakes.
 ### Quick Recap Quiz
-1. What does ~나 보다 mean in English?
-2. Give an example of ~나 보다 using a verb.
-3. How is ~나 보다 different from ~겠?
-*Feel free to reflect on your answers for a deeper understanding of this grammar point!*
+1. **Fill in the blank with the correct form of ~나 보다**:
+   - 부모님이 오_____ 봐요.
+     **Answer**: 부모님이 오나 봐요. (Since 오다 is an action verb.)
+2. **Correct the sentence if there's a mistake**:
+   - 그 음식이 맛있나 봐요.
+     **Answer**: Correct as is if 맛있다 is considered an action verb in colloquial use. However, grammatically, since 맛있다 is a descriptive verb, it should be **맛있는가 봐요**.
+3. **How do you express "I guess she is a teacher" using the appropriate grammar?**
+   **Answer**: 그녀는 선생님인가 봐요.
+---
+By mastering **~나 보다**, you'll add nuance to your Korean communication, making your speech sound more natural and fluent. Keep practicing by observing situations and expressing your guesses in Korean!
+
+---
+© [Hanabira.org](https://hanabira.org)

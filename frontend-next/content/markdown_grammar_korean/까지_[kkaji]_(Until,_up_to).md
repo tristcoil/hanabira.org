@@ -1,63 +1,118 @@
 Processing keyword: 까지 [kkaji] (Until, up to)
 # Korean Grammar Point: 까지 [kkaji] (Until, up to)
-# TOPIK Grammar Point: 까지 [kkaji] (Until, up to)
+
 ## 1. Introduction
-The grammar point 까지 [kkaji] is used to indicate a limit in time or space—meaning "until," "up to," or "to the extent of." It is commonly used in both spoken and written Korean, making it essential for anyone learning the language.
+The particle **까지 [kkaji]** is an essential component in Korean grammar used to indicate the limit or extent in terms of time, location, or amount. Understanding how to use **까지** will enhance your ability to describe durations, destinations, and extents in Korean conversations.
+
+---
 ## 2. Core Grammar Explanation
+### Meaning
+**까지** translates to **"until"**, **"up to"**, or **"as far as"** in English. It denotes the endpoint of an action or state, whether it's in time, place, or quantity.
+### Structure
+**Noun + 까지**
+- **Noun**: Time, place, or quantity to which the action extends.
+- **까지**: Particle indicating "until" or "up to".
+#### Formation Diagram
+```
+[Noun] + 까지
+```
 ### Detailed Explanation
-- **Meaning:** 까지 indicates the endpoint of an action or a location. It can refer to both time and space.
-- **Structure:** It follows nouns, time expressions, and even verbs when using additional forms.
-- **Formation:** 
-  - Noun + 까지 (e.g., 집까지 [jipkkaji] - "until the house")
-  - Time expression + 까지 (e.g., 오후 5시까지 [ohu 5si kkaji] - "until 5 PM")
-  
-### Visual Aids
-| Structure          | Example                | Translation                 |
-|-------------------|-----------------------|-----------------------------|
-| Noun + 까지       | 집까지                 | "Until the house"           |
-| Time + 까지       | 오후 5시까지         | "Until 5 PM"                |
-| Verb Form + 까지   | 공부할 까지           | "Until I study"            |
+- **Time**: Indicates the end point of a time period.
+  - **Example**:  
+    - *저녁 6시까지 일해요.*  
+      *(I work until 6 PM.)*
+- **Place**: Denotes the farthest point reached or a destination.
+  - **Example**:  
+    - *서울에서 부산까지 갑니다.*  
+      *(I go from Seoul up to Busan.)*
+- **Quantity**: Specifies a limit in amount or degree.
+  - **Example**:  
+    - *물은 두 잔까지 마실 수 있어요.*  
+      *(You can drink up to two glasses of water.)*
+---
 ## 3. Comparative Analysis
-### Similar Grammar Points
-- **부터 [buteo]** (from): While 까지 indicates an endpoint, 부터 marks the starting point. For example:
-  - 서울부터 부산까지 [Seoul buteo Busan kkaji] - "From Seoul to Busan."
-- **까지** vs **넘어 [neomeo]**: 까지 indicates a limit, while 넘어 means "beyond" or "over."
-  - 수도권 넘어 [sudogwon neomeo] - "Beyond the metropolitan area."
+### 까지 vs. 부터
+| Particle | Meaning      | Usage                      |
+|----------|--------------|----------------------------|
+| 부터     | From, Since  | Indicates a starting point |
+| 까지     | Until, Up to | Indicates an end point     |
+- **Example**:  
+  - *아침 9시부터 저녁 6시까지 일해요.*  
+    *(I work from 9 AM until 6 PM.)*
+### 까지 vs. 에
+- **에** is used for specific times or locations but does not emphasize the endpoint like **까지** does.
+- **Example with 에**:  
+  - *학교에 가요.*  
+    *(I go to school.)*
+- **Example with 까지**:  
+  - *학교까지 걸어서 가요.*  
+    *(I walk up to the school.)*
+---
 ## 4. Examples in Context
-### Sentence Examples
-1. **Formal:** 
-   - **회의는 3시까지입니다.**  
-   (The meeting is until 3 o'clock.)
-  
-2. **Informal:** 
-   - **친구는 집까지 데려다 줄게.**  
-   (I’ll take my friend home.) 
-3. **Written:** 
-   - **이번 학기까지 모두 열심히 공부해야 합니다.**  
-   (You must study hard until this semester.)
-4. **Spoken:** 
-   - **저는 오전 10시까지 일해요.**  
-   (I work until 10 AM.)
-## 5. Cultural Notes - If applicable
-- **Cultural Relevance:** Understanding the concept of time in Korean culture is critical. Punctuality is valued highly, and phrases like "until" may relate to schedules and commitments.
-- **Politeness Levels:** The use of formal versus informal contexts is critical; ensure proper honorifics are used based on the relationship and situation.
-  
+### Formal Situations
+- **회의가 오후 5시까지 있습니다.**  
+  *(There is a meeting until 5 PM.)*
+- **보고서를 내일까지 제출해 주세요.**  
+  *(Please submit the report by tomorrow.)*
+### Informal Situations
+- **나도 거기까지 갈게.**  
+  *(I'll go up to there too.)*
+- **영화 끝까지 봤어?**  
+  *(Did you watch the movie until the end?)*
+### Written Context
+- **이 열차는 부산까지 갑니다.**  
+  *(This train goes up to Busan.)*
+- **참가 신청은 다음 주 금요일까지 받습니다.**  
+  *(Applications are accepted until next Friday.)*
+### Spoken Context
+- **지금부터 끝까지 잘 들어 주세요.**  
+  *(Please listen well from now until the end.)*
+- **여기서 시장까지 어떻게 가요?**  
+  *(How do I get from here up to the market?)*
+---
+## 5. Cultural Notes
+### Cultural Relevance
+In Korean culture, punctuality and clear communication about time are important. Using **까지** accurately helps in setting clear expectations about deadlines and meeting times, reflecting respect and consideration in social interactions.
+### Levels of Politeness
+The usage of **까지** itself does not change with politeness levels, but the verbs and sentences around it should match the appropriate speech level.
+- **Polite Form**:  
+  - *집까지 같이 갈까요?*  
+    *(Shall we go home together?)*
+- **Casual Form**:  
+  - *집까지 같이 갈래?*  
+    *(Want to go home together?)*
 ### Idiomatic Expressions
-- **어디까지 갔니? [eodi kkaji ganni?]**  
-  (How far have you gone?) – used for checking progress.
+- **하늘 끝까지**  
+  *(Up to the end of the sky; meaning infinitely)*
+- **발끝까지**  
+  *(Up to the toes; meaning thoroughly or completely)*
+---
 ## 6. Common Mistakes and Tips
 ### Error Analysis
-- **Incorrect Placement:** Some learners place 까지 before the noun or time expression. Remember that it follows the noun or time.
-  - **Incorrect:** 까지 10시. 
-  - **Correct:** 10시까지. 
+- **Omitting 까지 when needed**
+  - Incorrect: *저녁 7시에 일해요.* (I work at 7 PM.)
+  - Correct: *저녁 7시까지 일해요.* (I work until 7 PM.)
+- **Confusing 까지 with 에게**
+  - Incorrect: *선생님까지 질문했어요.* (I asked up to the teacher.)
+  - Correct: *선생님에게 질문했어요.* (I asked the teacher.)
 ### Learning Strategies
-- **Mnemonic Device:** Associate 까지 with the English word "limit" to remember that it marks an endpoint.
+- **Mnemonic Tip**: Think of **까지** as "cut-off point"—it marks the limit or end of something.
+- **Association**: Associate **까지** with the English word "catchy" to remember it "catches" the end point.
+---
 ## 7. Summary and Review
 ### Key Takeaways
-- 까지 is used to indicate "until" or "up to" for both time and space.
-- It follows nouns and time expressions and can also accompany verbal forms with additional structures.
+- **까지** is used to indicate "until" or "up to" for time, place, or quantity.
+- It is attached directly to a noun without spaces.
+- Understanding **까지** helps in setting clear time frames and boundaries in communication.
 ### Quick Recap Quiz
-1. Translate: "I will wait until 4 PM."
-2. Write a sentence using 까지 to show a location.
-3. What is the difference between 까지 and 부터?
-By understanding and practicing the use of 까지, you will enhance your Korean language skills, particularly in expressing limits of time and space effectively!
+1. How do you say "until tomorrow" in Korean?
+   - **Answer**: *내일까지*
+2. Fill in the blank: *나는 어제 밤 12시___ 공부했어요.*  
+   - **Answer**: *까지* (나는 어제 밤 12시까지 공부했어요.)
+3. What particle would you use to indicate the starting point, as opposed to 까지?
+   - **Answer**: *부터*
+---
+By mastering **까지**, you enhance your ability to communicate durations and limits effectively in Korean. Keep practicing with different nouns and contexts to become more fluent!
+
+---
+© [Hanabira.org](https://hanabira.org)

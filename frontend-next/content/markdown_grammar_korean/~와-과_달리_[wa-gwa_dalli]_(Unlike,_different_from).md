@@ -1,69 +1,110 @@
 Processing keyword: ~와/과 달리 [wa/gwa dalli] (Unlike, different from)
 # Korean Grammar Point: ~와/과 달리 [wa/gwa dalli] (Unlike, different from)
-# Grammar Point: ~와/과 달리 [wa/gwa dalli] (Unlike, different from)
-## Introduction
-The expression ~와/과 달리 is used to compare two things by contrasting one with another. The meanings include "unlike," "different from," or "in contrast to." This structure is useful for making distinctions between two subjects, allowing you to highlight differences.
-## Core Grammar Explanation
-### Meaning and Structure
-- **와 (wa)** is used after nouns ending in a vowel.
-- **과 (gwa)** is used after nouns ending in a consonant.
-**Basic Structure**: 
-- Subject 1 + ~와/과 달리 + Subject 2
-- Example: 나와 달리 그 사람은 내성적이다 (Unlike me, that person is introverted.)
-### Formation Diagram
-```plaintext
-    [Noun (ending in vowel)] + 와 달리
-              |
-              + 
-    [Noun (ending in consonant)] + 과 달리
-```
-### Detailed Explanation
-1. **Usage with Nouns**: The structure takes a noun in each part of the sentence. 
-2. **Complementary Adjectives**: It is often followed by an adjective that further describes the second subject, highlighting the difference.
-3. **Formality**: The expression can be used in both formal and informal contexts, but be mindful of the surrounding text to maintain the appropriate level of politeness.
-## Comparative Analysis
-### Similar Grammar Points
-- **~보다 [boda]**: This is also used for comparisons but indicates "than" instead of "unlike." Example: 나보다 더 잘해요 (He does better than me).
-  
-### Differences
-- **Focus**: ~와/과 달리 emphasizes a contrast, while ~보다 focuses on superiority or inferiority.
-- **Structure**: ~와/과 달리 requires two distinct subjects, whereas ~보다 can operate with a single subject followed by the comparative element.
-## Examples in Context
-### Sentence Examples
-1. **Formal context**:
-   - 한국 사회는 전통적 가치관과 달리 젊은 층은 개인적 가치를 중시한다.
-   - (*Unlike traditional values in Korean society, the younger generation values individualism.*)
-2. **Informal context**:
-   - 내 친구는 운동을 좋아하는 반면 나와 달리 나는 책 읽는 걸 더 좋아해.
-   - (*My friend likes sports, unlike me, who prefers reading books.*)
-3. **Written context**:
-   - 한국의 교육 시스템은 서구의 시스템과 달리 경쟁이 치열하다.
-   - (*The Korean education system is highly competitive, unlike the Western system.*)
-4. **Spoken context**:
-   - 그 영화는 호흡이 긴 반면, 나와 달리 친구는 짧은 영화를 좋아해.
-   - (*That movie has a long pacing, but unlike me, my friend likes short films.*)
-## Cultural Notes
-### Cultural Relevance
-Using ~와/과 달리 can reflect the concept of contrasting values within Korean society, especially in discussions about generational differences, lifestyles, and perspectives. It shows sophistication in the comparison and an understanding of respect between varying ideas and opinions.
+
+## 1. Introduction
+In Korean, expressing differences or contrasts between two subjects is a common linguistic practice. The expression **~와/과 달리** is used to indicate that something is **unlike** or **different from** another. This grammar structure helps to highlight contrasts in characteristics, behaviors, or situations between two nouns.
+
+---
+## 2. Core Grammar Explanation
+### Meaning
+- **~와/과 달리** means **"unlike"** or **"different from"**.
+- It is used to compare two nouns, emphasizing how they differ.
+### Structure
+#### Formation
+Attach **~와 달리** or **~과 달리** directly to a noun:
+- **Noun + 와/과 달리**
+#### Particle Selection
+- Use **와 달리** after a noun ending with a **vowel**.
+- Use **과 달리** after a noun ending with a **consonant**.
+#### Examples
+| Noun Ending     | Particle   | Example            |
+|-----------------|------------|--------------------|
+| Vowel           | 와 달리    | 친구**와 달리**     |
+| Consonant       | 과 달리    | 부모님**과 달리**   |
+---
+## 3. Comparative Analysis
+### Comparison with Similar Grammar Points
+1. **~와/과 다르게**
+   - Also means **"unlike"** or **"differently from"**.
+   - Often used before verbs or adjectives.
+   - **Example:** 친구와 다르게 나는 일찍 일어난다.  
+     _(I wake up early unlike my friend.)_
+2. **~와/과 반대로**
+   - Means **"contrary to"** or **"in contrast to"**.
+   - Suggests a stronger opposition.
+   - **Example:** 예상과 반대로 결과가 나왔다.  
+     _(The result came out contrary to expectations.)_
+### Nuances
+- **~와/과 달리** is used specifically with nouns to show difference.
+- **~와/과 다르게** can be more flexible, used with verbs and adjectives.
+- **~와/과 반대로** highlights a stronger contrast or contradiction.
+---
+## 4. Examples in Context
+### Formal Context
+1. **동생과 달리 형은 매우 성실합니다.**  
+   _Unlike his younger sibling, the older brother is very diligent._
+2. **지난주와 달리 이번 주에는 비가 많이 왔습니다.**  
+   _Unlike last week, it rained a lot this week._
+### Informal Context
+1. **나는 너와 달리 매운 음식을 잘 먹어.**  
+   _Unlike you, I can eat spicy food well._
+2. **주말과 달리 평일에는 시간이 없어.**  
+   _Unlike the weekend, I don't have time on weekdays._
+### Written Context
+1. **과거와 달리 현대 사회는 기술에 많이 의존합니다.**  
+   _Unlike the past, modern society relies heavily on technology._
+### Spoken Context
+1. **그는 말과 달리 행동이 달라요.**  
+   _His actions are different from his words._
+---
+## 5. Cultural Notes
+### Politeness and Formality
+- The usage of **~와/과 달리** is neutral.
+- Politeness is conveyed through verb endings and overall speech level.
+- Formal situations require polite endings like **~습니다**, **~어요**.
+- Informal situations allow casual endings like **~아/어**.
 ### Idiomatic Expressions
-- "나와 달리": (Unlike me)
-- "그와 달리": (Unlike him/her)
-## Common Mistakes and Tips
-### Error Analysis
-1. **Incorrect noun pairing**: Make sure the nouns being compared are relevant and directly contrasting.
-   - Incorrect: 나와/과 달리 그들이 (Incomplete; needs additional context).
-  
-2. **Confusing 와/과 usage**: Always remember to match with the correct noun ending.
-### Learning Strategies
-- **Mnemonic Device**: Think of "달리" as “different” (both start with "d"), which can help you remember that this structure contrasts two different subjects.
-- **Chart Practice**: Create a chart with pairs of contrasting nouns to practice forming sentences using ~와/과 달리.
-## Summary and Review
+- **생각과 달리**: _Contrary to thought_
+  - **예:** 결과가 생각과 달리 나왔어요.  
+    _(The result came out differently than I thought.)_
+- **예상과 달리**: _Contrary to expectation_
+  - **예:** 일이 예상과 달리 쉽게 풀렸어요.  
+    _(The work was resolved easily, contrary to expectations.)_
+---
+## 6. Common Mistakes and Tips
+### Common Mistakes
+1. **Incorrect Particle Usage**
+   - Using **와 달리** after a consonant-ending noun.
+     - **Incorrect:** 책상**와 달리**
+     - **Correct:** 책상**과 달리**
+2. **Confusing with Verbs**
+   - Attaching **~와/과 달리** to verbs instead of nouns.
+     - **Incorrect:** 먹다**와 달리**
+     - **Correct:** 친구**와 달리** 나는 많이 먹어요.
+### Tips
+- **Mnemonic Device**: Remember "**V**owel with **와**, **C**onsonant with **과**" (VOWA and CONGWA).
+- Always ensure that **~와/과 달리** is attached to a **noun**, not a verb or adjective.
+---
+## 7. Summary and Review
 ### Key Takeaways
-- ~와/과 달리 is used to draw contrasts between two subjects, emphasizing differences.
-- Be mindful of noun endings to choose between 와 and 과.
-- This structure can enrich your communication by allowing you to express nuanced comparisons.
+- **~와/과 달리** is used to compare nouns, meaning **"unlike"** or **"different from"**.
+- Choose **와** or **과** based on whether the noun ends with a vowel or consonant.
+- This structure helps emphasize differences between two subjects.
 ### Quick Recap Quiz
-1. How do you choose between 와 and 과?
-2. Give an example sentence using ~와/과 달리 in a formal context.
-3. What is the difference between ~와/과 달리 and ~보다?
-Feel free to answer these questions to reinforce your understanding of this grammar point!
+1. **Fill in the blank with the correct particle (와/과):**
+   - **형__ 달리 나는 야구를 좋아해요.**
+2. **True or False:**
+   - **~와/과 달리** can be used with verbs directly.
+3. **Identify and correct the mistake:**
+   - **언니와 달리** 수영을 잘해요.
+### Answers
+1. **형**과 달리 나는 야구를 좋아해요.
+2. **False**. **~와/과 달리** is used with nouns, not verbs.
+3. Missing subject before **언니와 달리**.
+   - **Corrected:** **나는 언니와 달리** 수영을 잘해요.  
+     _(Unlike my sister, I am good at swimming.)_
+---
+By understanding and practicing **~와/과 달리**, you can effectively express contrasts and differences in Korean, enriching your communication skills.
+
+---
+© [Hanabira.org](https://hanabira.org)

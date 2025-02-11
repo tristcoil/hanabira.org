@@ -1,74 +1,103 @@
 Processing keyword: ~하든지 말든지 [hadeunji maldeunji] (Whether... or not)
 # Korean Grammar Point: ~하든지 말든지 [hadeunji maldeunji] (Whether... or not)
-# Grammar Point: ~하든지 말든지 [hadeunji maldeunji] (Whether... or not)
+
 ## 1. Introduction
-The expression **~하든지 말든지** is used in Korean to indicate that regardless of whether an action will be performed or not, the speaker's stance remains the same. It can be translated as "whether (you) do it or not" or "whether (someone) does it or not." This construction is useful in a variety of contexts, such as making decisions, giving opinions, or asserting indifference.
+The Korean grammar construct **~하든지 말든지** is used to express the meaning "whether (do something) or not." It's a way to indicate that the outcome or action does not affect the speaker's stance or that the decision is left entirely up to someone else.
+
 ---
 ## 2. Core Grammar Explanation
+### Meaning
+- **~하든지 말든지** is attached to verbs to indicate **"whether you do it or not."**
+- It conveys indifference or lack of concern about the action being taken.
+### Structure
+The structure involves attaching **~든지 말든지** to the verb stem.
+```
+Verb Stem + ~든지 말든지
+```
+### Formation Diagram
+| Verb Type      | Verb Stem   | + 든지 말든지 | Complete Form        |
+|----------------|-------------|---------------|----------------------|
+| 하다 (to do)     | 하           | 하든지 말든지    | 하든지 말든지         |
+| 먹다 (to eat)    | 먹          | 먹든지 말든지   | 먹든지 말든지        |
+| 가다 (to go)     | 가           | 가든지 말든지    | 가든지 말든지         |
+| 읽다 (to read)   | 읽          | 읽든지 말든지   | 읽든지 말든지        |
 ### Detailed Explanation
-The structure of **~하든지 말든지** can be broken down as follows:
-1. **하든지 (hadeunji)** - This part is derived from the verb 하다 (hada - to do). The ending -든지 is used to convey a sense of option or choice.
-2. **말든지 (maldeunji)** - This part comes from the verb 말다 (malda - to not do), with the same -든지 ending.
-### Meaning and Structure
-- The meaning can be understood as expressing that the outcome does not matter to the speaker (whether or not something happens).
-- The basic formation of this construction is:
-  ```
-  [Action verb stem + -든지] + [negated action verb stem + -든지]
-  ```
-### Visual Aid
-| Action Verb Stem | Structure | Translated Meaning |
-|-------------------|-----------|--------------------|
-| 하든지 (hadeunji) | -든지      | whether to do      |
-| 말든지 (maldeunji)| -든지      | whether to not do  |
+- **Verb Stem**: Remove the **-다** ending from the dictionary form of the verb.
+- **Attach** **~든지 말든지** directly to the verb stem.
+- The construct can be used with any verb, and it doesn't change form based on tense or politeness level; adjustments are made elsewhere in the sentence.
 ---
 ## 3. Comparative Analysis
-This grammar structure is similar to the use of **~든지** or **-거나** in other contexts, however, the nuance is different:
-- **~든지** indicates a choice between options without emphasizing indifference.
-- **-거나** is another form that can express options but is usually used with a different structure.
-**Example of Differences**:
-- **하든지** (hadeunji) - “(You) do it or not.”
-- **하던가** (hadeunga) - “(You) might do it.”
-  
-In contrast, **~하든지 말든지** emphasizes that the speaker is not particularly concerned about the action being taken.
+### Comparison with ~거나 말거나
+- **~거나 말거나** is another expression meaning "whether... or not," but it's less common in modern usage and can sound harsher or more dismissive.
+- **~하든지 말든지** is slightly more neutral and commonly used in spoken Korean.
+
+| Grammar Point      | Usage                                | Tone                     |
+|--------------------|--------------------------------------|--------------------------|
+| ~하든지 말든지       | Whether do or not; indifferent       | Neutral, casual          |
+| ~거나 말거나          | Whether do or not; don't care        | Dismissive, potentially rude |
+
 ---
 ## 4. Examples in Context
-### Sentence Examples
-1. **Formal Context**:
-   - 이 문제를 해결하든지 말든지 저는 상관이 없습니다.
-   - *I don't care whether you solve this problem or not.*
-2. **Informal Context**:
-   - 너가 가든지 말든지 나는 그냥 집에 있을 거야.
-   - *Whether you go or not, I’m just going to stay home.*
-3. **Written Context**:
-   - 이 일은 당신이 하든지 말든지 시간 내에 끝내야 합니다.
-   - *This task must be completed on time, whether you do it or not.*
-4. **Spoken Context**:
-   - 친구가 오든지 말든지 나 영화 볼 거야.
-   - *I’m going to watch a movie whether my friend comes or not.*
+### Example Sentences
+1. **Informal Spoken**
+   - *네가 오든지 말든지 나는 갈 거야.*
+     - Whether you come or not, I'm going.
+     
+2. **Formal Spoken**
+   - *그분이 참석하든지 말든지 행사는 예정대로 진행됩니다.*
+     - Whether he attends or not, the event will proceed as scheduled.
+     
+3. **Casual Conversation**
+   - *비가 오든지 말든지 축구할 거야?*
+     - Are you going to play soccer whether it rains or not?
+     
+4. **Written Formal**
+   - *참가자가 신청을 하든지 말든지 우리는 준비를 완료해야 합니다.*
+     - Whether participants sign up or not, we must complete the preparations.
+     
+5. **Polite Informal**
+   - *맛있든지 말든지 한번 먹어 보세요.*
+     - Whether it's tasty or not, please try eating it once.
+     
+6. **Expressing Indifference**
+   - *그가 성공하든지 말든지 내 알 바 아니다.*
+     - Whether he succeeds or not is none of my business.
 ---
 ## 5. Cultural Notes
 ### Cultural Relevance
-In Korean culture, expressing indifference can sometimes carry a weight of formality or casualness depending on context. Using expressions like **~하든지 말든지** can show a relaxed stance on the situation, which is often appreciated in a communication setting, especially among friends.
-### Levels of Politeness
-When using this expression, remember that the politeness level of verbs preceding **~하든지 말든지** affects the overall tone. Using a formal verb form indicates respect; using an informal one shows familiarity.
+- **Indirect Communication**: Korean language often uses indirect expressions. Using **~하든지 말든지** allows speakers to express indifference without being overtly confrontational.
+- **Politeness Levels**: While the structure itself doesn't change, the overall sentence should match the appropriate politeness level based on the context and the listener.
 ### Idiomatic Expressions
-While **~하든지 말든지** is not a set idiom, it is commonly used to express various levels of nonchalance concerning decisions, relatable in various day-to-day situations.
+- **알 바 아니다**: An idiom meaning "it's none of my business," often used with **~하든지 말든지** to emphasize indifference.
 ---
 ## 6. Common Mistakes and Tips
 ### Error Analysis
-- **Confusing with Other Forms**: Learners often mix up **~하든지 말든지** with just **하다** or **~거나**, losing the intended indifference.
-- **Verb Inflection**: Incorrectly inflecting the main verb before هو~~든지** can lead to grammatical errors.
+1. **Attaching to Adjectives**: This grammar point is typically used with verbs, not adjectives.
+   - Incorrect: *예쁘든지 말든지 신경 안 써.*
+   - Corrected: *그 사람이 예쁘든 못생기든 신경 안 써.*
+   
+2. **Politeness Mismatch**: Using casual forms in formal situations.
+   - Incorrect: *고객이 오든지 말든지 기다리지 말자.*
+   - Corrected: *고객님이 오시든지 말든지 기다리지 맙시다.*
 ### Learning Strategies
-- **Mnemonic Device**: Remember **하** (do) and **말** (not do) as a clear distinction for expressing the choice of action involved.
-- **Contextual Practice**: Create situations or dialogues using the structure to familiarize with its natural use.
+- **Mnemonic Device**: Think of **"Do it or don't do it"** as a way to remember **~하든지 말든지**.
+- **Practice**: Create your own sentences by choosing different verbs to become comfortable with the structure.
 ---
 ## 7. Summary and Review
 ### Key Takeaways
-- **~하든지 말든지** expresses indifference towards an action being taken.
-- The structure requires a main verb in both affirmative and negated form.
-- Context and tone of speech greatly influence the impact of the use of this grammar point.
+- **~하든지 말든지** is used to express "whether do or not" with a nuance of indifference.
+- Attach **~든지 말든지** directly to the verb stem.
+- Ensure the rest of the sentence matches the appropriate politeness level.
 ### Quick Recap Quiz
-1. What does **~하든지 말든지** mean?
-2. How is the structure formed?
-3. Can you give an example sentence using this grammar point that shows indifference?
+1. How do you form **~하든지 말든지** with the verb **보다** (to see)?
+   - **Answer**: 보든지 말든지
+2. Translate the following sentence:
+   - *비싸든지 말든지 살 거예요.*
+   - **Answer**: Whether it's expensive or not, I'll buy it.
+3. Is **~하든지 말든지** used with adjectives?
+   - **Answer**: No, it's typically used with verbs.
 ---
+Feel free to create your own sentences using **~하든지 말든지** to enhance your understanding!
+
+---
+© [Hanabira.org](https://hanabira.org)

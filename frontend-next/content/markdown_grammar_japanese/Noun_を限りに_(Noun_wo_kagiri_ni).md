@@ -1,77 +1,113 @@
 Processing keyword: Noun を限りに (Noun wo kagiri ni)
 # Japanese Grammar Point: Noun を限りに (Noun wo kagiri ni)
-# Noun を限りに (Noun wo kagiri ni)
-## Introduction
-The phrase **Noun を限りに (Noun wo kagiri ni)** is a Japanese grammatical structure used to denote a limit or boundary regarding time, quantity, or scope. It can be translated to "as far as," "to the limit of," or "until" in English, depending on the context.
+
+## 1. Introduction
+The grammar point **Noun を限りに (Noun wo kagiri ni)** is used to indicate the final point or the last occurrence of something. It is often translated as "as of...", "starting from...", or "ending with..." in English. This expression is commonly used to announce the end of an event, service, or behavior.
+
 ---
-## Core Grammar Explanation
-### Detailed Explanation
-- **Structure**: 
-  - **Noun + を限りに**
-  
-This phrase indicates that something will happen only up to the point of the specified noun. The context often conveys a sense of finality or limitation.
-#### Meaning
-- **限り (kagiri)** means "limit" or "boundary."
-- When combined with **を** (the accusative particle), it transforms the noun into the subject that imposes the limit.
+## 2. Core Grammar Explanation
+### Meaning
+- **As of Noun**
+- **Starting from Noun**
+- **Ending with Noun**
+The phrase **を限りに (wo kagiri ni)** expresses the idea that something will end or change from a specific point in time or event onward.
+### Structure
+```
+Noun + を限りに
+```
+- **Noun**: Typically a time-related noun such as 今日 (today), 今回 (this time), 今月 (this month), etc.
 ### Formation Diagram
-Here is a basic structure:
-```
-[ Noun ] + を限りに → [ Limitation/Boundary ]
-```
-**Example**: 
-- 学校を限りに (gakkou wo kagiri ni) – "As far as the school (is concerned)"
-  
+| Component            | Role                            |
+|----------------------|---------------------------------|
+| Noun (time/event)    | Indicates the limit or endpoint |
+| を                    | Object marker particle          |
+| 限りに                | "Kagiri ni" meaning "to limit"   |
 ---
-## Comparative Analysis
-### Comparison with Similar Grammar Points
-1. **Noun まで (Noun made)**:
-   - **を限りに** indicates a limit concerning actions or conditions, while **まで** often implies reaching a destination or time.
-   - **Example**: 5時まで働く (go-ji made hataraku) – "I will work until 5 o'clock."
-   
-2. **Noun をもって (Noun wo motte)**:
-   - Both indicate a kind of boundary; **をもって** tends to convey more formal or contractual situations, while **を限りに** focuses on limitations.
-   - **Example**: この日をもって退職します (kono hi wo motte taishoku shimasu) – "I will resign as of this day."
+## 3. Comparative Analysis
+### Similar Grammar Points
+1. **Noun をもって (Noun wo motte)**
+   - Also means "as of..." or "starting from..."
+   - Slightly more formal and often used in official announcements.
+   - **Example**: 本日をもって退職します。  
+     *I will resign as of today.*
+2. **Noun 以来 (Noun irai)**
+   - Means "since..." or "ever since..."
+   - Refers to a starting point in the past continuing to the present.
+   - **Example**: 卒業以来、彼に会っていない。  
+     *I haven't seen him since graduation.*
+**Differences:**
+- **を限りに** emphasizes a clear endpoint or final occurrence.
+- **をもって** is more formal and used in official contexts.
+- **以来** focuses on duration from a starting point to now.
 ---
-## Examples in Context 
-### Sentence Examples
-1. **Formal Context**:
-   - 本日を限りに、営業を終了いたします。
-   - (Honjitsu wo kagiri ni, eigyou wo shuuryou itashimasu.)
-   - "As of today, we will conclude our operations."
-2. **Informal Context**:
-   - 今日を限りに、ダイエットをやめるよ。
-   - (Kyou wo kagiri ni, daietto wo yameru yo.)
-   - "I’m stopping my diet as of today."
-3. **Written Context**:
-   - 最後の試験を限りに、全ての授業が終了します。
-   - (Saigo no shiken wo kagiri ni, subete no jugyou ga shuuryou shimasu.)
-   - "All classes will end after the final exam."
-4. **Spoken Context**:
-   - 明日を限りに、旅行に行ってきます。
-   - (Ashita wo kagiri ni, ryokou ni ittekimasu.)
-   - "I’ll be going on a trip starting tomorrow."
+## 4. Examples in Context
+### Example Sentences
+1. **今日を限りに甘いものをやめます。**  
+   *I will stop eating sweets as of today.*
+2. **今月を限りにこのサービスは終了します。**  
+   *This service will end at the end of this month.*
+3. **今回を限りに彼とは会わない。**  
+   *I won't meet him after this time.*
+4. **この試合を限りに引退します。**  
+   *I will retire after this match.*
+5. **学校を限りに彼女は海外に行くそうだ。**  
+   *It seems she will go abroad after finishing school.*
+### Context Variations
+- **Formal Written Context:**  
+  **弊社は3月31日を限りに閉店いたします。**  
+  *Our company will close down as of March 31st.*
+- **Casual Spoken Context:**  
+  **今日を限りに早起きするぞ！**  
+  *Starting today, I'm going to wake up early!*
 ---
-## Cultural Notes
+## 5. Cultural Notes
 ### Cultural Relevance
-The use of **を限りに** reflects Japanese social norms concerning closure and finality. It is often used in announcements, resignations, or ceremonies to mark definitive endpoints. There is a level of formality associated with this expression, making it suitable for both written and spoken contexts, particularly in professional settings.
+In Japanese culture, making formal announcements about endings or changes is common in professional and social settings. Using **を限りに** conveys a decisive action, reflecting commitment and resolve.
+### Levels of Politeness
+The expression **を限りに** is neutral in politeness but can be adjusted with honorifics or polite forms depending on the context.
 ### Idiomatic Expressions
-- 最後の晩餐を限りに (saigo no bansan wo kagiri ni) – "As a final supper." This phrase can be used figuratively to denote the last time one will enjoy a certain privilege or activity.
+- **声を限りに**  
+  Means "at the top of one's lungs" or "as loud as possible."
+  **Example:**  
+  **声を限りに叫んだ。**  
+  *I shouted at the top of my lungs.*
 ---
-## Common Mistakes and Tips
-### Error Analysis
-- **Common Mistake**: Incorrectly using stylish or emotional expressions with **を限りに**.
-  - **Incorrect**: 私の心を限りに、あなたを愛しています。(Watashi no kokoro wo kagiri ni, anata wo aishiteimasu) – "I love you as for my heart."
-  - **Correct**: It’s more suitable to use simple facts or actions with **を限りに**.
-### Learning Strategies 
-- **Mnemonics**: Remember **限り (kagiri)** as “the limit” in each context to reinforce the finality of the phrase.
-  
+## 6. Common Mistakes and Tips
+### Common Mistakes
+1. **Using it with verbs directly**
+   Incorrect: **食べるを限りに**  
+   Correct: **今日を限りに食べるのをやめます。**
+2. **Confusing with **までに (made ni)**
+   **までに** means "by" a certain time, not necessarily ending something.
+   **Example:**  
+   **明日までにレポートを提出してください。**  
+   *Please submit the report by tomorrow.*
+### Tips
+- **Remember** that **を限りに** is used with nouns, especially time-related nouns.
+- **Use it** when making a strong resolution or announcing an end.
+- **Mnemonic Device:** Think of "限り (kagiri)" as "limit" — you're setting a limit at the noun specified.
 ---
-## Summary and Review
+## 7. Summary and Review
 ### Key Takeaways
-- **Noun を限りに** expresses limitations regarding actions or time, marking the point at which something ends or is limited.
-- It has a formal tone, making it appropriate for business, announcements, and ending statements.
-- Be cautious not to mix it up with similar constructs like **まで** and **をもって**.
+- **Noun を限りに** is used to express ending something as of a certain point.
+- It is constructed by attaching **を限りに** to a time-related noun.
+- It conveys determination and finality.
 ### Quick Recap Quiz
-1. What does **を限りに** generally express?
-2. Compare **を限りに** and **まで** in terms of their use.
-3. Provide an example sentence using **Noun を限りに** in a future context.
+1. What is the meaning of **今日を限りに**?
+   - a) Until today
+   - b) Starting today
+   - c) As of today (ending today)
+2. Choose the correct usage of **を限りに**:
+   - a) **走るを限りに**
+   - b) **昨日を限りに**
+   - c) **美味しいを限りに**
+3. Translate the sentence:  
+   **彼は今回を限りにチームを辞める。**
+### Answers
+1. c) As of today (ending today)
+2. b) **昨日を限りに**
+3. *He will quit the team after this time.*
+
+---
+
+© [Hanabira.org](https://hanabira.org)

@@ -1,68 +1,119 @@
 Processing keyword: Verb + 続ける (つづける, tsuzukeru)
 # Japanese Grammar Point: Verb + 続ける (つづける, tsuzukeru)
-# Verb + 続ける (つづける, tsuzukeru)
+
 ## 1. Introduction
-The construction of Verb + 続ける (tsuzukeru) is an important aspect of Japanese grammar that expresses the idea of continuing or persisting in an action. Understanding this structure enables learners to convey the duration or ongoing nature of their actions more effectively.
+In this lesson, we'll explore the Japanese grammar pattern **Verb + 続ける (つづける, tsuzukeru)**. This structure is commonly used to express the continuation of an action, similar to "to continue doing" or "to keep doing" something in English. Mastering this grammar point will enhance your ability to describe ongoing actions and habits in Japanese.
+
+---
 ## 2. Core Grammar Explanation
-### Detailed Explanation
-The verb 続ける (つづける, tsuzukeru) means “to continue” or “to keep doing.” When attached to the stem form of a verb, it indicates that the action of that verb is still ongoing or has been sustained. 
-#### Structure
-- **Basic Structure**: Verb Stem + 続ける
-- **Formation**: 
-  - To form the stem of the verb, remove the ます (masu) ending from the polite form of the verb.
-#### Visual Aid: Formation Diagram
-| Verb Type | Verb (Polite form) | Verb Stem | Example with 続ける |
-|-----------|---------------------|-----------|---------------------|
-| Group 1   | 食べます (tabemasu) | 食べ (tabe)   | 食べ続ける (tabetsuzukeru) - to continue eating |
-| Group 2   | 見ます (mimasu)     | 見 (mi)      | 見続ける (mitsuzukeru) - to continue watching |
-| Irregular  | します (shimasu)   | し (shi)     | し続ける (shitsuzukeru) - to continue doing |
-| Irregular  | 来ます (kimasu)    | 来 (ki)      | 来続ける (kaitsuzukeru) - to continue coming |
 ### Meaning
-- The action of the verb is persistently undertaken.
-- It emphasizes ongoing nature rather than completion.
+The structure **Verb + 続ける** is used to indicate that an action is being continued or repeated over a period of time. It emphasizes the persistence or ongoing nature of the action.
+- **English Equivalent**: "to continue doing ~", "to keep on ~ing"
+### Structure
+To form this pattern, attach **続ける** to the **ます-stem** of a verb.
+- **Formation**:
+  ```
+  [Verb (ます-stem)] + 続ける
+  ```
+### Formation Diagram
+Let's break down the formation step by step:
+1. **Start with the Dictionary Form of the Verb**  
+   Example: **書く** (かく) - to write
+2. **Convert to the ます-stem**  
+   Remove **〜ます** from the polite form (ます-form).  
+   - Polite Form: **書きます** (かきます)  
+   - ます-stem: **書き** (かき)
+3. **Add 続ける**  
+   - **書き** + **続ける** = **書き続ける** (かきつづける) - to continue writing
+### Visual Aid
+| Step                      | Japanese          | Explanation                      |
+|---------------------------|-------------------|----------------------------------|
+| Dictionary Form           | 食べる (たべる)   | "to eat"                         |
+| Convert to ます-stem       | 食べ (たべ)       | Remove 〜ます from 食べ**ます**     |
+| Add 続ける                 | 食べ続ける (たべつづける) | "to continue eating"             |
+---
 ## 3. Comparative Analysis
-### Comparison with Other Structures:
-- **Verb + 終わる (owaru)**: Indicates completion of an action (e.g., 食べ終わる - to finish eating).
-- **Verb + ている (te iru)**: Indicates a state of being (e.g., 食べている - to be eating), while Verb + 続ける emphasizes the continuation of that action.
+### Similar Grammar Points
+1. **Verb + 始める (はじめる)**: Indicates the **start** of an action.
+   - **Example**: 読み始める (よみはじめる) - to start reading
+2. **Verb + 終わる (おわる)**: Indicates the **completion** of an action.
+   - **Example**: 書き終わる (かきおわる) - to finish writing
+### Differences
+- **続ける** focuses on the **continuation** of an action over time.
+- **始める** and **終わる** signal the **beginning** or **end** of an action, respectively.
+---
 ## 4. Examples in Context
 ### Sentence Examples
-1. **Formal**: 
-   - 毎日運動を続けています。  
-     (Mai nichi undou o tsuzukete imasu.)  
-     *I continue to exercise every day.*
-2. **Informal**: 
-   - 彼は勉強を続けているよ。  
-     (Kare wa benkyou o tsuzukete iru yo.)  
-     *He is continuing to study.*
-3. **Written**: 
-   - このプロジェクトを来週も続けるつもりです。  
-     (Kono purojekuto o raishuu mo tsuzukeru tsumori desu.)  
-     *I plan to continue this project next week as well.*
-4. **Spoken**: 
-   - これを続けるのは難しいと思う。  
-     (Kore o tsuzukeru no wa muzukashii to omou.)  
-     *I think it's difficult to continue this.*
+1. **彼は毎日ジムで運動し続けています。**  
+   *Kare wa mainichi jimu de undou shi tsudzukete imasu.*  
+   *He continues to exercise at the gym every day.*
+2. **私は日本語を勉強し続けるつもりです。**  
+   *Watashi wa Nihongo o benkyou shi tsudzukeru tsumori desu.*  
+   *I intend to keep studying Japanese.*
+3. **雨が降り続けている。**  
+   *Ame ga furi tsudzukete iru.*  
+   *It keeps raining.*
+4. **彼女は笑い続けた。**  
+   *Kanojo wa warai tsudzuketa.*  
+   *She kept on laughing.*
+5. **この問題について考え続けなければなりません。**  
+   *Kono mondai ni tsuite kangae tsudzukenakereba narimasen.*  
+   *We must continue thinking about this problem.*
+### Context Variations
+- **Formal Speech**:  
+  **研究を続けます。**  
+  *Kenkyū o tsudzukemasu.*  
+  *I will continue the research.*
+- **Casual Conversation**:  
+  **ゲームをやり続けよう！**  
+  *Gēmu o yari tsudzukeyou!*  
+  *Let's keep playing the game!*
+---
 ## 5. Cultural Notes
 ### Cultural Relevance
-The use of 続ける conveys persistence, a value esteemed in Japanese culture, reflecting the importance placed on perseverance and dedication in various aspects of life, including work or personal endeavors.
+In Japanese culture, perseverance and continuous effort are highly valued traits. The concept of **継続は力なり (Keizoku wa chikara nari)**, meaning "Continuity is the father of success," reflects the importance of persistence. Using **続ける** conveys dedication and commitment, aligning with these cultural values.
 ### Idiomatic Expressions
-- **がんばり続ける (ganbari tsuzukeru)**: to keep doing one’s best 
-- **努力を続ける (doryoku o tsuzukeru)**: to continue making efforts
+- **頑張り続ける (がんばりつづける)**: To keep doing one's best.
+- **生き続ける (いきつづける)**: To continue living.
+- **走り続ける (はしりつづける)**: To keep running.
+---
 ## 6. Common Mistakes and Tips
 ### Error Analysis
-- **Omitting the verb stem**: Many learners mistakenly use the polite form of the verb instead of the stem.
-  - Incorrect: 食べます続ける (tabemasu tsuzukeru)
-  - Correct: 食べ続ける (tabetsuzukeru)
+1. **Using the Dictionary Form Instead of the ます-stem**
+   - **Incorrect**: 食べる続ける (たべるつづける)
+   - **Correct**: 食べ続ける (たべつづける)
+2. **Attaching 続ける Directly to Nouns**
+   - **Incorrect**: 勉強続ける (べんきょうつづける)
+   - **Correct**: 勉強し続ける (べんきょうしつづける)
 ### Learning Strategies
-- Remember that 続ける expresses a 'continuation.' A helpful mnemonic could be to visualize a train that keeps on running without stopping.
+- **Remember the ます-stem**: Always convert the verb to its ます-stem before adding **続ける**.
+- **Verb Type Practice**: Practice with different verb groups to become comfortable with forming the ます-stem.
+  - **Group 1 Verbs**: Remove the **〜ます** ending.
+  - **Group 2 Verbs**: Remove **る** and add **〜ます** to find the stem.
+---
 ## 7. Summary and Review
 ### Key Takeaways
-- Verb + 続ける conveys the idea of ongoing action.
-- It is formed by using the verb stem plus 続ける and emphasizes continuity.
-- Compare it with similar structures to grasp the nuances of each one.
+- **Verb + 続ける** is used to express the continuation of an action.
+- Attach **続ける** to the **ます-stem** of verbs.
+- It's a versatile pattern applicable in formal and casual contexts.
+- Aligns with cultural values emphasizing perseverance.
 ### Quick Recap Quiz
-1. What is the stem form of 食べます (tabemasu)?
-2. How do you say "to continue studying" in Japanese?
-3. True or False: 続ける expresses the completion of an action.
----  
-This format offers a comprehensive understanding of the grammar point Verb + 続ける (つづける), ensuring clarity and facilitating learning for English-speaking students.
+1. **How do you form the "Verb + 続ける" structure?**
+2. **Translate to Japanese using 続ける**: "She keeps studying every night."
+3. **Identify and correct the mistake**:  
+   **彼は走る続けています。**
+### Answers
+1. **Form by attaching 続ける to the ます-stem of the verb**:  
+   `[Verb (ます-stem)] + 続ける`
+2. **彼女は毎晩勉強し続けます。**  
+   *Kanojo wa maiban benkyou shi tsudzukemasu.*
+3. **Incorrect**: 彼は**走る続けています**。  
+   **Correct**: 彼は**走り続けています**。  
+   *Kare wa hashiri tsudzukete imasu.*
+---
+By understanding and practicing this grammar point, you'll be able to express ongoing actions effectively, adding depth to your Japanese communication skills. Keep practicing and **学び続けましょう** (manabi tsudzukemashou) — let's continue learning!
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

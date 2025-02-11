@@ -1,86 +1,113 @@
 Processing keyword: ~할 것이다 [hal geosida] (Will)
 # Korean Grammar Point: ~할 것이다 [hal geosida] (Will)
-# TOPIK Grammar Point: ~할 것이다 [hal geosida] (Will)
-## Introduction
-The grammar point ~할 것이다 (hal geosida) is used to express future intentions or predictions in Korean. It is equivalent to the English "will" or "going to," making it an essential part of expressing future actions or plans.
+
+## 1. Introduction
+Expressing future actions is essential in any language. In Korean, one common way to indicate the future tense is by using **~할 것이다** [hal geosida], which translates to **"will"** in English. This grammar point is fundamental for conveying intentions, plans, or predictions.
+
 ---
-## Core Grammar Explanation
-### Detailed Explanation
-The structure of ~할 것이다 can be broken down as follows:
-1. **Base Verb Form**: Take the verb stem.
-2. **Future Tense Marker**: Add '할' (hal) to indicate intention or future action.
-3. **Ending**: Attach '것이다' (geosida) to complete the structure.
-### Meaning, Structure, and Formation
-- **Meaning**: Indicates a future action, intention, or prediction.
-- **Structure**:
-  - Verb stem + 할 것이다
-  - e.g., 가다 (gada, to go) → 갈 것이다 (gal geosida, will go)
-#### Visual Representation
-| Verb Stem | Future Tense Marker | Ending     | Complete Form      |
-|-----------|---------------------|------------|---------------------|
-| 가 (go)   | 갈 (will go)        | 것이다     | 갈 것이다 (will go)   |
-| 먹 (eat)  | 먹을 (will eat)     | 것이다     | 먹을 것이다 (will eat) |
-| 하 (do)   | 할 (will do)        | 것이다     | 할 것이다 (will do)    |
+## 2. Core Grammar Explanation
+### Meaning
+**~할 것이다** is used to express an action that **will happen in the future**. It indicates:
+- **Intentions**: What someone plans to do.
+- **Predictions**: What someone expects to happen.
+### Structure
+The construction combines a **verb stem** with a **future tense marker** and **것이다**.
+#### Formation:
+1. **Verb Stem + -(으)ㄹ + 것이다**
+   - **If the verb stem ends in a vowel**: Add **-ㄹ 것이다**
+   - **If the verb stem ends in a consonant**: Add **-을 것이다**
+#### Formation Diagram:
+| Verb Stem (Dictionary Form) | Ends With | Future Marker   | Combined Form      |
+|-----------------------------|-----------|-----------------|--------------------|
+| 가다 (to go)                | Vowel     | -ㄹ 것이다      | 갈 것이다           |
+| 먹다 (to eat)               | Consonant | -을 것이다      | 먹을 것이다         |
+| 읽다 (to read)              | Consonant | -을 것이다      | 읽을 것이다         |
+| 보다 (to see)               | Vowel     | -ㄹ 것이다      | 볼 것이다           |
 ---
-## Comparative Analysis
+## 3. Comparative Analysis
 ### Comparison with Similar Grammar Points
-1. **~겠하다 [getda]**:
-   - **Meaning**: Used for intentions or promises but often implies a stronger commitment than ~할 것이다.
-   - **Example**: 가겠다 (I will go; I am determined to go).
-2. **~려고 하다 [ryeogo hada]**:
-   - **Meaning**: Indicates intention or aim to do something, often before the action is about to happen.
-   - **Example**: 가려고 하다 (I am planning to go).
-### Differences:
-- **Formality**: ~할 것이다 is more formal than ~겠다 but less immediate than ~려고 하다.
-- **Certainty**: ~겠다 has a stronger connotation of making a decision, while ~할 것이다 is more predictive.
+1. **~겠다**:
+   - **Usage**: Expresses intention, spontaneous decision, or assumption.
+   - **Example**: 제가 도와드리겠습니다. (*I will help you.*)
+   - **Nuance**: More formal and immediate.
+2. **~하려고 하다**:
+   - **Usage**: Indicates an attempt or plan to do something.
+   - **Example**: 내일 공부하려고 해요. (*I plan to study tomorrow.*)
+   - **Nuance**: Focuses on the plan rather than the action itself.
+**Differences**:
+- **~할 것이다** emphasizes a **future action or event** that is expected to happen.
+- **~겠다** often conveys **immediate intention or willingness**.
+- **~하려고 하다** highlights the **intention or attempt** to do something.
 ---
-## Examples in Context
-### Sentence Examples
-1. **Formal**: 
-   - 내일 회의에 참석할 것이다.  
-   (Na-il hoe-ui-e chamseokhal geosida.)  
-   (I will attend the meeting tomorrow.)
-2. **Informal**: 
-   - 우리 집에 갈 거야.  
-   (Uri jib-e gal geoya.)  
-   (I will go to my house.)
-3. **Written**: 
-   - 그는 이 연구가 중요한 결과를 낳을 것이라고 믿고 있다.  
-   (Geun-eun i yeongu-ga jungyohan gyeolgwa-reul nah-eul geosirago midgo itda.)  
-   (He believes that this research will yield significant results.)
-4. **Spoken**: 
-   - 주말에 축구할 예정이다.  
-   (Jumal-e chukguhal yejeongida.)  
-   (I will play soccer on the weekend.)
+## 4. Examples in Context
+### Formal (존댓말)
+1. **저는 내년에 한국에 갈 것입니다.**
+   - *I will go to Korea next year.*
+2. **회의는 오후 3시에 시작할 것입니다.**
+   - *The meeting will start at 3 PM.*
+### Informal Polite (해요체)
+1. **비가 올 거예요.**
+   - *It will rain.*
+2. **친구를 만날 거예요.**
+   - *I will meet a friend.*
+### Informal Casual (반말)
+1. **나 중학교에 입학할 거야.**
+   - *I will enter middle school.*
+2. **주말에 영화 볼 거야.**
+   - *I will watch a movie on the weekend.*
+### Written Context
+1. **이 제품은 곧 출시될 것입니다.**
+   - *This product will be launched soon.*
+2. **다음 주에 결과를 발표할 것입니다.**
+   - *We will announce the results next week.*
+### Spoken Context
+1. **그는 곧 올 거예요.**
+   - *He will come soon.*
+2. **시험이 어려울 거야.**
+   - *The exam will be difficult.*
 ---
-## Cultural Notes
-### Cultural Relevance
-In Korean culture, expressing intentions regarding future actions is often tied to respect and formality. Using ~할 것이다 is appropriate in formal contexts, such as business or when speaking with elders, showing politeness and consideration.
-### Levels of Politeness
-Korean language distinguishes levels of politeness. You would use ~할 것이다 in respectful or formal speech:
-- **Formal**: 잘 하겠습니다. (I will do well.)
-- **Informal**: 잘 할 거야. (I will do well.)
+## 5. Cultural Notes
+### Levels of Politeness and Formality
+Korean language emphasizes respect and hierarchy through speech levels. The ending of **~할 것이다** changes based on the level of politeness:
+- **Formal Polite**: **~할 것입니다**
+  - Used in formal settings, business, presentations.
+- **Informal Polite**: **~할 거예요**
+  - Common in everyday conversation among peers.
+- **Casual**: **~할 거야**
+  - Used among close friends or to someone younger.
 ### Idiomatic Expressions
-- **기회가 된다면~ 할 것이다**: If the opportunity arises, I will...  
-  Example: 기회가 된다면, 다음 해에 유럽에 갈 것이다. (If the opportunity arises, I will go to Europe next year.)
+- **꿈은 이루어질 것이다.**
+  - *Dreams will come true.*
+- **시간이 해결해 줄 것이다.**
+  - *Time will solve it.*
 ---
-## Common Mistakes and Tips
+## 6. Common Mistakes and Tips
 ### Error Analysis
-- **Mistake**: Confusing the meaning with ~겠어요/겠습니다 (geosseoyo/geotseumnida), which are promises or commitments.
-- **Correction**: Remember to use ~할 것이다 for simple predictions or plans without strong dedication.
+1. **Using the Wrong Future Marker**
+   - **Mistake**: 가다 → **가을 것이다** ✗
+   - **Correction**: 가다 → **갈 것이다** ✓
+2. **Forgetting Politeness Levels**
+   - **Mistake**: Formal setting but saying **할 거야** ✗
+   - **Correction**: Use **할 것입니다** in formal contexts.
 ### Learning Strategies
-- **Mnemonic Device**: Remember that "것이다" sounds like "going" when you think of future actions. So: "할 것이다" = "I’m going to…"
+- **Mnemonic Device**: Think of **것이다** as "thing is" — so **할 것이다** literally means "will do is" leading to "will do".
+- **Practice Politeness Levels**: Create sentences with different endings to get comfortable with switching formality.
 ---
-## Summary and Review
+## 7. Summary and Review
 ### Key Takeaways
-- ~할 것이다 is used to express future intentions or predictions.
-- It is formed by adding '할' to the verb stem and '것이다' as an ending.
-- More formal than ~겠다 but less immediate than ~려고 하다.
+- **~할 것이다** is used to express future actions or events.
+- Attach **-ㄹ 것이다** to vowel-ending verb stems, **-을 것이다** to consonant-ending verb stems.
+- Adjust endings (**-거야**, **-거예요**, **-것입니다**) based on politeness levels.
 ### Quick Recap Quiz
-1. How do you express "I will eat" in Korean using ~할 것이다?
-   - (Answer: 먹을 것이다 / Meogeul geosida)
-2. What is the difference between ~할 것이다 and ~겠다?
-   - (Answer: ~할 것이다 expresses a prediction or plan, while ~겠다 expresses a stronger commitment or determination.)
-3. In what context would you prefer to use ~할 것이다?
-   - (Answer: In formal settings, such as business or when speaking to elders.)
+1. **Convert to future tense using ~할 것이다**: 마시다 (to drink)
+   - **Answer**: **마실 것이다**
+2. **Is the following sentence formal or informal?**
+   - **우리는 다음 주에 만날 거예요.**
+   - **Answer**: Informal Polite
+3. **True or False**: **~할 것이다** and **~하려고 하다** have the same meaning.
+   - **Answer**: **False** (They both refer to future actions but have different nuances.)
 ---
+Feel free to practice by creating your own sentences using **~할 것이다** and experiment with different verbs and politeness levels!
+
+---
+© [Hanabira.org](https://hanabira.org)

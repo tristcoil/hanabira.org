@@ -1,86 +1,104 @@
 Processing keyword: Verb てもらいたい (～te moraitai)
 # Japanese Grammar Point: Verb てもらいたい (～te moraitai)
-# Grammar Point: Verb てもらいたい (～te moraitai)
+
 ## 1. Introduction
-The phrase てもらいたい (te moraitai) is used when you want to express a desire for someone to do something for you. It is a polite way to ask for a favor or to indicate that you would like assistance from others.
+The expression **〜てもらいたい** is a Japanese grammar construct used to express the speaker's desire to have someone do something for them. It conveys a sense of requesting a favor or expressing a wish for someone else's action that benefits the speaker. It's often translated as "I want (someone) to do (something)" in English.
+
+---
 ## 2. Core Grammar Explanation
 ### Detailed Explanation
-**Meaning**: "I want [someone] to [verb]."
-**Structure**: 
-- The structure involves taking the verb in its *te-form* and adding もらいたい (moraitai).
-- The verb must be in the *te-form* to join with もらいたい.
-### Structure Breakdown
-1. **Te-form of the Verb**: 
-   - To form the *te-form*, you need to know whether the verb is a regular verb (Group 1, 2) or an irregular verb (Group 3).
-   - Example:
-     - 食べる (taberu – to eat) → 食べて (tabete)
-     - 行く (iku – to go) → 行って (itte)
-     - する (suru – to do) → して (shite)
-2. **Adding もらいたい (moraitai)**: 
-   - もらう (morau) means "to receive." 
-   - Adding たい (tai) indicates a desire for it.
-   - Thus, もらいたい (moraitai) means "to want to receive."
-### Formation Diagram
+**Meaning**:  
+"I want to receive the favor of someone doing..."
+**Usage**:  
+Used when the speaker desires that someone performs an action that benefits the speaker. It emphasizes the speaker's wish to receive the action.
+### Structure
+**Formation**:
+1. **Verb in て-form** + **もらいたい**
+   | Verb Dictionary Form | Verb て-form | + もらいたい | Example Sentence                    |
+   |----------------------|--------------|-------------|--------------------------------------|
+   | 書く (kaku)          | 書いて       | もらいたい   | 手紙を書いてもらいたい。             |
+   | 手伝う (tetsudau)    | 手伝って     | もらいたい   | 引っ越しを手伝ってもらいたい。       |
+   | 説明する (setsumei suru)| 説明して     | もらいたい   | 手順を説明してもらいたい。           |
+### Visual Aid
+```mermaid
+graph LR
+A(Verb in て-form) --> B[もらいたい]
+B --> C〔〜てもらいたい〕
 ```
-   +-----------------------------+
-   | Verb (ます form) → て-form |
-   +-----------------------------+
-               |
-               v
-     +---------------------+
-     | てもらいたい (te moraitai) |
-     +---------------------+
-```
+---
 ## 3. Comparative Analysis
-### Comparison with てくれる (te kureru)
-- **てもらう (te morau)** indicates that you are the one receiving a favor. 
-- **てくれる (te kureru)** indicates that someone is doing a favor for you. 
-**Example**:
-- 友達に手伝ってもらいたい。 
-  (Tomodachi ni tetsudatte moraitai.)
-  → I want my friend to help me.
-  
-- 友達が手伝ってくれる。 
-  (Tomodachi ga tetsudatte kureru.)
-  → My friend will help me.
+### Comparison with 〜てほしい
+- **〜てほしい** also means "I want someone to do..." but is more direct.
+- **〜てもらいたい** emphasizes the speaker's desire to **receive** the action as a favor.
+| Expression        | Nuance                     | Example                                |
+|-------------------|----------------------------|----------------------------------------|
+| 〜てほしい        | Direct request or desire   | 早く返事してほしい。 (I want you to reply quickly.) |
+| 〜てもらいたい    | Polite, requesting a favor | 早く返事してもらいたい。 (I would like you to reply quickly.) |
+---
 ## 4. Examples in Context
 ### Sentence Examples
-1. **Formal**: 
-   - お願いがあるんですが、レポートを手伝ってもらいたいです。 
-   (Onegai ga arun desu ga, repōto o tetsudatte moraitai desu.)
-   → I have a request; I would like you to help me with my report.
-2. **Informal**: 
-   - 明日、運転してもらいたい。 
-   (Ashita, untenshite moraitai.)
-   → I want you to drive me tomorrow.
-3. **Spoken**:
-   - 友達にこの仕事をやってもらいたいな。 
-   (Tomodachi ni kono shigoto o yatte moraitaina.)
-   → I want my friend to do this job for me.
-4. **Written**:
-   - ぜひこの件について教えてもらいたい。 
-   (Zehi kono ken ni tsuite oshiete moraitai.)
-   → I would like you to teach me about this matter.
+#### Casual Speech
+1. **友達に写真を送ってもらいたい。**  
+   *I want my friend to send me the photos.*
+2. **母に新しい服を買ってもらいたい。**  
+   *I want my mother to buy me new clothes.*
+#### Polite Speech
+3. **先生にこの文をチェックしてもらいたいです。**  
+   *I would like the teacher to check this sentence.*
+4. **すみません、駅への行き方を教えてもらいたいのですが。**  
+   *Excuse me, I would like you to tell me how to get to the station.*
+#### Formal Writing
+5. **お手数ですが、ご意見を伺ってもらいたく存じます。**  
+   *I apologize for the trouble, but I would like to ask for your opinion.*
+6. **このプロジェクトについて社長に説明してもらいたいと思います。**  
+   *I think I would like the president to explain about this project.*
+---
 ## 5. Cultural Notes
-### Politeness and Formality
-- The construction of てもらいたい is inherently polite. It shows respect to the person you are asking for a favor.
-- Depending on the context, you might want to soften the request further by using ていただきたい (te itadakitai) for even more formal situations, especially in business settings.
+### Cultural Relevance
+- **Politeness and Indirectness**: Japanese communication often values indirectness to maintain harmony. Using **〜てもらいたい** softens the request, making it more polite.
+- **Expressing Desire Carefully**: Instead of commanding, this form expresses a wish, acknowledging the other person's autonomy.
 ### Idiomatic Expressions
-- どうぞよろしくお願いします。 (Dōzo yoroshiku onegaishimasu.)
-  → This is a common phrase used at the end of requests or when introducing oneself, showing that you seek cooperation.
+- **一筆入れてもらいたい**  
+  *I would like you to put it in writing.*
+- **顔を出してもらいたい**  
+  *I would like you to show up (make an appearance).*
+---
 ## 6. Common Mistakes and Tips
 ### Error Analysis
-- Confusing てくれる and てもらう is a common mistake. Remember, てもらう is about wanting a favor, while てくれる is about someone doing a favor for you.
-  
+1. **Incorrect Verb Form**
+   - Incorrect: **旅行に行くもらいたい。**
+   - Correct: **旅行に行ってもらいたい。**
+   - *Explanation*: The verb must be in the **て-form** before adding **もらいたい**.
+2. **Using もらう Without て-form**
+   - Incorrect: **説明もらいたいです。**
+   - Correct: **説明してもらいたいです。**
+   - *Explanation*: Attach **もらいたい** to the **て-form** of **する** verbs as well.
 ### Learning Strategies
-- Mnemonic Device: Think of "もらう" as "to receive" and focus on the *te-form* as the action someone will be doing for you.
-  
+- **Mnemonic Device**:  
+  Remember that **もらいたい** comes from **もらう** (to receive). So, think of it as "I want to **receive** (someone's action)."
+- **Practice Conjugation**:  
+  Regularly practice converting verbs to their **て-form** to become comfortable with this and similar grammar patterns.
+---
 ## 7. Summary and Review
 ### Key Takeaways
-- てもらいたい (te moraitai) is used to express a desire for someone to do something for you.
-- Always use the *te-form* of the verb before もらいたい.
-- It is considered polite and appropriate in many contexts.
+- **〜てもらいたい** is used to express a desire for someone to do something for you.
+- The verb must be in **て-form** before adding **もらいたい**.
+- It conveys politeness and a request for a favor.
+- Different from **〜てほしい**, which is more direct.
 ### Quick Recap Quiz
-1. What does てもらいたい mean in English?
-2. How do you form the てもらいたい structure?
-3. Provide an example sentence using てもらいたい in a formal context.
+1. **Fill in the blank**:  
+   子供たちに野菜を食べて______。
+   - **Answer**: もらいたい
+2. **Translate to English**:  
+   彼に本当のことを話してもらいたい。
+   - **Answer**: *I want him to tell me the truth.*
+3. **True or False**:  
+   **〜てもらいたい** can be used to make direct commands.
+   - **Answer**: False (It is used to express desire politely, not direct commands.)
+---
+Remember, using **〜てもらいたい** helps you make polite requests and express desires in a way that is considerate of others, aligning with the cultural emphasis on harmony and respect in Japanese communication.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

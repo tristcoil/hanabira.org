@@ -1,77 +1,131 @@
 Processing keyword: Noun ごろ～ (Noun + goro～)
 # Japanese Grammar Point: Noun ごろ～ (Noun + goro～)
-# Grammar Point: ごろ (goro)
-## Introduction
-The Japanese grammar point ごろ (goro) is used to indicate an approximate time or a rough estimate regarding time periods. It can often be translated to "around," "about," or "approximately" in English.
-## Core Grammar Explanation
-### Detailed Explanation
-The structure of this grammar point is as follows:
-- **Structure**: 
-  - **Noun + ごろ**
-  
-  For example:
-  - **傘をさしているごろ (kasa o sashite iru goro)** - "around the time (when) I was using an umbrella."
-### Meaning and Formation Diagram
-- **Meaning**: Used to express that something happens or is expected to happen around a certain time—generally indicating a vague, not precise time frame.
-  
-- **Formation Diagram**: 
-| Noun        | ごろ (goro)       |
-|-------------|------------------|
-| 5時         | ごろ              |
-| 学校 (gakkou) | ごろ             |
-| 冬 (fuyu)    | ごろ              |
-### Visual Aids
-| Noun             | Example         | Translation                    |
-|------------------|-----------------|--------------------------------|
-| 3時               | 3時ごろ         | around 3 o’clock               |
-| 来週 (raishuu)   | 来週ごろ        | around next week               |
-| 夏 (natsu)       | 夏ごろ          | around summer                  |
-## Comparative Analysis
-### Similar Grammar Points
-- **ごろ (goro)** vs. **頃 (koro)**: While both can express approximate times, ごろ is often used in spoken Japanese whereas頃 is more commonly found in written texts.
-- **ぐらい (gurai)**: This can also mean "around" but can be used with both time and quantity, while ごろ specifically pertains to time.
-### Differences
-- ごろ specifies a point in time, while ぐらい can refer to amounts or degrees.
-- Both provide an estimation, but ごろ leans towards an event or time, making it more temporal in nature.
-## Examples in Context
+
+## 1. Introduction
+In this lesson, we'll explore the Japanese grammar point **「Noun + ごろ」**, which is used to express an approximate point in time. Mastering this grammar will help you communicate time-related information more naturally in Japanese.
+
+---
+## 2. Core Grammar Explanation
+### Meaning
+**「ごろ」** means **"around"** or **"about"** when referring to a specific point in time. It indicates that the time mentioned is approximate, not exact.
+### Structure
+**Formation:**
+```
+[Time Noun] + ごろ
+```
+- **Time Noun**: A noun representing a specific time (e.g., hours, days, months).
+- **ごろ**: Attached directly after the time noun to indicate approximation.
+### Formation Diagram
+```
+A[Time Noun] --> B[ごろ]
+```
+### Examples of Time Nouns
+
+| Time Noun (日本語)      | Time Noun (英語) |
+|------------------------|------------------|
+| 3時 (さんじ)           | 3 o'clock        |
+| 昼 (ひる)              | Noon             |
+| 金曜日 (きんようび)     | Friday           |
+| 5月 (ごがつ)           | May              |
+| お正月 (おしょうがつ)   | New Year's Day   |
+
+---
+## 3. Comparative Analysis
+### ごろ vs. ぐらい
+- **ごろ (goro)**: Used with specific points in time to indicate *approximate time*.
+- **ぐらい (gurai)**: Used with quantities or durations to indicate *approximate amount* or *length*.
+**Examples:**
+
+| 日本語                                 | 英語                                       |
+|---------------------------------------|--------------------------------------------|
+| 6時**ごろ**に起きます。                | I wake up around 6 o'clock.                |
+| 6時間**ぐらい**寝ました。              | I slept for about 6 hours.                 |
+| 週末**ごろ**に会いましょう。           | Let's meet around the weekend.             |
+| 週末**ぐらい**に旅行します。           | I'll travel for about a weekend.           |
+
+---
+## 4. Examples in Context
 ### Sentence Examples
-1. **友達は5時ごろ来ると言ってました。**
-   - **(Tomodachi wa go-ji goro kuru to itteta.)**
-   - "My friend said he would come around 5 o'clock."
-2. **夏休みは7月ごろです。**
-   - **(Natsuyasumi wa shichigatsu goro desu.)**
-   - "Summer vacation is around July."
-3. **彼は午後3時ごろに仕事を終えます。**
-   - **(Kare wa gogo san-ji goro ni shigoto o oemasu.)**
-   - "He finishes work around 3 PM."
-4. **この地域は秋ごろ紅葉がきれいです。**
-   - **(Kono chiiki wa aki goro kouyou ga kirei desu.)**
-   - "This area has beautiful autumn leaves around autumn."
-5. **彼女は10月ごろに引っ越します。**
-   - **(Kanojo wa juugatsu goro ni hikkoshimasu.)**
-   - "She will move around October."
-## Cultural Notes
+1. **朝7時ごろにジョギングします。**
+   - **Romaji:** Asa shichi-ji goro ni jogingu shimasu.
+   - **Translation:** I go jogging around 7 a.m.
+2. **昼ごろにランチを食べましょう。**
+   - **Romaji:** Hiru goro ni ranchi o tabemashō.
+   - **Translation:** Let's have lunch around noon.
+3. **金曜日ごろにメールを送ります。**
+   - **Romaji:** Kinyōbi goro ni mēru o okurimasu.
+   - **Translation:** I'll send an email around Friday.
+4. **夏休みごろに帰国します。**
+   - **Romaji:** Natsuyasumi goro ni kikoku shimasu.
+   - **Translation:** I'll return to my country around summer vacation.
+5. **お正月ごろは店が混みます。**
+   - **Romaji:** Oshōgatsu goro wa mise ga komimasu.
+   - **Translation:** Shops are crowded around New Year's.
+---
+### Formal and Informal Usage
+- **Formal Speech:**
+  **来週の火曜日ごろに結果を発表します。**  
+  *Raishū no kayōbi goro ni kekka o happyō shimasu.*  
+  *We will announce the results around next Tuesday.*
+- **Informal Speech:**
+  **明日ごろ、遊びに来てね！**  
+  *Ashita goro, asobi ni kite ne!*  
+  *Come visit me around tomorrow!*
+---
+## 5. Cultural Notes
 ### Cultural Relevance
-Using ごろ expresses a level of politeness by indicating that one does not possess exact timing, which is often appreciated in Japanese culture. People tend to avoid being overly specific about time as a way to remain flexible and avoid pressure.
-### Levels of Politeness
-When using ごろ in conversation, it maintains a neutral level of politeness. It can be used in both formal (business settings) and informal situations (casual conversations).
+In Japanese culture, punctuality is highly valued. However, using **「ごろ」** allows for polite flexibility, acknowledging that exact timing may not always be possible. It's a way to offer a time frame without imposing strict expectations.
 ### Idiomatic Expressions
-- **十時ごろ (ju-ji goro)** can be heard commonly when discussing timetables or planning with friends.
-## Common Mistakes and Tips
+- **夕方ごろ (ゆうがたごろ)**
+  - **Meaning:** Around evening
+  - **Usage:** 夕方ごろから涼しくなります。  
+    *Yūgata goro kara suzushiku narimasu.*  
+    *It gets cooler around the evening.*
+- **夜中ごろ (よなかごろ)**
+  - **Meaning:** Around midnight
+  - **Usage:** 夜中ごろに雨が降りました。  
+    *Yonaka goro ni ame ga furimashita.*  
+    *It rained around midnight.*
+---
+## 6. Common Mistakes and Tips
 ### Error Analysis
-1. **Incorrect Use of Time Units**: Students sometimes forget to use the correct hour format (e.g., 5:00 instead of 5).
-2. **Confusion with Other Grammar Forms**: Mixing up ごろ with ぐらい when only referring to time.
+1. **Incorrect Usage with Durations**
+   **誤り:** *「2時間ごろ勉強しました。」*  
+   **Correction:** *「2時間ぐらい勉強しました。」*
+   - **Explanation:** Use **「ぐらい」** with durations (quantities of time), not **「ごろ」**.
+2. **Omitting Particles**
+   **誤り:** *「7時ごろ行きます。」*  
+   **Correction:** *「7時ごろ**に**行きます。」*
+   - **Explanation:** Don't forget to include the particle **「に」** after **「ごろ」** when indicating the time of an action.
 ### Learning Strategies
-- **Mnemonic Device**: Remember "ごろ" as "Goes Around" for estimating time periods.
-- Practice using with various nouns to enhance retention.
-## Summary and Review
+- **Mnemonic Device:**
+  Think of **「ごろ」** as "**go round**" for an approximate point in time.
+- **Practice Exercises:**
+  Create sentences using different time nouns + **「ごろ」** to get comfortable with the structure.
+---
+## 7. Summary and Review
 ### Key Takeaways
-- ごろ (goro) is used for expressing approximate time.
-- It follows a noun and creates a flexible, non-specific timeframe.
-- It is culturally relevant in promoting politeness and flexibility.
+- **「ごろ」** is used after time nouns to indicate an approximate point in time.
+- It translates to "around" or "about" in English.
+- Do not confuse **「ごろ」** (approximate time) with **「ぐらい」** (approximate amount/duration).
 ### Quick Recap Quiz
-1. What does ごろ (goro) mean?
-2. How is it structured?
-3. Give an example sentence using ごろ.
-4. What is the difference between ごろ and ぐらい?
-Understanding and correctly using ごろ will enhance your conversational fluency in Japanese, especially when discussing time!
+1. **Choose the correct particle:**
+   a) 私は5時**ごろ**に帰ります。  
+   b) 私は5時**ぐらい**に帰ります.
+2. **Translate to Japanese:**
+   "Let's meet around 2 o'clock."
+3. **Identify and correct the error:**
+   **誤り:** *「昨日は2時間ごろ運動しました。」*
+#### Answers:
+1. **a) 私は5時**ごろ**に帰ります。**  
+   *Use **「ごろ」** with specific times.*
+2. **「2時ごろに会いましょう。」**  
+   *2-ji goro ni aimashō.*
+3. **Correction:** *「昨日は2時間**ぐらい**運動しました。」*  
+   *Use **「ぐらい」** with durations.*
+---
+By understanding and using **「Noun + ごろ」**, you'll be able to express approximate times naturally and enhance your communication in Japanese. Keep practicing, and don't hesitate to revisit this lesson whenever you need a refresher!
+
+---
+
+© [Hanabira.org](https://hanabira.org)

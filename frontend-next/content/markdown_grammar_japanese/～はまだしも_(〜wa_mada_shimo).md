@@ -1,67 +1,93 @@
 Processing keyword: ～はまだしも (〜wa mada shimo)
 # Japanese Grammar Point: ～はまだしも (〜wa mada shimo)
-# Grammar Point: ～はまだしも (〜wa mada shimo)
+
 ## 1. Introduction
-The expression ～はまだしも (〜wa mada shimo) is used to indicate that something is acceptable, tolerable, or understandable; however, a more extreme or less favorable scenario is being referenced to emphasize the point. This grammar point implies a sense of contrast, usually suggesting that while one situation may be tolerable, another situation should certainly not be.
+In this lesson, we'll explore the Japanese grammar point **～はまだしも** (〜wa mada shimo). This expression is used to compare two situations, where one is considered acceptable or tolerable, while the other is not. Understanding this grammar point will help you express nuanced opinions and preferences in Japanese.
+
+---
 ## 2. Core Grammar Explanation
-### Detailed Explanation
-- **Meaning**: The phrase suggests that one condition is acceptable, but another related condition is considered too much or unacceptable.
-- **Structure**: The structure is as follows:
-  - [noun/verb/adjective] + はまだしも
-- **Formation Diagram**:
-  ```
-  [Condition 1] はまだしも [Condition 2]
-  ```
-  Here, Condition 1 is the scenario you find acceptable or tolerable, while Condition 2 is the more extreme scenario.
-### Visual Aids
-| Japanese          | English Meaning                          |
-|-------------------|---------------------------------------|
-| 彼はまだしも      | He is acceptable                      |
-| それは許されるが   | That is permissible, but              |
-| 私の親はそうじゃない | My parents are not like that!         |
+### Meaning
+**～はまだしも** is used to express that while **A** might be acceptable or tolerable, **B** is not. It highlights a contrast where the first item is somewhat acceptable, but the second surpasses the speaker's threshold of acceptance.
+- **English Equivalent**: "might be acceptable, but...", "would be tolerable, but...", "it's one thing to..., but..."
+### Structure
+The basic structure is:
+```plaintext
+Noun + はまだしも + [B]
+```
+- **Noun (A)**: The acceptable or tolerable condition.
+- **[B]**: The unacceptable or intolerable condition that follows.
+### Formation Diagram
+| Part       | Example                    | Description                           |
+|------------|----------------------------|---------------------------------------|
+| Noun (A)   | 私の発音（わたしのはつおん） | The acceptable condition (my pronunciation) |
+| はまだしも | はまだしも                   | Indicates that A is acceptable, but... |
+| [B]        | 彼の発音（かれのはつおん）は聞けない | The unacceptable condition (his pronunciation is unbearable) |
+---
 ## 3. Comparative Analysis
-- **Similar Grammar**:
-  - **〜はおろか (〜wa oroka)**: This indicates that something is even less tolerable than another example, often used to emphasize the impossibility of the mentioned condition.
-    - Example: 彼は勉強はおろか、宿題すらしていない。
-      - (He doesn’t even do his homework, let alone study.)
-  
-- **Differences**: 
-  - While ～はまだしも suggests a level of acceptability for the first condition, 〜はおろか signifies that even the simplest task (like homework) is not done, highlighting a greater deficiency.
+### Similar Grammar Points
+1. **～ならともかく（～ならともかく）**
+   - **Usage**: Used to express that while **A** might be acceptable, **B** is not.
+   - **Difference**: **～ならともかく** can be used with verbs and adjectives, whereas **～はまだしも** is primarily used with nouns.
+2. **～はいいとして（～はいいとして）**
+   - **Usage**: Means "leaving aside A, B is...".
+   - **Difference**: Focuses on setting aside the first point to discuss the second, whereas **～はまだしも** emphasizes that A is acceptable in contrast to B.
+---
 ## 4. Examples in Context
-### Sentence Examples
-1. **Formal**: 
-   - 会議に彼が来るのはまだしも、時間どおりに来てくれなければ困ります。
-   - (It's acceptable for him to come to the meeting, but if he can't arrive on time, it would be a problem.)
-  
-2. **Informal**: 
-   - 友達が来るのはまだしも、彼女が遅れるのはやめてほしい。
-   - (It's okay if my friend comes over, but I don't want her to be late.)
-  
-3. **Written**: 
-   - 毎日運動することはまだしも、週に一度はジムに行くべきだ。
-   - (While exercising every day may be too much, you should at least go to the gym once a week.)
-4. **Spoken**: 
-   - あの映画はまだしも、あの俳優の演技はちょっと…。
-   - (That movie is okay, but the actor's performance is a bit much...)
+### Example Sentences
+1. **Formal - Written**
+   - **Japanese**: 雨の日はまだしも、雪の日に運転するのは危険です。
+   - **Reading**: あめのひはまだしも、ゆきのひにうんてんするのはきけんです。
+   - **Translation**: It's one thing to drive on a rainy day, but driving on a snowy day is dangerous.
+2. **Formal - Spoken**
+   - **Japanese**: 数ページのレポートはまだしも、50ページの論文を書くのは大変です。
+   - **Reading**: すうページのレポートはまだしも、50ページのろんぶんをかくのはたいへんです。
+   - **Translation**: Writing a few-page report might be manageable, but writing a 50-page thesis is tough.
+3. **Informal - Spoken**
+   - **Japanese**: 英語はまだしも、フランス語は全然わからないよ。
+   - **Reading**: えいごはまだしも、フランスごはぜんぜんわからないよ。
+   - **Translation**: I might get by in English, but I have no clue about French.
+4. **Informal - Written**
+   - **Japanese**: 歩いて行くのはまだしも、走るなんて無理。
+   - **Reading**: あるいていくのはまだしも、はしるなんてむり。
+   - **Translation**: Walking there might be okay, but running is impossible.
+---
 ## 5. Cultural Notes
 ### Cultural Relevance
-- **Levels of Politeness**: The use of ～はまだしも varies depending on the context; it can be used in both formal and informal settings, but be mindful of your tone and choice of words in formal situations.
-- **Social Norms**: This phrase can reflect the Japanese cultural value of “maintaining harmony.” Criticizing a situation is often approached gently, and using this expression can convey dissatisfaction without sounding overly harsh.
+In Japanese communication, there is often a strong emphasis on expressing opinions politely and indirectly. **～はまだしも** allows the speaker to gently contrast two situations without outright rejecting or criticizing the second condition harshly.
 ### Idiomatic Expressions
-- It is not widely used in set phrases, but can often appear in discussions about expectations and standards.
+- **冗談はまだしも、本気でそう思っているのですか？**
+  - *It's one thing to joke, but do you seriously think that?*
+This expression is commonly used to soften criticism or express concern without being confrontational.
+---
 ## 6. Common Mistakes and Tips
 ### Error Analysis
-- **Frequent Errors**: 
-  - Misusing the phrase where one cannot make a direct connection to the conditions being compared.
-  - Failing to recognize that what follows should be more extreme or unacceptable than the first condition.
+- **Using Verbs or Adjectives Directly**
+  Incorrect: *食べるはまだしも、買うのは高すぎる。*
+  Correct: *試食（ししょく）はまだしも、買うのは高すぎる。*
+  **Tip**: Since **～はまだしも** is primarily used with nouns, convert verbs or adjectives into noun forms when necessary.
 ### Learning Strategies
-- **Mnemonic Device**: Think of “Mada shimo” as “more is so” which implies that everything beyond the first condition should definitely be avoided if you’re using this phrase correctly.
+- **Mnemonic Device**
+  Think of **まだ** (still) and **しも** (even). So, "A is still okay, but even B is too much."
+- **Practice with Comparisons**
+  Create sentences comparing two scenarios, focusing on where one is acceptable and the other is not.
+---
 ## 7. Summary and Review
 ### Key Takeaways
-- ～はまだしも expresses a level of tolerance for one situation contrasted with another, less acceptable scenario.
-- Use it in both formal and informal contexts to soften criticism while making a clear point.
+- **～はまだしも** is used to express that while **A** is acceptable, **B** is not.
+- It is mainly used with nouns.
+- Helps in making polite contrasts or expressing reservations.
 ### Quick Recap Quiz
-1. What does ～はまだしも imply about the two scenarios compared?
-2. How does the use of this expression vary in formal and informal settings?
-3. Compare ～はまだしも and ～はおろか. What’s a key difference?
-By understanding and applying the nuances of ～はまだしも, learners can express their opinions on acceptable behaviors and expectations within various contexts more effectively.
+1. What is the primary usage of **～はまだしも**?
+   - **Answer**: To state that while A is acceptable or tolerable, B is not.
+2. Is **～はまだしも** generally used with verbs, adjectives, or nouns?
+   - **Answer**: Nouns.
+3. Translate the following sentence:
+   - **Japanese**: 初心者はまだしも、プロがこんなミスをするなんて。
+   - **Answer**: It's one thing for a beginner, but for a professional to make such a mistake...
+---
+Feel free to create your own sentences using **～はまだしも** to solidify your understanding!
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

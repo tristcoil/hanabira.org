@@ -1,82 +1,116 @@
 Processing keyword: ~적 [jeok] (Time, instance)
 # Korean Grammar Point: ~적 [jeok] (Time, instance)
-# Grammar Point: ~적 [jeok] (Time, Instance)
-## Introduction
-The suffix ~적 [jeok] is used in the Korean language to express a notion of "type," "kind," or "instance" related to time, situations, or attributes. It helps in describing something as being characteristic of a particular context or in relation to specific phenomena.
+
+## 1. Introduction
+In Korean, expressing when something happens or happened is essential for clear communication. The grammar point **~적** (jeok) is used to indicate a specific time, instance, or occasion when an action takes place. Understanding how to use **~적** will enhance your ability to describe experiences and events accurately.
+
 ---
-## Core Grammar Explanation
-### Detailed Explanation
-The suffix ~적 [jeok] is generally attached to nouns to create an adjective expressing a characteristic related to that noun. It is often used in contexts to clarify the nature of a subject in relation to an event or quality.
+## 2. Core Grammar Explanation
 ### Meaning
-- **~적** indicates "pertaining to", "typical of", or "characteristic of".
-- It can describe time-related attributes, kinds of instances, situations, etc.
+- **~적** (jeok): Refers to a specific time, instance, or occasion.
+- Used to indicate "when" or "at the time of" in relation to an action or event.
 ### Structure
-The basic structure for using ~적 is as follows:
-- **Noun + 적**
-#### Formation Diagram
-```markdown
-Noun + 적 → Noun적
-Example: 정치 (politics) + 적 → 정치적 (political)
-```
+The structure combines a verb stem with **~(으)ㄹ 적에** or **~던 적에**.
+#### Formation:
+1. **For verbs ending with a vowel:**
+   - **Verb Stem + -ㄹ 적에**
+     | Verb (Dictionary Form) | Verb Stem | + ㄹ 적에 | Result        |
+     |------------------------|-----------|-----------|---------------|
+     | 가다 (to go)           | 가        | 갈 적에   | 갈 적에       |
+2. **For verbs ending with a consonant:**
+   - **Verb Stem + -을 적에**
+     | Verb (Dictionary Form) | Verb Stem | + 을 적에 | Result        |
+     |------------------------|-----------|-----------|---------------|
+     | 먹다 (to eat)          | 먹        | 먹을 적에 | 먹을 적에     |
+3. **For past habitual actions:**
+   - **Verb Stem + -던 적에**
+     | Verb (Dictionary Form) | Verb Stem | + 던 적에 | Result        |
+     |------------------------|-----------|-----------|---------------|
+     | 하다 (to do)           | 하        | 하던 적에 | 하던 적에     |
+### Usage
+- **~(으)ㄹ 적에**: Used to express "when" or "at the time of" a future or past action.
+- **~던 적에**: Used to recall habitual or repeated past actions.
 ---
-## Visual Aids 
-| Noun (N)   | Noun + 적 (N + jeok)   | Meaning                  |
-|------------|------------------------|--------------------------|
-| 경제       | 경제적                 | Economic                 |
-| 문화       | 문화적                 | Cultural                 |
-| 시기       | 시기적                 | Temporal/Time-related    |
-| 전쟁       | 전쟁적                 | War-related              |
+## 3. Comparative Analysis
+### ~때 [ttae] vs. ~적 [jeok]
+Both **~때** and **~적** are used to indicate "when" something happens, but they have subtle differences.
+- **~때**:
+  - More general term for "when" or "time".
+  - Commonly used in everyday conversation.
+  - Can refer to any time—past, present, or future.
+- **~적**:
+  - Refers to a specific instance or occasion.
+  - Carries a slightly formal or literary tone.
+  - Often used to reminisce or highlight a particular moment.
+
+| Grammar Point | Usage                       | Example                                 |
+|---------------|-----------------------------|-----------------------------------------|
+| ~때           | General time (when)         | 어릴 때 (when I was young)             |
+| ~적           | Specific instance (occasion)| 어렸을 적에 (at the time when I was young)|
+
 ---
-## Comparative Analysis
-### Comparison with Other Grammar Points
-- **-스러운 (-seureoun)**: This suffix also forms adjectives but emphasizes an inherent quality rather than a situational aspect.
-  - Example: 자연 (nature) + 스러운 → 자연스러운 (natural)
-- **-적이 있다 (-jeog-i itda)**: This construction emphasizes the presence of a characteristic, often used with nouns.
-  - Example: 이 작품은 역사적이 있다. (This work is historical.)
-### Key Differences
-- **~적** tends to define the type or characteristic based on an instance, while **-스러운** focuses on the intrinsic quality of the noun.
-  
----
-## Examples in Context
+## 4. Examples in Context
 ### Sentence Examples
-1. **Formal Context**: 
-   - 이 정책은 경제적 문제를 해결하기 위한 것입니다.
-   - (This policy is meant to solve economic issues.)
-2. **Informal Context**: 
-   - 너는 정말 문화적 배경이 다양하구나!
-   - (You really have a diverse cultural background!)
-3. **Written Context**: 
-   - 그 연구 결과는 시기적 의미가 큽니다.
-   - (The results of the research have significant temporal meaning.)
-4. **Spoken Context**: 
-   - 우린 전쟁적 상황을 피해야 해.
-   - (We must avoid a war-related situation.)
+#### Formal Situations
+1. **대학교에 다녔을 적에 연구를 많이 했습니다.**  
+   *When I was in university, I did a lot of research.*
+2. **처음 한국에 왔을 적에 문화 충격을 받았어요.**  
+   *When I first came to Korea, I experienced culture shock.*
+#### Informal Conversations
+1. **여행했을 적에 찍은 사진이야.**  
+   *These are the photos I took when I traveled.*
+2. **옛날에 학교 다녔을 적 생각나네.**  
+   *I remember when I used to go to school in the old days.*
+#### Written Contexts
+1. **전쟁이 끝났을 적에 사람들은 평화를 맞이했다.**  
+   *At the time when the war ended, people greeted peace.*
+2. **그가 떠났던 적에 약속했던 말을 기억한다.**  
+   *I remember the words he promised when he left.*
+#### Spoken Contexts
+1. **집에 갈 적에 우유 좀 사와.**  
+   *When you go home, please buy some milk.*
+2. **영화를 볼 적에 전화가 와서 못 받았어.**  
+   *While I was watching the movie, I got a call but couldn't answer.*
 ---
-## Cultural Notes
+## 5. Cultural Notes
 ### Cultural Relevance
-The use of ~적 can be significant in formal and academic contexts, where defining instances or types with precision is crucial. The choice of nouns and the addition of ~적 can convey varying levels of respect and seriousness.
+- Using **~적** can add a nostalgic or significant tone to the statement.
+- It often reflects on experiences that hold importance or left an impression.
+- In literature and storytelling, **~적** is used to set scenes or recall past events vividly.
 ### Levels of Politeness
-Using ~적 in formal writing or speeches enhances the professionalism of the language, demonstrating the speaker's expertise and respect for the subject matter.
-### Idiomatic Expressions
-- **시대적 (sidaejeok)**: Pertaining to an era or period.
-  - Example: 이 작품은 시대적 맥락에서 이해되어야 한다. (This work should be understood in its historical context.)
+- While **~적** itself doesn't directly indicate politeness, it's often used in more formal or written language.
+- The politeness level is conveyed through verb endings and context.
 ---
-## Common Mistakes and Tips
-### Error Analysis
-- Learners might incorrectly attach ~적 to verbs or adjectives, which does not align with its grammatical function.
-  - **Incorrect**: 공부적 → Correct: 공부 (study) + 적 → 공부적 (academic/study-related)
+## 6. Common Mistakes and Tips
+### Common Mistakes
+1. **Confusing **~적** with **~때****:
+   - Incorrect: **먹을 적이야.**  
+     (*Intended meaning: It's time to eat.*)
+   - Correct: **먹을 때야.**  
+     *It's time to eat.*
+2. **Using **~적** with adjectives improperly**:
+   - Incorrect: **기쁜 적에 춤췄어요.**  
+     (*Intended meaning: When I was happy, I danced.*)
+   - Correct: **기쁠 적에 춤췄어요.**  
+     *When I was happy, I danced.*
 ### Learning Strategies
-- Remember the characteristic nature of ~적 by associating it with type and instances. Think of it as a "label" that describes what kind or type something is in relation to a noun.
+- **Mnemonic Device**: Remember that **~적** is like a "snapshot" of a specific time—use it when referring to a particular moment.
+- **Practice**: Create sentences about memorable events in your life using **~적** to get comfortable with its nuance.
 ---
-## Summary and Review
+## 7. Summary and Review
 ### Key Takeaways
-- The suffix ~적 [jeok] denotes a characteristic or type related to a noun.
-- Useful in formal and academic contexts to describe instances and attributes.
-- Should be used correctly to create coherent and meaningful phrases.
+- **~적** is used to express a specific time or occasion when something happens or happened.
+- It adds a formal or literary tone compared to the more general **~때**.
+- Be careful not to confuse **~적** with **~적이다**, which turns nouns into adjectives (e.g., 역사적이다 - historical).
 ### Quick Recap Quiz
-1. How do you say "economic" in Korean using the suffix ~적?
-   - Answer: 경제적 (gyeongjej jeok)
-2. What is the difference between ~적 and -스러운?
-   - Answer: ~적 defines a type or instance, while -스러운 describes an inherent quality.
-3. Give an example of a noun transformed using ~적.
-   - Answer: 문화 (culture) → 문화적 (cultural)
+1. **Fill in the blank**: When I went to Japan, I tried sushi.  
+   **Answer**: 일본에 갔을 **적에** 스시를 먹어 봤어요.
+2. **True or False**: **~적** and **~때** can always be used interchangeably.  
+   **Answer**: False. While they can sometimes be used similarly, **~적** often refers to a specific instance and carries a more formal tone.
+3. **Correct the mistake**: 일이 끝난 **때에** 만나자.  
+   **Answer**: 일이 끝난 **적에** 만나자. (If emphasizing a specific instance)
+---
+By understanding and practicing the use of **~적**, you can express times and instances with greater precision and nuance in Korean.
+
+---
+© [Hanabira.org](https://hanabira.org)

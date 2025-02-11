@@ -1,91 +1,141 @@
 Processing keyword: ~뿐이다 [ppunida] (Only, just)
 # Korean Grammar Point: ~뿐이다 [ppunida] (Only, just)
-# Grammar Point: ~뿐이다 [ppunida] (Only, Just)
-## Introduction
-The grammar point ~뿐이다 (ppunida) is used to indicate exclusivity or limitation. It translates to "only" or "just" in English. This structure emphasizes that there is nothing more than what is being stated, highlighting the limited nature of the subject.
-## Core Grammar Explanation
-### Detailed Explanation
-- **Meaning**: The phrase ~뿐이다 expresses that what comes before it is the sole focus or the only instance being considered.
-- **Structure**: The structure is typically:
-  
+
+## 1. Introduction
+The Korean grammar point **~뿐이다** is used to express the meaning of "only" or "just," indicating that there is nothing else beyond what is specified. It is a useful structure for emphasizing exclusivity or limitation in a sentence.
+
+---
+## 2. Core Grammar Explanation
+### Meaning
+**~뿐이다** conveys the sense that the specified action or thing is the only one, excluding all others. It emphasizes that there is nothing more than what is mentioned.
+### Structure
+The structure of **~뿐이다** varies slightly depending on whether it is attached to a noun or a verb.
+- **After Nouns:**
   ```
-  [Noun] + 뿐이다
+  Noun + 뿐이다
   ```
-  
-- **Formation**: 
-  1. **Noun + 뿐이다**: You attach ~뿐이다 directly after the noun that you want to emphasize.
-  2. **Example**: 
-     - 가방뿐이다. (It’s only a bag.)
-     - 그 영화 뿐이다. (It's just that movie.)
-  
-### Visual Aids
-| Noun                  | ~뿐이다                       | Translation              |
-|-----------------------|-------------------------------|--------------------------|
-| 김치                   | ~뿐이다                       | It's only kimchi.        |
-| 친구들                | ~뿐이다                       | They are just friends.   |
-| 책                    | ~뿐이다                       | It's only a book.       |
-### Example Structure Diagram
+- **After Verb Stems:**
+  ```
+  Verb Stem + -(으)ㄹ 뿐이다
+  ```
+  - If the verb stem ends in a vowel or the consonant "ㄹ," use **-ㄹ 뿐이다**.
+  - If the verb stem ends in any other consonant, use **-을 뿐이다**.
+### Formation Diagram
+#### For Nouns
+```plaintext
+[Noun] + 뿐이다
 ```
-+------------------+
-|      Noun        |
-+------------------+
-         |
-         v
-+------------------+
-|     ~뿐이다      |
-+------------------+
+#### For Verbs
+```plaintext
+[Verb Stem] + -(으)ㄹ 뿐이다
 ```
-## Comparative Analysis
-### Comparison with Similar Grammar Points
-- **~뿐만 아니라 (ppunman anira)**: This means "not only... but also." While ~뿐이다 indicates exclusivity, ~뿐만 아니라 includes additional elements without limiting.
-  - Example: 
-    - 친구뿐만 아니라 가족도 같이 갔다. (Not only friends but family went together.)
-  
-- **단지 (danji)**: This means "only/just," similar to ~뿐이다 but typically used in a more formal context.
-  - Example: 
-    - 단지 이 문제만 해결하면 됩니다. (You only need to resolve this issue.)
-## Examples in Context
-### Sentence Examples
-1. **Formal Context**: 
-   - 그는 우리 팀의 리더뿐이다. 
-   - (He is only the leader of our team.)
-  
-2. **Informal Context**: 
-   - 이건 내 점심뿐이야. 
-   - (This is just my lunch.)
-  
-3. **Written Context**: 
-   - 본 영화는 작가의 의도뿐이다. 
-   - (This movie solely reflects the author's intention.)
-  
-4. **Spoken Context**: 
-   - 그거 게임뿐이야! 
-   - (That’s just a game!)
-## Cultural Notes
-### Cultural Relevance
-In Korean culture, the exclusivity conveyed by ~뿐이다 can reflect modesty or humility. This is often seen when Koreans downplay their achievements or possessions. It showcases a level of politeness where one acknowledges their limitations.
+| Ending of Verb Stem | Suffix to Attach | Example Verb | Modified Form      |
+|---------------------|------------------|--------------|--------------------|
+| Vowel or "ㄹ"       | -ㄹ 뿐이다        | 가다 (to go)  | 갈 뿐이다          |
+| Other Consonants    | -을 뿐이다        | 먹다 (to eat) | 먹을 뿐이다        |
+---
+## 3. Comparative Analysis
+### ~만 (Only)
+**~만** is another particle meaning "only," but it is used differently.
+- **Usage of ~만:**
+  - Attached directly to nouns without affecting verb conjugation.
+  - Emphasizes that the noun is the only one involved.
+- **Comparison with ~뿐이다:**
+  - **~뿐이다** implies a stronger emphasis on exclusivity and is often used to highlight that there is no other option or possibility.
+  - **~만** is more general and can be used in a wider variety of contexts.
+**Example:**
+- **~만:**
+  ```
+  나만 갔어요.
+  (Only I went.)
+  ```
+- **~뿐이다:**
+  ```
+  내가 갈 수 있을 뿐이다.
+  (Only I can go.)
+  ```
+---
+## 4. Examples in Context
+### Example Sentences
+1. **Noun + 뿐이다**
+   - **그것은 소문일 뿐이다.**
+     *Geugeos-eun somun-il ppunida.*
+     *That is just a rumor.*
+   - **당신은 친구일 뿐이에요.**
+     *Dangsin-eun chingu-il ppunieyo.*
+     *You are only a friend.*
+2. **Verb Stem + -(으)ㄹ 뿐이다**
+   - **우리는 기다릴 뿐이다.**
+     *Urineun gidaril ppunida.*
+     *We are just waiting.*
+   - **그는 자신의 일을 할 뿐이다.**
+     *Geuneun jasine ui-reul hal ppunida.*
+     *He is only doing his job.*
+3. **Formal Context**
+   - **저는 제 의무를 다했을 뿐입니다.**
+     *Jeoneun je uimureul dahaesseul ppunimnida.*
+     *I have only fulfilled my duty.*
+4. **Informal Speech**
+   - **난 너를 도왔을 뿐이야.**
+     *Nan neoreul dowasseul ppuniya.*
+     *I just helped you.*
+### Usage in Different Contexts
+- **Expressing Limitation:**
+  - **사실을 말했을 뿐이에요.**
+    *Sasileul malhaesseul ppunieyo.*
+    *I only told the truth.*
+- **Emphasizing Simplicity:**
+  - **그건 재미로 한 말일 뿐이에요.**
+    *Geugeon jaemiro han maril ppunieyo.*
+    *That was just a joke.*
+---
+## 5. Cultural Notes
 ### Levels of Politeness and Formality
-The usage of ~뿐이다 can be adjusted to match the level of formality required in a conversation, such as using 더하다 (deohada, “to add”) in a more polite expression or simply using a direct form in casual conversation.
+- The ending **-이다** changes according to speech levels:
+  - **Formal Polite:** 뿐입니다 *ppunimnida*
+  - **Standard Polite:** 뿐이에요 *ppunieyo*
+  - **Informal:** 뿐이야 *ppuniya*
+- Selecting the appropriate formality level is important in Korean culture, reflecting respect and social hierarchy.
 ### Idiomatic Expressions
-- 조금뿐이다. (It's just a little.)
-- 사랑뿐이다. (It's only love.)
-## Common Mistakes and Tips
+- **뿐만 아니라**: *Not only... but also*
+  - **그는 똑똑할 뿐만 아니라 친절해요.**
+    *Geuneun ttokttokal ppunman anira chinjeolhaeyo.*
+    *He is not only smart but also kind.*
+- **~일 뿐이다** is often used to downplay or modestly express one's actions or feelings.
+---
+## 6. Common Mistakes and Tips
 ### Error Analysis
-- **Common Mistake**: Using ~뿐이다 with verbs instead of nouns.
-  - Incorrect: 그는 뛰어뿐이다. 
-  - Correct: 그는 달리기뿐이다. (He is only running.)
-  
+1. **Using ~뿐이다 with Verbs Without Proper Conjugation**
+   - **Incorrect:** *먹다뿐이다*
+   - **Correct:** *먹을 뿐이다*
+2. **Confusing ~뿐이다 with ~만**
+   - While both mean "only," their usage differs in structure and emphasis.
 ### Learning Strategies
-- **Mnemonic Device**: Think of "only" as a limiting wall; it keeps out everything else except for what you state after ~뿐이다.
-  
-## Summary and Review
+- **Mnemonic Device:**
+  - Think of **뿐** as "nothing **but**," helping to remember it's used to express exclusivity.
+- **Practice Conjugation:**
+  - Create a table of verbs with their **-(으)ㄹ 뿐이다** forms to become familiar with the pattern.
+---
+## 7. Summary and Review
 ### Key Takeaways
-- ~뿐이다 expresses exclusivity (only, just).
-- It is formed by attaching ~뿐이다 to a noun.
-- Be aware of the context and adjust formality securely.
+- **~뿐이다** means "only" or "just," emphasizing exclusivity.
+- Attached directly to nouns or verb stems with **-(으)ㄹ**.
+- Pay attention to formality levels when conjugating **이다**.
 ### Quick Recap Quiz
-1. What does ~뿐이다 mean in English?
-2. How is ~뿐이다 structured?
-3. Give an example sentence using ~뿐이다 in a formal context.
---- 
-This lesson should provide you with a clear understanding of the grammar point ~뿐이다 and its usage in the Korean language.
+1. **Fill in the blank with the correct form of ~뿐이다:**
+   **그건 시작______.**
+   *(That's just the beginning.)*
+2. **True or False:**
+   **~뿐이다** and **~만** can always be used interchangeably.
+3. **Choose the correct form:**
+   **저는 할 수 있는 게 기다리______.**
+   *(All I can do is wait.)*
+
+### Answers
+1. **일 뿐이다**
+2. **False**
+3. **-ㄹ 뿐이다** (기다릴 뿐이다)
+
+
+---
+© [Hanabira.org](https://hanabira.org)

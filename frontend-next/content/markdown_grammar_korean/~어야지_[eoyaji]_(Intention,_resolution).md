@@ -1,69 +1,106 @@
 Processing keyword: ~어야지 [eoyaji] (Intention, resolution)
 # Korean Grammar Point: ~어야지 [eoyaji] (Intention, resolution)
-# Grammar Point: ~어야지 [eoyaji] (Intention, Resolution)
+
 ## 1. Introduction
-The grammatical structure ~어야지 ([eoyaji]) is commonly used in Korean to express intention or resolution. It indicates that a speaker is affirming a plan or commitment to perform an action. 
+In Korean, expressing intentions, resolutions, or a strong sense of obligation often involves specific grammatical structures. One such structure is **~어야지**. This grammar point is used to indicate that the speaker or someone else should or must do something. It reflects a decision or determination to perform an action.
+
+---
 ## 2. Core Grammar Explanation
+### Meaning
+The suffix **~어야지** is attached to a verb stem to express:
+- **Intention**: Deciding to do something.
+- **Resolution**: Determination to carry out an action.
+- **Obligation**: Feeling that one should or must do something.
+It can be translated as "I should...", "I must...", or "I ought to..." in English.
+### Structure
+#### Formation Diagram
+| Verb Stem Type | Addition | Result |
+|----------------|----------|--------|
+| Verb stem ending with **아/오** vowels | **-아야지** | 가 + 아야지 → 가야지 |
+| Verb stem ending with other vowels | **-어야지** | 먹 + 어야지 → 먹어야지 |
+| Verb stem ending with **하** | **-해야지** | 공부하 + 해야지 → 공부해야지 |
 ### Detailed Explanation
-- **Meaning**: ~어야지 conveys a sense of determination or a personal resolution to do something in the future.
-- **Structure**: It is attached to the verb stem with the appropriate ending based on the vowel harmony and the final consonant of the stem.
-  
-### Formation Diagram
-The structure is formed as follows:
-```
-Verb Stem + (어야지 / 아야지)
-```
-- **For verbs with a stem ending in 'ㅏ' or 'ㅗ'**: use ~아야지
-- **For other verb stems**: use ~어야지
-### Visual Aids
-| Verb Stem       | Ending Choice    | Example        | Translation                   |
-|-----------------|------------------|----------------|-------------------------------|
-| 가다 (gada)     | ~아야지          | 가야지 (gajaji) | I must go.                    |
-| 먹다 (meokda)   | ~어야지          | 먹어야지 (meogeoyaji) | I must eat.                   |
-| 배우다 (baewuda)| ~어야지          | 배워야지 (baewoyaji) | I must learn.                 |
+1. **Identify the Verb Stem**: Remove **-다** from the dictionary form of the verb.
+   - **가다** → **가**
+   - **먹다** → **먹**
+   - **하다** → **하**
+2. **Add the Appropriate Ending**:
+   - If the verb stem ends with **아** or **오** vowel, add **-아야지**.
+     - **가 + 아야지** → **가야지** (I should go.)
+   - If the verb stem ends with any other vowel, add **-어야지**.
+     - **먹 + 어야지** → **먹어야지** (I should eat.)
+   - For verbs ending with **하**, add **-해야지**.
+     - **하 + 해야지** → **해야지** (I should do.)
+---
 ## 3. Comparative Analysis
 ### Comparison with Similar Grammar Points
-- **~겠지 (getji)**: Indicates a conjecture or assumption rather than a strong intention. 
-  - **Example**: 비 올 거겠지. (It will probably rain.)
-  
-- **~야겠다 (yagetta)**: Implies a future plan but with a softer determination. 
-  - **Example**: 공부해야겠다. (I think I should study.)
-### Nuances
-- While both ~어야지 and ~야겠다 convey intentions, ~어야지 shows a more personal and strong commitment, whereas ~야겠다 is more suggestive.
+- **~어야겠다**: Also expresses intention or obligation but is slightly less strong and more reflective. It often conveys a realization.
+  - **일찍 자야겠다.** (I guess I should sleep early.)
+- **~기로 하다**: Used to indicate a decided plan or promise.
+  - **운동하기로 했어.** (I decided to exercise.)
+- **~어야지요**: A more polite form, often used when giving gentle advice or suggesting that someone should do something.
+  - **약을 드셔야지요.** (You should take the medicine.)
+---
 ## 4. Examples in Context
-### Sentence Examples
-1. **Formal Context**: 
-   - 내일 회의에 참석해야지.  
-   (I must attend the meeting tomorrow.)
-  
-2. **Informal Context**: 
-   - 빨리 집에 가야지!  
-   (I really need to go home quickly!)
-3. **Written Context**: 
-   - 다음 주부터 운동을 시작해야지.  
-   (I must start exercising from next week.)
-4. **Spoken Context**: 
-   - 오늘은 일찍 자야지!  
-   (I really should sleep early today!)
+### Formal Situations
+1. **공부를 열심히 해야지.**
+   - *I should study hard.*
+2. **건강을 위해 운동을 해야지.**
+   - *I must exercise for my health.*
+### Informal Situations
+1. **이제 집에 가야지.**
+   - *I should go home now.*
+2. **배가 고프네. 뭐 먹어야지.**
+   - *I'm hungry. I should eat something.*
+### Spoken Language
+1. **늦었네! 빨리 출발해야지.**
+   - *It's late! I must leave quickly.*
+2. **다음에는 실수하지 말아야지.**
+   - *I shouldn't make mistakes next time.*
+### Written Language
+1. **새해에는 새 목표를 세워야지.**
+   - *I should set new goals for the New Year.*
+2. **환경 보호를 위해 노력해야지.**
+   - *We must make efforts to protect the environment.*
+---
 ## 5. Cultural Notes
 ### Cultural Relevance
-- The use of ~어야지 reflects a sense of responsibility and personal commitment, which is highly valued in Korean culture.
-- Politeness levels can affect how one expresses intentions. Adding polite endings can be crucial in formal situations.
+In Korean culture, expressing one's intentions and resolutions is important, especially during times like the New Year or before embarking on significant endeavors. Using **~어야지** conveys a sense of personal responsibility and commitment.
+### Levels of Politeness and Formality
+- **Informal Politeness**: **~어야지** is casual and often used among friends or when talking to oneself.
+- **Formal Politeness**: Adding **요** to form **~어야지요** makes it more polite and suitable for formal situations.
 ### Idiomatic Expressions
-- There are expressions like "가야지!" (I must go!) which are often used to emphasize a decision to leave or take action.
+- **힘을 내야지!**
+  - *I should cheer up! / Let's be strong!*
+- **잊지 말아야지.**
+  - *I shouldn't forget.*
+---
 ## 6. Common Mistakes and Tips
 ### Error Analysis
-- **Common Mistake**: Confusing ~어야지 with ~겠다. 
-  - **Tip**: Remember, ~어야지 is about your intention while ~겠다 is more about assumption.
+- **Using the Wrong Ending**: Confusing **-아야지** and **-어야지**.
+  - Incorrect: **먹아야지** (✖)
+  - Correct: **먹어야지** (✔)
+- **Overusing in Formal Contexts**: Using **~어야지** in situations that require higher politeness levels.
+  - Instead, use **~어야겠습니다** or **~어야지요**.
 ### Learning Strategies
-- Create a habit of pairing intentions with actions when using this structure, e.g., "I have to study" = "공부해야지."
+- **Mnemonic Device**: Remember that **아/오 → 아야지**, others **→ 어야지**.
+- **Practice with Common Verbs**: Make a list of frequently used verbs and practice forming **~어야지** with them.
+---
 ## 7. Summary and Review
 ### Key Takeaways
-- ~어야지 is used to express a strong intention or personal resolution.
-- It follows specific vowel harmony rules based on the verb stem.
-- It indicates a commitment that is culturally significant in Korean social context.
+- **~어야지** is used to express intention, resolution, or obligation.
+- Formed by attaching **-아야지 / -어야지 / -해야지** to the verb stem.
+- Reflects a personal decision to perform an action.
+- Used more in informal contexts; add **요** for politeness.
 ### Quick Recap Quiz
-1. What is the meaning of ~어야지?  
-2. How do you determine the ending to use with a verb stem?  
-3. Give an example of ~어야지 in a sentence.  
-This overview provides a clear understanding of ~어야지 and prepares you for using it in various contexts while reflecting on responsibility and intention in the Korean language.
+1. How do you say "I should exercise" using **~어야지**?
+   - **운동해야지.**
+2. Which ending do you use with the verb **마시다** (to drink) to form **~어야지**?
+   - **마시 + 어야지 → 마셔야지.**
+3. True or False: **~어야지** can be used in formal writing without any modifications.
+   - **False** (It's more common in informal contexts; for formal writing, use **~어야겠습니다**.)
+---
+Feel free to practice by creating your own sentences using **~어야지** to express your intentions and resolutions!
+
+---
+© [Hanabira.org](https://hanabira.org)

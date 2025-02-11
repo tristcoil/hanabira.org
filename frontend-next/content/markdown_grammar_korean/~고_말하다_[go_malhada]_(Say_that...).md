@@ -1,65 +1,93 @@
 Processing keyword: ~고 말하다 [go malhada] (Say that...)
 # Korean Grammar Point: ~고 말하다 [go malhada] (Say that...)
-# Grammar Point: ~고 말하다 (go malhada) (Say that...)
+
 ## 1. Introduction
-The expression ~고 말하다 is commonly used in Korean to indicate that someone has completed an action, often with an emotional emphasis. It translates to “to say that...” or “to state that...”.
+In Korean, indirect speech is commonly used to report what someone has said without quoting them verbatim. One of the key grammar structures for indirect quotations is **~고 말하다**, which translates to "**say that...**" in English. This lesson will delve into the uses, formation, and nuances of this grammar point to help you incorporate it naturally into your Korean conversations.
+
+---
 ## 2. Core Grammar Explanation
-### Detailed Explanation
-- **Meaning**: The phrase ~고 말하다 is used to convey that something has been said or stated, particularly in a conclusive or definitive manner. It can imply that the speaker feels strongly about the statement.
-- **Structure**: 
-  - The structure consists of a verb stem followed by 고, which means “and”, and then 말하다, which means "to say".
-  - The formation can be represented as:  
-    **(Verb Stem) + 고 말하다**
-    
-### Formation Diagram
-```
-[ Verb Stem ] + 고 + 말하다
-       ↳ Indicates completion of the action
-```
-### Visual Aids
-| Part     | Example                                    | Explanation                             |
-|----------|--------------------------------------------|-----------------------------------------|
-| Verb     | 하다 (hada - to do)                        | Basic action verb                       |
-| + 고     | 하고 (hago - and do)                       | Connects two clauses                     |
-| + 말하다 | 하고 말하다 (hago malhada - to say that [one did]) | Indicates completion of the action    |
+### Meaning
+The structure **~고 말하다** is used to convey what someone has said indirectly. It attaches to the end of a verb, adjective, or noun clause to report speech or thoughts.
+### Structure
+#### Formation Diagram
+- **Verb / Adjective Stem +~고 말하다**
+- **Noun + (이)라고 말하다**
+#### Components
+- **~고**: A connective ending used for direct quotation or connecting clauses.
+- **말하다**: The verb meaning "to say" or "to speak."
+### Conjugation
+#### For Verbs and Adjectives
+| Stem Type | Conjugation Example      | Translation                           |
+|-----------|--------------------------|---------------------------------------|
+| 하다      | **한다고 말하다**         | Say that (someone) does/is doing      |
+| 먹다      | **먹는다고 말하다**       | Say that (someone) eats/is eating     |
+| 예쁘다    | **예쁘다고 말하다**       | Say that (someone/something) is pretty|
+#### For Nouns
+- If the noun ends with a consonant: **Noun + 이라고 말하다**
+- If the noun ends with a vowel: **Noun + 라고 말하다**
+
+| Noun      | Conjugation Example      | Translation                           |
+|-----------|--------------------------|---------------------------------------|
+| 학생      | **학생이라고 말하다**     | Say that (someone) is a student       |
+| 친구      | **친구라고 말하다**       | Say that (someone) is a friend        |
+
+---
 ## 3. Comparative Analysis
-### ~다고 하다 vs. ~고 말하다
-- **~다고 하다**: This is used to report what someone else has said, often without the emotional emphasis. It translates to “say that...” or “it is said that...”.
-- **~고 말하다**: This carries a stronger emotional weight and often indicates that the speaker is reflecting on what they themselves or someone else has said with a sense of finality or emphasis.
+### Similar Grammar Points
+- **~다고 하다**: Also means "say that..." and is more commonly used in everyday speech.
+- **~라고 말하다**: Specifically used after direct quotations or nouns.
+**Difference:** While **~고 말하다** emphasizes the act of saying, **~다고 하다** is a more general expression for indirect speech.
+---
 ## 4. Examples in Context
-### Sentence Examples
-1. **Formal**: 
-   - 그가 그렇게 했다고 말했습니다.  
-     (Geuga geureoke haetdago malhaessseubnida.)  
-     "He said that he did it like that."
-2. **Informal**: 
-   - 네가 진짜 그걸 했고 말했어.  
-     (Nega jinjja geugeol haetgo malhaesseo.)  
-     "You really did that and said so."
-3. **Written**: 
-   - 연구 결과에 따르면 그들은 성공했다고 말하고 있다.  
-     (Yeongu gyeolgwae ttareumyeon geudeul-eun seonggonghaetdago malhago itda.)  
-     "According to the research results, they are saying that they have succeeded."
-4. **Spoken**: 
-   - 내가 그렇게 하라고 했고 말했어!  
-     (Naega geureoke halago haetgo malhaesseo!)  
-     "I told you to do it like that!"
+### Formal Situations
+1. 선생님이 내일 시험이 있다고 말했어요.
+   - **Translation:** The teacher said that there is an exam tomorrow.
+2. 회장님께서 회의를 연기하겠다고 말하셨습니다.
+   - **Translation:** The president said that the meeting will be postponed.
+### Informal Situations
+1. 친구가 오늘 못 온다고 말했어.
+   - **Translation:** My friend said that he can't come today.
+2. 그녀는 그 영화가 재미없다고 말했어.
+   - **Translation:** She said that the movie is not interesting.
+### Written Context
+1. 신문에서 그 사건이 사실이라고 말했습니다.
+   - **Translation:** The newspaper said that the incident is true.
+### Spoken Context
+1. 엄마가 빨리 집에 오라고 말했어.
+   - **Translation:** Mom said to come home quickly.
+---
 ## 5. Cultural Notes
-### Cultural Relevance
-In Korean culture, direct communication is sometimes less emphasized than implied meaning. Using ~고 말하다 can add a sense of seriousness or weight to one’s statement, making it more impactful.
-### Idiomatic Expressions
-- **바로 말하다** (baro malhada) - "to say it straight/not hold back" can be seen as similar in emotional weight to ~고 말하다.
+### Politeness Levels
+In Korean, the verb **말하다** can be adjusted for politeness:
+- **말하다** → Informal speech
+- **말합니다** → Formal polite speech
+- **말씀이시다** → Honorific form
+### Indirect Speech in Korean Culture
+Indirect speech is prevalent in Korean communication, reflecting the culture's emphasis on politeness and indirectness to maintain harmony and show respect.
+
+---
 ## 6. Common Mistakes and Tips
-### Error Analysis
-- **Forgetting the 고**: Learners might often confuse this structure with similar phrases and forget to include 고.
-  
-### Learning Strategies
-- **Mnemonic Device**: Remember that ~고 connects actions like "and" and emphasizes with "말하다". Think of it as saying something definitive.
+### Common Errors
+- **Using direct quotes incorrectly:** Mixing up **~고 말하다** with direct quotation endings like **~라고 말했다**.
+- **Incorrect noun forms:** Forgetting to add **이라고** after nouns ending with a consonant.
+### Tips
+- **Mnemonic Device:** Remember that **~고 말하다** is like adding "that" in English indirect speech.
+- **Practice Variations:** Try conjugating with different verbs and nouns to become comfortable with the structure.
+---
 ## 7. Summary and Review
 ### Key Takeaways
-- **Meaning**: ~고 말하다 indicates that an action has been completed and emphasizes the statement.
-- **Use Cases**: Useful in both spoken and written contexts to convey strong emotions or confirmations.
+- **~고 말하다** is used for indirect speech, meaning "say that...".
+- Attach **~고 말하다** to verb and adjective stems.
+- Use **(이)라고 말하다** after nouns.
 ### Quick Recap Quiz
-1. Translate the sentence: "He said he finished the project." using ~고 말하다.
-2. Compare ~고 말하다 with another saying phrase. What is the emotional difference?
-By understanding ~고 말하다, you can effectively communicate assertive statements in various contexts in the Korean language!
+1. How do you say "He said that he is busy" in Korean?
+   - **Answer:** 그가 바쁘다고 말했어요.
+2. Fill in the blank: 그녀는 학생____ 말했어요.
+   - **Answer:** **이라고** (그녀는 학생이라고 말했어요.)
+3. True or False: **~고 말하다** and **~다고 하다** can be used interchangeably.
+   - **Answer:** **True**, but **~다고 하다** is more commonly used in everyday speech.
+---
+Feel free to revisit this lesson and practice using **~고 말하다** in your own sentences to enhance your understanding and fluency.
+
+---
+© [Hanabira.org](https://hanabira.org)

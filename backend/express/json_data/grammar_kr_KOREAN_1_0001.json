@@ -1,0 +1,2688 @@
+[
+  {
+    "title": "이/가 [i/ga] (Subject markers)",
+    "short_explanation": "These are subject markers used to identify and emphasize the subject in a sentence.",
+    "long_explanation": "'이/가 [i/ga]' are postpositions used in Korean to mark the subject of a sentence. They are attached right after a noun to indicate that the noun is the subject. The choice between '이' and '가' depends on whether the noun ends in a consonant or a vowel. If the noun ends with a consonant, '이' is used. If the noun ends with a vowel, '가' is used.",
+    "formation": "Noun + 이/가 + rest of the sentence",
+    "examples": [
+      {
+        "kr": "나는 사과를 먹어요, 근데 친구는 오렌지가 좋아요.",
+        "romaji": "Naneun sagwareul meogeoyo, geunde chinguneun orenjiga joayo.",
+        "en": "I eat apples, but my friend likes oranges.",
+        "grammar_audio": "/audio/korean/grammar/s_이가_iga_Subject_markers_20250209_나는_사과를_먹어요_근데_친구는_오렌지가_좋아요.mp3"
+      },
+      {
+        "kr": "저의 강아지가 소파 위에 뛰어요.",
+        "romaji": "Jeoi gangajiga sopa wie ttwieoyo.",
+        "en": "My dog jumps on the sofa.",
+        "grammar_audio": "/audio/korean/grammar/s_이가_iga_Subject_markers_20250209_저의_강아지가_소파_위에_뛰어요.mp3"
+      },
+      {
+        "kr": "이 책이 제일 재미있어요.",
+        "romaji": "I chaegi jeil jaemiisseoyo.",
+        "en": "This book is the most fun.",
+        "grammar_audio": "/audio/korean/grammar/s_이가_iga_Subject_markers_20250209_이_책이_제일_재미있어요.mp3"
+      },
+      {
+        "kr": "당신이 좋아하는 음식이 뭔가요?",
+        "romaji": "Dangsini joahaneun eumsigi mwongayo?",
+        "en": "What is the food that you like?",
+        "grammar_audio": "/audio/korean/grammar/s_이가_iga_Subject_markers_20250209_당신이_좋아하는_음식이_뭔가요.mp3"
+      }
+    ],
+    "p_tag": "KOREAN_1",
+    "s_tag": "25"
+  },
+  {
+    "title": "은/는 [eun/neun] (Topic markers)",
+    "short_explanation": "Used to mark the topic of a sentence or to contrast an idea or subject.",
+    "long_explanation": "'은/는 [eun/neun]' are particle markers in Korean used to introduce or highlight the topic of a sentence. They follow a noun to indicate what the speaker is talking about, drawing attention to it. '은 [eun]' is used after words ending with a consonant, and '는 [neun]' is used after words ending with a vowel. These markers can also be used to contrast an idea, person, or thing with another.",
+    "formation": "Noun + 은/는",
+    "examples": [
+      {
+        "kr": "나는 학생입니다. 나는 한국어를 배우고 있습니다.",
+        "romaji": "Naneun haksaengimnida. Naneun hangugeoreul baeugo itsseumnida.",
+        "en": "I am a student. I am learning Korean.",
+        "grammar_audio": "/audio/korean/grammar/s_은는_eunneun_Topic_markers_20250209_나는_학생입니다_나는_한국어를_배우고_있습니다.mp3"
+      },
+      {
+        "kr": "친구는 집에 있고, 저는 학교에 있습니다.",
+        "romaji": "Chinguneun jibe itgo, jeoneun hakgyoe itsseumnida.",
+        "en": "My friend is at home, and I am at school.",
+        "grammar_audio": "/audio/korean/grammar/s_은는_eunneun_Topic_markers_20250209_친구는_집에_있고_저는_학교에_있습니다.mp3"
+      },
+      {
+        "kr": "오늘은 비가 오고, 내일은 맑습니다.",
+        "romaji": "Oneuleun biga ogo, naeireun malgsseumnida.",
+        "en": "It's raining today, but it will be clear tomorrow.",
+        "grammar_audio": "/audio/korean/grammar/s_은는_eunneun_Topic_markers_20250209_오늘은_비가_오고_내일은_맑습니다.mp3"
+      },
+      {
+        "kr": "이것은 책이고, 저것은 연필입니다.",
+        "romaji": "Igeoseun chaegigo, jeogeoseun yeonpilimnida.",
+        "en": "This is a book, and that is a pencil.",
+        "grammar_audio": "/audio/korean/grammar/s_은는_eunneun_Topic_markers_20250209_이것은_책이고_저것은_연필입니다.mp3"
+      }
+    ],
+    "p_tag": "KOREAN_1",
+    "s_tag": "25"
+  },
+  {
+    "title": "을/를 [eul/reul] (Object markers)",
+    "short_explanation": "Used to mark the object of a sentence in Korean.",
+    "long_explanation": "'을/를 [eul/reul]' are object markers in Korean, indicating the object of an action in a sentence. They are used after a noun which is the object of the verb. They have no meaning on their own, but when attached to a noun, they signify that the noun is the object that the action of the verb is directed at.",
+    "formation": "Noun + 을/를 + Verb",
+    "examples": [
+      {
+        "kr": "저는 매일 아침에 커피를 마셔요.",
+        "romaji": "Jeoneun maeil achime keopireul masyeoyo.",
+        "en": "I drink coffee every morning.",
+        "grammar_audio": "/audio/korean/grammar/s_을를_eulreul_Object_markers_20250209_저는_매일_아침에_커피를_마셔요.mp3"
+      },
+      {
+        "kr": "저는 이 책을 읽고 있어요.",
+        "romaji": "Jeoneun i chaekeul ilgo isseoyo.",
+        "en": "I am reading this book.",
+        "grammar_audio": "/audio/korean/grammar/s_을를_eulreul_Object_markers_20250209_저는_이_책을_읽고_있어요.mp3"
+      },
+      {
+        "kr": "영화를 보러 가고 싶어요.",
+        "romaji": "Yeongwareul boreo gago sip-eoyo.",
+        "en": "I want to go watch a movie.",
+        "grammar_audio": "/audio/korean/grammar/s_을를_eulreul_Object_markers_20250209_영화를_보러_가고_싶어요.mp3"
+      },
+      {
+        "kr": "우리는 그들을 돕고 싶어요.",
+        "romaji": "Urineun geudeureul dobgo sip-eoyo.",
+        "en": "We want to help them.",
+        "grammar_audio": "/audio/korean/grammar/s_을를_eulreul_Object_markers_20250209_우리는_그들을_돕고_싶어요.mp3"
+      }
+    ],
+    "p_tag": "KOREAN_1",
+    "s_tag": "25"
+  },
+  {
+    "title": "아니다 [anida] (To not be)",
+    "short_explanation": "Used to express negation; 'to not be' or 'is not'.",
+    "long_explanation": "'아니다 [anida]' is a negative verb used in Korean to indicate the non-existence or negation of something. It stands as the negative form of the verb '이다' ('to be'). '아니다' is used when the speaker wants to say a statement is incorrect or a certain condition or state is not present. This verb changes its form depending on formality and tense.",
+    "formation": "Noun + 아니다",
+    "examples": [
+      {
+        "kr": "제 책이 아니에요, 그것은 내 친구의 책입니다.",
+        "romaji": "Je chaeki anieyo, geugeoseun nae chinguui chaegimnida.",
+        "en": "That's not my book, it's my friend's book.",
+        "grammar_audio": "/audio/korean/grammar/s_아니다_anida_To_not_be_20250209_제_책이_아니에요_그것은_내_친구의_책입니다.mp3"
+      },
+      {
+        "kr": "우리는 너무 늦지 않았어요, 아직도 충분한 시간이 있어요.",
+        "romaji": "Urineun neomu neutji anasseoyo, ajikdo chungbunhan sigani isseoyo.",
+        "en": "We are not too late, we still have plenty of time.",
+        "grammar_audio": "/audio/korean/grammar/s_아니다_anida_To_not_be_20250209_우리는_너무_늦지_않았어요_아직도_충분한_시간이_있어요.mp3"
+      },
+      {
+        "kr": "이 아름다운 공원은 자연이 아니에요, 인간이 만든 것입니다.",
+        "romaji": "I areumdaun gongwoneun jayeoni anieyo, ingani mandeun geosimnida.",
+        "en": "This beautiful park is not natural, it was made by humans.",
+        "grammar_audio": "/audio/korean/grammar/s_아니다_anida_To_not_be_20250209_이_아름다운_공원은_자연이_아니에요_인간이_만든_것입니다.mp3"
+      },
+      {
+        "kr": "그는 나의 친구가 아니에요, 우리는 그저 동료입니다.",
+        "romaji": "Geuneun naui chinguga anieyo, urineun geujeo donglyoimnida.",
+        "en": "He is not my friend, we are just colleagues.",
+        "grammar_audio": "/audio/korean/grammar/s_아니다_anida_To_not_be_20250209_그는_나의_친구가_아니에요_우리는_그저_동료입니다.mp3"
+      }
+    ],
+    "p_tag": "KOREAN_1",
+    "s_tag": "25"
+  },
+  {
+    "title": "예요/이에요 [yeyo/ieyo] (Copula in the present tense)",
+    "short_explanation": "Used to indicate that something or someone is a certain noun in a polite way (similar to 'is/am/are').",
+    "long_explanation": "'예요/이에요' are polite present-tense forms of the Korean copula '이다,' used after nouns to show identification or classification. Choose '이에요' if the noun ends in a consonant, and '예요' if the noun ends in a vowel.",
+    "formation": "Noun + 이에요 (if ending with a consonant) / 예요 (if ending with a vowel)",
+    "examples": [
+      {
+        "kr": "저는 학생이에요.",
+        "romaji": "Jeoneun haksaeng-ieyo.",
+        "en": "I am a student.",
+        "grammar_audio": "/audio/korean/grammar/s_예요이에요_yeyoieyo_Copula_in_the_present_tense_20250209_저는_학생이에요.mp3"
+      },
+      {
+        "kr": "이 사람은 제 친구예요.",
+        "romaji": "I sarameun je chingu-yeyo.",
+        "en": "This person is my friend.",
+        "grammar_audio": "/audio/korean/grammar/s_예요이에요_yeyoieyo_Copula_in_the_present_tense_20250209_이_사람은_제_친구예요.mp3"
+      },
+      {
+        "kr": "이것은 제 가방이에요.",
+        "romaji": "Igeoseun je gabang-ieyo.",
+        "en": "This is my bag.",
+        "grammar_audio": "/audio/korean/grammar/s_예요이에요_yeyoieyo_Copula_in_the_present_tense_20250209_이것은_제_가방이에요.mp3"
+      },
+      {
+        "kr": "제 취미는 독서예요.",
+        "romaji": "Je chwimineun dokseo-yeyo.",
+        "en": "My hobby is reading.",
+        "grammar_audio": "/audio/korean/grammar/s_예요이에요_yeyoieyo_Copula_in_the_present_tense_20250209_제_취미는_독서예요.mp3"
+      }
+    ],
+    "p_tag": "KOREAN_1",
+    "s_tag": "25"
+  },
+  {
+    "title": "아요/어요/여요 [ayo/eoyo/yeoyo] (Verb ending in present tense)",
+    "short_explanation": "Used as a polite verb ending in the present tense for verbs and adjectives.",
+    "long_explanation": "'아요/어요/여요 [ayo/eoyo/yeoyo]' are endings attached to Korean verbs or adjectives to form the present tense in a polite but not overly formal style. If the stem’s final vowel is '아' or '오', use '아요'. For all other vowels, use '어요'. When a verb ends in '하다', it typically changes to '해요' (the most common contraction of '하여요').",
+    "formation": "Verb/Adjective stem + 아요 (if stem ends in '아' or '오') / 어요 (if stem ends in other vowels) / 해요 (if stem ends with '하다')",
+    "examples": [
+      {
+        "kr": "나는 한국어 공부하고 있어요.",
+        "romaji": "Naneun hangugeo gongbuhago isseoyo.",
+        "en": "I am studying Korean.",
+        "grammar_audio": "/audio/korean/grammar/s_아요어요여요_ayoeoyoyeoyo_Verb_ending_in_present_tense_20250209_나는_한국어_공부하고_있어요.mp3"
+      },
+      {
+        "kr": "우리 엄마는 맛있는 음식을 만들어요.",
+        "romaji": "Uri eommaneun masitneun eumsigeul mandeureoyo.",
+        "en": "My mom makes delicious food.",
+        "grammar_audio": "/audio/korean/grammar/s_아요어요여요_ayoeoyoyeoyo_Verb_ending_in_present_tense_20250209_우리_엄마는_맛있는_음식을_만들어요.mp3"
+      },
+      {
+        "kr": "선생님은 학생들에게 한국 문화에 대해 가르치고 있어요.",
+        "romaji": "Seonsaengnimeun haksaengdeulege hanguk munhwa-e daehae gareuchigo isseoyo.",
+        "en": "The teacher is teaching the students about Korean culture.",
+        "grammar_audio": "/audio/korean/grammar/s_아요어요여요_ayoeoyoyeoyo_Verb_ending_in_present_tense_20250209_선생님은_학생들에게_한국_문화에_대해_가르치고_있어요.mp3"
+      },
+      {
+        "kr": "그는 점심시간에 가끔 산책하러 가요.",
+        "romaji": "Geuneun jeomsimsigan-e gakkeum sancaekhareo gayo.",
+        "en": "He sometimes goes for a walk during lunchtime.",
+        "grammar_audio": "/audio/korean/grammar/s_아요어요여요_ayoeoyoyeoyo_Verb_ending_in_present_tense_20250209_그는_점심시간에_가끔_산책하러_가요.mp3"
+      }
+    ],
+    "p_tag": "KOREAN_1",
+    "s_tag": "25"
+  },
+  {
+    "title": "고 [go] (And)",
+    "short_explanation": "Used to link two or more clauses in a sentence; similar to 'and' in English.",
+    "long_explanation": "'고 [go]' is a conjunction used in Korean to connect two or more clauses in a sentence, similar to the English conjunction 'and'. It can link actions, events, or states. In most cases, you remove '다' from the verb’s dictionary form and then add '고'.",
+    "formation": "Verb stem + 고 + Verb stem",
+    "examples": [
+      {
+        "kr": "저는 오늘 학교에 가고, 공부하고, 친구들과 점심을 먹었어요.",
+        "romaji": "Jeoneun oneul hakgyoe gago, gongbuhago, chingudeulgwa jeomsimeul meogeosseoyo.",
+        "en": "Today, I went to school, studied, and ate lunch with my friends.",
+        "grammar_audio": "/audio/korean/grammar/s_고_go_And_20250209_저는_오늘_학교에_가고_공부하고_친구들과_점심을_먹었어요.mp3"
+      },
+      {
+        "kr": "그는 춤을 추고, 노래를 하고, 재미있게 놀았어요.",
+        "romaji": "Geuneun chumeul chugo, noraereul hago, jaemiissge norasseoyo.",
+        "en": "He danced, sang, and had fun.",
+        "grammar_audio": "/audio/korean/grammar/s_고_go_And_20250209_그는_춤을_추고_노래를_하고_재미있게_놀았어요.mp3"
+      },
+      {
+        "kr": "나는 집에 가서 숙제를 하고 책을 읽었어요.",
+        "romaji": "Naneun jibe gaseo sukjerul hago chaegeul ilgeosseoyo.",
+        "en": "I went home, did my homework, and read a book.",
+        "grammar_audio": "/audio/korean/grammar/s_고_go_And_20250209_나는_집에_가서_숙제를_하고_책을_읽었어요.mp3"
+      },
+      {
+        "kr": "우리는 점심을 먹고 영화를 보러 갔어요.",
+        "romaji": "Urineun jeomsimeul meokgo yeonghwareul boreo gasseoyo.",
+        "en": "We ate lunch and went to watch a movie.",
+        "grammar_audio": "/audio/korean/grammar/s_고_go_And_20250209_우리는_점심을_먹고_영화를_보러_갔어요.mp3"
+      }
+    ],
+    "p_tag": "KOREAN_1",
+    "s_tag": "25"
+  },
+  {
+    "title": "하고 [hago] (And, with)",
+    "short_explanation": "Used to express 'and' or 'with' when connecting nouns or activities shared with someone.",
+    "long_explanation": "'하고 [hago]' is a conjunction used in Korean to link or associate two or more nouns (similar to 'and'), or to express doing something together with someone (similar to 'with'). It implies a joint action or connection between the listed nouns or people.",
+    "formation": "Noun 1 + 하고 + Noun 2",
+    "examples": [
+      {
+        "kr": "저는 친구하고 영화를 보고 밥을 먹었어요, 그리고 집에 가서 숙제를 했어요.",
+        "romaji": "Jeoneun chinguhago yeongwareul bogo babeul meogeosseoyo, geurigo jibe gaseo sukjereul haesseoyo.",
+        "en": "I watched a movie and ate with my friend, then went home and did my homework.",
+        "grammar_audio": "/audio/korean/grammar/s_하고_hago_And_with_20250209_저는_친구하고_영화를_보고_밥을_먹었어요_그리고_집에_가서_숙제를_했어요.mp3"
+      },
+      {
+        "kr": "이번 주말에는 가족하고 여행을 가기로 결정했어요.",
+        "romaji": "Ibeon jumaleneun gajokhago yeohaengeul gagiro gyeoljeonghaesseoyo.",
+        "en": "I decided to go on a trip with my family this weekend.",
+        "grammar_audio": "/audio/korean/grammar/s_하고_hago_And_with_20250209_이번_주말에는_가족하고_여행을_가기로_결정했어요.mp3"
+      },
+      {
+        "kr": "피터하고 메리는 함께 학교에 갔어요.",
+        "romaji": "Piteohago Merineun hamkke hakgyoe gasseoyo.",
+        "en": "Peter and Mary went to school together.",
+        "grammar_audio": "/audio/korean/grammar/s_하고_hago_And_with_20250209_피터하고_메리는_함께_학교에_갔어요.mp3"
+      },
+      {
+        "kr": "나는 오늘 아빠하고 쇼핑하러 갈 계획이에요.",
+        "romaji": "Naneun oneul appahago syopinghareo gal gyehoegieyo.",
+        "en": "I plan to go shopping with my dad today.",
+        "grammar_audio": "/audio/korean/grammar/s_하고_hago_And_with_20250209_나는_오늘_아빠하고_쇼핑하러_갈_계획이에요.mp3"
+      }
+    ],
+    "p_tag": "KOREAN_1",
+    "s_tag": "25"
+  },
+  {
+    "title": "(으)세요 [(eu)seyo] (Imperative form)",
+    "short_explanation": "Used to give orders, instructions, or make polite requests.",
+    "long_explanation": "'(으)세요 [(eu)seyo]' is an imperative form in Korean used to request or command someone to do something politely. It is considered an honorific form, so it is used when speaking to someone older or of higher status, or simply to be polite. Use '세요' if the verb stem ends with a vowel, and '으세요' if the verb stem ends with a consonant.",
+    "formation": "Verb stem + 세요 (if stem’s final syllable is a vowel) / 으세요 (if stem’s final syllable is a consonant)",
+    "examples": [
+      {
+        "kr": "조심해서 건너세요, 사고가 날 수 있어요.",
+        "romaji": "Josimhaeseo geonneoseyo, sagoga nal su isseoyo.",
+        "en": "Cross carefully, there could be an accident.",
+        "grammar_audio": "/audio/korean/grammar/s_으세요_euseyo_Imperative_form_20250209_조심해서_건너세요_사고가_날_수_있어요.mp3"
+      },
+      {
+        "kr": "집에 돌아가서 먹어야 할 약을 먹으세요.",
+        "romaji": "Jibe doragaseo meog-eoya hal yag-eul meog-euseyo.",
+        "en": "Go home and take the medicine you need to take.",
+        "grammar_audio": "/audio/korean/grammar/s_으세요_euseyo_Imperative_form_20250209_집에_돌아가서_먹어야_할_약을_먹으세요.mp3"
+      },
+      {
+        "kr": "이 메시지를 받으면 답장하세요.",
+        "romaji": "I mesijireul badeumyeon dapjanghaseyo.",
+        "en": "Reply once you receive this message.",
+        "grammar_audio": "/audio/korean/grammar/s_으세요_euseyo_Imperative_form_20250209_이_메시지를_받으면_답장하세요.mp3"
+      },
+      {
+        "kr": "오늘 저녁에 만나야 할 사람들에게 미리 전화하세요.",
+        "romaji": "Oneul jeonyeog-e manna-ya hal saramdeuregge miri jeonhwahaseyo.",
+        "en": "Call the people you have to meet this evening in advance.",
+        "grammar_audio": "/audio/korean/grammar/s_으세요_euseyo_Imperative_form_20250209_오늘_저녁에_만나야_할_사람들에게_미리_전화하세요.mp3"
+      }
+    ],
+    "p_tag": "KOREAN_1",
+    "s_tag": "25"
+  },
+  {
+    "title": "(으)ㄹ 수 있다 [(eu)l su itda] (Can do)",
+    "short_explanation": "This form indicates the potential ability or possibility to perform something.",
+    "long_explanation": "'(으)ㄹ 수 있다' is a fundamental Korean grammar point that conveys the potential ability to do something. It works like 'can' in English. It indicates that an action is possible or that an event may occur, and also implies that the speaker (or subject) either has the ability or the permission to do the action described by the preceding verb.",
+    "formation": "Verb Stem + (으)ㄹ 수 있다",
+    "examples": [
+      {
+        "kr": "그녀는 한국어를 매우 빠르게 배울 수 있으므로, 한 달 만에 토픽 시험을 볼 수 있을 것입니다.",
+        "romaji": "Geunyeoneun hangugeoreul maeu bbareuge baeul su isseumuro, han dal mane topik siheomeul bol su isseul geosimnida.",
+        "en": "Because she can learn Korean very quickly, she will be able to take the TOPIK test in a month.",
+        "grammar_audio": "/audio/korean/grammar/s_으ㄹ_수_있다_eul_su_itda_Can_do_20250209_그녀는_한국어를_매우_빠르게_배울_수_있으므로_한_달_만에_토픽_시험을_볼_수_있을_것입니다.mp3"
+      },
+      {
+        "kr": "집이 가까우니까, 열심히 공부하면 한 달 안에 한국어를 유창하게 할 수 있어요.",
+        "romaji": "Jibi gakkaunikka, yeolsimhi gongbuhamyeon han dal ane hangugeoreul yuchanghage hal su isseoyo.",
+        "en": "Since your house is nearby, if you study hard, you can become fluent in Korean within a month.",
+        "grammar_audio": "/audio/korean/grammar/s_으ㄹ_수_있다_eul_su_itda_Can_do_20250209_집이_가까우니까_열심히_공부하면_한_달_안에_한국어를_유창하게_할_수_있어요.mp3"
+      },
+      {
+        "kr": "그것에 대해 많이 알고 있어서, 그에 대한 모든 질문에 답할 수 있어요.",
+        "romaji": "Geugeote daehae manhi algo isseoseo, geue daehan modeun jilmune daphal su isseoyo.",
+        "en": "Since I know a lot about it, I can answer all questions related to it.",
+        "grammar_audio": "/audio/korean/grammar/s_으ㄹ_수_있다_eul_su_itda_Can_do_20250209_그것에_대해_많이_알고_있어서_그에_대한_모든_질문에_답할_수_있어요.mp3"
+      },
+      {
+        "kr": "당신이 이해하기 어렵다면, 조금 더 천천히 말할 수 있어요.",
+        "romaji": "Dangsini ihaehagi eoryeopdamyeon, jogeum deo cheoncheonhi malhal su isseoyo.",
+        "en": "If you find it hard to understand, I can speak a bit more slowly.",
+        "grammar_audio": "/audio/korean/grammar/s_으ㄹ_수_있다_eul_su_itda_Can_do_20250209_당신이_이해하기_어렵다면_조금_더_천천히_말할_수_있어요.mp3"
+      }
+    ],
+    "p_tag": "KOREAN_1",
+    "s_tag": "25"
+  },
+  {
+    "title": "(으)려고 [(eu)ryeogo] (Intention to do)",
+    "short_explanation": "Used to express the speaker's intention or plan to do something.",
+    "long_explanation": "The '(으)려고' form is used in Korean to express intention or a plan to do something. It can be translated roughly as 'in order to,' 'intend to,' or 'plan to.' You can use it when talking about your own intentions or other people's intentions that you know of. It often implies a future action or purposeful activity.",
+    "formation": "Verb Stem + (으)려고",
+    "examples": [
+      {
+        "kr": "저는 한국어를 배우려고 한국에 왔어요.",
+        "romaji": "Jeoneun hangugeoreul baeuryeogo hanguk-e wasseoyo.",
+        "en": "I came to Korea to learn Korean.",
+        "grammar_audio": "/audio/korean/grammar/s_으려고_euryeogo_Intention_to_do_20250209_저는_한국어를_배우려고_한국에_왔어요.mp3"
+      },
+      {
+        "kr": "누나는 살을 빼려고 운동하고 있어요.",
+        "romaji": "Nunaneun sal-eul ppaeryeogo undonghago isseoyo.",
+        "en": "My older sister is exercising in order to lose weight.",
+        "grammar_audio": "/audio/korean/grammar/s_으려고_euryeogo_Intention_to_do_20250209_누나는_살을_빼려고_운동하고_있어요.mp3"
+      },
+      {
+        "kr": "학생들은 시험에 통과하려고 열심히 공부하고 있어요.",
+        "romaji": "Haksaengdeureun siheome tonggwaharyeogo yeolsimhi gongbuhago isseoyo.",
+        "en": "The students are studying hard in order to pass the exam.",
+        "grammar_audio": "/audio/korean/grammar/s_으려고_euryeogo_Intention_to_do_20250209_학생들은_시험에_통과하려고_열심히_공부하고_있어요.mp3"
+      },
+      {
+        "kr": "아빠는 아이들에게 좋은 생활을 제공하려고 매일 일해요.",
+        "romaji": "Appaneun aideurege joeun saenghwareul jegongharyeogo maeil ilhaeyo.",
+        "en": "Father works every day to provide a good life for his children.",
+        "grammar_audio": "/audio/korean/grammar/s_으려고_euryeogo_Intention_to_do_20250209_아빠는_아이들에게_좋은_생활을_제공하려고_매일_일해요.mp3"
+      }
+    ],
+    "p_tag": "KOREAN_1",
+    "s_tag": "25"
+  },
+  {
+    "title": "(으)ㄴ/는다 [(eu)n/neunda] (Informal statement endings)",
+    "short_explanation": "Used in informal or plain-style statements to make assertions or descriptions.",
+    "long_explanation": "'(으)ㄴ/는다' are plain-style (informal) statement endings in Korean. They often appear in written narratives, diaries, or casual speech among peers. If the verb stem ends in a vowel, use 'ㄴ다.' If the verb stem ends in a consonant, use '는다.'",
+    "formation": "Verb stem + ㄴ다 (if stem ends with a vowel), Verb stem + 는다 (if stem ends with a consonant)",
+    "examples": [
+      {
+        "kr": "나는 오늘 자정에 집에 돌아온다.",
+        "romaji": "Naneun oneul jajeong-e jibe doraonda.",
+        "en": "I’m coming back home at midnight today.",
+        "grammar_audio": "/audio/korean/grammar/s_으ㄴ는다_eunneunda_Informal_statement_endings_20250209_나는_오늘_자정에_집에_돌아온다.mp3"
+      },
+      {
+        "kr": "그는 스페인어를 잘 한다.",
+        "romaji": "Geuneun seupeineoreul jal handa.",
+        "en": "He speaks Spanish well.",
+        "grammar_audio": "/audio/korean/grammar/s_으ㄴ는다_eunneunda_Informal_statement_endings_20250209_그는_스페인어를_잘_한다.mp3"
+      },
+      {
+        "kr": "이 커피는 너무 진하다.",
+        "romaji": "I keopineun neomu jinhada.",
+        "en": "This coffee is too strong.",
+        "grammar_audio": "/audio/korean/grammar/s_으ㄴ는다_eunneunda_Informal_statement_endings_20250209_이_커피는_너무_진하다.mp3"
+      },
+      {
+        "kr": "우리는 내일 공원에 가서 피크닉을 한다.",
+        "romaji": "Urineun naeil gongwone gaseo piknikeul handa.",
+        "en": "We’ll go to the park tomorrow and have a picnic.",
+        "grammar_audio": "/audio/korean/grammar/s_으ㄴ는다_eunneunda_Informal_statement_endings_20250209_우리는_내일_공원에_가서_피크닉을_한다.mp3"
+      }
+    ],
+    "p_tag": "KOREAN_1",
+    "s_tag": "25"
+  },
+  {
+    "title": "도 [do] (Too, also)",
+    "short_explanation": "Used to indicate addition, similarity, or emphasis ('too', 'also', 'even').",
+    "long_explanation": "'도' is a particle that means 'too,' 'also,' or 'even' depending on context. It can be attached to nouns, pronouns, or other particles, indicating that the mentioned item is in addition to or shares the same property/action as something else.",
+    "formation": "Noun (or pronoun) + 도",
+    "examples": [
+      {
+        "kr": "나는 커피를 좋아하고, 친구도 커피를 좋아해요.",
+        "romaji": "Naneun keopireul joahago, chingudo keopireul joahaeyo.",
+        "en": "I like coffee, and my friend also likes coffee.",
+        "grammar_audio": "/audio/korean/grammar/s_도_do_Too_also_20250209_나는_커피를_좋아하고_친구도_커피를_좋아해요.mp3"
+      },
+      {
+        "kr": "철수는 축구를 할 수 있어요, 그리고 민희도 축구를 할 수 있어요.",
+        "romaji": "Cheolsuneun chukgureul hal su isseoyo, geurigo Minheedo chukgureul hal su isseoyo.",
+        "en": "Cheolsu can play soccer, and Minhee can also play soccer.",
+        "grammar_audio": "/audio/korean/grammar/s_도_do_Too_also_20250209_철수는_축구를_할_수_있어요_그리고_민희도_축구를_할_수_있어요.mp3"
+      },
+      {
+        "kr": "이 영화는 재미있어요, 그래서 많은 사람들이 지금까지도 계속 이 영화를 봐요.",
+        "romaji": "I yeonghwaneun jaemiisseoyo, geuraeseo maneun saramdeuri jigeumkkajido gyesok i yeonghwareul bwayo.",
+        "en": "This movie is fun, so many people still continue to watch it.",
+        "grammar_audio": "/audio/korean/grammar/s_도_do_Too_also_20250209_이_영화는_재미있어요_그래서_많은_사람들이_지금까지도_계속_이_영화를_봐요.mp3"
+      },
+      {
+        "kr": "이번 시험은 어려웠어요, 그래서 나도, 친구들도 잘 못 봤어요.",
+        "romaji": "Ibeon siheomeun eoryeowosseoyo, geuraeseo nado, chingudeuldo jal mot bwasseoyo.",
+        "en": "This test was difficult, so both I and my friends didn’t do well.",
+        "grammar_audio": "/audio/korean/grammar/s_도_do_Too_also_20250209_이번_시험은_어려웠어요_그래서_나도_친구들도_잘_못_봤어요.mp3"
+      }
+    ],
+    "p_tag": "KOREAN_1",
+    "s_tag": "25"
+  },
+  {
+    "title": "만 [man] (Only)",
+    "short_explanation": "Used to express the concept of 'only' or 'just' in Korean.",
+    "long_explanation": "'만' is a particle that indicates exclusivity. The noun (or pronoun) before '만' is the only or the sole subject/object in the context, emphasizing that no other people, items, or circumstances apply.",
+    "formation": "Noun + 만",
+    "examples": [
+      {
+        "kr": "저는 커피만 마십니다. 차는 마시지 않아요.",
+        "romaji": "Jeoneun keopiman masimnida. Chaneun masiji anhayo.",
+        "en": "I only drink coffee. I don’t drink tea.",
+        "grammar_audio": "/audio/korean/grammar/s_만_man_Only_20250209_저는_커피만_마십니다_차는_마시지_않아요.mp3"
+      },
+      {
+        "kr": "제 친구는 한국어만 할 줄 알아요. 다른 언어는 전혀 못 해요.",
+        "romaji": "Je chinguneun hangugeoman hal jul arayo. Dareun eoneoneun jeonhyeo mot haeyo.",
+        "en": "My friend can only speak Korean. He can’t speak any other language at all.",
+        "grammar_audio": "/audio/korean/grammar/s_만_man_Only_20250209_제_친구는_한국어만_할_줄_알아요_다른_언어는_전혀_못_해요.mp3"
+      },
+      {
+        "kr": "저는 데이트를 할 때 영화만 보러 가요. 다른 활동은 잘 안 해요.",
+        "romaji": "Jeoneun deiteureul hal ttae yeonghwaman boreo gayo. Dareun hwaldongeun jal an haeyo.",
+        "en": "When I go on dates, I only go to the movies. I don’t really do other activities.",
+        "grammar_audio": "/audio/korean/grammar/s_만_man_Only_20250209_저는_데이트를_할_때_영화만_보러_가요_다른_활동은_잘_안_해요.mp3"
+      },
+      {
+        "kr": "이번 달에는 돈을 아끼려고 교통비만 썼어요. 다른 데에는 안 썼어요.",
+        "romaji": "Ibeon dal-eneun doneul akkiryeogo gyotongbiman sseosseoyo. Dareun de-e-neun an sseosseoyo.",
+        "en": "This month, to save money, I only spent on transportation. I didn’t spend on anything else.",
+        "grammar_audio": "/audio/korean/grammar/s_만_man_Only_20250209_이번_달에는_돈을_아끼려고_교통비만_썼어요_다른_데에는_안_썼어요.mp3"
+      }
+    ],
+    "p_tag": "KOREAN_1",
+    "s_tag": "25"
+  },
+  {
+    "title": "와/과 [wa/gwa] (And, with – for nouns)",
+    "short_explanation": "Used to link two nouns in a similar way to 'and' or 'with' in English.",
+    "long_explanation": "'와/과' is a particle used to connect two nouns in Korean. If the final character of the first noun is a vowel, '와' is used. If it is a consonant, '과' is used. It can mean 'and' or 'with,' depending on context.",
+    "formation": "Noun (ending in vowel) + 와 + Noun / Noun (ending in consonant) + 과 + Noun",
+    "examples": [
+      {
+        "kr": "나는 공원에서 강아지와 뛰어놀았어요.",
+        "romaji": "Naneun gongwon-eseo gangajiwa ttwieonorasseoyo.",
+        "en": "I played with a puppy in the park.",
+        "grammar_audio": "/audio/korean/grammar/s_와과_wagwa_And_with_–_for_nouns_20250209_나는_공원에서_강아지와_뛰어놀았어요.mp3"
+      },
+      {
+        "kr": "나는 빵과 커피를 함께 먹는 것을 좋아해요.",
+        "romaji": "Naneun ppang-gwa keopireul hamkke meokneun geoseul joahaeyo.",
+        "en": "I like eating bread and coffee together.",
+        "grammar_audio": "/audio/korean/grammar/s_와과_wagwa_And_with_–_for_nouns_20250209_나는_빵과_커피를_함께_먹는_것을_좋아해요.mp3"
+      },
+      {
+        "kr": "친구와 연필과 함께 공부했어요.",
+        "romaji": "Chinguwa yeonpilgwa hamkke gongbuhaesseoyo.",
+        "en": "I studied with a friend and a pencil.",
+        "grammar_audio": "/audio/korean/grammar/s_와과_wagwa_And_with_–_for_nouns_20250209_친구와_연필과_함께_공부했어요.mp3"
+      },
+      {
+        "kr": "나는 내 가족과 여행을 갔어요.",
+        "romaji": "Naneun nae gajok-gwa yeohaengeul gasseoyo.",
+        "en": "I went on a trip with my family.",
+        "grammar_audio": "/audio/korean/grammar/s_와과_wagwa_And_with_–_for_nouns_20250209_나는_내_가족과_여행을_갔어요.mp3"
+      }
+    ],
+    "p_tag": "KOREAN_1",
+    "s_tag": "25"
+  },
+  {
+    "title": "부터 [buteo] (From)",
+    "short_explanation": "Used to indicate the starting point in time or space; 'from'.",
+    "long_explanation": "'부터' indicates the starting point of an action, period, or range in Korean. It translates to 'from' in English. It is frequently used with time expressions (e.g., '오늘부터' = 'from today').",
+    "formation": "Noun + 부터",
+    "examples": [
+      {
+        "kr": "나는 오늘부터 다이어트를 시작할 거예요, 그래서 단 것은 더 이상 먹지 않을 거예요.",
+        "romaji": "Naneun oneulbuteo daieoteureul sijakhal geoyeyo, geuraeseo dan geoseun deo isang meokji anheul geoyeyo.",
+        "en": "I’ll start dieting from today, so I won’t eat sweets anymore.",
+        "grammar_audio": "/audio/korean/grammar/s_부터_buteo_From_20250209_나는_오늘부터_다이어트를_시작할_거예요_그래서_단_것은_더_이상_먹지_않을_거예요.mp3"
+      },
+      {
+        "kr": "어린이부터 어른까지 모두 이 영화를 즐길 수 있어요.",
+        "romaji": "Eorinibuteo eoreunkkaji modu i yeonghwareul jeulgil su isseoyo.",
+        "en": "Everyone from children to adults can enjoy this movie.",
+        "grammar_audio": "/audio/korean/grammar/s_부터_buteo_From_20250209_어린이부터_어른까지_모두_이_영화를_즐길_수_있어요.mp3"
+      },
+      {
+        "kr": "우리는 내일부터 다시 일을 시작해야 해요, 그러니 오늘은 푹 쉬세요.",
+        "romaji": "Urineun naeilbuteo dashi ireul sijakhaya haeyo, geureoni oneureun puk swiseyo.",
+        "en": "We have to start work again from tomorrow, so get plenty of rest today.",
+        "grammar_audio": "/audio/korean/grammar/s_부터_buteo_From_20250209_우리는_내일부터_다시_일을_시작해야_해요_그러니_오늘은_푹_쉬세요.mp3"
+      },
+      {
+        "kr": "나는 작년 여름부터 한국어를 공부하기 시작했어요, 그래서 이제 조금은 할 수 있어요.",
+        "romaji": "Naneun jaknyeon yeoreumbuteo hangugeoreul gongbuhagi sijakhaesseoyo, geuraeseo ije jogeumeun hal su isseoyo.",
+        "en": "I started studying Korean from last summer, so now I can speak a little.",
+        "grammar_audio": "/audio/korean/grammar/s_부터_buteo_From_20250209_나는_작년_여름부터_한국어를_공부하기_시작했어요_그래서_이제_조금은_할_수_있어요.mp3"
+      }
+    ],
+    "p_tag": "KOREAN_1",
+    "s_tag": "25"
+  },
+  {
+    "title": "까지 [kkaji] (Until, up to)",
+    "short_explanation": "Used to mark the endpoint or limit in time, space, amount, or degree.",
+    "long_explanation": "'까지' is a postposition that indicates the limit or endpoint of a range in Korean, similar to 'until' or 'up to' in English. It is widely used with time expressions (e.g., '내일까지' = 'until tomorrow'), as well as physical locations or quantities.",
+    "formation": "Noun + 까지",
+    "examples": [
+      {
+        "kr": "첫 번째 학기는 총 여섯 달 동안이에요. 즉, 1월부터 6월까지입니다.",
+        "romaji": "Cheot beonjjae hakgineun chong yeoseot dal dongan-ieyo. Jik, irwolbuteo yugwolkkajiimnida.",
+        "en": "The first semester lasts for six months, that is, from January until June.",
+        "grammar_audio": "/audio/korean/grammar/s_까지_kkaji_Until_up_to_20250209_첫_번째_학기는_총_여섯_달_동안이에요_즉_1월부터_6월까지입니다.mp3"
+      },
+      {
+        "kr": "저는 매일 아침 일찍 일어나서 밤 10시까지 일합니다.",
+        "romaji": "Jeoneun maeil achim iljjik ireonaseo bam yeolsotsikkaji ilhamnida.",
+        "en": "I wake up early every morning and work until 10 p.m.",
+        "grammar_audio": "/audio/korean/grammar/s_까지_kkaji_Until_up_to_20250209_저는_매일_아침_일찍_일어나서_밤_10시까지_일합니다.mp3"
+      },
+      {
+        "kr": "오늘은 돈이 오천 원까지밖에 없어서 저녁을 거르게 됐어요.",
+        "romaji": "Oneureun doni ocheon won-kkajibakke eopseoseo jeonyeogeul georeuge dwaesseoyo.",
+        "en": "I only had up to 5,000 won today, so I ended up skipping dinner.",
+        "grammar_audio": "/audio/korean/grammar/s_까지_kkaji_Until_up_to_20250209_오늘은_돈이_오천_원까지밖에_없어서_저녁을_거르게_됐어요.mp3"
+      },
+      {
+        "kr": "지금까지 한 일을 포함해서 모든 내용을 보고서에 적어주세요.",
+        "romaji": "Jigeumkkaji han ireul pohamhaeseo modeun naeyongeul bogoseoe jeogeojuseyo.",
+        "en": "Please include everything you’ve done up until now in the report.",
+        "grammar_audio": "/audio/korean/grammar/s_까지_kkaji_Until_up_to_20250209_지금까지_한_일을_포함해서_모든_내용을_보고서에_적어주세요.mp3"
+      }
+    ],
+    "p_tag": "KOREAN_1",
+    "s_tag": "25"
+  },
+  {
+    "title": "아/어/여서 [a/eo/yeoseo] (Because, since)",
+    "short_explanation": "Used to denote a reason or cause, similar to 'because' or 'since' in English.",
+    "long_explanation": "'아/어/여서' is a conjunctive ending that indicates the reason or cause of the following clause. It is attached directly to the verb or adjective stem to show why something happened.",
+    "formation": "Verb/Adjective Stem + 아/어/여서",
+    "examples": [
+      {
+        "kr": "밖에 비가 와서 감기에 걸렸어요, 그래서 학교에 못 갔어요.",
+        "romaji": "Bakke biga waseo gamgie geollyeosseoyo, geuraeseo hakgyoe mot gasseoyo.",
+        "en": "Because it rained outside, I caught a cold, so I couldn’t go to school.",
+        "grammar_audio": "/audio/korean/grammar/s_아어여서_aeoyeoseo_Because_since_20250209_밖에_비가_와서_감기에_걸렸어요_그래서_학교에_못_갔어요.mp3"
+      },
+      {
+        "kr": "그는 배가 고파서 간식을 준비했어요.",
+        "romaji": "Geuneun baega gopaseo gansigeul junbihaesseoyo.",
+        "en": "Because he was hungry, I prepared a snack.",
+        "grammar_audio": "/audio/korean/grammar/s_아어여서_aeoyeoseo_Because_since_20250209_그는_배가_고파서_간식을_준비했어요.mp3"
+      },
+      {
+        "kr": "영화를 보느라고 시간이 없어서 숙제를 전혀 못 했어요.",
+        "romaji": "Yeonghwareul boneurago sigani eopseoseo sukjereul jeonhyeo mot haesseoyo.",
+        "en": "Since I was watching a movie and didn’t have time, I couldn’t do any homework.",
+        "grammar_audio": "/audio/korean/grammar/s_아어여서_aeoyeoseo_Because_since_20250209_영화를_보느라고_시간이_없어서_숙제를_전혀_못_했어요.mp3"
+      },
+      {
+        "kr": "수업이 어렵다고 생각해서 매일 열심히 공부하고 있어요.",
+        "romaji": "Sueobi eoryeopdago saenggakhaeseo maeil yeolsimhi gongbuhago isseoyo.",
+        "en": "Because I think the class is difficult, I study hard every day.",
+        "grammar_audio": "/audio/korean/grammar/s_아어여서_aeoyeoseo_Because_since_20250209_수업이_어렵다고_생각해서_매일_열심히_공부하고_있어요.mp3"
+      }
+    ],
+    "p_tag": "KOREAN_1",
+    "s_tag": "25"
+  },
+  {
+    "title": "(으)면 [(eu)myeon] (If, when)",
+    "short_explanation": "This is generally used to express 'if' or 'when'. It's employed to present conditions and the possible consequences of those conditions.",
+    "long_explanation": "(으)면 [(eu)myeon] is a conditional ending in Korean attached to a verb or adjective stem. It can mean 'if', 'when', or 'in case'. This grammar point sets up a condition in the (으)면-clause, and the main clause explains the result or consequence that follows from that condition.",
+    "formation": "Verb/Adjective stem + (으)면",
+    "examples": [
+      {
+        "kr": "시간이 있으면, 저는 매일 한국어를 공부하고 싶어요.",
+        "romaji": "Sigani isseumyeon, jeoneun maeil hangugeoreul gongbuhago sip-eoyo.",
+        "en": "If I have time, I want to study Korean every day.",
+        "grammar_audio": "/audio/korean/grammar/s_으면_eumyeon_If_when_20250209_시간이_있으면_저는_매일_한국어를_공부하고_싶어요.mp3"
+      },
+      {
+        "kr": "날씨가 좋으면 나는 산에 등산하러 갈 거야.",
+        "romaji": "Nalssiga joheumyeon naneun sane deungsanhareo gal geoya.",
+        "en": "If the weather is good, I will go hiking in the mountains.",
+        "grammar_audio": "/audio/korean/grammar/s_으면_eumyeon_If_when_20250209_날씨가_좋으면_나는_산에_등산하러_갈_거야.mp3"
+      },
+      {
+        "kr": "피곤하면 일찍 자는 것이 좋아요.",
+        "romaji": "Pigonhamyeon iljjik janeun geosi joayo.",
+        "en": "If you are tired, it's good to sleep early.",
+        "grammar_audio": "/audio/korean/grammar/s_으면_eumyeon_If_when_20250209_피곤하면_일찍_자는_것이_좋아요.mp3"
+      },
+      {
+        "kr": "이 테스트를 통과하면, 나는 학교에 입학할 수 있어요.",
+        "romaji": "I teseuteureul tonggwahamyeon, naneun hakgyoe ibhakhal su isseoyo.",
+        "en": "If I pass this test, I can enter school.",
+        "grammar_audio": "/audio/korean/grammar/s_으면_eumyeon_If_when_20250209_이_테스트를_통과하면_나는_학교에_입학할_수_있어요.mp3"
+      }
+    ],
+    "p_tag": "KOREAN_1",
+    "s_tag": "25"
+  },
+  {
+    "title": "너무 [neomu] (Too, very)",
+    "short_explanation": "Used to express a high degree or extent; 'too', 'very'.",
+    "long_explanation": "'너무 [neomu]' is an adverb in Korean that emphasizes a strong degree or intensity of something. It can mean 'too (much)' or 'very', highlighting that something goes beyond the norm or is extremely so. It typically modifies verbs or adjectives.",
+    "formation": "너무 + Adjective/Verb",
+    "examples": [
+      {
+        "kr": "이것은 너무 맛있어서 제가 모두 먹어버렸어요. 다른 사람들을 위해 남겨두지 못했습니다.",
+        "romaji": "Igeoseun neomu masisseoseo jega modu meogeobeoryeosseoyo. Dareun saramdeureul wihae namgyeoduji moshaessseumnida.",
+        "en": "This was so delicious that I ate it all; I couldn't leave any for others.",
+        "grammar_audio": "/audio/korean/grammar/s_너무_neomu_Too_very_20250209_이것은_너무_맛있어서_제가_모두_먹어버렸어요_다른_사람들을_위해_남겨두지_못했습니다.mp3"
+      },
+      {
+        "kr": "이 영화는 너무 재미있어서 저는 이미 세 번이나 봤어요. 아직도 다시 보고 싶어요.",
+        "romaji": "I yeonghwaneun neomu jaemiisseoseo jeoneun imi se beonina bwasseoyo. Ajikdo dasi bogo sip-eoyo.",
+        "en": "This movie is so fun that I've already watched it three times, and I still want to watch it again.",
+        "grammar_audio": "/audio/korean/grammar/s_너무_neomu_Too_very_20250209_이_영화는_너무_재미있어서_저는_이미_세_번이나_봤어요_아직도_다시_보고_싶어요.mp3"
+      },
+      {
+        "kr": "그녀가 너무 예뻐서 저는 매일 그녀를 볼 수 있으면 좋겠어요, 하지만 그녀는 저를 몰라요.",
+        "romaji": "Geunyeoga neomu yeppeoseo jeoneun maeil geunyeoreul bol su isseumyeon johgess-eoyo, hajiman geunyeoneun jeoreul mollayo.",
+        "en": "She is so pretty that I wish I could see her every day, but she doesn't know me.",
+        "grammar_audio": "/audio/korean/grammar/s_너무_neomu_Too_very_20250209_그녀가_너무_예뻐서_저는_매일_그녀를_볼_수_있으면_좋겠어요_하지만_그녀는_저를_몰라요.mp3"
+      },
+      {
+        "kr": "피자가 너무 맛있어서 저는 매주 먹어요, 하지만 이제부터는 조금 줄여야 될 것 같아요.",
+        "romaji": "Pijaga neomu masisseoseo jeoneun maeju meogeoyo, hajiman ijebuteoneun jogeum julyeoya doel geot gatayo.",
+        "en": "The pizza is so delicious that I eat it every week, but I think I should cut down a bit from now on.",
+        "grammar_audio": "/audio/korean/grammar/s_너무_neomu_Too_very_20250209_피자가_너무_맛있어서_저는_매주_먹어요_하지만_이제부터는_조금_줄여야_될_것_같아요.mp3"
+      }
+    ],
+    "p_tag": "KOREAN_1",
+    "s_tag": "25"
+  },
+  {
+    "title": "많이 [manhi] (A lot)",
+    "short_explanation": "Used to express a large quantity, frequency, or degree; 'a lot', 'many', 'much'.",
+    "long_explanation": "'많이 [manhi]' is an adverb that indicates a large amount, frequency, or degree. It can be used with verbs, adjectives, and sometimes nouns (in certain constructions). It's similar to 'a lot' or 'much' in English.",
+    "formation": "Verb + 많이",
+    "examples": [
+      {
+        "kr": "저는 친구가 많이 필요해서 항상 사람들을 만나러 다니는 편이에요.",
+        "romaji": "Jeoneun chinguga manhi piryohaeseo hangsang saramdeureul mannareo danineun pyeon-ieyo.",
+        "en": "I need a lot of friends, so I tend to go out to meet people.",
+        "grammar_audio": "/audio/korean/grammar/s_많이_manhi_A_lot_20250209_저는_친구가_많이_필요해서_항상_사람들을_만나러_다니는_편이에요.mp3"
+      },
+      {
+        "kr": "그 영화를 봤어요? 저는 많이 웃었어요!",
+        "romaji": "Geu yeonghwareul bwasseoyo? Jeoneun manhi useosseoyo!",
+        "en": "Have you seen that movie? I laughed a lot!",
+        "grammar_audio": "/audio/korean/grammar/s_많이_manhi_A_lot_20250209_그_영화를_봤어요_저는_많이_웃었어요.mp3"
+      },
+      {
+        "kr": "요즘 일이 많이 바빠서 휴가를 가고 싶어요.",
+        "romaji": "Yojeum ili manhi bappaseo hyugareul gago sip-eoyo.",
+        "en": "I've been very busy at work these days, so I want to go on vacation.",
+        "grammar_audio": "/audio/korean/grammar/s_많이_manhi_A_lot_20250209_요즘_일이_많이_바빠서_휴가를_가고_싶어요.mp3"
+      },
+      {
+        "kr": "그녀는 항상 많이 운동해서 건강해 보이세요.",
+        "romaji": "Geunyeoneun hangsang manhi undonghaeseo geonganghae boiseyo.",
+        "en": "She always exercises a lot, so she looks healthy.",
+        "grammar_audio": "/audio/korean/grammar/s_많이_manhi_A_lot_20250209_그녀는_항상_많이_운동해서_건강해_보이세요.mp3"
+      }
+    ],
+    "p_tag": "KOREAN_1",
+    "s_tag": "25"
+  },
+  {
+    "title": "조금 [jogeum] (A little)",
+    "short_explanation": "Used to indicate a small amount or degree; 'a little', 'a bit'.",
+    "long_explanation": "'조금 [jogeum]' is an adverb that describes a small or modest amount or degree. It's similar to 'a little' or 'a bit' in English. It can be used with verbs to reduce intensity, or with adjectives to lessen the strength of a description.",
+    "formation": "조금 + Verb/Adjective",
+    "examples": [
+      {
+        "kr": "기분이 안 좋아요. 조금 쉴 필요가 있어요.",
+        "romaji": "Gibuni an joayo. Jogeum swil piryoga isseoyo.",
+        "en": "I'm not feeling well. I need to rest a bit.",
+        "grammar_audio": "/audio/korean/grammar/s_조금_jogeum_A_little_20250209_기분이_안_좋아요_조금_쉴_필요가_있어요.mp3"
+      },
+      {
+        "kr": "방이 조금 어둡습니다. 불을 켜주세요.",
+        "romaji": "Bangi jogeum eodubseumnida. Bureul kyeojuseyo.",
+        "en": "The room is a bit dark. Please turn on the light.",
+        "grammar_audio": "/audio/korean/grammar/s_조금_jogeum_A_little_20250209_방이_조금_어둡습니다_불을_켜주세요.mp3"
+      },
+      {
+        "kr": "짐이 너무 무거워요. 조금 줄여야 할 것 같아요.",
+        "romaji": "Jim-i neomu mugeowoyo. Jogeum julyeoya hal geot gatayo.",
+        "en": "The luggage is too heavy. I think I need to cut it down a bit.",
+        "grammar_audio": "/audio/korean/grammar/s_조금_jogeum_A_little_20250209_짐이_너무_무거워요_조금_줄여야_할_것_같아요.mp3"
+      },
+      {
+        "kr": "그녀는 한국어를 조금 알아요, 그래서 간단한 대화는 가능해요.",
+        "romaji": "Geunyeoneun hangugeoreul jogeum arayo, geuraeseo gandanhan daehwaneun ganeunghaeyo.",
+        "en": "She knows a little Korean, so simple conversation is possible.",
+        "grammar_audio": "/audio/korean/grammar/s_조금_jogeum_A_little_20250209_그녀는_한국어를_조금_알아요_그래서_간단한_대화는_가능해요.mp3"
+      }
+    ],
+    "p_tag": "KOREAN_1",
+    "s_tag": "25"
+  },
+  {
+    "title": "다 [da] (All, entirely)",
+    "short_explanation": "Used to express the entirety or completeness of an action or state.",
+    "long_explanation": "'다 [da]' here functions as an adverb meaning 'all' or 'entirely.' It emphasizes the complete or total aspect of an action or state. In other words, everything is done or used up, or everyone/everything is involved.",
+    "formation": "Verb/Adjective + 다 (adverb usage)",
+    "examples": [
+      {
+        "kr": "저는 한국어를 공부하는 책을 다 읽었어요, 그래서 이제 뭐 읽을지 모르겠어요.",
+        "romaji": "Jeoneun hangugeoreul gongbuhaneun chaekeul da ilgeosseoyo, geuraeseo ije mwo ilgeulji moreugesseoyo.",
+        "en": "I read all the books about studying Korean, so now I don't know what else to read.",
+        "grammar_audio": "/audio/korean/grammar/s_다_da_All_entirely_20250209_저는_한국어를_공부하는_책을_다_읽었어요_그래서_이제_뭐_읽을지_모르겠어요.mp3"
+      },
+      {
+        "kr": "우리 영화를 다 보고 나서야 집에 돌아갔어요.",
+        "romaji": "Uri yeonghwareul da bogo nasaya jibe doragasseoyo.",
+        "en": "We only went home after watching the entire movie.",
+        "grammar_audio": "/audio/korean/grammar/s_다_da_All_entirely_20250209_우리_영화를_다_보고_나서야_집에_돌아갔어요.mp3"
+      },
+      {
+        "kr": "그녀는 한국에 오면서 한국 음식을 다 좋아한다고 말했어요.",
+        "romaji": "Geunyeoneun hanguke omyeonseo hanguk eumsigeul da joahandago malhaesseoyo.",
+        "en": "She said she likes all Korean food after coming to Korea.",
+        "grammar_audio": "/audio/korean/grammar/s_다_da_All_entirely_20250209_그녀는_한국에_오면서_한국_음식을_다_좋아한다고_말했어요.mp3"
+      },
+      {
+        "kr": "이번 주 식료품을 다 사 왔어요, 그래서 주방에는 빈 칸이 하나도 없어요.",
+        "romaji": "Ibeon ju sigryopumeul da sa wasseoyo, geuraeseo jubang-eneun bin kani hanado eopseoyo.",
+        "en": "I bought all the groceries this week, so there's not a single empty space in the kitchen.",
+        "grammar_audio": "/audio/korean/grammar/s_다_da_All_entirely_20250209_이번_주_식료품을_다_사_왔어요_그래서_주방에는_빈_칸이_하나도_없어요.mp3"
+      }
+    ],
+    "p_tag": "KOREAN_1",
+    "s_tag": "25"
+  },
+  {
+    "title": "(으)ㄴ/는데 [(eu)n/neunde] (But, however)",
+    "short_explanation": "Used to express contrast or contradiction; 'but', 'however'.",
+    "long_explanation": "'(으)ㄴ/는데' is used to express a contrast or introduce background information. It's similar to 'but' or 'however' in English, but can also be used for transitions or providing context. For verbs in the present tense, use '는데', while for descriptive verbs (adjectives), the form can be '(으)ㄴ데'.",
+    "formation": "Verb/Adjective + (으)ㄴ/는데",
+    "examples": [
+      {
+        "kr": "오늘 날씨가 좋은데, 저는 집에만 있고 싶어요.",
+        "romaji": "Oneul nalssiga joheunde, jeoneun jibeman itgo sip-eoyo.",
+        "en": "The weather is nice today, but I just want to stay home.",
+        "grammar_audio": "/audio/korean/grammar/s_으ㄴ는데_eunneunde_But_however_20250209_오늘_날씨가_좋은데_저는_집에만_있고_싶어요.mp3"
+      },
+      {
+        "kr": "그는 매우 친절한데, 가끔은 너무 솔직해서 상처를 줄 때가 있어요.",
+        "romaji": "Geuneun maeu chinjeolhande, gakkeumeun neomu soljikhaeseo sangcheoreul jul ttaega isseoyo.",
+        "en": "He's very kind, but sometimes he's so honest that he can hurt people.",
+        "grammar_audio": "/audio/korean/grammar/s_으ㄴ는데_eunneunde_But_however_20250209_그는_매우_친절한데_가끔은_너무_솔직해서_상처를_줄_때가_있어요.mp3"
+      },
+      {
+        "kr": "저는 한국어 공부를 오래 했는데도 불구하고 아직 많이 부족해요.",
+        "romaji": "Jeoneun hangugeo gongbureul orae haetneundedo bulguhago ajik manhi bujokhaeyo.",
+        "en": "I've studied Korean for a long time, but I'm still lacking a lot.",
+        "grammar_audio": "/audio/korean/grammar/s_으ㄴ는데_eunneunde_But_however_20250209_저는_한국어_공부를_오래_했는데도_불구하고_아직_많이_부족해요.mp3"
+      },
+      {
+        "kr": "이 옷은 예쁜데, 제 스타일이 아니에요.",
+        "romaji": "I oseun yeppeunde, je seutairi anieyo.",
+        "en": "This outfit is pretty, but it's not my style.",
+        "grammar_audio": "/audio/korean/grammar/s_으ㄴ는데_eunneunde_But_however_20250209_이_옷은_예쁜데_제_스타일이_아니에요.mp3"
+      }
+    ],
+    "p_tag": "KOREAN_1",
+    "s_tag": "25"
+  },
+  {
+    "title": "아/어야 해요 [a/eoya haeyo] (Have to do)",
+    "short_explanation": "Used to express necessity or obligation; 'have to', 'must', 'should'.",
+    "long_explanation": "'아/어야 해요' is used when you must or need to do something. It conveys a strong sense of requirement or obligation, similar to 'have to' or 'must' in English. The exact form (아, 어, or 여) depends on the final vowel of the verb stem.",
+    "formation": "Verb stem + 아/어/여 + 야 해요",
+    "examples": [
+      {
+        "kr": "이렇게 많은 공부가 있으니까, 우리는 빨리 시작해야 해요. 그렇지 않으면 시간이 부족해서 모든 것을 끝낼 수 없어요.",
+        "romaji": "Ireohke manheun gongbuga issnikka, urineun ppalli sijakhaeya haeyo. Geureohji anheumyeon sigani bujokhaeseo modeun geoseul kkeutnael su eopseoyo.",
+        "en": "Since there's so much to study, we have to start quickly. Otherwise, we'll run out of time and won't be able to finish everything.",
+        "grammar_audio": "/audio/korean/grammar/s_아어야_해요_aeoya_haeyo_Have_to_do_20250209_이렇게_많은_공부가_있으니까_우리는_빨리_시작해야_해요_그렇지_않으면_시간이_부족해서_모든_것을_끝낼_수_없어요.mp3"
+      },
+      {
+        "kr": "주말에 시험이 있으므로 저는 지금부터 준비해야 해요. 그만큼 공부하지 않으면 시험에 실패할 수 있어요.",
+        "romaji": "Jumare siheomi isseumuro jeoneun jigeumbuteo junbihaeya haeyo. Geumankeum gongbuhaji anheumyeon siheome silpaehal su isseoyo.",
+        "en": "Because I have an exam this weekend, I have to prepare from now on. If I don't study enough, I might fail.",
+        "grammar_audio": "/audio/korean/grammar/s_아어야_해요_aeoya_haeyo_Have_to_do_20250209_주말에_시험이_있으므로_저는_지금부터_준비해야_해요_그만큼_공부하지_않으면_시험에_실패할_수_있어요.mp3"
+      },
+      {
+        "kr": "내일 회사에 아침 일찍 가야 해요. 중요한 회의가 있어서 꼭 참석해야 해요.",
+        "romaji": "Naeil hoesa-e achim iljjik gaya haeyo. Jungyohan hoeuiga isseoseo kkok chamseokhaeya haeyo.",
+        "en": "I have to go to the office early tomorrow morning. There's an important meeting I must attend.",
+        "grammar_audio": "/audio/korean/grammar/s_아어야_해요_aeoya_haeyo_Have_to_do_20250209_내일_회사에_아침_일찍_가야_해요_중요한_회의가_있어서_꼭_참석해야_해요.mp3"
+      },
+      {
+        "kr": "여름에는 SPF가 중요하니까, 밖에 나가기 전에 자외선 차단제를 발라야 해요. 안 그러면 피부가 상할 수 있어요.",
+        "romaji": "Yeoreumeneun SPFga jungyohanikka, bakke nagagi jeone jaweseon chadanje-reul ballaya haeyo. An geureomyeon pibuga sanghal su isseoyo.",
+        "en": "Since SPF is important in the summer, you have to apply sunscreen before going out. Otherwise, your skin might get damaged.",
+        "grammar_audio": "/audio/korean/grammar/s_아어야_해요_aeoya_haeyo_Have_to_do_20250209_여름에는_SPF가_중요하니까_밖에_나가기_전에_자외선_차단제를_발라야_해요_안_그러면_피부가_상할_수_있어요.mp3"
+      }
+    ],
+    "p_tag": "KOREAN_1",
+    "s_tag": "25"
+  },
+  {
+    "title": "안 [an] (Negation before verb/adjective)",
+    "short_explanation": "Used to negate verbs and adjectives in Korean; equivalent to 'not'.",
+    "long_explanation": "'안 [an]' is an adverb that goes in front of a verb or adjective to negate it, similar to 'not' in English. It completely flips the meaning of the sentence, stating that the action or state does not happen or does not apply.",
+    "formation": "안 + Verb/Adjective",
+    "examples": [
+      {
+        "kr": "저는 아직 안 자요. 아직 일이 남았어요.",
+        "romaji": "Jeoneun ajik an jayo. Ajik iri namasseoyo.",
+        "en": "I haven't slept yet. There's still work left.",
+        "grammar_audio": "/audio/korean/grammar/s_안_an_Negation_before_verbadjective_20250209_저는_아직_안_자요_아직_일이_남았어요.mp3"
+      },
+      {
+        "kr": "내 친구는 연어를 안 먹어요. 그녀는 생선을 좋아하지 않아요.",
+        "romaji": "Nae chinguneun yeoneoreul an meogeoyo. Geunyeoneun saengseoneul joahaji anhayo.",
+        "en": "My friend doesn't eat salmon. She doesn't like fish.",
+        "grammar_audio": "/audio/korean/grammar/s_안_an_Negation_before_verbadjective_20250209_내_친구는_연어를_안_먹어요_그녀는_생선을_좋아하지_않아요.mp3"
+      },
+      {
+        "kr": "너는 그 영화를 안 봤어요? 정말 재미있어요, 꼭 봐야 해요.",
+        "romaji": "Neoneun geu yeonghwareul an bwasseoyo? Jeongmal jaemiisseoyo, kkok bwaya haeyo.",
+        "en": "You haven't seen that movie? It's really good; you must watch it.",
+        "grammar_audio": "/audio/korean/grammar/s_안_an_Negation_before_verbadjective_20250209_너는_그_영화를_안_봤어요_정말_재미있어요_꼭_봐야_해요.mp3"
+      },
+      {
+        "kr": "제가 그 사람을 진짜 안 좋아해요, 그는 항상 거짓말을 하니까요.",
+        "romaji": "Jega geu sarameul jinjja an joahaeyo, geuneun hangsang geojitmareul hanikkayo.",
+        "en": "I really don't like that person because he always tells lies.",
+        "grammar_audio": "/audio/korean/grammar/s_안_an_Negation_before_verbadjective_20250209_제가_그_사람을_진짜_안_좋아해요_그는_항상_거짓말을_하니까요.mp3"
+      }
+    ],
+    "p_tag": "KOREAN_1",
+    "s_tag": "50"
+  },
+  {
+    "title": "못 [mot] (Can't, not able to)",
+    "short_explanation": "Used to express inability or impossibility; 'can't', 'not able to'.",
+    "long_explanation": "'못 [mot]' is a Korean adverb used to indicate an inability or impossibility to do something. This can be a physical inability, a matter of circumstance, or a lack of permission. It corresponds to 'can't' or 'not able to' in English and is placed directly before the verb.",
+    "formation": "못 + Verb",
+    "examples": [
+      {
+        "kr": "오늘은 너무 피곤해서 저는 일찍 잠을 못 잤어요.",
+        "romaji": "Oneureun neomu pigonhaeseo jeoneun iljjik jameul mot jasseoyo.",
+        "en": "Today I was so tired that I couldn't go to sleep early.",
+        "grammar_audio": "/audio/korean/grammar/s_못_mot_Cant_not_able_to_20250209_오늘은_너무_피곤해서_저는_일찍_잠을_못_잤어요.mp3"
+      },
+      {
+        "kr": "그녀는 많이 걱정하고 스트레스를 받아서 밥을 못 먹었어요.",
+        "romaji": "Geunyeoneun manhi geokjeonghago seuteureseureul badaseo babeul mot meogeosseoyo.",
+        "en": "She was so worried and stressed that she couldn't eat.",
+        "grammar_audio": "/audio/korean/grammar/s_못_mot_Cant_not_able_to_20250209_그녀는_많이_걱정하고_스트레스를_받아서_밥을_못_먹었어요.mp3"
+      },
+      {
+        "kr": "비가 너무 많이 와서 우리는 놀이공원에 갈 수가 없었어요.",
+        "romaji": "Biga neomu mani waseo urineun noligongweone gal suga eopseosseoyo.",
+        "en": "Because it rained so much, we couldn't go to the amusement park.",
+        "grammar_audio": "/audio/korean/grammar/s_못_mot_Cant_not_able_to_20250209_비가_너무_많이_와서_우리는_놀이공원에_갈_수가_없었어요.mp3"
+      },
+      {
+        "kr": "저는 너무 늦게 와서 회의에 참석을 못 했어요.",
+        "romaji": "Jeoneun neomu neujge waseo hoeuie chamseogeul mot haesseoyo.",
+        "en": "I arrived too late, so I couldn't attend the meeting.",
+        "grammar_audio": "/audio/korean/grammar/s_못_mot_Cant_not_able_to_20250209_저는_너무_늦게_와서_회의에_참석을_못_했어요.mp3"
+      }
+    ],
+    "p_tag": "KOREAN_1",
+    "s_tag": "50"
+  },
+  {
+    "title": "아/어/여 보다 [a/eo/yeo boda] (Try doing)",
+    "short_explanation": "Expresses an attempt or an experience of doing something; 'try doing'.",
+    "long_explanation": "'아/어/여 보다' is used in Korean to show that one attempts or experiences a certain action. It is attached to an action verb stem, while the final verb '보다' takes the tense. It can also be used to describe having done something at least once in the past (an experience).",
+    "formation": "Action verb + 아/어/여 보다",
+    "examples": [
+      {
+        "kr": "이 문제를 어떻게 해결할지 모르겠으면, 제 방식대로 한 번 해보아요.",
+        "romaji": "I munjereul eotteoke haegyeolhalji moreugesseumyeon, je bangsikdaero han beon haeboayo.",
+        "en": "If you don't know how to solve this problem, you should try doing it my way.",
+        "grammar_audio": "/audio/korean/grammar/s_아어여_보다_aeoyeo_boda_Try_doing_20250209_이_문제를_어떻게_해결할지_모르겠으면_제_방식대로_한_번_해보아요.mp3"
+      },
+      {
+        "kr": "김치를 만들어 본 적이 없다면, 한 번 시도해 보세요. 정말 쉽고 재미있어요.",
+        "romaji": "Kimchireul mandeureo bon jeogi eopdamyeon, han beon sidohae boseyo. Jeongmal swipgo jaemi isseoyo.",
+        "en": "If you've never tried making kimchi, give it a go. It's really easy and fun.",
+        "grammar_audio": "/audio/korean/grammar/s_아어여_보다_aeoyeo_boda_Try_doing_20250209_김치를_만들어_본_적이_없다면_한_번_시도해_보세요_정말_쉽고_재미있어요.mp3"
+      },
+      {
+        "kr": "예전에 한국어를 배워 보았지만, 전혀 기억이 안 나요.",
+        "romaji": "Yejeone hangugeoreul baewo boassjiman, jeonhyeo gieogi an nayo.",
+        "en": "I've tried to learn Korean before, but I don't remember anything.",
+        "grammar_audio": "/audio/korean/grammar/s_아어여_보다_aeoyeo_boda_Try_doing_20250209_예전에_한국어를_배워_보았지만_전혀_기억이_안_나요.mp3"
+      },
+      {
+        "kr": "이 방법으로 공부해 보았는데, 결과가 아주 좋았어요.",
+        "romaji": "I bangbeobeuro gongbuhae boassneunde, gyeolgwa ga aju joasseoyo.",
+        "en": "I tried studying this way, and the results were very good.",
+        "grammar_audio": "/audio/korean/grammar/s_아어여_보다_aeoyeo_boda_Try_doing_20250209_이_방법으로_공부해_보았는데_결과가_아주_좋았어요.mp3"
+      }
+    ],
+    "p_tag": "KOREAN_1",
+    "s_tag": "50"
+  },
+  {
+    "title": "지금 [jigeum] (Now)",
+    "short_explanation": "Used to refer to 'now' or the 'current moment'.",
+    "long_explanation": "'지금 [jigeum]' means 'now' or 'at this moment' in English. It indicates that the speaker is referring to the immediate present. It can be used before verbs or at the start of a sentence to emphasize current time.",
+    "formation": "지금 (often used at the start of a clause or right before the verb)",
+    "examples": [
+      {
+        "kr": "지금 학교에 가야 해요. 수업이 곧 시작될 거예요.",
+        "romaji": "Jigeum hakgyoe gaya haeyo. Sueopi got sijakdoel geoyeyo.",
+        "en": "I have to go to school now. The class is about to start.",
+        "grammar_audio": "/audio/korean/grammar/s_지금_jigeum_Now_20250209_지금_학교에_가야_해요_수업이_곧_시작될_거예요.mp3"
+      },
+      {
+        "kr": "지금 비가 오고 있어요. 우산을 가져가는 게 좋을 것 같아요.",
+        "romaji": "Jigeum biga ogo isseoyo. Usaneul gajyeoganeun ge joh-eul geot gatayo.",
+        "en": "It's raining now. It would be a good idea to take an umbrella.",
+        "grammar_audio": "/audio/korean/grammar/s_지금_jigeum_Now_20250209_지금_비가_오고_있어요_우산을_가져가는_게_좋을_것_같아요.mp3"
+      },
+      {
+        "kr": "지금 숙제를 하고 있어요. 나중에 전화할게요.",
+        "romaji": "Jigeum sukjereul hago isseoyo. Najunge jeonhwahalgeyo.",
+        "en": "I'm doing my homework now. I'll call you later.",
+        "grammar_audio": "/audio/korean/grammar/s_지금_jigeum_Now_20250209_지금_숙제를_하고_있어요_나중에_전화할게요.mp3"
+      },
+      {
+        "kr": "지금 저희 집에 오시면 식사를 같이 할 수 있어요.",
+        "romaji": "Jigeum jeoheui jib-e osimyeon siksareul gachi hal su isseoyo.",
+        "en": "If you come to my house now, we can have a meal together.",
+        "grammar_audio": "/audio/korean/grammar/s_지금_jigeum_Now_20250209_지금_저희_집에_오시면_식사를_같이_할_수_있어요.mp3"
+      }
+    ],
+    "p_tag": "KOREAN_1",
+    "s_tag": "50"
+  },
+  {
+    "title": "이미 [imi] (Already)",
+    "short_explanation": "Used to express an action that has already taken place.",
+    "long_explanation": "'이미 [imi]' is an adverb meaning 'already'. It is used when an action or situation has occurred before the current moment or earlier than expected. It emphasizes that something is not new or pending, but has taken place beforehand.",
+    "formation": "이미 + Verb",
+    "examples": [
+      {
+        "kr": "너는 이미 그 영화를 보았기 때문에, 또 보러 가는 게 무슨 의미가 있나요?",
+        "romaji": "Neoneun imi geu yeonghwareul boassgi ttaemune, tto boreo ganeun ge museun uimiga innayo?",
+        "en": "Since you've already seen that movie, what's the point of going again?",
+        "grammar_audio": "/audio/korean/grammar/s_이미_imi_Already_20250209_너는_이미_그_영화를_보았기_때문에_또_보러_가는_게_무슨_의미가_있나요.mp3"
+      },
+      {
+        "kr": "저는 이미 저녁을 먹었으니, 당신은 혼자 저녁을 드세요.",
+        "romaji": "Jeoneun imi jeonyeogeul meogeosseuni, dangsineun honja jeonyeogeul deuseyo.",
+        "en": "I have already eaten dinner, so you should have dinner on your own.",
+        "grammar_audio": "/audio/korean/grammar/s_이미_imi_Already_20250209_저는_이미_저녁을_먹었으니_당신은_혼자_저녁을_드세요.mp3"
+      },
+      {
+        "kr": "작년에 이미 그 회사 주식을 팔았기 때문에, 이제는 아무런 손실도 없어요.",
+        "romaji": "Jaknyeone imi geu hoesa jusigeul palassgi ttaemune, ijeneun amureon sonsildo eopseoyo.",
+        "en": "Since I already sold that company's stock last year, there's no loss now.",
+        "grammar_audio": "/audio/korean/grammar/s_이미_imi_Already_20250209_작년에_이미_그_회사_주식을_팔았기_때문에_이제는_아무런_손실도_없어요.mp3"
+      },
+      {
+        "kr": "이곳에 왔을 때, 해는 이미 떠 있었어요.",
+        "romaji": "Igose wasseul ttae, haeneun imi tteo isseosseoyo.",
+        "en": "When I came here, the sun had already risen.",
+        "grammar_audio": "/audio/korean/grammar/s_이미_imi_Already_20250209_이곳에_왔을_때_해는_이미_떠_있었어요.mp3"
+      }
+    ],
+    "p_tag": "KOREAN_1",
+    "s_tag": "50"
+  },
+  {
+    "title": "아직 [ajik] (Yet, still)",
+    "short_explanation": "Used to indicate that a condition or situation persists; 'yet', 'still'.",
+    "long_explanation": "'아직 [ajik]' shows that an action or state is not finished or has not changed up to now. It can be translated as 'still' or 'yet' in English, depending on the context. It often appears in negative contexts (아직 안 했다) but can also be used more neutrally (아직 하고 있다).",
+    "formation": "아직 + Verb / Noun / Adjective",
+    "examples": [
+      {
+        "kr": "아직 저는 한국어를 완벽하게 이해하지 못해요. 계속 연습이 필요해요.",
+        "romaji": "Ajik jeoneun hangugeoreul wanbyeokhage ihaehaji mothaeyo. Gyesok yeonseub-i piryohaeyo.",
+        "en": "I still cannot fully understand Korean. I need to keep practicing.",
+        "grammar_audio": "/audio/korean/grammar/s_아직_ajik_Yet_still_20250209_아직_저는_한국어를_완벽하게_이해하지_못해요_계속_연습이_필요해요.mp3"
+      },
+      {
+        "kr": "결정할 수 있어도, 아직 그 문제에 대해 생각 중이에요.",
+        "romaji": "Gyeoljeonghal su iss-eodo, ajik geu munjee daehae saenggak jung-ieyo.",
+        "en": "Even though I can decide, I'm still thinking about that issue.",
+        "grammar_audio": "/audio/korean/grammar/s_아직_ajik_Yet_still_20250209_결정할_수_있어도_아직_그_문제에_대해_생각_중이에요.mp3"
+      },
+      {
+        "kr": "아직 그 영화를 보지 않았어요. 주말에 볼 예정이에요.",
+        "romaji": "Ajik geu yeonghwareul boji anasseoyo. Jumal-e bol yejeong-ieyo.",
+        "en": "I haven't watched that movie yet. I plan to see it this weekend.",
+        "grammar_audio": "/audio/korean/grammar/s_아직_ajik_Yet_still_20250209_아직_그_영화를_보지_않았어요_주말에_볼_예정이에요.mp3"
+      },
+      {
+        "kr": "아직 점심을 먹지 않았어요. 배가 너무 고프네요.",
+        "romaji": "Ajik jeomsimeul meokji anasseoyo. Baega neomu gopeuneyo.",
+        "en": "I haven't had lunch yet. I'm really hungry.",
+        "grammar_audio": "/audio/korean/grammar/s_아직_ajik_Yet_still_20250209_아직_점심을_먹지_않았어요_배가_너무_고프네요.mp3"
+      }
+    ],
+    "p_tag": "KOREAN_1",
+    "s_tag": "50"
+  },
+  {
+    "title": "때 [ttae] (When, time)",
+    "short_explanation": "Used to indicate a specific time or moment; 'when', 'at the time'.",
+    "long_explanation": "'때 [ttae]' is a noun meaning 'time' or 'moment.' It is commonly attached to a verb stem (or sometimes a noun + 적 or similar forms) to indicate 'when' something happened or will happen. It's very versatile and appears in expressions like '어릴 때' (when I was young) or '시간이 없을 때' (when there is no time).",
+    "formation": "Verb stem/Noun + 때",
+    "examples": [
+      {
+        "kr": "저는 어릴 때부터 한국어를 배우고 싶어했어요.",
+        "romaji": "Jeoneun eoril ttaebuteo hangugeoreul baeugo sipeohaesseoyo.",
+        "en": "I have wanted to learn Korean since I was young.",
+        "grammar_audio": "/audio/korean/grammar/s_때_ttae_When_time_20250209_저는_어릴_때부터_한국어를_배우고_싶어했어요.mp3"
+      },
+      {
+        "kr": "그 여자가 웃을 때, 저는 정말 행복해요.",
+        "romaji": "Geu yeojaga useul ttae, jeoneun jeongmal haengbokhaeyo.",
+        "en": "When she smiles, I feel truly happy.",
+        "grammar_audio": "/audio/korean/grammar/s_때_ttae_When_time_20250209_그_여자가_웃을_때_저는_정말_행복해요.mp3"
+      },
+      {
+        "kr": "첫 만남 때, 그를 절대 잊지 못할 거예요.",
+        "romaji": "Cheot mannam ttae, geureul jeoldae itji mothal geoyeyo.",
+        "en": "When we first met, I knew I'd never forget him.",
+        "grammar_audio": "/audio/korean/grammar/s_때_ttae_When_time_20250209_첫_만남_때_그를_절대_잊지_못할_거예요.mp3"
+      },
+      {
+        "kr": "이번 주말에 여행을 가고 싶은데, 시간이 없을 때 어떻게 해야 할까요?",
+        "romaji": "Ibeon jumare yeohaengeul gago sip-eunde, sigani eopseul ttae eotteoke haeya halkkayo?",
+        "en": "I want to travel this weekend, but what should I do when there's no time?",
+        "grammar_audio": "/audio/korean/grammar/s_때_ttae_When_time_20250209_이번_주말에_여행을_가고_싶은데_시간이_없을_때_어떻게_해야_할까요.mp3"
+      }
+    ],
+    "p_tag": "KOREAN_1",
+    "s_tag": "50"
+  },
+  {
+    "title": "(으)려고 하다 [(eu)ryeogo hada] (Intend to do)",
+    "short_explanation": "Used to express the intention or plan to do something.",
+    "long_explanation": "'(으)려고 하다' is used to say that someone intends or plans to do something in the future. The verb stem is followed by (으)려고, then '하다' is conjugated to show tense or politeness level. It often implies a near-future plan or deliberate intention.",
+    "formation": "Verb stem + (으)려고 하다",
+    "examples": [
+      {
+        "kr": "저는 한국어를 더 잘하기 위해 노력하려고 합니다. 연습을 많이 해서 실력을 키우려고 해요.",
+        "romaji": "Jeoneun hangugeoreul deo jalhagi wihae noryeokharyeogo hamnida. Yeonseubeul manhi haeseo sillyeogeul kiuryeogo haeyo.",
+        "en": "I intend to work hard to improve my Korean. I plan to practice a lot to build my skills.",
+        "grammar_audio": "/audio/korean/grammar/s_으려고_하다_euryeogo_hada_Intend_to_do_20250209_저는_한국어를_더_잘하기_위해_노력하려고_합니다_연습을_많이_해서_실력을_키우려고_해요.mp3"
+      },
+      {
+        "kr": "내일 비가 오려고 하니 우산을 챙기려고 해요. 감기를 예방하려고 합니다.",
+        "romaji": "Naeil biga oryeogo hani usaneul chaenggiryego haeyo. Gamgireul yebangharyeogo hamnida.",
+        "en": "Since it looks like it will rain tomorrow, I intend to take an umbrella. I'm trying to prevent catching a cold.",
+        "grammar_audio": "/audio/korean/grammar/s_으려고_하다_euryeogo_hada_Intend_to_do_20250209_내일_비가_오려고_하니_우산을_챙기려고_해요_감기를_예방하려고_합니다.mp3"
+      },
+      {
+        "kr": "친구와 함께 여행을 가려고 해요. 같이 좋은 추억을 만들려고 합니다.",
+        "romaji": "Chinguwa hamkke yeohaengeul garyeogo haeyo. Gachi joeun chu-eokeul mandeulryeogo hamnida.",
+        "en": "I'm planning to go on a trip with my friend. I want to make good memories together.",
+        "grammar_audio": "/audio/korean/grammar/s_으려고_하다_euryeogo_hada_Intend_to_do_20250209_친구와_함께_여행을_가려고_해요_같이_좋은_추억을_만들려고_합니다.mp3"
+      },
+      {
+        "kr": "그녀는 다음 달에 결혼 준비를 하려고 해요. 모든 것을 완벽하게 만들려고 해요.",
+        "romaji": "Geunyeoneun daeum dale gyeolhon junbireul haryeogo haeyo. Modeun geoseul wanbyeokhage mandeulryeogo haeyo.",
+        "en": "She plans to prepare for her wedding next month. She wants everything to be perfect.",
+        "grammar_audio": "/audio/korean/grammar/s_으려고_하다_euryeogo_hada_Intend_to_do_20250209_그녀는_다음_달에_결혼_준비를_하려고_해요_모든_것을_완벽하게_만들려고_해요.mp3"
+      }
+    ],
+    "p_tag": "KOREAN_1",
+    "s_tag": "50"
+  },
+  {
+    "title": "처럼 [cheoreom] (Like, as)",
+    "short_explanation": "Used to express similarity or comparison, like 'like' or 'as' in English.",
+    "long_explanation": "'처럼 [cheoreom]' is a Korean particle that expresses similarity to or comparison with the preceding noun. It can be read as 'like (something)' or 'as (something).' It often appears in similes or metaphors, but can also be used literally.",
+    "formation": "Noun + 처럼",
+    "examples": [
+      {
+        "kr": "그는 사자처럼 강해 보였지만, 실제로는 그렇게 강하진 않아요.",
+        "romaji": "Geuneun sajacheoreom ganghae boyeotjiman, siljero-neun geureohge ganghajin anhayo.",
+        "en": "He seemed strong like a lion, but in reality, he's not that strong.",
+        "grammar_audio": "/audio/korean/grammar/s_처럼_cheoreom_Like_as_20250209_그는_사자처럼_강해_보였지만_실제로는_그렇게_강하진_않아요.mp3"
+      },
+      {
+        "kr": "우리 친구는 항상 별처럼 빛나요. 모두에게 사랑받는 사람입니다.",
+        "romaji": "Uri chinguneun hangsang byeolcheoreom bitnayo. Modeuege sarangbatneun saramimnida.",
+        "en": "Our friend always shines like a star. She is someone everyone loves.",
+        "grammar_audio": "/audio/korean/grammar/s_처럼_cheoreom_Like_as_20250209_우리_친구는_항상_별처럼_빛나요_모두에게_사랑받는_사람입니다.mp3"
+      },
+      {
+        "kr": "그녀는 나비처럼 춤을 춰요. 정말 아름답고 우아해요.",
+        "romaji": "Geunyeoneun nabicheoreom chumeul chwoyo. Jeongmal areumdapgo uahaeyo.",
+        "en": "She dances like a butterfly. It's really beautiful and graceful.",
+        "grammar_audio": "/audio/korean/grammar/s_처럼_cheoreom_Like_as_20250209_그녀는_나비처럼_춤을_춰요_정말_아름답고_우아해요.mp3"
+      },
+      {
+        "kr": "그는 독수리처럼 높이 날아갔어요. 비행이 아주 인상적이었어요.",
+        "romaji": "Geuneun doksuricheoreom nopi naragasseoyo. Bihaengi aju insangjeogieosseoyo.",
+        "en": "He flew high like an eagle. His flight was very impressive.",
+        "grammar_audio": "/audio/korean/grammar/s_처럼_cheoreom_Like_as_20250209_그는_독수리처럼_높이_날아갔어요_비행이_아주_인상적이었어요.mp3"
+      }
+    ],
+    "p_tag": "KOREAN_1",
+    "s_tag": "50"
+  },
+  {
+    "title": "같이 [gachi] (Together)",
+    "short_explanation": "Used to express 'together' or 'along with'.",
+    "long_explanation": "'같이 [gachi]' is an adverb meaning 'together'. It often follows a noun (e.g., 엄마랑 같이) or appears before the verb. It emphasizes doing something in each other's company or jointly with someone else.",
+    "formation": "Noun + 같이",
+    "examples": [
+      {
+        "kr": "제 친구와 같이 영화를 보러 갔어요. 정말 재미있었어요!",
+        "romaji": "Je chinguwa gachi yeonghwareul boreo gasseoyo. Jeongmal jaemiisseosseoyo!",
+        "en": "I went to watch a movie together with my friend. It was really fun!",
+        "grammar_audio": "/audio/korean/grammar/s_같이_gachi_Together_20250209_제_친구와_같이_영화를_보러_갔어요_정말_재미있었어요.mp3"
+      },
+      {
+        "kr": "내일은 우리 모두 같이 공원에 가서 피크닉을 하기로 했어요.",
+        "romaji": "Naeireun uri modu gachi gongwone gaseo piknikeul hagiro haesseoyo.",
+        "en": "We decided that tomorrow we'll all go to the park together for a picnic.",
+        "grammar_audio": "/audio/korean/grammar/s_같이_gachi_Together_20250209_내일은_우리_모두_같이_공원에_가서_피크닉을_하기로_했어요.mp3"
+      },
+      {
+        "kr": "엄마와 같이 요리하면 항상 더 맛있는 음식을 만들 수 있어요.",
+        "romaji": "Eommawa gachi yorihamyeon hangsang deo masinneun eumsigeul mandeul su isseoyo.",
+        "en": "If I cook with my mom, I can always make more delicious food.",
+        "grammar_audio": "/audio/korean/grammar/s_같이_gachi_Together_20250209_엄마와_같이_요리하면_항상_더_맛있는_음식을_만들_수_있어요.mp3"
+      },
+      {
+        "kr": "과외 선생님과 같이 공부하면 많은 도움이 돼요.",
+        "romaji": "Gwaoe seonsaengnimgwa gachi gongbuhamyeon manheun doumi dwaeyo.",
+        "en": "Studying with a private tutor is very helpful.",
+        "grammar_audio": "/audio/korean/grammar/s_같이_gachi_Together_20250209_과외_선생님과_같이_공부하면_많은_도움이_돼요.mp3"
+      }
+    ],
+    "p_tag": "KOREAN_1",
+    "s_tag": "50"
+  },
+  {
+    "title": "(이)랑 [(i)rang] (With)",
+    "short_explanation": "Used to express 'with' or 'and' when referring to being together or doing something together.",
+    "long_explanation": "'(이)랑 [(i)rang]' is a conjunctive particle used in Korean to denote the concept of 'with' or 'and'. It connotes a sense of togetherness, indicating that the speaker is together with someone or doing something jointly. If the noun ends with a vowel, use '랑 [rang]'; if it ends with a consonant, use '이랑 [irang]'.",
+    "formation": "Vowel-ending noun + 랑, Consonant-ending noun + 이랑",
+    "examples": [
+      {
+        "kr": "제가 친구랑 영화를 봤어요, 그 영화는 재미있었어요.",
+        "romaji": "Jega chingurang yeonghwaleul bwasseoyo, geu yeonghwaneun jaemiisseosseoyo.",
+        "en": "I watched a movie with a friend, and it was interesting.",
+        "grammar_audio": "/audio/korean/grammar/s_이랑_irang_With_20250209_제가_친구랑_영화를_봤어요_그_영화는_재미있었어요.mp3"
+      },
+      {
+        "kr": "어제 저는 엄마랑 시장에 갔어요, 우리는 많은 식료품을 샀어요.",
+        "romaji": "Eoje jeoneun eommarang sijange gasseoyo, urineun maneun singnyopumeul sasseoyo.",
+        "en": "Yesterday, I went to the market with my mom, and we bought a lot of groceries.",
+        "grammar_audio": "/audio/korean/grammar/s_이랑_irang_With_20250209_어제_저는_엄마랑_시장에_갔어요_우리는_많은_식료품을_샀어요.mp3"
+      },
+      {
+        "kr": "나는 동생이랑 공원에서 놀았어요, 우리는 많이 즐거웠어요.",
+        "romaji": "Naneun dongsaengirang gongwoneseo norasseoyo, urineun mani jeulgeowosseoyo.",
+        "en": "I played in the park with my younger sibling, and we had a great time.",
+        "grammar_audio": "/audio/korean/grammar/s_이랑_irang_With_20250209_나는_동생이랑_공원에서_놀았어요_우리는_많이_즐거웠어요.mp3"
+      },
+      {
+        "kr": "오늘 점심시간에 친구랑 음악을 들었어요, 그 음악이 너무 좋았어요.",
+        "romaji": "Oneul jeomsimsigan-e chingurang eumageul deureosseoyo, geu eumagi neomu joasseoyo.",
+        "en": "At lunchtime today, I listened to music with a friend, and it was really good.",
+        "grammar_audio": "/audio/korean/grammar/s_이랑_irang_With_20250209_오늘_점심시간에_친구랑_음악을_들었어요_그_음악이_너무_좋았어요.mp3"
+      }
+    ],
+    "p_tag": "KOREAN_1",
+    "s_tag": "50"
+  },
+  {
+    "title": "그런데 [geureonde] (However, but)",
+    "short_explanation": "Used to indicate contrast or contradiction; 'however', 'but'.",
+    "long_explanation": "'그런데 [geureonde]' is a transitional phrase used to introduce a statement that contradicts or contrasts with the previous statement. It can mean 'however', 'but', or 'though' in English. It often shifts the direction of the conversation or highlights an unexpected twist.",
+    "formation": "Sentence + 그런데 + Sentence",
+    "examples": [
+      {
+        "kr": "처음에는 그 과제가 쉬워 보였어요, 그런데 실제로 해보니 매우 어려웠어요.",
+        "romaji": "Cheoeumeneun geu gwajega swiweo boyeosseoyo, geureonde siljero hae boni maeu eoryeosseoyo.",
+        "en": "At first, the assignment seemed easy, but once I actually did it, it was very hard.",
+        "grammar_audio": "/audio/korean/grammar/s_그런데_geureonde_However_but_20250209_처음에는_그_과제가_쉬워_보였어요_그런데_실제로_해보니_매우_어려웠어요.mp3"
+      },
+      {
+        "kr": "저는 가장 좋아하는 스포츠가 농구인데, 그런데 제 친구는 농구를 전혀 좋아하지 않아요.",
+        "romaji": "Jeoneun gajang joahaneun seupocheuga nongguinde, geureonde je chinguneun nonggureul jeonhyeo joahaji anhayo.",
+        "en": "My favorite sport is basketball, but my friend doesn't like basketball at all.",
+        "grammar_audio": "/audio/korean/grammar/s_그런데_geureonde_However_but_20250209_저는_가장_좋아하는_스포츠가_농구인데_그런데_제_친구는_농구를_전혀_좋아하지_않아요.mp3"
+      },
+      {
+        "kr": "어제 영화관에 갔는데, 그런데 영화가 이미 시작된 후였어요.",
+        "romaji": "Eoje yeonghwagwane gasseunde, geureonde yeonghwaga imi sijakdoen hueosseoyo.",
+        "en": "I went to the cinema yesterday, but the movie had already started.",
+        "grammar_audio": "/audio/korean/grammar/s_그런데_geureonde_However_but_20250209_어제_영화관에_갔는데_그런데_영화가_이미_시작된_후였어요.mp3"
+      },
+      {
+        "kr": "친구가 이 청바지를 추천해 줬는데, 그런데 제 스타일에 맞지 않아요.",
+        "romaji": "Chinguga i cheongbajireul chucheonhae junneunde, geureonde je seutair-e matji anhayo.",
+        "en": "My friend recommended these jeans, but they don't suit my style.",
+        "grammar_audio": "/audio/korean/grammar/s_그런데_geureonde_However_but_20250209_친구가_이_청바지를_추천해_줬는데_그런데_제_스타일에_맞지_않아요.mp3"
+      }
+    ],
+    "p_tag": "KOREAN_1",
+    "s_tag": "50"
+  },
+  {
+    "title": "그래서 [geuraeseo] (So, therefore)",
+    "short_explanation": "Used to show a cause-and-effect relationship; 'so', 'therefore'.",
+    "long_explanation": "'그래서 [geuraeseo]' is a conjunctive adverb that indicates the result or conclusion of the preceding clause. It's similar to 'so' or 'therefore' in English. The second sentence (after '그래서') explains the logical outcome or effect of the first sentence.",
+    "formation": "Sentence + 그래서 + Sentence",
+    "examples": [
+      {
+        "kr": "오늘은 간단하게 먹으려고 했는데, 친구가 맛있는 음식을 가져왔어요. 그래서 많이 먹었어요.",
+        "romaji": "Oneureun gandanage meogeuryeogo haetneunde, chinguga masinneun eumsigeul gajyeowasseoyo. Geuraeseo manhi meogeosseoyo.",
+        "en": "I planned to eat lightly today, but my friend brought delicious food. So I ate a lot.",
+        "grammar_audio": "/audio/korean/grammar/s_그래서_geuraeseo_So_therefore_20250209_오늘은_간단하게_먹으려고_했는데_친구가_맛있는_음식을_가져왔어요_그래서_많이_먹었어요.mp3"
+      },
+      {
+        "kr": "전 책을 읽는 것을 좋아해요. 그래서 한 달에 여러 권의 책을 읽어요.",
+        "romaji": "Jeon chaegeul ilgneun geoseul joahaeyo. Geuraeseo han dale yeoreo gwonui chaegeul ilgeoyo.",
+        "en": "I like reading books. So I read several books each month.",
+        "grammar_audio": "/audio/korean/grammar/s_그래서_geuraeseo_So_therefore_20250209_전_책을_읽는_것을_좋아해요_그래서_한_달에_여러_권의_책을_읽어요.mp3"
+      },
+      {
+        "kr": "어제 공부를 너무 많이 했어요. 그래서 오늘은 쉬어야겠어요.",
+        "romaji": "Eoje gongbureul neomu mani haesseoyo. Geuraeseo oneureun swieoyagess-eoyo.",
+        "en": "I studied too much yesterday. So I should rest today.",
+        "grammar_audio": "/audio/korean/grammar/s_그래서_geuraeseo_So_therefore_20250209_어제_공부를_너무_많이_했어요_그래서_오늘은_쉬어야겠어요.mp3"
+      },
+      {
+        "kr": "주말에는 늦게까지 자서 일어나지 못했어요. 그래서 점심이 되어 버렸어요.",
+        "romaji": "Jumaleneun neutgekkaji jaseo il-eonaji mothaesseoyo. Geuraeseo jeomsimi doeeo beoryeosseoyo.",
+        "en": "I slept late on the weekend and couldn't wake up. So it ended up being lunchtime.",
+        "grammar_audio": "/audio/korean/grammar/s_그래서_geuraeseo_So_therefore_20250209_주말에는_늦게까지_자서_일어나지_못했어요_그래서_점심이_되어_버렸어요.mp3"
+      }
+    ],
+    "p_tag": "KOREAN_1",
+    "s_tag": "50"
+  },
+  {
+    "title": "그리고 [geurigo] (And then)",
+    "short_explanation": "Used to link consecutive actions or events, often translated as 'and then'.",
+    "long_explanation": "'그리고 [geurigo]' is a conjunction in Korean that links events or actions occurring in sequence. It implies continuation or succession, like 'and then' in English. It's common in narratives or step-by-step descriptions.",
+    "formation": "Sentence + 그리고 + Sentence",
+    "examples": [
+      {
+        "kr": "저는 학교에 갔어요 그리고 수업을 들었어요 그리고 친구들과 점심을 먹었어요.",
+        "romaji": "Jeoneun hakgyoe gasseoyo geurigo sueopeul deuleosseoyo geurigo chingudeulgwa jeomsimeul meogeosseoyo.",
+        "en": "I went to school, and then I took classes, and then I had lunch with friends.",
+        "grammar_audio": "/audio/korean/grammar/s_그리고_geurigo_And_then_20250209_저는_학교에_갔어요_그리고_수업을_들었어요_그리고_친구들과_점심을_먹었어요.mp3"
+      },
+      {
+        "kr": "게임을 했어요 그리고 졸려서 잠을 잤어요 그리고 다시 게임을 했어요.",
+        "romaji": "Geimeul haesseoyo geurigo jollyeoseo jameul jasseoyo geurigo dasi geimeul haesseoyo.",
+        "en": "I played a game, and then I got sleepy and slept, and then I played again.",
+        "grammar_audio": "/audio/korean/grammar/s_그리고_geurigo_And_then_20250209_게임을_했어요_그리고_졸려서_잠을_잤어요_그리고_다시_게임을_했어요.mp3"
+      },
+      {
+        "kr": "제가 커피를 마셨어요 그리고 도서관에 갔어요 그리고 공부를 했어요.",
+        "romaji": "Jega keopireul masyeosseoyo geurigo doseogwane gaseoyo geurigo gongbureul haesseoyo.",
+        "en": "I drank coffee, and then I went to the library, and then I studied.",
+        "grammar_audio": "/audio/korean/grammar/s_그리고_geurigo_And_then_20250209_제가_커피를_마셨어요_그리고_도서관에_갔어요_그리고_공부를_했어요.mp3"
+      },
+      {
+        "kr": "친구를 만났어요 그리고 영화를 봤어요 그리고 집에 돌아왔어요.",
+        "romaji": "Chingureul mannasseoyo geurigo yeonghwareul bwasseoyo geurigo jibe dolawasseoyo.",
+        "en": "I met a friend, and then we watched a movie, and then I came home.",
+        "grammar_audio": "/audio/korean/grammar/s_그리고_geurigo_And_then_20250209_친구를_만났어요_그리고_영화를_봤어요_그리고_집에_돌아왔어요.mp3"
+      }
+    ],
+    "p_tag": "KOREAN_1",
+    "s_tag": "50"
+  },
+  {
+    "title": "아/어/여 주다 [a/eo/yeo juda] (To do for someone)",
+    "short_explanation": "Used to express doing an action for someone’s benefit.",
+    "long_explanation": "'아/어/여 주다' is a verb ending that means doing something *for* or *on behalf of* someone else. It attaches to the verb stem (with 아/어/여 depending on the stem’s final vowel), followed by '주다'. It often suggests kindness, favor, or helping the other person.",
+    "formation": "Verb stem + 아/어/여 + 주다",
+    "examples": [
+      {
+        "kr": "제가 수업 노트를 정리해서 친구에게 메일로 보내주었어요.",
+        "romaji": "Jega sueop noteureul jeongnihaeseo chinguege meillo bonaejueosseoyo.",
+        "en": "I organized the class notes and sent them to my friend by email.",
+        "grammar_audio": "/audio/korean/grammar/s_아어여_주다_aeoyeo_juda_To_do_for_someone_20250209_제가_수업_노트를_정리해서_친구에게_메일로_보내주었어요.mp3"
+      },
+      {
+        "kr": "서민이가 청소를 해주는 것을 본 뒤에 저도 청소를 도와주었어요.",
+        "romaji": "Seominiga cheongso-reul haejuneun geoseul bon dwie jeodo cheongso-reul dowajueosseoyo.",
+        "en": "After seeing Seomin clean, I ended up helping with the cleaning too.",
+        "grammar_audio": "/audio/korean/grammar/s_아어여_주다_aeoyeo_juda_To_do_for_someone_20250209_서민이가_청소를_해주는_것을_본_뒤에_저도_청소를_도와주었어요.mp3"
+      },
+      {
+        "kr": "어려운 문제 때문에 고민했는데, 선생님이 해결 방법을 알려주셨어요.",
+        "romaji": "Eoryeoun munje ttaemune gominhaetneunde, seonsaengnim-i haegyeol bangbeobeul allyeojusyeosseoyo.",
+        "en": "I was struggling with a difficult problem, and the teacher showed me the solution.",
+        "grammar_audio": "/audio/korean/grammar/s_아어여_주다_aeoyeo_juda_To_do_for_someone_20250209_어려운_문제_때문에_고민했는데_선생님이_해결_방법을_알려주셨어요.mp3"
+      },
+      {
+        "kr": "맛있는 음식을 만들어서 친구들에게 저녁을 챙겨주는 걸 좋아해요.",
+        "romaji": "Masinneun eumsigeul mandeureoseo chingudeurege jeonyeogeul chaenggyeojuneun geol johahaeyo.",
+        "en": "I like making delicious food and serving dinner to my friends.",
+        "grammar_audio": "/audio/korean/grammar/s_아어여_주다_aeoyeo_juda_To_do_for_someone_20250209_맛있는_음식을_만들어서_친구들에게_저녁을_챙겨주는_걸_좋아해요.mp3"
+      }
+    ],
+    "p_tag": "KOREAN_1",
+    "s_tag": "50"
+  },
+  {
+    "title": "아/어/여 하다 [a/eo/yeo hada] (To feel or show a certain emotion)",
+    "short_explanation": "Used mainly to convert adjectives (descriptive verbs) into active verbs that show one’s feeling or reaction.",
+    "long_explanation": "In Korean, some descriptive verbs (adjectives) become active verbs when combined with '아/어/여 하다'. For example, '슬프다' (to be sad) → '슬퍼하다' (to feel or show sadness). It indicates that the subject actively experiences or outwardly shows the emotion/state. This pattern is especially common with psychological or emotional adjectives.",
+    "formation": "Descriptive verb stem + 아/어/여 + 하다",
+    "examples": [
+      {
+        "kr": "그는 영화가 너무 슬퍼서 울기도 하고 슬퍼해요.",
+        "romaji": "Geuneun yeonghwaga neomu seulpeoseo ulgido hago seulpeohaeyo.",
+        "en": "He finds the movie so sad that he cries and expresses his sadness.",
+        "grammar_audio": "/audio/korean/grammar/s_아어여_하다_aeoyeo_hada_To_feel_or_show_a_certain_emotion_20250209_그는_영화가_너무_슬퍼서_울기도_하고_슬퍼해요.mp3"
+      },
+      {
+        "kr": "아이가 무서워해서 혼자 자는 것을 싫어해요.",
+        "romaji": "Aiga museowohaeseo honja janeun geoseul sil-eohaeyo.",
+        "en": "The child is scared, so he dislikes sleeping alone.",
+        "grammar_audio": "/audio/korean/grammar/s_아어여_하다_aeoyeo_hada_To_feel_or_show_a_certain_emotion_20250209_아이가_무서워해서_혼자_자는_것을_싫어해요.mp3"
+      },
+      {
+        "kr": "그녀는 부끄러워하여 사람들 앞에 나서길 망설였어요.",
+        "romaji": "Geunyeoneun bukkeureowohayeo saramdeul ape naseogil mangseoryeosseoyo.",
+        "en": "She felt embarrassed and hesitated to stand in front of people.",
+        "grammar_audio": "/audio/korean/grammar/s_아어여_하다_aeoyeo_hada_To_feel_or_show_a_certain_emotion_20250209_그녀는_부끄러워하여_사람들_앞에_나서길_망설였어요.mp3"
+      },
+      {
+        "kr": "사람들은 그 소식을 듣고 몹시 놀라워했어요.",
+        "romaji": "Saramdeureun geu sosigeul deutgo mopsi nollawohaesseoyo.",
+        "en": "People were very astonished when they heard the news.",
+        "grammar_audio": "/audio/korean/grammar/s_아어여_하다_aeoyeo_hada_To_feel_or_show_a_certain_emotion_20250209_사람들은_그_소식을_듣고_몹시_놀라워했어요.mp3"
+      }
+    ],
+    "p_tag": "KOREAN_1",
+    "s_tag": "50"
+  },
+  {
+    "title": "의 [ui] (Possessive marker)",
+    "short_explanation": "Used to denote possession or relationship; similar to '’s' in English.",
+    "long_explanation": "The marker '의 [ui]' indicates a possessive or descriptive relationship between two nouns. It is similar to English apostrophe-s ('s), or 'of' in some contexts. It can show ownership, belonging, or other relationships (e.g., family relationships, origin, material).",
+    "formation": "Noun1 + 의 + Noun2",
+    "examples": [
+      {
+        "kr": "이것은 나의 책이에요, 그래서 누구에게도 주지 않을 거예요.",
+        "romaji": "Igeoseun naui chaegieyo, geuraeseo nuguegedo juji anheul geoyeyo.",
+        "en": "This is my book, so I'm not going to give it to anyone.",
+        "grammar_audio": "/audio/korean/grammar/s_의_ui_Possessive_marker_20250209_이것은_나의_책이에요_그래서_누구에게도_주지_않을_거예요.mp3"
+      },
+      {
+        "kr": "부탁드려요, 저의 주차 공간을 차지하지 말아 주세요.",
+        "romaji": "Butakdeuryeoyo, jeoui jucha gongganeul chajihaji mara juseyo.",
+        "en": "Please do not occupy my parking space.",
+        "grammar_audio": "/audio/korean/grammar/s_의_ui_Possessive_marker_20250209_부탁드려요_저의_주차_공간을_차지하지_말아_주세요.mp3"
+      },
+      {
+        "kr": "그녀는 그녀의 강아지를 정말 많이 사랑해요.",
+        "romaji": "Geunyeoneun geunyeoui gangajireul jeongmal manhi saranghaeyo.",
+        "en": "She really loves her puppy.",
+        "grammar_audio": "/audio/korean/grammar/s_의_ui_Possessive_marker_20250209_그녀는_그녀의_강아지를_정말_많이_사랑해요.mp3"
+      },
+      {
+        "kr": "이것은 그의 아버지의 오래된 시계예요.",
+        "romaji": "Igeoseun geuui abeojiui oraedoen sigyeyeyo.",
+        "en": "This is his father's old watch.",
+        "grammar_audio": "/audio/korean/grammar/s_의_ui_Possessive_marker_20250209_이것은_그의_아버지의_오래된_시계예요.mp3"
+      }
+    ],
+    "p_tag": "KOREAN_1",
+    "s_tag": "50"
+  },
+  {
+    "title": "(으)로 [(eu)ro] (To, toward; by means of)",
+    "short_explanation": "Used to express direction, method, or transformation ('to', 'toward', 'by', 'into').",
+    "long_explanation": "'(으)로 [(eu)ro]' is a Korean particle with several functions. It can indicate direction ('to/toward'), method or instrument ('by/with/using'), or transformation ('into'). After a consonant, use '으로'; after a vowel, just '로'.",
+    "formation": "Noun + (으)로",
+    "examples": [
+      {
+        "kr": "나는 매일 아침 지하철로 학교에 가요.",
+        "romaji": "Naneun maeil achim jihacheollo hakgyoe gayo.",
+        "en": "I go to school by subway every morning.",
+        "grammar_audio": "/audio/korean/grammar/s_으로_euro_To_toward_by_means_of_20250209_나는_매일_아침_지하철로_학교에_가요.mp3"
+      },
+      {
+        "kr": "우리 아빠는 요리를 재료로 사랑을 표현해요.",
+        "romaji": "Uri appaneun yorireul jaeryoro sarangeul pyohyeonhaeyo.",
+        "en": "My father shows his love through cooking ingredients.",
+        "grammar_audio": "/audio/korean/grammar/s_으로_euro_To_toward_by_means_of_20250209_우리_아빠는_요리를_재료로_사랑을_표현해요.mp3"
+      },
+      {
+        "kr": "그 회사는 종이를 재활용해서 노트북으로 만들어요.",
+        "romaji": "Geu hoesaneun jongireul jaehwallyonghaeseo noteubugeuro mandeureoyo.",
+        "en": "That company recycles paper and makes it into notebooks.",
+        "grammar_audio": "/audio/korean/grammar/s_으로_euro_To_toward_by_means_of_20250209_그_회사는_종이를_재활용해서_노트북으로_만들어요.mp3"
+      },
+      {
+        "kr": "문을 열기 위해 열쇠로 문을 돌려요.",
+        "romaji": "Muneul yeolgi wihae yeolswero muneul dolryeoyo.",
+        "en": "I turn the key in order to open the door.",
+        "grammar_audio": "/audio/korean/grammar/s_으로_euro_To_toward_by_means_of_20250209_문을_열기_위해_열쇠로_문을_돌려요.mp3"
+      }
+    ],
+    "p_tag": "KOREAN_1",
+    "s_tag": "50"
+  },
+  {
+    "title": "한테/에게 [hante/ege] (To someone)",
+    "short_explanation": "Used to indicate the recipient or target of an action; roughly 'to' in English.",
+    "long_explanation": "'한테 [hante]' and '에게 [ege]' both mean 'to (a person)' in Korean. '에게' is slightly more formal, whereas '한테' is more colloquial. They specify to whom or to what an action is directed (e.g., giving, telling, teaching).",
+    "formation": "Noun + 한테/에게 + Verb",
+    "examples": [
+      {
+        "kr": "제가 어제 친구에게 선물을 줬어요.",
+        "romaji": "Jega eoje chinguege seonmureul jwosseoyo.",
+        "en": "I gave a gift to my friend yesterday.",
+        "grammar_audio": "/audio/korean/grammar/s_한테에게_hanteege_To_someone_20250209_제가_어제_친구에게_선물을_줬어요.mp3"
+      },
+      {
+        "kr": "제 목소리를 직접 그녀에게 들려주고 싶어요.",
+        "romaji": "Je mogsorireul jikjeop geunyeoege deullyeojugo sip-eoyo.",
+        "en": "I want her to hear my voice in person.",
+        "grammar_audio": "/audio/korean/grammar/s_한테에게_hanteege_To_someone_20250209_제_목소리를_직접_그녀에게_들려주고_싶어요.mp3"
+      },
+      {
+        "kr": "언니한테 좋은 뉴스를 전하고 싶어요.",
+        "romaji": "Eonni-hante joheun nyuseureul jeonhago sip-eoyo.",
+        "en": "I want to tell my older sister the good news.",
+        "grammar_audio": "/audio/korean/grammar/s_한테에게_hanteege_To_someone_20250209_언니한테_좋은_뉴스를_전하고_싶어요.mp3"
+      },
+      {
+        "kr": "어머니한테 저녁 식사를 준비해드렸어요.",
+        "romaji": "Eomeoni-hante jeonyeok siksareul junbihaedeuryeosseoyo.",
+        "en": "I prepared dinner for my mother.",
+        "grammar_audio": "/audio/korean/grammar/s_한테에게_hanteege_To_someone_20250209_어머니한테_저녁_식사를_준비해드렸어요.mp3"
+      }
+    ],
+    "p_tag": "KOREAN_1",
+    "s_tag": "50"
+  },
+  {
+    "title": "한테서/에서 [hanteseo/eseo] (From someone)",
+    "short_explanation": "Used to denote the source or origin; 'from'.",
+    "long_explanation": "'한테서/에서 [hanteseo/eseo]' indicates the source or place from which something (an object, idea, or action) originates. '한테서' is used when receiving something from a person, and '에서' is used for inanimate sources or places. For example, when you get a letter from a friend, you use '친구한테서'; when you borrow a book from the library, you use '도서관에서.'",
+    "formation": "Noun + 한테서 (person) / 에서 (place or inanimate source)",
+    "examples": [
+      {
+        "kr": "친구한테서 편지를 받았어요. 그는 항상 연락을 잘 해 줘요.",
+        "romaji": "Chinguhanteseo pyeonjireul badasseoyo. Geuneun hangsang yeollageul jal hae jwoyo.",
+        "en": "I received a letter from a friend. He always keeps in good touch.",
+        "grammar_audio": "/audio/korean/grammar/s_한테서에서_hanteseoeseo_From_someone_20250209_친구한테서_편지를_받았어요_그는_항상_연락을_잘_해_줘요.mp3"
+      },
+      {
+        "kr": "서울에서 부산까지 차로 얼마나 걸릴까요?",
+        "romaji": "Seoul-eseo Busan-kkaji charo eolmana geolrilkkayo?",
+        "en": "How long does it take to get from Seoul to Busan by car?",
+        "grammar_audio": "/audio/korean/grammar/s_한테서에서_hanteseoeseo_From_someone_20250209_서울에서_부산까지_차로_얼마나_걸릴까요.mp3"
+      },
+      {
+        "kr": "제가 이 책을 도서관에서 빌렸어요.",
+        "romaji": "Jega i chaekeul doseogwaneseo billyeosseoyo.",
+        "en": "I borrowed this book from the library.",
+        "grammar_audio": "/audio/korean/grammar/s_한테서에서_hanteseoeseo_From_someone_20250209_제가_이_책을_도서관에서_빌렸어요.mp3"
+      },
+      {
+        "kr": "그 음식은 어머니한테서 배웠어요.",
+        "romaji": "Geu eumsigeun eomeonihanteseo baeweosseoyo.",
+        "en": "I learned how to make that dish from my mother.",
+        "grammar_audio": "/audio/korean/grammar/s_한테서에서_hanteseoeseo_From_someone_20250209_그_음식은_어머니한테서_배웠어요.mp3"
+      }
+    ],
+    "p_tag": "KOREAN_1",
+    "s_tag": "50"
+  },
+  {
+    "title": "보다 [boda] (More than)",
+    "short_explanation": "Used to express comparison; 'more than' or simply 'than'.",
+    "long_explanation": "'보다 [boda]' is a comparative marker in Korean. It follows the standard or benchmark being compared, while the element outside or after '보다' is the one being described as 'more' (or 'less') in some aspect. In English, this often corresponds to 'than' or 'more than.'",
+    "formation": "Noun/Verb/Adjective + 보다 + Noun/Verb/Adjective",
+    "examples": [
+      {
+        "kr": "저는 커피보다 차를 더 좋아해요. 차가 제 입맛에 더 잘 맞아요.",
+        "romaji": "Jeoneun keopiboda chareul deo joahaeyo. Chaga je ibmase deo jal majayo.",
+        "en": "I prefer tea over coffee. Tea suits my taste better than coffee.",
+        "grammar_audio": "/audio/korean/grammar/s_보다_boda_More_than_20250209_저는_커피보다_차를_더_좋아해요_차가_제_입맛에_더_잘_맞아요.mp3"
+      },
+      {
+        "kr": "우리 집은 도서관보다 책이 더 많아요. 가족 모두가 독서를 사랑해서 그렇게 됐어요.",
+        "romaji": "Uri jibeun doseogwanboda chaegi deo manhayo. Gajok moduga dokseoreul saranghaeseo geureohge dwaesseoyo.",
+        "en": "We have more books at home than the library. It turned out that way because everyone in my family loves reading.",
+        "grammar_audio": "/audio/korean/grammar/s_보다_boda_More_than_20250209_우리_집은_도서관보다_책이_더_많아요_가족_모두가_독서를_사랑해서_그렇게_됐어요.mp3"
+      },
+      {
+        "kr": "한국어를 배우는 것은 중국어를 배우는 것보다 쉬워요. 필기와 발음이 더 단순하니까요.",
+        "romaji": "Hangugeoreul baeuneun geoseun junggugeoreul baeuneun geotboda swiwoyo. Pilgiwa bareumi deo dansunhanikkayo.",
+        "en": "Learning Korean is easier than learning Chinese, because the writing system and pronunciation are simpler.",
+        "grammar_audio": "/audio/korean/grammar/s_보다_boda_More_than_20250209_한국어를_배우는_것은_중국어를_배우는_것보다_쉬워요_필기와_발음이_더_단순하니까요.mp3"
+      },
+      {
+        "kr": "지금은 여름이지만, 봄보다 날씨가 더 추워요. 이상한 기후 변화 때문인 것 같아요.",
+        "romaji": "Jigeumeun yeoreumijiman, bomboda nalssiga deo chuwoyo. Isanghan gihu byeonhwa ttaemun in geot gatayo.",
+        "en": "It's summer now, but it's colder than spring. It seems to be because of strange climate changes.",
+        "grammar_audio": "/audio/korean/grammar/s_보다_boda_More_than_20250209_지금은_여름이지만_봄보다_날씨가_더_추워요_이상한_기후_변화_때문인_것_같아요.mp3"
+      }
+    ],
+    "p_tag": "KOREAN_1",
+    "s_tag": "50"
+  },
+  {
+    "title": "가장 [gajang] (The most)",
+    "short_explanation": "Used to express the superlative degree; 'the most', 'the best'.",
+    "long_explanation": "'가장 [gajang]' is an adverb meaning 'most,' indicating the highest degree or superlative level of a characteristic. It can modify verbs, adjectives, or even some adverbs, conveying the sense of 'the most' or 'the best.'",
+    "formation": "가장 + Adjective / Adverb / Verb",
+    "examples": [
+      {
+        "kr": "저는 가장 좋아하는 사람과 결혼하고 싶어요.",
+        "romaji": "Jeoneun gajang joahaneun saramgwa gyeolhonhago sip-eoyo.",
+        "en": "I want to marry the person I love the most.",
+        "grammar_audio": "/audio/korean/grammar/s_가장_gajang_The_most_20250209_저는_가장_좋아하는_사람과_결혼하고_싶어요.mp3"
+      },
+      {
+        "kr": "가장 먼저 도착한 사람이 상품을 받을 수 있어요.",
+        "romaji": "Gajang meonjeo dochakhan sarami sangpumeul bad-eul su isseoyo.",
+        "en": "Whoever arrives first will be able to get the prize.",
+        "grammar_audio": "/audio/korean/grammar/s_가장_gajang_The_most_20250209_가장_먼저_도착한_사람이_상품을_받을_수_있어요.mp3"
+      },
+      {
+        "kr": "그는 가장 힘들었던 시절에도 포기하지 않았어요.",
+        "romaji": "Geuneun gajang himdeuleossdeon sijeol-edo pogihaji anhasseoyo.",
+        "en": "He didn't give up even during the hardest times.",
+        "grammar_audio": "/audio/korean/grammar/s_가장_gajang_The_most_20250209_그는_가장_힘들었던_시절에도_포기하지_않았어요.mp3"
+      },
+      {
+        "kr": "저는 가장 큰 꿈을 이루고 싶어요.",
+        "romaji": "Jeoneun gajang keun kkum-eul ilugo sip-eoyo.",
+        "en": "I want to achieve my biggest dream.",
+        "grammar_audio": "/audio/korean/grammar/s_가장_gajang_The_most_20250209_저는_가장_큰_꿈을_이루고_싶어요.mp3"
+      }
+    ],
+    "p_tag": "KOREAN_1",
+    "s_tag": "50"
+  },
+  {
+    "title": "도 [do] (Even)",
+    "short_explanation": "Used to emphasize inclusion or an extreme; 'even', 'also', 'too'.",
+    "long_explanation": "'도 [do]' is a particle that can mean 'too,' 'also,' or 'even,' depending on context. It often emphasizes the additional inclusion of an item or an extreme case, suggesting that the statement applies in that situation as well.",
+    "formation": "Noun/Pronoun/Verb + 도",
+    "examples": [
+      {
+        "kr": "나는 한국어도 잘하고, 일본어도 잘해요.",
+        "romaji": "Naneun hangugeodo jalhago, ilboneodo jalhaeyo.",
+        "en": "I speak Korean well, and I also speak Japanese well.",
+        "grammar_audio": "/audio/korean/grammar/s_도_do_Even_20250209_나는_한국어도_잘하고_일본어도_잘해요.mp3"
+      },
+      {
+        "kr": "그는 잘생겼을 뿐만 아니라 성격도 좋아요.",
+        "romaji": "Geuneun jalsaenggyeosseul ppunman anira seonggyeokdo joayo.",
+        "en": "Not only is he handsome, but his personality is also good.",
+        "grammar_audio": "/audio/korean/grammar/s_도_do_Even_20250209_그는_잘생겼을_뿐만_아니라_성격도_좋아요.mp3"
+      },
+      {
+        "kr": "이 식당은 음식도 맛있고, 분위기도 좋아요.",
+        "romaji": "I sikdangeun eumsikdo masitgo, bunwigido joayo.",
+        "en": "This restaurant's food is delicious, and the atmosphere is also nice.",
+        "grammar_audio": "/audio/korean/grammar/s_도_do_Even_20250209_이_식당은_음식도_맛있고_분위기도_좋아요.mp3"
+      },
+      {
+        "kr": "나는 어제 집에 도착했을 때 밤 12시도 넘었어요.",
+        "romaji": "Naneun eoje jibe dochakhaet-eul ttae bam yeoldusido neomeosseoyo.",
+        "en": "When I arrived home yesterday, it was even past midnight.",
+        "grammar_audio": "/audio/korean/grammar/s_도_do_Even_20250209_나는_어제_집에_도착했을_때_밤_12시도_넘었어요.mp3"
+      }
+    ],
+    "p_tag": "KOREAN_1",
+    "s_tag": "50"
+  },
+  {
+    "title": "이/그/저 [i/geu/jeo] (This, that, that over there)",
+    "short_explanation": "Used to indicate spatial relationships: 'this' (close), 'that' (far), 'that over there' (farther).",
+    "long_explanation": "'이/그/저' are demonstratives in Korean. '이' is used for something close to the speaker ('this'), '그' for something near the listener or previously mentioned but not in the speaker's reach ('that'), and '저' for something far from both speaker and listener ('that over there').",
+    "formation": "이/그/저 + Noun",
+    "examples": [
+      {
+        "kr": "이 펜은 제 펜입니다. 그 펜은 당신의 펜입니다. 저 펜은 누구 것인지 모르겠어요.",
+        "romaji": "I peneun je penimnida. Geu peneun dangsin-ui penimnida. Jeo peneun nugu geos-inji moreugesseoyo.",
+        "en": "This pen is mine. That pen is yours. I don't know whose pen that one over there is.",
+        "grammar_audio": "/audio/korean/grammar/s_이그저_igeujeo_This_that_that_over_there_20250209_이_펜은_제_펜입니다_그_펜은_당신의_펜입니다_저_펜은_누구_것인지_모르겠어요.mp3"
+      },
+      {
+        "kr": "이 핸드폰은 버그가 많아요. 그 핸드폰은 성능이 좋아요. 저 핸드폰은 무슨 모델인지 모르겠어요.",
+        "romaji": "I haendeupon-eun beogeuga manhayo. Geu haendeupon-eun seongneungi joayo. Jeo haendeupon-eun museun model-inji moreugesseoyo.",
+        "en": "This phone has many bugs. That phone performs well. I don't know what model that phone over there is.",
+        "grammar_audio": "/audio/korean/grammar/s_이그저_igeujeo_This_that_that_over_there_20250209_이_핸드폰은_버그가_많아요_그_핸드폰은_성능이_좋아요_저_핸드폰은_무슨_모델인지_모르겠어요.mp3"
+      },
+      {
+        "kr": "이 음식은 맛이 없어요. 그 음식은 매워요. 저 음식은 어떤 맛인지 모르겠어요.",
+        "romaji": "I eumsik-eun masi eobseoyo. Geu eumsik-eun maewoyo. Jeo eumsik-eun eotteon mas-inji moreugesseoyo.",
+        "en": "This food has no taste. That food is spicy. I don't know what that food over there tastes like.",
+        "grammar_audio": "/audio/korean/grammar/s_이그저_igeujeo_This_that_that_over_there_20250209_이_음식은_맛이_없어요_그_음식은_매워요_저_음식은_어떤_맛인지_모르겠어요.mp3"
+      },
+      {
+        "kr": "이 책은 재미있어요. 그 책은 너무 어려워요. 저 책은 어떤 내용인지 모르겠어요.",
+        "romaji": "I chaekeun jaemiisseoyo. Geu chaekeun neomu eoryeowoyo. Jeo chaekeun eotteon naeyong-inji moreugesseoyo.",
+        "en": "This book is interesting. That book is too difficult. I don't know what that book over there is about.",
+        "grammar_audio": "/audio/korean/grammar/s_이그저_igeujeo_This_that_that_over_there_20250209_이_책은_재미있어요_그_책은_너무_어려워요_저_책은_어떤_내용인지_모르겠어요.mp3"
+      }
+    ],
+    "p_tag": "KOREAN_1",
+    "s_tag": "50"
+  },
+  {
+    "title": "(이)나 [(i)na] (Or)",
+    "short_explanation": "Used to express alternatives; 'or'.",
+    "long_explanation": "'(이)나 [(i)na]' is used after nouns (and sometimes verbs in certain constructions) to present alternatives or choices. It can be roughly translated to 'or' in English. For verbs, the more common form is '-거나,' but '(이)나' can appear after verbs in some contexts, especially in casual speech.",
+    "formation": "Noun + (이)나 / Verb + (이)나 (colloquial), Verb + 거나 (standard for verbs)",
+    "examples": [
+      {
+        "kr": "피자나 햄버거 중에 뭐 먹고 싶어요?",
+        "romaji": "Pijana haembeogeo junge mwo meokgo sip-eoyo?",
+        "en": "Do you want pizza or a hamburger?",
+        "grammar_audio": "/audio/korean/grammar/s_이나_ina_Or_20250209_피자나_햄버거_중에_뭐_먹고_싶어요.mp3"
+      },
+      {
+        "kr": "저는 주말에 친구들이랑 영화 보러 가거나 쇼핑을 하러 갈 거예요.",
+        "romaji": "Jeoneun jumare chingudeulirang yeonghwa boreo ganeunga syopingeul hareo gal geoyeyo.",
+        "en": "On the weekend, I'll either go watch a movie with my friends or go shopping.",
+        "grammar_audio": "/audio/korean/grammar/s_이나_ina_Or_20250209_저는_주말에_친구들이랑_영화_보러_가거나_쇼핑을_하러_갈_거예요.mp3"
+      },
+      {
+        "kr": "빨래나 설거지 같은 집안일을 해야 해요.",
+        "romaji": "Ppallae na seolgeoji gateun jibanireul haeya haeyo.",
+        "en": "I have to do household chores like laundry or washing the dishes.",
+        "grammar_audio": "/audio/korean/grammar/s_이나_ina_Or_20250209_빨래나_설거지_같은_집안일을_해야_해요.mp3"
+      },
+      {
+        "kr": "오늘 밤에는 숙제를 하거나 책을 읽을 거예요.",
+        "romaji": "Oneul bamen-eun sukjereul hageona chaekeul ilgeul geoyeyo.",
+        "en": "Tonight, I will either do homework or read a book.",
+        "grammar_audio": "/audio/korean/grammar/s_이나_ina_Or_20250209_오늘_밤에는_숙제를_하거나_책을_읽을_거예요.mp3"
+      }
+    ],
+    "p_tag": "KOREAN_1",
+    "s_tag": "50"
+  },
+  {
+    "title": "밖에 [bakke] (Only, except)",
+    "short_explanation": "Used to express 'only' or 'nothing but', typically with a negative verb.",
+    "long_explanation": "'밖에 [bakke]' is used after a noun to emphasize that there is nothing else other than the noun in question. It usually pairs with a negative verb form to convey the idea of exclusivity or limitation—similar to 'only' or 'nothing but' in English (e.g., '할 수밖에 없다' = 'I have no choice but to do it').",
+    "formation": "Noun + 밖에 + (negative verb form)",
+    "examples": [
+      {
+        "kr": "나는 이번 주말에 집에 있을 수밖에 없었어요, 모든 친구들이 바빴거든요.",
+        "romaji": "Naneun ibeon jumare jibe isseul subakke eopseosseoyo, modeun chingudeuri bappatgeodeunyo.",
+        "en": "I had no choice but to stay home this weekend, because all my friends were busy.",
+        "grammar_audio": "/audio/korean/grammar/s_밖에_bakke_Only_except_20250209_나는_이번_주말에_집에_있을_수밖에_없었어요_모든_친구들이_바빴거든요.mp3"
+      },
+      {
+        "kr": "엄마는 부엌에서 요리하는 것밖에 몰라서 다른 일을 잘 못해요.",
+        "romaji": "Eommaneun bu-eok-eseo yorihaneun geotbakke mollaseo dareun ireul jal mothaeyo.",
+        "en": "My mom doesn't know how to do anything except cooking in the kitchen.",
+        "grammar_audio": "/audio/korean/grammar/s_밖에_bakke_Only_except_20250209_엄마는_부엌에서_요리하는_것밖에_몰라서_다른_일을_잘_못해요.mp3"
+      },
+      {
+        "kr": "나는 한국어밖에 몰라서 다른 언어로 이야기하기가 어려워요.",
+        "romaji": "Naneun hanguk-eobakke mollaseo dareun eoneoro iyagihagiga eoryeowoyo.",
+        "en": "I only know Korean, so it's hard for me to speak in other languages.",
+        "grammar_audio": "/audio/korean/grammar/s_밖에_bakke_Only_except_20250209_나는_한국어밖에_몰라서_다른_언어로_이야기하기가_어려워요.mp3"
+      },
+      {
+        "kr": "그 학생은 공부밖에 몰라서 놀거나 다른 일을 잘 못해요.",
+        "romaji": "Geu haksaengeun gongbubakke mollaseo nolgeona dareun ireul jal mothaeyo.",
+        "en": "That student only knows how to study, so he's not good at playing or doing other things.",
+        "grammar_audio": "/audio/korean/grammar/s_밖에_bakke_Only_except_20250209_그_학생은_공부밖에_몰라서_놀거나_다른_일을_잘_못해요.mp3"
+      }
+    ],
+    "p_tag": "KOREAN_1",
+    "s_tag": "75"
+  },
+  {
+    "title": "뿐 [ppun] (Only)",
+    "short_explanation": "Used in positive sentences to express that only the stated thing is true or valid.",
+    "long_explanation": "'뿐 [ppun]' is similar to '밖에', but it's used in positive sentences to say 'only' or 'just' that one thing/situation is the case—often emphasizing exclusivity without requiring a negative verb. You might also see it combined as '뿐만 아니라' meaning 'not only…but also.'",
+    "formation": "Noun + 뿐",
+    "examples": [
+      {
+        "kr": "우리 집에는 고양이 두 마리뿐이에요. 다른 애완동물은 없어요.",
+        "romaji": "Uri jibe-neun goyangi du mari ppunieyo. Dareun aewandongmuleun eopseoyo.",
+        "en": "We only have two cats at home; there are no other pets.",
+        "grammar_audio": "/audio/korean/grammar/s_뿐_ppun_Only_20250209_우리_집에는_고양이_두_마리뿐이에요_다른_애완동물은_없어요.mp3"
+      },
+      {
+        "kr": "주말에는 집에서 휴식하는 것뿐이지, 특별한 일정은 없어요.",
+        "romaji": "Jumaleneun jibeseo hyusikhaneun geotppuniji, teukbyeolhan iljeongeun eopseoyo.",
+        "en": "All I do on weekends is rest at home; I don't have any special plans.",
+        "grammar_audio": "/audio/korean/grammar/s_뿐_ppun_Only_20250209_주말에는_집에서_휴식하는_것뿐이지_특별한_일정은_없어요.mp3"
+      },
+      {
+        "kr": "저는 커피뿐 아니라 차도 좋아해요.",
+        "romaji": "Jeoneun keopippun anira chado joahaeyo.",
+        "en": "I like not only coffee but also tea.",
+        "grammar_audio": "/audio/korean/grammar/s_뿐_ppun_Only_20250209_저는_커피뿐_아니라_차도_좋아해요.mp3"
+      },
+      {
+        "kr": "제가 할 수 있는 건 이것뿐입니다. 최선을 다했어요.",
+        "romaji": "Jega hal su inneun geon igeotppunimnida. Choeseoneul dahaesseoyo.",
+        "en": "This is all I can do. I've done my best.",
+        "grammar_audio": "/audio/korean/grammar/s_뿐_ppun_Only_20250209_제가_할_수_있는_건_이것뿐입니다_최선을_다했어요.mp3"
+      }
+    ],
+    "p_tag": "KOREAN_1",
+    "s_tag": "75"
+  },
+  {
+    "title": "는/은 것 [neun/eun geot] (The thing that…, nominalizing)",
+    "short_explanation": "Nominalizes verbs or adjectives, translating roughly as 'the act of …ing' or 'the thing that…'.",
+    "long_explanation": "The construction '는/은 것 [neun/eun geot]' is used in Korean to turn verbs or adjectives into noun phrases—'the thing that…' or 'the act of …ing.' You use '는' after a present verb stem (e.g., '보다' → '보는 것'), and '은' after an adjective stem or a past verb stem to make it function like a noun in the sentence.",
+    "formation": "Verb/Adjective + 는/은 것",
+    "examples": [
+      {
+        "kr": "영화를 보는 것이 왜 그렇게 재미있는지 이해가 안 돼요.",
+        "romaji": "Yeonghwareul boneun geosi wae geureohge jaemiinneunji ihaega an dwaeyo.",
+        "en": "I don't understand why watching movies is so fun.",
+        "grammar_audio": "/audio/korean/grammar/s_는은_것_neuneun_geot_The_thing_that_nominalizing_20250209_영화를_보는_것이_왜_그렇게_재미있는지_이해가_안_돼요.mp3"
+      },
+      {
+        "kr": "우리 나라에서 사는 것은 정말로 재미있습니다.",
+        "romaji": "Uri nara-eseo saneun geoseun jeongmallo jaemiisseumnida.",
+        "en": "Living in our country is really fun.",
+        "grammar_audio": "/audio/korean/grammar/s_는은_것_neuneun_geot_The_thing_that_nominalizing_20250209_우리_나라에서_사는_것은_정말로_재미있습니다.mp3"
+      },
+      {
+        "kr": "가장 중요한 것은 솔직한 거예요.",
+        "romaji": "Gajang jungyohan geoseun soljikhan geoyeyo.",
+        "en": "The most important thing is being honest.",
+        "grammar_audio": "/audio/korean/grammar/s_는은_것_neuneun_geot_The_thing_that_nominalizing_20250209_가장_중요한_것은_솔직한_거예요.mp3"
+      },
+      {
+        "kr": "저는 한국어를 배우는 것이 어렵지만, 계속 연습하고 싶어요.",
+        "romaji": "Jeoneun hangugeoreul baeuneun geosi eoryeopjiman, gyesok yeonseubhago sip-eoyo.",
+        "en": "Learning Korean is difficult for me, but I still want to keep practicing.",
+        "grammar_audio": "/audio/korean/grammar/s_는은_것_neuneun_geot_The_thing_that_nominalizing_20250209_저는_한국어를_배우는_것이_어렵지만_계속_연습하고_싶어요.mp3"
+      }
+    ],
+    "p_tag": "KOREAN_1",
+    "s_tag": "75"
+  },
+  {
+    "title": "(으)ㄴ/는 것 같다 [(eu)n/neun geot gatda] (It seems like)",
+    "short_explanation": "Used to express a conjecture, guess, or resemblance; 'it seems like', 'it appears that'.",
+    "long_explanation": "'(으)ㄴ/는 것 같다' is a common structure in Korean for expressing a guess or impression about a situation. With **action verbs**, '는 것 같다' typically indicates a current action or a general impression; with **descriptive verbs** (adjectives) or **past tense verbs**, '(으)ㄴ 것 같다' is used. It loosely translates to 'it seems that...' or 'it looks like...'.",
+    "formation": "Action verb + 는 것 같다 / Descriptive or past verb + (으)ㄴ 것 같다",
+    "examples": [
+      {
+        "kr": "날씨가 춥다고 생각했는데, 밖은 따뜻한 것 같아요.",
+        "romaji": "Nalssiga chubdago saenggakhaetneunde, bak-eun ttatteuthan geot gatayo.",
+        "en": "I thought it was cold, but it seems warm outside.",
+        "grammar_audio": "/audio/korean/grammar/s_으ㄴ는_것_같다_eunneun_geot_gatda_It_seems_like_20250209_날씨가_춥다고_생각했는데_밖은_따뜻한_것_같아요.mp3"
+      },
+      {
+        "kr": "그 여자는 아주 친절한 것 같습니다. 주변 사람들에게 항상 웃는 얼굴로 대하니까요.",
+        "romaji": "Geu yeojaneun aju chinjeolhan geot gatsseumnida. Jubyeon saramdeurege hangsang utneun eolgullo daehanikkayo.",
+        "en": "That woman seems really kind, as she always greets people with a smile.",
+        "grammar_audio": "/audio/korean/grammar/s_으ㄴ는_것_같다_eunneun_geot_gatda_It_seems_like_20250209_그_여자는_아주_친절한_것_같습니다_주변_사람들에게_항상_웃는_얼굴로_대하니까요.mp3"
+      },
+      {
+        "kr": "주인공이 결국엔 성공할 것 같아요. 왜냐하면 어려움을 극복하려고 무척 노력하니까요.",
+        "romaji": "Ju-ingongi gyeolgugen seonggonghal geot gatayo. Waenyahamyeon eoryeoumeul geukbokharyeogo mucheok noryeokhanikkayo.",
+        "en": "I think the protagonist will succeed in the end because he puts a lot of effort into overcoming difficulties.",
+        "grammar_audio": "/audio/korean/grammar/s_으ㄴ는_것_같다_eunneun_geot_gatda_It_seems_like_20250209_주인공이_결국엔_성공할_것_같아요_왜냐하면_어려움을_극복하려고_무척_노력하니까요.mp3"
+      },
+      {
+        "kr": "이번 시험은 어려울 것 같아요. 배운 내용이 많이 복잡하거든요.",
+        "romaji": "Ibeon siheomeun eoryeoul geot gatayo. Baeun naeyongi manhi bokjaphageodeunyo.",
+        "en": "I think this test will be difficult, because the material we learned is quite complex.",
+        "grammar_audio": "/audio/korean/grammar/s_으ㄴ는_것_같다_eunneun_geot_gatda_It_seems_like_20250209_이번_시험은_어려울_것_같아요_배운_내용이_많이_복잡하거든요.mp3"
+      }
+    ],
+    "p_tag": "KOREAN_1",
+    "s_tag": "75"
+  },
+  {
+    "title": "(으)러 가다/오다 [(eu)reo gada/oda] (Go/come to do something)",
+    "short_explanation": "Used to express the purpose of going or coming somewhere; 'go/come to do something'.",
+    "long_explanation": "'(으)러 가다/오다' is used to indicate **why** someone goes or comes to a location. If the verb stem ends in a consonant, you add '(으)러'; if it ends in a vowel, you add '러'. It translates to 'go/come in order to do (something)'. For instance: 가다 → 가러, 먹다 → 먹으러, 배우다 → 배우러.",
+    "formation": "Consonant-ending verb stem + (으)러 가다/오다, Vowel-ending verb stem + 러 가다/오다",
+    "examples": [
+      {
+        "kr": "나는 친구를 만나러 학교에 갔어요.",
+        "romaji": "Naneun chingureul mannareo hakgyoe gasseoyo.",
+        "en": "I went to school to meet a friend.",
+        "grammar_audio": "/audio/korean/grammar/s_으러_가다오다_eureo_gadaoda_Gocome_to_do_something_20250209_나는_친구를_만나러_학교에_갔어요.mp3"
+      },
+      {
+        "kr": "내일 부모님을 찾아뵈러 고향에 가려고 해요.",
+        "romaji": "Naeil bumonimeul chajabwero gohyange garyeogo haeyo.",
+        "en": "I'm planning to go to my hometown tomorrow to visit my parents.",
+        "grammar_audio": "/audio/korean/grammar/s_으러_가다오다_eureo_gadaoda_Gocome_to_do_something_20250209_내일_부모님을_찾아뵈러_고향에_가려고_해요.mp3"
+      },
+      {
+        "kr": "그녀는 새 신발을 사러 쇼핑몰에 갔어요.",
+        "romaji": "Geunyeoneun sae sinbareul sareo syopingmole gasseoyo.",
+        "en": "She went to the mall to buy new shoes.",
+        "grammar_audio": "/audio/korean/grammar/s_으러_가다오다_eureo_gadaoda_Gocome_to_do_something_20250209_그녀는_새_신발을_사러_쇼핑몰에_갔어요.mp3"
+      },
+      {
+        "kr": "저는 스피치를 준비하러 도서관에 왔습니다.",
+        "romaji": "Jeoneun seupichireul junbihareo doseogwane wassseumnida.",
+        "en": "I came to the library to prepare a speech.",
+        "grammar_audio": "/audio/korean/grammar/s_으러_가다오다_eureo_gadaoda_Gocome_to_do_something_20250209_저는_스피치를_준비하러_도서관에_왔습니다.mp3"
+      }
+    ],
+    "p_tag": "KOREAN_1",
+    "s_tag": "75"
+  },
+  {
+    "title": "아/어/여도 [a/eo/yeodo] (Even if)",
+    "short_explanation": "Used to indicate that a certain condition does not affect the main action or conclusion; 'even if'.",
+    "long_explanation": "'아/어/여도' means 'even if' or 'even though.' It attaches to the verb stem, showing that **even if** the condition in that clause happens, the main action or state **still** occurs regardless. For example, '늦어도 (even if you’re late)' or '비가 와도 (even if it rains)'.",
+    "formation": "Verb stem + 아/어/여도",
+    "examples": [
+      {
+        "kr": "비가 와도 학교에 가야 했어요. 시험이 있었거든요.",
+        "romaji": "Biga wado hakgyoe gaya haesseoyo. Siheomi isseotgeodeunyo.",
+        "en": "Even if it rained, I had to go to school, because there was a test.",
+        "grammar_audio": "/audio/korean/grammar/s_아어여도_aeoyeodo_Even_if_20250209_비가_와도_학교에_가야_했어요_시험이_있었거든요.mp3"
+      },
+      {
+        "kr": "친구가 늦어도 기다릴 거예요. 우리는 오래된 친구니까요.",
+        "romaji": "Chinguga neujeodo gidaril geoyeyo. Urineun oraedoen chingunikka-yo.",
+        "en": "Even if my friend is late, I'll wait, because we've been friends for a long time.",
+        "grammar_audio": "/audio/korean/grammar/s_아어여도_aeoyeodo_Even_if_20250209_친구가_늦어도_기다릴_거예요_우리는_오래된_친구니까요.mp3"
+      },
+      {
+        "kr": "감기가 심해도 축구를 해야 해요. 팀원을 실망시키고 싶지 않거든요.",
+        "romaji": "Gamgiga simhaedo chukgureul haeya haeyo. Timwon-eul silmang sikigo sipji angeodeunyo.",
+        "en": "Even if I have a bad cold, I have to play soccer. I don't want to let my teammates down.",
+        "grammar_audio": "/audio/korean/grammar/s_아어여도_aeoyeodo_Even_if_20250209_감기가_심해도_축구를_해야_해요_팀원을_실망시키고_싶지_않거든요.mp3"
+      },
+      {
+        "kr": "날씨가 추워져도 산책을 계속할 거예요. 그게 스트레스 해소에 최고예요.",
+        "romaji": "Nalssiga chuwojyeodo sanchaegeul gyesokhal geoyeyo. Geuge seuteureseu haesoe choegoyeyo.",
+        "en": "Even if the weather gets cold, I'll keep taking walks. It's the best way to relieve stress.",
+        "grammar_audio": "/audio/korean/grammar/s_아어여도_aeoyeodo_Even_if_20250209_날씨가_추워져도_산책을_계속할_거예요_그게_스트레스_해소에_최고예요.mp3"
+      }
+    ],
+    "p_tag": "KOREAN_1",
+    "s_tag": "75"
+  },
+  {
+    "title": "계속 [gyesok] (Continue to)",
+    "short_explanation": "Used to express the ongoing or repeated nature of an action or state.",
+    "long_explanation": "'계속 [gyesok]' means 'continuously' or 'keep (doing something)'. It shows that an action remains unbroken or is repeated over a period. It can also apply to states or conditions, indicating they persist without stopping.",
+    "formation": "계속 + Verb",
+    "examples": [
+      {
+        "kr": "그는 계속 공부하고 있어서 시험을 잘 볼 것 같아요.",
+        "romaji": "Geuneun gyesok gongbuhago isseoseo siheomeul jal bol geot gatayo.",
+        "en": "He continues studying, so I think he'll do well on the test.",
+        "grammar_audio": "/audio/korean/grammar/s_계속_gyesok_Continue_to_20250209_그는_계속_공부하고_있어서_시험을_잘_볼_것_같아요.mp3"
+      },
+      {
+        "kr": "기분이 좋아서 저는 계속 웃고 있어요.",
+        "romaji": "Gibuni joaseo jeoneun gyesok usgo isseoyo.",
+        "en": "I'm in a good mood, so I keep laughing.",
+        "grammar_audio": "/audio/korean/grammar/s_계속_gyesok_Continue_to_20250209_기분이_좋아서_저는_계속_웃고_있어요.mp3"
+      },
+      {
+        "kr": "비가 계속 오고 있어서 우산을 챙기는 게 좋을 것 같아요.",
+        "romaji": "Biga gyesok ogo isseoseo usaneul chaenggineun ge joeul geot gatayo.",
+        "en": "It's still raining, so it would be good to take an umbrella.",
+        "grammar_audio": "/audio/korean/grammar/s_계속_gyesok_Continue_to_20250209_비가_계속_오고_있어서_우산을_챙기는_게_좋을_것_같아요.mp3"
+      },
+      {
+        "kr": "그녀는 계속 건강에 신경 쓰고 있어요, 그래서 아플 확률이 적어요.",
+        "romaji": "Geunyeoneun gyesok geongange singyeong sseugo isseoyo, geuraeseo apeul hwagnyuli jeogeoyo.",
+        "en": "She keeps taking care of her health, so the chances of her getting sick are low.",
+        "grammar_audio": "/audio/korean/grammar/s_계속_gyesok_Continue_to_20250209_그녀는_계속_건강에_신경_쓰고_있어요_그래서_아플_확률이_적어요.mp3"
+      }
+    ],
+    "p_tag": "KOREAN_1",
+    "s_tag": "75"
+  },
+  {
+    "title": "항상 [hangsang] (Always)",
+    "short_explanation": "Used to indicate something that happens at all times or consistently.",
+    "long_explanation": "'항상 [hangsang]' is an adverb that means 'always.' It indicates a repeated or continuous habit, behavior, or situation. Whether it’s past, present, or future, '항상' emphasizes the consistency or habitual nature of the action.",
+    "formation": "항상 + Verb/Adjective",
+    "examples": [
+      {
+        "kr": "저는 항상 아침에 일찍 일어나서 학교에 가요.",
+        "romaji": "Jeoneun hangsang achime iljjik ireonaseo hakgyoe gayo.",
+        "en": "I always wake up early in the morning and go to school.",
+        "grammar_audio": "/audio/korean/grammar/s_항상_hangsang_Always_20250209_저는_항상_아침에_일찍_일어나서_학교에_가요.mp3"
+      },
+      {
+        "kr": "우리 엄마는 항상 저녁 식사를 준비하면서 라디오를 들어요.",
+        "romaji": "Uri eommaneun hangsang jeonyeok siksareul junbihamyeonseo radioreul deureoyo.",
+        "en": "My mom always listens to the radio while preparing dinner.",
+        "grammar_audio": "/audio/korean/grammar/s_항상_hangsang_Always_20250209_우리_엄마는_항상_저녁_식사를_준비하면서_라디오를_들어요.mp3"
+      },
+      {
+        "kr": "그는 항상 공부 계획을 철저하게 세우고 그대로 따라요.",
+        "romaji": "Geuneun hangsang gongbu gyehoekeul cheoljeohage seugo geudaero ddarayo.",
+        "en": "He always makes thorough study plans and follows them exactly.",
+        "grammar_audio": "/audio/korean/grammar/s_항상_hangsang_Always_20250209_그는_항상_공부_계획을_철저하게_세우고_그대로_따라요.mp3"
+      },
+      {
+        "kr": "공원에서는 항상 새들이 노래를 부르고 있어요.",
+        "romaji": "Gongwoneseoneun hangsang saedeuri noraereul bureugo isseoyo.",
+        "en": "In the park, birds are always singing.",
+        "grammar_audio": "/audio/korean/grammar/s_항상_hangsang_Always_20250209_공원에서는_항상_새들이_노래를_부르고_있어요.mp3"
+      }
+    ],
+    "p_tag": "KOREAN_1",
+    "s_tag": "75"
+  },
+  {
+    "title": "(으)ㄹ 때 [(eu)l ttae] (When)",
+    "short_explanation": "Used to express 'when' something happens or a time condition.",
+    "long_explanation": "'(으)ㄹ 때' corresponds to 'when' or 'at the time that' in English. It's used to link a time clause with the main clause, indicating when an action or state occurs. If the verb stem ends in a vowel, you add 'ㄹ 때,' and if it ends in a consonant, you add '을 때.'",
+    "formation": "Verb stem + ㄹ 때 (vowel-ending) / 을 때 (consonant-ending)",
+    "examples": [
+      {
+        "kr": "여름에는 우리 집에서 바다를 볼 때 창문을 열면 시원한 바닷바람이 들어와요.",
+        "romaji": "Yeoreumeneun uri jibeseo badareul bol ttae changmuneul yeolmyeon siwonhan badatbarami deureowayo.",
+        "en": "In the summer, when we look at the ocean from our house and open the window, a cool sea breeze comes in.",
+        "grammar_audio": "/audio/korean/grammar/s_으ㄹ_때_eul_ttae_When_20250209_여름에는_우리_집에서_바다를_볼_때_창문을_열면_시원한_바닷바람이_들어와요.mp3"
+      },
+      {
+        "kr": "학교에 갈 때 버스를 타면 편해요.",
+        "romaji": "Hakgyoe gal ttae beoseureul tamyeon pyeonhaeyo.",
+        "en": "When going to school, it's convenient to take the bus.",
+        "grammar_audio": "/audio/korean/grammar/s_으ㄹ_때_eul_ttae_When_20250209_학교에_갈_때_버스를_타면_편해요.mp3"
+      },
+      {
+        "kr": "숙제를 할 때 음악을 들으면 더 집중할 수 있어요.",
+        "romaji": "Sukjereul hal ttae eumageul deureumyeon deo jipjunghal su isseoyo.",
+        "en": "When doing homework, listening to music helps me concentrate better.",
+        "grammar_audio": "/audio/korean/grammar/s_으ㄹ_때_eul_ttae_When_20250209_숙제를_할_때_음악을_들으면_더_집중할_수_있어요.mp3"
+      },
+      {
+        "kr": "친구를 만날 때 함께 식사하면 더 즐거워요.",
+        "romaji": "Chingureul mannal ttae hamkke siksahamyeon deo jeulgeowoyo.",
+        "en": "When meeting a friend, it's more fun if you eat together.",
+        "grammar_audio": "/audio/korean/grammar/s_으ㄹ_때_eul_ttae_When_20250209_친구를_만날_때_함께_식사하면_더_즐거워요.mp3"
+      }
+    ],
+    "p_tag": "KOREAN_1",
+    "s_tag": "75"
+  },
+  {
+    "title": "아/어/여야 되다 [a/eo/yeoya doeda] (Must, have to)",
+    "short_explanation": "Used to express obligation or necessity; 'must', 'have to'.",
+    "long_explanation": "'아/어/여야 되다' conveys an obligation or necessity, similar to 'must' or 'have to' in English. It is attached to the verb stem with the appropriate connector (아, 어, or 여), followed by '야 되다'. This indicates the speaker believes that action is required or unavoidable.",
+    "formation": "Verb stem + 아/어/여 + 야 되다",
+    "examples": [
+      {
+        "kr": "병원에 가려면 건강 검사를 받아야 돼요. 그래야 안심하고 공부할 수 있죠.",
+        "romaji": "Byeongwone garyeomyeon geongang geomsa-reul bad-aya dwaeyo. Geuraeya ansimhago gongbuhal su itjyo.",
+        "en": "If you want to go to the hospital, you must get a health checkup. Only then can you study with peace of mind.",
+        "grammar_audio": "/audio/korean/grammar/s_아어여야_되다_aeoyeoya_doeda_Must_have_to_20250209_병원에_가려면_건강_검사를_받아야_돼요_그래야_안심하고_공부할_수_있죠.mp3"
+      },
+      {
+        "kr": "이번 달 매출을 늘리려면 더 많은 고객을 끌어들여야 돼요. 그래야 수익이 오를 거예요.",
+        "romaji": "Ibeon dal maechuleul neulliryeomyeon deo manheun gogaegeul kkeureodeuryeoya dwaeyo. Geuraeya su-igi oreul geoyeyo.",
+        "en": "To increase this month's sales, you have to attract more customers. That's how the profit will go up.",
+        "grammar_audio": "/audio/korean/grammar/s_아어여야_되다_aeoyeoya_doeda_Must_have_to_20250209_이번_달_매출을_늘리려면_더_많은_고객을_끌어들여야_돼요_그래야_수익이_오를_거예요.mp3"
+      },
+      {
+        "kr": "학교에 가기 전에는 아침 식사를 꼭 해야 돼요. 그래야 하루 종일 에너지를 유지하거든요.",
+        "romaji": "Hakgyoe gagi jeoneneun achim siksareul kkok haeya dwaeyo. Geuraeya haru jongil eneojireul yujihageodeunyo.",
+        "en": "You must eat breakfast before going to school. That way you can maintain your energy all day.",
+        "grammar_audio": "/audio/korean/grammar/s_아어여야_되다_aeoyeoya_doeda_Must_have_to_20250209_학교에_가기_전에는_아침_식사를_꼭_해야_돼요_그래야_하루_종일_에너지를_유지하거든요.mp3"
+      },
+      {
+        "kr": "내일 시험이 있으니까 오늘 밤에 공부해야 돼요. 안 그러면 점수가 안 좋을 거예요.",
+        "romaji": "Naeil siheomi issnikka oneul bame gongbuhaeya dwaeyo. An geureomyeon jeomsuga an joeul geoyeyo.",
+        "en": "I have an exam tomorrow, so I must study tonight. Otherwise, I'll get a bad score.",
+        "grammar_audio": "/audio/korean/grammar/s_아어여야_되다_aeoyeoya_doeda_Must_have_to_20250209_내일_시험이_있으니까_오늘_밤에_공부해야_돼요_안_그러면_점수가_안_좋을_거예요.mp3"
+      }
+    ],
+    "p_tag": "KOREAN_1",
+    "s_tag": "75"
+  },
+  {
+    "title": "(으)면서 [(eu)myeonseo] (While, and)",
+    "short_explanation": "Used to express two actions happening at the same time; 'while doing X, doing Y'.",
+    "long_explanation": "'(으)면서' shows that two actions or states occur simultaneously. If the verb stem ends in a consonant, add '으면서'; if it ends in a vowel, just '면서'. For example, 먹다 → 먹으면서, 가다 → 가면서. It can translate to 'while ~ing' in English.",
+    "formation": "Consonant-ending verb + 으면서 / Vowel-ending verb + 면서",
+    "examples": [
+      {
+        "kr": "나는 텔레비전을 보면서 식사를 했어요. 그래서 대화는 못 했죠.",
+        "romaji": "Naneun tellebijeoneul bomyeonseo siksareul haesseoyo. Geuraeseo daehwaneun mot haetjyo.",
+        "en": "I ate while watching TV, so I couldn't talk.",
+        "grammar_audio": "/audio/korean/grammar/s_으면서_eumyeonseo_While_and_20250209_나는_텔레비전을_보면서_식사를_했어요_그래서_대화는_못_했죠.mp3"
+      },
+      {
+        "kr": "그녀는 버스에서 음악을 들으면서 책을 읽고 있어요.",
+        "romaji": "Geunyeoneun beoseueseo eumageul deuleumyeonseo chaegeul ilgo isseoyo.",
+        "en": "She is reading a book while listening to music on the bus.",
+        "grammar_audio": "/audio/korean/grammar/s_으면서_eumyeonseo_While_and_20250209_그녀는_버스에서_음악을_들으면서_책을_읽고_있어요.mp3"
+      },
+      {
+        "kr": "요즘 내 동생은 학교 공부를 하면서 아르바이트도 하고 있어요.",
+        "romaji": "Yojeum nae dongsaengeun hakgyo gongbureul hamyeonseo areubaiteu-do hago isseoyo.",
+        "en": "These days, my younger sibling is studying and also doing a part-time job.",
+        "grammar_audio": "/audio/korean/grammar/s_으면서_eumyeonseo_While_and_20250209_요즘_내_동생은_학교_공부를_하면서_아르바이트도_하고_있어요.mp3"
+      },
+      {
+        "kr": "나는 팟캐스트를 들으면서 새 단어를 기록하고 있어요. 듣기 실력을 늘리려구요.",
+        "romaji": "Naneun patkaeseuteureul deuleumyeonseo sae daneoreul girokago isseoyo. Deutgi sillyeogeul neulliryeoguyo.",
+        "en": "I listen to podcasts while writing down new words, hoping to improve my listening skills.",
+        "grammar_audio": "/audio/korean/grammar/s_으면서_eumyeonseo_While_and_20250209_나는_팟캐스트를_들으면서_새_단어를_기록하고_있어요_듣기_실력을_늘리려구요.mp3"
+      }
+    ],
+    "p_tag": "KOREAN_1",
+    "s_tag": "75"
+  },
+  {
+    "title": "다가 [daga] (And then, while)",
+    "short_explanation": "Used to show that one action was interrupted or followed by another action.",
+    "long_explanation": "'다가' indicates that an action was in progress when another action or event occurred, often with an element of interruption or a sequence. In English, it might be 'while doing X, Y happened' or 'I was doing X, and then Y occurred.'",
+    "formation": "Verb stem + 다가",
+    "examples": [
+      {
+        "kr": "저는 책을 읽다가 잠이 와서 잠들었어요.",
+        "romaji": "Jeoneun chaekeul ilgdaga jami waseo jamdeureosseoyo.",
+        "en": "I was reading a book, then I got sleepy and fell asleep.",
+        "grammar_audio": "/audio/korean/grammar/s_다가_daga_And_then_while_20250209_저는_책을_읽다가_잠이_와서_잠들었어요.mp3"
+      },
+      {
+        "kr": "식당에 가서 밥을 먹다가 친구를 만났어요.",
+        "romaji": "Sikdange gaseo babeul meokdaga chingureul manasseoyo.",
+        "en": "I went to the restaurant to eat, and while eating, I happened to meet a friend.",
+        "grammar_audio": "/audio/korean/grammar/s_다가_daga_And_then_while_20250209_식당에_가서_밥을_먹다가_친구를_만났어요.mp3"
+      },
+      {
+        "kr": "음악을 듣다가 갑자기 전화가 왔어요.",
+        "romaji": "Eumageul deudgaga gabjagi jeonhwaga wasseoyo.",
+        "en": "I was listening to music when suddenly the phone rang.",
+        "grammar_audio": "/audio/korean/grammar/s_다가_daga_And_then_while_20250209_음악을_듣다가_갑자기_전화가_왔어요.mp3"
+      },
+      {
+        "kr": "저는 공부를 하다가 컴퓨터가 꺼져서 깜짝 놀랐어요.",
+        "romaji": "Jeoneun gongbureul hadaga keompyuteoga ggeojyeoseo kkampjjak nollasseoyo.",
+        "en": "I was studying when the computer turned off, and it startled me.",
+        "grammar_audio": "/audio/korean/grammar/s_다가_daga_And_then_while_20250209_저는_공부를_하다가_컴퓨터가_꺼져서_깜짝_놀랐어요.mp3"
+      }
+    ],
+    "p_tag": "KOREAN_1",
+    "s_tag": "75"
+  },
+  {
+    "title": "아/어/여 보이다 [a/eo/yeo boida] (Looks, seems)",
+    "short_explanation": "Used to express 'it seems', 'it looks like', or 'appears to be'.",
+    "long_explanation": "'아/어/여 보이다' is a Korean grammar pattern that describes the appearance or impression of someone or something, based on the speaker’s observation. It can relate to either physical appearance or a perceived mood or atmosphere. In English, it corresponds to expressions like 'it seems...', 'it looks...', or 'it appears...'.",
+    "formation": "Descriptive verb stem + 아/어/여 보이다",
+    "examples": [
+      {
+        "kr": "엄마는 행복해 보이는데, 아마 좋은 소식을 들었나 봐요.",
+        "romaji": "Eommaneun haengbokhae boineunde, ama jo-eun sosigeul deureotna bwayo.",
+        "en": "Mom looks happy. She probably heard some good news.",
+        "grammar_audio": "/audio/korean/grammar/s_아어여_보이다_aeoyeo_boida_Looks_seems_20250209_엄마는_행복해_보이는데_아마_좋은_소식을_들었나_봐요.mp3"
+      },
+      {
+        "kr": "그 사람은 늘 친절해 보이지만 실제로는 그렇지 않아요.",
+        "romaji": "Geu sarameun neul chinjeolhae boijiman siljeoroneun geureochi anhayo.",
+        "en": "That person always appears to be kind, but in reality, they aren’t.",
+        "grammar_audio": "/audio/korean/grammar/s_아어여_보이다_aeoyeo_boida_Looks_seems_20250209_그_사람은_늘_친절해_보이지만_실제로는_그렇지_않아요.mp3"
+      },
+      {
+        "kr": "이 방은 너무 작아 보이지만, 인테리어를 잘 하면 충분히 쓸 만해요.",
+        "romaji": "I bangeun neomu jaga boijiman, inteorieoreul jal hamyeon chungbunhi sseul manhaeyo.",
+        "en": "This room looks very small, but if you decorate it well, it’s quite usable.",
+        "grammar_audio": "/audio/korean/grammar/s_아어여_보이다_aeoyeo_boida_Looks_seems_20250209_이_방은_너무_작아_보이지만_인테리어를_잘_하면_충분히_쓸_만해요.mp3"
+      },
+      {
+        "kr": "너는 항상 바쁜 것 같아 보이는데, 어떻게 지내?",
+        "romaji": "Neoneun hangsang bappeun geot gata boineunde, eotteoke jinae?",
+        "en": "You always look busy—how have you been?",
+        "grammar_audio": "/audio/korean/grammar/s_아어여_보이다_aeoyeo_boida_Looks_seems_20250209_너는_항상_바쁜_것_같아_보이는데_어떻게_지내.mp3"
+      }
+    ],
+    "p_tag": "KOREAN_1",
+    "s_tag": "75"
+  },
+  {
+    "title": "아/어/여 버리다 [a/eo/yeo beorida] (Completely, regretfully)",
+    "short_explanation": "Expresses that an action is done completely or with regret/surprise.",
+    "long_explanation": "'아/어/여 버리다' is a grammatical form indicating that an action is carried out entirely or left a sense of regret, finality, or emotional surprise. It can mean 'to do something completely' or 'to end up doing something (with regret).' Depending on the final vowel of the verb stem, use 아, 어, or 여 before 버리다.",
+    "formation": "Verb stem + 아/어/여 버리다",
+    "examples": [
+      {
+        "kr": "저는 기다리다가 지쳐서 잠들어 버렸어요, 약속 시간에 친구를 못 만났어요.",
+        "romaji": "Jeoneun gidaridaga jichyeoseo jamdeureo beoryeosseoyo, yaksok sigane chingureul mot mannasseoyo.",
+        "en": "I got tired of waiting and fell asleep, so I couldn’t meet my friend at the agreed time.",
+        "grammar_audio": "/audio/korean/grammar/s_아어여_버리다_aeoyeo_beorida_Completely_regretfully_20250209_저는_기다리다가_지쳐서_잠들어_버렸어요_약속_시간에_친구를_못_만났어요.mp3"
+      },
+      {
+        "kr": "그는 스트레스를 받아서 모든 것을 잊어버렸어요, 그런데 그게 반전이었어요.",
+        "romaji": "Geuneun seuteureseureul badaseo modeun geoseul ijeobeoryeosseoyo, geureonde geuge banjeonieosseoyo.",
+        "en": "He was stressed out and forgot everything, but that turned out to be a twist.",
+        "grammar_audio": "/audio/korean/grammar/s_아어여_버리다_aeoyeo_beorida_Completely_regretfully_20250209_그는_스트레스를_받아서_모든_것을_잊어버렸어요_그런데_그게_반전이었어요.mp3"
+      },
+      {
+        "kr": "우리는 문제를 모두 분석해 봤지만, 결국 모든 것을 포기해 버렸어요.",
+        "romaji": "Urineun munjereul modu bunseokhae bwatjiman, gyeolguk modeun geoseul pogihae beoryeosseoyo.",
+        "en": "We analyzed all the problems, but in the end, we just gave up on everything.",
+        "grammar_audio": "/audio/korean/grammar/s_아어여_버리다_aeoyeo_beorida_Completely_regretfully_20250209_우리는_문제를_모두_분석해_봤지만_결국_모든_것을_포기해_버렸어요.mp3"
+      },
+      {
+        "kr": "주말이 왔지만, 불행히도 저는 모든 과제를 끝내 버렸어요. 그래서 쉴 시간이 없어요.",
+        "romaji": "Jumali watjiman, bulhaenghido jeoneun modeun gwaje-reul kkeutnae beoryeosseoyo. Geuraeseo swil sigani eopseoyo.",
+        "en": "The weekend came, but unfortunately, I finished all my assignments, so I have no time to rest.",
+        "grammar_audio": "/audio/korean/grammar/s_아어여_버리다_aeoyeo_beorida_Completely_regretfully_20250209_주말이_왔지만_불행히도_저는_모든_과제를_끝내_버렸어요_그래서_쉴_시간이_없어요.mp3"
+      }
+    ],
+    "p_tag": "KOREAN_1",
+    "s_tag": "75"
+  },
+  {
+    "title": "아/어/여 놓다 [a/eo/yeo nohda] (Leave something as is)",
+    "short_explanation": "Used to describe leaving something in a certain state or condition.",
+    "long_explanation": "'아/어/여 놓다' shows that after performing an action, you keep or maintain the resulting state. It implies that the speaker performed the action and deliberately left the object or situation as is. In English, you might say 'to leave (it) done' or 'have (it) done and left in place.'",
+    "formation": "Action verb stem + 아/어/여 놓다",
+    "examples": [
+      {
+        "kr": "오늘은 집에 일찍 돌아와서 저녁 식사를 만들어 놓았어요. 저녁에 편하게 먹을 수 있어요.",
+        "romaji": "Oneureun jibe iljjik dorawaseo jeonyeok siksareul mandeureo nohass-eoyo. Jeonyeoge pyeonhage meogeul su isseoyo.",
+        "en": "I came home early today and made dinner, so we can eat it comfortably in the evening.",
+        "grammar_audio": "/audio/korean/grammar/s_아어여_놓다_aeoyeo_nohda_Leave_something_as_is_20250209_오늘은_집에_일찍_돌아와서_저녁_식사를_만들어_놓았어요_저녁에_편하게_먹을_수_있어요.mp3"
+      },
+      {
+        "kr": "우리는 체크인하기 전에 호텔 방을 예약해 놓았어요. 그래서 바로 들어갈 수 있었어요.",
+        "romaji": "Urineun chekeu-in hagi jeone hotel bangeul yeyaghae nohass-eoyo. Geuraeseo baro deureogal su isseosseoyo.",
+        "en": "We reserved our hotel room before check-in, so we could go right in.",
+        "grammar_audio": "/audio/korean/grammar/s_아어여_놓다_aeoyeo_nohda_Leave_something_as_is_20250209_우리는_체크인하기_전에_호텔_방을_예약해_놓았어요_그래서_바로_들어갈_수_있었어요.mp3"
+      },
+      {
+        "kr": "그는 오늘 계획을 다 짜 놓고는 아무것도 하지 않았어요.",
+        "romaji": "Geuneun oneul gyehoeg-eul da jja nohkon-neun amugeotdo haji anhasseoyo.",
+        "en": "He drew up all the plans for today, and then did nothing.",
+        "grammar_audio": "/audio/korean/grammar/s_아어여_놓다_aeoyeo_nohda_Leave_something_as_is_20250209_그는_오늘_계획을_다_짜_놓고는_아무것도_하지_않았어요.mp3"
+      },
+      {
+        "kr": "나는 시험을 위해 모든 공부를 해 놓았지만, 시험이 취소되었어요.",
+        "romaji": "Naneun siheomeul wihae modeun gongbureul hae nohassjiman, siheomi chwiso doeeosseoyo.",
+        "en": "I finished all my study for the exam, but the exam got canceled.",
+        "grammar_audio": "/audio/korean/grammar/s_아어여_놓다_aeoyeo_nohda_Leave_something_as_is_20250209_나는_시험을_위해_모든_공부를_해_놓았지만_시험이_취소되었어요.mp3"
+      }
+    ],
+    "p_tag": "KOREAN_1",
+    "s_tag": "75"
+  },
+  {
+    "title": "아/어/여 지다 [a/eo/yeo jida] (Become)",
+    "short_explanation": "Shows a change in state or condition, 'become' or 'get'.",
+    "long_explanation": "'아/어/여 지다' describes a transformation from one state to another over time. It’s often used with descriptive verbs (adjectives) to mean 'become + adjective' (e.g., 춥다 → 추워지다 for 'to become cold'). The choice of 아/어/여 depends on the stem’s final vowel.",
+    "formation": "Adjective stem + 아/어/여 + 지다",
+    "examples": [
+      {
+        "kr": "하늘이 어두워져서 길이 잘 안 보여요. 가게까지 가기 힘들겠어요.",
+        "romaji": "Haneuri eoduwojyeoseo giri jal an boyeoyo. GagekKaji gagi himdeulgesseoyo.",
+        "en": "The sky became dark, so it’s hard to see the road. Going to the store might be difficult.",
+        "grammar_audio": "/audio/korean/grammar/s_아어여_지다_aeoyeo_jida_Become_20250209_하늘이_어두워져서_길이_잘_안_보여요_가게까지_가기_힘들겠어요.mp3"
+      },
+      {
+        "kr": "날씨가 추워져서 나가기가 싫어졌어요. 집에만 있고 싶네요.",
+        "romaji": "Nalssiga chuwojyeoseo nagagiga sil-eojyeosseoyo. Jibeman itgo sipneyo.",
+        "en": "The weather got cold, so I don’t want to go outside. I just want to stay home.",
+        "grammar_audio": "/audio/korean/grammar/s_아어여_지다_aeoyeo_jida_Become_20250209_날씨가_추워져서_나가기가_싫어졌어요_집에만_있고_싶네요.mp3"
+      },
+      {
+        "kr": "오늘은 힘든 일이 있어서 기분이 좋아지지 않았어요. 잠시 쉬면서 기분 전환하는 게 어떨까요?",
+        "romaji": "Oneureun himdeun iri isseoseo gibuni joajiji anasseoyo. Jamsi swieomyeonseo gibun jeonhwanhaneun ge eotteolkayo?",
+        "en": "I had a hard day today, so my mood hasn’t improved. How about taking a break to refresh yourself?",
+        "grammar_audio": "/audio/korean/grammar/s_아어여_지다_aeoyeo_jida_Become_20250209_오늘은_힘든_일이_있어서_기분이_좋아지지_않았어요_잠시_쉬면서_기분_전환하는_게_어떨까요.mp3"
+      },
+      {
+        "kr": "친구 덕분에 기분이 한결 좋아졌어요. 자주 만나야겠어요.",
+        "romaji": "Chingu deokbune gibuni hangyeol joajyeosseoyo. Jaju mannayagesseoyo.",
+        "en": "Thanks to my friend, my mood got much better. I should see them more often.",
+        "grammar_audio": "/audio/korean/grammar/s_아어여_지다_aeoyeo_jida_Become_20250209_친구_덕분에_기분이_한결_좋아졌어요_자주_만나야겠어요.mp3"
+      }
+    ],
+    "p_tag": "KOREAN_1",
+    "s_tag": "75"
+  },
+  {
+    "title": "아/어/여 가지다 [a/eo/yeo gajida] (Have, possess)",
+    "short_explanation": "Used when someone possesses or has certain qualities, traits, or characteristics.",
+    "long_explanation": "'아/어/여 가지다' signifies that someone or something 'has' or 'possesses' a particular feature, quality, or characteristic. It’s often used with adjectives or abstract qualities, indicating the subject is endowed with or exhibits those traits.",
+    "formation": "Adjective stem + 아/어/여 + 가지다",
+    "examples": [
+      {
+        "kr": "그녀는 아름다운 눈을 가지고 있어요. 밤하늘 별처럼 반짝여요.",
+        "romaji": "Geunyeoneun areumdaun nuneul gajigo isseoyo. Bamhaneul byeolcheoreom banjjakyeoyo.",
+        "en": "She has beautiful eyes that sparkle like stars in the night sky.",
+        "grammar_audio": "/audio/korean/grammar/s_아어여_가지다_aeoyeo_gajida_Have_possess_20250209_그녀는_아름다운_눈을_가지고_있어요_밤하늘_별처럼_반짝여요.mp3"
+      },
+      {
+        "kr": "저는 좋은 친구를 많이 가지고 있어서 외롭지 않아요.",
+        "romaji": "Jeoneun joeun chingureul manhi gajigo isseoseo oeropji anhayo.",
+        "en": "I have many good friends, so I’m never lonely.",
+        "grammar_audio": "/audio/korean/grammar/s_아어여_가지다_aeoyeo_gajida_Have_possess_20250209_저는_좋은_친구를_많이_가지고_있어서_외롭지_않아요.mp3"
+      },
+      {
+        "kr": "우리 회사는 강력한 경쟁력을 가져야 해요. 그래야 성장할 수 있거든요.",
+        "romaji": "Uri hoesaneun gangnyeokhan gyeongjaengryeogeul gajyeoya haeyo. Geuraeya seongjanghal su itgeodeunyo.",
+        "en": "Our company needs to have strong competitiveness; that’s the only way we can grow.",
+        "grammar_audio": "/audio/korean/grammar/s_아어여_가지다_aeoyeo_gajida_Have_possess_20250209_우리_회사는_강력한_경쟁력을_가져야_해요_그래야_성장할_수_있거든요.mp3"
+      },
+      {
+        "kr": "그는 뛰어난 능력을 가지고 있어서 어떤 일이든 잘 해낼 수 있어요.",
+        "romaji": "Geuneun ttwieonan neungnyeogeul gajigo isseoseo eotteon irideun jal haenael su isseoyo.",
+        "en": "He has outstanding abilities, so he can accomplish anything.",
+        "grammar_audio": "/audio/korean/grammar/s_아어여_가지다_aeoyeo_gajida_Have_possess_20250209_그는_뛰어난_능력을_가지고_있어서_어떤_일이든_잘_해낼_수_있어요.mp3"
+      }
+    ],
+    "p_tag": "KOREAN_1",
+    "s_tag": "75"
+  },
+  {
+    "title": "(으)ㄴ/는 편이다 [(eu)n/neun pyeonida] (Tend to)",
+    "short_explanation": "Used to describe someone's tendency, habit, or general characteristic.",
+    "long_explanation": "The expression '(으)ㄴ/는 편이다' describes a tendency or inclination. **With descriptive verbs (adjectives), you use (으)ㄴ 편이다**, and **with action verbs, you use 는 편이다**. It translates roughly to 'I tend to…' or 'It’s rather…'. It suggests that something is generally or somewhat the case, without being absolute.",
+    "formation": "Descriptive verb + (으)ㄴ 편이다 / Action verb + 는 편이다",
+    "examples": [
+      {
+        "kr": "그는 일찍 일어나는 편이에요. 주말에도 항상 아침 일찍 일어나요.",
+        "romaji": "Geuneun iljjik ireonaneun pyeonieyo. Jumal-edo hangsang achim iljjik ireonayo.",
+        "en": "He tends to wake up early. Even on weekends, he always gets up in the morning.",
+        "grammar_audio": "/audio/korean/grammar/s_으ㄴ는_편이다_eunneun_pyeonida_Tend_to_20250209_그는_일찍_일어나는_편이에요_주말에도_항상_아침_일찍_일어나요.mp3"
+      },
+      {
+        "kr": "저는 매운 음식을 잘 먹는 편이에요. 아주 매운 음식도 즐겨요.",
+        "romaji": "Jeoneun ma-eun eumsigeul jal meokneun pyeonieyo. Aju ma-eun eumsikdo jeulgyeoyo.",
+        "en": "I tend to handle spicy food pretty well. I even enjoy very spicy dishes.",
+        "grammar_audio": "/audio/korean/grammar/s_으ㄴ는_편이다_eunneun_pyeonida_Tend_to_20250209_저는_매운_음식을_잘_먹는_편이에요_아주_매운_음식도_즐겨요.mp3"
+      },
+      {
+        "kr": "우리 동생은 안전을 중시하는 편이에요, 그래서 항상 안전벨트를 착용해요.",
+        "romaji": "Uri dongsaengeun anjeoneul jungsihaneun pyeonieyo, geuraeseo hangsang anjeonbelteureul chakyonghaeyo.",
+        "en": "My younger sibling tends to place importance on safety, so he always wears a seatbelt.",
+        "grammar_audio": "/audio/korean/grammar/s_으ㄴ는_편이다_eunneun_pyeonida_Tend_to_20250209_우리_동생은_안전을_중시하는_편이에요_그래서_항상_안전벨트를_착용해요.mp3"
+      },
+      {
+        "kr": "나는 책을 자주 읽는 편이에요, 특히 공상 과학 소설을 좋아해요.",
+        "romaji": "Naneun chaekeul jaju ilkneun pyeonieyo, teukhi gongsang gwahak soseoreul joahaeyo.",
+        "en": "I tend to read books often, especially science fiction.",
+        "grammar_audio": "/audio/korean/grammar/s_으ㄴ는_편이다_eunneun_pyeonida_Tend_to_20250209_나는_책을_자주_읽는_편이에요_특히_공상_과학_소설을_좋아해요.mp3"
+      }
+    ],
+    "p_tag": "KOREAN_1",
+    "s_tag": "75"
+  },
+  {
+    "title": "는/은 데 [neun/eun de] (Situation or condition)",
+    "short_explanation": "Used to describe or clarify a situation, often introducing contrasting or unexpected information.",
+    "long_explanation": "'는/은 데' serves as a connector in Korean. It provides context or background before introducing new or contrasting information. It can translate loosely to '…but…', '…and…', or '…so…' in English, depending on context. The form uses '는 데' for action verbs and '은 데' for descriptive verbs or nouns.",
+    "formation": "Verb/Adjective/Noun + 는/은 데 + (additional clause)",
+    "examples": [
+      {
+        "kr": "아직 학생인데 돈을 벌려고 아르바이트를 하고 있어요.",
+        "romaji": "Ajik haksaeng-inde don-eul beollyeogo areubaiteureul hago isseoyo.",
+        "en": "I'm still a student, but I'm working a part-time job to make money.",
+        "grammar_audio": "/audio/korean/grammar/s_는은_데_neuneun_de_Situation_or_condition_20250209_아직_학생인데_돈을_벌려고_아르바이트를_하고_있어요.mp3"
+      },
+      {
+        "kr": "어제 내가 집에 왔는데 아무도 없었어요.",
+        "romaji": "Eoje naega jibe watneunde amudo eobseosseoyo.",
+        "en": "I came home yesterday, but there was nobody there.",
+        "grammar_audio": "/audio/korean/grammar/s_는은_데_neuneun_de_Situation_or_condition_20250209_어제_내가_집에_왔는데_아무도_없었어요.mp3"
+      },
+      {
+        "kr": "지금 비가 오는데 우산을 안 가져와서 큰일이에요.",
+        "romaji": "Jigeum biga oneunde usaneul an gajyeowaseo keunirieyo.",
+        "en": "It's raining now, but I didn't bring an umbrella, which is problematic.",
+        "grammar_audio": "/audio/korean/grammar/s_는은_데_neuneun_de_Situation_or_condition_20250209_지금_비가_오는데_우산을_안_가져와서_큰일이에요.mp3"
+      },
+      {
+        "kr": "저는 사람들과 얘기하는 것을 좋아하는데, 부끄러움이 많아서 어렵습니다.",
+        "romaji": "Jeoneun saramdeulgwa yaegihaneun geoseul joahaneunde, bukkeureoumi manaseo eoryeopseumnida.",
+        "en": "I like talking to people, but it's difficult because I'm very shy.",
+        "grammar_audio": "/audio/korean/grammar/s_는은_데_neuneun_de_Situation_or_condition_20250209_저는_사람들과_얘기하는_것을_좋아하는데_부끄러움이_많아서_어렵습니다.mp3"
+      }
+    ],
+    "p_tag": "KOREAN_1",
+    "s_tag": "75"
+  },
+  {
+    "title": "아/어/여야겠다 [a/eo/yeoya getda] (Should, must)",
+    "short_explanation": "Expresses necessity or a decision that the speaker has reached; 'I should', 'I must'.",
+    "long_explanation": "'아/어/여야겠다' is used when the speaker concludes that a certain action is necessary or desirable. It can translate to 'I should…', 'I must…', or 'I’d better…'. It expresses the speaker’s judgment or resolution about the action that needs to be taken.",
+    "formation": "Verb stem + 아/어/여야겠다",
+    "examples": [
+      {
+        "kr": "이 레포트를 빨리 완성해야겠어요. 제출 기한이 내일이거든요.",
+        "romaji": "I repoteureul ppalli wanseonghaeyagetseoyo. Jesul gihan-i naeirigodeunyo.",
+        "en": "I should finish this report quickly because the deadline is tomorrow.",
+        "grammar_audio": "/audio/korean/grammar/s_아어여야겠다_aeoyeoya_getda_Should_must_20250209_이_레포트를_빨리_완성해야겠어요_제출_기한이_내일이거든요.mp3"
+      },
+      {
+        "kr": "우리는 시간이 없으니까 택시를 타야겠어요.",
+        "romaji": "Urineun sigani eopseunikka taeksireul tayagetseoyo.",
+        "en": "We should take a taxi since we don’t have much time.",
+        "grammar_audio": "/audio/korean/grammar/s_아어여야겠다_aeoyeoya_getda_Should_must_20250209_우리는_시간이_없으니까_택시를_타야겠어요.mp3"
+      },
+      {
+        "kr": "이 음식이 맛있어 보이니까, 나도 한 번 먹어 봐야겠어요.",
+        "romaji": "I eumsigi masisseo boinikka, nado han beon meogeo bwayagetseoyo.",
+        "en": "This food looks delicious. I should try it once, too.",
+        "grammar_audio": "/audio/korean/grammar/s_아어여야겠다_aeoyeoya_getda_Should_must_20250209_이_음식이_맛있어_보이니까_나도_한_번_먹어_봐야겠어요.mp3"
+      },
+      {
+        "kr": "날씨가 추워서 더 따뜻한 옷을 입어야겠어요.",
+        "romaji": "Nalssiga chuwoseo deo ttatteuthan oseul ibeoyagetseoyo.",
+        "en": "Because it’s cold, I should wear warmer clothes.",
+        "grammar_audio": "/audio/korean/grammar/s_아어여야겠다_aeoyeoya_getda_Should_must_20250209_날씨가_추워서_더_따뜻한_옷을_입어야겠어요.mp3"
+      }
+    ],
+    "p_tag": "KOREAN_1",
+    "s_tag": "75"
+  },
+  {
+    "title": "아/어/여서는 안 되다 [a/eo/yeoseoneun an doeda] (Must not, shouldn't)",
+    "short_explanation": "Used to express prohibition; 'must not', 'shouldn’t'.",
+    "long_explanation": "The construction '아/어/여서는 안 되다' conveys that a certain action is forbidden or must not happen. It’s similar to 'You must not…' or 'You shouldn’t…' in English. Typically, we use the verb stem, attach 아/어/여서, and then add '는 안 되다.'",
+    "formation": "Verb stem + 아/어/여서 + 는 안 되다",
+    "examples": [
+      {
+        "kr": "이 병원에서는 담배를 피워서는 안 됩니다. 건강에 매우 해롭습니다.",
+        "romaji": "I byeongwoneseoneun dambaereul piwoseoneun an doemnida. Geongange maeu haeropseumnida.",
+        "en": "You must not smoke in this hospital. It’s very harmful to health.",
+        "grammar_audio": "/audio/korean/grammar/s_아어여서는_안_되다_aeoyeoseoneun_an_doeda_Must_not_shouldnt_20250209_이_병원에서는_담배를_피워서는_안_됩니다_건강에_매우_해롭습니다.mp3"
+      },
+      {
+        "kr": "비밀인 사실을 다른 사람에게 말해서는 안 됩니다. 신뢰를 잃을 수 있어요.",
+        "romaji": "Bimilin sasireul dareun saramege malhaeseoneun an doemnida. Sinloereul il-eul su isseoyo.",
+        "en": "You must not reveal a secret fact to others. You could lose their trust.",
+        "grammar_audio": "/audio/korean/grammar/s_아어여서는_안_되다_aeoyeoseoneun_an_doeda_Must_not_shouldnt_20250209_비밀인_사실을_다른_사람에게_말해서는_안_됩니다_신뢰를_잃을_수_있어요.mp3"
+      },
+      {
+        "kr": "시험 중에는 친구와 대화해서는 안 됩니다. 불공정한 행위로 간주될 수 있어요.",
+        "romaji": "Siheom jungeneun chinguwa daehwahaseoneun an doemnida. Bulgongjeonghan haengwiro ganjudoel su isseoyo.",
+        "en": "You must not talk with a friend during an exam. It can be considered cheating.",
+        "grammar_audio": "/audio/korean/grammar/s_아어여서는_안_되다_aeoyeoseoneun_an_doeda_Must_not_shouldnt_20250209_시험_중에는_친구와_대화해서는_안_됩니다_불공정한_행위로_간주될_수_있어요.mp3"
+      },
+      {
+        "kr": "숙제를 너무 빨리 해서는 안 돼요. 이해가 안 되면 꼭 선생님께 질문해야 해요.",
+        "romaji": "Sukjereul neomu ppalli haeseoneun an dwaeyo. Ihaega an doemyeon kkok seonsaengnimkke jilmunhaeya haeyo.",
+        "en": "You shouldn’t rush through your homework. If you don’t understand something, you must ask the teacher.",
+        "grammar_audio": "/audio/korean/grammar/s_아어여서는_안_되다_aeoyeoseoneun_an_doeda_Must_not_shouldnt_20250209_숙제를_너무_빨리_해서는_안_돼요_이해가_안_되면_꼭_선생님께_질문해야_해요.mp3"
+      }
+    ],
+    "p_tag": "KOREAN_1",
+    "s_tag": "75"
+  },
+  {
+    "title": "아/어/여 주세요 [a/eo/yeo juseyo] (Please give/do for me)",
+    "short_explanation": "Politely request or command someone to do something for you.",
+    "long_explanation": "'아/어/여 주세요' is used in Korean to make a **polite request** to the listener, akin to 'please do (something)' or 'please give me (something).' It attaches to the stem of an **action verb**, and the exact form (아/어/여) depends on the final vowel in the verb stem.",
+    "formation": "Verb stem + 아/어/여 + 주세요",
+    "examples": [
+      {
+        "kr": "같이 머물 수 있는 곳을 찾아 주세요. 제 친구와 함께 한국을 여행하고 싶어요.",
+        "romaji": "Gachi meomul su inneun goseul chaja juseyo. Je chinguwa hamkke Hanguk-eul yeohaenghago sip-eoyo.",
+        "en": "Please find a place where we can stay together. I want to travel to Korea with my friend.",
+        "grammar_audio": "/audio/korean/grammar/s_아어여_주세요_aeoyeo_juseyo_Please_givedo_for_me_20250209_같이_머물_수_있는_곳을_찾아_주세요_제_친구와_함께_한국을_여행하고_싶어요.mp3"
+      },
+      {
+        "kr": "이 문장에서 틀린 부분을 찾아 주세요. 제가 몰라서 도움이 필요해요.",
+        "romaji": "I munjang-eseo teullin bubuneul chaja juseyo. Jega mollaseo doumi pilyohaeyo.",
+        "en": "Please find the wrong part in this sentence. I need help because I don't know.",
+        "grammar_audio": "/audio/korean/grammar/s_아어여_주세요_aeoyeo_juseyo_Please_givedo_for_me_20250209_이_문장에서_틀린_부분을_찾아_주세요_제가_몰라서_도움이_필요해요.mp3"
+      },
+      {
+        "kr": "집에 가는 길에 우유를 사 와 주세요. 집에 우유가 부족해요.",
+        "romaji": "Jibe ganeun gil-e uyureul sa wa juseyo. Jibe uyuga bujokhaeyo.",
+        "en": "Please buy milk on your way home. We're short on milk at home.",
+        "grammar_audio": "/audio/korean/grammar/s_아어여_주세요_aeoyeo_juseyo_Please_givedo_for_me_20250209_집에_가는_길에_우유를_사_와_주세요_집에_우유가_부족해요.mp3"
+      },
+      {
+        "kr": "이 메일에 답장을 보내 주세요. 곧 답변이 필요해요.",
+        "romaji": "I meile dapjangeul bonae juseyo. Got dapbyeoni pilyohaeyo.",
+        "en": "Please send a reply to this email. I need a response soon.",
+        "grammar_audio": "/audio/korean/grammar/s_아어여_주세요_aeoyeo_juseyo_Please_givedo_for_me_20250209_이_메일에_답장을_보내_주세요_곧_답변이_필요해요.mp3"
+      }
+    ],
+    "p_tag": "KOREAN_1",
+    "s_tag": "75"
+  },
+  {
+    "title": "아/어/여 드리다 [a/eo/yeo deurida] (To give – honorific)",
+    "short_explanation": "Conveys politeness when doing something for someone (honorific).",
+    "long_explanation": "'아/어/여 드리다' is an **honorific** version of '아/어/여 주다' used to **politely express** that you are doing (or giving) something to someone of higher status or to show respect. It follows the same vowel rules as '주다', but replaces '주다' with '드리다' for heightened politeness.",
+    "formation": "Verb stem + 아/어/여 드리다",
+    "examples": [
+      {
+        "kr": "알려 드리기 위해 제 전화번호를 당신에게 드립니다.",
+        "romaji": "Allyeo deurigi wihae je jeonhwa-beonhoreul dangsinege deurimnida.",
+        "en": "I give you my phone number to inform you.",
+        "grammar_audio": "/audio/korean/grammar/s_아어여_드리다_aeoyeo_deurida_To_give_–_honorific_20250209_알려_드리기_위해_제_전화번호를_당신에게_드립니다.mp3"
+      },
+      {
+        "kr": "고객님께 더 좋은 서비스를 제공해 드리고자 항상 노력하고 있습니다.",
+        "romaji": "Gogaengnimkke deo jo-eun seobiseureul jegonghae deurigoja hangsang noryeokhago issseumnida.",
+        "en": "We are always striving to provide better service to our valued customers.",
+        "grammar_audio": "/audio/korean/grammar/s_아어여_드리다_aeoyeo_deurida_To_give_–_honorific_20250209_고객님께_더_좋은_서비스를_제공해_드리고자_항상_노력하고_있습니다.mp3"
+      },
+      {
+        "kr": "어머니께 편지를 써 드렸습니다.",
+        "romaji": "Eomeonikke pyeonjireul sseodeuryeosseumnida.",
+        "en": "I wrote a letter for my mother.",
+        "grammar_audio": "/audio/korean/grammar/s_아어여_드리다_aeoyeo_deurida_To_give_–_honorific_20250209_어머니께_편지를_써_드렸습니다.mp3"
+      },
+      {
+        "kr": "학생들에게 좋은 지식을 가르쳐 드리지 않을 수 없어요.",
+        "romaji": "Haksaengdeurege jo-eun jisigeul gareuchyeo deuriji anheul su eopseoyo.",
+        "en": "I can't help but impart good knowledge to my students.",
+        "grammar_audio": "/audio/korean/grammar/s_아어여_드리다_aeoyeo_deurida_To_give_–_honorific_20250209_학생들에게_좋은_지식을_가르쳐_드리지_않을_수_없어요.mp3"
+      }
+    ],
+    "p_tag": "KOREAN_1",
+    "s_tag": "75"
+  },
+  {
+    "title": "다니다 [danida] (To attend, go regularly)",
+    "short_explanation": "Used to express attending or regularly going to a place.",
+    "long_explanation": "'다니다' means to **go (somewhere) regularly** or to **attend**. It conveys habitual or routine movement. Examples include attending school or work daily, going to the gym regularly, etc.",
+    "formation": "Noun + 에 다니다 (often a place, like '학교에 다니다')",
+    "examples": [
+      {
+        "kr": "저는 매일 아침 일찍 운동하러 체육관에 다녔더니 습관이 되었어요. 그래서 체력이 좋아졌어요.",
+        "romaji": "Jeoneun maeil achim iljjik undonghareo cheyukgwane danyeottdeoni seupgwani doeeosseoyo. Geuraeseo cheryeogi joajyeosseoyo.",
+        "en": "I got into the habit of going to the gym early every morning for exercise, so my stamina improved.",
+        "grammar_audio": "/audio/korean/grammar/s_다니다_danida_To_attend_go_regularly_20250209_저는_매일_아침_일찍_운동하러_체육관에_다녔더니_습관이_되었어요_그래서_체력이_좋아졌어요.mp3"
+      },
+      {
+        "kr": "수업을 듣기 위해 학생들은 매일 학교에 다녀야 합니다. 그래야 공부를 제대로 할 수 있어요.",
+        "romaji": "Sueobeul deutgi wihae haksaengdeureun maeil hakgyoe danyeoya hamnida. Geuraeya gongbureul jedaero hal su isseoyo.",
+        "en": "Students need to attend school daily to take classes. Only then can they study well.",
+        "grammar_audio": "/audio/korean/grammar/s_다니다_danida_To_attend_go_regularly_20250209_수업을_듣기_위해_학생들은_매일_학교에_다녀야_합니다_그래야_공부를_제대로_할_수_있어요.mp3"
+      },
+      {
+        "kr": "나는 친구들과 주말마다 카페에 다니면서 즐거운 시간을 보냈어요. 그래서 추억이 많아요.",
+        "romaji": "Naneun chingudeulgwa jumalmada kapee danimyeonseo jeulgeoun siganeul bonaesseoyo. Geuraeseo chueogi manhayo.",
+        "en": "I spent time going to cafés with my friends on weekends, so I have lots of good memories.",
+        "grammar_audio": "/audio/korean/grammar/s_다니다_danida_To_attend_go_regularly_20250209_나는_친구들과_주말마다_카페에_다니면서_즐거운_시간을_보냈어요_그래서_추억이_많아요.mp3"
+      },
+      {
+        "kr": "이 회사에서 일하려면 매일 사무실에 다녀야 해요. 그래야 업무를 처리할 수 있죠.",
+        "romaji": "I hoesaeseo ilharyeomyeon maeil samusile danyeoya haeyo. Geuraeya eommureul cheorihal su itjyo.",
+        "en": "To work at this company, you need to come to the office every day. That's how you can handle the work.",
+        "grammar_audio": "/audio/korean/grammar/s_다니다_danida_To_attend_go_regularly_20250209_이_회사에서_일하려면_매일_사무실에_다녀야_해요_그래야_업무를_처리할_수_있죠.mp3"
+      }
+    ],
+    "p_tag": "KOREAN_1",
+    "s_tag": "75"
+  },
+  {
+    "title": "아/어/여 가다 [a/eo/yeo gada] (Continue/keep doing something – away from the present)",
+    "short_explanation": "Indicates an action continuing or moving away from the present point in time or space.",
+    "long_explanation": "The expression '아/어/여 가다' can mean that **an action or state continues** in a forward direction—much like 'keep on ~ing' or 'go on ~ing.' It can also show that the action is moving away from the current context. (Note: If you want to say 'go somewhere to do something,' you typically use **'(으)러 가다'** instead.)",
+    "formation": "Verb stem + 아/어/여 가다",
+    "examples": [
+      {
+        "kr": "날이 갈수록 날씨가 더 추워져 가고 있어요.",
+        "romaji": "Nari galsurok nalssiga deo chuwojyeo gago isseoyo.",
+        "en": "As the days go by, it keeps getting colder.",
+        "grammar_audio": "/audio/korean/grammar/s_아어여_가다_aeoyeo_gada_Continuekeep_doing_something_–_away_from_the_present_20250209_날이_갈수록_날씨가_더_추워져_가고_있어요.mp3"
+      },
+      {
+        "kr": "점점 실력이 늘어 가는 것 같아서 기뻐요.",
+        "romaji": "Jeomjeom sillyeogi neureo ganeun geot gataseo gippeoyo.",
+        "en": "I’m happy because it seems like my skills are gradually improving.",
+        "grammar_audio": "/audio/korean/grammar/s_아어여_가다_aeoyeo_gada_Continuekeep_doing_something_–_away_from_the_present_20250209_점점_실력이_늘어_가는_것_같아서_기뻐요.mp3"
+      },
+      {
+        "kr": "계속 연습해 가면 언젠가 프로가 될 수 있을 거예요.",
+        "romaji": "Gyesok yeonseuphae gamyeon eonjenga peuroga doel su isseul geoyeyo.",
+        "en": "If you keep practicing, you can eventually turn pro.",
+        "grammar_audio": "/audio/korean/grammar/s_아어여_가다_aeoyeo_gada_Continuekeep_doing_something_–_away_from_the_present_20250209_계속_연습해_가면_언젠가_프로가_될_수_있을_거예요.mp3"
+      },
+      {
+        "kr": "그 문제에 대해 생각해 가면서 차근차근 해결책을 찾고 있어요.",
+        "romaji": "Geu munje-e daehae saenggakhae gamyeonseo chageunchageun haegyeolchaegeul chatgo isseoyo.",
+        "en": "I’m gradually thinking over the problem and looking for a solution step by step.",
+        "grammar_audio": "/audio/korean/grammar/s_아어여_가다_aeoyeo_gada_Continuekeep_doing_something_–_away_from_the_present_20250209_그_문제에_대해_생각해_가면서_차근차근_해결책을_찾고_있어요.mp3"
+      }
+    ],
+    "p_tag": "KOREAN_1",
+    "s_tag": "75"
+  },
+  {
+    "title": "(으)러 가다/오다 [(eu)reo gada/oda] (Go/come in order to do)",
+    "short_explanation": "Indicates going or coming somewhere for the purpose of performing an action.",
+    "long_explanation": "'(으)러 가다/오다' is used when you physically **go** or **come** to a location in order to do something. The form is '(으)러' for verbs whose stems end in a consonant (other than ㄹ), and '러' if the stem ends in a vowel or ㄹ. For example, '공부하러 가다' = to go somewhere to study.",
+    "formation": "Verb stem + (으)러 가다/오다",
+    "examples": [
+      {
+        "kr": "저는 이번 주말에 영화를 보러 가려고 해요.",
+        "romaji": "Jeoneun ibeon jumare yeonghwareul boreo garyeogo haeyo.",
+        "en": "I'm planning to go watch a movie this weekend.",
+        "grammar_audio": "/audio/korean/grammar/s_으러_가다오다_eureo_gadaoda_Gocome_in_order_to_do_20250209_저는_이번_주말에_영화를_보러_가려고_해요.mp3"
+      },
+      {
+        "kr": "우리는 내일부터 공부하러 도서관에 갈 거예요.",
+        "romaji": "Urineun naeilbuteo gongbuhareo doseogwane gal geoyeyo.",
+        "en": "Starting tomorrow, we're going to the library to study.",
+        "grammar_audio": "/audio/korean/grammar/s_으러_가다오다_eureo_gadaoda_Gocome_in_order_to_do_20250209_우리는_내일부터_공부하러_도서관에_갈_거예요.mp3"
+      },
+      {
+        "kr": "그녀는 이번 주에 친구들과 여행하러 고향에 갈 계획이에요.",
+        "romaji": "Geunyeoneun ibeon jue chingudeulgwa yeohaenghareo gohyange gal gyehoegieyo.",
+        "en": "She’s planning to go to her hometown to travel with her friends this week.",
+        "grammar_audio": "/audio/korean/grammar/s_으러_가다오다_eureo_gadaoda_Gocome_in_order_to_do_20250209_그녀는_이번_주에_친구들과_여행하러_고향에_갈_계획이에요.mp3"
+      },
+      {
+        "kr": "너무 배고파서 점심 먹으러 식당에 가려고 해요.",
+        "romaji": "Neomu baegopaseo jeomsim meogeureo sikdange garyeogo haeyo.",
+        "en": "I’m starving, so I’m going to head to a restaurant for lunch.",
+        "grammar_audio": "/audio/korean/grammar/s_으러_가다오다_eureo_gadaoda_Gocome_in_order_to_do_20250209_너무_배고파서_점심_먹으러_식당에_가려고_해요.mp3"
+      }
+    ],
+    "p_tag": "KOREAN_1",
+    "s_tag": "100"
+  },
+  {
+    "title": "아/어/여 오다 [a/eo/yeo oda] (Come to do / end up doing)",
+    "short_explanation": "Expresses arriving at a certain action or state, or having done something up to now.",
+    "long_explanation": "'아/어/여 오다' can mean 'to come doing something' (physically) or 'to do something gradually until now' (metaphorically). For literal movement, it's often '(으)러 오다' (e.g., 먹으러 오다 = 'come to eat'). For a figurative sense, it can describe an action that has progressed and continued up to the present, akin to 'have been doing.'",
+    "formation": "Verb stem + (으)러 오다 (physical movement) or Verb stem + 아/어/여 오다 (continuing action up to the present)",
+    "examples": [
+      {
+        "kr": "그 여우는 손바닥 위의 닭을 먹으러 왔어요.",
+        "romaji": "Geu yeouneun sonbadak wieui dalkeul meogeureo wasseoyo.",
+        "en": "That fox came to eat the chicken it saw on someone’s palm.",
+        "grammar_audio": "/audio/korean/grammar/s_아어여_오다_aeoyeo_oda_Come_to_do__end_up_doing_20250209_그_여우는_손바닥_위의_닭을_먹으러_왔어요.mp3"
+      },
+      {
+        "kr": "방학이라서 친구들과 여행하러 왔어요.",
+        "romaji": "Banghagiraso chingudeulgwa yeohaenghareo wasseoyo.",
+        "en": "Since it's vacation, I came here to travel with my friends.",
+        "grammar_audio": "/audio/korean/grammar/s_아어여_오다_aeoyeo_oda_Come_to_do__end_up_doing_20250209_방학이라서_친구들과_여행하러_왔어요.mp3"
+      },
+      {
+        "kr": "다이어트를 시작해서 아침마다 달리기를 해 오고 있어요.",
+        "romaji": "Daieoteureul sijakhaeseo achimmada dalligireul hae ogo isseoyo.",
+        "en": "I started a diet, so I’ve been running every morning.",
+        "grammar_audio": "/audio/korean/grammar/s_아어여_오다_aeoyeo_oda_Come_to_do__end_up_doing_20250209_다이어트를_시작해서_아침마다_달리기를_해_오고_있어요.mp3"
+      },
+      {
+        "kr": "너무 많이 먹었더니 한참 걸어 오느라 겨우 집에 도착했어요.",
+        "romaji": "Neomu manhi meogeotdeoni hancham georeo oneura gyeou jibe dochakhaesseoyo.",
+        "en": "I ate too much, so I walked for a long time and only just arrived home.",
+        "grammar_audio": "/audio/korean/grammar/s_아어여_오다_aeoyeo_oda_Come_to_do__end_up_doing_20250209_너무_많이_먹었더니_한참_걸어_오느라_겨우_집에_도착했어요.mp3"
+      }
+    ],
+    "p_tag": "KOREAN_1",
+    "s_tag": "100"
+  },
+  {
+    "title": "고 있다 [go itda] (To be doing)",
+    "short_explanation": "Indicates a continuous or ongoing action, similar to the English '-ing' form.",
+    "long_explanation": "'고 있다' is the standard way to express an **action in progress**. For example, '읽고 있다' = 'am reading,' '요리하고 있다' = 'am cooking.' It differs from '아/어 있다,' which usually describes a **resultant state** (e.g., '앉아 있다' = 'to be seated').",
+    "formation": "Verb stem + 고 있다",
+    "examples": [
+      {
+        "kr": "나는 지금 책을 읽고 있어요. 그래서 나중에 스터디 그룹에 참여하려고 해요.",
+        "romaji": "Naneun jigeum chaekeul ilgo isseoyo. Geuraeseo najunge seuteodi geurupe chamyuharyeogo haeyo.",
+        "en": "I’m reading a book right now, so I plan to join a study group later.",
+        "grammar_audio": "/audio/korean/grammar/s_고_있다_go_itda_To_be_doing_20250209_나는_지금_책을_읽고_있어요_그래서_나중에_스터디_그룹에_참여하려고_해요.mp3"
+      },
+      {
+        "kr": "엄마는 요리하고 있어요. 그래서 나는 방에 있어서 도와줄 수 없어요.",
+        "romaji": "Eommaneun yorihago isseoyo. Geuraeseo naneun bange isseoseo dowajul su eopseoyo.",
+        "en": "My mom is cooking, so I’m in my room and can’t help her.",
+        "grammar_audio": "/audio/korean/grammar/s_고_있다_go_itda_To_be_doing_20250209_엄마는_요리하고_있어요_그래서_나는_방에_있어서_도와줄_수_없어요.mp3"
+      },
+      {
+        "kr": "오빠는 혼자서 연습하고 있어요. 나는 그를 방해하지 않으려고 조용히 있어요.",
+        "romaji": "Oppaneun honjaseo yeonseubhago isseoyo. Naneun geureul banghaehaji anh-euryeogo joyonghi isseoyo.",
+        "en": "My brother is practicing alone; I’m staying quiet so I don’t disturb him.",
+        "grammar_audio": "/audio/korean/grammar/s_고_있다_go_itda_To_be_doing_20250209_오빠는_혼자서_연습하고_있어요_나는_그를_방해하지_않으려고_조용히_있어요.mp3"
+      },
+      {
+        "kr": "친구들은 축구를 하고 있어요. 그런데 비가 와서 이제 그만두려고 하네요.",
+        "romaji": "Chingudeureun chukgureul hago isseoyo. Geureonde biga waseo ije geumanduryeogo haneyo.",
+        "en": "My friends are playing soccer, but since it started to rain, they’re about to stop now.",
+        "grammar_audio": "/audio/korean/grammar/s_고_있다_go_itda_To_be_doing_20250209_친구들은_축구를_하고_있어요_그런데_비가_와서_이제_그만두려고_하네요.mp3"
+      }
+    ],
+    "p_tag": "KOREAN_1",
+    "s_tag": "100"
+  },
+  {
+    "title": "아/어/여 보다 [a/eo/yeo boda] (Try to do)",
+    "short_explanation": "Expresses an attempt or trial to do something, 'try doing'.",
+    "long_explanation": "'아/어/여 보다' indicates that you **attempt** or **try** an action to see what happens. It can be used for trying something for the first time or experimenting with a new method. In English, it corresponds to 'try ~ing' or 'give it a try.'",
+    "formation": "Verb stem + 아/어/여 + 보다",
+    "examples": [
+      {
+        "kr": "새로운 요리법을 배웠으니 오늘 저녁 식사를 해 보려고 합니다.",
+        "romaji": "Saeroun yoribeobeul baewosseuni oneul jeonyeok siksareul hae boryeogo hamnida.",
+        "en": "Since I learned a new cooking method, I’m going to try making dinner tonight.",
+        "grammar_audio": "/audio/korean/grammar/s_아어여_보다_aeoyeo_boda_Try_to_do_20250209_새로운_요리법을_배웠으니_오늘_저녁_식사를_해_보려고_합니다.mp3"
+      },
+      {
+        "kr": "영어 배우는 게 어렵지만 계속 공부해 보려고 해요.",
+        "romaji": "Yeongeo baeuneun ge eoryeopjiman gyesok gongbuhae boryeogo haeyo.",
+        "en": "Learning English is hard, but I intend to keep trying.",
+        "grammar_audio": "/audio/korean/grammar/s_아어여_보다_aeoyeo_boda_Try_to_do_20250209_영어_배우는_게_어렵지만_계속_공부해_보려고_해요.mp3"
+      },
+      {
+        "kr": "아이들에게 로봇 공학을 가르쳐 볼 건데, 어려워하지 않을지 모르겠네요.",
+        "romaji": "Aideurege robot gonghageul gareuchyeo bol geonde, eoryeowohaji anheulji moreugessneyo.",
+        "en": "I'm going to try teaching robotics to the kids, but I’m not sure if they'll find it difficult.",
+        "grammar_audio": "/audio/korean/grammar/s_아어여_보다_aeoyeo_boda_Try_to_do_20250209_아이들에게_로봇_공학을_가르쳐_볼_건데_어려워하지_않을지_모르겠네요.mp3"
+      },
+      {
+        "kr": "이 가방이 맞는지 확인하려면 직접 들고 다녀 보아야 해요.",
+        "romaji": "I gabangi matneunji hwaginharyeomyeon jikjeop deulgo danyo bo-aya haeyo.",
+        "en": "If you want to confirm whether this bag is right for you, you need to actually try carrying it around.",
+        "grammar_audio": "/audio/korean/grammar/s_아어여_보다_aeoyeo_boda_Try_to_do_20250209_이_가방이_맞는지_확인하려면_직접_들고_다녀_보아야_해요.mp3"
+      }
+    ],
+    "p_tag": "KOREAN_1",
+    "s_tag": "100"
+  }
+]

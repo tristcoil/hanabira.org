@@ -1,60 +1,129 @@
 Processing keyword: ほとんど〜 (hotondo〜)
 # Japanese Grammar Point: ほとんど〜 (hotondo〜)
-# Japanese Grammar Point: ほとんど〜 (hotondo〜)
+
 ## 1. Introduction
-The phrase ほとんど (hotondo) translates to "almost" or "nearly" in English. It is used to express that something is nearly the case or that a certain quantity or degree is very close to being complete.
+In this lesson, we'll explore the Japanese grammar point **ほとんど〜** (*hotondo*), which is a versatile adverb used to express quantities and frequencies such as "almost," "nearly," "mostly," or "hardly" in English. Understanding how to use **ほとんど** can greatly enhance your ability to describe situations accurately in Japanese.
+
+---
 ## 2. Core Grammar Explanation
-### Detailed Explanation
-- **Meaning**: ほとんど indicates that a situation is very close to being fully realized. It conveys a sense of approximation.
-- **Structure**: The phrase is often used with a verb or noun to indicate that it is nearly complete or nearly the case.
+### Meaning
+**ほとんど** (*hotondo*) conveys the idea of something being close to a certain state or degree. Its meaning varies based on whether it's used in affirmative or negative sentences:
+- **Affirmative Sentences**: "almost all," "nearly all," "most of"
+- **Negative Sentences**: "hardly," "barely," "almost not at all"
+### Usage
+#### In Affirmative Sentences
+Used to indicate that a large proportion or amount of something is the case.
+- **ほとんど + [Verb/Adjective (Affirmative)]**
+  
+  - 例: ほとんど終わった。
+  
+    *Hotondo owatta.*
+  
+    *It's almost finished.*
+- **ほとんどの + Noun**
+  
+  - 例: ほとんどの人が賛成した。
+  
+    *Hotondo no hito ga sansei shita.*
+  
+    *Most people agreed.*
+#### In Negative Sentences
+Used to express that very little of something is the case.
+- **ほとんど + [Verb/Adjective (Negative Form)]**
+  
+  - 例: 彼はほとんど話さない。
+  
+    *Kare wa hotondo hanasanai.*
+  
+    *He hardly speaks.*
 ### Formation Diagram
-- **Structure**: 
-  - ほとんど + Noun/Verb (in て-form)
-  - Examples:
-    - ほとんどの人 (hotondo no hito) - most people
-    - ほとんど行った (hotondo itta) - almost went
+```
+A[ほとんど] --> B[Affirmative Sentence]
+A --> C[Negative Sentence]
+B --> D["almost all", "most of"]
+C --> E["hardly", "barely"]
+```
+---
 ## 3. Comparative Analysis
-- **ほとんど vs. たいてい (taitei)**: While ほとんど emphasizes a high degree of completion (almost all), たいてい refers to what is generally or usually the case.
-- **ほとんど vs. すべて (subete)**: すべて means "all" or "entirely". ほとんど means "almost" but implies that some small part is not included.
+### ほとんど vs. ほぼ
+
+|            | ほとんど (*hotondo*)                  | ほぼ (*hobo*)                        |
+|------------|---------------------------------------|--------------------------------------|
+| Usage      | Common in both affirmative and negative sentences | Mainly used in affirmative sentences |
+| Formality  | Neutral                               | Slightly more formal                 |
+| Examples   | 仕事がほとんど終わった。<br>*Shigoto ga hotondo owatta.*<br>*The work is almost done.* | 仕事がほぼ終わった。<br>*Shigoto ga hobo owatta.*<br>*The work is nearly done.* |
+
+**Note**: While both mean "almost" or "nearly," **ほぼ** is less commonly used in negative sentences and can sound more formal.
+
+---
 ## 4. Examples in Context
-### Sentence Examples
-1. **Formal**: 
-   - ほとんどの学生が試験に合格しました。
-   - (Hotondo no gakusei ga shiken ni goukaku shimashita.)
-   - Almost all the students passed the exam.
-2. **Informal**:
-   - ほとんど行ったことがあるよ。
-   - (Hotondo itta koto ga aru yo.)
-   - I’ve almost been there.
-3. **Written**: 
-   - 案件のほとんどが解決されました。
-   - (Anken no hotondo ga kaiketsu saremashita.)
-   - Almost all issues have been resolved.
-4. **Spoken**: 
-   - それはほとんどできた！
-   - (Sore wa hotondo dekita!)
-   - That’s almost done!
+### Affirmative Sentences
+1. **彼はほとんど毎日ジョギングをする。**
+   *Kare wa hotondo mainichi jogingu o suru.*
+   *He goes jogging almost every day.*
+2. **その映画はほとんど観たことがある。**
+   *Sono eiga wa hotondo mita koto ga aru.*
+   *I've seen most of those movies.*
+### Negative Sentences
+1. **昨夜は疲れていて、ほとんど眠れなかった。**
+   *Sakuya wa tsukarete ite, hotondo nemurenakatta.*
+   *I was tired last night and could hardly sleep.*
+2. **彼女は英語がほとんど話せない。**
+   *Kanojo wa eigo ga hotondo hanasenai.*
+   *She can barely speak English.*
+### With Nouns
+1. **ほとんどの学生が試験に合格した。**
+   *Hotondo no gakusei ga shiken ni gōkaku shita.*
+   *Most of the students passed the exam.*
+2. **ほとんどの店が日曜日に休みだ。**
+   *Hotondo no mise ga nichiyōbi ni yasumi da.*
+   *Most shops are closed on Sundays.*
+---
 ## 5. Cultural Notes
 ### Cultural Relevance
-Using ほとんど reflects the Japanese tendency towards modesty and understatements. It shows humility and can serve to soften statements, especially in formal contexts. 
-### Idiomatic Expressions 
-- ほとんどの (hotondo no): means "almost all of..."
-- ほとんどの場合 (hotondo no baai): meaning "in most cases..."
+Understanding the nuances of **ほとんど** is important for accurately expressing quantities, which is essential in Japanese communication. It reflects a tendency in Japanese culture to be precise yet indirect in expression.
+### Idiomatic Expressions
+- **ほとんど同じ**
+  *Hotondo onaji*
+  *Almost the same*
+  - 例: この二つの文章はほとんど同じ意味だ。
+    *Kono futatsu no bunshō wa hotondo onaji imi da.*
+    *These two sentences have almost the same meaning.*
+---
 ## 6. Common Mistakes and Tips
-### Error Analysis 
-- **Common Mistakes**: 
-  - Incorrectly using すべて (subete) instead of ほとんど (hotondo) when the situation does not cover everything.
-  - Failing to adapt the verb when using in a past or future context.
-### Learning Strategies 
-- **Mnemonic Device**: Think of "ほとんど" as "hold on to almost," meaning you are almost there to completion.
-- Associate with its visual meaning of nearing a finish line.
+### Common Mistakes
+1. **Using ほとんど in the Wrong Position**
+   - Incorrect: 彼は話さないほとんど。
+     *Kare wa hanasanai hotondo.*
+   - Correct: 彼はほとんど話さない。
+     *Kare wa hotondo hanasanai.*
+2. **Confusing ほとんど with 全部 (ぜんぶ)**
+   - **全部** means "all" or "everything," indicating 100%, whereas **ほとんど** implies "almost all," not complete.
+### Tips
+- **Remember the Context**: Whether **ほとんど** is used in an affirmative or negative sentence changes its meaning significantly.
+- **Positioning Matters**: Place **ほとんど** directly before the verb or adjective it modifies.
+---
 ## 7. Summary and Review
 ### Key Takeaways
-- ほとんど (hotondo) means "almost" or "nearly."
-- It is commonly used with nouns and verbs.
-- Understand the context and degree of approximation being conveyed.
-  
+- **ほとんど** is an adverb meaning "almost," "nearly," "mostly," or "hardly," depending on the sentence's polarity.
+- In **affirmative sentences**, it expresses that something is almost entirely the case.
+- In **negative sentences**, it indicates that something scarcely happens or exists.
+- When used with **の + noun**, it means "most of" that noun.
 ### Quick Recap Quiz
-1. What does ほとんど mean?
-2. Compare ほとんど and たいてい; how are they different?
-3. Create a sentence using ほとんど with a verb of your choice.
+1. **Fill in the blank**:
+   彼は_______毎日コーヒーを飲む。
+   *He drinks coffee almost every day.*
+   **Answer**: ほとんど
+2. **True or False**:
+   **ほとんど** can be used interchangeably with **全部**.
+   **Answer**: False
+3. **Translate to Japanese**:
+   *I hardly understand Chinese.*
+   **Answer**: 私は中国語がほとんどわからない。
+---
+By mastering **ほとんど〜**, you can express nuances in quantity and frequency more naturally in Japanese. Keep practicing by creating your own sentences using **ほとんど** in different contexts!
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

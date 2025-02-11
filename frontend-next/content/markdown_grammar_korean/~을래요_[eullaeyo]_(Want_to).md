@@ -1,70 +1,111 @@
 Processing keyword: ~을래요 [eullaeyo] (Want to)
 # Korean Grammar Point: ~을래요 [eullaeyo] (Want to)
-# Korean TOPIK Grammar Point: ~을래요 [eullaeyo] (Want to)
-## Introduction
-The Korean grammar point ~을래요 is used to express a desire or intention to do something. It is commonly used in spoken and informal settings, allowing speakers to communicate their wants or preferences.
+
+## 1. Introduction
+In this lesson, we will learn the Korean grammar point **~을래요** (**~ㄹ래요** after vowels), which is used to express the speaker’s intention or to ask someone about their intention in an informal and polite manner. Mastering this grammar will help you convey your desires and engage in everyday conversations more naturally.
+
 ---
-## Core Grammar Explanation
-### Detailed Explanation
-- **Meaning**: The phrase "~을래요" indicates that the speaker wants to do something or is proposing an action. It's akin to saying "I want to" or "Do you want to" in English.
-  
+## 2. Core Grammar Explanation
+### Meaning
+**~을래요/~ㄹ래요** is used to:
+- Express the speaker's intention or willingness to do something.
+- Ask someone about their intention or preference.
+It translates to:
+- "I want to..."
+- "I'm going to..."
+- "Do you want to...?"
+- "Would you like to...?"
 ### Structure
-- The structure is formed by taking the verb stem and adding "을래요" or "ㄹ래요" depending on the final consonant of the verb stem.
-  
+The structure depends on whether the verb stem ends with a consonant or a vowel.
+- **Verb stem ending with a consonant**: **~을래요**
+- **Verb stem ending with a vowel**: **~ㄹ래요**
 ### Formation Diagram
-| Verb Stem Ending  | Add  | Example    | Translation      |
-|-------------------|------|------------|-------------------|
-| Consonant (e.g., 가) | 을래요 | 가을래요     | I want to go.     |
-| Vowel (e.g., 먹)     | ㄹ래요 | 먹을래요     | I want to eat.    |
-- **Verb Stem**: The part of the verb before the 다 (to form the dictionary verb).
-- **Use**: Typically used in formality levels appropriate for conversations among friends or acquaintances.
+| **Verb Ending**         | **Rule**    | **Example Verb** | **Verb Stem** | **Conjugation** | **Meaning**            |
+|-------------------------|-------------|------------------|---------------|-----------------|------------------------|
+| Ends with **Consonant** | + **~을래요** | 먹다 (to eat)     | 먹             | 먹을래요         | I want to eat          |
+| Ends with **Vowel**     | + **~ㄹ래요** | 가다 (to go)      | 가             | 갈래요           | I want to go           |
 ---
-## Comparative Analysis
-### Similar Grammar Points
-- **~고 싶다 [go sipda]**: Both are used to express desires but ~고 싶다 is more flexible and can be used in various contexts, while ~을래요 is specifically for suggesting actions.
-  - Example: 
-    - **~고 싶다**: "나는 가고 싶어요" (I want to go).
-    - **~을래요**: "가을래요?" (Do you want to go?).
-### Highlighted Differences
-- **Formality**: ~을래요 is less formal than ~고 싶다, making it suitable for casual conversations.
-- **Focus**: ~을래요 which includes a suggestion or proposal, whereas ~고 싶다 focuses more on personal desire.
+## 3. Comparative Analysis
+### ~을래요 vs. ~고 싶어요
+Both expressions convey desires or intentions, but they have subtle differences.
+| **Grammar Point** | **Usage**                                        | **Politeness Level** |
+|-------------------|--------------------------------------------------|----------------------|
+| **~을래요/~ㄹ래요**  | Expresses intention/willingness; asks preference | Informal Polite      |
+| **~고 싶어요**     | Expresses desire or wish                         | Formal Polite        |
+- **~을래요/~ㄹ래요** is more direct and used in casual settings.
+- **~고 싶어요** is slightly more formal and polite.
 ---
-## Examples in Context
+## 4. Examples in Context
 ### Sentence Examples
-1. **Formal Context**
-   - “영화를 볼래요?” (Do you want to watch a movie?)
-  
-2. **Informal Context**
-   - “운동할래요?” (Do you want to exercise?)
-  
-3. **Written Context**
-   - “이 카페에 가고 싶어요. 가을래요?” 
-   - (I want to go to this café. Do you want to go?)
-4. **Spoken Context**
-   - “밥 먹을래요?” (Do you want to eat?)
+#### Informal Polite Speech
+1. **영화를 볼래요.**
+   - *Yeonghwareul bollae-yo.*
+   - **Translation**: I want to watch a movie.
+2. **뭐 먹을래요?**
+   - *Mwo meogeullae-yo?*
+   - **Translation**: What do you want to eat?
+3. **내일 같이 산책할래요?**
+   - *Naeil gachi sanchaekhallae-yo?*
+   - **Translation**: Would you like to take a walk together tomorrow?
+#### Casual Speech
+1. **집에 갈래?**
+   - *Jibe gallae?*
+   - **Translation**: Do you want to go home?
+2. **우리 노래방에 갈래요?**
+   - *Uri noraebange gallae-yo?*
+   - **Translation**: Shall we go to the karaoke room?
+#### Asking for Preference
+1. **커피 마실래요, 차 마실래요?**
+   - *Keopi masillae-yo, cha masillae-yo?*
+   - **Translation**: Would you like coffee or tea?
+2. **앉을래요, 설래요?**
+   - *Anjillae-yo, seollae-yo?*
+   - **Translation**: Would you like to sit or stand?
 ---
-## Cultural Notes
+## 5. Cultural Notes
 ### Cultural Relevance
-- The use of ~을래요 demonstrates politeness and consideration for the listener's choice or opinion and is commonly used among friends or in less formal settings.
-- The choice of using this form can reflect comfort levels in social situations, where suggesting an activity becomes part of a friendly exchange.
+- **Politeness Levels**: In Korean culture, selecting the appropriate speech level is vital. **~을래요/~ㄹ래요** is informal polite and is suitable among friends, peers, or when the speaker is older than the listener.
+- **Formality**: Avoid using **~을래요/~ㄹ래요** in formal situations or with superiors. Instead, use **~시겠어요** or **~실래요** for higher respect.
 ### Idiomatic Expressions
-- **"놀래요?"** (Do you want to play?) This is a common way to invite someone to join in a fun activity in a casual manner.
+- **놀러 갈래요?** (*Nolleo gallae-yo?*)
+  - **Translation**: Do you want to hang out?
+- **한잔 할래요?** (*Hanjan hallae-yo?*)
+  - **Translation**: Would you like to have a drink?
 ---
-## Common Mistakes and Tips
+## 6. Common Mistakes and Tips
 ### Error Analysis
-- **Wrong tense or stem**: Ensure to correctly identify the verb stem when using -을래요 or -ㄹ래요.
-- **Formality blend**: Misusing in a formal situation when a polite form is required.
+1. **Using the Wrong Ending After Vowels/Consonants**
+   - Incorrect: **가을래요** (from **가다**, to go)
+   - Correct: **갈래요**
+2. **Using ~을래요/~ㄹ래요 in Formal Situations**
+   - Incorrect: **선생님, 질문이 있을래요.**
+   - Correct: **선생님, 질문이 있어요.**
 ### Learning Strategies
-- **Mnemonic Device**: Remember it as "Want to + verb" to associate it with English desires ("I want to" + verb).
-- **Practice Conversationally**: Use with friends in informal settings to build confidence.
+- **Remember the Vowel-Consonant Rule**:
+  - If the verb stem ends with a **vowel**, add **~ㄹ래요**.
+    - **오다** (to come) → **올래요**
+  - If the verb stem ends with a **consonant**, add **~을래요**.
+    - **읽다** (to read) → **읽을래요**
+- **Mnemonic Device**:
+  - **"Vowels are light, so use the lighter ending (~ㄹ래요). Consonants are heavy, so they need more support (~을래요)."**
 ---
-## Summary and Review
+## 7. Summary and Review
 ### Key Takeaways
-- ~을래요 is used to express desires or intentions for actions.
-- It requires a clear understanding of verb stems and their endings.
-- It is less formal and suitable for casual conversations.
+- **~을래요/~ㄹ래요** is used to express one's intention or to ask about someone else's intention in an informal polite manner.
+- Use **~을래요** after verb stems ending with a **consonant** and **~ㄹ래요** after verb stems ending with a **vowel**.
+- It's suitable for casual conversations but not for formal situations or when speaking to superiors.
 ### Quick Recap Quiz
-1. What does ~을래요 mean?
-2. How do you form the past part of a verb to use with ~을래요?
-3. Can you use ~을래요 in a formal business meeting?
+1. **Fill in the blank** with the correct form of **~을래요/~ㄹ래요**:
+   - **먹다** (to eat) → _________
+   - **Answer**: **먹을래요**
+2. **Translate** into Korean using **~을래요/~ㄹ래요**:
+   - "Do you want to study together?"
+   - **Answer**: **같이 공부할래요?**
+3. **True or False**:
+   - It's appropriate to use **~을래요/~ㄹ래요** when inviting your manager to a meeting.
+   - **Answer**: **False**
 ---
+By understanding and practicing **~을래요/~ㄹ래요**, you'll be able to express your intentions more naturally and engage in everyday Korean conversations with greater confidence. Keep practicing, and soon it will become second nature!
+
+---
+© [Hanabira.org](https://hanabira.org)

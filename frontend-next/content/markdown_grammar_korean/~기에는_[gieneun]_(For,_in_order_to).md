@@ -1,71 +1,88 @@
 Processing keyword: ~기에는 [gieneun] (For, in order to)
 # Korean Grammar Point: ~기에는 [gieneun] (For, in order to)
-# Grammar Point: ~기에는 [gieneun] (For, in order to)
+
 ## 1. Introduction
-The Korean grammar point ~기에는 (gieneun) is used to express the purpose or suitability of an action regarding a particular subject or situation. It translates to "for" or "in order to" in English, and it often indicates that something is appropriate or suitable for a specific context.
+In Korean, expressing purposes or evaluating situations often requires specific grammatical constructions. One such construction is **~기에는** (*gi-eneun*), which is used to assess or comment on the suitability or sufficiency of something for a particular action or situation. This lesson will delve into the usage of **~기에는**, providing clear explanations, examples, and comparisons to help you grasp this grammar point effectively.
+
 ---
 ## 2. Core Grammar Explanation
 ### Detailed Explanation
-~기에는 is constructed by taking the verb stem, adding ~기 (gi), and then attaching 에는 (eneun). This construction indicates the purpose of an action in relation to a subject.
-**Structure:**
-- Verb Stem + ~기 + 에는
+**Meaning**: The grammar point **~기에는** is used to express that something is (too... / not enough... / sufficient...) for doing a particular action. It often conveys evaluation or judgment about a situation in the context of an intended action.
+- **Translation Equivalents**: "for (doing something)", "to (do something)", "in order to"
+### Structure
+To construct sentences using **~기에는**, follow these steps:
+1. **Verb Stem**: Take the stem of the action verb.
+2. **Attach** **~기에는**: Add **~기에는** to the verb stem.
+```markdown
+[Verb Stem] + 기에는
+```
 ### Formation Diagram
-Here's a diagram to help visualize the structure:
-```
-[Verb Stem] + 기 + 에는 
-         |
-       (Purpose) 
-```
-#### Meaning
-- Expresses purpose or suitability for an action.
-- Used to evaluate whether something is appropriate for a specific goal.
+| Component      | Explanation                          | Example                          |
+|----------------|--------------------------------------|----------------------------------|
+| Verb Stem      | Remove **-다** from the base form    | 먹다 → 먹                         |
+| + 기에는        | Attach **기에는**                   | 먹 + 기에는 → 먹기에는           |
 ---
 ## 3. Comparative Analysis
-- **~기에는 vs. ~기 위해서 (gi wihaeseo)**: 
-  - ~기 위해서 also means "in order to" but focuses more on intention and is often used for expressing plans or goals.
-  - Example: 공부하기 위해서 도서관에 갔어요. (I went to the library to study.)
-- **~기에는 vs. ~기 때문에 (gi ttaemune)**:
-  - ~기 때문에 means "because" and explains reasons rather than purpose.
-  - Example: 늦었기 때문에 집에 못 갔어요. (I couldn't go home because I was late.)
+**~기에는** vs. **~기에**
+- **~기에는**: Emphasizes evaluation or judgment about the suitability of something for an action, often with a comparative nuance.
+  - *이 음식은 아이들이 먹기에는 매워요.*  
+    (*This food is spicy for children to eat.*)
+- **~기에**: Indicates the reason or basis for an action, often translated as "because" or "since."
+  - *날씨가 좋기에 산책을 했어요.*  
+    (*Because the weather was good, I took a walk.*)
+**Difference**: **~기에** is used for reasons, while **~기에는** is used for assessing suitability.
 ---
 ## 4. Examples in Context
-### Sentence Examples
-1. **Formal:**
-   - 이 책은 초보자에게는 이해하기에는 좀 어렵습니다.
-   - *Translation:* This book is a bit difficult for beginners to understand.
-2. **Informal:**
-   - 너는 이 운동은 나한테는 힘들기에는 너무 안 맞아.
-   - *Translation:* This exercise is too hard for me.
-3. **Spoken:**
-   - 친구를 만나기에는 시간이 좀 부족해요.
-   - *Translation:* There isn’t enough time to meet my friend.
-4. **Written:**
-   - 이 방법은 초등학생들에게는 효과적일 기에는 부족할 수 있습니다.
-   - *Translation:* This method may be insufficient for elementary school students to be effective.
+### Example Sentences
+1. **Informal Spoken**
+   - *이 방은 두 사람이 살기에는 좁아.*  
+     *This room is small for two people to live in.*
+2. **Formal Spoken**
+   - *이 옷은 겨울에 입기에는 너무 얇습니다.*  
+     *This clothing is too thin to wear in winter.*
+3. **Written Context**
+   - *그 책은 초보자가 읽기에는 내용이 어렵다.*  
+     *The book's content is difficult for a beginner to read.*
+4. **Polite Formal**
+   - *여기에 앉기에는 불편하지 않으세요?*  
+     *Isn't it uncomfortable for you to sit here?*
+5. **Suggestion**
+   - *이 정도 돈으로 여행을 가기에는 부족해요.*  
+     *This amount of money is insufficient to go on a trip.*
 ---
 ## 5. Cultural Notes
 ### Cultural Relevance
-Using ~기에는 conveys levels of politeness and respect, especially when discussing suitability or judgments about people. When addressing someone, it’s important to consider your level of formality based on their age or status.
+In Korean culture, expressing appropriate levels of politeness and making considerate judgments are important. Using **~기에는** allows the speaker to make evaluations or suggestions without being too direct, which aligns with the indirect communication style often preferred in Korean society.
 ### Idiomatic Expressions
-- 사용하기에는 좋은 도구입니다. (It’s a good tool for use.)
-- 이 문제는 학생들에게는 너무 쉽기에는 하지 마세요. (This problem is too easy for the students.)
+- **눈으로만 보기에는 아까운 작품이다.**  
+  *It's a masterpiece that's too precious just to look at with eyes (implying it should be experienced more deeply).*
 ---
 ## 6. Common Mistakes and Tips
 ### Error Analysis
-- **Common Errors:**
-  - Incorrect verb usage before ~기에는 can lead to confusion. Always ensure that you use the correct verb stem.
-  - Misunderstanding the context, leading to wrong usage.
+- **Mistake**: Confusing **~기에는** with **~기에** and misusing them interchangeably.
+  - *Incorrect*: *시간이 없기에는 못 갔어요.*  
+  - *Correct*: *시간이 없기에 못 갔어요.*  
+    (*I couldn't go because I didn't have time.*)
 ### Learning Strategies
-- **Mnemonic Device:** Remember that ~기에는 denotes purpose: Think of “for [purpose]” when forming sentences.
-- Practice switching between similar structures. Compare how ~기에는 fits in sentences with ~기 위해서 and see the differences in each context.
+- **Mnemonic Device**: Remember that **에는** often relates to "for" or "in terms of," helping you recall that **~기에는** is about evaluating suitability "for doing" something.
+- **Tip**: Pay attention to the context of the sentence to determine whether you should use **~기에는** (evaluation) or **~기에** (reason).
 ---
 ## 7. Summary and Review
 ### Key Takeaways
-- ~기에는 (gieneun) indicates suitability or purpose.
-- Make sure to use the correct verb stem before adding ~기에는.
-- Be aware of contexts when choosing between similar structures like ~기 위해서 and ~기 때문에.
+- **~기에는** is used to express an evaluation of suitability or sufficiency for performing an action.
+- Constructed by attaching **~기에는** to the verb stem.
+- It differs from **~기에**, which indicates reason or basis for an action.
 ### Quick Recap Quiz
-1. What is the structure of the ~기에는 grammar point?
-2. Provide an example sentence using ~기에는.
-3. How does ~기 위해서 differ from ~기에는?
-*This guide provides a comprehensive overview of the grammar point ~기에는, illustrating its use, structure, and cultural nuances essential for mastering Korean.*
+1. How do you attach **~기에는** to a verb?
+   - **Answer**: Attach **~기에는** directly to the verb stem.
+2. Choose the correct grammar point for the sentence: *This tea is too hot ___ drink quickly.*
+   a) 마시기에는  
+   b) 마시기에
+   - **Answer**: a) 마시기에는
+3. True or False: **~기에는** is used to indicate the reason for an action.
+   - **Answer**: False
+---
+By understanding and practicing **~기에는**, you'll enhance your ability to express nuanced evaluations in Korean, making your speech more natural and context-appropriate.
+
+---
+© [Hanabira.org](https://hanabira.org)

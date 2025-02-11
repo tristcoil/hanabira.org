@@ -1,80 +1,92 @@
 Processing keyword: ~(으)ㄴ/는 중 [(eu)n/neun jung] (In the middle of)
 # Korean Grammar Point: ~(으)ㄴ/는 중 [(eu)n/neun jung] (In the middle of)
-# Grammar Point: ~(으)ㄴ/는 중 [(eu)n/neun jung] (In the middle of)
----
+
 ## 1. Introduction
-The grammar point ~(으)ㄴ/는 중 is used in Korean to indicate that an action is currently taking place or ongoing. It can be translated into English as "in the middle of doing [something]." This structure is essential for expressing ongoing activities and is frequently used in daily conversations.
+In this lesson, we'll explore the Korean grammar point **~(으)ㄴ/는 중**, which is used to express that someone is **in the middle of doing** something. This expression is essential for conveying ongoing actions, especially when you want to emphasize that an action is currently happening.
+
 ---
 ## 2. Core Grammar Explanation
-### Detailed Explanation
-- **Structure**: The structure of this grammar point combines a verb’s tense marker with "중." 
-- **Formation**:
-  - For verbs in the present tense that end with a consonant: **Verb stem + 는 중**
-  - For verbs in the present tense that end with a vowel: **Verb stem + (으)ㄴ 중**
-  - For adjectives (both present and past): 
-    - Present: **Adjective stem + (으)ㄴ 중**
-    - Past: **Adjective stem + (으)ㄴ 중**
-  
-### Visual Aids
-| **Type**         | **Structure**                  | **Example**                    | **Translation**              |
-|-------------------|-------------------------------|---------------------------------|------------------------------|
-| **Present Verb**  | Verb stem + 는 중            | 먹는 중                        | In the middle of eating      |
-| **Present Adjective** | Adj. stem + (으)ㄴ 중     | 바쁜 중                       | In the middle of being busy  |
-| **Past Verb**     | Verb stem + (으)ㄴ 중        | 갔던 중                      | In the middle of having gone |
-| **Past Adjective** | Adj. stem + (으)ㄴ 중       | 예뻤던 중                    | In the middle of having been pretty |
+### Meaning
+The grammar point **~(으)ㄴ/는 중** translates to **"in the middle of"** or **"currently doing"** in English. It's used to indicate that an action is ongoing at the moment of speaking.
+### Structure
+The formation of **~(으)ㄴ/는 중** depends on whether the verb stem ends with a vowel or a consonant.
+
+| Verb Stem Ending | Suffix to Use |
+|------------------|---------------|
+| Consonant        | **~는 중**      |
+| Vowel            | **~는 중**      |
+
+However, since **중** is a noun meaning "middle," the verb is often converted into the modifying form using **~는**.
+### Formation Diagram
+```
+[Verb Stem] + 는 중
+```
 ---
 ## 3. Comparative Analysis
-- **Similar Grammar Points**:
-  - **~고 있다**: This structure also denotes ongoing actions but does not imply "in the middle of." It can suggest a more general continuous state, while ~(으)ㄴ/는 중 emphasizes the action happening at that moment.
-    - Example: 
-      - **사고 있다** (sago itda) - "I am doing [something]."
-      - **하는 중이다** (haneun jungida) - "I am in the middle of doing [something]."
-### Key Differences:
-- **Focus**: ~(으)ㄴ/는 중 emphasizes the active process or progress of an action, while ~고 있다 focuses on the continuous state of being.
+### Comparison with ~고 있다
+While both **~(으)ㄴ/는 중** and **~고 있다** express ongoing actions, there's a subtle difference:
+- **~고 있다**: Simply states that an action is in progress.
+  - *저는 먹고 있어요.* (I am eating.)
+- **~는 중이다**: Emphasizes being in the middle of an action, sometimes implying interruption or context.
+  - *저는 먹는 중이에요.* (I am in the middle of eating.)
 ---
 ## 4. Examples in Context
-### Sentence Examples
-1. **Formal Context**:
-   - **저는 지금 회의 중입니다.**
-   - _Jeoneun jigeum hoe-ui jung-imnida._
-   - "I am in the middle of a meeting."
-2. **Informal Context**:
-   - **나 지금 공부하는 중이야.**
-   - _Na jigeum gongbuhaneun jung-iya._
-   - "I'm in the middle of studying."
-3. **Written Context**:
-   - **연구는 진행 중입니다.**
-   - _Yeongu-neun jinhaeng jung-imnida._
-   - "The research is in progress."
-4. **Spoken Context**:
-   - **나 지금 요리 중이야!**
-   - _Na jigeum yori jung-iya!_
-   - "I'm in the middle of cooking!"
+### Formal Context
+1. **회의하는 중입니다.**
+   - *Translation:* I am in the middle of a meeting.
+2. **지금 통화 중이에요.**
+   - *Translation:* I am currently on a call.
+### Informal Context
+1. **나 지금 영화 보는 중이야.**
+   - *Translation:* I'm in the middle of watching a movie.
+2. **요리하는 중인데 잠시만 기다려 줄래?**
+   - *Translation:* I'm cooking right now; can you wait a moment?
+### Written Context
+1. **프로젝트를 진행하는 중입니다.**
+   - *Translation:* We are in the middle of progressing with the project.
+### Spoken Context
+1. **길을 찾는 중이에요.**
+   - *Translation:* I'm trying to find the way.
 ---
 ## 5. Cultural Notes
 ### Cultural Relevance
-Using ~(으)ㄴ/는 중 indicates that you are currently engaged in activity and highlights an openness to communication. In Korean culture, being busy or engaged is often respected, and acknowledging the ongoing nature of your work can reflect politeness.
+In Korean culture, stating that you're in the middle of something politely informs others that you are currently occupied. This is important in a society that values consideration and awareness of others' time and activities.
+### Levels of Politeness
+- **Formal Polite:** *~는 중입니다.*
+- **Informal Polite:** *~는 중이에요.*
+- **Casual Informal:** *~는 중이야.*
 ### Idiomatic Expressions
-- **일 중** (il jung) meaning "in the middle of work" is commonly heard among students and professionals when stating they are busy with their tasks.
+- **통화 중**: Busy line / on a call
+  - *전화했는데 통화 중이었어.* (I called, but the line was busy.)
 ---
 ## 6. Common Mistakes and Tips
-### Error Analysis
-- **Mistake**: Confusing the use of present tense and past tense markers.
-  - Example Error: **읽는 중이었어요** (instead of using the current action).
-  - Correct: **읽는 중이에요** for present.
-### Learning Strategies
-- **Mnemonic Device**: Remember that "중" suggests "in the midst" - think of being surrounded by what you are doing at that moment. 
+### Common Mistakes
+1. **Omitting ~는 before 중**
+   - Incorrect: *일하는 중이에요.*
+   - Correct: *일하는 중이에요.*
+2. **Confusing with ~고 있다**
+   While both forms indicate ongoing actions, remember that **~는 중** emphasizes the **middle** of an action.
+### Tips
+- Think of **중** as "middle." If you can say "in the middle of" in English, it's appropriate to use **~는 중** in Korean.
+- Use **~고 있다** for general ongoing actions without emphasis on being in the middle.
 ---
 ## 7. Summary and Review
 ### Key Takeaways
-- The grammar point ~(으)ㄴ/는 중 indicates an ongoing action.
-- Distinguish it from other continuous forms like ~고 있다.
-- Commonly used in both formal and informal situations.
+- **~(으)ㄴ/는 중** is used to express being in the middle of an action.
+- Formed by adding **~는 중** to the verb stem.
+- Emphasizes the ongoing nature of the action, especially when an interruption occurs.
 ### Quick Recap Quiz
-1. How do you form 표기 the present tense for a verb ending in a consonant?
-   - Answer: Verb stem + 는 중
-2. What does "나는 지금 일하는 중이에요" translate to in English?
-   - Answer: "I am in the middle of working."
-3. What indicates that an action is ongoing?
-   - Answer: The structure ~(으)ㄴ/는 중.
-Feel free to ask any questions or for further explanations on this grammar point!
+1. How do you say "I am in the middle of studying" in Korean?
+2. What's the difference between **~는 중** and **~고 있다**?
+3. Fill in the blank: **지금 ___ 중이에요.** (I am in the middle of eating.)
+---
+### Answers:
+1. *공부하는 중이에요.*
+2. **~는 중** emphasizes being in the middle of an action, while **~고 있다** simply states that an action is ongoing.
+3. **먹는**
+---
+By understanding and practicing **~(으)ㄴ/는 중**, you'll be able to express ongoing actions more precisely in Korean. Keep practicing with different verbs to become more comfortable with this grammar point!
+
+
+---
+© [Hanabira.org](https://hanabira.org)

@@ -1,81 +1,96 @@
 Processing keyword: ~기는 [gineun] (But)
 # Korean Grammar Point: ~기는 [gineun] (But)
-# Korean Grammar Point: ~기는 (gineun) - "But"
+
 ## 1. Introduction
-The Korean grammar point "~기는" (gineun) is used to contrast statements or provide an unexpected nuance to a sentence, often translated to "but" in English. This grammar point allows the speaker to acknowledge a particular idea or statement while introducing a contrasting idea.
+In Korean, expressing contrast or concession is essential for nuanced communication. The grammar point **~기는** (*gineun*) is used to acknowledge a certain fact before presenting a contrasting statement, similar to "but" or "though" in English.
+
+---
 ## 2. Core Grammar Explanation
-### Detailed Explanation
-- **Meaning:** The structure "~기는" is used when the speaker wants to agree with a statement but then introduce a contrasting opinion or fact. It often highlights a limitation or contradiction.
-- **Structure:** 
-  - This grammar point can be attached to verbs, adjectives, or noun phrases.
-  - The typical formation looks like this:
-  ```
-  Verb/Adjective stem + 기는
-  Noun + (이)기는
-  ```
-#### Formation Diagram
+### Meaning
+The suffix **~기는** attaches to verbs or adjectives to highlight contrast or concession between two clauses. It acknowledges the content of the first clause while introducing a contrasting second clause.
+- **Usage**: "It is true that... but..."
+- **Function**: Emphasizes the first action/state before contrasting it.
+### Structure
+The general structure for using **~기는** is:
+```markdown
+[Verb/Adjective stem] + 기는 + [Verb/Adjective]
 ```
-+--------------------+---------------+------------------+
-|               Verb/Adjective             |   Noun           |
-+--------------------+---------------+------------------+
-|         Verb/Adj Stem + 기는              |        Noun + (이)기는        |
-|                   (+ contrasting idea)                  |
-+-----------------------------------------------------------+
-```
-### Visual Aids
-| **Verb/Adjective Stem** | **Noun**          |
-|-------------------------|------------------|
-| 먹다 (to eat) + 기는     | 학생 (student) + 이기는     |
-| 가다 (to go) + 기는      | 친구 (friend) + 는            |
+### Formation Diagram
+| Part                    | Explanation                                 |
+|-------------------------|---------------------------------------------|
+| **Verb/Adjective Stem** | The base form without **다**                |
+| **기는**                | Suffix indicating concession or contrast    |
+| **Rest of Sentence**    | The contrasting statement                   |
+**Example Breakdown**:
+- **먹다** (to eat)
+  - Stem: **먹**
+  - Formation: **먹** + **기는** + **하지만 배가 고파요** (but I am hungry)
+  - Full Sentence: **먹기는 먹었지만 배가 고파요.**
+---
 ## 3. Comparative Analysis
-### Comparison with Similar Grammar Points
-- **~지만 (jiman)**: While it also means "but," ~지만 is often used to contrast ideas more directly without the same nuanced layering.
-  - Example: "나는 그 영화를 좋아하는데, 당신은 좋아하지 않죠?" (I like that movie, but you don't, right?)
-  
-- **~건만 (geonman)**: This structure is more formal and emphasizes the contrast even more heavily than ~기는.
-  - Example: "기대건만 실망했다." (I had expectations, but I was disappointed.)
-### Nuance
-While all these structures can convey contrast, ~기는 provides a more subjective feel, often reflecting the speaker's personal sentiment toward the contrasting idea.
+### Comparing **~기는** with Similar Grammar Points
+
+| Grammar Point       | Usage                                        | Example                                       |
+|---------------------|----------------------------------------------|-----------------------------------------------|
+| **~지만**           | Simply contrasts two clauses ("but")          | 늦었지만 출발합시다. (It's late, but let's go.) |
+| **~기는 하지만**    | Emphasizes concession before contrasting      | 춥기는 하지만 괜찮아요. (It's cold, but I'm okay.) |
+| **~는데도**         | Even though (unexpected result)               | 먹는데도 배가 고파요. (Even though I eat, I'm hungry.) |
+
+**~기는** specifically emphasizes the first clause before introducing the contrast, often implying acknowledgment.
+
+---
 ## 4. Examples in Context
-### Sentence Examples
-1. **Formal:** 
-   - 그 영화는 재미있기는 한데, 너무 길어요.  
-   (The movie is interesting, but it's too long.)
-   
-2. **Informal:** 
-   - 이 반찬은 맛있기는 해, 좀 짜.  
-   (This side dish is tasty, but it's a bit salty.)
-   
-3. **Written:** 
-   - 일이 힘들기는 하지만, 즐겁기도 하다.  
-   (The work is hard, but it's also enjoyable.)
-   
-4. **Spoken:** 
-   - 그 사람은 친절하기는 한데, 행동이 이상해.  
-   (That person is kind, but their behavior is strange.)
+### Formal
+1. **이해를 하기는 합니다만 동의하지는 않습니다.**
+   *I understand, but I do not agree.*
+2. **그 책을 읽기는 했지만 내용이 기억나지 않습니다.**
+   *I did read that book, but I don't remember the content.*
+### Informal
+1. **가기는 갈 거야. 근데 늦을 거 같아.**
+   *I'll go, but I might be late.*
+2. **맛있기는 한데 너무 매워.**
+   *It's tasty, but it's too spicy.*
+### Written
+1. **그 영화가 재미있기는 하지만 기대 이하였습니다.**
+   *The movie is interesting, but it was below expectations.*
+### Spoken
+1. **알기는 아는데 설명하기 어려워요.**
+   *I know, but it's hard to explain.*
+
+---
 ## 5. Cultural Notes
-### Cultural Relevance
-In Korean culture, showing humility and respect is crucial in conversations. Using ~기는 suggests that the speaker acknowledges both sides of a situation, reflecting a thoughtful and balanced viewpoint. 
-#### Levels of Politeness
-Although using ~기는 does not imply a particular politeness level itself, it is typically incorporated into polite or casual speech depending on the context.
+### Politeness and Formality
+- Using **~기는** can soften statements, making them sound more polite by acknowledging the other person's point before presenting a contrast.
+- It's common in both formal and informal speech, but the level of politeness can be adjusted with verb endings.
 ### Idiomatic Expressions
-There are not many strict idiomatic expressions involving ~기는, but it can be used in colloquial phrases such as:
-- "사실은 이렇기는 해."  
-  (The truth is like this, but...)
+- **하기는 쉽지 않다**: *It's not easy to do.*
+
+---
 ## 6. Common Mistakes and Tips
-### Error Analysis
-- **Overuse**: Beginners might use ~기는 in every contrasting situation. It should be used selectively, mainly when contrasting thoughts that have personal significance.
-  
-### Learning Strategies
-- **Mnemonic Device**: Remember the "agree but contrast" principle: "I like it (agree), but it's not perfect (contrast)."
-- **Practice Scenarios**: Create dialogues in pairs, practicing using ~기는 in everyday conversations.
+### Common Mistakes
+1. **Overusing **~기는** without proper contrast.**
+   - Incorrect: **먹기는 먹었어요.** (I did eat.)
+   - Correct usage typically requires a contrasting clause: **먹기는 먹었어요, 하지만 아직 배고파요.**
+2. **Confusing **~기는** with **~지만**.**
+   - **~지만** is a direct contrast, while **~기는** emphasizes the first clause before contrasting.
+### Tips
+- Remember that **~기는** sets up for contrast; always follow it with a contrasting statement.
+- Think of **~기는** as saying "It is true that..., but...".
+---
 ## 7. Summary and Review
 ### Key Takeaways
-- ~기는 introduces a contrast in a more subjective and nuanced manner.
-- It is different from other contrastive phrases like ~지만 and ~건만.
-- Use it to balance statements and reflect on personal opinions or feelings.
+- **~기는** is used to express concession or contrast.
+- It emphasizes the first clause before introducing the contrast.
+- Commonly used in both formal and informal contexts.
 ### Quick Recap Quiz
-1. What does ~기는 mean?
-2. Can you form a sentence using ~기는?
-3. How does ~기는 differ from ~지만?
-By using this structure effectively, learners can express contrasts in their thoughts, which enriches their communication in Korean.
+1. How do you attach **~기는** to the verb **가다** (to go)?
+   - **Answer**: **가기는**
+2. Translate to Korean: "It's expensive, but I will buy it."
+   - **Answer**: **비싸기는 하지만 살 거예요.**
+3. True or False: **~기는** and **~지만** can always be used interchangeably.
+   - **Answer**: **False**
+---
+By understanding and practicing **~기는**, you can add nuance to your Korean expressions, effectively conveying contrast and concession in your conversations.
+
+---
+© [Hanabira.org](https://hanabira.org)

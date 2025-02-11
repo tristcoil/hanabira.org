@@ -1,77 +1,128 @@
 Processing keyword: 안 [an] (Negation before verb/adjective)
 # Korean Grammar Point: 안 [an] (Negation before verb/adjective)
-# Korean Grammar Point: 안 [an] (Negation before verb/adjective)
-## Introduction
-In Korean, the adverb "안" is a common way to express negation when placed before verbs and adjectives. Understanding how to use "안" will help you form negative sentences effectively.
-## Core Grammar Explanation
-### Meaning and Structure
-The adverb "안" means "not" in English. It is used to negate actions or states described by verbs and adjectives.
-- **Structure:** 
-  - **(안) + verb/adjective** 
+
+## 1. Introduction
+In Korean, negation is an essential aspect of expressing what's **not** happening or what someone **does not** do. The particle **안 [an]** is a simple and colloquial way to negate verbs and adjectives, similar to "not" in English. Understanding how to use **안** will greatly enhance your ability to form negative sentences in everyday conversations.
+
+---
+## 2. Core Grammar Explanation
+### Meaning and Usage
+**안 [an]** is placed directly before a verb or adjective to negate its meaning. It's equivalent to adding "not" before a verb in English.
+### Structure
+```
+Subject + [Object +] 안 + Verb/Adjective
+```
+- **Subject**: The person or thing performing the action.
+- **Object** (optional): The recipient of the action.
+- **안**: Negation particle.
+- **Verb/Adjective**: The action or description being negated.
 ### Formation Diagram
-```
-[Subject] + 안 + [Verb/Adjective] + [Rest of the Sentence]
-```
-### Example:
-- 나는 밥을 안 먹어요.  
-  (I do not eat rice.)
-## Visual Aids
-| **Element**     | **Korean**           | **English**        |
-|------------------|---------------------|--------------------|
-| Subject          | 나 (I)              | I                  |
-| Negation         | 안                   | not                |
-| Verb             | 먹어요 (eat)        | eat                |
-| Complete Sentence| 나는 밥을 안 먹어요.  | I do not eat rice. |
-## Comparative Analysis
-While "안" is widely used for negation, it's essential to differentiate it from other forms of negation in Korean:
-- **지 않다 (ji anhta)**: This form is more formal and often used in writing or polite speech. It is sometimes combined with verbs/adjectives in the form of “지 않다.”
-  
-**Example:** 
-- 나는 밥을 먹지 않아요. (I do not eat rice.) - More formal tone.
-While both serve the same purpose, "안" is more commonly spoken in daily conversations.
-## Examples in Context
-### Formal Context
-- 그는 학교에 안 가요.  
-  (He does not go to school.)
-### Informal Context
-- 나는 영화 안 봐.  
-  (I don’t watch movies.)
-### Written Context
-- 이 문제는 난감해서 풀지 않았습니다.  
-  (I didn't solve this problem because it was difficult.)
-### Spoken Context
-- 오늘 날씨 안 좋아.  
-  (The weather isn’t good today.)
-## Cultural Notes
-### Cultural Relevance
-Using "안" is quite common in everyday conversation among friends or in informal settings. However, when addressing elders or in formal situations, it’s more respectful to use "지 않다" or other polite forms. The level of politeness may affect how you choose to negate a verb or adjective.
+| **Components**  | **Example**         | **Translation**       |
+|-----------------|---------------------|-----------------------|
+| Subject         | 저는                | I                     |
+| Object          | 밥을                | (rice/meal)           |
+| **안**          | **안**              | **not**               |
+| Verb            | 먹어요             | eat                   |
+| **Full Sentence** | **저는 밥을 안 먹어요.** | **I do not eat rice.** |
+### Notes
+- **안** is used with both **action verbs** and **descriptive verbs** (adjectives).
+- It is suitable for present, past, and future tenses.
+- **안** is typically used in **informal** and **polite** speech.
+- For more formal negation, **-지 않다** is often used.
+---
+## 3. Comparative Analysis
+### 안 [an] vs. -지 않다 [-ji anta] vs. 못 [mot]
+| **Negation Form** | **Usage**                                 | **Formality** | **Example Sentence**                  |
+|-------------------|-------------------------------------------|---------------|----------------------------------------|
+| **안 [an]**       | Simple negation before verbs/adjectives   | Informal/Polite | 저는 안 가요. (I do not go.)           |
+| **-지 않다**     | Negation with auxiliary verb **않다**        | More formal   | 저는 가지 않아요. (I do not go.)       |
+| **못 [mot]**      | Indicates inability or impossibility      | Informal/Polite | 저는 못 가요. (I cannot go.)           |
+- **안 [an]** negates the action simply.
+- **-지 않다** provides a slightly more formal tone and is often used in written language.
+- **못 [mot]** suggests that the subject is **unable** to perform the action due to some hindrance.
+---
+## 4. Examples in Context
+### Sentence Examples
+#### Informal Speech
+- **나 안 가.**
+  - *I am not going.*
+#### Polite Speech
+- **저는 커피를 안 마셔요.**
+  - *I do not drink coffee.*
+#### Formal Writing
+- **저는 주말에 일을 안 합니다.**
+  - *I do not work on weekends.*
+#### Past Tense
+- **어제 영화를 안 봤어요.**
+  - *I did not watch a movie yesterday.*
+#### Future Tense
+- **내일 학교에 안 갈 거예요.**
+  - *I will not go to school tomorrow.*
+#### With Adjectives
+- **이 음식은 안 매워요.**
+  - *This food is not spicy.*
+#### Honorific Speech
+- **할머니께서는 텔레비전을 안 보세요.**
+  - *Grandmother does not watch television.*
+---
+## 5. Cultural Notes
+### Levels of Politeness and Formality
+- **안 [an]** is commonly used in daily conversations among friends, family, and in casual contexts.
+- In professional or formal settings, speakers might prefer **-지 않다** for a more polite tone.
 ### Idiomatic Expressions
-1. **안 좋은 소식**  
-   (Unpleasant news) - Literally means "not good news."
-2. **안 되다**  
-   (To not be okay, to fail) - Used to express that something is not allowed or possible.
-## Common Mistakes and Tips
-### Error Analysis
-1. **Misplacing "안":**  
-   Learners often place "안" incorrectly after the verb or adjective, which is not grammatically correct. Remember, "안" should always come before the verb or adjective.
-2. **Using “안” with nouns:**  
-   "안" is not used with nouns that need to be negated. In those cases, "아니다" (to be not) is used instead.
-   - Correct: 그 사람은 학생이 안이에요. (Wrong)
-   - Correct: 그 사람은 학생이 아니에요. (That person is not a student.)
-### Learning Strategies
-- **Mnemonic Device:** Think of "안" as a 'blocker' that stops the action described by the subsequent verb/adjective from happening.
-## Summary and Review
+- **안 돼요**
+  - Literal: *It does not become.*
+  - Meaning: *It is not allowed / Cannot / No way.*
+  - Usage: Expressing prohibition or impossibility.
+  
+  **Example:**
+  - **여기서 사진을 찍으면 안 돼요.**
+    - *You cannot take pictures here.*
+---
+## 6. Common Mistakes and Tips
+### Common Mistakes
+1. **Misplacing '안' in the Sentence**
+   - Incorrect: **저는 먹어요 안.**
+   - Correct: **저는 안 먹어요.**
+2. **Using '안' with '하다' Verbs (Noun + 하다)**
+   - For verbs that are combinations of a noun + **하다**, place **안** before **하다**.
+     **Example:**
+     - Correct: **운동 안 해요.**
+     - Incorrect: **안 운동해요.**
+3. **Confusing '안' with '못'**
+   - **안** indicates **not doing** an action by choice.
+   - **못** indicates **cannot do** an action due to inability.
+     **Example:**
+     - **안 먹어요.** (*I do not eat.* - by choice)
+     - **못 먹어요.** (*I cannot eat.* - due to some reason)
+### Tips
+- **Mnemonic for Placement**
+  - Think of **안** as a **stop sign** that comes **before** the action.
+- **Practice with Common Verbs**
+  - Make sentences negating common verbs to build familiarity.
+    **Examples:**
+    - **안 좋아해요** (do not like)
+    - **안 일해요** (do not work)
+    - **안 생각해요** (do not think)
+---
+## 7. Summary and Review
 ### Key Takeaways
-- **"안"** negates verbs and adjectives in Korean.
-- **More formal negation** can be expressed using "지 않다."
-- **Position "안"** before the verb/adjective.
-  
+- **안 [an]** is used to negate verbs and adjectives in Korean, equivalent to "not" in English.
+- It is placed **directly before** the verb or adjective.
+- Suitable for most negative sentences in informal and polite contexts.
+- Be mindful of placement, especially with **하다** verbs.
 ### Quick Recap Quiz
-1. How do you negate the verb "가다" (to go) in a sentence?
-   - Answer: 안 가다 (not go)
-  
-2. What is the formal way to say "I don’t eat" in Korean?
-   - Answer: 나는 안 먹어요 or 나는 먹지 않아요. 
-3. True or False: The word "안" can be used to negate nouns.
-   - Answer: False (Use "아니다" for nouns.)
-By mastering the usage of "안," you'll significantly improve your ability to express negation in Korean sentences!
+1. **Translate using '안':** "I do not understand."
+   - **Answer:** *저는 이해 안 해요.*
+2. **Which is more formal?**
+   - A) 안 먹어요.
+   - B) 먹지 않아요.
+   - **Answer:** *B) 먹지 않아요.*
+3. **Fill in the blank with '안':**
+   **그들은 ___ 옵니다.** *(They do not come.)*
+   - **Answer:** *그들은 **안** 옵니다.*
+---
+Feel free to revisit any section for clarification and make sure to practice forming sentences using **안 [an]** to solidify your understanding!
+
+---
+© [Hanabira.org](https://hanabira.org)

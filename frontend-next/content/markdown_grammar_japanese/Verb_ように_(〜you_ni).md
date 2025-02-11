@@ -1,78 +1,108 @@
 Processing keyword: Verb ように (〜you ni)
 # Japanese Grammar Point: Verb ように (〜you ni)
-# Verb ように (〜you ni)
+
 ## 1. Introduction
-The grammar point ように (〜you ni) is a versatile expression used in Japanese to convey purpose, intention, or a request. It can often be seen in various contexts, from casual conversation to formal writing.
----
+In this lesson, we'll explore the grammar point **Verb ように (〜ように)**, which is commonly used in Japanese to express purpose, wishes, and indirect commands. Understanding this grammar will enhance your ability to articulate intentions and desires in Japanese.
 ## 2. Core Grammar Explanation
 ### Detailed Explanation
-**ように** has several meanings and usages, mainly focusing on two key functions:
-1. **To express a goal or purpose:** This usage indicates that one does something in order to achieve a specific result.
-2. **To indicate a request or desire for someone to act in a certain way.**
-### Meaning, Structure, Formation
-- **Structure:**
-  - For **goals or purposes**: 
-    - Verb (dictionary form) + ように
-  - For **requests**: 
-    - Verb (masu-stem) + ように
-#### Visual Aid
-| Structure            | Example                    | Translation                             |
-|---------------------|----------------------------|-----------------------------------------|
-| Verb  (dictionary) + ように | 勉強するように      | (I) study (so that I can...)            |
-| Verb (masu-stem) + ように   | 行くようにしてください | Please go (so that...)                 |
----
+The construction **Verb（辞書形/ない形） + ように** is used to:
+1. **Express Purpose**: "So that..." or "In order to..."
+2. **Express Wishes or Hopes**: "I hope that..." or "May it..."
+3. **Indirect Commands or Requests**: Telling someone to do something indirectly.
+### Meaning and Structure
+#### Structure:
+| Verb Form          | ように     |
+|--------------------|-----------|
+| 辞書形 (Dictionary Form)  | ように |
+| ない形 (Negative Form)    | ように |
+- **Verb 辞書形 + ように**: So that [Verb]
+- **Verb ない形 + ように**: So that [Verb doesn't happen]
+#### Formation Diagram:
+```plaintext
+[Subject] + [Verb 辞書形/ない形] + ように + [Main Clause]
+```
+### Visual Aid
+| Purpose      | Structure                         | Translation                |
+|--------------|-----------------------------------|----------------------------|
+| Express Purpose | Verb 辞書形 + ように             | So that...                 |
+| Prevent Action  | Verb ない形 + ように             | So that... not...          |
+| Wish/Hope     | Verb 辞書形 + ように（願う/祈る） | I hope that...             |
 ## 3. Comparative Analysis
-- **ように vs. ために (tame ni):**
-  - ように focuses on the means to achieve a goal, while ために focuses on the purpose itself.
-  - Example:
-    - テストに合格するために勉強します。(I study in order to pass the test.)
-    - テストに合格するように勉強します。(I study so that I can pass the test.)
-- **ように vs. ようにする (you ni suru):**
-  - ように simply states the goal, while ようにする involves making an effort to ensure that the desired outcome occurs.
-  - Example:
-    - 早く寝るようにします。(I will try to sleep early.)
----
+- **ために vs. ように**
+  - **ために** is used when the subject of both clauses is the same and implies intentional action.
+    - Example: *日本語を勉強するために、日本に行きます。*
+    - Translation: "I will go to Japan in order to study Japanese."
+  - **ように** is used when the subject is different or when the outcome is out of one's control.
+    - Example: *合格できるように、頑張っています。*
+    - Translation: "I'm doing my best so that I can pass."
 ## 4. Examples in Context
-### Sentence Examples
-1. **Formal Context:**
-   - **日本語を話せるように、毎日練習しています。**
-   - *Nihongo o hanaseru you ni, mainichi renshuu shiteimasu.*
-   - *(I practice every day so that I can speak Japanese.)*
-2. **Informal Context:**
-   - **この曲をうまく歌えるように練習しろ！**
-   - *Kono kyoku o umaku utaeru you ni renshuu shiro!*
-   - *(Practice so that you can sing this song well!)*
-3. **Written Context:**
-   - **顧客のニーズに応えるように、製品を改善しています。**
-   - *Kokyaku no niizu ni kotaeru you ni, seihin o kaizen shiteimasu.*
-   - *(We are improving our products to meet customer needs.)*
-4. **Spoken Context:**
-   - **忘れないようにメモしておいてね。**
-   - *Wasurenai you ni memo shite oite ne.*
-   - *(Please take notes so that you don’t forget.)*
----
+### Example Sentences
+1. **Expressing Purpose**
+   - *忘れないように、メモしてください。*
+     - *Wasurenai you ni, memo shite kudasai.*
+     - "Please take notes so that you don't forget."
+   - *遅れないように、早く出発しましょう。*
+     - *Okurenai you ni, hayaku shuppatsu shimashou.*
+     - "Let's leave early so that we won't be late."
+2. **Expressing Wishes or Hopes**
+   - *試験に合格しますように。*
+     - *Shiken ni goukaku shimasu you ni.*
+     - "I hope I pass the exam."
+   - *みんなが幸せになりますように。*
+     - *Minna ga shiawase ni narimasu you ni.*
+     - "May everyone be happy."
+3. **Indirect Commands or Requests**
+   - *先生は学生にもっと勉強するように言いました。*
+     - *Sensei wa gakusei ni motto benkyou suru you ni iimashita.*
+     - "The teacher told the students to study more."
+   - *医者は彼にお酒をやめるように言った。*
+     - *Isha wa kare ni osake wo yameru you ni itta.*
+     - "The doctor told him to quit drinking alcohol."
+4. **Negative Form Usage**
+   - *風邪をひかないように、暖かくしてください。*
+     - *Kaze wo hikanai you ni, atatakaku shite kudasai.*
+     - "Please keep warm so that you don't catch a cold."
+   - *事故が起こらないように、注意しましょう。*
+     - *Jiko ga okoranai you ni, chuui shimashou.*
+     - "Let's be careful so that accidents don't happen."
 ## 5. Cultural Notes
 ### Cultural Relevance
-In Japanese culture, the use of ように embodies the value of consideration for others. When you make a request using this phrase, it reflects politeness and a desire to ensure that the other person can meet the expectation.
-### Levels of Politeness
-The degree of politeness can vary based on the conjugation of the verb used before ように. Using the masu-form makes the request more polite.
+In Japanese culture, indirect communication is valued to maintain harmony and show respect. Using **ように** for indirect commands is a polite way to suggest or request actions without sounding too direct or imposing.
 ### Idiomatic Expressions
-- **できるように** (dekiru you ni) – "so that (someone) can do (something)" is a common expression often used in support and encouragement contexts.
----
+- *願（ねが）わくは幸（さち）多（おお）きことを願いますように。*
+  - "I hope for much happiness."
 ## 6. Common Mistakes and Tips
 ### Error Analysis
-- Mistake: Using the te-form instead of the dictionary form with ように.
-- Correct: 勉強するように (not 勉強しているように).
+- **Using the Wrong Verb Form**
+  - Incorrect: *忘れないために、メモしてください。*
+    - While grammatically correct, **ために** implies intentional control, which may sound unnatural here.
+  
+- **Confusing ように with ような**
+  - **ような** is used to say "like/as," modifying nouns.
+    - Example: *彼は猫のような目をしています。* ("He has eyes like a cat.")
 ### Learning Strategies
-- **Mnemonic Device:** Remember that ように relates to "to achieve" or "to assist" which helps set the intention of actions.
----
+- **Mnemonic Device**: Think of **ように** as "in the direction of the way things are," helping you remember it's used to express hopes or purposes toward a certain state.
+- **Practice Makes Perfect**: Create your own sentences using **ように** to become comfortable with the different contexts it can be used in.
 ## 7. Summary and Review
 ### Key Takeaways
-- ように expresses intent, purpose, or requests.
-- The structure varies between dictionary forms for goals and mas-form for requests.
-- Importance of politeness in Japanese reflects on how you use this grammar point.
+- **Verb ように** is used to express purposes, wishes, and indirect commands.
+- Use **Verb 辞書形 + ように** to express positive intentions.
+- Use **Verb ない形 + ように** to prevent something from happening.
+- It's a polite and indirect way to express desires and requests in Japanese.
 ### Quick Recap Quiz
-1. How would you express "I practice so that I can become better at Japanese"?
-   
-2. Which conjugation do you use before ように for polite requests?
-(Note: Review the responses to check understanding and reinforce learning!)
+1. How do you express a wish using **ように**?
+2. What is the difference between **ために** and **ように**?
+3. Translate the following sentence: "Please speak louder so that everyone can hear."
+
+**Answers:**
+1. By using **Verb 辞書形 + ように**, often with verbs like **願う** or **祈る**.
+2. **ために** is used for intentional actions by the subject, whereas **ように** can be used when the outcome is not entirely under the subject's control or when subjects differ.
+3. *みんなに聞こえるように、大きな声で話してください。*
+
+---
+Feel free to revisit this lesson to strengthen your understanding of **Verb ように (〜ように)**. Practice by creating your own sentences, and soon you'll master this grammar point!
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

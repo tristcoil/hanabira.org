@@ -1,71 +1,108 @@
 Processing keyword: Noun をものともせずに (Noun wo mono tomo sezu ni)
 # Japanese Grammar Point: Noun をものともせずに (Noun wo mono tomo sezu ni)
-# Grammar Point: Noun をものともせずに (Noun wo mono tomo sezu ni)
-## 1. Introduction 
-The expression "Noun をものともせずに" is a formal Japanese grammatical construct that conveys the idea of disregarding or not being phased by a particular thing or situation. It indicates a sense of determination or resilience in overcoming obstacles.
+
+## 1. Introduction
+In this lesson, we'll delve into the Japanese grammar point **「Noun をものともせずに」**. This expression is used to highlight someone's courage or determination when they overcome significant obstacles or hardships. Understanding this grammar point will allow you to describe situations where someone (or yourself) persists undeterred by difficulties.
+
+---
 ## 2. Core Grammar Explanation
-### Detailed Explanation
-- **Noun**: This is the noun that is being disregarded or not acknowledged (e.g., a challenge, difficulty, etc.).
-- **ものともせずに (mono tomo sezu ni)**: This phrase can be broken down into the following components:
-  - **もの (mono)**: This refers to "things" or "objects."
-  - **とも (tomo)**: This particle means "together with" or "even."
-  - **せず (sezu)**: This is the negative form of the verb "する" (suru), meaning "to do," making it "not do."
-  - **に (ni)**: This is a particle that indicates the direction or scope of the action (in this case, disregarding).
+### Meaning
+**「Noun をものともせずに」** can be translated as:
+- **"In defiance of [Noun]"**
+- **"Without being daunted by [Noun]"**
+- **"Despite [Noun]"**
+This expression emphasizes that someone proceeds with an action despite facing a serious challenge, showing their resilience and bravery.
 ### Structure
-The structure for this expression can be summarized as follows:
-| Segment                   | Meaning            |
-|---------------------------|--------------------|
-| Noun                      | The noun in focus  |
-| を (wo)                   | Object marker      |
-| ものともせずに (mono tomo sezu ni) | Not being phased/disregarding |
+The structure is straightforward:
+**[Noun] をものともせずに [Action]**
+- **[Noun]**: Represents a significant obstacle, hardship, or adverse condition.
+- **を**: The object marker particle.
+- **ものともせずに**: A fixed phrase meaning "without being daunted by" or "in defiance of".
 ### Formation Diagram
-```
-Nounを + ものともせずに
-```
+| Component            | Role                                |
+|----------------------|-------------------------------------|
+| **Noun**             | Obstacle or hardship                |
+| **を**               | Object marker                       |
+| **ものともせずに**   | "Without being daunted by" (phrase) |
+| **[Action]**         | The action taken despite the obstacle |
+---
 ## 3. Comparative Analysis
-- **Similar Expressions**:
-  - **Noun を気にせずに (Noun wo ki ni sezu ni)**: This also implies disregarding something but is often used in more casual contexts. "気にする" means "to worry" or "to mind."
-  - **Noun を無視して (Noun wo mushi shite)**: This means "to ignore." It is more direct and less nuanced than "ものともせずに."
-### Key Differences
-- "ものともせずに" conveys resilience and strength, while "気にせずに" suggests indifference or lack of concern. "無視して" implies a deliberate act of ignoring.
+### Similar Grammar Points
+#### 1. **Noun にも負けずに (Noun ni mo makezu ni)**
+- **Meaning**: *"Not losing to [Noun]; Despite [Noun]"*
+- **Usage**: Describes enduring or persevering without being defeated by something.
+- **Difference**: Both expressions convey overcoming difficulties, but **「をものともせずに」** often implies active defiance against significant obstacles, highlighting admiration for the subject's courage.
+#### 2. **Noun を押し切って (Noun wo oshikitte)**
+- **Meaning**: *"Overriding [Noun]; Pushing through [Noun]"*
+- **Usage**: Indicates proceeding with something despite opposition or objections.
+- **Difference**: **「を押し切って」** focuses on going ahead despite opposition (often from others), whereas **「をものともせずに」** emphasizes not being daunted by hardships or obstacles.
+---
 ## 4. Examples in Context
-### Sentence Examples
-1. **Formal Context**:
-   - **彼は困難をものともせずに、仕事を続けた。**
-   - *Kare wa konnan wo mono tomo sezu ni, shigoto wo tsuzuketa.*
-   - *He continued to work without being phased by difficulties.*
-2. **Informal Context**:
-   - **彼女は雨をものともせずに、ピクニックに行った。**
-   - *Kanojo wa ame wo mono tomo sezu ni, pikunikku ni itta.*
-   - *She went on a picnic without minding the rain.*
-3. **Written Context**:
-   - **このプロジェクトは予算をものともせずに進められています。**
-   - *Kono purojekuto wa yosan wo mono tomo sezu ni susumerareteimasu.*
-   - *This project is being advanced without regard to the budget.*
-4. **Spoken Context**:
-   - **彼は失敗をものともせずに、また挑戦した。**
-   - *Kare wa shippai wo mono tomo sezu ni, mata chousen shita.*
-   - *He challenged again without being daunted by failure.*
+### Example Sentences
+1. **激しい雨をものともせずに、彼らは試合を続けた。**
+   *Hageshii ame wo mono tomo sezu ni, karera wa shiai wo tsudzuketa.*
+   *They continued the game despite the heavy rain.*
+2. **困難をものともせずに、彼女は目標を達成した。**
+   *Konnan wo mono tomo sezu ni, kanojo wa mokuhyou wo tassei shita.*
+   *She achieved her goal without being daunted by difficulties.*
+3. **周囲の反対をものともせずに、彼は自分の信念を貫いた。**
+   *Shuui no hantai wo mono tomo sezu ni, kare wa jibun no shinnen wo tsuranuita.*
+   *He stuck to his beliefs despite the opposition around him.*
+4. **病気をものともせずに、選手は大会に出場した。**
+   *Byouki wo mono tomo sezu ni, senshu wa taikai ni shutsujou shita.*
+   *The athlete participated in the competition despite his illness.*
+5. **危険をものともせずに、消防士たちは救助活動を続けた。**
+   *Kiken wo mono tomo sezu ni, shouboushi-tachi wa kyūjo katsudō wo tsudzuketa.*
+   *The firefighters continued the rescue operations despite the danger.*
+### Notes on Usage
+- **Formal Tone**: This expression is more commonly used in written language or formal speech.
+- **Emphasizing Admiration**: Often used to express admiration for someone's bravery or determination.
+- **Not for Trivial Matters**: Using it with minor issues can sound exaggerated or unnatural.
+---
 ## 5. Cultural Notes
 ### Cultural Relevance
-The use of "ものともせずに" reflects the Japanese cultural value of perseverance (耐え忍ぶ, taeshinobu). It showcases a mindset of resilience, which is often admired in Japanese society.
-### Levels of Politeness and Formality
-This expression is more formal and is typically used in written language or formal speech. It might not be appropriate in casual conversations with friends or family.
+In Japanese culture, enduring hardships and showing resilience are highly valued traits, often associated with the concept of **"ganbaru" (がんばる)**, meaning to persevere or do one's best. The expression **「をものともせずに」** aligns with this cultural value by highlighting an individual's unwavering spirit in the face of adversity.
 ### Idiomatic Expressions
-- **困難をものともせず (konnan wo mono tomo sezu)**: Meaning "undeterred by difficulties," is a phrase that embodies the spirit of resilience.
+- **火の中、水の中 (hi no naka, mizu no naka)**
+  *"Through fire and water"*
+  Describes going through great difficulties or dangers to achieve something, similar to the English "through thick and thin."
+---
 ## 6. Common Mistakes and Tips
 ### Error Analysis
-- **Confusing it with similar expressions**: Learners may interchange "ものともせずに" with "気にせずに," which lacks the sense of resilience.
-  
+- **Using with Minor Obstacles**
+  - **Incorrect**: *彼は疲れをものともせずに、テレビを見続けた。*
+    *He kept watching TV despite being tired.*
+    - *This sounds unnatural because being tired while watching TV isn't a significant hardship.*
+  - **Correct**: *彼は疲れをものともせずに、夜通し働いた。*
+    *He worked through the night despite being tired.*
+    - *Working all night despite fatigue is a significant effort, making the expression appropriate.*
+- **Misplacing the Expression**
+  Ensure that **「をものともせずに」** directly follows the noun representing the obstacle.
 ### Learning Strategies
-- **Mnemonic Device**: Remember “もの” as “thing” and “ともせずに” as “not bothered by any thing” to link them together.
-  
+- **Identify Significant Obstacles**: When practicing, think of examples involving serious challenges (e.g., natural disasters, severe illness, strong opposition).
+- **Use Admiration Contexts**: Remember that this expression often conveys admiration, so use it in contexts where the subject's actions are commendable.
+---
 ## 7. Summary and Review
 ### Key Takeaways
-- "Noun をものともせずに" is used to express the idea of not being phased or disregarding challenges.
-- It conveys a sense of determination and is more formal than similar expressions.
+- **Meaning**: **「Noun をものともせずに」** means "in defiance of [Noun]" or "without being daunted by [Noun]".
+- **Usage**: Used to describe someone who overcomes significant obstacles with courage or determination.
+- **Tone**: Formal; often conveys admiration.
+- **Structure**: [Obstacle Noun] をものともせずに [Action].
 ### Quick Recap Quiz
-1. What does "ものともせずに" mean?
-2. In what contexts is this phrase best used (formal, informal)?
-3. Could you replace "ものともせずに" with "気にせずに" in a sentence? Why or why not? 
-Feel free to practice using this structure to express your own experiences of resilience!
+1. **Translate the following sentence:**
+   **彼は寒さをものともせずに、山頂を目指した。**
+   *He aimed for the mountain summit without being daunted by the cold.*
+2. **Is it appropriate to use 「をものともせずに」 with minor inconveniences?**
+   - *Answer*: No, it should be used with significant hardships or obstacles.
+3. **Fill in the blank with the correct grammar point:**
+   **彼女は怪我____、試合に出場した。**
+   - *Answer*: **をものともせずに**
+   **Sentence**: 彼女は怪我をものともせずに、試合に出場した。
+   **Translation**: She participated in the game despite her injury.
+---
+By understanding **「Noun をものともせずに」**, you can effectively express situations involving overcoming significant challenges, adding depth to your Japanese language skills.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)
