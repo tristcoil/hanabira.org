@@ -1,71 +1,99 @@
 Processing keyword: ~하기만 하면 [hakiman hamyeon] (As long as)
 # Korean Grammar Point: ~하기만 하면 [hakiman hamyeon] (As long as)
-# Grammar Point: ~하기만 하면 (hakiman hamyeon) - "As long as"
+
 ## 1. Introduction
-The expression **~하기만 하면** is used to indicate that a certain condition must be met for something to happen. It suggests that if the specified action is performed, then the expected result will follow. It can be translated to "As long as you do..." or "If you only do...".
-## 2. Core Grammar Explanation
-### Meaning and Structure
-- **Structure**: Verb stem + **하기만 하면**
-- The verb stem is the base form of the verb, removing the "다" ending.
-- **하기** is derived from the verb **하다** (to do), meaning "to do..."
-### Formation Diagram
-```
-[Verb Stem] + 하다 + 기만 하면 
-        ↓
-     [Doing] + only if 
-```
-#### Breakdown
-- **하기**: doing (from 하다)
-- **만**: only / just
-- **하면**: if (from verb "하다" in its conditional form)
-### Usage
-- Indicates a condition: "As long as you do ..."
-- Often implies that the action required is simple or easy.
-## 3. Comparative Analysis
-### Comparing with Similar Grammar Points
-- **~으면** (if): More general condition; does not emphasize simplicity.
-  - Example: 비가 오면 (If it rains)
-- **~기만** is more focused on a single action leading to a specific outcome.
-### Differences
-- **~하기만 하면** emphasizes that the action required is straightforward and direct.
-- **~으면** can refer to various conditions without emphasizing the ease or simplicity.
-## 4. Examples in Context
-### Sentence Examples
-1. **Formal**: 
-   - **한국어를 공부하기만 하면 잘 할 수 있습니다.**  
-     (As long as you study Korean, you can do well.)
-  
-2. **Informal**: 
-   - **이거 하기만 하면 돼!**  
-     (You just have to do this!)
-3. **Written**: 
-   - **발표하기만 하면 모든 준비가 끝납니다.**  
-     (As long as you present, all preparations are finished.)
-4. **Spoken**: 
-   - **시간만 있으면 뭐든지 할 수 있어.**  
-     (As long as I have time, I can do anything.)
-## 5. Cultural Notes
-### Cultural Relevance
-In Korea, following through with commitments is important. Using **~하기만 하면** can reflect a commitment to fulfill a certain responsibility. It shows that the speaker believes the task is manageable, which can convey an encouraging tone.
-### Levels of Politeness and Formality
-The expression can be used in both formal and informal settings. The level of politeness depends primarily on the verb and sentence structure used with it.
-### Idiomatic Expressions
-Often used in motivational phrases to encourage others, for example:
-- **노력하기만 하면 꿈을 이룰 수 있어.**  
-  (As long as you put in the effort, you can achieve your dreams.)
-## 6. Common Mistakes and Tips
-### Error Analysis
-- Mixing up the condition with other verbs leading to confusion, for example, not stating the right verb stem.
-- Forgetting that **만** signifies "only", which is crucial for conveying the meaning.
-### Learning Strategies
-- **Mnemonic Device**: Remember **하기만 하면** as "Just do it" in situations where doing leads to a favorable outcome. 
-## 7. Summary and Review
-### Key Takeaways
-- **~하기만 하면** emphasizes the simplicity of a required action for achieving a desired outcome.
-- Use it to encourage action by indicating that the task is easy and attainable.
-### Quick Recap Quiz
-1. What does **~하기만 하면** imply about the action required?
-2. Compare **~하기만 하면** with **~으면**. What’s the significant difference?
-3. Provide an example sentence using **~하기만 하면**.
+Welcome to today's lesson on the Korean grammar point **~하기만 하면** (*hakiman hamyeon*), which translates to **"as long as"** in English. This expression is used to indicate that if a certain action is performed or a condition is met, then a specific result will follow. Mastering this grammar point will enhance your ability to express conditions and expectations in Korean.
+
 ---
-Feel free to ask for clarifications or more examples if needed!
+## 2. Core Grammar Explanation
+## Meaning
+**~하기만 하면** is used to express **"as long as (one) does..."** or **"if only (one) does..."**. It emphasizes that a particular action or condition is sufficient for a certain result to occur.
+## Structure
+The construction involves adding **~기만 하면** to the verb stem.
+### Formation Diagram
+```plaintext
+[Verb Stem] + 기만 하면
+```
+- **[Verb Stem]**: Remove **-다** from the dictionary form of the verb.
+- **기만 하면**: Added to the verb stem to form the expression.
+### Examples:
+- **가다** (to go) → **가** + **기만 하면** → **가기만 하면**
+- **먹다** (to eat) → **먹** + **기만 하면** → **먹기만 하면**
+- **공부하다** (to study) → **공부하** + **기만 하면** → **공부하기만 하면**
+## Visual Aid
+| Verb        | Verb Stem | + 기만 하면    | Resulting Form    |
+|-------------|-----------|----------------|-------------------|
+| 가다 (to go) | 가         | 기만 하면       | **가기만 하면**       |
+| 보다 (to see)| 보         | 기만 하면       | **보기만 하면**       |
+| 일하다 (to work)| 일하    | 기만 하면       | **일하기만 하면**     |
+---
+## 3. Comparative Analysis
+- **~기만 하면** vs. **~(으)면**:
+  - **~(으)면** simply means **"if"** or **"when"** and is used for general conditional statements.
+  - **~기만 하면** emphasizes that **only** the specified action is needed for the result to occur.
+**Example:**
+- **네가 노력하면 성공할 거야.**
+  - *If you make an effort, you will succeed.*
+- **네가 노력하기만 하면 성공할 거야.**
+  - *As long as you make an effort, you will succeed.*
+The second sentence stresses that making an effort is the sole requirement for success.
+---
+## 4. Examples in Context
+## Sentence Examples
+1. **문을 열기만 하면 돼요.**
+   - *As long as you open the door, it's fine.*
+2. **시간을 지키기만 하면 문제가 없을 거예요.**
+   - *As long as you are punctual, there won't be any problems.*
+3. **책을 읽기만 하면 지식을 얻을 수 있어요.**
+   - *As long as you read books, you can gain knowledge.*
+4. **음식을 많이 먹기만 하면 건강해질 거예요.**
+   - *As long as you eat a lot of food, you will become healthy.*
+5. **연습하기만 하면 실력이 늘어요.**
+   - *As long as you practice, your skills improve.*
+---
+## 5. Cultural Notes
+## Cultural Relevance
+In Korean culture, diligence and meeting conditions are highly valued. Expressions like **~하기만 하면** reflect the belief that fulfilling certain key actions leads to desired outcomes. It underscores the importance of effort and responsibility.
+## Idiomatic Expressions
+- **보기만 하면 웃어요.**
+  - *He/She laughs just by looking.*
+  - Indicates that simply seeing something is enough to cause laughter.
+- **먹기만 하면 자요.**
+  - *He/She sleeps as soon as eating.*
+  - Implies that eating inevitably leads to sleeping.
+---
+## 6. Common Mistakes and Tips
+## Error Analysis
+- **Incorrect Placement of **만****:
+  - **Incorrect**: **하만기 하면**
+  - **Correct**: **하기만 하면**
+  - **Tip**: Ensure **만** follows **기**.
+- **Omitting **기****:
+  - **Incorrect**: **하만 하면**
+  - **Correct**: **하기만 하면**
+  - **Tip**: Remember that **기만 하면** attaches to the verb stem.
+## Learning Strategies
+- **Mnemonic Device**: Think of **~기만 하면** as "do **only** this action **and if** you do, then...".
+- **Practice Exercise**: Create sentences using common verbs:
+  - **쓰다** (to write) → **쓰기만 하면**
+    - *As long as you write...*
+  - **듣다** (to listen) → **듣기만 하면**
+    - *As long as you listen...*
+---
+## 7. Summary and Review
+## Key Takeaways
+- **~하기만 하면** means **"as long as (one) does..."**.
+- It emphasizes that only the specified action is necessary for the result.
+- Formed by adding **기만 하면** to the verb stem.
+## Quick Recap Quiz
+1. **Form the expression using the verb **하다** (to do).**
+   **Answer**: 하 + 기만 하면 → **하기만 하면**
+2. **Translate into Korean**: *As long as you come, I will be happy.*
+   **Answer**: **네가 오기만 하면 나는 행복할 거야.**
+3. **What's the main difference between **~기만 하면** and **~(으)면***?
+   **Answer**: **~기만 하면** emphasizes that only the mentioned action is needed for the result, whereas **~(으)면** is a general conditional meaning "if" or "when".
+---
+By understanding and practicing **~하기만 하면**, you enhance your ability to express conditions and expectations effectively in Korean. Keep practicing by forming your own sentences, and soon this grammar point will become a natural part of your Korean language skills!
+
+---
+© [Hanabira.org](https://hanabira.org)

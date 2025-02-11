@@ -1,66 +1,117 @@
 Processing keyword: ~을 테니 [eul teni] (I assume/bet)
 # Korean Grammar Point: ~을 테니 [eul teni] (I assume/bet)
-# Grammar Point: ~을 테니 [eul teni] (I assume/bet)
-## Introduction
-The grammar point ~을 테니 is used in Korean to convey an assumption or a reasonable guess about a situation. It reflects the speaker's expectation or belief about what will happen, often implying that the listener should take action based on that assumption.
-## Core Grammar Explanation
-### Meaning
-The expression ~을 테니 can be translated as "I assume," "I bet," or "I expect." It’s a way for the speaker to express confidence in their assumption concerning the future.
-### Structure
-The structure of ~을 테니 can vary based on whether the verb stem ends in a consonant or a vowel:
-- **Consonant-ending verb stem:** Verb stem + 을 테니
-- **Vowel-ending verb stem:** Verb stem + ㄹ 테니
-#### Formation Diagram
-1. **Verb Stem + 을 테니** (for consonant ending)
-   - 예: 가다 (gada - to go) -> 갈 테니 (gal teni)
-  
-2. **Verb Stem + ㄹ 테니** (for vowel ending)
-   - 예: 먹다 (meokda - to eat) -> 먹을 테니 (meogeul teni)
-### Visual Aid Table
-| Verb Type | Verb Example | Formed Expression |
-|-----------|--------------|-------------------|
-| Consonant ending | 가다 (to go) | 갈 테니 (I assume you will go) |
-| Vowel ending       | 만나다 (to meet) | 만날 테니 (I assume we will meet) |
-## Comparative Analysis
-The expression ~을 테니 is similar to the grammar point ~을 거예요 [eul geoyeyo], which also expresses an assumption but is more definite and informal. While ~을 거예요 is more about a future certainty, ~을 테니 conveys a mild assumption that invites the listener to act.
-### Comparison Table
-| Grammar Point | Meaning                | Usage Context     |
-|---------------|------------------------|--------------------|
-| ~을 테니      | I assume/bet           | Assumptions, suggestions |
-| ~을 거예요    | I will                   | Predictions, certainties   |
-## Examples in Context
-### Sentence Examples
-1. **Formal:**
-   - 여러분이 이번 발표를 잘 할 테니 기대해 주세요.  
-   (I assume you will do well in this presentation, so please look forward to it.) 
-2. **Informal:**
-   - 네가 이번 시험에서 잘할 테니 걱정하지 마.  
-   (I bet you'll do well on this exam, so don’t worry.)
-3. **Spoken:**
-   - 비가 올 테니 우산 챙겼어?  
-   (I assume it will rain, did you bring an umbrella?)
-## Cultural Notes
-### Cultural Relevance
-Using ~을 테니 reflects a level of expectation that is often present in Korean culture. Koreans value relationships and communication where one shows belief in others' abilities. This grammar point can imply an underlying trust in the listener’s actions or decisions.
-### Idiomatic Expressions
-Common expressions using ~을 테니 include:
-- "잘할 테니 믿어봐."  
-  (I believe you will do well, so trust me.)
-## Common Mistakes and Tips
-### Error Analysis
-1. **Mixing up endings:** Some learners confuse the usage of consonant and vowel verb endings, leading to incorrect expressions.
-2. **Using with past actions:** Remember it is primarily used for future assumptions; avoid using it in past contexts.
-### Learning Strategies
-- **Mnemonic Device:** Remember “테니” as “Take it or not, I assume.” This can help to remember that it is about assumption.
-  
-## Summary and Review
-### Key Takeaways
-- **Meaning:** ~을 테니 expresses assumptions or expectations.
-- **Usage:** Primarily used to project beliefs about future actions.
-- **Structure:** Based on whether verb stems end in consonants or vowels.
-### Quick Recap Quiz
-1. What does ~을 테니 mean?
-2. When is it appropriate to use this grammar point?
-3. Give an example using a verb with a vowel ending.
+
+## 1. Introduction
+In this lesson, we'll explore the Korean grammar point **~을 테니** (**~eul teni**), which is used to express the speaker's strong intention or assumption, often providing a reason or condition for the following statement. Understanding this grammar point will help you convey intentions, make assumptions, and coordinate actions in various contexts.
+
 ---
-Feel free to ask more about this grammar point or any other language questions!
+## 2. Core Grammar Explanation
+## Meaning
+The ending **~을 테니** is used to:
+- **Express the speaker's strong intention or plan**, often when proposing a course of action or giving a reason.
+- **Indicate an assumption about a situation**, providing a basis for the following clause.
+
+It can be translated as:
+- "Since I will..."
+- "Because I intend to..."
+- "I assume that..."
+- "As it is likely that..."
+## Structure
+The structure of **~을 테니** is applied to verbs and consists of:
+- **Verb stem + ~을 테니**
+### Formation Rules
+1. **For verb stems ending with a consonant:**
+   - **Verb stem + 을 테니**
+   - Example:
+     - 먹다 (to eat) → 먹**을 테니**
+2. **For verb stems ending with a vowel:**
+   - **Verb stem + ㄹ 테니**
+   - Example:
+     - 가다 (to go) → 가**ㄹ 테니**
+## Formation Diagram
+| Verb Ending          | Verb Stem | Ending    | Result       |
+|----------------------|-----------|-----------|--------------|
+| Ends with consonant  | 작 (작다) | **을 테니** | 작을 테니    |
+| Ends with vowel      | 주 (주다) | **ㄹ 테니** | 줄 테니      |
+---
+## 3. Comparative Analysis
+### **~을 테니** vs **~을 거니까**
+- **~을 테니** focuses on the speaker's intention or assumption as a reason for the following action.
+- **~을 거니까** (future tense of "because") emphasizes the future occurrence as the reason.
+**Example:**
+- 제가 준비할 **테니** 걱정하지 마세요.
+  - *I will prepare (so) don't worry.*
+- 제가 준비할 **거니까** 걱정하지 마세요.
+  - *Because I will prepare, don't worry.*
+While both convey similar meanings, **~을 테니** is more about intention or assumption, whereas **~을 거니까** states a future fact.
+---
+## 4. Examples in Context
+### Example 1: Speaker's Intention
+**Formal**
+- 제가 발표를 준비**할 테니** 자료를 보내주세요.
+  - *I will prepare the presentation, so please send me the materials.*
+**Informal**
+- 내가 발표 준비**할 테니** 자료 보내줘.
+  - *I'll prepare the presentation, so send me the materials.*
+### Example 2: Making an Assumption
+**Formal**
+- 그가 이미 출발했**을 테니** 곧 도착할 거예요.
+  - *He must have already left, so he will arrive soon.*
+**Informal**
+- 그 사람 벌써 출발했**을 테니** 곧 도착할 거야.
+  - *He probably already left, so he'll arrive soon.*
+### Example 3: Offering Assistance
+- 제가 도와드리**을 테니** 걱정 마세요.
+  - *I'll help you, so don't worry.*
+### Example 4: Suggesting an Action Based on Assumption
+- 날씨가 추웠**을 테니** 따뜻하게 입으세요.
+  - *It must have been cold, so dress warmly.*
+### Example 5: Coordinating Plans
+- 너는 표를 사**을 테니** 나는 음식을 준비할게.
+  - *You buy the tickets, and I'll prepare the food.*
+---
+## 5. Cultural Notes
+## Levels of Politeness
+- **~을 테니** can be made more polite by adding **-요**: **~을 테니요**.
+- In formal or respectful situations, ensure to use polite verb endings to show proper respect.
+## Social Norms
+- Using **~을 테니** reflects consideration and collaboration, which are valued in Korean culture.
+- It's often used when coordinating activities or offering help, demonstrating attentiveness to others' needs.
+## Idiomatic Expressions
+- **혼자 갈 테니 걱정하지 마세요.**
+  - *I'll go alone, so don't worry.*
+  - Indicates independence and assures others not to be concerned.
+---
+## 6. Common Mistakes and Tips
+### Common Mistakes
+1. **Incorrect Verb Stem Attachment**
+   - **Incorrect:** 읽**을** 테니니 (redundant ending)
+   - **Correct:** 읽을 테니
+2. **Confusion with Similar Endings**
+   - Mixing up **~을 테니** with **~으니까** (because)
+   - **Tip:** Remember that **~을 테니** carries a sense of intention or assumption, not just causation.
+### Tips
+- **Mnemonic for Formation:**
+  - **"Consonant + 을 테니, Vowel + ㄹ 테니"**
+  - Helps remember how to attach the ending based on the verb stem.
+- **Practice Intentions and Assumptions:**
+  - Create sentences expressing what you intend to do or what you assume about situations.
+---
+## 7. Summary and Review
+## Key Takeaways
+- **~을 테니** is used to express strong intentions or assumptions, providing reasons or conditions for the following action.
+- Attach **을 테니** to verb stems ending with a consonant and **ㄹ 테니** to those ending with a vowel.
+- It often appears in sentences where the speaker offers help, suggests plans, or makes assumptions that lead to coordinated actions.
+## Quick Recap Quiz
+1. **How do you attach ~을 테니 to the verb "돕다" (to help)?**
+   - **Answer:** 도울 테니 (돕 → 도우 + ㄹ 테니)
+2. **Translate the following sentence:**
+   - **내가 늦게 도착할 테니 먼저 시작하세요.**
+   - **Answer:** I'll arrive late, so please start first.
+3. **What is the primary difference between ~을 테니 and ~을 거니까?**
+   - **Answer:** **~을 테니** expresses intention or assumption as a reason, while **~을 거니까** states a future fact as a reason.
+---
+By mastering **~을 테니**, you'll enhance your ability to express intentions and make assumptions, allowing for more natural and effective communication in Korean.
+
+---
+© [Hanabira.org](https://hanabira.org)

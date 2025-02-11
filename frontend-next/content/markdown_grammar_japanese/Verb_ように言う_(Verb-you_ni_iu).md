@@ -1,81 +1,150 @@
 Processing keyword: Verb ように言う (Verb-you ni iu)
 # Japanese Grammar Point: Verb ように言う (Verb-you ni iu)
-# Verb ように言う (Verb-you ni iu)
+
 ## 1. Introduction
-The expression **ように言う** (you ni iu) is used to indicate that someone is telling or suggesting that another person should do something in a particular way or manner. This structure is essential in Japanese for conveying indirect requests or instructions.
+In this lesson, we'll explore the Japanese grammar point **Verb ように言う (Verb-you ni iu)**. This structure is essential for conveying indirect commands, requests, or advice given by someone else. Mastering this grammar point will enhance your ability to report speech and communicate more naturally in Japanese.
+
+---
 ## 2. Core Grammar Explanation
-### Detailed Explanation
-- **ように**: This part means "in order to" or "so that," and it's used to express the manner in which something should be done.
-- **言う (いう)**: This verb means "to say" or "to tell."
-When combined, **Verb + ように言う** literally translates to "to say [to do something] in such a manner." 
+### Meaning
+**Verb ように言う** is used to **indirectly report a command, request, or piece of advice** given by someone. It translates to:
+- "**to tell someone to do something**"
+- "**to tell someone not to do something**"
 ### Structure
-The structure of the grammar point is as follows:
+The basic structure is:
+```plaintext
+[Person A] は [Person B] に [Verb (plain present form)] ように言う
 ```
-[Verb (in dictionary form)] + ように言う
-```
+- **[Person A] は**: The person who gives the command or request.
+- **[Person B] に**: The person who receives the command or request.
+- **[Verb (plain present form)] ように**: The action being commanded or requested.
+- **言う**: The verb "to say" or "to tell".
 ### Formation Diagram
-| Verb Form            | Meaning                    |
-|---------------------|-----------------------------|
-| 食べる (taberu)     | to eat                      |
-| 行く (iku)          | to go                       |
-| 勉強する (benkyou suru) | to study                   |
-For example:
-- 食べるように言う (taberu you ni iu) - "to say (someone) to eat"
-- 行くように言う (iku you ni iu) - "to say (someone) to go"
+| Component         | Function                                |
+|-------------------|-----------------------------------------|
+| [Person A] は     | The speaker who gives the instruction   |
+| [Person B] に     | The listener who receives the instruction |
+| Verb (plain form) | Action being requested                  |
+| ように             | "so that"; marks the purpose            |
+| 言う              | Verb "to say/tell"                      |
+### Examples:
+1. **先生は学生に早く来るように言いました。**
+   - *Sensei wa gakusei ni hayaku kuru you ni iimashita.*
+   - "The teacher told the students to come early."
+2. **母は私に野菜を食べるように言った。**
+   - *Haha wa watashi ni yasai o taberu you ni itta.*
+   - "My mother told me to eat vegetables."
+---
 ## 3. Comparative Analysis
-**Similar Grammar Points**
-1. **ようにする (you ni suru)**: This means "to try to do" or "to make an effort to do." It indicates intention or effort rather than a suggestion.
-   - Example: 毎日運動するようにする (Mainichi undou suru you ni suru) - "I try to exercise every day."
-   
-2. **ようになる (you ni naru)**: This expression means "to come to do" or "to change to a state where" something occurs.
-   - Example: 日本語が話せるようになる (Nihongo ga hanaseru you ni naru) - "I have come to be able to speak Japanese."
-### Differences
-- **ように言う**: Implies a suggestion or instruction.
-- **ようにする**: Indicates an intention or an effort.
-- **ようになる**: Signifies a change in state or ability.
+### Comparison with Similar Grammar Points
+#### A. Verb てください (Verb te kudasai)
+- **Usage**: Direct and polite request.
+- **Example**: *宿題をしてください。*
+  - "Please do your homework."
+#### B. Verb なさい (Verb nasai)
+- **Usage**: Direct command, often from a superior to a subordinate.
+- **Example**: *早く寝なさい。*
+  - "Go to bed early."
+#### C. Verb るように言う (Verb ru you ni iu)
+- **Usage**: Indirect command or request.
+- **Example**: *医者は彼にタバコをやめるように言った。*
+  - "The doctor told him to quit smoking."
+### Nuance Differences
+- **Direct vs. Indirect**: Using **ように言う** makes the command or request indirect, which is more polite and less imposing in Japanese culture.
+- **Formality**: **Verb なさい** can be too direct or harsh in some contexts. **ように言う** softens the command.
+- **Reporting Speech**: **ように言う** is specifically used when **reporting** what someone else said.
+---
 ## 4. Examples in Context
 ### Sentence Examples
-1. **Formal:**
-   - 先生は私たちにもっと勉強するように言いました。
-     - (Sensei wa watashitachi ni motto benkyou suru you ni iimashita.)
-     - "The teacher told us to study more."
-2. **Informal:**
-   - 友達は早く帰るように言ってたよ。
-     - (Tomodachi wa hayaku kaeru you ni itte ta yo.)
-     - "My friend said to go home early."
-3. **Written:**
-   - 上司からプロジェクトを早く終わらせるように言われました。
-     - (Joushi kara purojekuto wo hayaku owaraseru you ni iwaremashita.)
-     - "I was told by my boss to complete the project quickly."
-4. **Spoken:**
-   - お母さんが野菜を食べるように言ってる。
-     - (Okaasan ga yasai wo taberu you ni itteru.)
-     - "My mom is telling me to eat vegetables."
+#### Formal Context
+1. **上司は社員に時間を守るように言いました。**
+   - *Jōshi wa shain ni jikan o mamoru you ni iimashita.*
+   - "The boss told the employees to be punctual."
+2. **医者は患者に塩分を控えるように指示した。**
+   - *Isha wa kanja ni enbun o hikaeru you ni shiji shita.*
+   - "The doctor instructed the patient to reduce salt intake."
+#### Informal Context
+3. **友達は私にもっと運動するように勧めた。**
+   - *Tomodachi wa watashi ni motto undō suru you ni susumeta.*
+   - "A friend recommended that I exercise more."
+4. **母は弟に部屋を片付けるように言った。**
+   - *Haha wa otōto ni heya o katadzukeru you ni itta.*
+   - "Mom told my younger brother to clean his room."
+### Negative Commands
+5. **先生は学生に遅刻しないように注意した。**
+   - *Sensei wa gakusei ni chikoku shinai you ni chūi shita.*
+   - "The teacher warned the students not to be late."
+6. **彼女は彼に無理をしないように言った。**
+   - *Kanojo wa kare ni muri o shinai you ni itta.*
+   - "She told him not to overdo it."
+### Spoken Conversation
+7. **部長がこの書類をコピーするように言っていました。**
+   - *Buchō ga kono shorui o kopī suru you ni itte imashita.*
+   - "The manager was saying to copy these documents."
+8. **お父さんが早く帰ってくるように言ってたよ。**
+   - *Otōsan ga hayaku kaette kuru you ni itte ta yo.*
+   - "Dad told you to come home early."
+---
 ## 5. Cultural Notes
 ### Cultural Relevance
-In Japanese culture, communication often reflects indirectness and politeness. Utilizing **ように言う** facilitates a gentle way of giving orders or suggestions, adhering to the cultural norm of avoiding direct confrontations.
-### Levels of Politeness
-This structure can be adapted to both formal and informal contexts by changing the formality of the verbs or addressing the subjects accordingly.
+- **Indirectness in Communication**: Japanese culture values harmony and avoiding direct confrontation. Using **ように言う** allows for polite and indirect requests or commands.
+- **Hierarchy and Politeness**: Reporting commands indirectly shows respect, especially when dealing with superiors or in formal situations.
 ### Idiomatic Expressions
-- ように祈る (you ni inoru) - "to hope that…"
-- ように考える (you ni kangaeru) - "to think about it in such a way…"
+1. **気をつけるように言う**
+   - Meaning: "To tell someone to be careful."
+   - Example: *母は私に気をつけるように言った。*
+     - "My mother told me to be careful."
+2. **頑張るように言う**
+   - Meaning: "To tell someone to do their best."
+   - Example: *先生は試験の前に学生に頑張るように言った。*
+     - "The teacher told the students to do their best before the exam."
+---
 ## 6. Common Mistakes and Tips
 ### Error Analysis
-- Mixing up **ように言う** with **ようにする**. Remember, **ように言う** focuses on communication of suggestions while **ようにする** indicates personal efforts.
-- Forgetting to change the verb to its dictionary form before adding ように言う.
+#### Mistake 1: Using the Wrong Verb Form
+- **Incorrect**: *先生は学生に勉強してように言った。*
+  - Using the て-form (勉強して) is incorrect here.
+- **Correct**: *先生は学生に勉強するように言った。*
+  - Use the **plain present form** of the verb.
+#### Mistake 2: Omitting Particles
+- **Incorrect**: *彼は彼女宿題を持ってくるように言った。*
+  - Missing the particle **に** after **彼女**.
+- **Correct**: *彼は彼女に宿題を持ってくるように言った。*
+  - Include the **に** particle to indicate the indirect object.
 ### Learning Strategies
-- Create mnemonic devices by associating **ように** with the concept of "how to do something," reinforcing the idea of a suggestion.
-- Practice making sentences using this structure, imagining different scenarios where guidance or suggestions are given.
+- **Remember the Structure**: Keep in mind the pattern **[Person A] は [Person B] に [Verb plain form] ように言う**.
+- **Practice Transformation**: Take direct commands and practice converting them into **ように言う** structures.
+  - Direct: *ドアを閉めてください。* (Please close the door.)
+  - Indirect: *彼は私にドアを閉めるように言った。* (He told me to close the door.)
+---
 ## 7. Summary and Review
 ### Key Takeaways
-- **ように言う** is used to express telling someone to do something.
-- Structure: [Verb (in dictionary form)] + ように言う.
-- It differs from similar structures like **ようにする** and **ようになる**, which indicate effort or change.
+- **Verb ように言う** is used to report commands, requests, or advice indirectly.
+- The verb is in its **plain present form** before **ように**.
+- This structure adds politeness and indirectness, aligning with Japanese communication styles.
 ### Quick Recap Quiz
-1. How would you say "to say to study" using **ように言う**?
-2. What is the difference between **ように言う** and **ようにする**?
-3. Provide an example sentence using **ように言う** in a formal context.
-**Answers:**
-1. 勉強するように言う (benkyou suru you ni iu)
-2. **ように言う** suggests, while **ようにする** indicates effort.
-3. Example: 彼にお金を返すように言いました。 (Kare ni okane wo kaesu you ni iimashita.) - "I told him to return the money."
+#### Question 1
+**Fill in the blanks**:
+- 先生は私たちに宿題を____ように言いました。 *(to do the homework)*
+**Answer**:
+- **する**
+- *先生は私たちに宿題を**する**ように言いました。*
+#### Question 2
+**Correct the sentence**:
+- 母は弟に遊んでないように言った。
+**Answer**:
+- **母は弟に遊ばないように言った。**
+- The verb should be in the negative plain form **遊ばない**.
+#### Question 3
+**Translate into Japanese**:
+- "The coach told the players to practice every day."
+**Answer**:
+- **コーチは選手たちに毎日練習するように言った。**
+---
+By understanding and using **Verb ように言う**, you'll improve your ability to convey indirect speech in Japanese, making your communication more nuanced and culturally appropriate.
+
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

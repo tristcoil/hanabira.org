@@ -116,3 +116,12 @@ const config: Config = {
   darkMode: ['class'], // or 'media' for system preference
 }
 export default config
+
+
+
+
+
+
+
+// --------------------------------------------------------
+

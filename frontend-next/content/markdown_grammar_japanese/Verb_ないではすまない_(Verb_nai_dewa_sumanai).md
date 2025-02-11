@@ -1,68 +1,117 @@
 Processing keyword: Verb ないではすまない (Verb nai dewa sumanai)
 # Japanese Grammar Point: Verb ないではすまない (Verb nai dewa sumanai)
-# Verb ないではすまない (Verb nai dewa sumanai)
-## Introduction
-The grammar point **Verb ないではすまない** (Verb nai de wa sumanai) is used to express that "it is impossible to avoid doing something," or that "one cannot get by without doing something." It implies a sense of obligation or necessity to perform a certain action, often in a context where not executing the action would lead to an undesirable outcome.
+
+## 1. Introduction
+In this lesson, we'll explore the Japanese grammar point **ないではすまない** (*nai dewa sumanai*). This expression conveys a strong sense of obligation or inevitability to perform an action. It is often used when one must do something to resolve a situation, meet social expectations, or fulfill a moral duty.
+
 ---
-## Core Grammar Explanation
-### Detailed Explanation
-- **Structure**: The phrase is constructed using the negative form of the verb followed by **では** (de wa) and **すまない** (sumanai).
-- **Formation**: 
-   - Start with the verb in its negative form: Verb ない (the negative form).
-   - Add **では** (de wa).
-   - Conclude with **すまない** (sumanai), which translates to "not suffice" or "not be able to get by".
-#### Visual Aid Diagram
-```plaintext
-Verb (negative form) + では + すまない
-```
+## 2. Core Grammar Explanation
 ### Meaning
-- The overall meaning is "cannot avoid doing [verb]." 
-- It emphasizes that the action is essential or inevitable.
+**ないではすまない** means:
+- **"Cannot avoid doing..."**
+- **"Must do..."**
+- **"Cannot get away without doing..."**
+It implies that not performing the action would lead to negative consequences, such as social disapproval or unresolved issues.
+### Structure
+#### Formation Diagram
+```
+Verb (ない-form) + ではすまない
+```
+Where:
+- **Verb (ない-form)**: Negative form of the verb.
+- **ではすまない**: An expression meaning "will not end/resolved without..."
+#### Example Formation
+- **する** (to do) → **しない**
+- **しないではすまない**: Cannot avoid doing; must do.
+### Detailed Explanation
+- **Verb (ない-form)**: Take the negative form of the verb.
+- **では**: Particle combining **で** (indicating means or condition) and **は** (topic marker).
+- **すまない**: Negative form of **済む** (*sumu*), meaning "to end" or "to be sufficient."
+Together, **ないではすまない** conveys that not doing the action will not suffice; therefore, one must do it.
 ---
-## Comparative Analysis
-**Similar Grammar Points**:
-- **Verb なくてはならない** (nakute wa naranai): This is another way to express a strong obligation or necessity. However, なくてはならない generally expresses a more formal or serious obligation than ないではすまない.
-  
-**Differences**:
-- **Verb ないではすまない** implies that if the action is not done, a negative consequence will arise.
-- **Verb なくてはならない** is more about what is required and can focus more on the duty aspect without necessarily implying a consequence.
+## 3. Comparative Analysis
+### Similar Grammar Points
+| Grammar Point                | Meaning                                     | Nuance                                         |
+|------------------------------|---------------------------------------------|------------------------------------------------|
+| **ないわけにはいかない**       | Cannot help but do; must do                 | Strong moral or social obligation              |
+| **ずにはいられない**          | Can't help but feel compelled to do         | Inner compulsion; uncontrollable feeling       |
+| **なければならない**          | Must do; have to do                         | General necessity or obligation                |
+### Differences
+- **ないではすまない** emphasizes **external pressures** or consequences.
+- **ないわけにはいかない** suggests **moral duty** or **logical necessity**.
+- **ずにはいられない** reflects **internal compulsion**.
 ---
-## Examples in Context
-### Sentence Examples
-1. **Formal**:  
-   仕事を終わらせないではすまない。  
-   **Translation**: I cannot avoid finishing my work.
-2. **Informal**:  
-   今度のテスト勉強しないではすまないよ。  
-   **Translation**: You really can't get by without studying for the upcoming test!
-3. **Written Context**:  
-   この問題は解決しないではすまない。  
-   **Translation**: This problem must be resolved; there's no way around it.
-4. **Spoken Context**:  
-   あの宿題、やらないではすまないよ。  
-   **Translation**: You have to do that homework; you can't just skip it.
+## 4. Examples in Context
+### Example 1: Formal Situation
+**彼は遅刻したから、謝らないではすまない。**
+*Kareshi wa chikoku shita kara, ayamaranaide wa sumanai.*
+- **Translation**: Since he was late, he must apologize.
+- **Context**: In a workplace or formal setting where punctuality is important.
+### Example 2: Social Obligation
+**こんな高価な物を壊してしまって、弁償しないではすまないだろう。**
+*Konna kouka na mono o kowashite shimatte, benshou shinaide wa sumanai darou.*
+- **Translation**: Having broken such an expensive item, I must compensate for it.
+- **Context**: Acknowledging responsibility for damage caused.
+### Example 3: Personal Accountability
+**真実を知った以上、彼に知らせないではすまない。**
+*Shinjitsu o shitta ijou, kare ni shirasanaide wa sumanai.*
+- **Translation**: Now that I know the truth, I must inform him.
+- **Context**: Feeling obliged to share important information.
+### Example 4: Cultural Norms
+**親友の結婚式に出席しないではすまない。**
+*Shinyuu no kekkonshiki ni shusseki shinaide wa sumanai.*
+- **Translation**: I must attend my best friend's wedding.
+- **Context**: Social expectation to attend significant events.
+### Example 5: Legal Obligation
+**法律を破ったのだから、罰を受けないではすまない。**
+*Houritsu o yabutta no dakara, batsu o ukenaide wa sumanai.*
+- **Translation**: Because I broke the law, I must face punishment.
+- **Context**: Accepting consequences of illegal actions.
 ---
-## Cultural Notes
+## 5. Cultural Notes
 ### Cultural Relevance
-In Japanese culture, there is a strong emphasis on responsibility and obligation. The use of ないではすまない often reflects this cultural attitude, where individuals feel a moral duty to complete tasks or obligations that may affect others.
-### Levels of Politeness
-This phrase can be used in both formal and informal situations, but the tone may vary. It can be phrased more formally in written contexts.
+- **Collectivist Society**: In Japanese culture, harmony and group cohesion are paramount. **ないではすまない** reflects the pressure to conform to social norms.
+- **Responsibility and Apology**: Apologizing and making amends are important. This expression is commonly used when one must take responsibility.
+### Levels of Politeness and Formality
+- Often used in **formal** or **written** contexts.
+- Indicates a serious tone and recognition of obligations.
 ### Idiomatic Expressions
-- **これをやらないではすまない** translates to "I have to do this," reflecting necessity in a concise idiomatic form.
+- **謝らないではすまない** (*Ayamaranaide wa sumanai*): Must apologize.
+- **説明しないではすまない** (*Setsumei shinaide wa sumanai*): Must explain.
 ---
-## Common Mistakes and Tips
+## 6. Common Mistakes and Tips
 ### Error Analysis
-- **Frequent Mistake**: Confusing with **Verb なくてはならない**; learners might use it in contexts when they mean just an obligation without a specific negative consequence.
-- **Tip to Avoid Mistakes**: Before using ないではすまない, think about whether the action is an absolute necessity due to an impending negative outcome.
+1. **Using the Affirmative Verb Form**
+   - **Incorrect**: 行くではすまない
+   - **Correct**: 行かないではすまない
+   *Always use the **ない-form** of the verb.*
+2. **Confusing with Similar Expressions**
+   - Mixing up with **ずにはいられない**.
+     - **ないではすまない**: External obligation.
+     - **ずにはいられない**: Internal compulsion.
 ### Learning Strategies
-- Create associations: Link ないではすまない with obligation and responsibility. Picture a scenario where avoiding action leads to a problem.
+- **Mnemonic Device**: Think of **すまない** as "won't end" or "won't be resolved" unless the action is taken.
+- **Practice**: Create sentences using actions you feel obliged to do due to social norms.
+- **Visualize Scenarios**: Imagine situations where not acting would lead to problems.
 ---
-## Summary and Review
+## 7. Summary and Review
 ### Key Takeaways
-- **Verb ないではすまない** indicates that one cannot avoid performing an action due to necessity or impending negative outcomes.
-- It is useful in both formal and informal contexts but reflects a cultural understanding of obligation and responsibility.
+- **ないではすまない** expresses a strong obligation to act due to external pressures.
+- Formed by adding **ではすまない** to the **ない-form** of a verb.
+- Different from expressions indicating internal feelings (**ずにはいられない**).
 ### Quick Recap Quiz
-1. What is the basic structure of the grammar point ないではすまない?
-2. How does ないではすまない differ from なくてはならない?
-3. Provide an example sentence using ないではすまない in an informal context. 
-Through the understanding and usage of **Verb ないではすまない**, students can better communicate nuances involving obligation and necessity in Japanese.
+1. **How is the grammar point **ないではすまない** formed?**
+   - **Answer**: By attaching **ではすまない** to the **ない-form** of a verb.
+2. **What does **ないではすまない** imply about obligation?**
+   - **Answer**: It implies an unavoidable obligation due to external factors or social expectations.
+3. **Translate the following sentence:**
+   **約束を破ったら、謝罪しないではすまない。**
+   *Yakusoku o yabuttara, shazai shinaide wa sumanai.*
+   - **Answer**: If you break a promise, you must apologize.
+---
+By understanding **ないではすまない**, you enhance your ability to express obligations influenced by societal expectations in Japanese.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

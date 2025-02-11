@@ -1,68 +1,89 @@
 Processing keyword: ~즉시 [jeukshi] (Immediately, at once)
 # Korean Grammar Point: ~즉시 [jeukshi] (Immediately, at once)
-# Korean Grammar Point: ~즉시 [jeukshi]
+
 ## 1. Introduction
-The Korean expression **~즉시** (jeukshi) translates to "immediately" or "at once" in English. It indicates that an action is performed without any delay. This grammar point is particularly useful in both spoken and written communication when you want to stress the urgency or promptness of a response or an action.
+In this lesson, we'll explore the grammar point **~즉시** (*immediately, at once*), a useful adverb in Korean that denotes immediate action. Understanding how to use **~즉시** will enhance your ability to express promptness in various contexts.
+
 ---
 ## 2. Core Grammar Explanation
-### Detailed Explanation
-- **Meaning**: **즉시** specifies that something should happen right away, without pausing or waiting.
-- **Structure**: The structure involves simply placing **즉시** after the verb that you want to indicate is done immediately.
+### Meaning
+- **즉시** means *immediately*, *at once*, or *instantly*.
+- It indicates that an action occurs right after another without delay.
+### Structure
+- **즉시** is used as an **adverb** and can be placed:
+  1. **Before a verb** to modify it.
+  2. **After a clause** to show immediate succession.
 ### Formation Diagram
-```plaintext
-[Subject] + [Verb] + 즉시
 ```
-- Example Sentence: 
-  - 나 (I) + 가 (subject marker) + 도착하다 (to arrive) + 즉시 
-  - Translation: I will arrive immediately. 
-  - Korean: 저는 도착 즉시 연락할게요.
+[Clause] + 즉시 + Verb
+```
+or
+```
+즉시 + Verb
+```
+### Detailed Explanation
+- When **즉시** is used, it emphasizes the immediacy of the action that follows.
+- It is suitable for both formal and informal settings.
+- It can be combined with verbs to express doing something immediately.
 ---
 ## 3. Comparative Analysis
-### Comparison with Similar Grammar Points
-- **~바로** (baro) - also means "right away" or "right now," but can imply a slight nuance of being correct or exact apart from immediacy.
-- **~곧** (got) - means "soon" or "shortly," which indicates an action will take place in the near future but not necessarily immediately.
-| Grammar Point | Meaning           | Usage Context    |
-|----------------|-------------------|-------------------|
-| 즉시           | Immediately        | Urgent situations  |
-| 바로           | Right away        | Can imply correctness  |
-| 곧            | Soon              | Near future       |
+### Comparing **즉시** with Similar Expressions
+| Expression    | Meaning          | Usage                                     | Nuance                                |
+|---------------|------------------|-------------------------------------------|---------------------------------------|
+| **즉시**        | Immediately      | Adverb before verbs; after clauses        | Neutral tone                          |
+| **바로**        | Right away       | Adverb; interchangeable with **즉시**       | Slightly more colloquial              |
+| **곧바로**      | Immediately      | Emphasizes immediacy more than **바로**      | Stronger emphasis on 'right away'     |
+| **-자마자**     | As soon as       | Verb conjugation; attached to verbs       | Indicates immediate action after event|
 ---
 ## 4. Examples in Context
-### Sentence Examples
-1. **Formal**: 
-   - 회의가 끝나는 즉시 공지하겠습니다.
-   - (I will notify you immediately after the meeting ends.)
-   
-2. **Informal**: 
-   - 도착 즉시 전화할게!
-   - (I'll call you right after I arrive!)
-3. **Written**: 
-   - 응급상황에서는 즉시 구조 요청을 해야 합니다.
-   - (In an emergency, you must request assistance immediately.)
-4. **Spoken**: 
-   - 지금 즉시 가야 해!
-   - (We need to go right now!)
+### Example Sentences
+1. **회의가 끝나자마자 즉시 회의록을 작성했습니다.**
+   - *I wrote the meeting minutes immediately after the meeting ended.*
+2. **그는 소식을 듣자 즉시 달려갔어요.**
+   - *As soon as he heard the news, he ran immediately.*
+3. **문제가 발견되면 즉시 알려주세요.** (Formal)
+   - *Please let me know immediately if a problem is found.*
+4. **그는 즉시 답장을 보냈다.**
+   - *He sent a reply at once.*
+5. **수업이 끝난 후에 즉시 집에 갔어.** (Informal)
+   - *I went home immediately after the class ended.*
 ---
 ## 5. Cultural Notes
 ### Cultural Relevance
-- In Korean culture, promptness and respect for time can be significant, especially in formal settings. Using **즉시** reflects the urgency with which one is expected to respond or act. It shows consideration for others' time.
-  
+- **Promptness** is valued in Korean culture, especially in professional settings.
+- Using **즉시** can convey responsibility and eagerness to act without delay.
+### Levels of Politeness
+- **즉시** itself is neutral and can be used in both formal and informal contexts.
+- Adjust the verb endings to match the appropriate politeness level.
 ### Idiomatic Expressions
-- **즉시 처리하다** (jeukshi cheoerida): "to process immediately." This phrase is often used in business contexts, indicating efficiency and speed.
+- **즉시 대응**: *Immediate response*
+- **즉시 조치**: *Immediate action*
 ---
 ## 6. Common Mistakes and Tips
 ### Error Analysis
-- **Confusing with other adverbs**: Learners often confuse **즉시** with **바로** or **곧**. Remember that **즉시** denotes action without any delay.
+- **Mistake**: Using **즉시** incorrectly as a verb ending.
+  - *Incorrect*: 일이 끝나즉시 먹었어요.
+  - *Correct*: 일이 끝나자마자 즉시 먹었어요.
+- **Mistake**: Confusing **즉시** with **곧** (*soon*).
+  - **곧** implies *in a short time*, but not necessarily immediately.
 ### Learning Strategies
-- **Mnemonic Device**: Associate "즉시" with the image of an immediate response, like a clock striking the hour to signify that it's time to act without hesitation.
+- **Mnemonic Device**: Think of **즉시** as the 'zip' in 'zip around' – fast and immediate.
+- **Tip**: Pair **즉시** with verbs of action to emphasize immediacy.
 ---
 ## 7. Summary and Review
 ### Key Takeaways
-- **즉시** means "immediately" and is used to convey that an action will occur without delay.
-- It is structured by placing **즉시** after the verb expressing that action.
-- Understand the subtle differences between **즉시**, **바로**, and **곧** to use them appropriately.
+- **즉시** means *immediately* and is used to express prompt action.
+- It is an adverb placed before verbs or after clauses.
+- Understand the nuances between **즉시**, **바로**, **곧바로**, and **-자마자**.
 ### Quick Recap Quiz
-1. What does **즉시** mean?
-2. Provide a sentence using **즉시** in a formal context.
-3. How does **즉시** differ from **바로**?
-By mastering the use of **즉시**, you will enhance your ability to communicate urgency and immediacy in your Korean language interactions!
+1. Fill in the blank: 문제가 생기면 ______ 알려주세요.
+   - **Answer**: 즉시
+2. True or False: **즉시** can be used with both formal and informal speech.
+   - **Answer**: True
+3. Which expression emphasizes immediacy more strongly, **바로** or **곧바로**?
+   - **Answer**: 곧바로
+---
+Feel free to revisit this lesson to strengthen your understanding of **즉시**. Practice using it in your own sentences to become more comfortable with its usage.
+
+---
+© [Hanabira.org](https://hanabira.org)

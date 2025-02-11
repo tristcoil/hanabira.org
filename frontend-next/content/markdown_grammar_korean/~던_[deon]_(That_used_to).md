@@ -1,75 +1,103 @@
 Processing keyword: ~던 [deon] (That used to)
 # Korean Grammar Point: ~던 [deon] (That used to)
-# Korean Grammar Point: ~던 (deon) - (That Used To)
+
 ## 1. Introduction
-The grammar point ~던 (deon) is used in Korean to express actions or states that used to happen in the past but no longer occur. It provides a nostalgic feeling and can reflect past habits, situations, or experiences.
+In Korean, expressing past actions or states that were ongoing or habitual requires specific grammatical constructions. The suffix **~던** is one such tool, allowing speakers to convey nuances about past experiences, memories, or unfinished actions. This lesson will delve into the usage of **~던**, helping you understand how to accurately express "that used to" or "used to be" in Korean.
+
 ---
 ## 2. Core Grammar Explanation
 ### Detailed Explanation
-- **Meaning**: ~던 indicates that an action or state was true or habitual in the past but is not true in the present.
-- **Structure**: The form ~던 is combined with verbs or adjectives in their past tense.
-- **Formation**: The structure is formed by taking the verb stem and adding ~던.
+The suffix **~던** attaches to verbs and adjectives to indicate actions or states that were:
+- Repeated or habitual in the past.
+- Ongoing in the past but are no longer happening.
+- Unfinished actions observed in the past.
+It reflects a reminiscence or recollection of past events from the speaker's perspective.
+### Meaning, Structure, and Formation
+#### Meaning
+**~던** conveys:
+- **"Used to..."**: Expressing habitual past actions.
+- **"That was..."**: Describing a past state or unfinished action.
+#### Structure
+The formation of **~던** depends on whether it attaches to a verb or adjective.
+- **Verb/Adjective Stem + 던**
 #### Formation Diagram
+```markdown
+[ Verb/Adjective Stem ] + 던
 ```
-Verb Stem + 던
-```
-**Examples of Verb Stems**:
-- 가다 (gada) - to go → 갔던 (gadeon) - used to go
-- 먹다 (meokda) - to eat → 먹었던 (meogeodeon) - used to eat
-- 예쁘다 (yeppeuda) - to be pretty → 예뻤던 (yeppeodeon) - used to be pretty
+#### Examples of Verb and Adjective Stems
+| Type       | Infinitive Form | Stem    | + 던      |
+|------------|-----------------|---------|-----------|
+| Verb       | 먹다 (to eat)     | 먹      | 먹던      |
+| Verb       | 가다 (to go)      | 가      | 가던      |
+| Adjective  | 예쁘다 (to be pretty) | 예쁘  | 예쁘던    |
+| Adjective  | 크다 (to be big)   | 크      | 크던      |
 ---
 ## 3. Comparative Analysis
-### Comparison with Similar Grammar Points
-- **~이었/였던**: Used to indicate a state of being that has changed, focusing more on being rather than actions.
-  - Example: (그것은) 예뻤던 (geugeos-eun yeppeodeon) - (That was) pretty (in the past).
-  
-- **~고 있었다**: Describes an ongoing action in the past without implication of it being no longer true.
-  - Example: (그는) 공부하고 있었다 (geuneun gongbuhago iss-eotta) - (He was) studying.
-The key difference is that ~던 emphasizes that the action or state is not currently true.
+**~던** vs. **~았/었던**
+- **~던**: Emphasizes an action that was ongoing or habitual in the past but is incomplete or no longer occurring.
+- **~았/었던**: Used for actions that were completed in the past.
+**Comparison Table**
+| Usage                            | ~던                         | ~았/었던                    |
+|----------------------------------|----------------------------|----------------------------|
+| Unfinished past actions          | ✔                          | ✖                          |
+| Completed past actions           | ✖                          | ✔                          |
+| Habitual past actions            | ✔                          | ✔ (less emphasis on habit) |
 ---
 ## 4. Examples in Context
 ### Sentence Examples
-1. **Formal Context**:
-   - 그 영화는 예전의 나를 생각나게 했던 영화였어요.  
-     (Geu yeonghwa-neun yejeon-ui nareul saeng-gaknage haetdeon yeonghwa-yess-eoyo.)  
-     (That movie was a movie that used to remind me of my past.)
-2. **Informal Context**:
-   - 어릴 때 자주 갔던 곳이야.  
-     (Eoril ttae jaju gatdeon gosiya.)  
-     (It's a place that I used to go often when I was young.)
-3. **Written Context**:
-   - 그녀의 목소리는 예전에 들렸던 것처럼 아름다웠다.  
-     (Geunyeo-ui moksorineun yejeon-e deullyeotdeon geoscheoleom areumdawotda.)  
-     (Her voice was beautiful just like it used to be.)
-4. **Spoken Context**:
-   - 이 노래는 내가 많이 들었던 노래야.  
-     (I nolaeneun naega manh-i deureotdeon nolaeya.)  
-     (This song is a song that I used to listen to a lot.)
+#### 1. Habitual Past Action (Informal)
+- **Korean**: 내가 자주 가던 카페가 문을 닫았어.
+- **Romanization**: Naega jaju gadeon kapega muneul datasseo.
+- **Translation**: The café I used to go to often has closed down.
+#### 2. Ongoing Past State (Formal)
+- **Korean**: 어렸을 때 좋아하던 책을 다시 읽고 있습니다.
+- **Romanization**: Eoryeosseul ttae johadeon chaegeul dasi ilgo itsseumnida.
+- **Translation**: I am rereading a book that I used to like when I was young.
+#### 3. Unfinished Past Action (Written)
+- **Korean**: 보고 싶던 영화를 드디어 봤다.
+- **Romanization**: Bogo sipdeon yeonghwareul deudieo bwatda.
+- **Translation**: I finally watched the movie I had wanted to see.
+#### 4. Memory of Past Event (Spoken)
+- **Korean**: 우리가 함께 걷던 길이야.
+- **Romanization**: Uriga hamkke geotdeon giriya.
+- **Translation**: This is the road we used to walk together.
 ---
 ## 5. Cultural Notes
 ### Cultural Relevance
-This grammar point often evokes nostalgia, a significant aspect of Korean culture. Reflecting on the past is common in conversations, especially when reminiscing about childhood, relationships, or significant events.
-### Levels of Politeness
-The use of ~던 can change based on the level of formality. In casual conversations, it can appear more relaxed, while in formal contexts, it may include additional levels of speech, such as honorifics.
+In Korean culture, reminiscing about the past is a common theme in literature and daily conversation. The use of **~던** allows speakers to share memories and express nostalgia.
+### Levels of Politeness and Formality
+- **~던** is neutral in terms of politeness.
+- Politeness levels are adjusted through sentence endings rather than the suffix **~던** itself.
 ### Idiomatic Expressions
-- 예전처럼 (yejeoncheoreom) - "Like in the past" often pairs with ~던 to emphasize nostalgia.
-  - Example: 예전처럼 친구와 자주 만나야 해. (I need to meet with my friends like I used to.)
+- **옛날에 살던 집**: The house I used to live in long ago.
+- **자주 먹던 음식**: The food I used to eat often.
 ---
 ## 6. Common Mistakes and Tips
 ### Error Analysis
-- **Common Mistake**: Overusing ~던 for actions that are still ongoing. Remember that ~던 indicates something that used to happen but does not anymore. 
-- **Tip**: Make a note of experiences or memories to practice using ~던 in sentences.
+**Mistake**: Confusing **~던** with **~는** (present tense modifier).
+- **Incorrect**: 내가 자주 가는 카페가 문을 닫았어. (The café I often go to has closed.)
+- **Corrected**: 내가 자주 가던 카페가 문을 닫았어. (The café I used to go to often has closed.)
+**Mistake**: Using **~던** for completed actions.
+- **Incorrect**: 어제 먹던 케이크가 맛있었어. (Implies you were eating the cake yesterday but didn't finish.)
+- **Corrected**: 어제 먹은 케이크가 맛있었어. (The cake I ate yesterday was delicious.)
 ### Learning Strategies
-- **Mnemonic Device**: Associate ~던 with "done" in English—things that are done in the past and are no longer happening.
+- **Mnemonic Device**: Think of **던** as "done but not done" – actions that were ongoing but not necessarily completed.
+- **Practice**: Create sentences about past habits or memories to get comfortable with **~던**.
 ---
 ## 7. Summary and Review
 ### Key Takeaways
-- **Usage**: ~던 expresses actions or states that used to happen in the past.
-- **Structure**: Combine a verb stem with ~던.
-- **Cultural Context**: Reflects nostalgia and past experiences.
-  
+- **~던** is used to express past habitual or unfinished actions and states.
+- It attaches directly to verb or adjective stems.
+- It reflects nostalgia or memories about the past.
 ### Quick Recap Quiz
-1. What does ~던 express?
-2. Form a sentence with a verb using ~던.
-3. How does ~던 differ from ~고 있었다?
-Feel free to practice and use these examples and explanations to deepen your understanding of the grammar point ~던!
+1. How do you attach **~던** to the verb **읽다** (to read)?
+   **Answer**: 읽던
+2. Translate into Korean: "The song we used to listen to."
+   **Answer**: 우리가 듣던 노래
+3. Which suffix would you use for a completed past action: **~던** or **~았/었던**?
+   **Answer**: ~았/었던
+---
+By understanding and practicing the use of **~던**, you'll be able to express past habits and memories more naturally in Korean.
+
+---
+© [Hanabira.org](https://hanabira.org)

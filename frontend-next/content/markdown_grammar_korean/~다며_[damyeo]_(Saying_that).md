@@ -1,63 +1,138 @@
 Processing keyword: ~다며 [damyeo] (Saying that)
 # Korean Grammar Point: ~다며 [damyeo] (Saying that)
-# TOPIK Grammar Point: ~다며 [damyeo] (Saying that)
+
 ## 1. Introduction
-The grammar point **~다며** is used to express reported speech, specifically when someone says or claims something about another subject. It typically conveys the idea of quoting someone else's statement or expressing their thoughts indirectly. This point is often encountered in both spoken and written Korean.
+In Korean, expressing information heard from others or seeking confirmation about something is common in daily conversations. The grammar point **~다며** [damyeo] is used to convey that the speaker is repeating information they've heard, often with a nuance of surprise, curiosity, or seeking validation. This lesson will delve into the usage of **~다며**, its formation, and how to use it naturally in various contexts.
+
+---
 ## 2. Core Grammar Explanation
 ### Detailed Explanation
-- **Meaning**: The suffix **~다며** is derived from the declarative ending **-다** combined with the quotative **며** (meaning "saying"). It is primarily used to report what someone else has said.
-- **Structure**: 
-  - When using **~다며**, the sentence typically follows this structure:
-    - **(Subject) + (Verb/Adjective) + 다며 + (Complement/Additional Clause)**
-### Formation Diagram
+**~다며** is a contraction of **~다면서**, used after verb and adjective stems or nouns to indicate that the speaker is referencing something they've heard from someone else. It can be translated as:
+- "I heard that..."
+- "Is it true that...?"
+- "They say that..."
+It is commonly used when:
+- Confirming or questioning information.
+- Expressing surprise or disbelief.
+- Seeking more details about the information heard.
+### Meaning, Structure, Formation Diagram
+#### Formation
+The conjugation of **~다며** depends on the type of word it attaches to:
+1. **Action Verbs (Present Tense)**:
+   - **Verb stem + ㄴ다며** (after a vowel)
+   - **Verb stem + 는다며** (after a consonant)
+2. **Descriptive Verbs (Adjectives)**:
+   - **Verb stem + 다며**
+3. **Nouns with '이다' (To be)**:
+   - **Noun + (이)라며**
+4. **Past Tense Verbs**:
+   - **Verb stem + 았/었다며**
+#### Formation Table
+| Type                  | Ending        | Example Stem | Conjugation      | Translation                      |
+|-----------------------|---------------|--------------|------------------|----------------------------------|
+| Action Verb (vowel)   | ㄴ다며        | 가다 (to go) | 간다며           | Saying that (someone) goes       |
+| Action Verb (consonant)| 는다며       | 먹다 (to eat)| 먹는다며         | Saying that (someone) eats       |
+| Descriptive Verb      | 다며          | 예쁘다 (pretty)| 예쁘다며         | Saying that (something) is pretty|
+| Noun + 이다           | (이)라며      | 학생 (student)| 학생이라며       | Saying that (someone) is a student |
+| Past Tense            | 았/었다며      | 마셨다 (drank)| 마셨다며         | Saying that (someone) drank      |
+### Visual Aid
+**Conjugation Diagram**
 ```
-Subject + Verb/Adjective + 다며 + Additional Information
+[Action Verb Stem] + ㄴ/는다며
+[Descriptive Verb Stem] + 다며
+[Noun] + (이)라며
+[Past Verb Stem] + 았/었다며
 ```
+---
 ## 3. Comparative Analysis
 ### Comparison with Similar Grammar Points
-- **~다고**: This form is used in a similar way to report what someone else has said, but it’s used in more straightforward quotations without the conversational nuance that **~다며** provides.
-  
-- **~는다고**: This form can also denote reported speech but is used specifically for verbs in the present tense.
-### Key Differences
-| Structure  | Usage                                | Example                              |
-|------------|--------------------------------------|--------------------------------------|
-| ~다며     | Saying that (reporting speech)      | "그가 가면 간다며" (He said that he would go) |
-| ~다고     | Quoting directly                     | "그가 간다고 했다" (He said that he was going) |
-| ~는다고   | Present tense emphasis               | "그는 간다고 말했다" (He said he is going) |
+- **~다고 하다**: Used to report what someone said. Focuses on the act of reporting.
+  - *그가 온다고 해요.* (He says he's coming.)
+- **~다면서**: The same as **~다며**, but slightly more formal or emphasized.
+  - *네가 학생이라면서?* (I heard you're a student.)
+**Difference**: **~다며** is often used when the speaker seeks confirmation or expresses surprise, whereas **~다고 하다** is a straightforward report of information.
+---
 ## 4. Examples in Context
 ### Sentence Examples
-- **Formal**: 
-  - **그 선생님이 이 과목이 중요하다며 수업을 하셨어요.**
-  - *Translation*: "The teacher said that this subject is important during the class."
-- **Informal**: 
-  - **친구가 오늘 촬영한다며, 좀 이따 만나자고 했어.**
-  - *Translation*: "My friend said they're filming today, so they suggested we meet later."
-- **Written**: 
-  - **보고서에서 연구원이 환경 보호가 필요하다고 다며 주장을 세웠다.**
-  - *Translation*: "In the report, the researcher argued saying that environmental protection is necessary."
-- **Spoken**: 
-  - **그는 내일 떠난다며 나한테 인사했어.**
-  - *Translation*: "He said he’s leaving tomorrow and said goodbye to me."
+#### Confirming Information
+1. **네가 결혼한다며?**
+   - *I heard you're getting married?*
+2. **오늘 회의가 취소됐다며?**
+   - *Is it true that today's meeting was canceled?*
+3. **새로운 프로젝트를 시작한다며?**
+   - *They say you're starting a new project?*
+#### Expressing Surprise
+4. **그 배우가 은퇴한다며?**
+   - *I heard that actor is retiring?!*
+5. **시험에 합격했다며? 축하해!**
+   - *I heard you passed the exam? Congratulations!*
+#### Seeking Details
+6. **신제품이 출시됐다며 어떤 거야?**
+   - *I heard a new product was released; what is it?*
+7. **네가 요즘 요가 배운다며 어떻게 돼가?**
+   - *You mentioned you're learning yoga these days; how's it going?*
+#### Using with Nouns
+8. **저 사람이 너희 선생님이라며?**
+   - *I heard that person is your teacher?*
+9. **그곳이 유명한 식당이라며 함께 가볼래?**
+   - *They say that place is a famous restaurant; want to go together?*
+#### Past Tense Usage
+10. **어제 콘서트에 갔다며 어땠어?**
+    - *I heard you went to the concert yesterday; how was it?*
+11. **지난주에 이사했다며 힘들었겠네.**
+    - *I heard you moved last week; it must have been tough.*
+---
 ## 5. Cultural Notes
 ### Cultural Relevance
-Using **~다며** reflects a level of conversational nuance in Korean culture. It shows understanding and consideration of what someone else has stated, creating a layered form of communication, which is significant in a culture that values indirectness and respect for others' opinions.
+- **Indirect Communication**: Koreans often communicate indirectly to be polite or avoid confrontation. Using **~다며** allows the speaker to confirm information without directly accusing someone of withholding it.
+- **Showing Interest**: It's a way to express interest in the listener's life, fostering closer relationships.
+- **Hierarchy and Politeness**: Being mindful of speech levels is crucial in Korean culture.
 ### Levels of Politeness and Formality
-The formality of speech in Korean is crucial. When using **~다며**, the level of politeness can vary based on context, from informal conversations among friends to more formal speech in academic or professional settings.
+- **Casual Speech**: **~다며** is suitable among friends, peers, or in informal settings.
+- **Formal Situations**: In formal contexts, it's appropriate to use more polite forms such as **~다고 들었습니다** (I heard that...).
 ### Idiomatic Expressions
-Common idioms are not typically formed with **~다며**, but you might hear phrases like:
-- **그냥 지나칠 수 없다며** - "He/She cannot just let it pass."
+- **귀가 얇다며?**
+  - *They say you're easily influenced?* (Literally, "I heard your ears are thin?")
+- **발이 넓다며?**
+  - *I heard you have a wide network?* (Literally, "I heard your feet are wide?")
+---
 ## 6. Common Mistakes and Tips
 ### Error Analysis
-- **Confusion with similar forms**: Learners may mix up **~다며** with **~다고** or **~는다고**. This can lead to incorrect quotations or misunderstandings in the reporting of speech.
+1. **Incorrect Verb Conjugation**
+   - **Incorrect**: *먹다며?* (with action verb)
+   - **Correct**: *먹는다며?*
+   *Action verbs require **~ㄴ/는다며** in the present tense.*
+2. **Confusing with the Conditional ~다면**
+   - **~다며** (hearsay) vs. **~다면** (if)
+   - Be careful not to confuse these similar-sounding endings.
+3. **Overusing in Formal Contexts**
+   - Using **~다며** in formal situations can be impolite.
+   - Use **~다고 하던데요** or **~다고 들었습니다** for higher formality.
 ### Learning Strategies
-- **Mnemonic Device**: Think of **“Damyeo”** as an abbreviation for **“Reporting what someone Said”** to help remember its usage for reported speech.
-  
+- **Practice Conjugation**
+  - Create sentences using different verb types to get comfortable with conjugation rules.
+- **Listen and Repeat**
+  - Listen to native speakers (e.g., dramas, conversations) to understand the natural usage.
+- **Mnemonic Device**
+  - **"Hear and Confirm with 다며"**: Remember that **~다며** is used when you've *heard* something and want to *confirm* it.
+---
 ## 7. Summary and Review
 ### Key Takeaways
-- **~다며** is used to report what someone else has stated, implying a layer of quoting and conversation.
-- Understanding the context, formality, and differences between similar constructions is crucial for proper usage.
+- **~다며** is used to convey information heard from others, often to confirm or express surprise.
+- Conjugation varies based on verb types (action, descriptive, noun).
+- Best used in casual or informal contexts among peers.
+- Be cautious of verb conjugation rules to avoid misunderstandings.
 ### Quick Recap Quiz
-1. What does **~다며** imply in a sentence?
-2. How is **~다며** different from **~다고**?
-3. Provide an example sentence using **~다며** in a context of your choice.
-Feel free to ask for more examples or clarifications regarding **~다며**!
+1. **Conjugate the action verb 읽다 (to read) using ~다며.**
+   **Answer**: 읽는다며
+2. **Translate into Korean**: "I heard you're learning Korean?"
+   **Answer**: 너 한국어 배운다며?
+3. **Is it appropriate to use ~다며 with someone older in a formal setting?**
+   **Answer**: No, it's better to use a more formal expression like ~다고 들었습니다.
+4. **What is the difference between ~다며 and ~다면?**
+   **Answer**: **~다며** is used for hearsay or confirming information heard, while **~다면** is a conditional meaning "if."
+---
+By incorporating **~다며** into your Korean conversations, you'll be able to naturally confirm information and express curiosity, making your interactions more engaging and authentic.
+
+---
+© [Hanabira.org](https://hanabira.org)

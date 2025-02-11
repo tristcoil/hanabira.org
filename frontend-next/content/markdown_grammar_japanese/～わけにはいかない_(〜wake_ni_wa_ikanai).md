@@ -1,130 +1,131 @@
 Processing keyword: ～わけにはいかない (〜wake ni wa ikanai)
 # Japanese Grammar Point: ～わけにはいかない (〜wake ni wa ikanai)
-# Grammar Point: ～わけにはいかない (〜wake ni wa ikanai)
-## Introduction
-The Japanese expression ～わけにはいかない (〜wake ni wa ikanai) is used to indicate a situation where something cannot or should not occur due to certain obligations, responsibilities or moral considerations. It often conveys a sense of necessity or constraint.
-## Core Grammar Explanation
-### Detailed Explanation
-1. **Meaning**: The expression conveys the idea that one cannot do something because of a specific reason or obligation.
-2. **Structure**: 
-   - **Base Form**: Verb (Dictionary form) + わけにはいかない
-   - This structure means "I cannot do [verb] because [reason]."
-3. **Formation Diagram**:
-   - **Structure**: 
-     - **Base Verb** → [Dictionary Form] + わけにはいかない
-     - Example: 食べる → 食べるわけにはいかない
-### Visual Aid
-| Verb Type       | Example                | Structure                       | Translation                     |
-|------------------|-----------------------|----------------------------------|---------------------------------|
-| Verb (dictionary form) | 行く (iku)       | 行くわけにはいかない             | I cannot go (due to a reason)  |
-| Verb (dictionary form) | 買う (kau)      | 買うわけにはいかない             | I cannot buy (due to a reason) |
-| Verb (dictionary form) | 助ける (tasukeru) | 助けるわけにはいかない           | I cannot help (due to a reason) |
-## Comparative Analysis
-### Comparison with Similar Grammar
-1. **〜できない (〜dekinai)**: This indicates inability but does not imply any moral or obligation-based reason. For example, "行けない" (ikerenai) means "I can't go" without an implied reason.
-2. **〜ないわけにはいかない (〜nai wake ni wa ikanai)**: It indicates that one must do something due to circumstances or obligations, the opposite implication of "not being able to." For example, "行かないわけにはいかない" (ikanai wake ni wa ikanai) means "I have to go."
-## Examples in Context
-### Sentence Examples
-1. **Formal**: 
-   - この仕事は明日までに終わらせるわけにはいかない。(Kono shigoto wa ashita made ni owaraseru wake ni wa ikanai.)
-   - "I cannot leave this job unfinished by tomorrow."
-   
-2. **Informal**: 
-   - 友達の誕生日を忘れるわけにはいかないよ。(Tomodachi no tanjoubi wo wasureru wake ni wa ikanai yo.)
-   - "I can't forget my friend's birthday!"
-3. **Written**:
-   - この問題に対して無視するわけにはいかない。(Kono mondai ni taishite mushi suru wake ni wa ikanai.)
-   - "I cannot ignore this issue."
-4. **Spoken**: 
-   - 今日は手伝わないわけにはいかないよね。(Kyou wa tetsudawanai wake ni wa nainai yo ne.)
-   - "I can't not help out today, right?"
-## Cultural Notes
-### Cultural Relevance
-- The use of this grammar point reflects Japanese values emphasizing responsibility and obligations to others. 
-- Understanding when to use this form shows an appreciation of social norms and the importance placed on commitments in Japanese society.
-### Idiomatic Expressions
-- There are common phrases that might utilize this structure in traditional contexts, such as:
-    - 行くわけにはいかないが、心は一緒にいます。(Iku wake ni wa ikanai ga, kokoro wa issho ni imasu.)
-    - "I cannot go, but my heart is with you."
-## Common Mistakes and Tips
-### Error Analysis
-- Often learners misuse this form by using it when stating simple inability rather than moral or situational obligation. Ensure that the context involves a reason for the inability.
-  
-### Learning Strategies
-- **Mnemonic Device**: Pair this structure with situations that require obligations or morals, such as work responsibilities, friendships, etc.
-## Summary and Review
-### Key Takeaways
-- The expression ～わけにはいかない is crucial for conveying moral obligations and reasons.
-- It is formed by taking the dictionary form of a verb and adding わけにはいかない, indicating that the action cannot be performed due to the reason explained.
-### Quick Recap Quiz
-1. How do you form the structure of ～わけにはいかない?
-2. What is the difference between ～わけにはいかない and 〜できない?
-3. Provide an example of a sentence using the expression ～わけにはいかない.
-Processing keyword: ～わけにはいかない (〜wake ni wa ikanai)
-# Japanese Grammar Point: ～わけにはいかない (〜wake ni wa ikanai)
-# Grammar Point: ～わけにはいかない (～wake ni wa ikanai)
+
 ## 1. Introduction
-The expression "～わけにはいかない" (～wake ni wa ikanai) is a common Japanese grammatical structure used to express that one cannot do something, often due to moral, social, or practical reasons. 
+In this lesson, we'll explore the Japanese grammar point **～わけにはいかない (〜wake ni wa ikanai)**. This expression is used to convey situations where one **cannot do something due to social norms, moral obligations, or pressing circumstances**. Understanding this grammar point will help you express a sense of duty or inability to act in a certain way in Japanese.
 ## 2. Core Grammar Explanation
-### Detailed Explanation
-- **Meaning**: This grammar point conveys the idea that there are compelling reasons not to do something. It suggests that the speaker feels a duty, obligation, or constraint that prevents them from acting in a particular way.
-  
-- **Structure**: 
-  - The basic structure is: 
-    - Verb (non-past form) + わけにはいかない
-  - This implies that the speaker has considered the action and found it unacceptable to proceed.
+### Meaning
+The phrase **～わけにはいかない** translates roughly to:
+- "Cannot (do something)"
+- "Must not (do something)"
+- "Have no choice but to not (do something)"
+It implies that there are **compelling reasons or obligations** preventing someone from performing an action, even if they might want to.
+### Structure
+The structure of **～わけにはいかない** varies slightly depending on whether you are using the **affirmative** or **negative** form of the verb.
+#### Formation
+| Verb Form          | Structure                           | Meaning                                        |
+|--------------------|-------------------------------------|------------------------------------------------|
+| **Affirmative Verb**   | **Verb Dictionary Form** + わけにはいかない     | Cannot do (due to social/moral reasons)        |
+| **Negative Verb**     | **Verb ない-form** + わけにはいかない     | Cannot not do / Must do (obligated to do)      |
+- **Verb Dictionary Form**: The plain form of the verb (e.g., 行く, 食べる)
+- **Verb ない-form**: The negative form of the verb (e.g., 行かない, 食べない)
 ### Formation Diagram
-```
-        Verb (non-past form)
-               ↓
-   +--------------------------+
-   |   わけにはいかない       |
-   +--------------------------+
-```
+1. **Using an Affirmative Verb**
+   ```
+   [Verb Dictionary Form] + わけにはいかない
+   ```
+   - Example: **行くわけにはいかない** ("I cannot go")
+2. **Using a Negative Verb**
+   ```
+   [Verb ない-form] + わけにはいかない
+   ```
+   - Example: **行かないわけにはいかない** ("I cannot not go" → "I must go")
+### Usage Notes
+- This expression is often used when the speaker feels **compelled or obliged** to act (or not act) due to external factors like social expectations or personal convictions.
+- It emphasizes that **not acting** (or acting) would lead to negative consequences or go against one's principles.
 ## 3. Comparative Analysis
-- **Similar Expressions**:
-  - **～わけがない (wake ga nai)**: Means "cannot possibly" and is often used to deny the possibility of something happening. 
-    - *Example*: そんなことはできるわけがない。 (It's impossible to do such a thing.)
-  - **～ことができない (koto ga dekinai)**: Means "cannot do" and is a more straightforward expression of inability without the nuance of obligation or reasoning.
-    - *Example*: 私は泳ぐことができない。 (I cannot swim.)
-**Key Difference**: 
-- "～わけにはいかない" implies a strong reason for inaction, whereas "～ことができない" simply states inability.
+### Comparison with Similar Grammar Points
+#### **～ことができない** vs **～わけにはいかない**
+- **～ことができない** means "cannot do" in terms of **ability** or **possibility**.
+  - Example: 日本語が話せない。("I cannot speak Japanese.")
+- **～わけにはいかない** implies **social/moral reasons** for not doing something, not just ability.
+  - Example: 彼の秘密を話すわけにはいかない。("I cannot tell his secret.")
+#### **～てはいけない** vs **～わけにはいかない**
+- **～てはいけない** is a strong prohibition meaning "must not do".
+  - Example: ここでタバコを吸ってはいけない。("You must not smoke here.")
+- **～わけにはいかない** conveys a **personal sense of obligation**, rather than an imposed rule.
+  - Example: 明日試験があるので、遊ぶわけにはいかない。("I cannot play because I have an exam tomorrow.")
 ## 4. Examples in Context
 ### Sentence Examples
-- **Formal**: 
-  - この約束を守らないわけにはいきません。 
-    - (I cannot go back on this promise.)
-  
-- **Informal**: 
-  - 今、寝るわけにはいかないよ。 
-    - (I can’t go to sleep right now.)
-- **Written**: 
-  - そんな重大な決定を、急いで決めるわけにはいかない。
-    - (I cannot make such an important decision in haste.)
-- **Spoken**: 
-  - 彼に謝るわけにはいかないんだ。
-    - (I can’t apologize to him.)
-## 5. Cultural Notes 
+#### Formal Context
+1. **教授の前で遅刻するわけにはいきません。**
+   *Kyōju no mae de chikoku suru wake ni wa ikimasen.*
+   - *Translation*: "I can't be late in front of the professor."
+2. **この大事な会議を欠席するわけにはまいりません。**
+   *Kono daijina kaigi o kesseki suru wake ni wa mairimasen.*
+   - *Translation*: "I simply cannot be absent from this important meeting."
+#### Informal Context
+3. **親に嘘をつくわけにはいかないよ。**
+   *Oya ni uso o tsuku wake ni wa ikanai yo.*
+   - *Translation*: "I can't lie to my parents."
+4. **約束を破るわけにはいかない。**
+   *Yakusoku o yaburu wake ni wa ikanai.*
+   - *Translation*: "I can't break my promise."
+#### Negative Verb Form (Expressing Obligation)
+5. **行かないわけにはいかない。**
+   *Ikanai wake ni wa ikanai.*
+   - *Translation*: "I must go." (Literally: "I cannot not go.")
+6. **やらないわけにはいかない状況だ。**
+   *Yaranai wake ni wa ikanai jōkyō da.*
+   - *Translation*: "I'm in a situation where I must do it."
+### Contextual Usage
+- **Social Obligation**: When you feel obligated due to societal expectations.
+- **Moral Duty**: When your own principles prevent you from acting otherwise.
+- **Situational Pressure**: Immediate circumstances that compel action.
+## 5. Cultural Notes
 ### Cultural Relevance
-In Japanese culture, the concept of obligation and responsibility is crucial. Using this expression often reflects the speaker's awareness of social norms and personal duties. It is the recognition of one’s role in society that affects their decisions.
-### Levels of Politeness
-While this phrase can be used in both formal and informal contexts, it is important to consider the situation—maintaining a sense of politeness and respect, particularly when discussing obligations and duties.
+In Japanese culture, there is a strong emphasis on **social harmony** and **fulfilling one's role** within a group. The phrase **～わけにはいかない** reflects this by expressing an inability to act against **social norms** or **obligations**.
+### Levels of Politeness and Formality
+- The expression can be made more polite by using formal verb forms or adding polite expressions.
+- For very formal situations, replace **いけない** with **まいりません**.
+  - Example: **するわけにはまいりません。**
 ### Idiomatic Expressions
-- **使わないわけにはいかない** (tsukawanai wake ni wa ikanai): "It cannot be avoided to use [something]."
+- **笑うわけにはいかない**
+  *Warau wake ni wa ikanai*
+  - *Translation*: "I can't afford to laugh." (It's not appropriate to laugh)
+- **黙っているわけにはいかない**
+  *Damatte iru wake ni wa ikanai*
+  - *Translation*: "I can't stay silent."
 ## 6. Common Mistakes and Tips
-### Error Analysis
-- **Mistake**: Mixing up with "～ことができない".
-    - Thinking "～わけにはいかない" simply means "cannot" without realizing the nuance of obligation.
-    
+### Common Errors
+1. **Confusing with Ability**
+   - Incorrect: お金がないから、買うわけにはいかない。
+     *(Because I have no money, I cannot buy it.)*
+   - Correction: お金がないから、買えない。
+     *(Because I have no money, I can't buy it.)*
+   - **Tip**: Use **～わけにはいかない** for **social/moral obligations**, not for **physical inability**.
+2. **Misusing Negative Form**
+   - Incorrect: 行かないわけにはいかないです。
+     *(Using polite negative twice)*
+   - Correction: 行かないわけにはいきません。
+     *(Use polite form only in **いかない** or **いきません**, not both)*
 ### Learning Strategies
-- **Mnemonic Device**: Remember “wake” as “reason” to help recall it’s about the rationale behind why you cannot do something.
+- **Remember the Double Negative**: When using the negative verb form, you're expressing a double negative ("cannot not go"), which means you **must do** something.
+- **Think of Social Contexts**: Apply this grammar point in situations involving obligations to others or societal expectations.
 ## 7. Summary and Review
 ### Key Takeaways
-- "～わけにはいかない" expresses a compelling reason not to do something.
-- It highlights obligations or social expectations that influence behavior.
-- Use it carefully, respecting contexts and levels of politeness.
+- **～わけにはいかない** is used to express that one **cannot do** something due to social, moral, or situational reasons.
+- The structure is either **Verb Dictionary Form + わけにはいかない** or **Verb ない-form + わけにはいかない**.
+- It reflects the speaker's sense of **duty** or **obligation**.
 ### Quick Recap Quiz
-1. What does "～わけにはいかない" imply?
-2. How would you express "I cannot make such a decision hastily" using "～わけにはいかない"?
-3. Compare "～わけにはいかない" and "～ことができない". What is the key difference?
-Remember, mastering such expressions enhances your fluency and sensitivity to Japanese culture!
+1. **Fill in the blank:**
+   大雨だけど、仕事に行かない______。
+   *Ōame dakedo, shigoto ni ikanai ______.*
+   - **Answer**: わけにはいかない
+2. **True or False:**
+   **～わけにはいかない** can be used to express physical inability to do something.
+   - **Answer**: False
+3. **Choose the correct usage:**
+   Which sentence correctly uses **～わけにはいかない**?
+   a) 時間がないから、待つわけにはいかない。
+   b) 疲れたから、寝るわけにはいかない。
+   - **Answer**: a) 時間がないから、待つわけにはいかない。
+     *(Because I don't have time, I can't wait.)*
+
+---
+Feel free to revisit this lesson and practice using **～わけにはいかない** in your own sentences to become more comfortable with expressing obligations in Japanese!
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

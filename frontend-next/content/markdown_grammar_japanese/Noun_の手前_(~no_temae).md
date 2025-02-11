@@ -1,70 +1,133 @@
 Processing keyword: Noun の手前 (~no temae)
 # Japanese Grammar Point: Noun の手前 (~no temae)
-# Noun の手前 (~no temae)
+
 ## 1. Introduction
-The expression "Noun の手前" (Noun no temae) is used in Japanese to refer to the area in front of something or someone. This expression can be literally translated as "in front of (the noun)." It is commonly used in both physical contexts and metaphorical situations. 
+**Grammar Point:** Noun の手前 (〜のてまえ)
+**JLPT Level:** N2
+The expression **「Noun の手前」** is a Japanese grammar pattern used to convey a sense of obligation or restraint due to social circumstances or the presence of others. It reflects the speaker's consideration of social norms, expectations, or reputation.
 ## 2. Core Grammar Explanation
-### Detailed Explanation
-- **Meaning**: The construction "Noun の手前" indicates a location or a point in front of something (the noun). This can refer to physical spaces, events in time, or positions in a sequence.
-- **Structure**: 
-  - **Noun**: This is the subject you refer to, like 人 (hito - person), 家 (ie - house), or 車 (kuruma - car).
-  - **の**: This possessive particle connects the noun to "手前" (temae).
-  - **手前 (temae)**: It means "in front of" or "before" and indicates the area in front of the preceding noun.
+## Meaning
+**「Noun の手前」** implies that because of a certain situation or person, one feels compelled to act (or refrain from acting) in a particular way to maintain appearances or avoid embarrassment.
+- **English equivalents:** 
+  - "In front of..."
+  - "Seeing that..."
+  - "Since..."
+  - "Given that..."
+  - "Because (I have to save face in front of)..."
+## Structure
+The structure of this grammar point is straightforward:
+```
+Noun + の手前
+```
+- **Noun:** The person, group, or situation in front of whom the action is considered.
+- **の手前:** Indicates the reason for the speaker's consideration or restraint.
 ### Formation Diagram
-```
-Noun + の + 手前
-Example: 
-学校の手前 (gakkou no temae) → "in front of the school"
-```
+
+| Component | Example | 
+|-----------|---------|
+| Noun      | 先生     |
+| の        | の       |
+| 手前     | 手前     |
+
+**Combination:** 先生 **の手前**
+
+## Usage
+- Used to express feelings of obligation, embarrassment, or restraint due to social expectations.
+- Often conveys that the speaker must act a certain way to maintain reputation or avoid causing offense.
+- Common in both spoken and written Japanese, especially in formal or polite contexts.
 ## 3. Comparative Analysis
-- **Comparable Expressions**: 
-  - "Noun の前" (Noun no mae): Similar in meaning but more focused on "before" in a temporal sense or “in front of” in an immediate context. 
-  - **Example**: 
-    - 学校の前 (gakkou no mae) → "in front of the school" (more temporal).
-    
-- **Difference**: While both expressions indicate location, "手前" tends to emphasize not just the proximity but also the essence of space, perhaps hinting at movement or action related to that space.
+### 「Noun の前で」 vs. 「Noun の手前」
+- **Noun の前で:** Literally means "in front of [Noun]." It describes a physical location or presence.
+  - *Example:* 子供の前で喧嘩をするべきではない。("We shouldn't fight in front of the children.")
+- **Noun の手前:** Implies social considerations or obligations due to [Noun].
+  - *Example:* 子供の手前、喧嘩をやめた。("We stopped fighting for the sake of the children.")
+### 「Noun のために」 vs. 「Noun の手前」
+- **Noun のために:** Means "for [Noun]" or "for the sake of [Noun]." It indicates purpose or benefit.
+  - *Example:* 家族のために働いている。("I work for the sake of my family.")
+- **Noun の手前:** Emphasizes social pressure or expectations rather than direct purpose.
+  - *Example:* 上司の手前、早く帰ることができない。("I can't go home early in front of my boss (because it would look bad).")
 ## 4. Examples in Context
-### Sentence Examples
-1. **Formal**:
-   - 会議の手前に資料を準備します。
-   - (Kaigi no temae ni shiryō o junbi shimasu.)
-   - "I will prepare the materials in front of the meeting."
-2. **Informal**:
-   - 駅の手前で友達と待ち合わせるね。
-   - (Eki no temae de tomodachi to machiawaseru ne.)
-   - "Let’s meet in front of the station."
-3. **Written**:
-   - 彼の家の手前に大きな木があります。
-   - (Kare no ie no temae ni ōkina ki ga arimasu.)
-   - "There is a big tree in front of his house."
-4. **Spoken**:
-   - バス停の手前に郵便局があるよ。
-   - (Basutei no temae ni yūbinkyoku ga aru yo.)
-   - "There’s a post office in front of the bus stop."
+### Example 1: Workplace Formality
+**Japanese:** 部下の手前、失敗は許されない。
+**Romaji:** Buka no temae, shippai wa yurusarenai.
+**English Translation:** Since I'm in front of my subordinates, mistakes are unacceptable.
+
+---
+### Example 2: Social Reputation
+**Japanese:** 約束した手前、行かないわけにはいかない。
+**Romaji:** Yakusoku shita temae, ikanai wake ni wa ikanai.
+**English Translation:** Because I promised, I have no choice but to go.
+
+---
+### Example 3: Family Expectations
+**Japanese:** 親の手前、そんな恥ずかしいことはできない。
+**Romaji:** Oya no temae, sonna hazukashii koto wa dekinai.
+**English Translation:** I can't do something so embarrassing in front of my parents.
+
+---
+### Example 4: Classroom Etiquette
+**Japanese:** 生徒たちの手前、遅刻するわけにはいかない。
+**Romaji:** Seito-tachi no temae, chikoku suru wake ni wa ikanai.
+**English Translation:** I can't be late in front of the students.
+
+---
+### Example 5: Social Gatherings
+**Japanese:** 友人たちの手前、弱音を吐くわけにはいかない。
+**Romaji:** Yūjin-tachi no temae, yowane o haku wake ni wa ikanai.
+**English Translation:** I can't complain in front of my friends.
 ## 5. Cultural Notes
-### Cultural Relevance
-- In Japanese culture, spatial orientation holds significance, especially in public communication and directions. Being specific about locations helps convey clarity and respect for the listener’s understanding.
-  
-### Levels of Politeness and Formality
-- Usage of "の手前" is neutral but can be adjusted by changing verb forms or adding polite expressions based on context.
-### Idiomatic Expressions
-- While "手前" itself isn't commonly used in idiomatic expressions, it's structural in casual directions and descriptions of location.
+## Cultural Relevance
+In Japanese culture, social harmony and maintaining face are highly valued. The expression **「Noun の手前」** reflects the importance of:
+- **Avoiding embarrassment:** Acting appropriately to not shame oneself or others.
+- **Group consciousness:** Considering how actions affect the group's perception.
+- **Hierarchy and relationships:** Acknowledging social statuses, such as superiors, subordinates, family, and peers.
+## Idiomatic Expressions
+While **「Noun の手前」** is itself an idiomatic expression, it's often used with phrases like **「〜わけにはいかない」** to emphasize inability to act against social expectations.
+- **Example:** お客様の手前、そんな失礼なことは言えない。
+  - *"I can't say something so rude in front of the customers."*
 ## 6. Common Mistakes and Tips
-### Error Analysis
-- A common mistake is confusing "手前" with "前," as learners may default to the simpler form without realizing the nuances of proximity and context.
-  
-### Learning Strategies
-- **Mnemonic Device**: Remember "手前" as "the front (temae) of the noun area" to reinforce the relationship of space.
+## Common Mistakes
+1. **Confusing with Physical Location:**
+   - Mistakenly using **「の手前」** when **「の前で」** (in front of) is appropriate.
+     - *Incorrect:* 駅の手前で待っています。
+     - *Correct:* 駅の前で待っています。
+     - *Explanation:* Here, it refers to physical location, so **「の前で」** is correct.
+2. **Misplacing the Noun:**
+   - Placing the noun after **「手前」** instead of before.
+     - *Incorrect:* 手前の友達、そんなことはできない。
+     - *Correct:* 友達の手前、そんなことはできない。
+## Tips
+- **Remember the order:** The noun indicating the social reference point always comes before **「の手前」**.
+- **Context matters:** Use this expression when social expectations influence actions.
+- **Pair with appropriate verbs:** Commonly used with phrases expressing inability, obligation, or restraint like **「〜わけにはいかない」**.
 ## 7. Summary and Review
-### Key Takeaways
-- "Noun の手前" indicates a location in front of something.
-- It emphasizes spatial relationships, both physically and metaphorically.
-- Distinguishing between "手前" and "前" helps in achieving precision in communication.
-### Quick Recap Quiz
-1. What does "学校の手前" mean?
-2. How does "の手前" differ from "の前"?
-3. Give an informal example using "の手前."
-**Answers:**
-1. "In front of the school."
-2. "の手前" emphasizes space and context, while "の前" can imply temporal placement.
-3. Example: (Students’ responses may vary; ensure "の手前" is used correctly.)
+## Key Takeaways
+- **「Noun の手前」** is used to express a sense of obligation or restraint due to social expectations associated with the noun.
+- It reflects cultural values of maintaining social harmony and face.
+- Not to be confused with physical expressions like **「の前で」**.
+- Commonly paired with phrases indicating necessity or inability to act contrary to expectations.
+## Quick Recap Quiz
+1. **Fill in the blank:**
+   上司______、この仕事を失敗するわけにはいかない。
+   - A) の前で
+   - B) のために
+   - C) の手前
+2. **True or False:**
+   **「友達の手前」** means "in front of the station."
+3. **Choose the correct usage:**
+   Which sentence correctly uses **「Noun の手前」**?
+   - A) 映画の手前、食事をした。
+   - B) 子供の手前、タバコを吸うのをやめた。
+   - C) 授業の手前、図書館に行った。
+
+### Answers:
+1. **C) の手前**
+2. **False**
+3. **B) 子供の手前、タバコを吸うのをやめた。**
+---
+**Congratulations!** You've learned how to use **「Noun の手前」** to express social obligations and considerations in Japanese.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

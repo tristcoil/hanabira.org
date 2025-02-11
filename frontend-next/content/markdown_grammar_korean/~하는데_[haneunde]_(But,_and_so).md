@@ -1,73 +1,123 @@
 Processing keyword: ~하는데 [haneunde] (But, and so)
 # Korean Grammar Point: ~하는데 [haneunde] (But, and so)
-# Grammar Point: ~하는데 [haneunde] (But, and so)
+
 ## 1. Introduction
-In Korean, the grammar point ~하는데 is used to connect clauses or sentences, often providing contrast or additional information. It can be translated as "but," "and," or "so," depending on the context.
+The grammatical structure **~하는데** is a versatile and commonly used connective in Korean. It serves multiple functions such as showing contrast ("but"), providing background information ("and"), or indicating a cause or reason ("so"). Understanding how to use **~하는데** will greatly enhance your ability to create complex and natural sentences in Korean.
+
+---
 ## 2. Core Grammar Explanation
-### Detailed Explanation
-- **Meaning**: ~하는데 is used to provide background information or contrast between two clauses.
-- **Structure**:
-  - This form combines a verb stem (가다, 먹다, etc.) with ~는데 (는 in present tense and ~ㅂ니다 for formal).
-  - For adjectives, you would use the descriptive form + ~는 데 (e.g., 예쁘다 -> 예쁜데).
-  
-### Formation Diagram
+### Meaning and Usage
+The suffix **~는데** (attached to verbs) is used to:
+- **Express contrast** between two clauses: "but"
+- **Provide background information** or set the scene: "and"
+- **Indicate a cause or reason** leading to a result: "so"
+### Structure and Formation
+#### How to Attach **~는데** to Verbs
+1. **Action Verbs**:
+   - **Verb Stem** + **는데**
+   - Example: 먹다 (to eat) → 먹는데
+2. **Descriptive Verbs (Adjectives)**:
+   - If the stem ends with a vowel and ends with **있다/없다**:
+     - **Verb Stem** + **는데**
+     - Example: 재미있다 (to be interesting) → 재미있는데
+   - If the stem ends with a consonant:
+     - **Verb Stem** + **은데**
+     - Example: 작다 (to be small) → 작은데
+   - If the stem ends with a vowel:
+     - **Verb Stem** + **ㄴ데**
+     - Example: 크다 (to be big) → 큰데
+#### Formation Diagram
+Here is a simple diagram to illustrate the formation:
+| Verb Type          | Ending Condition          | Suffix     | Example Verb | Result    |
+|--------------------|---------------------------|------------|--------------|-----------|
+| Action Verb        | Any                       | ~는데      | 하다          | 하는데     |
+| Descriptive Verb   | Stem ends with vowel      | ~ㄴ데      | 예쁘다        | 예쁜데     |
+| Descriptive Verb   | Stem ends with consonant  | ~은데      | 맛있다        | 맛있는 데  |
+| Descriptive Verb   | 있다/없다 verbs           | ~는데      | 있다          | 있는데     |
+### Visual Aid: Usage Flowchart
 ```
-Verb Stem + 는데
-Example: 가다 (to go) → 가는데 (goes but/and)
+    A[Start] --> B{Verb Type}
+    B --> C[Action Verb]
+    B --> D[Descriptive Verb]
+    C --> E[Verb Stem + 는데]
+    D --> F{Stem Ending}
+    F --> G[Ends with Vowel: Stem + ㄴ데]
+    F --> H[Ends with Consonant: Stem + 은데]
+    F --> I[있다/없다: Stem + 는데]
 ```
-```
-Adjective Stem + 는데
-Example: 예쁘다 (to be pretty) → 예쁜데 (is pretty but/and)
-```
+---
 ## 3. Comparative Analysis
-~하는데 vs. ~지만
-- **~하는데** is more versatile and can imply additional background information or context.
-- **~지만** is more straightforwardly contrasting, as in "but."
-### Comparison Table
-| Grammar Point | Usage                                   | Example                |
-|---------------|-----------------------------------------|------------------------|
-| ~하는데       | To provide context or contrast          | 나는 한국어를 공부하는데, 어려워요. (I study Korean, but it's hard.) |
-| ~지만         | To present a direct contrast            | 나는 한국어를 공부하지만, 어려워요. (I study Korean, but it's hard.) |
+### Comparing **~는데** with Other Connectives
+| Grammar Point | Meaning           | Usage                                |
+|---------------|-------------------|--------------------------------------|
+| ~지만         | But               | Direct contrast between clauses      |
+| ~는데         | But/And/So        | Contrast, background, or reason      |
+| ~니까         | Because/So        | Indicates reason or logical sequence |
+- **~지만** is used strictly for opposition, while **~는데** is more versatile.
+- **~니까** explicitly states a reason, whereas **~는데** can imply it.
+---
 ## 4. Examples in Context
-### Sentence Examples
-1. **Formal Context**:
-   - 저는 지금 할 일이 많은데, 나중에 전화해도 될까요?
-   - (I have a lot of work to do right now, but can I call you later?)
-2. **Informal Context**:
-   - 오늘은 너무 덥는데, 바다에 갈까?
-   - (It’s too hot today, so shall we go to the beach?)
-3. **Written Context**:
-   - 한국어는 재미있는데, 배우기가 쉽지는 않다.
-   - (Korean is interesting, but it is not easy to learn.)
-4. **Spoken Context**:
-   - 비가 오는데, 우산 챙겼어?
-   - (It’s raining, but did you bring an umbrella?)
+### Example Sentences
+1. **Expressing Contrast (But):**
+   - **Sentence:** 저는 한국어를 배우는데 친구는 일본어를 배워요.
+   - **Translation:** I am learning Korean, but my friend is learning Japanese.
+2. **Providing Background (And):**
+   - **Sentence:** 날씨가 추운데 코트를 입으세요.
+   - **Translation:** It's cold (and so) please wear a coat.
+3. **Indicating Reason (So):**
+   - **Sentence:** 시간이 없는데 빨리 갑시다.
+   - **Translation:** We don't have time, so let's go quickly.
+4. **Asking for Explanation or Softening Statements:**
+   - **Sentence:** 이거 좋은데 어디서 샀어요?
+   - **Translation:** This is nice; where did you buy it?
+5. **Starting a Conversation or Changing Topic:**
+   - **Sentence:** 그런데 무슨 일이 있어요?
+   - **Translation:** By the way, is there something going on?
+### Formal vs. Informal Usage
+- **Formal:**
+  - 저는 지금 바쁜데요. 나중에 이야기합시다.
+  - *I am busy now. Let's talk later.*
+- **Informal:**
+  - 나 지금 가는데, 같이 갈래?
+  - *I'm going now, do you want to go together?*
+---
 ## 5. Cultural Notes
-### Cultural Relevance
-Korean society values indirectness and subtlety in communication, and the use of ~하는데 reflects this by allowing speakers to provide context without sounding confrontational. This grammar point is often used in everyday conversation to soften statements.
 ### Levels of Politeness
-- Using ~하는데 in casual conversations is common among friends.
-- In formal situations, maintaining a polite tone is important. You may add 더라고요 (deoragoyo) to express past experiences and opinions.
+- Adding **요** at the end (**~는데요**) makes the expression polite.
+- Using **~는데요** can soften a statement, making it less direct and more appropriate in formal situations.
 ### Idiomatic Expressions
-- 아직 시작도 안 했는데, 벌써 걱정하니?
-  - (You’re worried already, but we haven’t even started yet?)
+- **그런데 (~는데의 shortened form):** Often used to mean "by the way" or "however."
+  - Example: **그런데 이게 뭐예요?**
+  - Translation: *By the way, what is this?*
+---
 ## 6. Common Mistakes and Tips
-### Error Analysis
-- Learners often confuse ~하는데 with ~지만, leading to misunderstandings in nuances.
-- Another common mistake is neglecting the proper consonant/vowel ending before ~는데 or ~잖아요.
-### Learning Strategies
-- Remember that ~하는데 can be used to transition into more information. A good mnemonic is: "Connecting dots with 'and, but'."
-  
+### Common Errors
+1. **Incorrect Attachment:**
+   - Wrong: 먹다 + 은데 → 먹은데 ❌
+   - Correct: 먹다 + 는데 → 먹는데 ✅
+2. **Confusing with **~지만**:**
+   - Mixing up usages of **~는데** and **~지만**.
+### Tips to Remember
+- **For Action Verbs:** Always use **~는데**.
+- **For Descriptive Verbs:** Pay attention to the stem ending.
+- **Mnemonic Device:** "**N**ext action with **는데**" – Think of **~는데** as connecting to what comes next.
+---
 ## 7. Summary and Review
 ### Key Takeaways
-- ~하는데 connects clauses, providing contrasting or additional information.
-- It is a versatile grammar point used both in spoken and written language.
-- Understanding the nuance between ~하는데 and other conjunctions like ~지만 is crucial for mastery.
+- **~하는데** is used to express "but," "and," or "so" depending on context.
+- It connects clauses smoothly and is essential for natural Korean speech.
+- Pay attention to the type of verb and its stem ending when attaching **~는데**.
 ### Quick Recap Quiz
-1. Which form of ~하는데 would you use with the verb "하다"?
-   - (Answer: 하는데)
-2. Translate: "I went to the store, but it was closed."
-   - (Answer: 가게에 갔는데, 닫혀 있었어요.)
-3. True or False: ~하지만 is used for providing background information.
-   - (Answer: False)
-By grasping the usage of ~하는데, you’ll enhance your ability to connect thoughts and convey subtleties in conversation effectively.
+1. How do you attach **~는데** to an action verb ending with a vowel?
+2. Which connective is more versatile, **~는데** or **~지만**, and why?
+3. Translate the following sentence: *비가 오는데 우산을 가져가세요.*
+
+**Answers:**
+1. Verb Stem + **는데** (e.g., 하다 → 하는데)
+2. **~는데** is more versatile because it can mean "but," "and," or "so" depending on context.
+3. "It's raining, so please take an umbrella."
+---
+*By mastering **~하는데**, you've taken another step towards fluency in Korean! Keep practicing by creating your own sentences using this grammar point.*
+
+---
+© [Hanabira.org](https://hanabira.org)

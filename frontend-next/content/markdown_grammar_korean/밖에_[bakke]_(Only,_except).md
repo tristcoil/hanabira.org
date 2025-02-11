@@ -1,69 +1,113 @@
 Processing keyword: 밖에 [bakke] (Only, except)
 # Korean Grammar Point: 밖에 [bakke] (Only, except)
-# Korean Grammar Point: 밖에 [bakke] (Only, Except)
+
 ## 1. Introduction
-In Korean, the expression "밖에 [bakke]" is commonly used to indicate exclusivity, meaning "only" or "except." It emphasizes that there is nothing in addition to what is mentioned.
+In Korean, **밖에** is a particle used to express limitation, similar to "only" or "nothing but" in English. It emphasizes that there's nothing more than what is stated, often conveying a sense of insufficiency or exclusivity. Unlike some other particles, **밖에** is always used with negative verbs.
+
+---
 ## 2. Core Grammar Explanation
+### Meaning
+**밖에** indicates that there is nothing besides the noun it follows. It emphasizes that the subject performs an action **only** related to that noun, often highlighting a lack or limitation.
+### Structure
+The general structure for using **밖에** is:
+```
+[Noun] + 밖에 + [Negative Verb]
+```
+### Formation Diagram
+```plaintext
+────────────    ────────    ───────────────
+  Noun          밖에         Negative Verb
+────────────    ────────    ───────────────
+```
 ### Detailed Explanation
-"밖에" is used with a noun (and often accompanied by a negative verb) to convey that something is limited to that one noun. The structure generally follows this format:
-**Structure:**
-```
-(Noun) + 밖에 + (Negative Verb)
-```
-### Meaning, Structure, Formation Diagram
-- **Meaning**: A limitation to one item; nothing more.
-- **Structure**: 
-  - Noun + 밖에 (only/except) + Negative Verb
-**Diagram:**
-```
-                               
-      [Noun]       +     밖에    +   [Negative Verb]
-        /                    |                \
-   "Using only"        "Outside"    "Not included in the rest"
-```
+- **Noun**: The item or subject that is limited.
+- **밖에**: Attached to the noun to mean "only" or "except".
+- **Negative Verb**: A verb in negative form (e.g., 안 가다, 못 하다, 없다).
+**Important Notes:**
+- **밖에** cannot be used with affirmative verbs. It must be used with negative forms to make sense.
+- The negative verb can be formed using 안, 못, -지 않다, -지 못하다, 없다, etc.
+---
 ## 3. Comparative Analysis
-"밖에" is often compared to "만 [man]" which also means "only." However, "만" can be used with both positive and negative forms, whereas "밖에" is primarily used with negative verbs. 
-**Comparison Table:**
-| Grammar Point | Usage                           | Example                       |
-|---------------|---------------------------------|-------------------------------|
-| 밖에 [bakke]  | Used only with negative verbs    | 사과밖에 없어요 (There is only an apple.) |
-| 만 [man]      | Used with positive and negative   | 사과만 있어요 (There is only an apple.)  |
+### 밖에 vs. 만
+Both **밖에** and **만** can translate to "only" in English, but they have nuanced differences:
+| Particle | Structure                    | Usage                                    |
+|----------|------------------------------|------------------------------------------|
+| **밖에**   | Noun + 밖에 + Negative Verb   | Emphasizes limitation with negation      |
+| **만**    | Noun + 만 + Verb              | Simply states "only" without negation    |
+**Example Comparison:**
+- **밖에 사용하지 못해요.**  
+  *I can only use (this) and nothing else.*
+- **만 사용해요.**  
+  *I use only (this).*
+**Nuance Difference:**
+- **밖에** often carries a sense of insufficiency or exclusivity.
+- **만** is neutral, just indicating "only" without additional connotations.
+---
 ## 4. Examples in Context
-### Sentence Examples
-1. **Formal**: 
-   - 서울에 가고 싶지만, 시간 밖에 없어요.
-     - "I want to go to Seoul, but I only have time."
- 
-2. **Informal**:
-   - 나는 돈이 밖에 없어.
-     - "I only have money."
-3. **Written**:
-   - 그 책 밖에 더 이상 읽은 것이 없습니다.
-     - "I haven’t read anything except that book."
-4. **Spoken**:
-   - 친구밖에 없어서 외로워.
-     - "I only have friends, so I feel lonely."
-## 5. Cultural Notes - If applicable
-In Korean culture, exclusivity is often highlighted in relationships and social interactions. Using "밖에" reflects how limited resources or relationships are perceived. Additionally, the levels of politeness vary, and usage in formal contexts is usually preferred when speaking to superiors or in public situations.
+### Example Sentences
+1. **물밖에 없어요.**  
+   *There's nothing but water.*
+2. **저는 한국어 조금밖에 못 해요.**  
+   *I can speak only a little Korean.*
+3. **그 사람은 일 생각밖에 안 해요.**  
+   *That person thinks about nothing but work.*
+4. **지금은 현금밖에 안 받아요.**  
+   *We accept only cash right now.*
+5. **시간이 5분밖에 없어요.**  
+   *We have only five minutes.*
+### Formal and Informal Contexts
+- **Informal:**  
+  **나중에 밖에 나갈 시간 없어.**  
+  *There's no time to go out later.*
+- **Formal:**  
+  **죄송하지만 지금은 예약 손님밖에 받지 않습니다.**  
+  *Sorry, but we're only accepting reservations at this time.*
+### Written and Spoken Contexts
+- **Spoken:**  
+  **배고픈데 라면밖에 없네.**  
+  *I'm hungry, but there's only ramen.*
+- **Written (e.g., in a notice):**  
+  **직원 전용입니다. 관계자 외에는 출입할 수 없어요.**  
+  *Staff only. Unauthorized persons are not allowed to enter.*
+---
+## 5. Cultural Notes
+### Cultural Relevance
+Using **밖에** appropriately reflects understanding of emphasis and nuance in Korean. It shows the speaker's ability to convey limitations or exclusivity in situations, which is important in Korean communication.
 ### Idiomatic Expressions
-- 누군가를 좋아하는데 다른 사람은 없고 그 사람밖에 없다.
-  - "I like someone, but there is no one else; only that person."
+- **눈꼽만큼밖에 없다**  
+  *There's only a tiny bit.* (Literally, "There's nothing but as much as eye booger.")
+- **생각밖에 없다**  
+  *I have no other thought (but one).*
+---
 ## 6. Common Mistakes and Tips
 ### Error Analysis
-A common mistake is to use "밖에" with affirmative verbs. Remember that it should always be paired with negative forms to convey the meaning of "only."
+- **Using 밖에 with Affirmative Verbs:**
+  Incorrect: **사과밖에 좋아해요.**  
+  Correct: **사과밖에 안 좋아해요.** (*I like only apples.*)
+- **Confusing 밖에 with 만:**
+  Be cautious about the nuance; **밖에** requires a negative verb and emphasizes limitation, whereas **만** is straightforward.
 ### Learning Strategies
-- **Mnemonic Device**: Think of "밖에" as "outside" of everything else. If you mention something "밖에," you are literally indicating nothing else is there beyond that point.
+- **Mnemonic Device:**
+  **밖에** sounds like *"bucket"* - Think of having a bucket with only that item and nothing else.
+- **Tip:**
+  Always pair **밖에** with a negative verb form to make grammatically correct sentences.
+---
 ## 7. Summary and Review
 ### Key Takeaways
-- "밖에" indicates exclusivity when used with a negative verb.
-- It is different from "만," which can be used with both positives and negatives.
-  
+- **밖에** means "only" or "nothing but" and emphasizes limitation.
+- It is always used with negative verbs.
+- It differs from **만**, which does not require a negative verb and is neutral.
 ### Quick Recap Quiz
-1. How do you use "밖에" in a sentence?
-2. What is the primary verb form that "밖에" should be combined with?
-3. How does "밖에" differ from "만"?
-### Answers: 
-1. Noun + 밖에 + Negative Verb
-2. Negative Verb
-3. "밖에" is used only with negative verbs, while "만" can be used with both forms. 
-Feel free to practice forming sentences using "밖에" in your conversations!
+1. What particle would you use to say "I only eat vegetables" emphasizing limitation?
+   a) 만  
+   b) 밖에
+2. Fill in the blank: 시간은 조금___ 없어요.
+3. True or False: 밖에 can be used with affirmative verbs.
+
+**Answers:**
+1. **b) 밖에**
+2. **밖에** (시간은 조금**밖에** 없어요.)
+3. **False**
+
+---
+© [Hanabira.org](https://hanabira.org)

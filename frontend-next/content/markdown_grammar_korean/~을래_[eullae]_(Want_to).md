@@ -1,71 +1,109 @@
 Processing keyword: ~을래 [eullae] (Want to)
 # Korean Grammar Point: ~을래 [eullae] (Want to)
-# Grammar Point: ~을래 [eullae] (Want to)
+
 ## 1. Introduction
-The grammar point ~을래 is commonly used in Korean to express a desire or intention to do something. It's a casual and somewhat informal way of saying "I want to..." or "Do you want to..." and is often used in everyday conversations among friends or peers.
----
+In this lesson, we'll explore the Korean grammar point **~을래** (*~eullae*), which is used to express the speaker's intention or desire to do something. It's a common and colloquial way to say "I want to..." or "Would you like to...?" in everyday conversations.
 ## 2. Core Grammar Explanation
-### Detailed Explanation
-- **Meaning**: ~을래 indicates a desire or intention to perform an action. It's often used when asking someone if they want to do something together or expressing personal intent.
-### Structure
-- The structure of ~을래 is based on the verb stem. If the verb stem ends in a consonant, you use **~을래**; if it ends in a vowel, you use **~ㄹ래**.
-### Formation Diagram
-| Action Verb | Verb Stem | Ending            | Resulting Form |
-|-------------|-----------|-------------------|----------------|
-| 가다 (to go)  | 가        | ㄹ래               | 갈래 (I want to go)  |
-| 먹다 (to eat) | 먹        | 을래              | 먹을래 (I want to eat) |
-### Visual Aid
-```markdown
-- 가다 (to go) → 갈래 (do you want to/go)
-- 먹다 (to eat) → 먹을래 (do you want to/eat)
-```
----
+## Meaning
+The **~을래** (*~eullae*) ending is attached to verbs to indicate:
+- The speaker's intention or will to perform an action.
+- Asking someone's intention or preference, often used when making suggestions or invitations.
+It conveys a casual and friendly tone, suitable for informal situations.
+## Structure
+### Formation
+1. **For verbs ending with a consonant:**
+   **Verb stem + 을래**
+2. **For verbs ending with a vowel:**
+   **Verb stem + ㄹ래**
+### Diagram
+| Verb Type            | Verb Stem | Ending  | Result     |
+|----------------------|-----------|---------|------------|
+| Ends with a consonant | 먹 (from 먹다) | 을래    | 먹을래    |
+| Ends with a vowel     | 가 (from 가다)  | ㄹ래    | 갈래      |
+## Usage
+- **First person singular (I):** Expressing one's own intention.
+  - 저는 집에 갈래요. (*I want to go home.*)
+- **Second person singular (You):** Asking about the listener's intention.
+  - 뭐 먹을래? (*What do you want to eat?*)
 ## 3. Comparative Analysis
-**Similar Grammar Points**:
-- **~고 싶다**: Also expresses desire but is more formal. 
-  - Example: 가고 싶다 (I want to go)
-- **~고 싶어**: Informal version of ~고 싶다, used among friends.
-  - Example: 가고 싶어 (I want to go)
-**Differences**:
-- ~을래 is more casual and intimate, often used in conversational settings. In contrast, ~고 싶다 is more neutral and can be used in both casual and formal contexts.
----
+### Comparison with **~고 싶다** (*~go sipda*)
+- **~고 싶다** also means "to want to", but it's more about desire.
+- **~을래** is stronger, expressing intention or decision.
+
+| Grammar Point | Usage                                 | Formality     |
+|---------------|---------------------------------------|---------------|
+| ~고 싶다      | Expressing desire or wish             | Neutral       |
+| ~을래         | Expressing intention or making offers | Informal/Casual |
+
+**Example:**
+- **하고 싶어요.** (*I want to do it.*)
+- **할래요.** (*I intend to do it.* or *I'll do it.*)
 ## 4. Examples in Context
-### Sentence Examples
-1. **Casual Conversation**: 
-   - **Korean**: "영화 볼래?"  
-   - **Translation**: "Do you want to watch a movie?"
-   
-2. **Expressing Intention**: 
-   - **Korean**: "나 내일 여행 갈래."  
-   - **Translation**: "I want to go on a trip tomorrow."
-   
-3. **Between Friends**: 
-   - **Korean**: "점심에 뭐 먹을래?"  
-   - **Translation**: "What do you want to eat for lunch?"
-4. **Informal Suggestion**: 
-   - **Korean**: "같이 노래할래?"  
-   - **Translation**: "Do you want to sing together?"
----
+### Informal Situations
+1. **집에 갈래.**
+   - *I want to go home.*
+2. **영화 볼래?**
+   - *Do you want to watch a movie?*
+3. **우리 같이 점심 먹을래?**
+   - *Shall we have lunch together?*
+### Formal Situations
+While **~을래** is generally informal, to make it more polite, add **요** at the end.
+1. **어디 갈래요?**
+   - *Where would you like to go?*
+2. **뭐 마실래요?**
+   - *What would you like to drink?*
+### Dialogue Example
+**A:** 오늘 저녁에 뭐 할래?
+(*What do you want to do this evening?*)
+**B:** 친구들을 만나러 갈래.
+(*I want to go meet friends.*)
 ## 5. Cultural Notes
-### Cultural Relevance
-- **Levels of Politeness**: Using ~을래 can imply closeness or a casual relationship. It may not be appropriate in formal situations or when speaking to someone older or higher in status without sufficient context.
-  
-### Idiomatic Expressions
-- **"한잔 할래?"** (Do you want to have a drink?): A common expression suggesting a casual outing.
----
+## Politeness and Formality
+- **~을래** is casual and used among friends, peers, or in relaxed situations.
+- Avoid using it with elders, superiors, or in formal contexts.
+- In formal situations, use **~겠어요** or **~고 싶습니다** instead.
+**Example:**
+- **어디 가시겠어요?** (*Where would you like to go?*) – More formal and polite.
+## Idiomatic Expressions
+- **장난 그만할래.**
+  - *Would you stop joking around?*
+- **그 얘기 이제 그만할래?**
+  - *Shall we stop talking about that now?*
 ## 6. Common Mistakes and Tips
-### Error Analysis
-- **Mistakes**: A frequent error is to confuse ~을래 with ~고 싶다. While both express desire, ~을래 is used more casually and can imply a suggestion to another person rather than just a personal desire.
-  
-### Learning Strategies
-- **Mnemonic Devices**: Remember that ~을래 is associated with the idea of wanting companionship or shared activity ("Let’s...") while ~고 싶다 is simply stating personal desire. 
----
+## Common Mistakes
+1. **Using ~을래 in formal situations**
+   - Incorrect: 선생님, 질문이 있을래요.
+     - (*Teacher, I have a question want to.*)
+   - Correct: 선생님, 질문이 있습니다.
+     - (*Teacher, I have a question.*)
+2. **Mixing up with ~을까요 (Shall we...? / Do you think...? )**
+   - **~을래요?** is asking about the listener's preference.
+   - **~을까요?** is suggesting or asking for an opinion.
+   **Example:**
+   - **먹을래요?** (*Do you want to eat?*)
+   - **먹을까요?** (*Shall we eat?*)
+## Tips
+- Remember that **~을래** is casual; add **요** for a polite but still informal tone.
+- Use **~고 싶어요** in more formal contexts to express desires.
 ## 7. Summary and Review
-### Key Takeaways
-- ~을래 (eullae) indicates a casual desire to do something, perfect for informal contexts.
-- It’s crucial to know when to use this form based on the politeness level needed in various interactions.
-### Quick Recap Quiz
-1. What does ~을래 express?
-2. How do you form the ending if the verb stem ends in a consonant?
-3. Give an example of using ~을래 in a sentence.
-By mastering this grammar point, you'll be able to express your desires and intentions in casual conversation with ease!
+## Key Takeaways
+- **~을래** is used to express intention or to ask someone's preference.
+- It is informal; use with peers, friends, or in casual settings.
+- Attach **을래** to verb stems ending with a consonant and **ㄹ래** to those ending with a vowel.
+- For added politeness, use **~을래요**.
+## Quick Recap Quiz
+1. How do you say "I want to drink coffee" using **~을래**?
+2. Is it appropriate to use **~을래** with someone you just met?
+3. What is the difference between **갈래요?** and **갈까요?**
+
+### Answers
+1. **커피 마실래.**
+2. No, **~을래** is informal and should be used with people you are close to.
+3. **갈래요?** asks for the listener's preference ("Do you want to go?"), while **갈까요?** is a suggestion ("Shall we go?").
+
+--- 
+
+Feel free to review this lesson and practice forming sentences with **~을래** to express your intentions and ask others about theirs in Korean!
+
+---
+© [Hanabira.org](https://hanabira.org)

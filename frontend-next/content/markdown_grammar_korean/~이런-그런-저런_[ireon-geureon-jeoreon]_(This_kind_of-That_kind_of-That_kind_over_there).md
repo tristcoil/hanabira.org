@@ -1,82 +1,126 @@
 Processing keyword: ~이런/그런/저런 [ireon/geureon/jeoreon] (This kind of/That kind of/That kind over there)
 # Korean Grammar Point: ~이런/그런/저런 [ireon/geureon/jeoreon] (This kind of/That kind of/That kind over there)
-# TOPIK Grammar Point: ~이런/그런/저런 (Ireon/Geureon/Jeoreon)
+
 ## 1. Introduction
-The Korean expressions ~이런, ~그런, and ~저런 are used to describe types or kinds of things, often translated as "this kind of," "that kind of," and "that kind over there," respectively. They are important for categorizing objects, situations, or ideas during conversation.
+In Korean, demonstrative adjectives like **이런** (ireon), **그런** (geureon), and **저런** (jeoreon) are essential for describing objects, actions, or situations relative to the speaker and listener. They translate to "this kind of," "that kind of," and "that kind of over there," respectively. Mastering these terms will enhance your ability to describe and differentiate between various topics in conversation.
+
+---
 ## 2. Core Grammar Explanation
-### Detailed Explanation
-- **~이런 (ireon)**: Refers to something that is close to the speaker; it means "this kind of." It can describe both objects and concepts that are physically or contextually nearby.
-  
-  **Structure**: 
-  - Noun + 이런
-  - Example: 이런 책 (this kind of book)
-- **~그런 (geureon)**: Refers to something that is close to the listener or something previously mentioned in the conversation. It means "that kind of."
-  
-  **Structure**: 
-  - Noun + 그런
-  - Example: 그런 문제 (that kind of problem)
-- **~저런 (jeoreon)**: Refers to something that is distant from both the speaker and the listener. It means "that kind over there."
-  
-  **Structure**: 
-  - Noun + 저런
-  - Example: 저런 사람 (that kind of person over there)
-### Meaning, Structure, Formation Diagram
-| Expression | Meaning            | Context           |
-|------------|--------------------|-------------------|
-| 이런       | This kind of       | Near speaker       |
-| 그런       | That kind of       | Near listener      |
-| 저런       | That kind over there| Distant from both  |
-**Diagram**:
-```
-Speaker
-   |
-   |--- 이런 (this) ----
-   |                    |
-   |--- 그런 (that) ----|  Listener
-   |                    |
-   |--- 저런 (that) ----|  
-```
+### Meaning and Usage
+- **이런 (ireon)**: Refers to something close to the speaker; "this kind of."
+- **그런 (geureon)**: Refers to something close to the listener or something known to both; "that kind of."
+- **저런 (jeoreon)**: Refers to something far from both the speaker and listener; "that kind of over there."
+These words are used to modify nouns and help specify which kind or type of noun you're referring to.
+### Structure and Formation
+The formation is straightforward:
+\[ 이런/그런/저런 \] + **[Noun]**
+- **이런 + Noun**: This kind of [noun]
+- **그런 + Noun**: That kind of [noun]
+- **저런 + Noun**: That kind of [noun] over there
+### Visual Aid: Demonstrative Adjectives Diagram
+| Korean | Romanization | Meaning          | Proximity              |
+|--------|--------------|------------------|------------------------|
+| 이런     | ireon        | this kind of     | Near the speaker       |
+| 그런     | geureon      | that kind of     | Near the listener/known|
+| 저런     | jeoreon      | that kind over there | Far from both         |
+---
 ## 3. Comparative Analysis
-- **이(것) / 그(것) / 저(것)**: These are pronouns for "this," "that," and "that over there." The key difference with ~이런, ~그런, and ~저런 is that the former refers to specific items, while the latter describes types or categories of those items.
-- **Example**:
-  - 이 책 (this book) vs. 이런 책 (this kind of book)
-  - 그 책 (that book) vs. 그런 책 (that kind of book)
-  - 저 책 (that book over there) vs. 저런 책 (that kind of book over there)
+Korean has several demonstratives, and it's essential to distinguish between them:
+- **이것 (igeot)** vs. **이런 (ireon)**
+  - **이것**: "this thing" (specific object)
+  - **이런**: "this kind of" (type or kind)
+- **그것 (geugeot)** vs. **그런 (geureon)**
+  - **그것**: "that thing" (specific object)
+  - **그런**: "that kind of" (type or kind)
+- **저것 (jeogeot)** vs. **저런 (jeoreon)**
+  - **저것**: "that thing over there" (specific object)
+  - **저런**: "that kind of over there" (type or kind)
+---
 ## 4. Examples in Context
-### Sentence Examples
-1. **Formal**:
-   - 이런 영화는 정말 재미있어요.  
-   *(This kind of movie is really interesting.)*
-2. **Informal**:
-   - 그런 이야기는 듣고 싶지 않아.  
-   *(I don’t want to hear that kind of story.)*
-3. **Written**:
-   - 저런 상황에서는 조심해야 합니다.  
-   *(In that kind of situation, one must be careful.)*
-4. **Spoken**:
-   - 이런 문제는 쉽게 해결할 수 있어.  
-   *(This kind of problem can be solved easily.)*
+### Formal
+1. **이런 상황에서는 신중해야 합니다.**
+   - _Ireon sanghwang-eseoneun sinjunghaeya hamnida._
+   - In this kind of situation, one must be careful.
+2. **그런 행동은 용납되지 않습니다.**
+   - _Geureon haengdong-eun yongnapdoeji anseumnida._
+   - That kind of behavior is not acceptable.
+3. **저런 문제는 어렵습니다.**
+   - _Jeoreon munje-neun eoryeopseumnida._
+   - That kind of problem is difficult.
+### Informal
+1. **이런 옷을 어디서 샀어?**
+   - _Ireon oseul eodiseo sasseo?_
+   - Where did you buy this kind of clothes?
+2. **나는 그런 이야기를 들었어.**
+   - _Naneun geureon iyagireul deureosseo._
+   - I heard that kind of story.
+3. **저런 차를 사고 싶어.**
+   - _Jeoreon chareul sago sipeo._
+   - I want to buy that kind of car over there.
+### Written
+1. **이런 현상은 흔하지 않습니다.**
+   - _Ireon hyeonsang-eun heunhaji anseumnida._
+   - This kind of phenomenon is uncommon.
+2. **그런 사례가 많이 있습니다.**
+   - _Geureon saryega mani itseumnida._
+   - There are many such cases.
+3. **저런 건축물은 아름답습니다.**
+   - _Jeoreon geonchungmul-eun areumdapseumnida._
+   - That kind of architecture over there is beautiful.
+### Spoken
+1. **이런 거 좋아해?**
+   - _Ireon geo joahae?_
+   - Do you like this kind of thing?
+2. **그런 말 하지 마.**
+   - _Geureon mal haji ma._
+   - Don't say that kind of thing.
+3. **저런 사람 처음 봐.**
+   - _Jeoreon saram cheoeum bwa._
+   - It's my first time seeing that kind of person over there.
+---
 ## 5. Cultural Notes
 ### Cultural Relevance
-- There is often a level of politeness when discussing various kinds of things, as the choice of terms can reflect respect towards the listener. This is essential in formal contexts.
-  
+In Korean culture, specifying the proximity of objects or concepts in conversation reflects attentiveness and respect for the listener's perspective. Using **이런**, **그런**, and **저런** appropriately shows an understanding of shared knowledge and physical surroundings.
+### Levels of Politeness and Formality
+These demonstratives can be used in various speech levels. However, pairing them with the appropriate verb endings and vocabulary determines the overall politeness.
+- **Formal Polite**: **합니다**, **합니다만**
+- **Informal Polite**: **해요**, **해요 하지만**
+- **Casual**: **해**, **하지만**
 ### Idiomatic Expressions
-- “이런 저런” is a common colloquial phrase that indicates a range of various topics or possibilities, often used to mean “this and that.”
+1. **이런 저런 이야기**
+   - _Ireon jeoreon iyagi_
+   - Chit-chat about this and that.
+2. **그런 대로**
+   - _Geureon daero_
+   - So-so; just okay.
+---
 ## 6. Common Mistakes and Tips
 ### Error Analysis
-1. Mixing up these expressions due to similar meanings can lead to misunderstanding.
-   - Example that may cause confusion: Using "저런" when "이런" is more appropriate because the subject is close to the speaker.
+- **Confusing Proximity**: Mixing up **이런** and **그런**.
+  - Remember, **이런** is "this kind of" (near you).
+- **Overusing Demonstratives**: Using these terms when unnecessary can make sentences awkward.
 ### Learning Strategies
-- Remember: "이" is for **"this"** (close to me), "그" is for **"that"** (close to you), and "저" is for **"that over there"**.
-- Use mnemonic devices like visualizing the distance between the speaker and listener.
+- **Mnemonic Device**:
+  - **이** (이런) starts with 'I' (아이), imagine pointing at yourself—close to you.
+  - **그** (그런) sounds like 'ku'—think of 'you'—close to the listener.
+  - **저** (저런) means 'that over there'—far from both.
+- **Practice with Objects**: Point to objects at varying distances and describe them using **이런**, **그런**, or **저런**.
+---
 ## 7. Summary and Review
 ### Key Takeaways
-- ~이런, ~그런, and ~저런 are used to describe types of objects or situations in relation to spatial context.
-- Understanding the proximity of nouns helps in choosing the correct expression.
-  
+- **이런**: This kind of (near speaker)
+- **그런**: That kind of (near listener or known)
+- **저런**: That kind of over there (far from both)
+They are used to modify nouns, helping to specify and describe more precisely.
 ### Quick Recap Quiz
-1. What does "이런" mean?
-2. Which expression would you use to refer to something mentioned by the listener?
-3. What is the main difference between "이" and "이런"?
+1. How do you say "that kind of book over there" in Korean?
+   - **Answer**: 저런 책
+2. Choose the correct demonstrative: "I don't like _ that kind of music."
+   - **Answer**: 그런 음악을 좋아하지 않아.
+3. Fill in the blank: **___ 상황에서는 조심해야 해요.** (In this kind of situation, you must be careful.)
+   - **Answer**: 이런
 ---
-Feel free to ask any further questions regarding this grammar point or other topics related to Korean language learning!
+By understanding and practicing **이런**, **그런**, and **저런**, you'll enhance your descriptive abilities in Korean and communicate more naturally.
+
+---
+© [Hanabira.org](https://hanabira.org)

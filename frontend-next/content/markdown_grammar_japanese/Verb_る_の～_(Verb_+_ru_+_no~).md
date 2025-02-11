@@ -1,82 +1,96 @@
 Processing keyword: Verb る の～ (Verb + ru + no~)
 # Japanese Grammar Point: Verb る の～ (Verb + ru + no~)
-# Verb る の～ (Verb + る の~)
-## Introduction
-In Japanese, the construction "Verb る の" is a versatile grammatical structure used to express various meanings, often involving explanation, emphasis, or inquiries about actions. This lesson focuses on understanding its use, structure, and nuances.
-## Core Grammar Explanation
-### Detailed Explanation
-1. **Meaning**:
-   - The phrase combines a verb in its "ru" form (typically a dictionary form) with the nominalizer "の" (no), which turns the verb into a noun phrase, allowing for various applications in conversation.
-2. **Structure and Formation**:
-   - The basic structure is:
-     ```
-     [Verb in -ru form] + の
-     ```
-   - This construction can refer to the act of doing something, making it more about the experience rather than just the action.
+
+
+## 1. Introduction
+In this lesson, we'll explore how to nominalize verbs in Japanese using **の**. Nominalization is the process of turning verbs into nouns, which allows them to function as subjects or objects in sentences. Understanding this grammar point will enhance your ability to express thoughts and actions more naturally in Japanese.
+
+---
+## 2. Core Grammar Explanation
+### Meaning
+The construction **Verb Dictionary Form + の** transforms a verb into a noun phrase. It's similar to adding "-ing" to a verb in English, turning "run" into "running."
+### Structure
+| Verb Dictionary Form | + の |
+|----------------------|------|
+| 食べる (taberu)       | の   |
+| 行く (iku)            | の   |
+| 見る (miru)           | の   |
 ### Formation Diagram
-```plaintext
-[Verb (る form)] + の
-        |
-     [Noun Phrase]
-```
-## Visual Aids
-Here is a simplified table illustrating the transformation:
-| Verb (る form) | の (no)    | Meaning                            |
-|----------------|------------|------------------------------------|
-| 食べる (taberu)    | 食べるの (taberu no) | The act of eating                 |
-| 行く (iku)        | 行くの (iku no)      | The act of going                  |
-| 見る (miru)       | 見るの (miru no)     | The act of seeing                 |
-## Comparative Analysis
-### Comparison with Other Grammar Points
-1. **Verb る こと (Verb + こと)**:
-   - Similar to "の," the "こと" (koto) also nominalizes. However, "こと" emphasizes the concept or experience of the action, while "の" often refers more directly to the action itself or specific instances.
-   - Example:
-     - 食べることが好きです (Taberu koto ga suki desu) - I like the act of eating.
-     - 食べるのが好き (Taberu no ga suki) - I like eating.
-2. **Adjective + の**:
-   - "の" can also nominalize adjectives, providing similar flexibility but different contexts.
-   - Example: 
-     - 高いのが好きです (Takai no ga suki desu) - I like things that are expensive.
-## Examples in Context
-### Sentence Examples
-1. **Informal**:
-   - **友達と遊ぶのが楽しい。**  
-     (Tomodachi to asobu no ga tanoshii.)  
-     - Playing with friends is fun.
-2. **Formal**:
-   - **勉強するのは大切です。**  
-     (Benkyou suru no wa taisetsu desu.)  
-     - It is important to study.
-3. **Conversational**:
-   - **どうしてそんなことするの？**  
-     (Doushite sonna koto suru no?)  
-     - Why do you do that?
-## Cultural Notes
-### Cultural Relevance
-Using "の" can reflect a softer or more polite way of stating facts or feelings. It can indicate the speaker’s desire to understand the listener's actions or feelings, showing a level of empathy or curiosity. 
-### Levels of Politeness
-- The usage of "の" can also be more casual and is often used in spoken Japanese among friends or family.
-- In formal contexts, it’s important to either use "の" appropriately or to provide more distance with "こと" when speaking.
+1. **Take the verb in its dictionary (plain) form**:
+   - 食べる (taberu) - to eat
+   - 読む (yomu) - to read
+   - 書く (kaku) - to write
+2. **Add の directly after the verb**:
+   - 食べる **の**
+   - 読む **の**
+   - 書く **の**
+### Usage
+- **Subject of a sentence**: Verbのが好きです。("I like verb-ing.")
+- **Object of a sentence**: Verbのを忘れた。("I forgot to verb.")
+- **Explanation or emphasis**: Verbのです。("It's that I verb.")
+---
+## 3. Comparative Analysis
+### Verb Dictionary Form + こと vs. Verb Dictionary Form + の
+Both **こと** and **の** are used to nominalize verbs, but they have subtle differences.
+|                 | **こと**                                         | **の**                                           |
+|-----------------|-------------------------------------------------|--------------------------------------------------|
+| **Usage**       | Formal writing, general statements              | Spoken language, personal feelings, observations |
+| **Example**     | ピアノを弾くことが楽しい。<br>(Playing piano is fun.) | ピアノを弾くのが楽しい。<br>(Playing piano is fun.)   |
+---
+## 4. Examples in Context
+### Example 1: Expressing Likes/Dislikes (Informal)
+- **Japanese**: 映画を見るのが好きだ。
+- **Romaji**: Eiga o miru no ga suki da.
+- **English**: I like watching movies.
+### Example 2: Asking for Permission (Formal)
+- **Japanese**: ここで写真を撮るのは許可が必要です。
+- **Romaji**: Koko de shashin o toru no wa kyoka ga hitsuyō desu.
+- **English**: You need permission to take photos here.
+### Example 3: Explaining Reasons (Spoken)
+- **Japanese**: 遅れたのは電車が遅れたからです。
+- **Romaji**: Okureta no wa densha ga okureta kara desu.
+- **English**: The reason I'm late is that the train was delayed.
+### Example 4: Remembering to Do Something (Written)
+- **Japanese**: 忘れ物をしないように荷物を確認するのをおすすめします。
+- **Romaji**: Wasuremono o shinai yō ni nimotsu o kakunin suru no o osusume shimasu.
+- **English**: We recommend checking your belongings to avoid leaving anything behind.
+---
+## 5. Cultural Notes
+### Politeness and Formality
+- Using **の** in place of **こと** can make the sentence feel more personal and direct, which is common in everyday conversation.
+- In formal writing or speeches, **こと** is often preferred over **の**.
 ### Idiomatic Expressions
-Common expressions utilizing this structure:
-- **食べるのが好き** (taberu no ga suki) - I like eating.
-- **見るのを忘れた** (miru no o wasureta) - I forgot to watch.
-## Common Mistakes and Tips
-### Error Analysis
-1. **Incorrect Verb Form**: Using plain non-ru forms of verbs.
-   - ✔️ Correct: 行くの (iku no)
-   - ❌ Incorrect: 行の (iku no)
-2. **Confusion with こと and の**: Misusing in contexts where concept or action distinction matters.
-   - Remember that "の" may feel more conversational and personal.
+- **知るのが遅い** (Shiru no ga osoi): "It's too late to know now." An expression used when information comes too late to be useful.
+---
+## 6. Common Mistakes and Tips
+### Common Mistake 1: Misusing の and こと
+- **Error**: 彼は走ることのが速い。
+- **Correction**: 彼は走るのが速い。
+- **Tip**: Use **の** when expressing personal observations or feelings.
+### Common Mistake 2: Forgetting to Use the Dictionary Form
+- **Error**: 食べますのが好きです。
+- **Correction**: 食べるのが好きです。
+- **Tip**: Always use the verb's dictionary form before adding **の**.
 ### Learning Strategies
-- **Mnemonic Device**: Think of the "の" as putting an action in an explanation box - you’re explaining or emphasizing what you do.
-- **Practice Usage**: Regularly use "の" when talking about your preferences or actions to become comfortable with it.
-## Summary and Review
+- **Mnemonic Device**: Think of **の** as "the act of" doing something.
+- **Practice**: Create sentences about your hobbies using **Verbるのが好きです**.
+---
+## 7. Summary and Review
 ### Key Takeaways
-- "Verb る の" is a way to nominalize verbs and discuss actions or experiences, often with a personal touch.
-- Understand the nuances between "の" and "こと" to utilize them effectively in both casual and formal contexts.
+- **Verb Dictionary Form + の** nominalizes verbs, turning actions into noun phrases.
+- Use this structure to express preferences, explanations, and observations.
+- **の** is more casual and conversational compared to **こと**.
 ### Quick Recap Quiz
-1. What does "食べるの" translate to in English?
-2. What is the difference between “Verb る の” and “Verb る こと”?
-3. Provide a sentence using “見るの” in a conversational context.
-Feel free to practice these forms and sentences as you continue your journey in learning Japanese!
+1. How do you say "I don't like studying" using Verbるの?
+   - **Answer**: 勉強するのが好きではありません。
+2. Which is more formal, **の** or **こと**?
+   - **Answer**: こと
+3. Correct the error: 見ますのが楽しい。
+   - **Answer**: 見るのが楽しい。
+---
+Feel free to create your own sentences using **Verbるの** to express your thoughts and preferences!
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

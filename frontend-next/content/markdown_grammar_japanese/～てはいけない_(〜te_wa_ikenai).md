@@ -1,82 +1,105 @@
 Processing keyword: ～てはいけない (〜te wa ikenai)
 # Japanese Grammar Point: ～てはいけない (〜te wa ikenai)
-# Grammar Point: ～てはいけない (〜te wa ikenai)
+
 ## 1. Introduction
-The grammar structure ～てはいけない (〜te wa ikenai) is used in Japanese to express prohibition or to indicate that something is not allowed. It is commonly used in both spoken and written Japanese.
+The grammar point ～てはいけない (〜te wa ikenai) is an essential construct in Japanese that expresses prohibition. It is used to tell someone that they must not do something or that something is not allowed.
+
+---
 ## 2. Core Grammar Explanation
 ### Detailed Explanation
-- **Meaning**: "must not," "should not," or "is not allowed to"
-- **Structure**: 
-  - Take the verb, change it to the て-form (te-form), and add はいけない (wa ikenai). 
-  - The structure can be broken down as follows:
-    - Verb (て-form) + はいけない (wa ikenai)
-### Formation Diagram
-| Original Verb | て-form  | Final Form          |
-|---------------|----------|---------------------|
-| 食べる (taberu)   | 食べて (tabete) | 食べてはいけない (tabete wa ikenai) |
-| 行く (iku)      | 行って (itte)   | 行ってはいけない (itte wa ikenai)   |
-| 見る (miru)     | 見て (mite)    | 見てはいけない (mite wa ikenai)    |
-### Visual Aids
-- Prohibition can be succinctly understood as:
-  ```
-  Verb (て-form) + はいけない
-  ```
-  - Example: 食べて + はいけない → 食べてはいけない
+- **Meaning**: "You must not do..." or "It is not allowed to..."
+- Used to express strong prohibition or to forbid an action.
+- Commonly found in rules, regulations, and when giving strict instructions.
+### Formation
+To form this structure, attach **〜てはいけない** to the **て-form** of a verb.
+#### Structure:
+```markdown
+[Verb in て-form] + はいけない
+```
+---
+### Visual Aid
+#### Formation Table
+| Verb (Dictionary Form) | て-form           | + はいけない           | Meaning                      |
+|------------------------|-------------------|------------------------|------------------------------|
+| 食べる (taberu)         | 食べて (tabete)    | 食べてはいけない        | You must not eat             |
+| 行く (iku)             | 行って (itte)      | 行ってはいけない        | You must not go              |
+| 入る (hairu)           | 入って (haitte)    | 入ってはいけない        | You must not enter           |
+| 話す (hanasu)          | 話して (hanashite) | 話してはいけない        | You must not speak/talk      |
+---
 ## 3. Comparative Analysis
-### Differences with Similar Grammar Points
-- **～ないでください (〜naide kudasai)**: This also indicates prohibition but is more polite. It can be translated as "please do not..."
-  - Example: 食べないでください (tabenaide kudasai) - "Please do not eat."
-- **～てはならない (〜te wa naranai)**: This expression carries a similar meaning but is stronger in conviction, often used in legal or formal contexts where strict rules are applied.
-  - Example: 構造を変更してはならない (kouzou o henko shite wa naranai) - "You must not change the structure."
+- **～てはいけない vs. ～てはならない**
+  - Both express prohibition.
+  - **～てはならない** is more formal and strict, often used in written rules or laws.
+  
+- **～てはだめだ**
+  - Less formal than **～てはいけない**.
+  - Common in casual speech to friends or family.
+  
+---
 ## 4. Examples in Context
 ### Sentence Examples
-- **Formal**:
-  1. ここでタバコを吸ってはいけない。  
-     (Koko de tabako o sutte wa ikenai.)  
-     "You must not smoke here."
-  
-- **Informal**:
-  2. 今、遊んではいけないよ。  
-     (Ima, asonde wa ikenai yo.)  
-     "You shouldn’t play right now."
-- **Written**:
-  3. この文書をコピーしてはいけない。  
-     (Kono bunsho o kopii shite wa ikenai.)  
-     "You must not copy this document."
-- **Spoken**:
-  4. 宿題を忘れてはいけないよ。  
-     (Shukudai o wasurete wa ikenai yo.)  
-     "You must not forget your homework."
+1. **Classroom Setting (Formal)**
+   - **Japanese**: 授業中に携帯電話を使ってはいけません。
+   - **Romaji**: Jugyō-chū ni keitai denwa o tsukatte wa ikemasen.
+   - **English**: You must not use your mobile phone during class.
+2. **Library Notice**
+   - **Japanese**: ここで飲食をしてはいけない。
+   - **Romaji**: Koko de inshoku o shite wa ikenai.
+   - **English**: You must not eat or drink here.
+3. **Parental Advice (Informal)**
+   - **Japanese**: 夜遅くまで起きてはいけないよ。
+   - **Romaji**: Yoru osoku made okite wa ikenai yo.
+   - **English**: You shouldn't stay up late at night.
+4. **Workplace Rule**
+   - **Japanese**: 社内の情報を外部に漏らしてはいけない。
+   - **Romaji**: Shanai no jōhō o gaibu ni morashite wa ikenai.
+   - **English**: You must not leak company information to outsiders.
+5. **Traffic Sign**
+   - **Japanese**: ここに駐車してはいけません。
+   - **Romaji**: Koko ni chūsha shite wa ikemasen.
+   - **English**: Parking here is not allowed.
+---
 ## 5. Cultural Notes
 ### Cultural Relevance
-In Japanese culture, following rules and regulations is highly valued, and using ～てはいけない emphasizes respect for these societal norms. This structure is often used by teachers or parents to teach children what behaviors are unacceptable.
-### Levels of Politeness and Formality
-- **Casual**: Just using the te-form + いけない (ikenai) is suitable for conversations among friends or close acquaintances.
-- **Polite/Formal**: In formal requests or rules, it is advised to use appropriate honorifics or structures, depending on the audience.
+- **Politeness Levels**: Using **～てはいけません** is the polite form suitable for formal situations and written instructions.
+- **Social Norms**: In Japanese culture, indirectness is common, but prohibitions using this grammar point are direct and leave no room for ambiguity.
 ### Idiomatic Expressions
-- "してはいけない" (shite wa ikenai) can appear in various contexts, highlighting what actions are unacceptable.
+- **毒を食らわば皿まで** (Doku o kurawaba sara made)
+  - Literally: "If you eat poison, eat the plate too."
+  - Implies: If you're going to do something bad (which you shouldn't), you might as well go all the way.
+  - Though not using **～てはいけない**, it touches on the idea of forbidden actions.
+---
 ## 6. Common Mistakes and Tips
 ### Error Analysis
-- **Using dictionary form**: Many learners mistakenly use the dictionary form of the verb instead of the te-form.
-  - Wrong: 食べてはいけない (✓) vs 食べるはいけない (✗)
-  
+1. **Using the wrong verb form**
+   - Incorrect: 食べるはいけない。
+   - Correct: 食べてはいけない。
+   - *Always use the て-form of the verb before attaching はいけない.*
+2. **Misplacing particles**
+   - Incorrect: 食べていけない。
+   - Correct: 食べてはいけない。
+   - *Don't omit the particle は.*
 ### Learning Strategies
-- **Mnemonic Device**: Remember that "いけない" sounds like "I cannot," which helps in reminding that it's about prohibition.
-- Practice converting verbs to the te-form regularly to gain familiarity.
+- **Mnemonic Device**: Think of **"Te-form + wa ikenai"** as "**Te-wa**y to **Ike** (no go)**nai** (no way)**" – a way to remember that it's about not going/doing.
+- **Practice**: Create sentences about school or workplace rules to become familiar with the structure.
+---
 ## 7. Summary and Review
 ### Key Takeaways
-- **Meaning**: Prohibition (must not, should not)
-- **Structure**: Verb (te-form) + はいけない
-- Use in both formal and informal contexts based on audience.
+- **～てはいけない** is used to express strong prohibition.
+- Formed by adding **はいけない** to the **て-form** of a verb.
+- More formal than **～てはだめだ**, less formal than **～てはならない**.
 ### Quick Recap Quiz
-1. What is the te-form of "飲む" (nomu)?
-   - a) 飲んで (onde) 
-   - b) 飲み (nomi) 
-   - c) 飲んでは (nonda)
-2. Translate: "You must not smoke here."
-   - a) ここでタバコを吸ってはいます。
-   - b) ここでタバコを吸わない。
-   - c) ここでタバコを吸ってはいけない。
-**Answers**: 
-1. a) 飲んで (onde) 
-2. c) ここでタバコを吸ってはいけない。
+1. How do you say "You must not run in the hallway" in Japanese?
+2. Which form of the verb is used with **～てはいけない**?
+3. Is **～てはいけない** more formal or less formal than **～てはならない**?
+---
+**Answers:**
+1. 廊下を走ってはいけない。 (Rōka o hashitte wa ikenai.)
+2. The **て-form** of the verb.
+3. Less formal.
+
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

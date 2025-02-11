@@ -1,83 +1,136 @@
 Processing keyword: Verb られる (〜rareru)
 # Japanese Grammar Point: Verb られる (〜rareru)
-# JLPT Grammar Point: Verb られる (〜rareru)
+
 ## 1. Introduction
-In Japanese, the suffix られる (〜rareru) is used to form the potential and passive voice of verbs. It's important to understand how to use this structure effectively, as it enhances conversational ability in Japanese.
+In this lesson, we'll explore the grammar point **Verb られる (〜rareru)**, which is essential for constructing passive sentences in Japanese. Understanding how to use 〜られる will allow you to express actions that are done **to** the subject rather than **by** the subject, adding depth and nuance to your language skills.
+
+---
 ## 2. Core Grammar Explanation
-### Detailed Explanation
-**Meaning:**  
-- **Potential form**: Indicates that something is possible or that someone is able to do something.
-- **Passive voice**: Indicates that the subject is acted upon by someone or something else.
-**Structure:**  
-The usage of られる (〜rareru) can be broken down into two primary forms based on verb types:
-1. **Potential Form**
-   - For **Godan (u) verbs**: Change the final -u sound of the verb to -erareru.
-     - Example: 書く (kaku - to write) → 書かれる (kakareru - can write)
-   - For **Ichidan (ru) verbs**: Simply replace -ru with -rareru.
-     - Example: 食べる (taberu - to eat) → 食べられる (taberareru - can eat)
-2. **Passive Voice**
-   - For **Godan (u) verbs**: Change the final -u sound of the verb to -areru.
-     - Example: 読む (yoru - to read) → 読まれる (yomareru - is read)
-   - For **Ichidan (ru) verbs**: Simply replace -ru with -rareru.
-     - Example: 見る (miru - to see) → 見られる (mirareru - is seen)
+## Meaning
+The suffix **〜られる** is attached to verbs to form the **passive voice** in Japanese. It shifts the focus of the sentence from the doer of the action to the receiver of the action.
+- **Active Voice**: The subject performs an action.
+- **Passive Voice**: The subject receives an action.
+## Structure
+### Formation
+The way you conjugate a verb into its passive form depends on its verb group. Japanese verbs are categorized into three groups:
+1. **Ichidan Verbs (る-verbs)**
+2. **Godan Verbs (う-verbs)**
+3. **Irregular Verbs**
 ### Formation Diagram
-```markdown
-| Verb Type | Base Form   | Potential Form | Passive Form |
-|-----------|-------------|----------------|--------------|
-| Godan     | 書く (kaku)| 書かれる (kakareru)| 読まれる (yomareru) |
-| Ichidan   | 食べる (taberu)| 食べられる (taberareru)| 見られる (mirareru) |
-```
+#### Ichidan Verbs (る-verbs)
+1. Remove **る** from the dictionary form.
+2. Add **られる**.
+**Example**:
+| Verb (Dictionary Form) | Remove る | Add られる | Passive Form |
+|------------------------|-----------|------------|--------------|
+| 食べる (たべる)        | 食べ       | 食べられる  | 食べられる    |
+#### Godan Verbs (う-verbs)
+1. Change the final **う** sound to the corresponding **あ** sound.
+2. Add **れる**.
+**Correspondence Chart**:
+| Ending Syllable (う) | Change to (あ) |
+|----------------------|----------------|
+| う                    | わ              |
+| く                    | か              |
+| す                    | さ              |
+| つ                    | た              |
+| ぬ                    | な              |
+| ぶ                    | ば              |
+| む                    | ま              |
+| る                    | ら              |
+| ぐ                    | が              |
+**Example**:
+| Verb (Dictionary Form) | Change Ending | Add れる | Passive Form   |
+|------------------------|---------------|----------|----------------|
+| 読む (よむ)            | 読ま           | 読まれる  | 読まれる       |
+| 書く (かく)            | 書か           | 書かれる  | 書かれる       |
+| 話す (はなす)          | 話さ           | 話される  | 話される       |
+#### Irregular Verbs
+| Verb       | Passive Form |
+|------------|--------------|
+| する       | される       |
+| 来る (くる)| 来られる     |
+---
 ## 3. Comparative Analysis
-### Potential vs. Passive
-- **Potential form (can do)**: Emphasizes ability.
-  - Example: 私は日本語が話せる。  
-    (Watashi wa Nihongo ga hanaseru.)  
-    *I can speak Japanese.*
-  
-- **Passive form (is done)**: Emphasizes the action being done to the subject.
-  - Example: 本が読まれる。  
-    (Hon ga yomareru.)  
-    *The book is read.*
+## Passive vs. Potential Form
+It's important to note that **〜られる** can also indicate the **potential form** (ability or possibility) in Ichidan verbs, which can cause confusion.
+- **Passive (Ichidan verbs)**: 食べる → 食べられる (to be eaten)
+- **Potential (Ichidan verbs)**: 食べる → 食べられる (can eat)
+For Godan verbs, the potential form is different:
+- **Potential (Godan verbs)**: 読む → 読める (can read)
+## Distinguishing Passive and Potential
+Context is crucial for understanding whether **〜られる** denotes passive voice or potential form.
+- **Passive Context**: りんごが虫に食べられた。  
+  *(The apple was eaten by bugs.)*
+- **Potential Context**: この料理は食べられる。  
+  *(This dish can be eaten.)*
+---
 ## 4. Examples in Context
-### Sentence Examples
-- **Potential Form**
-  1. 彼は泳げる。  
-     (Kare wa oyogeru.)  
-     *He can swim.* 
-  2. 私はこの歌が歌える。  
-     (Watashi wa kono uta ga utaeru.)  
-     *I can sing this song.*
-- **Passive Form**
-  1. この映画は多くの人に見られている。  
-     (Kono eiga wa ooku no hito ni mirarete iru.)  
-     *This movie is being watched by many people.*
-  2. その仕事は彼に頼まれた。  
-     (Sono shigoto wa kare ni tanomareta.)  
-     *That job was requested by him.*
+## Formal Speech
+1. **車が盗まれました。**  
+   *The car was stolen.*
+2. **京都で写真がたくさん撮られました。**  
+   *Many photos were taken in Kyoto.*
+## Informal Speech
+1. **犬に靴を噛まれた。**  
+   *My shoes were chewed by the dog.*
+2. **妹にケーキを食べられちゃった。**  
+   *My younger sister ate my cake (and I'm annoyed).*
+## Written Language
+1. **この小説は多くの人々に読まれている。**  
+   *This novel is being read by many people.*
+2. **新しい法律が制定された。**  
+   *A new law has been enacted.*
+## Spoken Language
+1. **雨に降られて、びしょ濡れになった。**  
+   *I was caught in the rain and got soaked.*
+2. **彼に秘密をばらされちゃった。**  
+   *He revealed my secret.*
+---
 ## 5. Cultural Notes
-### Cultural Relevance
-Understanding potential and passive forms is essential in various settings, especially in business or formal conversations where politeness and respect are implied. The passive voice often conveys humility in Japanese culture, positioning the speaker in a way that exhibits deference.
-### Idiomatic Expressions
-- "可能性がある" (kanousei ga aru): "There is a possibility..."
-- "されるがまま" (sareru ga mama): "To go along with being acted upon..."
+## Usage in Japanese Culture
+In Japanese, passive constructions are often used to express inconvenience or undesirable events that happened to the speaker, sometimes called the **suffering passive**.
+**Example**:
+- **雨に降られた。**  
+  *I got rained on.*
+This usage conveys that the speaker was negatively affected by the action.
+## Politeness and Formality
+Passive forms can also soften statements, making them more polite or less direct.
+**Example**:
+- **その意見は検討されます。**  
+  *That opinion will be considered.*
+---
 ## 6. Common Mistakes and Tips
-### Error Analysis
-1. Confusing the potential and passive forms. 
-   - E.g., Mixing potential "できる" (dekiru - can do) with passive "される" (sareru - is done).
+## Common Mistakes
+1. **Misforming Godan Passive Verbs**
+   - **Incorrect**: 読む → 読みられる
+   - **Correct**: 読む → 読まれる
+2. **Confusing Potential and Passive Forms**
+   - **食べられる** can mean "is eaten" or "can eat"
+## Tips
+- **Mnemonic for Godan Verbs**: Remember the **"a" sound shift** before adding **れる**.
   
-2. Incorrectly conjugating Godan verbs; remember the -u to -areru change.
-### Learning Strategies
-- Mnemonic: Remember "rareru" as "can" or "is ____ed," relating it directly to the context of ability or passivity.
-- Practice converting sentences to both forms to reinforce understanding.
+  - **す** → **さ** + れる (話す → 話される)
+  
+- **Context Clues**: Determine meaning (passive vs. potential) based on sentence context and particles used.
+---
 ## 7. Summary and Review
-### Key Takeaways
-- られる (〜rareru) is used for both potential and passive forms in Japanese.
-- Different endings apply depending on whether the verb is a Godan or Ichidan type.
-### Quick Recap Quiz
-1. What is the potential form of 切る (kiru - to cut)?
-2. Convert 読む (yomu - to read) into the passive form.
-3. Which is expressed: "The song can be sung" using られる?
-Answers:
-1. 切れる (kireru)
-2. 読まれる (yomareru)
-3. Potential form (歌える - utaeru)
+## Key Takeaways
+- **〜られる** is used to form the passive voice in Japanese.
+- Verb conjugation into passive form depends on verb type (Ichidan, Godan, Irregular).
+- Context determines whether **〜られる** is passive or potential.
+## Quick Recap Quiz
+1. **Conjugate the following verb into its passive form**: 書く (かく)
+   **Answer**: 書かれる
+2. **Is the following sentence passive or potential?**  
+   このケーキは食べられる。
+   **Answer**: Potential (This cake can be eaten.)
+3. **Identify the error in the sentence**: 友達にプレゼントをあげられた。
+   **Answer**: The verb あげる should not be in passive form here. It should be 友達にプレゼントをあげた。(*I gave a present to my friend.*)
+---
+Thank you for studying **Verb られる (〜rareru)**! Keep practicing to master the passive form and enhance your Japanese communication skills.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

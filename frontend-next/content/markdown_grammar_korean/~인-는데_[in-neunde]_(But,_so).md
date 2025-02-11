@@ -1,69 +1,120 @@
 Processing keyword: ~인/는데 [in/neunde] (But, so)
 # Korean Grammar Point: ~인/는데 [in/neunde] (But, so)
-# Detailed Grammar Explanation: ~인/는데 [in/neunde] (But, So)
+
 ## 1. Introduction
-The grammar point **~인/는데** is a commonly used structure in Korean that can express contrast or provide explanation, similar to "but" or "so" in English. Understanding this structure will enhance your ability to create complex sentences and convey nuanced meanings in conversation.
+The Korean conjunctive ending **~인/는데** is a versatile grammar point used to connect sentences, provide background information, contrast ideas, or show a cause-effect relationship. It is an essential tool for making speech and writing more cohesive and natural in Korean. Understanding how to use **~인/는데** will greatly enhance your ability to express complex thoughts and engage in more advanced conversations.
+
+---
 ## 2. Core Grammar Explanation
-### Meaning
-The suffix **~인/인데** is used to provide background information or to present contrast between two clauses. 
+### Meaning and Usage
+The **~인/는데** ending can be translated to "but," "so," "and," or "while," depending on the context. It is used to:
+- Contrast two clauses: "but"
+- Provide background information before stating something: "so," "and"
+- Express surprise or exclamation
+- Softly end a sentence to invite a response or continue the conversation
 ### Structure
-The formation depends on whether the preceding noun is a descriptor or not:
-- **Noun + 인데**
-- **Adjective Stem + ㄴ/은 데**
-- **Verb Stem + 는데**
+#### Formation
+The ending you attach depends on whether the word is a **verb**, **adjective**, or **noun**.
+| Word Type | Stem Ending | Conjunctive Ending | Example                  |
+|-----------|-------------|--------------------|--------------------------|
+| Verb      | Any         | ~는데              | 먹다 ➔ 먹 **는데**      |
+| Adjective | Vowel       | ~ㄴ데              | 예쁘다 ➔ 예쁘 **ㄴ데** |
+| Adjective | Consonant   | ~은데              | 작다 ➔ 작 **은데**      |
+| Noun      | Any         | ~인데              | 학생 ➔ 학생 **인데**    |
 ### Formation Diagram
-```markdown
-                  Noun + 인데     →   "He is a teacher, but..."
-                      ↓
-                  Adjective + ㄴ/은 데 → "The weather is nice, but..."
-                      ↓
-                  Verb + 는데       → "I am going, but..."
+#### For Verbs
 ```
-### Examples:
-- **Noun**: 선생님 + 인데 → 선생님인데 (He is a teacher, but...)
-- **Adjective**: 예쁘다 → 예쁜데 → 예쁜데 (It's pretty, but...)
-- **Verb**: 가다 → 가는데 → 가는데 (I'm going, but...)
-## 3. Comparative Analysis 
-### Similar Grammar Points
-- **~지만 [jiman]**: This is also used to indicate contrast, similar to "but". However, **~인/는데** often introduces explanation or background context, while **~지만** is more straightforward in contrasting two clauses. 
-**Example**:
-- **~인/는데**: 그 사람은 선생님인데 학생이에요. (He is a teacher, but he is a student.)
-- **~지만**: 그 사람은 선생님이지만 학생이에요. (He is a teacher, but he is still a student.)
+[Verb Stem] + 는데
+```
+#### For Adjectives
+- If stem ends with a vowel:
+  ```
+  [Adjective Stem] + ㄴ데
+  ```
+- If stem ends with a consonant:
+  ```
+  [Adjective Stem] + 은데
+  ```
+#### For Nouns
+```
+[Noun] + 인데
+```
+---
+## 3. Comparative Analysis
+### Comparison with ~지만 (But)
+
+| Grammar Point | Usage                   | Example                                 |
+|---------------|-------------------------|-----------------------------------------|
+| ~는데         | Softer contrast, background info | 날씨가 추운데 나갑니다.<br>(It's cold but I'm going out.) |
+| ~지만         | Direct contrast         | 날씨가 춥지만 나갑니다.<br>(It's cold but I'm going out.) |
+
+**~는데** often implies a softer contrast or provides background information, whereas **~지만** is used for a direct contrast.
+
+---
 ## 4. Examples in Context
-### Sentence Examples
-1. **Formal**: 
-   - 이 책은 정말 재미있는데, 비싸요. 
-     - (This book is really interesting, but it's expensive.)
-2. **Informal**: 
-   - 너는 학생인데, 왜 일을 해? 
-     - (You’re a student, but why are you working?)
-3. **Written**: 
-   - 사건이 복잡한데, 더 많은 조사가 필요하다. 
-     - (The case is complicated, but more investigation is needed.)
-4. **Spoken**:
-   - 오늘은 날씨 좋은데, 소풍 갈래? 
-     - (The weather is nice today, so should we go for a picnic?)
+### Example Sentences
+1. **Verb Usage**
+   - 한국어를 공부하는데 재미있어요.
+     - *I am studying Korean, and it's fun.*
+   - 비가 오는데 우산이 없어요.
+     - *It's raining, but I don't have an umbrella.*
+2. **Adjective Usage**
+   - 이 옷이 예쁜데 너무 비싸요.
+     - *This clothing is pretty, but it's too expensive.*
+   - 시간이 늦었는데 아직도 사람이 많아요.
+     - *It's late, but there are still many people.*
+3. **Noun Usage**
+   - 저는 학생인데 일을 하고 있어요.
+     - *I am a student, and I am working.*
+   - 여기가 서울인데 정말 복잡하네요.
+     - *This is Seoul, so it's really crowded.*
+### Formal and Informal Usage
+- **Informal**
+  - 집에 가는데 같이 갈래?
+    - *I'm going home, do you want to go together?*
+- **Formal**
+  - 회의가 끝났는데 잠시 이야기할 수 있을까요?
+    - *The meeting is over, could we talk for a moment?*
+---
 ## 5. Cultural Notes
-### Cultural Relevance
-In Korean society, context is crucial for understanding politeness and formality. Using **~인/는데** can imply a conversational tone that invites response, often used in social exchanges to build rapport.
-### Idiomatic Expressions
-- **그런데**: Used in conversation to transition topics, similar to saying "by the way" or "but". 
-  - Example: 저는 학생인데, 그런데 제 친구는 선생님이에요. 
-    - (I’m a student, but my friend is a teacher.)
+### Politeness Levels
+Using **~인/는데** is acceptable in both formal and informal contexts. However, attaching polite endings after **~인/는데** is important when speaking to someone of higher status or in formal situations.
+### Conversation Flow
+In Korean culture, **~인/는데** is often used to keep conversations flowing smoothly. It serves as a way to provide context or background before stating the main point, which is a common discourse pattern in Korean communication.
+
+---
 ## 6. Common Mistakes and Tips
-### Error Analysis
-1. **Confusion with Verb endings**: Learners often misapply adjective endings to nouns.
-   - Correct: 학생인데 (He’s a student), Not: 학생다
-2. **Improper formality**: Using informal language in a formal situation can be inappropriate.
-### Learning Strategies
-- **Mnemonic Device**: Remember that **~인/는데** is used to provide background information. Think of it as setting the stage before making the main point.
+### Common Mistakes
+1. **Incorrect Attachment**
+   - Wrong: 먹 **은데** (for verbs)
+   - Correct: 먹 **는데**
+2. **Confusing with ~지만**
+   - Mixing up **~는데** with **~지만** due to their similar meanings.
+### Tips
+- **Remember the Word Type**
+  Always identify whether you're dealing with a verb, adjective, or noun to attach the correct ending.
+- **Mnemonic Device**
+  - **Verbs love '는'**: Verbs always take **~는데**.
+  - **Adjectives feel '은/ㄴ'**: Adjectives take **~은데** or **~ㄴ데**.
+  - **Nouns need '인데'**: Nouns attach **~인데**.
+---
 ## 7. Summary and Review
 ### Key Takeaways
-- **~인/인데** is used for providing context and contrast.
-- It can be attached to nouns, adjectives, and verbs.
-- It’s versatile in various communicative contexts.
+- **~인/는데** is used to connect clauses, provide background, or show contrast.
+- The ending changes based on whether the word is a verb, adjective, or noun.
+- It enhances the natural flow of conversation in Korean.
 ### Quick Recap Quiz
-1. What does the suffix **~인/는데** translate to in English?
-2. Provide an example of **~인/는데** with a verb.
-3. Explain the difference between **~인/는데** and **~지만**.
-Use this grammar point to enhance your Korean language skills and deepen your understanding of conversation dynamics in different contexts!
+1. Fill in the blank with the correct ending:
+   - 날씨가 좋___ 공원에 갈까요?
+     <details><summary>Answer</summary>날씨가 좋 **은데** 공원에 갈까요?</details>
+2. Choose the correct form for the noun 친구:
+   - 저는 친구___ 같이 여행 갔어요.
+     <details><summary>Answer</summary>저는 친구 **인데** 같이 여행 갔어요.</details>
+3. Correct the mistake in the sentence:
+   - 영화가 재미있은데 한번 봐요.
+     <details><summary>Answer</summary>영화가 재미있 **는데** 한번 봐요.</details>
+---
+By mastering **~인/는데**, you'll be able to express complex ideas and make your Korean sound more natural. Keep practicing with different verbs, adjectives, and nouns to become more comfortable with this essential grammar point.
+
+---
+© [Hanabira.org](https://hanabira.org)

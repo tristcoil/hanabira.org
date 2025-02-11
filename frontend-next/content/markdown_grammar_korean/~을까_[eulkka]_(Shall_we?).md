@@ -1,77 +1,122 @@
 Processing keyword: ~을까 [eulkka] (Shall we?)
 # Korean Grammar Point: ~을까 [eulkka] (Shall we?)
-# Korean TOPIK Grammar Point: ~을까 [eulkka] (Shall we?)
+
 ## 1. Introduction
-The grammar point ~을까 [eulkka] is used to suggest a course of action or solicit opinions in Korean. It often conveys a sense of invitation or proposal, commonly translated as "Shall we..." or "Should we...".
----
+In Korean, the ending **~을까** (*~eulkka*) is commonly used to express the idea of "Shall we?" or "I wonder if...". This grammar point is versatile and frequently used in everyday conversations to suggest doing something together or to ponder about something. Understanding how to use **~을까** will enhance your ability to participate in Korean dialogues naturally.
 ## 2. Core Grammar Explanation
-### Detailed Explanation
-- **Meaning**: The suffix ~을까 is attached to verb stems to indicate a suggestion or inquiry about an action. It creates a sense of uncertainty, inviting the listener to engage in decision-making.
-- **Structure**:
-  - Attach **~을까** to the verb stem:
-    - If the verb stem ends in a consonant: use **~을까**
-    - If the verb stem ends in a vowel: use **~ㄹ까**
-  
-### Formation Diagram
+## Meaning
+The ending **~을까** is attached to verbs to:
+1. Propose doing something together with the listener. ("Shall we...?")
+2. Express wonder or curiosity about something. ("I wonder if...")
+## Structure
+The structure varies slightly depending on whether the verb stem ends with a consonant or vowel.
+### Formation
+| Verb Stem Ending | Suffix      | Example Verb | Conjugated Form |
+|------------------|-------------|--------------|-----------------|
+| Consonant        | **~을까**   | 먹다 (to eat) | 먹을까          |
+| Vowel            | **~ㄹ까**   | 가다 (to go)  | 갈까            |
+### Conjugation Steps
+1. **Identify the verb stem.**
+   - Remove **다** from the dictionary form.
+     - 먹**다** → 먹
+     - 가**다** → 가
+2. **Determine the ending.**
+   - If the stem ends with a consonant, add **~을까**.
+   - If the stem ends with a vowel, add **~ㄹ까**.
+3. **Attach the appropriate ending.**
+   - 먹 + **을까** → 먹을까
+   - 가 + **ㄹ까** → 갈까
+## Visual Diagram
 ```
-Verb Stem + ~을까 (if ending in consonant)
-             + ~ㄹ까 (if ending in vowel)
+[Verb Stem] + [~을까/~ㄹ까] = "Shall we [verb]?" or "I wonder if [verb]"
 ```
-#### Examples of Verb Stem Formation:
-| Verb Stem     | Ending    | Completed Form     |
-|---------------|-----------|---------------------|
-| 가다 (to go)  | Vowel     | 갈까 (Shall we go?) |
-| 먹다 (to eat) | Consonant | 먹을까 (Shall we eat?) |
----
 ## 3. Comparative Analysis
-- **Similar Grammar Point - ~지 않을까 [ji anheulkka]**: 
-  While ~을까 suggests a proposal or suggestion, ~지 않을까 implies a doubt or negation. 
-  - Example: **안 갈까?** (Shall we not go?)
-  
-The key difference lies in the affirmative vs negative aspect.
----
+### ~자 (Let's...)
+- **Usage**: Suggesting to do something together.
+- **Example**: 먹자. (Let's eat.)
+### Differences with **~을까**
+- **~을까** is more tentative and seeks agreement.
+  - 먹을까? (Shall we eat?)
+- **~자** is a direct suggestion.
+  - 먹자. (Let's eat.)
+### ~을까요?
+- **Usage**: Polite form of **~을까**.
+- **Example**: 먹을까요? (Shall we eat?)
+### Nuance
+- **~을까** is casual and used among friends.
+- **~을까요?** is polite and used in formal situations.
 ## 4. Examples in Context
-### Sentence Examples
-1. **Formal** (Korean):
-   - **저녁을 먹을까요?**
-   - **Translation**: Shall we have dinner?
-  
-2. **Informal** (Friends):
-   - **영화 볼까?**
-   - **Translation**: Shall we watch a movie?
-  
-3. **Written** (Email):
-   - **회의를 2시에 할까요?**
-   - **Translation**: Shall we have the meeting at 2 o'clock?
-4. **Spoken** (Casual conversation):
-   - **어디 갈래? 같이 갈까?**
-   - **Translation**: Where do you want to go? Shall we go together?
-  
----
+### Informal Conversation
+1. **영화 보러 갈까?**
+   - Shall we go watch a movie?
+2. **이거 같이 만들까?**
+   - Shall we make this together?
+3. **내일 만날까?**
+   - Shall we meet tomorrow?
+### Formal Conversation
+1. **점심을 같이 먹을까요?**
+   - Shall we have lunch together?
+2. **회의를 시작할까요?**
+   - Shall we start the meeting?
+### Expressing Wonder
+1. **비가 올까?**
+   - I wonder if it will rain.
+2. **그 사람이 왔을까?**
+   - I wonder if that person has come.
+3. **이게 맞을까?**
+   - I wonder if this is correct.
+### Written Context
+1. **이 길로 가면 빠를까?**
+   - I wonder if it will be faster if we go this way.
+2. **어떤 선물을 살까 고민 중이에요.**
+   - I'm contemplating what gift to buy.
 ## 5. Cultural Notes
-### Cultural Relevance
-- **Politeness Levels**: The use of ~을까 should match the level of formality in the conversation. In formal settings, opting for polite endings is crucial, while informal contexts allow for casual forms.
-  
-### Idiomatic Expressions
-- **가볼까요?** (Shall we go?)
-  - Often used in the context of deciding whether to embark on a trip together or not.
----
+## Politeness Levels
+- Using **~을까** is casual and suited for friends or close acquaintances.
+- To be polite, especially with elders or in formal settings, use **~을까요?**
+## Social Norms
+- In Korean culture, indirect suggestions are considered polite.
+- Using **~을까** allows the speaker to make a suggestion without being imposing.
+## Idiomatic Expressions
+1. **어디로 갈까? 마음은 정했니?**
+   - Where shall we go? Have you decided?
+2. **무엇을 먹을까? 다 맛있어 보여.**
+   - What shall we eat? Everything looks delicious.
 ## 6. Common Mistakes and Tips
-### Error Analysis
-1. **Confusing Verb Forms**: Sometimes learners mix up verb endings resulting in incorrect forms. Remember to assess whether the verb stem ends in a consonant or a vowel.
-  
-2. **Context Misuse**: Failing to adjust the level of politeness based on the situation can lead to misunderstandings.
-### Learning Strategies
-- **Mnemonic Device**:  
-  Think of **“~think we can?”** to remember that ~을까 is asking for opinions or suggesting actions.
----
+## Common Mistakes
+1. **Using the wrong ending for the verb stem.**
+   - Incorrect: 가을까? (Incorrect because **가** ends with a vowel.)
+   - Correct: 갈까?
+2. **Confusing **~을까** with **~을게** (I will...).**
+   - **~을게** expresses the speaker's intention to do something.
+   - **~을까** is asking for the listener's input or expressing wonder.
+## Tips
+- **Mnemonic for vowel-ending verbs**: **Vowel + ㄹ까**
+  - If the stem ends with a vowel, remember "Vowel + ㄹ까".
+- **Practice with common verbs**:
+  - 하다 (to do) → 할까?
+  - 보다 (to see) → 볼까?
 ## 7. Summary and Review
-### Key Takeaways
-- ~을까 is a useful grammatical structure for making suggestions or inviting others to consider actions together.
-- Pay attention to the verb stem endings to use the correct form.
-- Adjust the level of politeness according to your conversation partners.
-### Quick Recap Quiz
-1. What does the grammar point ~을까 express?
-2. How would you say "Shall we go to the park?" using ~을까?
-3. What is the structure when the verb ends in a vowel?
-Feel free to use these questions to check your understanding of this grammar point!
+## Key Takeaways
+- **~을까/~ㄹ까** is used to propose actions or express wonder.
+- Attach **~을까** to consonant-ending stems, **~ㄹ까** to vowel-ending stems.
+- Use **~을까요?** for polite/formal situations.
+## Quick Recap Quiz
+1. How do you say "Shall we drink coffee?" in Korean?
+   a) 커피를 마실까?
+   b) 커피를 마실게?
+2. Choose the correct form: 가다 → ____?
+   a) 가을까
+   b) 갈까
+3. True or False: **~을까** can be used to express one's own intention without involving the listener.
+
+---
+**Answers:**
+1. a) 커피를 마실까?
+2. b) 갈까
+3. True (When expressing wonder.)
+---
+By mastering **~을까**, you can make polite suggestions and express curiosity, making your Korean conversations more natural and engaging.
+
+---
+© [Hanabira.org](https://hanabira.org)

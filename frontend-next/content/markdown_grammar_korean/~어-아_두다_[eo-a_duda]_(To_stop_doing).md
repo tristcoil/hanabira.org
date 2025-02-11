@@ -1,72 +1,101 @@
 Processing keyword: ~어/아 두다 [eo/a duda] (To stop doing)
 # Korean Grammar Point: ~어/아 두다 [eo/a duda] (To stop doing)
-# Grammar Point: ~어/아 두다 [eo/a duda] (To stop doing)
+
 ## 1. Introduction
-The grammar structure ~어/아 두다 is used in Korean to express the idea of stopping an action, doing something and leaving it as it is, or even to indicate a completed action that has been arranged to be left in that state. This ending can express both temporary stops and more permanent decisions.
+In this lesson, we'll explore the Korean grammar point **~어/아 두다 [eo/a duda]**, which is used to express completing an action and leaving it in that state, often for future convenience. This structure helps convey that something has been done in advance or that the result of an action remains effective.
+
+---
 ## 2. Core Grammar Explanation
 ### Detailed Explanation
-- **Meaning**: The suffix ~어/아 두다 conveys the sense of stopping an action or leaving something as it is. It often suggests intention or a decision behind the action.
-  
-- **Structure**: 
-  - The verb stem is attached to either ~어 or ~아, depending on the last vowel of the verb stem, followed by 두다. 
-  - **Formation Diagram**:
-```
-Verb Stem + (어/아) + 두다
-```
-**Note on vowels**:
-- If the last vowel of the verb stem is ㅏ or ㅗ, use -아.
-- If the last vowel of the verb stem is any other vowel, use -어.
-### Examples
-- **가다 (gada)** → 가 (ga) + 아 두다 → 가아 두다 (to leave/go)
-- **먹다 (meokda)** → 먹 (meok) + 어 두다 → 먹어 두다 (to eat and leave it as it is)
+**~어/아 두다** is attached to the stem of a verb to indicate that an action has been completed and its effects are maintained. It implies doing something and leaving it as is, often in preparation for the future or to keep the result available.
+- **Meaning**: To do something and leave it that way; to do something in advance; to keep something in a certain state.
+- **Usage**: Verb stem + **~어/아 두다**
+### Formation Diagram
+1. **Identify the Verb Stem**:
+   - Remove **다** from the dictionary form.
+   - Example: **열다** (to open) → **열** (stem)
+2. **Determine the Correct Connector**:
+   - If the last vowel of the stem is **ㅏ** or **ㅗ**, use **아 두다**.
+   - For all other vowels, use **어 두다**.
+3. **Combine the Stem with the Connector and **두다**:
+   - **열** + **어 두다** → **열어 두다**
+### Visual Aid
+| Verb Ending Vowel | Connector | Example Verb | Combined Form        |
+|-------------------|-----------|--------------|----------------------|
+| ㅏ or ㅗ           | 아 두다    | 놓다 (to put) | 놓아 두다            |
+| Others            | 어 두다    | 적다 (to write down) | 적어 두다      |
+---
 ## 3. Comparative Analysis
-### Similar Grammar Points
-- **~기로 하다 (giro hada)**: Indicates a decision or intent to do something but does not focus on stopping an action.
-- **~고 있다 (go itda)**: Indicates a continuous action, unlike ~어/아 두다 which focuses on stopping or finishing an action.
-**Comparison Table**:
-| Grammar Point | Meaning                      | Usage Context          |
-|----------------|------------------------------|------------------------|
-| ~어/아 두다     | Stopping or leaving an action | Completed actions      |
-| ~기로 하다     | Intention to do something   | Future intentions      |
-| ~고 있다       | Ongoing actions              | Present continuous situations |
+**Comparison with ~어/아 놓다**:
+- **~어/아 두다** and **~어/아 놓다** are often used interchangeably as both imply completing an action and leaving it in that state.
+- Subtle Difference:
+  - **~어/아 두다** emphasizes the ongoing state or future utility.
+  - **~어/아 놓다** often stresses the completion of an action, sometimes with a sense of relief or finality.
+---
 ## 4. Examples in Context
 ### Sentence Examples
-1. **Informal**: 
-   - 책을 읽어 두다.  
-   - (I’ll stop and leave the book read.)
-2. **Formal**: 
-   - 이 문제를 해결해 두었습니다.  
-   - (I have solved this issue (and left it solved).)
-3. **Spoken**: 
-   - 숙제를 해 두었어?  
-   - (Have you stopped and left the homework done?)
-4. **Written**: 
-   - 그 파일을 서랍에 넣어 두세요.  
-   - (Please leave that file in the drawer.)
+1. **집에 오기 전에 난방을 켜 두었어요.**
+   - *I turned on the heating before coming home (and it's still on).*
+2. **시험을 대비해서 노트를 정리해 두었어요.**
+   - *I organized my notes in preparation for the exam.*
+3. **친구가 올 거라서 음식을 미리 준비해 두었어요.**
+   - *Since a friend is coming, I prepared food in advance.*
+4. **긴 머리를 자르고 싶어서 미용실을 예약해 뒀어요.**
+   - *I booked a hair salon because I want to cut my long hair.*
+5. **중요한 파일은 별도의 폴더에 저장해 두세요.**
+   - *Please save important files in a separate folder.*
+### Formal vs. Informal Usage
+- **Formal**: 약속 시간을 메모해 **두십시오**.
+  - *Please note down the appointment time.*
+- **Informal**: 약속 시간을 메모해 **둬**.
+  - *Note down the appointment time.*
+---
 ## 5. Cultural Notes
 ### Cultural Relevance
-The usage of ~어/아 두다 reflects the Korean cultural emphasis on responsibility and the careful completion of tasks. Leaving something done often suggests consideration for the next person who may need to use or complete the task.
-### Levels of Politeness
-Using this structure in formal settings shows respect and seriousness about the task, which is vital in Korean culture.
+- **Preparation and Forethought**: In Korean culture, being prepared and considering future needs is valued. Using **~어/아 두다** reflects this cultural aspect by emphasizing actions done in advance for future benefit.
+  
+### Levels of Politeness and Formality
+- **Informal Speech**: 친구에게 메시지를 보내 **뒀어**.
+- **Polite Speech**: 친구에게 메시지를 보내 **뒀어요**.
+- **Formal Speech**: 친구에게 메시지를 보내 **두었습니다**.
 ### Idiomatic Expressions
-- **준비를 해 두다**: (to prepare and leave ready)
-- **이해를 해 두다**: (to understand and leave that understanding established)
+- **길을 알아 두면 나중에 편해요.**
+  - *If you know the way in advance, it will be convenient later.*
+- **필요한 물건을 사 둬야 해요.**
+  - *I need to buy what I need (and have it ready).*
+---
 ## 6. Common Mistakes and Tips
 ### Error Analysis
-- **Incorrect**: 집에 갈 두다. 
-  - **Correction**: 집에 가 두다. 
-  - (Leaving out the conjugation)
+- **Confusing with ~어/아 주다**: Don't mix up **~어/아 두다** (to do and leave as is) with **~어/아 주다** (to do something for someone).
+  - Incorrect: 선물을 사 **줘**야 해요. (I need to buy a gift for someone.)
+  - Correct: 선물을 사 **둬**야 해요. (I need to buy a gift and have it ready.)
+- **Incorrect Vowel Harmony**:
+  - Incorrect: 먹**아** 두다 (with 먹다)
+  - Correct: 먹**어** 두다
 ### Learning Strategies
-- Remember the endings with the mnemonic: 
-   - "A's and O's go large" for verbs ending in ㅏ or ㅗ (use -아)
-   - "Others make sense with E" for all others (use -어)
+- **Mnemonic Device**: Think of **두다** as "to place" or "to put away." So, **~어/아 두다** means you've done something and placed it in a ready state.
+- **Practice with Common Verbs**:
+  - **읽다** (to read) → 읽어 두다
+  - **만들다** (to make) → 만들어 두다
+---
 ## 7. Summary and Review
 ### Key Takeaways
-- ~어/아 두다 is used to indicate stopping an action and leaving it as it is.
-- The formation depends on the vowel of the verb stem.
-- It emphasizes responsibility and completion in action.
+- **~어/아 두다** is used to indicate that an action has been completed and its results are maintained for future use.
+- Attach **~어 두다** or **~아 두다** to the verb stem depending on the vowel harmony.
+- Common in contexts where preparation or maintaining a state is important.
 ### Quick Recap Quiz
-1. How do you form ~어/아 두다?
-2. What is the difference between ~어/아 두다 and ~기로 하다?
-3. Provide an example sentence using ~어/아 두다 in a formal context.
-By reviewing these points, you'll have a better grasp of the usage and meaning behind ~어/아 두다 in Korean language!
+1. How do you say "I saved the document (and it's still saved)" using **~어/아 두다**?
+2. What is the correct form of **보다** (to see) with **~어/아 두다**?
+3. Choose the correct sentence:
+   - a) 창문을 닫아 두세요.
+   - b) 창문을 닫어 두세요.
+---
+### Answers:
+1. **문서를 저장해 두었어요.**
+2. **보아 두다** → **봐 두다** (contracted form)
+3. a) **창문을 닫아 두세요.**
+---
+By mastering **~어/아 두다**, you enhance your ability to express actions done for future benefits or actions whose results remain over time.
+
+---
+© [Hanabira.org](https://hanabira.org)

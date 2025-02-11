@@ -1,75 +1,111 @@
 Processing keyword: Verb た ときに (Verb た ときに)
 # Japanese Grammar Point: Verb た ときに (Verb た ときに)
-# Grammar Point: Verb た ときに (Verb た ときに)
+
 ## 1. Introduction
-The expression **Verb た ときに** is used to indicate a specific time when something happened or a condition arose. It is commonly translated as "when (subject) did (action)" or "at the time when (action)". This structure is particularly useful for describing events in relation to other events or actions.
+In this lesson, we'll explore the Japanese grammar point **Verbた ときに**. This construction is used to express actions or events that occurred **when** or **after** something happened in the past. Understanding this grammar point will help you describe sequences of events and enhance your storytelling in Japanese.
+
 ---
 ## 2. Core Grammar Explanation
-### Detailed Explanation
-The structure consists of two main parts: 
-1. **Verb (in the past tense) + た**
-2. **ときに**, which means "when" or "at the time."
-### Structure
-The formation can be broken down as follows:
-1. **Verb (past form) + た**: Indicates that the action has been completed.
-2. **ときに**: This phrase sets the time frame of when something occurs.
-### Example Diagram
-```
-[Action in Past] + た + ときに 
-      ↓
-    [Time Expression]
-```
 ### Meaning
-- The overall meaning is: "When I did (action)".
+**Verbた ときに** translates to "**when** I **did** [Verb]" or "**after** I **did** [Verb]". It indicates that the main action occurred at the time of or after the completion of the verb in the past tense.
+### Structure
+The structure for **Verbた ときに** is as follows:
+```
+[Verb (past tense)] + ときに
+```
+### Formation Diagram
+| Verb Form      | + ときに | Meaning                   |
+|----------------|----------|---------------------------|
+| 食べた (ate)    | ときに   | When I ate / After I ate  |
+| 見た (saw)      | ときに   | When I saw / After I saw  |
+| 行った (went)   | ときに   | When I went / After I went |
 ---
 ## 3. Comparative Analysis
-Similar expressions include:
-- **Verb たら**: This can also indicate a condition or time, but it is more conditional and can suggest "if" rather than just "when."
-- **Verb ているとき**: This indicates an ongoing action: "when (action) is happening," which distinguishes it from the completed action of **Verb た ときに**.
+It's important to compare **Verbた ときに** with **Verb辞書形 ときに** (Verb Dictionary Form + ときに):
+- **Verbた ときに**: Used when the action in the main clause happens **after** the verb has been completed.
+- **Verb辞書形 ときに**: Used when the action in the main clause happens **before** or **during** the verb action.
+**Example:**
+- **寝たときに**: When I **slept** (after sleeping)
+- **寝るときに**: When I **go to sleep** (before sleeping)
 ---
 ## 4. Examples in Context
-### Sentence Examples
-1. **Formal Context**: 
-   - 日本に行ったときに、友達に会いました。
-   - *Nihon ni itta toki ni, tomodachi ni aimashita.*
-   - (When I went to Japan, I met a friend.)
-2. **Informal Context**: 
-   - 昨日、家に帰ったときに、電話が鳴った。
-   - *Kinō, ie ni kaetta toki ni, denwa ga natta.*
-   - (When I came home yesterday, the phone rang.)
-3. **Written Context**: 
-   - 学校に入学したときに、緊張しました。
-   - *Gakkō ni nyūgaku shita toki ni, kinchō shimashita.*
-   - (When I entered school, I felt nervous.)
-4. **Spoken Context**: 
-   - 映画を見たときに、感動した。
-   - *Eiga o mita toki ni, kandō shita.*
-   - (When I watched the movie, I was moved.)
+### Example Sentences
+1. **日本に行ったときに、富士山を見ました。**
+   - *Nihon ni itta toki ni, Fujisan o mimashita.*
+   - **Translation:** When I went to Japan, I saw Mount Fuji.
+2. **友達に会ったときに、この本をもらいました。**
+   - *Tomodachi ni atta toki ni, kono hon o moraimashita.*
+   - **Translation:** When I met my friend, I received this book.
+3. **映画を見たときに、涙が出ました。**
+   - *Eiga o mita toki ni, namida ga demashita.*
+   - **Translation:** When I watched the movie, I shed tears.
+4. **先生に質問したときに、答えがわかりました。**
+   - *Sensei ni shitsumon shita toki ni, kotae ga wakarimashita.*
+   - **Translation:** When I asked the teacher, I understood the answer.
+5. **家を出たときに、雨が降り始めました。**
+   - *Ie o deta toki ni, ame ga furi hajimemashita.*
+   - **Translation:** When I left the house, it started to rain.
+### Context Variations
+- **Formal Spoken:**
+  **会議が終わったときに、ご連絡いたします。**
+  
+  *Kaigi ga owatta toki ni, go-renraku itashimasu.*
+  - *Translation:* I will contact you when the meeting has ended.
+- **Informal Spoken:**
+  **財布を忘れたときに、駅に戻った。**
+  
+  *Saifu o wasureta toki ni, eki ni modotta.*
+  - *Translation:* When I forgot my wallet, I went back to the station.
+- **Written:**
+  **彼は学生だったときに、この詩を書きました。**
+  
+  *Kare wa gakusei datta toki ni, kono shi o kakimashita.*
+  - *Translation:* He wrote this poem when he was a student.
 ---
 ## 5. Cultural Notes
 ### Cultural Relevance
-Using **Verb た ときに** is quite common in everyday conversation and written Japanese. It is essential for narrating events and sharing experiences. 
+In Japanese culture, being precise about timelines and sequences of events is important, especially in formal contexts. Using **Verbた ときに** helps convey a clear understanding of when things happened, which is essential in both personal and professional communication.
 ### Levels of Politeness
-The formality of the verbs used can change the level of politeness. Always consider your audience and context when choosing the verb form (i.e., ます-form for formal settings).
+- The verb before **ときに** can be in polite or plain past tense, depending on the level of formality.
+  - **Polite Past Tense Verb + ときに**: More formal/respectful.
+  - **Plain Past Tense Verb + ときに**: Casual or in written narratives.
 ### Idiomatic Expressions
-- **「気がついたときに」** - (When I realized...) is often used in storytelling.
-- **「遊んでいたときに」** - (When I was playing...) is another common usage in casual conversation.
+While **Verbた ときに** is straightforward, it's often used in idiomatic expressions:
+- **忘れ物に気づいたときには、もう遅かった。**
+  - *Wasuremono ni kidzuita toki ni wa, mō osokatta.*
+  - *Translation:* By the time I realized I forgot something, it was already too late.
 ---
 ## 6. Common Mistakes and Tips
 ### Error Analysis
-- Mixing up **Verb た ときに** with **Verb たら**. Remember that **たら** implies a conditional situation, while **ときに** specifies a point in time.
-- Forgetting to convert the verb to the past form before using this structure.
+- **Using the wrong verb tense before ときに**
+  Learners often confuse when to use the past tense vs. the dictionary form before **ときに**.
+  - **Incorrect:** *行くときに、写真を撮りました。* (Intending to say after going)
+  - **Correct:** *行ったときに、写真を撮りました。*
 ### Learning Strategies
-- **Mnemonic Device**: Think of **ときに** as connecting a timeline: "This happened at the time of that action."
-- Practice forming sentences by first stating an event in the past, then adding a related action using the structure.
+- **Mnemonic Device:**
+  Think of **た** in **Verbた** as "task completed". So, **Verbた ときに** refers to **after** the task is completed.
+- **Practice Pairing:**
+  Create sentences by pairing daily activities with **Verbた ときに**.
+  - **朝ご飯を食べたときに、ニュースを見ます。**
+    - When I eat breakfast, I watch the news.
 ---
 ## 7. Summary and Review
 ### Key Takeaways
-- **Verb た ときに** expresses when one action occurred in relation to another.
-- It's commonly used in both written and spoken Japanese.
-- Pay attention to the verb form to ensure clarity.
+- **Verbた ときに** is used to express "**when**" or "**after**" an action has been completed.
+- The action in the main clause occurs **after** the verb in **Verbた ときに**.
+- Be mindful of the verb tense before **ときに**, as it changes the timing relationship.
 ### Quick Recap Quiz
-1. What does **Verb た ときに** mean?
-2. Can you use **Verb た ときに** to express a conditional situation?
-3. Provide an example sentence using **Verb た ときに**.
-By understanding and practicing this grammar point, you'll efficiently convey the timing of your experiences in Japanese!
+1. How do you express "When I read the book, I learned a lot" using **Verbた ときに**?
+   - **Answer:** *本を読んだときに、たくさん学びました。*
+2. Which is correct for "When I will go home, I'll call you":
+   a) *家に帰ったときに、電話します。*
+   b) *家に帰るときに、電話します。*
+   - **Answer:** b) *家に帰るときに、電話します。*
+3. True or False: **Verbた ときに** indicates that the main action happens before the verb action.
+   - **Answer:** False.
+---
+By understanding and practicing **Verbた ときに**, you'll be able to accurately describe sequences of past events and enhance your communication in Japanese.
+
+---
+
+© [Hanabira.org](https://hanabira.org)

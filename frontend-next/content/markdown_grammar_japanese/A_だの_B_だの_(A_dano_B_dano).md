@@ -1,146 +1,106 @@
 Processing keyword: A だの B だの (A dano B dano)
 # Japanese Grammar Point: A だの B だの (A dano B dano)
-# A だの B だの (A dano B dano) Grammar Explanation
+
+
+---
 ## 1. Introduction
-The expression **A だの B だの** is used in Japanese to indicate a list of examples that underline a point, often with a nuance of annoyance or emphasis. This grammar point is typically used in informal speech.
+In this lesson, we'll explore the grammar pattern **AだのBだの** (A **dano** B **dano**), a useful structure in Japanese used to list multiple items or actions, often with a sense of dissatisfaction or criticism. Understanding this pattern will help you express complex thoughts and opinions more naturally in Japanese.
+
 ---
 ## 2. Core Grammar Explanation
-### Detailed Explanation
-- **Meaning**: The phrase **A だの B だの** translates roughly to "things like A and B" or "such things as A and B." It conveys a sense of frustration or exaggeration when listing examples.
-- **Structure**: 
-  - **A** and **B** are nouns or noun phrases.
-  - The construction is used to give a negative connotation about the examples listed.
+### Meaning
+The pattern **AだのBだの** is used to list examples of things or actions, typically to express annoyance, criticism, or discontent. It can be translated as:
+- "Things like A and B..."
+- "A, B, and so on..."
+- "This and that..."
+### Structure
+The structure of **AだのBだの** is as follows:
+- **NounだのNounだの**
+- **Verb (plain form) だの Verb (plain form) だの**
 ### Formation Diagram
-```
-     +---------+
-     |         |
-     |   A     |
-     |         |
-     +---------+
-          |
-      だの/だの
-          |
-     +---------+
-     |         |
-     |   B     |
-     |         |
-     +---------+
-```
-- Example Structure: **Noun A だの Noun B だの**
+| Part of Speech | Formation                          |
+|----------------|------------------------------------|
+| Nouns          | Noun **だの** Noun **だの**         |
+| Verbs          | Verb (plain form) **だの** Verb (plain form) **だの** |
+| Adjectives     | *Not commonly used*                |
 ---
 ## 3. Comparative Analysis
-It’s essential to compare **A だの B だの** with similar grammatical structures to understand its unique nuance:
-- **A と B**: This simply means "A and B," with a neutral tone.
-- **A や B**: This suggests "A or B" or "such as A and B," and can be neutral or positive.
-- **A なんか B なんか**: Very similar to **A だの B だの**, but tends to emphasize that the items listed are less significant or unworthy.
-### Differences:
-- **Nuance**: だの conveys annoyance or frustration, while と and や lack this nuance.
+### Comparison with **や (ya)**
+- **や (ya)** is another particle used to list multiple items ("AやB" meaning "A and B and so on").
+- **Difference**: **や** is neutral and simply lists items, whereas **だの** often conveys a negative tone or expresses the speaker's dissatisfaction.
+**Example with や:**
+- りんご**や**バナナを買いました。
+  - "I bought apples, bananas, and so on." (Neutral listing)
 ---
 ## 4. Examples in Context
-### Sentence Examples
-1. **Informal/Spoken**:
-   - 昨日、友達が遊びに来て、ゲームだの、映画だの、色々したよ。
-   - *Kinō, tomodachi ga asobi ni kite, gēmu dano, eiga dano, iroiro shita yo.*
-   - "Yesterday, my friend came over and we did various things like playing games and watching movies."
-2. **Formal/Written**:
-   - 彼は仕事が忙しいと言っていたが、休みの日に友達だの、家族だのと出かけている。
-   - *Kare wa shigoto ga isogashii to itte ita ga, yasumi no hi ni tomodachi dano, kazoku dano to dekakete iru.*
-   - "He said he was busy with work, but on his days off, he goes out with friends and family."
-3. **Annoyed Context**:
-   - あの人は文句だの、愚痴だのばかり言っていて、うんざりだ。
-   - *Ano hito wa monku dano, guchi dano bakari itte ite, unzari da.*
-   - "That person keeps whining and complaining, I’m fed up with it."
+### Example 1: Nouns
+**Japanese:**  
+彼は部屋が汚い。服**だの**本**だの**が床に散らかっている。
+**Reading:**  
+かれは へやが きたない。ふく **だの** ほん **だの** が ゆかに ちらかっている。
+**English Translation:**  
+"His room is messy. Things like clothes and books are scattered on the floor."
+### Example 2: Verbs
+**Japanese:**  
+彼女は仕事が忙しい。会議に出る**だの**資料を作る**だの**、休む暇もない。
+**Reading:**  
+かのじょは しごとが いそがしい。かいぎに でる **だの** しりょうを つくる **だの**、やすむ ひまも ない。
+**English Translation:**  
+"She is busy with work. She's attending meetings, making documents, and has no time to rest."
+### Example 3: Expressing Annoyance
+**Japanese:**  
+弟はゲームをする**だの**テレビを見る**だの**して、全然勉強しない。
+**Reading:**  
+おとうとは ゲームを する **だの** テレビを みる **だの** して、ぜんぜん べんきょうしない。
+**English Translation:**  
+"My younger brother is playing games, watching TV, and not studying at all."
+### Example 4: Formal Context
+**Japanese:**  
+店長は品質管理**だの**顧客対応**だの**、様々な問題に直面している。
+**Reading:**  
+てんちょうは ひんしつかんり **だの** こきゃくたいおう **だの**、さまざまな もんだいに ちょくめんしている。
+**English Translation:**  
+"The store manager is facing various issues like quality control, customer service, and so on."
+
 ---
 ## 5. Cultural Notes
-### Cultural Relevance
-The use of **A だの B だの** reflects Japanese language's sensitivity to politeness and social harmony. It is informal, so it is appropriate among friends or peers, and it conveys a flow of frustration which might indicate camaraderie or shared irritation.
+### Levels of Politeness and Formality
+- **だの** is fairly casual and might carry a negative connotation. It's commonly used in spoken language and informal writing.
+- It's advisable to be cautious when using **だの**, especially in formal situations or with superiors.
 ### Idiomatic Expressions
-- Used when expressing dissatisfaction with a situation or while making a sarcastic remark about someone's behavior.
+- Combining **だの** with complaints or lists of troubles is common in Japanese, reflecting a cultural tendency to express dissatisfaction indirectly.
+
 ---
 ## 6. Common Mistakes and Tips
-### Error Analysis
-- **Confusion with other structures**: Learners may confuse this with **A と B** or **A や B**, which do not carry the same feeling of annoyance.
-- **Overusing**: Since it's informal, learners might mistakenly use it in formal situations, which can be inappropriate.
-### Learning Strategies
-- **Mnemonic Device**: Think of **だの** as a "drama" endings—signals a performance of emotions signaling irritation or frustration.
-- Remember it is used for listing examples that illustrate complaints or annoyances.
+### Common Mistakes
+1. **Using だの in Positive Contexts**
+   - Misuse: 喜び**だの**幸せ**だの**がいっぱいだ。
+     - (**Incorrect**, as **だの** typically isn't used for positive listings)
+   - Correction: 喜び**や**幸せ**が**いっぱいだ。
+2. **Overusing だの in Formal Writing**
+   - **だの** is informal; using it in formal essays or business correspondence is inappropriate.
+### Tips to Remember
+- **Negative Connotation**: Associate **だの** with complaints or criticisms.
+- **Casual Tone**: Use **だの** in conversations with friends or peers, not in formal settings.
+- **Mnemonic Device**: Think of **だの** as "darn those..." to recall the slightly negative tone.
 ---
 ## 7. Summary and Review
 ### Key Takeaways
-- **A だの B だの** emphasizes a list of items with a tone of annoyance.
-- Used primarily in informal contexts among friends or familiar settings.
-- Compared to similar expressions, it stands out in its negative connotation.
+- **AだのBだの** is used to list multiple items or actions, often expressing dissatisfaction.
+- The structure can be used with nouns and verbs in their plain form.
+- It carries a casual and somewhat negative connotation.
+- Be cautious with its usage in formal contexts.
 ### Quick Recap Quiz
-1. How do you translate **A だの B だの** into English?
-2. In what kind of situations is it appropriate to use this grammar point?
-3. What is the nuance carried by **A だの B だの** compared to **A と B**?
-Feel free to review and practice with this structure in daily conversations or writing!
-Processing keyword: A だの B だの (A dano B dano)
-# Japanese Grammar Point: A だの B だの (A dano B dano)
-# A だの B だの (A dano B dano) - Grammar Explanation
-## 1. Introduction
-The grammar point **A だの B だの** is used in Japanese to list examples of things or actions while implying that there are more similar items not mentioned. It translates to “such as A and B” or “things like A and B” in English. This construction often conveys a sense of annoyance or criticism towards the subjects being mentioned.
-## 2. Core Grammar Explanation
-### Detailed Explanation
-- **Structure**: The construction follows this pattern:
-  - Noun 1 だの Noun 2 だの
-  - This structure can be used with nouns, adjectives, or verbs in the informal form followed by だの.
-- **Meaning**: It indicates a range of items and usually has a nuance of "and the like" or "etc."
-- **Formation Diagram**:
-```
-+-----------------+
-|   Noun 1 だの    |
-+-----------------+
-|   Noun 2 だの    |
-+-----------------+
-|   Action/State   |
-+-----------------+
-```
-## 3. Comparative Analysis
-### Similar Grammar Points
-- **とか (toka)**: Also used to list items but is more casual and does not carry the same critical nuance as だの.
-- **や (ya)**: Similar to とか, but typically used in formal contexts for listing examples without the implication of annoyance.
-### Differences
-- **だの** implies a bit of contempt or frustration, while **とか** and **や** are more neutral.
-- **だの** is often used when someone is listing negative aspects or complaints.
-## 4. Examples in Context
-### Sentence Examples
-1. **Formal Context**:
-   - 最近、彼は仕事だの勉強だの忙しそうです。
-   - (Recently, he seems busy with work and studying, such as work and studying.)
-2. **Informal Context**:
-   - あの子は本だのマンガだのばかり読んでる。
-   - (That kid only reads books and manga, things like books and manga.)
-3. **Spoken Context**:
-   - 明日、試験だの宿題だの、全部あるから大変だよ！
-   - (Tomorrow, I have exams and homework, so it’s going to be tough!)
-4. **Written Context**:
-   - 会議では業績だの経費削減だので盛り上がった。
-   - (During the meeting, we got excited about performance and cost reductions, such as performance and cost reductions.)
-## 5. Cultural Notes
-### Cultural Relevance
-In Japanese culture, conveying nuances of annoyance or frustration is essential, especially when discussing topics that may involve criticism. Using **だの** can reflect one’s feelings towards a certain situation or behavior, often indicating that there are grievances about it.
-### Levels of Politeness
-The usage of **だの** is informal and is generally used in casual conversations. In more formal situations, use alternatives like **とか** or avoid expressing frustration directly.
-### Idiomatic Expressions
-- **文句だの愚痴だの** (monku dano guchi dano): This phrase captures complaints or grievances using **だの**.
-## 6. Common Mistakes and Tips
-### Error Analysis
-- **Mistake**: Using **だの** with formal language. It is informal and should be avoided in polite contexts.
-- **Mistake**: Overusing the structure with too many nouns, which can lead to a convoluted expression.
-### Learning Strategies
-- **Mnemonic Device**: Remember that **だの** implies annoyance = "**だ**n't like this**の**!" to associate distress with the subject.
-  
-## 7. Summary and Review 
-### Key Takeaways
-- **A だの B だの** is used to list examples with a nuance of annoyance.
-- It is informal, so use it cautiously in conversations.
-- Different from **とか** and **や** which are more neutral.
-### Quick Recap Quiz
-1. What does **だの** imply about the items listed?
-2. In what situation would you use **だの**? 
-3. Can **だの** be considered formal?
-Answers:
-1. It implies annoyance or criticism.
-2. In informal conversations to express frustration.
-3. No, it is not formal.
+1. **What is the main connotation associated with the grammar point AだのBだの?**
+2. **Is it appropriate to use だの in a formal business email? Why or why not?**
+3. **Translate the following sentence using だの:**
+   "He's always complaining about the weather, the traffic, and so on."
+---
+**Answers:**
+1. It is used to express dissatisfaction, annoyance, or criticism while listing items or actions.
+2. No, because だの is informal and carries a negative tone, which is unsuitable for formal business communication.
+3. 彼は天気が悪い**だの**渋滞がひどい**だの**、いつも文句を言っている。
+
+---
+
+© [Hanabira.org](https://hanabira.org)

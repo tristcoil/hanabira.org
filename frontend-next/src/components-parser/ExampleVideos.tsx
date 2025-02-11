@@ -9,7 +9,7 @@ function ExampleVideos() {
     <div className="w-full">
       <button
         onClick={() => setIsOpen(!isOpen)}
-        className="text-left text-sm font-bold flex items-center justify-between w-full p-4 bg-gray-100 text-gray-800 rounded-md border border-gray-200 hover:bg-gray-200 transition-colors"
+        className="text-left text-sm font-bold flex items-center justify-between w-full p-1 bg-gray-100 text-gray-800 rounded-md border border-gray-200 hover:bg-gray-200 transition-colors"
       >
         Example Videos
         <svg

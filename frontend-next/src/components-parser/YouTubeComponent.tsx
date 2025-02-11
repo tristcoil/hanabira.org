@@ -137,8 +137,10 @@ const YouTubeComponent: React.FC<YouTubeComponentProps> = ({
   }) => {
     setCurrentTime(Math.floor(playedSeconds));
     // Decode the fetched subtitle text before setting it
-    const rawJapaneseSubtitle = japaneseSubtitles[Math.floor(playedSeconds)] || "";
-    const rawEnglishSubtitle = englishSubtitles[Math.floor(playedSeconds)] || "";
+    const rawJapaneseSubtitle =
+      japaneseSubtitles[Math.floor(playedSeconds)] || "";
+    const rawEnglishSubtitle =
+      englishSubtitles[Math.floor(playedSeconds)] || "";
     const rawCustomSubtitle = customSubtitles[Math.floor(playedSeconds)] || "";
 
     const decodedJapaneseSubtitle = he.decode(rawJapaneseSubtitle);
@@ -235,6 +237,7 @@ const YouTubeComponent: React.FC<YouTubeComponentProps> = ({
                 </div>
               </div>
             </Tab>
+            
           </Tabs>
         </>
       )}
@@ -243,22 +246,6 @@ const YouTubeComponent: React.FC<YouTubeComponentProps> = ({
 };
 
 export default YouTubeComponent;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 // ORIGINAL CODE THAT WORKED DECENT IN PROD, just had those ampersands in english subtitles
 
@@ -318,8 +305,6 @@ export default YouTubeComponent;
 
 //   const playerRef = useRef<ReactPlayer>(null);
 
-
-
 //   useEffect(() => {
 //     if (videoUrl) {
 //       const url = new URL(videoUrl);
@@ -328,10 +313,10 @@ export default YouTubeComponent;
 //       if (vParam) {
 //         setVideoId(vParam);
 //       }
-  
+
 //       // Reset currentTime to 0 for new video
 //       setCurrentTime(0);
-  
+
 //       setLoading(true);
 //       const fetchSubtitles = async () => {
 //         const [fetchedJapaneseSubtitles, fetchedEnglishSubtitles] =
@@ -340,21 +325,14 @@ export default YouTubeComponent;
 //             getVideoSubtitles(videoUrl, "en"),
 //           ]);
 //         setLoading(false);
-  
+
 //         setSubtitles(fetchedJapaneseSubtitles, setJapaneseSubtitles);
 //         setSubtitles(fetchedEnglishSubtitles, setEnglishSubtitles);
 //       };
-  
+
 //       fetchSubtitles();
 //     }
 //   }, [videoUrl]);
-  
-
-
-
-
-
-
 
 //   const setSubtitles = (
 //     subtitles: Subtitle[],
@@ -376,15 +354,12 @@ export default YouTubeComponent;
 //     }
 //   };
 
-
 //   const handleOnReady = () => {
 //     if (playerRef.current) {
 //       playerRef.current.seekTo(currentTime);
 //     }
 //     setIsPlaying(true);
 //   };
-
-
 
 //   const handleOnProgress: ReactPlayerProps["onProgress"] = ({
 //     playedSeconds,
@@ -411,10 +386,7 @@ export default YouTubeComponent;
 //     setIsPlaying(!isPlaying);
 //   };
 
-
-
 // // ----
-
 
 // useEffect(() => {
 //   if (videoUrl) {
@@ -454,7 +426,6 @@ export default YouTubeComponent;
 //     return [];
 //   }
 // };
-
 
 // // ---
 

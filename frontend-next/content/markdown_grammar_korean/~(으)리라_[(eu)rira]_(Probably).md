@@ -1,77 +1,103 @@
 Processing keyword: ~(으)리라 [(eu)rira] (Probably)
 # Korean Grammar Point: ~(으)리라 [(eu)rira] (Probably)
-# Grammar Point: ~(으)리라 [(eu)rira] (Probably)
+
 ## 1. Introduction
-The Korean grammar structure ~(으)리라 is used to express an assumption or probability about a situation that is expected to happen. It conveys the speaker's belief that something is likely true or will occur in the future. 
+The grammar point **~(으)리라** is a verb ending used in Korean to express the speaker's strong assumption, determination, or expectation about a future event or a current situation. It often translates to "will probably," "I suppose that," or "I assume that" in English. This form is considered poetic and literary, frequently appearing in written texts, poetry, proverbs, and occasionally in formal speeches.
+
+---
 ## 2. Core Grammar Explanation
-### Detailed Explanation
-~(으)리라 is used after a verb or adjective stem and can be translated to "probably" or "I think" in English. The ending changes based on the final consonant of the verb stem:
-- If the verb stem ends in a consonant, use **-리라**.
-- If the verb stem ends in a vowel, use **-으리라**.
-### Meaning and Structure
-1. **Structure**:
-   - Verb/Adjective stem + ~(으)리라
-2. **Formation Diagram**:
-   
-   ```plaintext
-   [Verb/Adjective Stem] + -(으)리라  
-         |                 |
-    [Final Consonant]  [No Final Consonant]     
-         |                 |
-         -리라             -으리라
-   ```
-### Visual Aids
-| Final Sound            | Usage     | Example                | Translation              |
-|------------------------|-----------|------------------------|--------------------------|
-| Ends with a consonant  | -리라     | 가다 → 가리라          | (It) will probably go    |
-| Ends with a vowel      | -으리라   | 가다 → 가으리라        | (It) will probably come   |
+### Meaning
+- **Assumption or Supposition**: Indicates the speaker's strong belief or assumption about something.
+- **Determination**: Expresses the speaker's firm intention or resolve to do something.
+### Structure
+The structure of **~(으)리라** is attached to the verb stem.
+### Formation Diagram
+| Verb Stem Ending | Verb Ending to Add | Example Verb | Conjugation |
+|------------------|--------------------|--------------|-------------|
+| Ends with a vowel | ~리라            | 가다 (to go)  | 가리라     |
+| Ends with a consonant | ~으리라       | 먹다 (to eat) | 먹으리라   |
+### Formation Steps
+1. **Identify the Verb Stem**: Remove the ending 다 from the base form of the verb.
+   - 가다 → 가
+   - 먹다 → 먹
+2. **Determine the Ending**:
+   - If the verb stem ends with a vowel, add **~리라**.
+   - If the verb stem ends with a consonant, add **~으리라**.
+3. **Attach the Ending to the Verb Stem**:
+   - 가 + 리라 → **가리라**
+   - 먹 + 으리라 → **먹으리라**
+---
 ## 3. Comparative Analysis
-### Similar Grammar Points
-- **-겠**: This is also used to express future intentions or predictions but with less certainty. 
-  - Example: 가겠다 (I will go.)
-- **-을 것이다**: Similar to ~(으)리라, but it expresses a stronger certainty.
-  - Example: 갈 것이다 (I will definitely go.)
-### Differences
-- ~(으)리라 suggests a judgment or assumption, while -겠 indicates a firm intention or promise. 
-- -을 것이다 presents a more factual prediction, whereas ~(으)리라 carries a sense of uncertainty.
+### Comparison with Similar Grammar Points
+| Grammar Point | Usage | Example | Translation |
+|---------------|-------|---------|-------------|
+| ~(으)리라 | Poetic assumption or determination | 우리가 승리하리라 | We will (surely) win |
+| ~(으)ㄹ 것이다 | Future tense, neutral prediction | 비가 올 것이다 | It will rain |
+| ~(으)려고 하다 | Intention or plan | 집에 가려고 한다 | I intend to go home |
+| ~(으)겠다 | Strong intention or guess | 도와주겠어요 | I will help |
+**Key Differences**:
+- **~(으)리라** is more poetic and formal, expressing strong conviction or determination.
+- **~(으)ㄹ 것이다** is a neutral prediction about the future.
+- **~(으)려고 하다** indicates an intention or plan.
+- **~(으)겠다** expresses a strong will or a supposition.
+---
 ## 4. Examples in Context
-### Sentence Examples:
-1. **Formal**:
-   - 내일 비가 올 **리라**고 생각합니다. 
-   - (I think it will probably rain tomorrow.)
-   
-2. **Informal**:
-   - 그녀는 늦을 **리라**.
-   - (She is probably going to be late.)
-3. **Written**:
-   - 이 책은 많은 사람들이 좋아할 **리라** 예상됩니다.
-   - (I expect this book will probably be liked by many people.)
-4. **Spoken**:
-   - 그 소식은 사실일 **리라**.
-   - (That news is probably true.)
+### Formal Written Context
+1. **희망을 버리지 않으리라.**
+   - *I will not give up hope.*
+2. **진실은 반드시 밝혀지리라.**
+   - *The truth will surely be revealed.*
+### Poetic Expressions
+3. **저 하늘의 별이 되리라.**
+   - *I will become a star in that sky.*
+4. **우리의 꿈은 이루어지리라.**
+   - *Our dreams will come true.*
+### Proverbs and Sayings
+5. **노력하는 자에게 기회가 오리라.**
+   - *Opportunity will come to those who make an effort.*
+### Literary Narration
+6. **그는 영원히 기억되리라.**
+   - *He will be remembered forever.*
+---
 ## 5. Cultural Notes
 ### Cultural Relevance
-In Korean culture, using ~ (으)리라 reflects a cautious approach in discussions, showing that you are making an educated guess rather than stating a fact. This aligns with the broader Korean value of humility and indirectness in communication.
+- **Literary Usage**: **~(으)리라** is commonly found in literature, poetry, and song lyrics to convey deep emotion or strong determination.
+- **Formal Speeches**: Sometimes used in speeches to inspire or motivate an audience.
 ### Idiomatic Expressions
-- 아마 그렇게 될 **리라**. 
-  - (It will probably be like that.)
+- **뜻이 있는 곳에 길이 있으리라.**
+  - *Where there is a will, there is a way.*
+---
 ## 6. Common Mistakes and Tips
 ### Error Analysis
-- Confusing ~(으)리라 with -겠 or -을 것이다. Remember that ~(으)리라 indicates an assumption, not a definitive statement.
+1. **Using ~(으)리라 in Casual Conversation**:
+   - Incorrect: *친구를 만나리라.* (in casual speech)
+   - Correct: *친구를 만날 거야.* (I will meet a friend.)
+   - **Tip**: Avoid using **~(으)리라** in everyday conversation; it's too formal and poetic.
+2. **Incorrect Attachment of Ending**:
+   - Incorrect: *먹으리라* with a vowel-ending verb.
+   - Correct: *자리라* (from *자다* - to sleep).
+   - **Tip**: Ensure you determine whether the verb stem ends with a vowel or consonant before adding **~(으)리라**.
 ### Learning Strategies
-To remember this grammar point:
-- Think of it as a soft prediction: "I assume it is likely that ..."
-- Associate the endings with the final sound of the stem to correct usage.
+- **Mnemonic Device**: Remember that **~(으)리라** sounds like "I really (리라) will," emphasizing determination.
+- **Exposure to Literature**: Read Korean poems or song lyrics to see **~(으)리라** used naturally.
+---
 ## 7. Summary and Review
 ### Key Takeaways
-- ~(으)리라 expresses probability or assumptions.
-- The ending changes depending on the final consonant of the verb/adjective stem.
-- It implies less certainty compared to -겠 and -을 것이다.
+- **~(으)리라** is a poetic and formal verb ending expressing strong assumption or determination.
+- Attach **~리라** to verb stems ending with vowels and **~으리라** to those ending with consonants.
+- Commonly used in literature, speeches, and song lyrics, not in everyday conversation.
 ### Quick Recap Quiz
-1. What does ~(으)리라 express?
-2. When is the ending -리라 used?
-3. Provide an example sentence using ~(으)리라.
-### Answers
-1. It expresses probability or assumption.
-2. It's used when the verb or adjective stem ends with a consonant.
-3. Example: 내일 비가 올 **리라**고 생각합니다. (I think it will probably rain tomorrow.)
+1. **Fill in the blank** with the correct form of **~(으)리라**:
+   - 우리는 반드시 성공___.
+   - **Answer**: **하리라** (from 성공하다)
+2. **True or False**: **~(으)리라** is appropriate for casual spoken Korean.
+   - **Answer**: **False**
+3. **Choose the correct conjugation** of **살다** (to live) with **~(으)리라**:
+   a) 살으리라  
+   b) 살리라  
+   - **Answer**: **b) 살리라**
+---
+**Congratulations!** You've learned how to use the poetic and formal Korean verb ending **~(으)리라** to express strong assumptions or determinations. Keep practicing by reading Korean literature and trying to identify this grammar point in context.
+
+---
+© [Hanabira.org](https://hanabira.org)

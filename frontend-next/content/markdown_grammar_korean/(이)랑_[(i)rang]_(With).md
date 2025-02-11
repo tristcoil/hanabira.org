@@ -1,67 +1,102 @@
 Processing keyword: (이)랑 [(i)rang] (With)
 # Korean Grammar Point: (이)랑 [(i)rang] (With)
-# Grammar Point: (이)랑 [(i)rang] (With)
+
 ## 1. Introduction
-The Korean grammar point (이)랑, pronounced as [(i)rang], is a particle used to indicate a companion or association. It is equivalent to the English word "with." This grammar point is often used in informal speech to connect nouns or to express companionship or accompaniment in actions.
+In Korean, expressing the concept of "with" or "and" can be done using several particles. One common and colloquial way is using **(이)랑** [(i)rang]. This particle is frequently used in everyday conversations to connect nouns and indicate companionship or addition.
+
+---
 ## 2. Core Grammar Explanation
-### Detailed Explanation
-- **Meaning**: The main role of (이)랑 is to link two nouns that are usually in association or together in action.
-- **Structure**: The choice between 이 and 랑 depends on the final consonant of the noun it attaches to.
-  - If the noun ends with a vowel or the final consonant is "ㄹ", use "랑".
-  - If the noun ends with any consonant besides "ㄹ", use "이랑".
+### Meaning
+**(이)랑** is a Korean particle used to:
+- **Connect nouns**: Similar to "and" in English.
+- **Indicate accompaniment**: Similar to "with" in English.
+### Structure
+The particle varies based on whether the preceding noun ends with a consonant or a vowel:
+- **Noun ending with a consonant + 이랑**
+- **Noun ending with a vowel + 랑**
 ### Formation Diagram
+```plaintext
+If Noun ends with consonant: Noun + 이랑
+If Noun ends with vowel:     Noun + 랑
 ```
-| Noun Ending       | Particle   | Example            |
-|------------------|------------|---------------------|
-| Vowel            | 랑         | 사과랑 (with apple) |
-| Consonant (ㄹ)   | 랑         | 할머니랑 (with grandma) |
-| Other Consonants  | 이랑       | 책이랑 (with book)   |
-```
+### Visual Aid: Structure Table
+
+| Noun Ending            | Particle to Use | Example                 |
+|------------------------|-----------------|-------------------------|
+| Ends with **consonant** | **이랑**         | 책 + 이랑 → 책이랑        |
+| Ends with **vowel**     | **랑**           | 나무 + 랑 → 나무랑        |
+
+---
 ## 3. Comparative Analysis
-### Comparison with Other Particles
-- **와/과**: Similar to (이)랑, the particles 와 (wa) and 과 (gwa) can also mean "with" but are more formal:
-  - 예: 친구와 (with a friend) vs. 친구랑 (with a friend)
-- **하고**: Another informal way to say "with" is 하고, which is common in spoken language.
-  - 예: 친구하고 (with a friend) vs. 친구랑 (with a friend)
-### Nuances
-While (이)랑, 하고, and 와/과 can often be used interchangeably, (이)랑 is more casual and commonly used in everyday conversation, whereas 와/과 tends to be used in more formal settings.
+### Comparing (이)랑 with Other Particles
+
+| Particle    | Usage                           | Formality Level |
+|-------------|---------------------------------|-----------------|
+| **(이)랑**   | "And" or "with" (colloquial)     | Informal        |
+| **하고**     | "And" or "with"                  | Neutral         |
+| **과/와**    | "And" (used in writing/formal)   | Formal          |
+
+**Note**: While **(이)랑** and **하고** are often interchangeable, **과/와** is more formal and commonly used in written language or formal speeches.
+
+---
 ## 4. Examples in Context
-### Sentence Examples
-1. **Formal**: 
-   - 저는 선생님과 가겠습니다.  
-   (I will go with the teacher.)
-2. **Informal**: 
-   - 나랑 영화를 볼래?  
-   (Do you want to watch a movie with me?)
-3. **Conversational**:
-   - 그 고양이랑 놀았어.  
-   (I played with that cat.)
-4. **Written/Formal Context**:
-   - 친구들과 함께 수업에 참석했습니다.  
-   (I attended the class with my friends.)
+### Informal Spoken Korean
+1. **친구랑 영화 봤어요.**
+   - *Chingurang yeonghwa bwasseoyo.*
+   - "I watched a movie **with** a friend."
+2. **사과랑 바나나를 샀어요.**
+   - *Sagwarang bananareul sasseoyo.*
+   - "I bought apples **and** bananas."
+### Formal Spoken/Written Korean
+In more formal contexts, **(이)랑** is replaced by **하고** or **과/와**.
+1. **친구와 영화 봤습니다.**
+   - *Chinguwa yeonghwa bwatsseumnida.*
+   - "I watched a movie **with** a friend."
+### Casual Conversations
+1. **고양이랑 놀고 있어요.**
+   - *Goyangirang nolgo isseoyo.*
+   - "I am playing **with** my cat."
+2. **오늘 엄마랑 통화했어요.**
+   - *Oneul ommarang tonghwahaesseoyo.*
+   - "I talked on the phone **with** my mom today."
+---
 ## 5. Cultural Notes
 ### Cultural Relevance
-The use of (이)랑 varies with contexts of politeness in Korean culture. Informal speech often uses (이)랑 depending on your relationship with the listener. For example, between friends, it is common to use (이)랑, whereas with elders or in formal situations, you might opt for 와/과.
+- Using **(이)랑** adds a casual and friendly tone to the conversation.
+- Often used among friends, family, or in informal settings.
+### Levels of Politeness and Formality
+- **(이)랑** is informal. Avoid using it in formal situations or with people of higher social status.
+- In formal contexts, use **하고** (neutral) or **과/와** (formal).
 ### Idiomatic Expressions
-- **친구랑 같이** - "together with friends" is a commonly used phrase among younger people.
-- **가족이랑** - "with family" indicates the importance of family gatherings in Korean culture.
+1. **너랑 나랑**
+   - "You and me"
+2. **하늘이랑 바다랑**
+   - "The sky and the sea"
+---
 ## 6. Common Mistakes and Tips
 ### Error Analysis
-- **Mixing Formal and Informal**: Some learners mistakenly use (이)랑 in formal situations:
-  - Incorrect: 할머니랑 드시겠습니다. (I will eat with grandmother.)
-  - Correct: 할머니와 드시겠습니다.
-  
+- **Using (이)랑 in Formal Settings**: It's inappropriate to use **(이)랑** in formal speech or writing.
+  - **Incorrect**: 회장님이랑 이야기했습니다.
+  - **Correct**: 회장님과 이야기했습니다.
 ### Learning Strategies
-- **Mnemonic Device**: Remember that (이)랑 is "informal" and often "ends with a sound" that relates to casual contexts, while 와/과 is for "formal" settings.
-  
+- **Mnemonic Device**: Remember that **(이)랑** sounds casual, just like chatting "around" with friends.
+- **Tip**: When in doubt about formality, opt for **하고** (neutral) or **과/와** (formal).
+---
 ## 7. Summary and Review
 ### Key Takeaways
-- (이)랑 is used to mean "with" in a casual context.
-- It attaches to nouns based on whether they end with a vowel/consonant.
-- It is more informal than the equivalent 와/과.
+- **(이)랑** is an informal particle meaning "and" or "with."
+- Attach **이랑** after consonants and **랑** after vowels.
+- Use **(이)랑** in casual conversations with peers or those close to you.
+- For formal situations, use **과/와** or **하고** instead.
 ### Quick Recap Quiz
-1. When do you use 랑 instead of 이랑?
-2. Provide an example of using (이)랑 in a sentence.
-3. Which particle would you use in a formal invitation: (이)랑 or 와?
+1. What particle would you use to connect nouns in an informal setting?
+   - **Answer**: (이)랑
+2. How would you say "with my teacher" formally?
+   - **Answer**: 선생님과
+3. Is it appropriate to use **(이)랑** in a business meeting?
+   - **Answer**: No, you should use more formal particles like **과/와**.
 ---
-By understanding and practicing the use of (이)랑, you'll enhance your conversational abilities in Korean while navigating the nuances of formality and cadence in the language!
+Feel free to practice using **(이)랑** by creating your own sentences! Remember to consider the level of formality required in each situation.
+
+---
+© [Hanabira.org](https://hanabira.org)

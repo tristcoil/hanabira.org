@@ -1,62 +1,89 @@
 Processing keyword: ~고 말다 [go malda] (End up)
 # Korean Grammar Point: ~고 말다 [go malda] (End up)
-# Grammar Point: ~고 말다 [go malda] (End up)
-## Introduction
-The grammar point ~고 말다 is used to indicate that something ends up happening unexpectedly or inevitably after an action has taken place. It conveys a sense of finality or conclusion, often with a nuance of regret or inevitability.
-## Core Grammar Explanation
-### Detailed Explanation
-- **Meaning**: The structure signifies that an action has been completed, often in a way that was not entirely desired or that led to unexpected results.
-- **Structure**: The pattern is formed by taking a verb stem and attaching ~고 말다.
-  
-### Formation Diagram:
-1. **Identify Verb**: Start with a verb in its dictionary form (e.g., 가다 [gada] to go).
-2. **Remove Ending**: Remove the 다 (da) ending to get the stem (e.g., 가 [ga]).
-3. **Add ~고 말다**: Attach 고 말다 to the verb stem.  
-   Example: 가 + 고 말다 → 가고 말다 → "end up going"
-### Visual Aids
-| Step          | Action                            | Example               |
-|---------------|-----------------------------------|-----------------------|
-| 1. Identify   | Choose a verb                     | 가다 (go)             |
-| 2. Remove     | Take off 다                       | 가                     |
-| 3. Attach     | Add 고 말다                       | 가고 말다              |
-| 4. Usage      | Create a sentence                 | "I ended up going."   |
-## Comparative Analysis
-- **Similar To**: ~게 되다 ([ge-dwa]) also indicates change or transition to a state (e.g., “I came to like something”).
-- **Difference**: ~고 말다 emphasizes the finality and unexpected outcome, while ~게 되다 focuses more on the process leading to a new situation.
-## Examples in Context
-### Sentence Examples
-1. **Informal**: 
-   - "영화를 보러 가고 말았어." 
-   - "I ended up going to watch a movie."
-2. **Formal**: 
-   - "회의를 잊고 말았습니다."
-   - "I ended up forgetting the meeting."
-3. **Written**: 
-   - "결국 그 문제를 해결하고 말았다."
-   - "In the end, I managed to solve the problem."
-4. **Spoken**: 
-   - "친구와 싸우고 말았어요."
-   - "I ended up fighting with my friend."
-## Cultural Notes
-### Cultural Relevance
-Using ~고 말다 can reflect a sense of inevitability and serve to express regret or disappointment. In Korean culture, where social harmony is valued, expressing regret for an unexpected outcome adds a layer of politeness and awareness of social relations.
+
+## 1. Introduction
+The Korean grammar point **~고 말다** is used to express that an action has been completed eventually or inevitably, often with a sense of regret, unintended outcome, or inevitability. It can be translated as "end up doing," "finally do," or "eventually do" something.
+
+---
+## 2. Core Grammar Explanation
+### Meaning
+- **~고 말다** indicates that an action is completed, sometimes against one's intention or expectations.
+- It often conveys feelings such as regret, frustration, or inevitability about the outcome.
+### Structure
+The structure combines the verb stem with **~고 말다**.
+```
+[Verb Stem] + 고 말다
+```
+### Formation Diagram
+```plaintext
+Verb Stem + 고 말다
+```
+- **Verb Stem**: The base form of the verb without **다**.
+- **고 말다**: Attached to express the completion of an action.
+### Usage Notes
+- **Past Tense**: When conjugated in the past tense, it emphasizes that the action has been completed.
+  ```
+  [Verb Stem] + 고 말았다
+  ```
+- **Future Tense**: It can also be used in future tense to express determination, often in the form **~고 말겠다**.
+---
+## 3. Comparative Analysis
+### Similar Grammar Points
+- **~아/어 버리다**: Also expresses the completion of an action, often with a sense of relief or regret.
+  - **Difference**: **~고 말다** often implies that the action was inevitable or unintended, whereas **~아/어 버리다** emphasizes the action's completion with emotional nuance.
+---
+## 4. Examples in Context
+### Example Sentences
+1. **공부를 안 해서 시험에 떨어지고 말았어요.**
+   _Gongbureul an haeseo siheome tteoreojigo marasseoyo._
+   - I ended up failing the exam because I didn't study.
+2. **비밀을 지키지 못하고 말았습니다.**
+   _Bimireul jikiji mothago marasseumnida._
+   - I couldn't keep the secret in the end.
+3. **버스를 놓치고 말았어요.**
+   _Beoseureul nochigo marasseoyo._
+   - I ended up missing the bus.
+4. **그들은 결국 이혼하고 말았다.** (Written, formal)
+   _Geudeureun gyeolguk ihonhago maratda._
+   - They eventually ended up divorcing.
+5. **무리한 운동을 하다가 병이 나고 말았어요.**
+   _Murihan undongeul hadaga byeongi nago marasseoyo._
+   - I overexerted myself exercising and ended up getting sick.
+---
+## 5. Cultural Notes
+### Levels of Politeness and Formality
+- **~고 말다** can be used in various speech levels by conjugating **말다** appropriately.
+  - **Informal**: 말았어
+  - **Polite**: 말았어요
+  - **Formal**: 말았습니다
 ### Idiomatic Expressions
-- "결국 이렇게 되고 말았네." 
-  - "In the end, this is how it turned out."
-## Common Mistakes and Tips
-### Error Analysis
-- **Common Mistake**: Using the wrong verb form. Ensure to identify the correct stem.
-- **Tip**: Remember that ~고 말다 is often associated with past actions that had unexpected outcomes.
+- **죽고 말다**
+  - Literally "end up dying," but can be used idiomatically to express doing something to death or with intense emotion.
+---
+## 6. Common Mistakes and Tips
+### Common Mistakes
+1. **Confusing with ~아/어 버리다**
+   - **Tip**: Remember that **~고 말다** often carries a sense of inevitability or unintended results.
+2. **Incorrect Verb Stem Attachment**
+   - **Tip**: Ensure you attach **~고 말다** directly to the verb stem without any tense markers.
 ### Learning Strategies
-- **Mnemonic Device**: Think of "go" in ~고 as a guide toward the "end" with ~말다. 
-  - *"Go to the end."*
-## Summary and Review
+- **Mnemonic Device**:
+  - Think of **말다** as "to stop," but when combined as **~고 말다**, the action proceeds to completion despite intentions, hence "end up doing."
+---
+## 7. Summary and Review
 ### Key Takeaways
-- ~고 말다 indicates an unexpected or regrettable outcome of an action.
-- The structure is simple: verb stem + 고 말다.
-- Use in both formal and informal contexts to convey a sense of finality.
+- **~고 말다** expresses that an action has been completed, often inevitably or unintentionally.
+- It is used to convey regret, frustration, or inevitability.
+- Attach **~고 말다** directly to the verb stem.
 ### Quick Recap Quiz
-1. What does ~고 말다 mean?
-2. How do you form ~고 말다 with a verb?
-3. Give an example sentence using ~고 말다 in an informal context. 
-Feel free to reflect on the grammar point and practice using it in your conversations!
+1. How do you express "I ended up telling the truth" using **~고 말다**?
+   - **Answer**: 진실을 말하고 말았어요.
+2. What feeling is often associated with **~고 말다**?
+   - **Answer**: Regret, frustration, or a sense of inevitability.
+3. How is **~고 말다** different from **~아/어 버리다**?
+   - **Answer**: **~고 말다** implies inevitability or unintended outcome, whereas **~아/어 버리다** emphasizes completion with emotional nuance.
+---
+**Congratulations!** You've learned how to use **~고 말다** to express actions that end up happening, often with a sense of inevitability or regret.
+
+---
+© [Hanabira.org](https://hanabira.org)

@@ -1,60 +1,114 @@
 Processing keyword: Noun に即した Noun (A ni sokushita B)
 # Japanese Grammar Point: Noun に即した Noun (A ni sokushita B)
-# Noun に即した (Noun ni sokushita)
+
 ## 1. Introduction
-The grammar point **に即した (ni sokushita)** translates to "in accordance with" or "based on". This structure expresses the idea that something is aligned with, relevant to, or adheres to a particular noun or concept.
+In this lesson, we'll explore the grammar pattern **「Noun に即した Noun」** (A にそくした B), a construction used to express that something (B) is done **in accordance with**, **based on**, or **in line with** something else (A). This pattern is useful for expressing conformity or adherence to policies, rules, principles, or situations.
+
+---
 ## 2. Core Grammar Explanation
-### Detailed Explanation
-- **Formation**: The structure is made up of a noun followed by the particle **に**, then the adjective **即した (sokushita)**, which is derived from the verb **即する (sokusuru)** meaning "to correspond" or "to comply".
-- **Meaning**: This phrase indicates that a certain action, decision, or characteristic aligns with or is guided by the subject represented by the noun.
+### Meaning
+**「Noun に即した Noun」** conveys the meaning of **"a B that is in accordance with A"** or **"B done based on A"**.
 ### Structure
-- **Structure Diagram**:
-  ```
-  [Noun] + に即した + [Noun/Action]
-  ```
-  
-### Visual Aids
-| Noun (A) | Action/Result (B)               | Meaning                     |
-|----------|----------------------------------|-----------------------------|
-| 教育 (kyouiku) | 政策 (seisaku)                   | Education-based policy      |
-| 経済 (keizai)  | 分析 (bunseki)                     | Economic analysis           |
-| 文化 (bunka)  |イベント (ibento)                | Culture-based events        |
+The structure of this grammar point is:
+```
+A に即した B
+```
+- **A に即した B**
+  - **A**: Reference noun (policy, rule, principle, situation, etc.)
+  - **に即した**: "in accordance with," derived from the verb **即する** (sokusuru) in its past form
+  - **B**: The noun that is done or exists in accordance with A
+### Formation Diagram
+```plaintext
+[Noun A] に即した [Noun B]
+    |          |
+ Reference     |
+   noun        |
+               |
+     "in accordance with"
+```
+---
 ## 3. Comparative Analysis
-The structure **に即した** is similar to **に基づく (ni motozuku)**, which means "based on". However, **に即した** has a more direct implication of alignment or conformity, while **に基づく** can suggest a more general foundation or basis. 
-### Key Differences
-- **に即した** is more about adherence and specific alignment to a noun.
-- **に基づく** discusses a foundation or basis, without the emphasis on direct alignment.
+### Similar Grammar Patterns
+1. **Noun に基づいた Noun** (Noun ni motozuita Noun)
+   - **Meaning**: "B based on A"
+   - **Nuance**: Emphasizes that B is created or decided based on A as a foundation.
+   - **Example**: 規則に基づいた判断 (A decision based on rules)
+2. **Noun をもとにした Noun** (Noun o motonishita Noun)
+   - **Meaning**: "B based on A"
+   - **Nuance**: Similar to に基づいた but can also imply using A as a material or inspiration.
+   - **Example**: 実話をもとにした映画 (A movie based on a true story)
+**Comparison with に即した**
+- **に即した** emphasizes conformity or alignment with A, especially following standards, norms, or situations.
+- **に基づいた** focuses on A as a basis or foundation for B.
+- **をもとにした** often involves using A as material or inspiration for B.
+---
 ## 4. Examples in Context
-### Sentence Examples
-1. **この新しい法律は、環境に即した政策です。**
-   - **Translation**: This new law is a policy based on environmental considerations.
-2. **私たちは、教育に即したプログラムを開発しています。**
-   - **Translation**: We are developing programs that align with educational needs.
-3. **このプロジェクトは、文化に即したアプローチが求められます。**
-   - **Translation**: This project requires an approach that corresponds to the cultural context.
-4. **報告書は経済に即したデータを含んでいます。**
-   - **Translation**: The report contains data that is based on the economy.
+### Example Sentences
+1. **Formal - Written**
+   - **日本国憲法に即した法律を制定する。**
+     - *Nihonkokukenpō ni sokushita hōritsu wo seitei suru.*
+     - "Enact laws in accordance with the Japanese Constitution."
+2. **Formal - Spoken**
+   - **会社の方針に即した計画を立てましょう。**
+     - *Kaisha no hōshin ni sokushita keikaku wo tatemashō.*
+     - "Let's make plans that align with the company's policy."
+3. **Informal - Spoken**
+   - **現状に即した対応が必要だ。**
+     - *Genjō ni sokushita taiō ga hitsuyō da.*
+     - "We need a response that fits the current situation."
+4. **Written - Academic**
+   - **倫理に即した行動が求められる。**
+     - *Rinri ni sokushita kōdō ga motomerareru.*
+     - "Actions in accordance with ethics are required."
+5. **Spoken - Polite**
+   - **お客様のニーズに即したサービスを提供いたします。**
+     - *Okyakusama no nīzu ni sokushita sābisu wo teikyō itashimasu.*
+     - "We offer services that meet our customers' needs."
+---
 ## 5. Cultural Notes
 ### Cultural Relevance
-Using **に即した** reflects the Japanese value of harmony and context. Businesses and government policies often strive to adhere to societal norms and cultural values, making this phrase significant in formal discussions.
-### Politeness and Formality
-The structure is typically used in formal contexts, such as official documents, business proposals, or academic papers. 
+In Japanese business and societal contexts, conforming to established rules, norms, and policies is highly valued. The use of **に即した** reflects the importance placed on harmony and adherence to group standards.
+### Levels of Politeness and Formality
+- **に即した** is formal and commonly used in written language, official statements, and formal speeches.
+- It conveys a serious and professional tone, suitable for business, legal, and academic contexts.
 ### Idiomatic Expressions
-- **ユーザーに即したデザイン** (User ni sokushita dezain) - User-oriented design.
+- **時代に即した教育**
+  - *Jidai ni sokushita kyōiku*
+  - "Education in line with the times"
+---
 ## 6. Common Mistakes and Tips
 ### Error Analysis
-Common mistakes include mixing up **に即した** with **に基づく**, leading to confusion about the meaning of alignment versus basis.
+1. **Using the wrong particle**
+   - Incorrect: **規則を即した行動**
+     - *Kisoku **wo** sokushita kōdō*
+   - Correct: **規則に即した行動**
+     - *Kisoku **ni** sokushita kōdō*
+   - **Tip**: Always use **に** with **即した**.
+2. **Misusing with verbs directly**
+   - Incorrect: **規則に即して行く**
+   - Correct: **規則に即した行動をする**
+   - **Tip**: **に即した** modifies nouns, not verbs directly.
 ### Learning Strategies
-- **Mnemonic Device**: Associate **即した** with "instant alignment", as both suggest immediate correspondence or relevance to the noun.
-  
+- **Mnemonic Device**: **"Soku" sounds like "so" in "so that" – think "A so that B aligns."**
+- **Remember**: **即した** comes from **即する**, meaning "to conform to." Associate it with "sticking closely to" something.
+---
 ## 7. Summary and Review
 ### Key Takeaways
-- **に即した (ni sokushita)** means "in accordance with" or "based on".
-- Structure: [Noun] + に即した + [Noun/Action]
-- Use in formal contexts to express alignment with specific subjects.
-- Different from **に基づく**, which implies a more general foundation.
+- **に即した** means "in accordance with" or "in line with."
+- Used to express that B conforms to or aligns with A.
+- Commonly used in formal contexts.
+- Be mindful of similar expressions and choose based on nuance.
 ### Quick Recap Quiz
-1. What does **に即した** translate to?
-2. Analyze the difference between **に即した** and **に基づく**.
-3. Create a sentence using **に即した** that relates to a social issue.
-Feel free to ask if you have any questions or need further clarification!
+1. What does **「会社の方針に即した計画」** mean in English?
+   - **Answer**: "A plan that aligns with the company's policy."
+2. Which particle is used with **即した**?
+   - **Answer**: **に**
+3. True or False: **に即した** can be used interchangeably with **に基づいた** without any nuance difference.
+   - **Answer**: **False** (They have similar but distinct nuances.)
+---
+By understanding and practicing **「Noun に即した Noun」**, you'll enhance your ability to express conformity and alignment in Japanese, which is crucial for formal writing and professional communication.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

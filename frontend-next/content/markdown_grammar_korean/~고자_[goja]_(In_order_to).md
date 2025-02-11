@@ -1,91 +1,92 @@
 Processing keyword: ~고자 [goja] (In order to)
 # Korean Grammar Point: ~고자 [goja] (In order to)
-# Grammar Point: ~고자 [goja] (In order to)
-## Introduction
-The Korean grammar point ~고자 (goja) is used to express intent or purpose, similar to saying "in order to" in English. It is often utilized in formal or written contexts to indicate the speaker's aim or reason for doing something.
+
+## 1. Introduction
+The Korean grammar pattern **~고자** is used to express the intention or purpose of the speaker, similar to "in order to" or "with the intention of" in English. It is commonly used in formal writing and speeches.
+
 ---
-## Core Grammar Explanation
+## 2. Core Grammar Explanation
 ### Meaning
-~고자 conveys the meaning of "in order to" or "for the purpose of." It introduces a purpose or intention behind an action. 
+- **~고자** indicates the speaker's purpose or intention for performing an action.
+- It connects two clauses where the first clause explains the purpose of the second.
 ### Structure
-The structure of this grammar point can be broken down as follows:
-1. **Verb stem + 고자**
-2. If the verb stem ends in a vowel, you simply add ~고자.
-3. If the verb stem ends in a consonant, the form doesn't change, simply add ~고자.
-**Examples:**
-- 가다 (gada) → 가고자 (gagoja) (to go → in order to go)
-- 배우다 (baeuda) → 배우고자 (baeugoja) (to learn → in order to learn)
-### Formation Diagram
-```markdown
-Verb Stem + 고자 → 
-- 가다 → 가고자 (to go → in order to go)
-- 배우다 → 배우고자 (to learn → in order to learn)
+**Formation:**
+- **Verb Stem + 고자 + Main Verb**
+**Diagram:**
 ```
+[Purpose Verb Stem] + 고자 + [Main Action]
+```
+**Example Formation:**
+- **알리**(to inform) + **고자** + **편지를 씁니다** (write a letter)
+- *I am writing a letter in order to inform (you).*
+### Notes
+- Used predominantly in **formal contexts** such as official statements, academic writing, or formal speeches.
+- Not commonly used in everyday casual conversations.
 ---
-## Visual Aids
-| Verb Stem   | + 고자 | Translated Meaning        |
-|-------------|--------|---------------------------|
-| 가다        | 고자   | (in order) to go         |
-| 배우다     | 고자   | (in order) to learn      |
-| 하다        | 고자   | (in order) to do         |
-| 읽다        | 고자   | (in order) to read       |
+## 3. Comparative Analysis
+| Grammar Pattern | Meaning               | Usage                     |
+|-----------------|-----------------------|---------------------------|
+| **~고자**       | In order to           | Formal, written/spoken    |
+| **~(으)려고**   | In order to           | Informal, conversational  |
+| **~기 위해(서)**| In order to/For the sake of | Neutral, versatile       |
+- **~(으)려고**: More common in spoken language and informal contexts.
+- **~기 위해(서)**: Can be used with both verbs and nouns; appropriate in both formal and informal settings.
+- **~고자**: Reserved for formal situations; adds a level of formality to the sentence.
 ---
-## Comparative Analysis
-### Similar Grammar Points
-**1. ~려고 [ryeogo]**
-- **Usage**: ~려고 also means "in order to," but it is more common in spoken language and conveys a slightly less formal tone.
-- **Example**: 공부하려고 가다 (gongbuhalyeogo gada) - "I go to study."
-**Key Difference**: ~고자 is more formal and often used in written language, whereas ~려고 is more casual and used in speech.
-### Summary Table
-| Grammar Point | Usage Context | Example                   | Translation            |
-|----------------|---------------|---------------------------|------------------------|
-| ~고자          | Formal        | 보고서를 제출하고자 한다 (I want to submit the report.) |                        |
-| ~려고          | Informal      | 영화를 보려고 해. (I plan to watch a movie.) |                        |
+## 4. Examples in Context
+### Formal Written Examples
+1. **회사의 발전을 도모하고자 새로운 전략을 수립했습니다.**
+   *We have established a new strategy in order to promote the company's development.*
+2. **환경 오염을 줄이고자 다양한 노력을 하고 있습니다.**
+   *We are making various efforts in order to reduce environmental pollution.*
+3. **학생들의 실력을 향상시키고자 특별 강의를 마련했습니다.**
+   *We have prepared special lectures in order to improve the students' abilities.*
+### Contrast with Informal Usage
+- Using **~(으)려고** instead in casual conversation:
+  - **친구를 만나려고 카페에 갔어요.**
+    *I went to the cafe to meet a friend.*
 ---
-## Examples in Context
-### Sentence Examples
-1. **Formal Context**:
-   - 이 회의는 문제를 해결하고자 진행됩니다.  
-     (Ihueuisun munjeleul haegyeolhagoja jinhaengdoemnida.)  
-     "This meeting is being held to solve the problems."
-2. **Informal Context**:
-   - 잘 하려고 노력하고 있어.  
-     (Jal haryeogo noreughago isseo.)  
-     "I’m trying hard to do well."
-3. **Written Context**:
-   - 이 연구는 환경 보호를 위해 실시하고자 합니다.  
-     (I yeongun-eun hwangyeong bohoreul wihae silsi-hagoja hamnida.)  
-     "This study aims to conduct for environmental protection."
-4. **Spoken Context**:
-   - 저녁 먹으러 가고자 해.  
-     (Jeonyeok meogeureo gagoja hae.)  
-     "I want to go to eat dinner."
+## 5. Cultural Notes
+### Politeness and Formality
+- Mastery of formal grammar patterns like **~고자** demonstrates respect and awareness of Korean social hierarchies.
+- Appropriate use reflects politeness, especially in professional or academic settings.
+### Social Context
+- Using **~고자** in everyday conversation may sound overly formal or stiff.
+- Recognizing when to use formal versus informal grammar is key in Korean communication.
 ---
-## Cultural Notes
-### Cultural Relevance
-- Using ~고자 reflects a level of politeness and respect in Korean language culture, especially in formal situations. It is frequently found in official announcements, academic papers, and national speeches.
-### Levels of Politeness
-- ~고자 is typically considered more formal than conversational expressions. Therefore, it is critical to choose the correct grammar point based on the audience.
-### Idiomatic Expressions
-- While ~고자 itself isn't an idiom, it is often found in formal announcements or documents emphasizing purpose (e.g., "국가 발전을 위하여 고자 합니다" - "We aim for national development").
----
-## Common Mistakes and Tips
+## 6. Common Mistakes and Tips
 ### Error Analysis
-- **Common Mistake**: Confusing ~고자 with ~려고. Many learners use one instead of the other based on familiarity or sounds.
-- **Tip**: Practice differentiating the two contexts where each grammar point is most appropriately used.
+1. **Using ~고자 in Informal Speech**
+   - *Incorrect:* **영화를 보고자 해요.** (Too formal for casual talk)
+   - *Correct:* **영화를 보려고 해요.**
+2. **Incorrect Attachment**
+   - *Incorrect:* **먹고자하다** (Attaching **하다** unnecessarily)
+   - *Correct:* **먹고자**
 ### Learning Strategies
-- **Mnemonic Device**: Remember “고자” (goja) for “Goals” - think of it as “setting a goal in a formal context.”
-- **Practice Contexts**: Use both forms in sentences to develop a solid understanding of when to use them.
+- **Mnemonic Device:** Remember that **고자** is like "formal GOAL-ja" – use it when expressing goals formally.
+- **Tip:** If the context is formal (e.g., presentations, reports), opt for **~고자**.
 ---
-## Summary and Review
+## 7. Summary and Review
 ### Key Takeaways
-- The grammar point ~고자 denotes purpose and formality.
-- It is more suitable for written or formal contexts compared to ~려고.
-- Understanding when to apply each form enhances clarity in both speaking and writing.
+- **~고자** is used to express purpose in a formal manner.
+- Attach it directly to the verb stem without adding **하다**.
+- Prefer **~(으)려고** or **~기 위해(서)** in informal or neutral contexts.
 ### Quick Recap Quiz
-1. What does ~고자 mean in English?
-2. How can you form a verb using ~고자?
-3. Is ~고자 more formal than ~려고? (Yes/No)
-4. Provide an example sentence using ~고자.
+1. Choose the appropriate grammar pattern for formal writing:
+   - 우리는 문제를 해결____ 회의를 개최했습니다.
+     a) (으)려고  
+     b) 고자  
+     c) 기 위해서  
+2. Is **~고자** suitable for casual conversation?
+   - **Yes** / **No**
+### Answers:
+1. b) **고자**
+   - *우리는 문제를 해결**고자** 회의를 개최했습니다.*
+     *We held a meeting in order to solve the problem.*
+2. **No**
+   - **~고자** is too formal for casual conversation.
 ---
-Feel free to ask if you would like to delve deeper into any specific aspects or examples related to this grammar point!
+By understanding and practicing the use of **~고자**, you can enhance your formal writing and speech in Korean. Remember to choose the appropriate grammar pattern based on the context and level of formality.
+
+---
+© [Hanabira.org](https://hanabira.org)

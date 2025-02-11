@@ -1,75 +1,97 @@
 Processing keyword: ~을/ㄹ지도 모르다 [eul/ljido moreuda] (Might)
 # Korean Grammar Point: ~을/ㄹ지도 모르다 [eul/ljido moreuda] (Might)
-# Grammar Point: ~을/ㄹ지도 모르다
+
 ## 1. Introduction
-The grammar structure **~을/ㄹ지도 모르다** is used to express uncertainty or possibility regarding an action or event. It translates to "might" or "may" in English, indicating that something is a possibility, but not a certainty.
+In Korean, expressing possibility or uncertainty is essential for everyday conversations. The grammar pattern **~을/ㄹ지도 모르다** is commonly used to indicate that something **might** happen or that someone **might** do something. In this lesson, we'll explore how to use this grammar point effectively.
+
 ---
 ## 2. Core Grammar Explanation
+### Meaning
+The expression **~을/ㄹ지도 모르다** translates to "**might**, **may**, or **it's possible that**" in English. It conveys the speaker's uncertainty about an action or event.
+### Structure
+To form this expression, attach **~을지도 모르다** or **~ㄹ지도 모르다** to the verb stem.
+#### Formation Diagram:
+| Verb Ending              | Attachment          | Example Verb | Grammar Form           | Meaning                 |
+|--------------------------|---------------------|--------------|------------------------|-------------------------|
+| Verb stem ending with a **consonant** | ~을지도 모르다 | 먹다 (to eat)   | 먹**을지도 모르다** | might eat               |
+| Verb stem ending with a **vowel**     | ~ㄹ지도 모르다 | 가다 (to go)    | 가**ㄹ지도 모르다**  | might go                |
 ### Detailed Explanation
-The structure **~을/ㄹ지도 모르다** combines a verb or adjective stem with the endings **-을지** (for verbs/adjectives that end in a consonant) and **-ㄹ지** (for verbs/adjectives that end in a vowel) followed by **모르다** (to not know).
-#### Structure:
-- **Verb/Adjective Stem + ~을/ㄹ지도 모르다**
-  - Example: 가다 (to go) → 갈지도 모르다 (might go)
-  - Example: 좋다 (to be good) → 좋을지도 모르다 (might be good)
-### Formation Diagram:
-```
-Verb/Adjective → Stem + 을/ㄹ + 지도 모르다
-```
+- **Verb Stem**: The base form of the verb without the **-다** ending.
+- **~을/ㄹ지도 모르다**:
+  - **을지도 모르다**: Used after verb stems ending with a consonant.
+  - **ㄹ지도 모르다**: Used after verb stems ending with a vowel.
+The verb **모르다** means "to not know." When combined, the expression literally means "I don't know if...", but it is used to express uncertainty, similar to "might" in English.
 ---
 ## 3. Comparative Analysis
-The structure **~을/ㄹ지도 모르다** is similar to **~거나 /거나 할지도 모르다**, which also expresses uncertainty. However, **~거나 /거나 할지도 모르다** is often used for scenarios where multiple options are available. On the other hand, **~을/ㄹ지도 모르다** focuses on the possibility of a specific action or state.
-### Example Comparison
-- **~을/ㄹ지도 모르다**: 내일 비가 올지도 몰라요. (It might rain tomorrow.)
-- **~거나 /거나 할지도 모르다**: 내일 영화 보거나 쇼핑할지도 몰라요. (I might watch a movie or go shopping tomorrow.)
+### Comparison with ~을/ㄹ 거예요 (Future Tense)
+- **~을/ㄹ 거예요**: Expresses a strong intention or a high probability of future action.
+  - Example: 내일 비가 **올 거예요**. (It **will** rain tomorrow.)
+- **~을/ㄹ지도 모르다**: Indicates possibility with uncertainty.
+  - Example: 내일 비가 **올지도 몰라요**. (It **might** rain tomorrow.)
+### Comparison with ~겠~
+- **~겠~**: Can express speculation or supposition.
+  - Example: 그 사람이 오겠어요. (That person might come.)
+- **~을/ㄹ지도 모르다**: Specifically emphasizes uncertainty.
+  - Example: 그 사람이 **올지도 몰라요**. (That person might come.)
 ---
 ## 4. Examples in Context
-### Sentence Examples
-1. **Formal:**
-   - 내일 회의에 참석하지 않을지도 모르겠습니다.  
-     *[I might not attend the meeting tomorrow.]*
-  
-2. **Informal:**
-   - 그는 오늘 늦을지도 몰라.  
-     *[He might be late today.]*
-  
-3. **Written:**
-   - 이 제품이 품절일지도 모르니 미리 주문하시기 바랍니다.  
-     *[Please order in advance as this product might be sold out.]*
-  
-4. **Spoken:**
-   - 이번 주말에 비가 올지도 몰라, 계획 변경해야 할 것 같아.  
-     *[It might rain this weekend; I think we need to change our plans.]*
-  
+### Formal Context
+1. **회의가 연기될지도 모릅니다.**
+   - *The meeting might be postponed.*
+2. **그분이 참석하실지도 모릅니다.**
+   - *He/She might attend.*
+### Informal Context
+1. **비가 올지도 몰라. 우산 가져가.**
+   - *It might rain. Take an umbrella.*
+2. **늦을지도 모르니까 먼저 가자.**
+   - *We might be late, so let's go first.*
+### Written Context
+1. **이 약을 먹으면 졸음이 올지도 모른다.**
+   - *Taking this medicine might cause drowsiness.*
+2. **계획이 변경될지도 모르니 확인하세요.**
+   - *Please check since the plans might change.*
+### Spoken Context
+1. **그 영화 재미있을지도 몰라요.**
+   - *That movie might be interesting.*
+2. **지금 출발하면 길이 막힐지도 몰라요.**
+   - *If we leave now, we might hit traffic.*
 ---
 ## 5. Cultural Notes
-### Cultural Relevance
-In Korean culture, expressing uncertainty is done with caution, often accompanied by a level of politeness. Using **~을/ㄹ지도 모르다** shows awareness of possibilities and consideration for how one’s statements may impact others’ expectations.
-### Levels of Politeness and Formality
-The grammatical ending and context determine the level of politeness. Using the formal version can convey respect in professional or formal settings, while informal versions are perfectly acceptable among friends.
+### Politeness Levels
+- The ending **~요** is added for politeness in spoken Korean.
+  - Example: 갈지도 몰라요. (I might go.)
+- For formal situations, use **~입니다/습니다**.
+  - Example: 갈지도 모릅니다.
 ### Idiomatic Expressions
-Common idioms that may include this structure:
-- “잘해도 나도 이길지도 모르겠다.”  
-  *[Even if I do well, I might lose too.]*
+- **누가 알겠어요? 내일은 더 나을지도 몰라요.**
+  - *Who knows? Tomorrow might be better.*
+- Reflects the Korean cultural tendency to be humble and avoid making definitive statements without certainty.
 ---
 ## 6. Common Mistakes and Tips
-### Error Analysis
-1. **Incorrect Use of Verb Stems:** 
-   - Students may forget to change the verb stem properly according to whether it ends in a vowel or consonant.
-   - Example Mistake: 하다 → 하지도 모르다 (correct: 할지도 모르다)
-2. **Overusing in Casual Contexts:**
-   - Using **~을/ㄹ지도 모르다** in very casual conversations can come off as overly formal. 
-### Learning Strategies
-- **Mnemonic Device:** Remember that “모르다” means “to not know,” which can help recall that **~을/ㄹ지도 모르다** is about expressing uncertainty.
-- **Practice:** Use this structure when speaking or writing about plans to strengthen recognition and usage.
+### Common Mistakes
+1. **Forgetting to adjust **을/ㄹ** based on the verb stem ending.**
+   - Incorrect: 가**을지도 모르다** (Incorrect because **가** ends with a vowel.)
+   - Correct: 가**ㄹ지도 모르다**
+2. **Confusing with future tense **~을/ㄹ 거예요** which expresses more certainty.**
+### Tips
+- **Mnemonic Device**: Remember that **모르다** means "to not know," so using **~을/ㄹ지도 모르다** implies "I don't know if..., but it might..."
+- **Practice**: Create sentences using verbs you commonly use to get familiar with the pattern.
 ---
 ## 7. Summary and Review
 ### Key Takeaways
-- The structure **~을/ㄹ지도 모르다** indicates that something might happen or be true.
-- It is used to express uncertainty and is polite when stated in formal contexts.
-- The correct application depends on the final vowel or consonant of the verb/adjective stem.
+- **~을/ㄹ지도 모르다** is used to express possibility or uncertainty, equivalent to "might" or "may" in English.
+- Attach **~을지도 모르다** after consonant-ending verb stems and **~ㄹ지도 모르다** after vowel-ending verb stems.
+- It conveys a sense of uncertainty and is polite to use in various contexts.
 ### Quick Recap Quiz
-1. How would you say "I might go to the party" using **~을/ㄹ지도 모르다**?
-2. Is "할지도 모르다" the correct usage for 하다 (to do)?
-3. Compare the meaning of **~을/ㄹ지도 모르다** and **~거나 할지도 모르다** with examples.
+1. How do you say "He might not come" using **~을/ㄹ지도 모르다**?
+2. Choose the correct form: 먹다 + **~을/ㄹ지도 모르다** = 먹___지도 모르다.
+3. Translate to Korean: "It might snow tomorrow."
+#### Answers:
+1. **그가 안 올지도 몰라요.**
+2. 먹**을**지도 모르다.
+3. **내일 눈이 올지도 몰라요.**
 ---
-Feel free to ask questions or request more practice examples!
+By mastering **~을/ㄹ지도 모르다**, you can express uncertainty and possibilities more naturally in Korean. Practice by making sentences about everyday situations that might happen!
+
+---
+© [Hanabira.org](https://hanabira.org)

@@ -1,60 +1,133 @@
 Processing keyword: ～つもりだ (〜tsumori da)
 # Japanese Grammar Point: ～つもりだ (〜tsumori da)
-# Detailed Explanation of ～つもりだ (〜tsumori da)
-## Introduction
-The grammar point ～つもりだ (〜tsumori da) is used to express intentions, plans, or resolutions. It conveys a speaker's determination or what they intend to do in the future. This expression is quite common in both spoken and written Japanese.
-## Core Grammar Explanation
-### Structure and Formation
-The structure of ～つもりだ consists of the verb in its dictionary form, followed by つもりだ (tsumori da). 
-**Formation Diagram:**
-- Verb (dictionary form) + つもりだ
-### Breakdown of Meaning
-- **つもり** (tsumori): This means "intention" or "plan."
-- **だ** (da): This is the copula and can be thought of as "is" in English.
-### Usage Examples:
-- 私は明日学校に行くつもりです。(Watashi wa ashita gakkou ni iku tsumori desu.)
-  - I plan to go to school tomorrow.
-  
-- 彼女は来週旅行に行くつもりだ。(Kanojo wa raishuu ryokou ni iku tsumori da.)
-  - She intends to go on a trip next week.
-## Comparative Analysis
-### Differences with Similar Grammar Points
-- **～と思う (〜to omou)**: While つもりだ indicates a firm intention, と思う expresses a thought or expectation that is less certain. For example:
-  - 明日行くと思う。(Ashita iku to omou.) - I think I will go tomorrow.
-  
-- **～予定だ (〜yotei da)**: This refers to a scheduled plan, often used for more formal or definite plans. It indicates that something is already arranged.
-  - 明日行く予定だ。(Ashita iku yotei da.) - I am scheduled to go tomorrow.
-## Examples in Context
-### Sentence Examples
-| Context         | Japanese                                              | English                               |
-|-----------------|------------------------------------------------------|---------------------------------------|
-| Formal          | 来週、会議に出席するつもりです。                       | I intend to attend the meeting next week. |
-| Informal        | 今日は映画を見に行くつもりだ。                       | I plan to go watch a movie today.   |
-| Written         | 彼は来年大学に入るつもりだと言った。                 | He said that he intends to enter university next year. |
-| Spoken          | 明日、友達と遊ぶつもりなんだ。                        | I’m planning to hang out with my friends tomorrow. |
-## Cultural Notes
+
+## 1. Introduction
+The expression **～つもりだ** is a common Japanese grammar point used to indicate one's intention or plan to do something. It allows speakers to convey their future actions or decisions clearly. Understanding this grammar point is essential for expressing intentions in both casual and formal conversations.
+
+---
+## 2. Core Grammar Explanation
+### Meaning
+- **つもりだ** means **"intend to," "plan to," or "mean to"** do something.
+- It expresses the speaker's intention or determination regarding future actions.
+### Structure
+The structure varies slightly depending on whether you're forming an affirmative or negative sentence.
+#### Formation Diagram
+| **Form**            | **Verb Form**            | **+ つもりだ** |
+|---------------------|--------------------------|----------------|
+| Affirmative         | Verb (dictionary form)   | + つもりだ      |
+| Negative            | Verb (ない-form)         | + つもりだ      |
+| Past Intention      | Verb (た-form)           | + つもりだった  |
+### Formation
+1. **Affirmative Intention**
+   - **Verb (dictionary form) + つもりだ**
+   - *Indicates intention to perform an action.*
+   ```markdown
+   行く **つもりだ**。  
+   (I intend to go.)
+   ```
+2. **Negative Intention**
+   - **Verb (ない-form) + つもりだ**
+   - *Indicates intention not to perform an action.*
+   ```markdown
+   行かない **つもりだ**。  
+   (I intend not to go.)
+   ```
+3. **Past Intention**
+   - **Verb (dictionary form) + つもりだった**
+   - *Indicates an intention that existed in the past.*
+   ```markdown
+   勉強する **つもりだった**。  
+   (I intended to study.)
+   ```
+---
+## 3. Comparative Analysis
+- **～つもりだ** vs. **～予定だ**
+  | **Grammar Point** | **Usage**                                      | **Example**                                               |
+  |-------------------|------------------------------------------------|-----------------------------------------------------------|
+  | **～つもりだ**      | Personal intention or plan                    | 明日、映画を見る **つもりだ**。<br>(I intend to watch a movie tomorrow.) |
+  | **～予定だ**      | Scheduled event or plan involving arrangements | 明日、映画を見る **予定だ**。<br>(I am scheduled to watch a movie tomorrow.) |
+- **Difference:**
+  - **つもりだ** emphasizes personal intention.
+  - **予定だ** refers to scheduled plans, often involving external factors or formal arrangements.
+---
+## 4. Examples in Context
+### Formal Speech
+1. **来年、日本へ行くつもりです。**
+   *I intend to go to Japan next year.*
+2. **週末は家で休むつもりです。**
+   *I plan to rest at home this weekend.*
+### Informal Speech
+1. **明日、友達と会うつもりだ。**
+   *I'm planning to meet a friend tomorrow.*
+2. **もうあの店には行かないつもりだ。**
+   *I don't intend to go to that store anymore.*
+### Negative Intention
+1. **今日は何もしないつもりだ。**
+   *I intend to do nothing today.*
+2. **彼には話さないつもりだ。**
+   *I plan not to talk to him.*
+### Past Intention
+1. **昨日は早く寝るつもりだったが、寝られなかった。**
+   *I intended to go to bed early yesterday, but I couldn't sleep.*
+2. **大学で法律を勉強するつもりでした。**
+   *I intended to study law at university.*
+---
+## 5. Cultural Notes
 ### Cultural Relevance
-The expression つもりだ reflects the importance of intentions and plans in Japanese culture. Communicating one's plans clearly shows responsibility and respect for others, especially in a society that values harmony and planning.
+- **Expressing Intention Politely:**
+  - Using **つもりです** is a polite way to express your intentions, suitable for formal situations.
+  - It reflects thoughtfulness and consideration, aligning with Japanese social norms of humility and politeness.
 ### Levels of Politeness
-- When using つもりだ, adding です (desu) makes it more polite. In casual situations, つもりだ can be used without です.
+| **Formality** | **Expression**               | **Usage**               |
+|---------------|------------------------------|-------------------------|
+| Casual        | つもりだ                      | Friends, family         |
+| Polite        | つもりです                    | Workplaces, strangers   |
+| Honorific     | つもりでございます            | Very formal situations  |
 ### Idiomatic Expressions
-A common phrase that utilizes the つもり structure is:
-- 健康的な生活をするつもりだ。(Kenkou-teki na seikatsu o suru tsumori da.)
-  - I intend to live a healthy life.
-## Common Mistakes and Tips
+- **そのつもりはない**
+  - *I have no such intention.*
+  - Used to politely deny an assumption or accusation.
+  ```markdown
+  悪い意味はそのつもりはありません。  
+  *(I have no intention of implying something bad.)*
+  ```
+---
+## 6. Common Mistakes and Tips
 ### Error Analysis
-1. Mixing up with と思う: Many learners confuse つもりだ with と思う, mistakenly using the latter when they mean to express firm intentions.
-2. Incorrect verb forms: Ensure the verb is in its dictionary form before adding つもりだ.
+1. **Incorrect Verb Form**
+   - **Mistake:** Using the wrong verb form before **つもりだ**.
+     - *行きますつもりだ* ❌
+   - **Correction:** Use the dictionary form.
+     - *行くつもりだ* ✔️
+2. **Overlooking Negative Form**
+   - **Mistake:** Forgetting to use the **ない-form** for negative intentions.
+     - *行きませんつもりだ* ❌
+   - **Correction:** Use the **ない-form**.
+     - *行かないつもりだ* ✔️
 ### Learning Strategies
-- **Mnemonic Device**: Remember that つもり is related to "plan," like planning a "tummy" (sounds similar to "tsumori") feast! 
-- Practice forming sentences with different verbs to reinforce structure.
-## Summary and Review
+- **Mnemonic Device:**
+  - Think of **つもり** as "**to sum up**" your intention.
+  - **つもり** sounds like "sumori," which can remind you of "summary" of plans.
+- **Practice Switching Forms:**
+  - Practice converting verbs to their dictionary and **ない-forms** to become comfortable with the structure.
+---
+## 7. Summary and Review
 ### Key Takeaways
-- ～つもりだ (tsumori da) expresses intentions or plans for the future.
-- It is important to differentiate it from similar expressions like と思う and ～予定だ.
-- Using desu (です) adds politeness.
+- **つもりだ** expresses personal intention or plans.
+- Attach **つもりだ** to the **dictionary form** of the verb for affirmative intentions.
+- Use the **ない-form** of the verb + **つもりだ** for negative intentions.
+- **つもりだった** indicates past intentions.
 ### Quick Recap Quiz
-1. What is the basic structure for forming sentences with つもりだ?
-2. Difference between つもりだ and と思う?
-3. Create a sentence using つもりだ about a future plan.
-Feel free to practice writing your own sentences using this grammar point!
+1. **How do you say "I intend to study Japanese"?**
+   - **Answer:** 日本語を勉強するつもりだ。
+2. **Translate to Japanese: "She doesn't plan to eat meat."**
+   - **Answer:** 彼女は肉を食べないつもりだ。
+3. **What is the difference between ～つもりだ and ～予定だ?**
+   - **Answer:** ～つもりだ expresses personal intention, while ～予定だ refers to scheduled plans or arrangements.
+---
+By mastering **～つもりだ**, you can effectively communicate your intentions and plans in Japanese, enhancing both your conversational skills and cultural understanding.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

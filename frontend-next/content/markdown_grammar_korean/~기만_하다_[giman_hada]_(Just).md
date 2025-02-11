@@ -1,63 +1,104 @@
 Processing keyword: ~기만 하다 [giman hada] (Just)
 # Korean Grammar Point: ~기만 하다 [giman hada] (Just)
-# Grammar Point: ~기만 하다 [giman hada] (Just)
+
 ## 1. Introduction
-The grammar point ~기만 하다 is used to express a limited or exclusive action. It denotes that the subject is doing only that specific action, often indicating a sense of frustration or limitation. It translates roughly to "just" or "only" in English when emphasizing a singular action or quality.
+The grammar pattern **~기만 하다** is used in Korean to express the meaning of "only" or "just" doing a particular action. It emphasizes that someone does nothing but the specified action, excluding all other activities.
+
+---
 ## 2. Core Grammar Explanation
-### Detailed Explanation
-- **Meaning**: The expression ~기만 하다 is used to emphasize that something is only happening in a limited way, often disregarding other possibilities or actions.
-- **Structure**: The structure consists of a verb stem + 기 + 만 + 하다. Here’s how it breaks down:
-  1. Take the verb you want to use.
-  2. Convert it into its verb stem (remove the -다).
-  3. Attach 기 to the verb stem.
-  4. Add 만 and then 하다.
+### Meaning
+- **~기만 하다** conveys that the subject **only** performs a specific action and does nothing else.
+- It highlights the exclusivity or limitation to a single action.
+### Structure
+**Verb Stem + 기만 하다**
 ### Formation Diagram
-| Verb Stem | + 기 | + 만 | + 하다 |
-|-----------|------|------|--------|
-| 가다 (to go) | 가기 | 만 | 하다 |
-| 먹다 (to eat) | 먹기 | 만 | 하다 |
-| 공부하다 (to study) | 공부하기 | 만 | 하다 |
+| **Step**                     | **Example**      |
+|------------------------------|------------------|
+| **1. Base Verb**             | 먹다 (to eat)    |
+| **2. Remove '다'**            | 먹               |
+| **3. Add '기만 하다'**        | 먹기만 하다      |
+| **Resulting Meaning**        | "Just eat"       |
+### More Examples
+| **Verb**      | **Stem** | **~기만 하다 Form** | **Meaning**          |
+|---------------|----------|--------------------|----------------------|
+| 자다 (to sleep) | 자       | 자기만 하다         | Just sleep           |
+| 듣다 (to listen)| 듣       | 듣기만 하다         | Just listen          |
+| 공부하다 (to study)| 공부하   | 공부하기만 하다     | Just study           |
+---
 ## 3. Comparative Analysis
-- **Differences with Similar Grammar Points**: 
-  - **~만**: Just means "only" when placed immediately after nouns or verbs without the context of action emphasis.
-  - **~거밖에 없다 (geobakke eopda)**: Means "nothing but," which can also imply limitation but doesn’t have the same verb focus.
-### Example Comparison
-1. 식사만 했다 (I only ate food).
-2. 식사기만 했다 (I limited myself to just eating).
+### Comparing with Similar Grammar Points
+#### ~만 하다
+- **Usage**: Attach directly to nouns to mean "only" that noun.
+- **Example**: 물만 마셔요. *(I drink only water.)*
+#### ~기만 하다
+- **Usage**: Attach to verb stems (after nominalizing the verb with **~기**) to mean "just" doing that action.
+- **Example**: 일하기만 해요. *(I just work.)*
+### Nuance Differences
+- **~만 하다** emphasizes exclusivity of an object or noun.
+- **~기만 하다** emphasizes exclusivity of an action or verb.
+---
 ## 4. Examples in Context
-### Sentence Examples
-1. **Formal Context**:
-   - 저는 일하기만 했어요.  
-   (I just worked.)
-   
-2. **Informal Context**:
-   - 게임기만 샀어.  
-   (I just bought a gaming console.)
-3. **Written Context**:
-   - 그 책은 읽기만 했지 다른 건 안 했어요.  
-   (I just read that book; I didn’t do anything else.)
-4. **Spoken Context**:
-   - 지금은 그냥 TV 보기만 해.  
-   (Right now, I’m just watching TV.)
+### Formal Situations
+1. **저는 듣기만 합니다.**
+   - *I just listen.*
+2. **그는 일하기만 합니다.**
+   - *He only works.*
+### Informal Conversations
+1. **너는 놀기만 해.**
+   - *You just play.*
+2. **우리는 먹기만 했어.**
+   - *We just ate.*
+### Written Context
+1. **학생들은 공부하기만 했다.**
+   - *The students only studied.*
+2. **그 사람은 기다리기만 했다.**
+   - *That person just waited.*
+### Spoken Language
+1. **요즘 운동하기만 해요.**
+   - *These days, I just exercise.*
+2. **아이들이 웃기만 해요.**
+   - *The children just laugh.*
+---
 ## 5. Cultural Notes
 ### Cultural Relevance
-In Korean culture, expressing limitation or exclusivity can convey modesty or a reluctance to boast. Using ~기만 하다 can soften statements, making them less assertive. 
-### Levels of Politeness
-The level of politeness in the verbs used can shift the tone of the sentence but generally remains neutral with ~기만 하다. 
+- Using **~기만 하다** can sometimes imply neglect of other responsibilities.
+  - **Example**: 일하기만 하면 건강을 잃을 수 있어요.
+    - *If you just work, you might lose your health.*
+### Levels of Politeness and Formality
+- **Formal Polite**: 기만 합니다.
+- **Informal Polite**: 기만 해요.
+- **Casual**: 기만 해.
 ### Idiomatic Expressions
-- **바쁜 일만 해 (I just do busy work)**: This implies doing tedious tasks without engaging in more meaningful activities.
+- **생각하기만 해도**: *Just thinking about it...*
+  - **Example**: 생각하기만 해도 기뻐요.
+    - *Just thinking about it makes me happy.*
+---
 ## 6. Common Mistakes and Tips
 ### Error Analysis
-- **Overuse**: Beginners might use ~기만 하다 with too many actions, losing its emphasis. Remember it's used for singular limits.
-- **Verb Form Errors**: Not properly changing the verb into the stem before adding 기 can lead to mistakes.
+1. **Forgetting to Nominalize the Verb**
+   - **Incorrect**: 먹만 하다
+   - **Correct**: 먹기만 하다
+2. **Confusing with ~만 하다**
+   - **Incorrect**: 공부만 하다 (When intended to say "just study" as an action)
+   - **Correct**: 공부하기만 하다
 ### Learning Strategies
-- **Mnemonic Device**: Remember "Just" as a way to limit your action. Imagine saying, "I just did this" to reinforce the concept of limitation.
+- **Tip**: Remember that **~기** turns verbs into nouns, allowing you to use **만 하다** after verbs.
+- **Mnemonic**: Think "**Verb + 기**" (to make it a noun) "**만 하다**" (only do that).
+---
 ## 7. Summary and Review
 ### Key Takeaways
-- ~기만 하다 conveys a sense of limitation or exclusivity, similar to "just" or "only".
-- Structure follows a specific verb formation pattern.
-- Helps in modest communication, common in Korean cultural norms.
+- **~기만 하다** is used to express "just" or "only" performing an action.
+- Attach **~기만 하다** to the **verb stem**.
+- It's important to nominalize the verb with **~기** before adding **만 하다**.
 ### Quick Recap Quiz
-1. How would you say "I just studied" using ~기만 하다?
-2. What is the difference between ~기만 하다 and ~만?
-3. Provide a sentence using ~기만 하다 in an informal context.
+1. **Fill in the Blank**: To say "She just reads," you say 그녀는 읽___ ___ 하다.
+   - **Answer**: 그녀는 읽기만 하다.
+2. **True or False**: "~만 하다" can be used with verb stems without modification.
+   - **Answer**: False. Verbs need to be nominalized using **~기**.
+3. **Correct the Sentence**: 나는 기다만 했어요.
+   - **Answer**: 나는 기달기만 했어요. *(Wait = 기다리다, so it should be 기다리기만 했어요.)*
+---
+By understanding and practicing **~기만 하다**, you'll be able to express actions that are done exclusively, enhancing your ability to convey nuances in Korean.
+
+---
+© [Hanabira.org](https://hanabira.org)

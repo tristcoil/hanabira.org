@@ -1,74 +1,101 @@
 Processing keyword: ~다가는 [daganeun] (If continue doing)
 # Korean Grammar Point: ~다가는 [daganeun] (If continue doing)
-# Grammar Point: ~다가는 [daganeun] (If continued doing)
+
 ## 1. Introduction
-The grammar point ~다가는 is used to express a conditional situation, meaning "if this continues" or "if someone keeps doing something." It usually implies a warning, consequence, or that something bad might happen if the action continues.
+In Korean, the expression **~다가는** is used to warn that if a certain action continues, a negative outcome will occur. It conveys a sense of caution about the potential consequences of ongoing behavior.
+
+---
 ## 2. Core Grammar Explanation
+### Meaning
+- **~다가는** translates to **"If (you) keep doing..."**, implying that if the current action continues, it will lead to an undesirable result.
+### Structure
+The grammar point **~다가는** is attached to the **verb stem** of an **action verb**.
+### Formation Diagram
+```
+[Verb Stem] + 다가는
+```
 ### Detailed Explanation
-- **Meaning**: The structure indicates that if a certain action or situation persists, a specific result may follow.
-- **Structure**: 
-  - The base verb is placed in its dictionary form, followed by the suffix ~다가는.
-    - Example: 가다 (to go) + 다가는 = 가다가는 (if [you/one] continues to go...)
-- **Formation Diagram**:
-  ```
-  Base Verb + 다가는
-  ```
-  - **Base Verb Examples**: 
-    - 가다 (to go)
-    - 하다 (to do)
-    - 먹다 (to eat)
-  
-### Visual Aids
-| Base Verb | Dictionary Form | ~다가는 Form |
-|-----------|------------------|---------------|
-| 가다      | 가                | 가다가는      |
-| 하다      | 하                | 하다가는      |
-| 먹다      | 먹                | 먹다가는      |
+1. **Verb Stem**: Remove the **다** ending from the dictionary form of the verb.
+2. **Attach 다가는**: Add **다가는** directly to the verb stem.
+---
+## Visual Aid: Formation Table
+| Verb (Dictionary Form) | Verb Stem | + 다가는 | Result |
+|------------------------|-----------|----------|--------|
+| 먹다 (to eat)          | 먹        | 먹다가는 | 먹다가는 |
+| 하다 (to do)           | 하        | 하다가는 | 하다가는 |
+| 자다 (to sleep)        | 자        | 자다가는 | 자다가는 |
+| 마시다 (to drink)      | 마시      | 마시다가는 | 마시다가는 |
+---
 ## 3. Comparative Analysis
-~다가는 is often compared to other conditional forms such as:
-- **~면 (myeon)**: Used for simple conditions.
-  - Example: 
-    - 많이 먹으면 (If you eat a lot)
-- **~거든 (geodeun)**: Used for providing a basis or a condition.
-  - Example: 
-    - 필요하면 (If you need it)
-**Nuances**:
-- Whereas ~면 is neutral, ~다가는 carries a sense of caution or warning about the consequences of ongoing actions.
+### Comparison with **~다가**
+- **~다가**: Indicates an interruption, meaning "while doing... (something else happened)."
+- **~다가는**: Implies a warning about the continuation of an action leading to a negative result.
+**Example**:
+- **공부하다가 친구를 만났어요.**
+  - *While studying, I met a friend.*
+- **공부하다가는 시험에 떨어질 거예요.**
+  - *If you keep studying (like this), you'll fail the exam.*
+---
 ## 4. Examples in Context
-### Sentence Examples
-1. **Formal**: 
-   - 계속 늦게 일어나 다가는 수업에 지각할 거예요. 
-   - (If you keep waking up late, you will be late for class.)
-   
-2. **Informal**:
-   - 이렇게 공부 안 하다가는 시험에서 망할 거야!
-   - (If you keep studying like this, you will fail the exam!)
-3. **Written**:
-   - 이 상태로 계속 가다가는 건강이 나빠질 수 있습니다.
-   - (If this continues, your health may deteriorate.)
-4. **Spoken**:
-   - 계속 놀다가는 일 못 해!
-   - (If you keep playing around, you won't get anything done!)
+### Example Sentences
+1. **Formal Written**
+   - **이렇게 늦게까지 일을 하다가는 건강을 해칠 수 있습니다.**
+     - *If you continue working late like this, you may harm your health.*
+2. **Informal Spoken**
+   - **너 그렇게 먹다가는 배탈 날 것 같아.**
+     - *If you keep eating like that, you'll get a stomachache.*
+3. **Casual Conversation**
+   - **매일 늦게 자다가는 아침에 못 일어나.**
+     - *If you keep sleeping late every day, you won't be able to wake up in the morning.*
+4. **Polite Spoken**
+   - **계속 담배를 피우시다가는 병이 날 수도 있어요.**
+     - *If you continue smoking, you might get sick.*
+### Contextual Usage
+- Used to advise or warn someone gently about potential negative consequences.
+- Often found in both spoken and written forms.
+---
 ## 5. Cultural Notes
 ### Cultural Relevance
-The usage of ~다가는 often reflects Korean social norms regarding responsibility and accountability, especially among students and in workplace environments. It suggests that one should be aware of the potential consequences of their actions.
+- In Korean society, there is a strong emphasis on harmony and advising others subtly.
+- Using **~다가는** is a way to caution someone without being too direct or forceful.
 ### Levels of Politeness
-- The formality of the verb preceding ~다가는 influences the level of politeness in the sentence. Using formal speech is crucial in professional settings.
+- The form **~다가는** itself is neutral.
+- Politeness is conveyed through the overall sentence ending and context.
 ### Idiomatic Expressions
-- An expression like "계속 그렇게 다가면 안 돼" (You shouldn't continue like that) is commonly used to advise against a current course of behavior.
+- **계속 놀기만 하다가는 큰일 나요.**
+  - *If you keep only playing around, you'll be in big trouble.*
+---
 ## 6. Common Mistakes and Tips
-### Error Analysis
-- **Common Mistake**: Using ~다고 할 때 (saying) instead of ~다가는.
-  - **Tip**: Remember that ~다가는 is for ongoing actions leading to consequences, while ~다고 할 때 refers to statements.
-### Learning Strategies
-- **Mnemonic Device**: Think of ~다가는 as "Don't keep doing that or else..." to remind you of the warning associated with it.
+### Common Mistakes
+1. **Confusing ~다가 with ~다가는**
+   - **Incorrect**: 집에 가다가 숙제를 해야 해요.
+     - *Misused ~다가 instead of the correct grammar.*
+2. **Using with Stative Verbs**
+   - **Incorrect**: 예쁘다가는 사람들이 좋아해요.
+     - *~다가는 is generally used with action verbs, not adjectives/stative verbs.*
+### Tips
+- Remember that **~다가는** is for warning about ongoing actions.
+- Ensure you attach it to the **verb stem of action verbs**.
+- Think of the structure as setting up a cause (continuing action) leading to an effect (negative result).
+---
 ## 7. Summary and Review
 ### Key Takeaways
-- ~다가는 is used for expressing a warning about the consequences of continued actions.
-- It requires the base form of the verb followed by the suffix ~다가는.
-- Its use implies ongoing behavior and potential negative outcomes.
+- **~다가는** is used to warn about negative consequences if an action continues.
+- Attach **~다가는** to the verb stem of action verbs.
+- It emphasizes caution and is often used in both casual and formal contexts.
 ### Quick Recap Quiz
-1. What does ~다가는 convey in terms of actions?
-2. Create a sentence using ~다가는 with the verb "하다."
-3. How does ~다가는 differ from ~면? 
-Feel free to ask if you have any questions!
+1. **Fill in the blank**:
+   - 늦게까지 TV를 보________ 잠을 못 잘 거예요.
+     - *Answer*: 보다가는
+2. **True or False**:
+   - **~다가는** can be used with adjectives.
+     - *Answer*: False
+3. **Choose the correct usage**:
+   - **(a)** 공부하다가 좋은 성적을 받았어요.
+   - **(b)** 공부하다가는 좋은 성적을 받았어요.
+     - *Answer*: (a) is correct for the given meaning.
+---
+By understanding and practicing **~다가는**, you can effectively warn others or express caution about ongoing actions and their potential negative outcomes in Korean.
+
+---
+© [Hanabira.org](https://hanabira.org)

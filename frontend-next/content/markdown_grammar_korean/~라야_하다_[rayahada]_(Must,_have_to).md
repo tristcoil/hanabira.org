@@ -1,65 +1,103 @@
 Processing keyword: ~라야 하다 [rayahada] (Must, have to)
 # Korean Grammar Point: ~라야 하다 [rayahada] (Must, have to)
-# Korean Grammar Point: ~라야 하다 [rayahada] (Must, have to)
-## Introduction
-The grammar point ~라야 하다 is used to express obligation or necessity in the Korean language. It indicates that something must be done or that a certain condition is essential in order to achieve an outcome.
-## Core Grammar Explanation
-### Detailed Explanation
-- **Meaning:** The structure ~라야 하다 translates to "must" or "have to" in English. It emphasizes that there is no choice but to perform the stated action.
-- **Structure:** The formation of this grammar point is as follows:
-  - Verb stem + 라야 하다
-  - **For verbs ending with a vowel:** Simply attach '라야 하다' after the verb stem.
-  - **For verbs ending with a consonant:** The '다' in '하니다' can become '여야' after the consonant.
+
+
+## 1. Introduction
+Expressing necessity or obligation is essential in any language. In Korean, the grammar point **~라야 하다** is used to convey the meaning of "must" or "have to." Learning how to use **~라야 하다** will enable you to express obligations and requirements effectively in Korean.
+
+---
+## 2. Core Grammar Explanation
+### Meaning
+**~라야 하다** is used to indicate that an action **must** be done or someone **has to** do something. It emphasizes the necessity of the action.
+### Structure
+The formation of **~라야 하다** depends on whether the verb stem ends with a vowel or a consonant.
+#### Formation:
+1. **For verb stems ending with a vowel:**
+   ```
+   Verb stem + -라야 하다
+   ```
+2. **For verb stems ending with a consonant:**
+   ```
+   Verb stem + -으라야 하다
+   ```
+#### Note:
+- **하시다** becomes **하라야 하다**.
 ### Formation Diagram
-| Verb Stem | + | ~라야 하다/여야 하다 | => | Must/Have To |
-| ---------- |---|---------------------|----|--------------|
-| 가 (to go) | + | 가야 하다          | => | Must go      |
-| 먹다 (to eat) | + | 먹어야 하다      | => | Must eat     |
-| 하다 (to do) | + | 해야 하다         | => | Must do      |
-## Comparative Analysis
-- **Similar Grammar Points:**
-  - **~아야/이어야 하다:** This also indicates necessity, but is used for descriptive verbs and adjectives. 
-    - Example: 예쁘다 (to be pretty) -> 예뻐야 하다 (must be pretty).
-  - **~지 않아도 되다:** This conveys that something is not necessary, which is the opposite of ~라야 하다.
-### Differences
-- **~라야 하다** indicates a MUST-do action.
-- **~아야/이어야 하다** applies to state or description.
-- **~지 않아도 되다** indicates absence of obligation.
-## Examples in Context
-### Sentence Examples
-1. **Formal:**
-   - 이 일을 오늘까지 끝내야 합니다. 
-     - (I must finish this work by today.)
-  
-2. **Informal:**
-   - 그 책을 읽어야 해.
-     - (You have to read that book.)
-3. **Written:**
-   - 경기에서 이기려면 최선을 다해야 한다.
-     - (To win the game, we must do our best.)
-4. **Spoken:**
-   - 너는 내일 학교에 가야 해!
-     - (You have to go to school tomorrow!)
-## Cultural Notes
-### Cultural Relevance
-In Korean culture, expressing obligation or necessity is often associated with social norms and hierarchy. Hence, using proper levels of politeness is crucial. 
-- Using **~라야 하다** in a formal setting conveys respect and seriousness regarding the obligation.
-- In casual conversation, it can express urgency and importance.
+| Verb Type                     | Verb Stem | Ending      | Result           |
+|-------------------------------|-----------|-------------|------------------|
+| Verb stem ending with vowel   | 가다 (to go)   | -라야 하다  | 가라야 하다       |
+| Verb stem ending with consonant | 먹다 (to eat)  | -으라야 하다 | 먹으라야 하다     |
+| Special case (하다 verbs)     | 하다 (to do)   | 하라야 하다  | 하라야 하다       |
+---
+## 3. Comparative Analysis
+### Comparison with **~아/어야 하다**
+- **~아/어야 하다** is a more common way to express "must" or "have to" in Korean.
+- **~라야 하다** is less commonly used and may sound more emphatic or literary.
+- Both forms convey necessity but may differ in usage frequency and context.
+---
+## 4. Examples in Context
+### Formal Context
+1. **모든 서류를 제출하라야 합니다.**
+   - *You must submit all the documents.*
+   - *(Modeun seoryureul jechulharaya hamnida.)*
+2. **죄송하지만 지금 가라야 해요.**
+   - *I'm sorry, but I have to go now.*
+   - *(Joesonghajiman jigeum garaya haeyo.)*
+### Informal Context
+1. **빨리 일어나라야 해.**
+   - *You have to wake up quickly.*
+   - *(Ppalli ireonaraya hae.)*
+2. **약을 먹으라야 돼.**
+   - *You must take the medicine.*
+   - *(Yageul meogeuraraya dwae.)*
+### Written Language
+1. **환경을 보호하라야 합니다.**
+   - *We must protect the environment.*
+   - *(Hwangyeongeul bohoharaya hamnida.)*
+2. **국민의 안전을 지키라야 한다.**
+   - *We have to safeguard the safety of the citizens.*
+   - *(Gungminui anjeneul jikiraraya handa.)*
+---
+## 5. Cultural Notes
+### Levels of Politeness
+- **~라야 하다** can sound formal and is suitable for written language or formal speeches.
+- In casual conversations, Koreans prefer using **~아/어야 하다**.
 ### Idiomatic Expressions
-- **"해야 할 일" (Must-do things):** This phrase encompasses tasks or responsibilities that are essential to complete.
-## Common Mistakes and Tips
-### Error Analysis
-- **Confusing A and B:** Learners often mix up ~라야 하다 with ~지 않아도 되다 when they actually have to express obligation.
- 
-### Learning Strategies
-- **Mnemonic Device:** Remember "MUST" as "May Only Under Serious Times" to associate with ~라야 하다.
-## Summary and Review
+- **시간은 금이니 시간을 아끼라야 합니다.**
+  - *Time is gold, so you must save time.*
+  - This expression emphasizes the importance of time management in Korean culture.
+---
+## 6. Common Mistakes and Tips
+### Common Mistakes
+1. **Using the wrong ending for consonant-ending verbs**
+   - Incorrect: **먹다라야 하다**
+   - Correct: **먹으라야 하다**
+2. **Confusing with the imperative form**
+   - **~라** is also used for commands in Korean. Be careful not to confuse **~라야 하다** (must do) with simple commands.
+### Tips
+- Remember that **~라야 하다** is less common in spoken Korean.
+- Use **~아/어야 하다** for everyday conversations to express necessity.
+- Associate **~라야 하다** with more formal contexts or written language.
+---
+## 7. Summary and Review
 ### Key Takeaways
-- **~라야 하다** is used to express obligatory actions.
-- Structure involves the verb stem plus an appropriate form of 하다.
-- Important to consider politeness level and context.
+- **~라야 하다** means "must" or "have to."
+- It's formed by adding **-라야 하다** to vowel-ending verb stems and **-으라야 하다** to consonant-ending verb stems.
+- Less commonly used than **~아/어야 하다** in spoken Korean.
 ### Quick Recap Quiz
-1. What does ~라야 하다 mean in English?
-2. How do you form a sentence using a verb that ends with a consonant?
-3. Can you give an example of **~아야/이어야 하다**? 
-These questions help reinforce understanding of the grammar point discussed in this lesson.
+1. How do you say "must read" using **~라야 하다**?
+   - A) 읽으라야 하다
+   - B) 읽라야 하다
+   - C) 읽어라야 하다
+2. Which form is more commonly used in daily conversation to express "must"?
+   - A) ~라야 하다
+   - B) ~아/어야 하다
+
+**Answers:**
+1. A) 읽으라야 하다
+2. B) ~아/어야 하다
+---
+By understanding **~라야 하다**, you can enhance your ability to express obligations in Korean, especially in more formal contexts. Practice forming sentences using this grammar point to become more familiar with its usage.
+
+---
+© [Hanabira.org](https://hanabira.org)

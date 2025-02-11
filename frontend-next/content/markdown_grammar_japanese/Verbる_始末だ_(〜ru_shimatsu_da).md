@@ -1,73 +1,90 @@
 Processing keyword: Verbる 始末だ (〜ru shimatsu da)
 # Japanese Grammar Point: Verbる 始末だ (〜ru shimatsu da)
-# Verb る 始末だ (〜ru shimatsu da)
+
 ## 1. Introduction
-The grammar point "Verbる 始末だ" (〜ru shimatsu da) is used to express the completion of an action or situation that leads to an undesirable or troublesome outcome. It often conveys a sense of regret or a negative consequence.
+In this lesson, we'll explore the Japanese grammar point **Verbる始末だ (〜るしまつだ)**. This expression is used to convey that things have ended up in a bad situation after a series of events. It's often utilized to express dissatisfaction or disappointment about an unfavorable outcome.
+
+---
 ## 2. Core Grammar Explanation
-### Detailed Explanation
-- **Structure**: The structure is composed of a verb in its る-form (masu-stem) followed by 始末だ (shimatsu da).
-  
-- **Formation**: 
-  - Take the verb in its dictionary form.
-  - Convert it to its る-form (e.g., 食べる -> 食べる (taberu)).
-  - Add 始末だ (shimatsu da) to express the unfortunate ending.
-- **Meaning**: It indicates that something has happened, usually implying a sense of regret or that the situation has been resolved in an undesirable way.
-### Meaning, Structure, and Formation Diagram
+### Meaning
+**"〜る始末だ"** is used to indicate that after various events or actions, things have finally resulted in an undesirable situation. It emphasizes the negative outcome resulting from a sequence of actions.
+### Structure
+The formation of this grammar point is straightforward:
+| Verb Form          | Grammar Point     | Meaning                                |
+|--------------------|-------------------|----------------------------------------|
+| Verb (dictionary form) | 始末だ (しまつだ) | Things ended up (in a bad situation) |
+### Formation Diagram
 ```
-+-----------------+
-| Verb (る-form)  |
-+-------▼---------+
-|      食べる     |
-|      (taberu)   |
-+-------▼---------+
-|    始末だ       |
-|    (shimatsu da)|
-+-----------------+
+[Verb (dictionary form)] + 始末だ
 ```
+---
 ## 3. Comparative Analysis
-It’s important to compare "Verbる 始末だ" with other expressions:
-- **Verbる 結果だ (〜ru kekka da)**: While both express outcomes, 結果だ indicates a straightforward result without the implication of negativity or regret. For example:
-  
-  - 食べる 結果だ -> “I ate it, and this is the result.”
-- **Verbる しかない (〜ru shikanai)**: This indicates a lack of alternatives but does not suggest an undesirable outcome, unlike 始末だ. 
+### Similar Grammar Patterns
+- **〜あげく（に）**: Indicates that after a lot of effort or after doing something for a long time, an undesirable result occurred.
+  - **Example**: 彼は悩んだあげく、会社を辞めた。
+  - **Translation**: After much deliberation, he quit his job.
+**Difference**: While both express an unfavorable outcome, **〜る始末だ** often carries a stronger sense of exasperation and highlights that the negative result is the culmination of previous events.
+---
 ## 4. Examples in Context
-### Sentence Examples
-1. **Formal Context**:
-   - **Japanese**: 彼は遅刻した始末だ。
-   - **Romaji**: Kare wa chikoku shita shimatsu da.
-   - **Translation**: He ended up being late.
-2. **Informal Context**:
-   - **Japanese**: 彼女は毎日遊んでばかりいる始末だ。
-   - **Romaji**: Kanojo wa mainichi asonde bakari iru shimatsu da.
-   - **Translation**: She just plays around every day.
-3. **Spoken Context**:
-   - **Japanese**: ついゲームばかりして、宿題をやらない始末だ。
-   - **Romaji**: Tsui geemu bakari shite, shukudai o yaranai shimatsu da.
-   - **Translation**: I ended up just playing games and not doing my homework.
-4. **Written Context**:
-   - **Japanese**: このプロジェクトは再度の失敗に至る始末だ。
-   - **Romaji**: Kono purojekuto wa saido no shippai ni itaru shimatsu da.
-   - **Translation**: This project ended up leading to another failure.
+### Example 1: Personal Situation
+**Sentence**: 彼は毎日遅刻し、ついには仕事をクビになる始末だ。
+**Reading**: かれはまいにちちこくし、ついにはしごとをクビになるしまつだ。
+**Translation**: He was late every day, and ultimately, he ended up getting fired.
+
+---
+### Example 2: Social Commentary
+**Sentence**: 店員に文句を言い続け、警察を呼ばれる始末だ。
+**Reading**: てんいんにもんくをいいつづけ、けいさつをよばれるしまつだ。
+**Translation**: He kept complaining to the store clerk, and in the end, the police were called on him.
+
+---
+### Example 3: Casual Conversation
+**Sentence**: ダイエットすると言っていたのに、ケーキを全部食べる始末だ。
+**Reading**: ダイエットするといっていたのに、ケーキをぜんぶたべるしまつだ。
+**Translation**: Even though she said she'd go on a diet, she ended up eating all the cake.
+
+---
+### Example 4: Formal Writing
+**Sentence**: 政府の対応が遅れ、問題が悪化する始末だ。
+**Reading**: せいふのたいおうがおくれ、もんだいがあっかするしまつだ。
+**Translation**: The government's delayed response led to the problem worsening in the end.
+
+---
 ## 5. Cultural Notes
-### Cultural Relevance
-In Japanese culture, expressing regret is often associated with maintaining harmony and humility. Using 始末だ can be a way of humbly acknowledging one’s mistakes or regrets, which is important in social contexts.
+### Levels of Politeness and Formality
+- **始末だ** is typically used in written language or formal speech.
+- It expresses a critical or disapproving tone, so it should be used carefully to avoid sounding overly harsh in casual conversations.
 ### Idiomatic Expressions
-One common idiom using this grammar is:
-- **始末が悪い (shimatsu ga warui)**: This literally translates to “the outcome is bad,” often used to describe complicated circumstances.
+- **この始末だ**: An idiom meaning "to end up like this (in a bad way)."
+  - **Example**: 努力もしないで、この始末だ。
+  - **Translation**: Without even trying, he ended up like this.
+
+---
 ## 6. Common Mistakes and Tips
 ### Error Analysis
-- **Overuse**: Learners often use 始末だ too frequently. It should be reserved for truly negative or regrettable situations.
-  
-- **Mixing肯定形 (kouteikei) and 否定形 (hiteikei)**: Sometimes students mix positive outcomes with 始末だ, which does not convey the intended meaning.
-### Learning Strategies
-- **Mnemonic Device**: Remember "始末" as “end result,” emphasizing that it usually carries a negative connotation.
+- **Using it for Positive Outcomes**: 
+  - **Incorrect**: 彼は勉強して、試験に合格する始末だ。
+    - *始末だ* is not used for positive outcomes.
+### Tips
+- **Remember the Negative Connotation**: *始末だ* is reserved for undesirable results. When you want to express a positive outcome, consider using different grammar points like 〜結果（けっか）.
+---
 ## 7. Summary and Review
 ### Key Takeaways
-- "Verbる 始末だ" expresses an undesirable outcome or regret.
-- It combines a verb in the る-form with 始末だ.
-- Used to describe regrettable situations, often in a humble tone.
+- **Meaning**: Expresses that after various events, things ended up in a bad situation.
+- **Formation**: Verb (dictionary form) + 始末だ
+- **Usage**: Highlights a negative outcome resulting from prior actions.
 ### Quick Recap Quiz
-1. What does "始末だ" convey in a sentence?
-2. Give an example sentence using "始末だ" in a negative context.
-3. How is "始末だ" different from "結果だ"? 
-Feel free to ask if you need further clarification on any point!
+1. What does **始末だ** imply about the outcome?
+   - **Answer**: It implies a negative or undesirable outcome.
+2. Is **始末だ** used for positive results?
+   - **Answer**: No, it's used for negative outcomes only.
+3. Create a sentence using **始末だ** to describe someone who didn't study and failed their exam.
+---
+#### Sample Answer for Question 3
+**Sentence**: 彼は全く勉強せず、試験に落ちる始末だ。
+**Translation**: He didn't study at all and ended up failing the exam.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

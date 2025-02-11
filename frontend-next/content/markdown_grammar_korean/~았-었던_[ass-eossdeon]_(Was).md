@@ -1,76 +1,113 @@
 Processing keyword: ~았/었던 [ass/eossdeon] (Was)
 # Korean Grammar Point: ~았/었던 [ass/eossdeon] (Was)
-# Grammar Point: ~았/었던 (Was)
+
 ## 1. Introduction
-The grammar point ~았/었던 in Korean is a past tense marker that conveys that an action or state existed at some point in the past. It is typically used to describe completed actions or situations that are relevant to the present context. 
+In Korean, expressing past actions or states that have relevance to the present is essential for effective communication. The grammar point **~았/었던** is a verb modifier used to describe something that happened in the past but is being recalled or has implications now. This lesson will explore the usage, formation, and nuances of **~았/었던** to enhance your understanding and ability to express past events in Korean.
+
+---
 ## 2. Core Grammar Explanation
-### Detailed Explanation
-The suffix ~았/었던 is made up of two parts:
-1. ~았 (or ~었): This is the past tense suffix modified by the final consonant of the verb stem.
-2. ~던: This part indicates that the action was habitual or ongoing in the past, providing a sense of continuity or repeated action.
-### Meaning, Structure, Formation
-- **Usage**: To indicate that something was a certain way or that an action was completed in the past.
-- **Form**:
-  - For verbs ending in a vowel: 
-    - Verb stem + 았던 
-  - For verbs ending in a consonant: 
-    - Verb stem + 었던 
+### Meaning and Usage
+The suffix **~았/었던** attaches to verbs to indicate:
+- An **action or state that was completed in the past**.
+- **Recollection** of a past event that is relevant to the present situation.
+It can be translated to English as "used to" or "had...ed". It's often used when reminiscing or referring to experiences that influence the current context.
+### Structure and Formation
 #### Formation Diagram
-| Verb Stem | Ending | Completed Action | Example with "하다" (to do) |
-|-----------|--------|------------------|------------------------------|
-| 가다 (to go) | -았던  | 있었던 (Was) | 갔었던 (I went) |
-| 먹다 (to eat) | -었던  | 있었던 (Was) | 먹었던 (I ate) | 
-### Visual Aids
-| Verb Stem | Past tense form |
-|-----------|-----------------|
-| 하다      | 했었던         |
-| 가다      | 갔었던         |
-| 보다      | 봤었던         |
+```
+[Verb Stem] + 았/었 + 던
+```
+#### Steps to Form ~았/었던
+1. **Identify the Verb Stem**: Remove **다** from the dictionary form.
+2. **Add Past Tense Marker**:
+   - **았** after verb stems ending with **ㅏ** or **ㅗ**.
+   - **었** after other vowels.
+3. **Attach 던**: Indicates recollection or reminiscence.
+#### Vowel Harmony Chart
+| Last Vowel of Verb Stem | Add | Example Verb | Verb Stem | Conjugated Form |
+|-------------------------|-----|--------------|-----------|-----------------|
+| **ㅏ** or **ㅗ**           | 았  | 가다 (to go) | 가         | 갔던             |
+| Other Vowels            | 었  | 먹다 (to eat)| 먹         | 먹었던           |
+---
 ## 3. Comparative Analysis
-~았/었던 can be compared to:
-- **~았/었어요**: This form is used for simple past tense and does not imply continuity. Example: 
-   - 집에 갔어요 (I went home).
-  
-- **~고 있었다**: This form indicates that the action was ongoing in the past without being completed. Example:
-   - 집에 가고 있었어요 (I was going home).
-### Differences
-- **~았/었던** implies a completed action or state in the past while **~고 있었다** focuses on ongoing actions in the past.
+### Comparing **~던** and **~았/었던**
+- **~던**:
+  - Describes an **unfinished** action or a habitual past action.
+  - Implies the action **may still be ongoing**.
+- **~았/었던**:
+  - Describes a **completed** action or state in the past.
+  - Implies the action **is no longer happening**.
+**Example**:
+- **제가 다니던 학교**: The school I was attending (may still attend).
+- **제가 다녔던 학교**: The school I attended (no longer attend).
+### Comparing **~았/었던** and **~았/었었어요**
+- **~았/었었어요**:
+  - Used to express an action that **occurred in the distant past** and **has no relation to the present**.
+- **~았/었던**:
+  - Used when the past action or state **still has relevance or is being recalled**.
+---
 ## 4. Examples in Context
 ### Sentence Examples
-1. **Formal**: 
-   - 저는 그 영화를 봤었던 기억이 있습니다. 
-   - (I have memories of having watched that movie.)
-  
-2. **Informal**: 
-   - 지난 여름 일본에 갔었던 거 기억나? 
-   - (Do you remember that we went to Japan last summer?)
-  
-3. **Written**: 
-   - 이 책을 읽었던 사람들은 모두 그 주제를 좋아했다. 
-   - (Everyone who has read this book liked the subject.)
-4. **Spoken**: 
-   - 내가 어제 만든 케이크 맛있었던 거 기억해? 
-   - (Do you remember the cake I made yesterday being delicious?)
+#### Formal Context
+1. **제가 예전에 일했었던 회사는 서울에 있습니다.**
+   - *The company I used to work for is in Seoul.*
+2. **그분이 가르쳤던 과목은 역사였습니다.**
+   - *The subject that he taught was history.*
+#### Informal Context
+1. **우리가 먹었던 그 식당 기억나?**
+   - *Do you remember that restaurant we ate at?*
+2. **네가 좋아했던 노래 틀어줄게.**
+   - *I'll play the song you used to like.*
+#### Written Language
+1. **그녀는 어렸을 때 살았던 집을 방문했다.**
+   - *She visited the house where she lived when she was young.*
+2. **지난 여행에서 찍었던 사진을 보고 있어요.**
+   - *I'm looking at the photos I took on the last trip.*
+#### Spoken Language
+1. **어제 봤던 영화 진짜 재미있었어!**
+   - *The movie I watched yesterday was really interesting!*
+2. **전에 말했던 것처럼, 이번 주말에 만나자.**
+   - *As I said before, let's meet this weekend.*
+---
 ## 5. Cultural Notes
 ### Cultural Relevance
-In Korean culture, the way we refer to past experiences can carry importance in conversations. Using ~았/었던 suggests a shared experience, which can strengthen relationships and social bonds.
-### Levels of Politeness
-Using this form can adjust the level of politeness. The value of remembering shared ties should be expressed in a way that matches the context and relationship.
+In Korean, expressing past experiences with relevance to the present is common in storytelling and sharing personal experiences. Using **~았/었던** allows the speaker to connect past memories or actions to the current conversation, which is a significant aspect of Korean communication styles.
 ### Idiomatic Expressions
-- 그때를 잊을 수 없었던 (I cannot forget that time) – This phrase emphasizes the impact of a past experience.
+1. **옛날에 좋아했던 사람**
+   - *A person I used to like a long time ago*
+2. **한때 유행이었던 패션**
+   - *A fashion that was once popular*
+---
 ## 6. Common Mistakes and Tips
-### Error Analysis
-1. **Mistaking tense**: Learners might confuse using ~았/었 with simple past forms like ~어요.
-2. **Wrong conjugation**: Make sure to match the verb ending correctly.
+### Common Mistakes
+- **Mixing up ~던 and ~았/었던**:
+  - **Incorrect**: 어제 먹던 케이크 맛있었어.
+  - **Correct**: 어제 먹었던 케이크 맛있었어.
+    - *"먹었던" because the action of eating the cake was completed.*
+- **Incorrect Vowel Harmony**:
+  - **Incorrect**: 마시았던 (from 마시다)
+  - **Correct**: 마셨던
+    - *"마시" + "었" + "던" because the stem ends with "ㅣ".*
 ### Learning Strategies
-- **Mnemonic Device**: Remember that "았/었던" combines "action" and "was" (AS in past). 
+- **Practice Conjugation**: Regularly conjugate verbs with **~았/었던** to become familiar with patterns.
+- **Create Personal Sentences**: Relate past experiences using **~았/었던** to make learning more meaningful.
+- **Mnemonic Device**: Remember that **던** relates to "recollection," so **~았/었던** recalls a completed past action.
+---
 ## 7. Summary and Review
 ### Key Takeaways
-- The grammar point ~았/었던 indicates a completed action or state in the past.
-- Use it to express continuity or habitual actions from the past.
-- Differentiate it from simple past and ongoing past tense.
+- **~았/었던** is used to describe **completed past actions or states** that are being recalled in the present.
+- Formation involves adding **았/었** to the verb stem according to vowel harmony, followed by **던**.
+- Differentiating between **~던** and **~았/었던** is crucial for accurate expression of past events.
 ### Quick Recap Quiz
-1. How do you conjugate the verb "가다" (to go) in the ~았/었던 form?
-2. What is the difference between ~았/었던 and ~고 있었다?
-3. Can you provide an example sentence using ~았/었던? 
-Feel free to review and practice using this grammar point in your conversations!
+1. **Form the ~았/었던 version of 하다 (to do).**
+   - **Answer**: 했던
+2. **Translate to Korean**: "The book I read last month was interesting."
+   - **Answer**: 지난달에 읽었던 책이 재미있었어요.
+3. **Explain the difference** between **알던 친구** and **알았던 친구**.
+   - **Answer**: 
+     - **알던 친구**: A friend I used to know (may still know or the knowing was ongoing).
+     - **알았던 친구**: A friend I knew (but probably don't know anymore).
+---
+By understanding and practicing **~았/었던**, you can express your past experiences more vividly and connect them to your present conversations, making your Korean more fluent and natural.
+
+---
+© [Hanabira.org](https://hanabira.org)

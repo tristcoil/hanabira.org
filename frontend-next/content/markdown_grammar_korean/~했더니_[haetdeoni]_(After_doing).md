@@ -1,75 +1,115 @@
 Processing keyword: ~했더니 [haetdeoni] (After doing)
 # Korean Grammar Point: ~했더니 [haetdeoni] (After doing)
-# Grammar Point: ~했더니 [haetdeoni] (After doing)
+
 ## 1. Introduction
-The grammar structure ~했더니 is used in Korean to express the idea that after performing an action, a certain result or outcome occurs. This structure helps in narrating events and linking actions to their consequences.
+The Korean grammar pattern **~했더니 [haetdeoni]** is used to express that after the speaker did something, they observed a result, consequence, or discovered something new. It highlights a cause-and-effect relationship from the speaker's direct experience.
+
+---
 ## 2. Core Grammar Explanation
-### Detailed Explanation
-- The structure consists of the verb stem plus the suffix -했더니 (haetdeoni).
-- It indicates that the speaker did something, and as a result of that action, they experienced something else.
-### Structure
-- **Formation Diagram:**
-  
-  ```
-  Verb Stem + 했더니
-  ```
-- **Examples of Verb Stems:**
-  - 하다 (hada) → 했더니 (haetdeoni)
-  - 가다 (gada) → 갔더니 (gatdeoni)
-  - 먹다 (meokda) → 먹었더니 (meogeotdeoni)
 ### Meaning
-- The phrase can often be translated as "after doing (something), (something else) happened" in English.
-- It emphasizes a causative relationship between the action and the outcome.
-### Visual Aids
-| Korean Verb       | Stem Form  | ~했더니 Form  | English Translation                     |
-|-------------------|------------|----------------|-----------------------------------------|
-| 하다 (to do)      | 했         | 했더니 (haetdeoni)| After doing..                          |
-| 가다 (to go)      | 갔         | 갔더니 (gatdeoni)| After going..                          |
-| 먹다 (to eat)     | 먹었      | 먹었더니 (meogeotdeoni)| After eating..         |
+- **Definition**: **~했더니** means "after (I) did..." or "when (I) did..., (I found/discovered)...". It connects an action the speaker performed in the past with a subsequent result or realization.
+- **Usage**: It is used when the speaker is describing their own actions leading to a new situation or discovery.
+### Structure
+The pattern is formed by attaching **았/었더니** to the verb stem.
+#### Formation Diagram
+```
+[Verb Stem] + 았/었더니
+```
+- **Verb Stem**: The base form of the verb without **다**.
+- **았/었**: Past tense marker.
+  - Use **았** after verb stems with vowels **아** or **오**.
+  - Use **었** after other vowels.
+- **더니**: Conjunctive ending indicating a contrast or result.
+#### Example of Formation
+| Verb (Dictionary Form) | Verb Stem | Past Tense Marker | + 더니 | Resulting Form |
+|------------------------|-----------|-------------------|-------|----------------|
+| 가다 (to go)           | 가        | 았               | 더니  | 갔더니         |
+| 먹다 (to eat)          | 먹        | 었               | 더니  | 먹었더니       |
+| 배우다 (to learn)      | 배우      | 았               | 더니  | 배웠더니       |
+---
 ## 3. Comparative Analysis
-### Comparison with Similar Grammar Points
-- **~아/어 보니:** This structure also indicates a result but emphasizes personal experience after trying something. (e.g., "After trying, I realized...")
-  
-  **Example:**
-  - 사라져 보니 (sara-ji bo-ni) — "After trying to disappear, I found..."
-- **~고 나서:** This structure shows a sequence of actions but does not emphasize the result or consequence as strongly as ~했더니.
-  
-  **Example:**
-  - 숙제를 하고 나서 게임을 했다 (suk-ja-reul ha-go na-seo ge-im-eul hae-dta) — "After doing homework, I played a game."
+### ~했더니 vs. ~하니까
+- **~했더니**: Used when the speaker did something and observed a result. The subject of the first clause is usually the speaker.
+  - *Example*: 공부했더니 졸려요.  
+    *(After I studied, I am sleepy.)*
+- **~하니까**: Used to express a general cause-and-effect without specifying the subject as the speaker.
+  - *Example*: 비가 오니까 우산을 가져가세요.  
+    *(Since it's raining, please take an umbrella.)*
+### ~했더니 vs. ~고 나서
+- **~했더니**: Emphasizes the speaker's discovery or realization after their action.
+- **~고 나서**: Simply indicates one action was completed before another began, without the nuance of discovery.
+  - *Example*: 숙제를 하고 나서 텔레비전을 봤어요.  
+    *(After doing homework, I watched TV.)*
+---
 ## 4. Examples in Context
-### Sentence Examples
-- **Formal:**
-  - **Korean:** 저는 과제를 했더니 선생님이 칭찬하셨어요.  
-  **English:** After I did my assignment, the teacher praised me.
-- **Informal:**
-  - **Korean:** 친구한테 이야기를 했더니 웃더라.  
-  **English:** After I talked to my friend, he laughed.
-- **Written:**
-  - **Korean:** 시험을 준비했더니 좋은 결과를 얻었다.  
-  **English:** After I prepared for the exam, I achieved good results.
-- **Spoken:**
-  - **Korean:** 요리했더니 맛있게 됐어!  
-  **English:** After I cooked, it turned out delicious!
+### Example Sentences
+1. **Informal Spoken**
+   - **Korean**: 어제 늦게 잤더니 피곤해요.
+   - **Romanization**: Eoje neujge jatdeoni pigonhaeyo.
+   - **Translation**: After sleeping late yesterday, I'm tired.
+2. **Polite Conversation**
+   - **Korean**: 점심을 먹었더니 배가 불러요.
+   - **Romanization**: Jeomsimeul meogeotdeoni baega bulleoyo.
+   - **Translation**: After eating lunch, I'm full.
+3. **Formal Written**
+   - **Korean**: 그 책을 읽었더니 새로운 사실을 알게 되었습니다.
+   - **Romanization**: Geu chaegeul ilgeotdeoni saeroun sashireul alge doeeotseumnida.
+   - **Translation**: After reading that book, I learned new facts.
+4. **Casual Conversation**
+   - **Korean**: 뛰었더니 숨이 찬다.
+   - **Romanization**: Ttwieotdeoni sumi chanda.
+   - **Translation**: After running, I'm out of breath.
+5. **Polite Conversation**
+   - **Korean**: 친구를 만났더니 기분이 좋아졌어요.
+   - **Romanization**: Chingureul mannatteoni gibuni joajyeosseoyo.
+   - **Translation**: After meeting my friend, my mood improved.
+6. **Formal Written**
+   - **Korean**: 연구를 해봤더니 결과가 흥미로웠습니다.
+   - **Romanization**: Yeongureul haebwatdeoni gyeolgwaga heungmirowotseumnida.
+   - **Translation**: After conducting research, the results were interesting.
+---
 ## 5. Cultural Notes
 ### Cultural Relevance
-- In Korean culture, the outcome of actions often bears significance. The use of ~했더니 reflects society’s focus on responding to actions with appropriate feedback and consequences, which is an important aspect of Korean social interactions.
-### Levels of Politeness
-- The ending -했더니 can be made more formal or informal depending on the context by adjusting the verb form and ending used in the sentence (e.g., -했더니 -> -했더니요 for formal speech).
+- **Expressing Personal Experiences**: In Korean culture, sharing personal experiences and the outcomes of actions is common in conversation. Using **~했더니** allows speakers to convey their experiences naturally.
+- **Levels of Politeness**: Adjusting the sentence ending can change the politeness level:
+  - **Informal**: "~했더니" without any additional endings.
+  - **Polite**: "~했더니요" or by adding polite sentence endings like "~요".
+  - **Formal**: "~했더니다" or using formal verb endings.
 ### Idiomatic Expressions
-- There aren't specific idiomatic expressions with ~했더니, but the structure itself is commonly used for narrating everyday experiences and observations.
+- **머리를 깎았더니 사람이 달라 보인다.**
+  - *After cutting my hair, people say I look different.*
+  - This expression shows how **~했더니** can be used to share others' reactions to a change in oneself.
+---
 ## 6. Common Mistakes and Tips
-### Error Analysis
-- **Common Error:** Using ~했더니 without an appropriate verb conjugation for the context.
-  - **Incorrect:** 저는 가기로 했더니.
-  - **Correct:** 저는 갔더니.
-### Learning Strategies
-- **Mnemonic Device:** When thinking of ~했더니, visualize a cause-and-effect scenario. "I did this, and then that happened." This can help reinforce its usage.
+### Common Mistakes
+1. **Using with Non-First Person Subjects**
+   - **Mistake**: 영희가 공부했더니 합격했어요.
+     - Incorrect because **~했더니** is typically used when the speaker is the subject.
+   - **Correction**: 영희가 공부해서 합격했어요.
+     - Using **~해서** to indicate cause for a third person.
+2. **Confusing with ~더니**
+   - **Mistake**: 어제는 춥더니 오늘은 따뜻해요.
+     - Correct use but different meaning.
+   - **Explanation**: **~더니** (without past tense marker) is used to contrast past and present observations, often with third-person subjects.
+### Tips
+- **Remember the Subject**: **~했더니** is mostly used when the speaker performed the action.
+- **Linking to Personal Discovery**: Use it to express something you found out after doing something.
+- **Practice with Daily Activities**: Apply **~했더니** to your routines to get comfortable with its usage.
+---
 ## 7. Summary and Review
 ### Key Takeaways
-- ~했더니 is used to indicate the result of an action.
-- The structure clearly links a previous action to its outcome.
-- Context is crucial for determining politeness and formality.
+- **~했더니** connects an action you did in the past with a result or discovery.
+- The structure is **[Verb Stem] + 았/었더니**.
+- It emphasizes personal experience and the ensuing outcome.
 ### Quick Recap Quiz
-1. What does ~했더니 express in a sentence?
-2. Provide a formal example using ~했더니.
-3. What is the difference between ~했더니 and ~고 나서?
+1. **How do you form ~했더니 with 쓰다 (to write)?**
+   - **Answer**: 썼더니
+2. **Can you use ~했더니 when the subject is someone else?**
+   - **Answer**: No, it's typically used when the speaker is the subject of the first clause.
+3. **Translate using ~했더니**: "After I walked a lot, my legs hurt."
+   - **Answer**: 많이 걸었더니 다리가 아파요.
+---
+By understanding and practicing **~했더니**, you can express personal experiences and their outcomes more naturally in Korean.
+
+---
+© [Hanabira.org](https://hanabira.org)

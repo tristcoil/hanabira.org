@@ -1,233 +1,148 @@
 Processing keyword: ~려고 하다 [ryeogo hada] (Try to)
 # Korean Grammar Point: ~려고 하다 [ryeogo hada] (Try to)
-# Korean TOPIK Grammar Point: ~려고 하다 (ryeogo hada) - "Try to"
+
 ## 1. Introduction
-The grammar point **~려고 하다** is a crucial part of expressing intention or effort to do something in Korean. It translates to "try to" or "intend to" in English and is commonly used in everyday conversations. 
-## 2. Core Grammar Explanation
-### Detailed Explanation
-**~려고 하다** is used to indicate the intention or plan to do something. It combines the verb **-려고**, which is the form that denotes "trying to" or "intending to," with the verb **하다**, meaning "to do."
-### Structure
-- **Form:** [Verb Stem] + ~려고 하다
-- **Example:** 가다 (gada - to go) → 가려고 하다 (garyeogo hada - to intend to go)
-### Formation Diagram
-```
-                Verb Stem
-                    |
-              +------------+       
-              |           -려고
-              |            |
-              |          하다
-              |
-              Intention
-```
-### Meaning
-- Indicates the intention or effort to do something.
-- Suggests a future action that is planned or being attempted.
-## 3. Comparative Analysis
-### Similar Grammar Points
-1. **~고 싶다 (go sipda)** - "want to"
-   - **Usage:** Expresses desire but does not imply the action will definitely occur.
-   - **Example:** 가고 싶다 (gago sipda - want to go).
-2. **~려고 보다 (ryeogo boda)** - "try to"
-   - **Usage:** Implies an attempt to do something but emphasizes trial or testing.
-   - **Example:** 가려고 보다 (garyeogo boda - try to go).
-### Differences:
-- **~려고 하다** expresses intention, while **~고 싶다** conveys desire without implying action.
-- **~려고 하다** indicates more definitive plans compared to **~려고 보다**, which suggests an attempt.
-## 4. Examples in Context
-### Sentence Examples
-1. **Formal:**
-   - 저는 한국어를 배우려고 합니다.  
-     (jeoneun hangugeoreul baeuryogo hamnida.)
-     - "I intend to learn Korean."
-2. **Informal:**
-   - 나는 내일 친구를 만나려고 해.  
-     (naneun naeil chingureul mannaryeogo hae.)
-     - "I am trying to meet my friend tomorrow."
-3. **Written:**
-   - 그는 운동을 시작하려고 결심했다.  
-     (geuneun undongeul sijakaryeogo gyeolsimhaetta.)
-     - "He decided to start exercising."
-4. **Spoken:**
-   - 나 방 청소하려고 해.  
-     (na bang cheongsoharyeogo hae.)
-     - "I’m trying to clean my room."
-## 5. Cultural Notes
-### Cultural Relevance
-In Korean culture, expressing intent politely is significant. Using **~려고 하다** reflects a thoughtful approach to interaction, indicating one’s plans while being considerate of the listener.
-### Levels of Politeness
-Politeness levels can be adjusted by changing the formality of **하다**:
-- **합니다** (hamnida) for formal
-- **해** (hae) for informal
-### Idiomatic Expressions
-- **하고 싶었던 대로 하려고 한다** (hago sipdeon daero haryeogo handa) – "I intend to do as I wanted."
-## 6. Common Mistakes and Tips
-### Error Analysis
-1. **Incorrect Usage with Adjectives:**
-   - **Mistake:** 예쁘려고 하다 instead of 예쁘다 (is pretty).
-   - **Correct:** 예쁘게 보이려고 하다 (try to seem pretty).
-### Learning Strategies
-- **Mnemonic Device:** Think of **려고 하다** as "I plan/intend to" which emphasizes intention, unlike just "want to" (which would be **-고 싶다**).
-## 7. Summary and Review
-### Key Takeaways
-- **~려고 하다** denotes intent to take an action.
-- Structure is simple: [Verb Stem] + ~려고 하다.
-- It shows more commitment to action than just wanting.
-  
-### Quick Recap Quiz
-1. What does **~려고 하다** mean in English?
-2. Provide the informal equivalent for "I intend to go."
-3. How does **~려고 하다** differ from **~고 싶다**?
-Processing keyword: ~려고 하다 [ryeogo hada] (Try to)
-# Korean Grammar Point: ~려고 하다 [ryeogo hada] (Try to)
-# Grammar Point: ~려고 하다 [ryeogo hada] (Try to)
-## 1. Introduction
-The Korean grammar point **~려고 하다** is used to express an intention or a plan to do something. It can be understood as "to try to" or "to plan to" in English. This structure is commonly used in both spoken and written Korean to convey one's intentions regarding future actions.
+In this lesson, we'll explore the Korean grammar point **~려고 하다** (~ryeogo hada), which is used to express intentions, plans, or attempts to do something. Mastering this grammar will help you communicate your future actions and intentions naturally in Korean.
+
 ---
 ## 2. Core Grammar Explanation
-### Detailed Explanation
-The structure **~려고 하다** consists of two parts:
-- **~려고**: This is a form derived from a verb stem + (으)려고. It indicates the purpose or intent behind an action.
-- **하다**: This verb means "to do".
-### Formation Diagram
-The formation to express this grammar point is as follows:
-```
-[Verb Stem] + (으)려고 하다
-```
-- If the verb stem ends in a vowel: 
-  - Example: 가다 ([to go]) → 가려고 하다 (to try to go)
-  
-- If the verb stem ends in a consonant: 
-  - Example: 먹다 ([to eat]) → 먹으려고 하다 (to try to eat)
 ### Meaning and Usage
-- This grammar structure indicates the speaker’s intention or the action they intend to take. 
-- It often encompasses the nuances of planning or attempting to do something.
+**~려고 하다** is used to indicate that the subject:
+- **Intends to** do something.
+- **Plans to** perform an action.
+- **Is about to** do something.
+- **Tries to** or **attempts to** do something.
+It translates to "to try to," "to plan to," "to intend to," or "to be about to" in English.
+### Structure
+#### Formation
+Attach **~려고 하다** to the verb stem. The form changes slightly depending on whether the verb stem ends with a vowel or a consonant.
+**Formation Diagram:**
+
+| Verb Stem Ending | Attach                   | Example Verb | Conjugated Form      |
+|------------------|--------------------------|--------------|----------------------|
+| Vowel            | **-려고 하다**          | 가다 (to go) | 가**려고 하다**     |
+| Consonant        | **-으려고 하다**        | 먹다 (to eat)| 먹**으려고 하다**   |
+
+**Note:** If the verb stem ends with a vowel, simply add **-려고 하다**. If it ends with a consonant, add **-으려고 하다**.
+### Conjugation Examples
+You can conjugate **하다** in **~려고 하다** to match the tense and politeness level.
+#### Present Tense
+- **Informal Polite**: **~려고 해요**
+- **Formal Polite**: **~려고 합니다**
+**Examples:**
+- 여행을 **가려고 해요**. (I'm planning to go on a trip.)
+- 공부를 **하려고 합니다**. (I intend to study.)
+#### Past Tense
+- **Informal Polite**: **~려고 했어요**
+- **Formal Polite**: **~려고 했습니다**
+**Examples:**
+- 영화를 **보려고 했어요**, 하지만 시간이 없었어요. (I tried to watch a movie, but I didn't have time.)
+- 친구를 **만나려고 했습니다**, 그러나 못 만났습니다. (I intended to meet a friend, but couldn't.)
+#### Future Tense
+- **Informal Polite**: **~려고 할 거예요**
+- **Formal Polite**: **~려고 할 것입니다**
+**Examples:**
+- 저녁에 운동을 **하려고 할 거예요**. (I will try to exercise in the evening.)
+- 회사를 그만두려고 할 것입니다. (I will intend to quit the company.)
 ---
 ## 3. Comparative Analysis
 ### Comparison with Similar Grammar Points
-- **~고 싶다 (~go sipda)**: This means "want to." It focuses on desire.
-  - Example: 가고 싶다 (I want to go).
-  
-- **~려고 하다 (~ryeogo hada)**: This indicates intention rather than just desire.
-  - Example: 가려고 하다 (I am trying to go).
-  
-**Difference:** While "고 싶다" expresses a want, "려고 하다" indicates that you are attempting or planning to carry out that action.
+#### ~려고 하다 vs. ~기 위해(서)
+- **~려고 하다**: Emphasizes intention or plan to perform an action.
+- **~기 위해(서)**: Means "in order to" and emphasizes the purpose of an action.
+**Examples:**
+1. 외국에서 공부**하려고 해요**. (I plan to study abroad.)
+2. 외국에서 공부**하기 위해서** 한국어를 배워요. (I learn Korean in order to study abroad.)
+#### ~려고 하다 vs. ~(으)ㄹ 거예요
+- **~려고 하다**: Indicates intention or near-future plans, often with a sense of immediacy.
+- **~(으)ㄹ 거예요**: Simply states a future action without emphasizing intention.
+**Examples:**
+1. 책을 읽**으려고 해요**. (I'm trying to read a book.)
+2. 책을 읽을 거예요. (I will read a book.)
 ---
 ## 4. Examples in Context
 ### Sentence Examples
-1. **Formal:** 
-   - 내일 서울에 가려고 합니다.  
-   - (I am planning to go to Seoul tomorrow.)
-   
-2. **Informal:** 
-   - 영화 보려고 해.  
-   - (I’m going to try to watch a movie.)
-   
-3. **Spoken:** 
-   - 친구 만나려고 해.  
-   - (I’m trying to meet a friend.)
-   
-4. **Written:** 
-   - 저는 한국어를 공부하려고 합니다.  
-   - (I am trying to study Korean.)
+#### Informal Speech
+1. 지금 집에 **가려고 해**.
+   - *I'm about to go home now.*
+2. 뭐 **먹으려고 해**?
+   - *What are you planning to eat?*
+#### Polite Informal Speech
+1. 주말에 영화를 **보려고 해요**.
+   - *I'm planning to watch a movie on the weekend.*
+2. 친구를 **만나려고 해요**.
+   - *I'm trying to meet a friend.*
+#### Formal Speech
+1. 다음 달에 한국에 **가려고 합니다**.
+   - *I intend to go to Korea next month.*
+2. 회의를 오후에 **열려고 합니다**.
+   - *We plan to hold the meeting in the afternoon.*
+#### Negative Form
+1. 그 소식을 들으**지 않으려고 해요**.
+   - *I'm trying not to hear that news.*
+2. 실수하**지 않으려고 합니다**.
+   - *I intend not to make a mistake.*
+#### Past Intentions
+1. 어제 공부**하려고 했어요**, 하지만 아팠어요.
+   - *I tried to study yesterday, but I was sick.*
+2. 그녀를 도와주**려고 했어요**, 그러나 늦었어요.
+   - *I intended to help her, but I was late.*
 ---
 ## 5. Cultural Notes
 ### Cultural Relevance
-In Korean culture, expressing intentions can carry subtle connotations of politeness and commitment. When using **~려고 하다**, it is essential to match the level of politeness appropriate to the context (formal vs. informal).
+In Korean culture, expressing one's intentions politely is important to maintain harmony and show respect. Using **~려고 하다** allows speakers to share their plans without imposing or sounding too direct, which aligns with the indirect communication style prevalent in Korea.
+### Levels of Politeness and Formality
+- **Casual Speech**: Used among close friends or peers.
+  - Example: 뭐 하**려고 해**?
+- **Polite Informal Speech**: Common in everyday conversations with acquaintances.
+  - Example: 어디에 가**려고 해요**?
+- **Formal Speech**: Used in professional settings or with superiors.
+  - Example: 어떻게 하**려고 합니까**?
 ### Idiomatic Expressions
-- "하는 길에" (on the way to doing something) can often use **~려고 하다** to imply intention while doing something else.
-  - Example: 시장에 가려고 하는 길이에요. (On my way to the market.)
+1. 죽**으려고 해요**!
+   - *Literally:* "I'm about to die!"
+   - *Meaning:* An expression used when someone is extremely tired or overwhelmed.
+2. 웃지 않**으려고 해요**.
+   - *I'm trying not to laugh.*
 ---
 ## 6. Common Mistakes and Tips
 ### Error Analysis
-- **Omitting the Verb Stem**: A common mistake is to forget to provide the base verb before **려고 하다**. Always remember to include a verb.
-  - Incorrect: 저는 가려고 합니다. (Correct: 저는 가려고 하다.)
+1. **Incorrect Verb Stem Attachment**
+   - **Mistake:** 먹다 → 먹려고 하다
+   - **Correction:** 먹다 → 먹**으**려고 하다
+     - *Since "먹" ends with a consonant, add **-으려고 하다**.*
+2. **Using the Wrong Tense of 하다**
+   - **Mistake:** 공부하려고 해요. (When talking about a past intention)
+   - **Correction:** 공부하려고 했어요.
+     - *Use the past tense of 하다 to indicate past intentions.*
 ### Learning Strategies
-- Remember "려고" signifies an action aimed at a goal. Associating "려" with "intention" could help you recall its purpose.
-- Practice with various verbs to get a feel for this structure.
+- **Mnemonic Device:** For verbs ending with a consonant, think of "으" as a cushion that helps the consonant attach smoothly to the ending.
+- **Practice with Common Verbs:**
+  | Verb      | Verb Stem | Ending Needed | Conjugated Form       |
+  |-----------|-----------|---------------|-----------------------|
+  | 가다      | 가        | -려고 하다    | 가려고 하다           |
+  | 읽다      | 읽        | -으려고 하다  | 읽으려고 하다         |
+  | 쓰다      | 쓰        | -려고 하다    | 쓰려고 하다           |
+  | 듣다      | 듣        | -으려고 하다  | 듣으려고 하다         |
 ---
 ## 7. Summary and Review
 ### Key Takeaways
-- **~려고 하다** is used to express intention or plans for future actions.
-- The structure can reflect varying levels of politeness.
-- Understanding the difference from similar structures like **~고 싶다** is crucial for precise communication.
+- **~려고 하다** is used to express intentions, plans, or attempts.
+- Attach **-려고 하다** to verb stems ending with vowels.
+- Attach **-으려고 하다** to verb stems ending with consonants.
+- Conjugate **하다** to match the tense and formality.
+- Be mindful of cultural contexts and politeness levels when using this grammar.
 ### Quick Recap Quiz
-1. How do you say "I am trying to eat" using ~려고 하다?
-2. What is the difference between ~려고 하다 and ~고 싶다?
-3. Why is it important to choose the right level of politeness when using this grammar point?
-Processing keyword: ~려고 하다 [ryeogo hada] (Try to)
-# Korean Grammar Point: ~려고 하다 [ryeogo hada] (Try to)
-# Grammar Point: ~려고 하다 [ryeogo hada] (Try to)
-## 1. Introduction
-The expression **~려고 하다** is commonly used in the Korean language to indicate an intention or effort to do something. It can be translated as "to try to," "to intend to," or "to plan to" in English. 
+1. **Fill in the blank**: 친구를 ________ 해요. (만나다)
+   - **Answer:** 만나**려고** 해요.
+2. **Choose the correct form**: 먹다 → 먹려고 하다 or 먹으려고 하다?
+   - **Answer:** 먹**으려고 하다**
+3. **Translate to Korean**: "I tried to call."
+   - **Answer:** 전화하**려고 했어요**.
+4. **Correct the mistake**: 비가 오**으려고 해요**.
+   - **Correction:** 비가 오**려고 해요**. (Since "오" ends with a vowel, use **-려고 해요**.)
 ---
-## 2. Core Grammar Explanation
-### Detailed Explanation
-- **Meaning**: The phrase signifies an intention, attempt, or plan to do something. It is often used when someone wants to express their willingness or desire to take action.
-- **Structure**:
-    - Basic Structure: **Verb Stem + 려고 하다**
-    - Example: 
-        - 가다 (gada - to go) → 가려고 하다 (galyego hada - to try to go)
-        - 먹다 (meokda - to eat) → 먹으려고 하다 (meogeulyeogo hada - to try to eat)
-### Formation Diagram
-```
-Verb Stem + 려고 하다
-   ↓
-  가다 (to go) → 가려고 하다 (to intend to go)
-  먹다 (to eat) → 먹으려고 하다 (to intend to eat)
-```
+By understanding and practicing **~려고 하다**, you'll be able to express your intentions and plans more naturally in Korean conversations. Keep practicing with different verbs and contexts to strengthen your grasp of this useful grammar point!
+
 ---
-## 3. Comparative Analysis
-### Similar Expressions
-- **~고 싶다**: This is used to express a desire. For example, **가고 싶다** means "I want to go." 
-    - **Difference**: While ~고 싶다 expresses a wish or desire, ~려고 하다 expresses intention or plan to do something, indicating that the action is on the verge of being undertaken.
-- **~으려고 하다**: This is a variation used for verb stems ending in a consonant. 
-    - Example: **하다 (hada - to do)** → **하려고 하다 (haryeogo hada - to intend to do)**
----
-## 4. Examples in Context
-### Sentence Examples:
-1. **Formal**: 
-   - 저는 내일 회의에 참석하려고 합니다.
-   - (Jeoneun naeil hoeui-e chamseugharyeogo hamnida.)
-   - "I am trying to attend the meeting tomorrow."
-2. **Informal**:
-   - 나는 한국어를 배우려고 해.
-   - (Naneun hangugeoreul baeulyeogo hae.)
-   - "I am trying to learn Korean."
-3. **Written**:
-   - 그녀는 그 책을 읽으려고 노력하고 있다.
-   - (Geunyeoneun geu chaeg-eul ilgeulyeogo noryeokhago issda.)
-   - "She is trying to read that book."
-4. **Spoken**:
-   - 그걸 만들어 보려고 해.
-   - (Geugeol mandeureo boryeogo hae.)
-   - "I’m trying to make that."
----
-## 5. Cultural Notes
-### Cultural Relevance:
-In Korean culture, expressing intentions directly can reflect one's seriousness or commitment. Using **~려고 하다** properly showcases your willingness to take action, making it culturally relevant in formal and informal conversations.
-### Levels of Politeness:
-Korean has varying levels of politeness through verb endings. Using **~려고 하다** with different endings ( 해 (hae) for informal and 합니다 (hamnida) for formal) adjusts the level of politeness in a conversation.
-### Idiomatic Expressions:
-While there aren't widely recognized idioms using this specific grammar point, combining it with other expressions can form common phrases, such as:
-- 가려고 하는데요. (I am intending to go, but...) - can be used when transitioning or leading into another topic.
----
-## 6. Common Mistakes and Tips
-### Error Analysis:
-1. **Using an incorrect verb form**: Always ensure you're using the correct verb stem before adding **~려고 하다**.
-   - Example mistake: Saying "가려고 해요" instead of "갈려고 해요". 
-   
-2. **Neglecting politeness levels**: Remember to match the politeness level of **~려고 하다** with your audience.
-### Learning Strategies:
-- **Mnemonic Device**: Remember "하려고" is about "trying to act." The "하" comes from the verb 하다, linking it to the idea of action and intent.
----
-## 7. Summary and Review
-### Key Takeaways:
-- **~려고 하다** indicates intention or attempt to do something.
-- It can change form slightly depending on the vowel or consonant following it.
-- Pay attention to context and levels of politeness in your usage.
-### Quick Recap Quiz:
-1. How do you form the phrase to mean "I want to go" in Korean?
-2. What is the difference between **~고 싶다** and **~려고 하다**?
-3. Provide an example sentence using **~려고 하다** in a formal tone.
----
+© [Hanabira.org](https://hanabira.org)

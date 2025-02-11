@@ -7,13 +7,13 @@ import { ClockCircleOutlined } from "@ant-design/icons";
 import { Timeline } from "antd";
 
 export default function Downloads() {
-  const files = [
-    "grammar_ja_N1_full_alphabetical_0001.json",
-    "grammar_ja_N2_full_alphabetical_0001.json",
-    "grammar_ja_N3_full_alphabetical_0001.json",
-    "grammar_ja_N4_full_alphabetical_0001.json",
-    "grammar_ja_N5_full_alphabetical_0001.json",
-  ];
+  // const files = [
+  //   "grammar_ja_N1_full_alphabetical_0001.json",
+  //   "grammar_ja_N2_full_alphabetical_0001.json",
+  //   "grammar_ja_N3_full_alphabetical_0001.json",
+  //   "grammar_ja_N4_full_alphabetical_0001.json",
+  //   "grammar_ja_N5_full_alphabetical_0001.json",
+  // ];
 
   return (
     <div className="grid lg:grid-cols-body p-5">
@@ -53,18 +53,27 @@ export default function Downloads() {
             Downloads:
           </h2>
           <p className="text-gray-600 text-sm mb-4">
-            These files are the contents of the JLPT N1-N5 Japanese grammar
-            explanations with example sentences created in-house at
-            hanabira.org. They have not been corrected yet and still contain
-            errors. Use with caution. The files can be used for personal or
-            commercial purposes for free. We only ask that you credit
-            hanabira.org as the source.
+            These files are the contents of vocabulary, grammar and example
+            sentences created in-house at hanabira.org. They might still contain
+            errors and typos. Use with caution. The files can be used for
+            personal or commercial purposes for free. We only ask that you
+            credit hanabira.org as the source. Creative Commons License.
           </p>
 
           <h3 className="text-lg font-semibold text-gray-800 mb-3">
-            JSON Text Files Download:
+            Download:
           </h3>
-          <ul className="list-disc pl-5">
+
+          <a
+            href="https://github.com/tristcoil/hanabira.org-japanese-content"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="text-blue-600 hover:underline"
+          >
+            GitHub Repository
+          </a>
+
+          {/* <ul className="list-disc pl-5">
             {files.map((file, index) => (
               <li key={index} className="mb-2">
                 <a
@@ -77,8 +86,6 @@ export default function Downloads() {
               </li>
             ))}
           </ul>
-
-          {/* Audio Download Section */}
           <div className="mt-8">
             <h3 className="text-lg font-semibold text-gray-800 mb-3">
               Audio Download:
@@ -90,7 +97,7 @@ export default function Downloads() {
             >
               japanese_grammar_audio.zip (~50MB)
             </a>
-          </div>
+          </div> */}
         </div>
       </div>
     </div>

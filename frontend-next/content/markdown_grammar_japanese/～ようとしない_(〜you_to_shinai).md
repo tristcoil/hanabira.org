@@ -1,72 +1,117 @@
 Processing keyword: ～ようとしない (〜you to shinai)
 # Japanese Grammar Point: ～ようとしない (〜you to shinai)
-# Grammar Point: ～ようとしない (〜you to shinai)
+
 ## 1. Introduction
-The grammar point ～ようとしない expresses the unwillingness or reluctance to do something. It indicates that someone does not even make an attempt to do something, highlighting a lack of motivation or intention.
+In this lesson, we will explore the Japanese grammar point **～ようとしない** (〜you to shinai). This expression is used to convey that someone **does not try to** or **shows no intention of** doing something. Understanding this structure will help you express observations about others' lack of action or unwillingness in various contexts.
+
 ---
 ## 2. Core Grammar Explanation
-### Detailed Explanation
-- **Structure:** 
-    - The basic structure of this grammar point combines the verb in its "よう" form with "としない."
-    - **Formation:** 
-        - Take the verb in its dictionary form (the plain form) and convert it into its "you" form (よう) by changing the verb's ending.
-        - Attach "としない" to emphasize the refusal to attempt.
-### Meaning:
-- It typically translates to "does not even try to..." or "does not attempt to..." in English.
-### Structure Diagram:
+### Meaning
+The grammar point **～ようとしない** is used to indicate that a person **does not attempt** or **does not show signs of trying** to perform a certain action. It often reflects the speaker's observation that someone is not making an effort to do something that is expected or anticipated.
+### Structure
+To form this expression, combine the **volitional form** of a verb with **としない**.
+**Structure:**
 ```
-[Verb (dictionary form)] + よう + としない
+Verb (Volitional Form) + としない
 ```
-### Visual Aids:
-| Verb (Dictionary Form) | Verb (よう Form) | Completes to  | Meaning                   |
-|-------------------------|-------------------|----------------|---------------------------|
-| 食べる (taberu)        | 食べよう (tabeyou) | 食べようとしない (tabeyou to shinai) | Does not even try to eat |
-| 行く (iku)              | 行こう (ikou)     | 行こうとしない (ikou to shinai)   | Does not even try to go  |
+### Formation Diagram
+| **Verb Type**     | **Plain Form** | **Volitional Form** | **～ようとしない Form**         |
+|-------------------|----------------|---------------------|-------------------------------|
+| **Godan Verbs**   | 行く (iku)     | 行こう (ikō)        | 行こうとしない (ikō to shinai) |
+| **Ichidan Verbs** | 食べる (taberu)| 食べよう (tabeyō)   | 食べようとしない (tabeyō to shinai) |
+| **Irregular Verbs** | する (suru)   | しよう (shiyō)      | しようとしない (shiyō to shinai) |
+|                   | 来る (kuru)    | 来よう (koyō)       | 来ようとしない (koyō to shinai) |
+### How to Form the Volitional Form
+- **Godan Verbs (五段動詞):** Change the **u** sound to the corresponding **ō** sound.
+  - 行く → 行こう (iku → ikō)
+- **Ichidan Verbs (一段動詞):** Replace **る** with **よう**.
+  - 食べる → 食べよう (taberu → tabeyō)
+- **Irregular Verbs:**
+  - する → しよう (suru → shiyō)
+  - 来る → 来よう (kuru → koyō)
 ---
 ## 3. Comparative Analysis
-### Similar Grammar Points:
-- **〜たがらない (〜tagaranai)**: Indicates that someone does not want to do something (desire).
-    - Example: 食べたがらない (does not want to eat).
-    
-- **〜ようとしない (〜you to shinai)** focuses purely on the lack of effort or attempt, while **〜たがらない (〜tagaranai)** emphasizes the person's desire or wish not to do something.
+### Comparison with Similar Grammar Points
+#### ～ようとする
+- **Meaning:** "To try to..." or "To attempt to..."
+- **Example:** 彼は出かけようとする。(*He tries to go out.*)
+#### ～ないつもりだ
+- **Meaning:** "Intend not to..." or "Plan not to..."
+- **Example:** 彼は出かけないつもりだ。(*He intends not to go out.*)
+### Nuance Differences
+- **～ようとしない** implies an **observational** stance, highlighting that someone shows no signs of doing something, possibly contrary to expectations.
+- **～ないつもりだ** indicates a **deliberate decision** by the subject not to do something.
 ---
 ## 4. Examples in Context
-### Sentence Examples:
-1. **Formal:**
-   - 彼は問題を解決しようとしない。  
-   (Kare wa mondai o kaiketsu shiyou to shinai.)  
-   - *He does not even try to solve the problem.*
-2. **Informal:**
-   - 友達は遊びに行こうとしない。  
-   (Tomodachi wa asobi ni ikou to shinai.)  
-   - *My friend doesn’t even try to go out and play.*
-3. **Written:**
-   - 彼女は新しいことを学ぼうとしない。  
-   (Kanojo wa atarashii koto o manabou to shinai.)  
-   - *She does not even attempt to learn new things.*
-4. **Spoken:**
-   - そんなことをやろうとしないで。  
-   (Sonna koto o yarou to shinaide.)  
-   - *Don’t even try to do that kind of thing.*
+### Sentence Examples
+1. **彼は宿題をしようとしない。**
+   - *Kare wa shukudai o shiyō to shinai.*
+   - **Translation:** "He doesn't try to do his homework."
+2. **彼女は話そうとしなかった。**
+   - *Kanojo wa hanasō to shinakatta.*
+   - **Translation:** "She didn't try to speak."
+3. **猫が帰ろうとしない。**
+   - *Neko ga kaerō to shinai.*
+   - **Translation:** "The cat shows no sign of returning home."
+4. **子供たちは寝ようとしません。**
+   - *Kodomo-tachi wa neyō to shimasen.*
+   - **Translation:** "The children refuse to go to sleep."
+5. **彼は真実を知ろうとしない。**
+   - *Kare wa shinjitsu o shirō to shinai.*
+   - **Translation:** "He doesn't try to know the truth."
+### Context Variations
+- **Formal Speech:**
+  - 社長は計画を変えようとしませんでした。
+    - *The president showed no intention of changing the plan.*
+- **Casual Conversation:**
+  - 彼女、手伝おうとしないね。
+    - *She doesn't try to help, does she?*
 ---
 ## 5. Cultural Notes
-### Cultural Relevance:
-- This grammar point often reflects cultural norms emphasizing effort and perseverance. In Japanese culture, making attempts, even when facing difficulties, is valued. Expressing that someone does not try may carry a negative connotation, indicating a lack of effort or concern.
-### Idiomatic Expressions:
-- There are no widely recognized idiomatic expressions using this particular grammar, but you may hear phrases reflecting sentiments of resignation or apathy.
+### Cultural Relevance
+In Japanese society, direct confrontation is often avoided. Using **～ようとしない** allows the speaker to subtly express concern or disappointment about someone's lack of action without being overtly confrontational.
+### Levels of Politeness
+The base form **しない** is informal. To make it polite, use **しません**.
+- **Polite Form Example:**
+  - 彼は話そうとしません。
+    - *He doesn't try to speak.*
+### Idiomatic Expressions
+- **耳を貸そうとしない**
+  - *Mimi o kasō to shinai*
+  - **Meaning:** "Not willing to listen (to others)."
 ---
 ## 6. Common Mistakes and Tips
-### Error Analysis:
-- A common error is confusing this structure with the desire form (たがる). Remember that **～ようとしない** focuses on action and attempts, while **～たがらない** concerns desire.
-### Learning Strategies:
-- To remember, think of **ようとしない** as "not even trying." Associating visuals of someone lazily ignoring tasks can also help solidify the meaning.
+### Error Analysis
+1. **Using the Negative Form Incorrectly**
+   - **Incorrect:** 彼は食べようと**する**ない。
+   - **Correct:** 彼は食べようと**しない**。
+   - *Explanation:* The negative form **しない** should follow **と**, not **するない**.
+2. **Confusing with Potential Form**
+   - **Incorrect:** 彼は泳げようとしない。
+   - **Correct:** 彼は泳ごうとしない。
+   - *Explanation:* Use the volitional form, not the potential form.
+### Learning Strategies
+- **Mnemonic Device:**
+  - Think of **よう** (volitional form) as expressing intention, and **としない** as negating the attempt.
+- **Practice Tip:**
+  - Create sentences about daily observations where someone isn't trying to do something expected.
 ---
 ## 7. Summary and Review
-### Key Takeaways:
-- **Meaning:** Expresses the unwillingness or refusal to attempt an action.
-- **Structure:** [Verb (dictionary form)] + よう + としない
-- **Usage:** Highlights a lack of action without concern for outcome.
+### Key Takeaways
+- **～ようとしない** is used to express that someone is **not trying** or **shows no intention of** doing something.
+- Formed by combining the **volitional form** of a verb with **としない**.
+- Conveys an observation about someone's lack of action, often implying expectation.
 ### Quick Recap Quiz
-1. What does ～ようとしない mean?
-2. What is the correct form of the verb "to eat" in the structure ～ようとしない?
-3. How is ～ようとしない different from ～たがらない?
+1. **How do you form ～ようとしない with the verb 書く (kaku)?**
+   - **Answer:** 書こうとしない (*kakō to shinai*)
+2. **Translate into English:**
+   - **彼らは説明を聞こうとしなかった。**
+     - **Answer:** "They didn't try to listen to the explanation."
+3. **What is the difference between ～ようとしない and ～ようとする?**
+   - **Answer:** **～ようとしない** means "doesn't try to..." whereas **～ようとする** means "tries to..."
+---
+By mastering **～ようとしない**, you'll enhance your ability to express subtle nuances about intention and effort in Japanese, making your communication more precise and culturally appropriate.
+
+---
+
+© [Hanabira.org](https://hanabira.org)

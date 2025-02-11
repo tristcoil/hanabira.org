@@ -1,85 +1,105 @@
 Processing keyword: ～切れない (～kirenai)
 # Japanese Grammar Point: ～切れない (～kirenai)
-# Grammar Point: ～切れない (～kirenai)
+
+---
 ## 1. Introduction
-The grammar point ～切れない (～kirenai) is used in Japanese to express the idea of something being unable to be completed or finished. It can convey a sense of inability or impossibility regarding an action, especially when referring to something that is too overwhelming to manage or finish.
+In this lesson, we'll explore the Japanese grammar point **～切れない (～kirenai)**. This expression is used to indicate that something **cannot be completely done** or that an action **cannot be fully completed** due to its sheer amount or difficulty. Mastering this grammar point will enhance your ability to express limitations and capacities in Japanese.
+
 ---
 ## 2. Core Grammar Explanation
-### Detailed Explanation
-The structure of ～切れない is derived from the verb 切る (kiru), which means "to cut." When you add the negative form ない (nai) to it, you receive ～切れない (kirenai), suggesting the action cannot be "cut" or finished.
 ### Meaning
-- **切れる (kireru)**: to be able to cut or finish.
-- **切れない (kirenai)**: to be unable to cut or finish.
+**～切れない** conveys the meaning of **"unable to do something entirely"** or **"cannot finish doing something"** because it's too much or overwhelming. It emphasizes the **inability to complete an action fully**.
 ### Structure
-- **Verb Stem + ～切れない**
-- E.g., 読む (yomu = to read) → 読み切れない (yomi kirenai = cannot finish reading)
-### Formation Diagram
+#### Formation
+To form **～切れない**, attach **切れない (kirenai)** to the **verb stem** (the ます-form of the verb without ます).
+**Structure Diagram:**
 ```
-  Verb Stem (e.g., 読む)
-          |
-     +--------+
-     |  切る  | (to cut/finish)
-     |        |
-      ----→  切れない (kirenai) 
+Verb Stem + 切れない
 ```
+**Example Formation:**
+| Verb (Dictionary Form) | Verb Stem (ます-form without ます) | + 切れない | Resulting Verb |
+|------------------------|----------------------------------|------------|----------------|
+| 食べる (taberu)         | 食べ (tabe)                       | 切れない    | 食べ切れない    |
+| 読む (yomu)            | 読み (yomi)                       | 切れない    | 読み切れない    |
+| 書く (kaku)            | 書き (kaki)                       | 切れない    | 書き切れない    |
 ---
 ## 3. Comparative Analysis
-Compared to similar grammar points:
-- **～きる (～kiru)**: Indicates that something can be done completely or thoroughly. E.g., 読む → 読みきる (yomi kiru = to finish reading).
-  
-- **～きれない (～kirenai)**: While it indicates the inability to complete an action, it can also connote the idea that it is overwhelming or just too much.
-**Example Comparison:**
-- この本は読みきれない。  
-  *(Kono hon wa yomikirenai.)*  
-  "I can't finish this book." (It’s too long or complicated.)
-  
-- この本は読みきった。  
-  *(Kono hon wa yomikitta.)*  
-  "I finished reading this book." 
+### Comparing ～切れない with Similar Grammar Points
+- **～きる (～kiru):**
+  - **Meaning:** To do something completely or thoroughly.
+  - **Example:** 食べきる (tabe-kiru) — "to eat everything," "to finish eating."
+- **～切れない (～kirenai):**
+  - **Meaning:** Unable to do something completely; cannot finish.
+  - **Example:** 食べ切れない (tabe-kirenai) — "can't eat it all," "unable to finish eating."
+**Note:** Using **～きる** expresses completion, while **～切れない** expresses the inability to reach completion.
 ---
 ## 4. Examples in Context
-### Sentence Examples
-1. **Formal Context**:  
-   彼の話は長すぎて、最後まで聞き切れない。  
-   *(Kare no hanashi wa nagasugite, saigo made kikikirenai.)*  
-   "His story is too long; I cannot listen to it until the end."
-2. **Informal Context**:  
-   昨日の宿題、時間がなくてやり切れなかった。  
-   *(Kinō no shukudai, jikan ga nakute yarikirenakatta.)*  
-   "I couldn't finish yesterday's homework because I didn’t have enough time."
-3. **Written Context**:  
-   この映画は感動的で、何度も見ても見切れない。  
-   *(Kono eiga wa kandōteki de, nando mo mitemo mikirenai.)*  
-   "This movie is so touching; I can watch it multiple times and still not grasp everything."
-4. **Spoken Context**:  
-   新しいゲームが難しくて、すぐにクリアし切れないよ。  
-   *(Atarashii gēmu ga muzukashikute, sugu ni kuria shikirenai yo.)*  
-   "The new game is complicated; I can't clear it right away."
+Here are some example sentences demonstrating **～切れない** in various contexts.
+### Example 1: 食べ切れない (tabe-kirenai)
+- **Japanese:** このケーキは大きすぎて、一人では食べ切れない。
+- **Romaji:** Kono kēki wa ōkisugite, hitori de wa tabe-kirenai.
+- **Translation:** This cake is too big; I can't finish it by myself.
+### Example 2: 読み切れない (yomi-kirenai)
+- **Japanese:** 彼からの長いメールはとても読み切れない。
+- **Romaji:** Kare kara no nagai mēru wa totemo yomi-kirenai.
+- **Translation:** I can't possibly finish reading his long email.
+### Example 3: 書き切れない (kaki-kirenai)
+- **Japanese:** 旅行の思い出はたくさんありすぎて、日記に書き切れない。
+- **Romaji:** Ryokō no omoide wa takusan arisugite, nikki ni kaki-kirenai.
+- **Translation:** I have so many travel memories that I can't write them all in my diary.
+### Example 4: 使い切れない (tsukai-kirenai)
+- **Japanese:** こんなに多くのポイントは使い切れない。
+- **Romaji:** Konna ni ōku no pointo wa tsukai-kirenai.
+- **Translation:** I can't use up this many points.
+### Example 5: 覚え切れない (oboe-kirenai)
+- **Japanese:** 漢字が多すぎて、全部は覚え切れない。
+- **Romaji:** Kanji ga ōsugite, zenbu wa oboe-kirenai.
+- **Translation:** There are too many kanji; I can't memorize them all.
 ---
 ## 5. Cultural Notes
+### Politeness and Formality
+- **Neutral Usage:** **～切れない** is used in both casual and formal situations.
+- **Adjusting Formality:** To make the sentence more polite, use the polite form of the verb after **～切れない**.
+  - **Example:** 食べ切れません (tabe-kiremasen) — Formal/polite negative form.
 ### Cultural Relevance
-In Japanese culture, expressing inability to complete something often showcases humility and a sense of respect towards the task or conversation partner. It reflects the social norm of not overstating one’s abilities. The use of this grammar point can convey the speaker's respect for the task's complexity or the effort involved.
+In Japanese culture, expressing one's limitations politely is important. Using **～切れない** allows speakers to convey inability without directly refusing or causing offense.
 ### Idiomatic Expressions
-- できる限り (dekiru kagiri) meaning "as much as I can" is often paired with expressions that might bring up the idea of not being able to complete something, highlighting an effort versus inability dichotomy.
+- **思い切れない (omoi-kirenai):** Cannot forget or get over someone/something completely.
+  - **Example:** 初恋の人のことが思い切れない。
+  - **Translation:** I can't completely get over my first love.
 ---
 ## 6. Common Mistakes and Tips
-### Error Analysis
-- Using ～切れない when the subject hasn’t even started the action. 
-  - Correct Usage: “I cannot finish” vs “I haven’t started yet.”
-  
-### Learning Strategies
-- When remembering this grammar point, think of “cutting” as “finishing.” Thus, if you cannot "cut through" the task, you cannot finish it. 
-### Mnemonic Device
-- Associate the sound of "kire" with "clear" in English to help remember that it's about clarity in the task being completed or understood.
+### Common Mistakes
+1. **Using the Dictionary Form Instead of the Verb Stem**
+   - **Incorrect:** *食べる切れない* (taberu-kirenai)
+   - **Correct:** 食べ切れない (tabe-kirenai)
+2. **Confusing with 切らない (kiranai), the Negative Form of 切る (kiru)**
+   - **切らない (kiranai):** Means "do not cut."
+   - **切れない (kirenai):** Means "cannot completely do."
+### Tips for Avoiding Mistakes
+- **Remember the Verb Stem:** Always use the verb stem (ます-form without ます) before attaching **切れない**.
+- **Associate 切れない with Completion:** Think of 切る (kiru) as "to cut through" or "to finish," so 切れない implies "can't cut through" or "can't finish."
 ---
 ## 7. Summary and Review
 ### Key Takeaways
-- ～切れない expresses an inability to finish or complete an action.
-- It is formed by adding 〜切れない to the verb stem.
-- It demonstrates humility and respect for the complexity of tasks.
+- **～切れない (～kirenai)** is used to express that an action **cannot be completed in its entirety**.
+- Formed by attaching **切れない** to the **verb stem**.
+- It emphasizes limitations due to quantity, difficulty, or capacity.
 ### Quick Recap Quiz
-1. What does ～切れない express?  
-2. How do you form ～切れない?  
-3. Give an example sentence using ～切れない in a formal context.
+1. **How do you form ～切れない with a verb?**
+2. **What does 読み切れない mean?**
+3. **Create a sentence using ～切れない with the verb 使う (tsukau).**
+#### Answers
+1. **Attach 切れない to the verb stem (ます-form without ます).**
+2. **"Cannot finish reading" or "unable to read it all."**
+3. **Possible Answer:**
+   - Japanese: こんなに多くの資料は一日では使い切れない。
+   - Romaji: Konna ni ōku no shiryō wa ichi-nichi de wa tsukai-kirenai.
+   - Translation: I can't go through all these materials in one day.
 ---
-If you have any further questions or require additional examples, feel free to ask!
+By understanding and practicing **～切れない**, you'll be able to express limitations and the inability to complete actions, adding nuance to your Japanese communication skills.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

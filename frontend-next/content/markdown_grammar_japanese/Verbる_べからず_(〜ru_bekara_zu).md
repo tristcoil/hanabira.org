@@ -1,70 +1,89 @@
 Processing keyword: Verbる べからず (〜ru bekara zu)
 # Japanese Grammar Point: Verbる べからず (〜ru bekara zu)
-# Grammar Point: Verbる べからず (〜ru bekara zu)
+
 ## 1. Introduction
-The grammar point **Verbるべからず** (〜ru bekara zu) is a classical Japanese expression that indicates prohibition or something that should not be done. It has a somewhat formal tone and is often found in literature or formal speech, making it particularly interesting for learners studying advanced Japanese.
+The grammar point **Verbるべからず (～るべからず)** is an old-fashioned or literary expression used to indicate strong prohibition. It translates to "must not" or "should not" in English and is commonly found on signs, warnings, or in written instructions. Although not frequently used in everyday conversation, understanding this grammar is useful for reading literature, historical texts, or formal writings.
+
+---
 ## 2. Core Grammar Explanation
-### Detailed Explanation
-**Structure**:  
-- **Verb (with る)** + **べからず**
-**Meaning**:  
-This construction expresses that an action should not occur or is forbidden.
+## Meaning
+**Verbるべからず** is used to express that something is strictly prohibited or should not be done under any circumstances.
+- **English Equivalent**: "Must not ~", "Should not ~", "Do not ~"
+## Structure
+The structure involves attaching **べからず** directly to the dictionary form of a verb.
 ### Formation Diagram
 ```
-            Verb (る形)
-               ↓
-          + べからず
-               ↓
-      This action should not be done.
+[Verb (Dictionary Form)] + べからず
 ```
-### Usage
-1. **Formal Prohibition**: Used to denote activities or behaviors that are not permitted.
-2. **Advice**: It can also convey strong recommendations against certain actions.
+### Examples
+- **立ち入る** (to enter) + **べからず** → **立ち入るべからず** (Do not enter)
+- **捨てる** (to throw away) + **べからず** → **捨てるべからず** (Do not throw away)
+---
 ## 3. Comparative Analysis
-**Comparative Grammar Points**:
-- **Verbてはいけない** (〜te wa ikenai): Also indicates prohibition but is more commonly used in spoken Japanese.
-- **Verbてはならない** (〜te wa naranai): More formal than てはいけない, often seen in legal or serious contexts.
-| Grammar Point        | Usage           | Formality Level   |
-|----------------------|----------------|--------------------|
-| Verbるべからず      | Strong Prohibition | High               |
-| Verbてはいけない    | Prohibition    | Medium (Conversational) |
-| Verbてはならない    | Strong Prohibition | Medium to High     |
+## Comparison with 〜てはいけない
+While **べからず** is a classical and literary form, **〜てはいけない** is a more common expression used in daily conversation to indicate prohibition.
+| Grammar Point          | Usage                             | Formality         |
+|------------------------|-----------------------------------|-------------------|
+| **Verbるべからず**     | Strong prohibition (literary)      | Formal, Written   |
+| **Verbてはいけない**   | Prohibition (common use)          | Neutral, Spoken   |
+---
 ## 4. Examples in Context
-### Sentence Examples
-1. 書くべからず。  
-   *(Kaku bekara zu.)*  
-   "You must not write."
-2. この場所で喋るべからず。  
-   *(Kono basho de shaberu bekara zu.)*  
-   "You should not speak in this place."
-3. 無駄なことを考えるべからず。  
-   *(Mudana koto wo kangaeru bekara zu.)*  
-   "You should not think about useless things."
-4. その事を他言するべからず。  
-   *(Sono koto wo tagai suru bekara zu.)*  
-   "You must not speak of that matter to others."
+## Formal/Written Examples
+1. **ここにゴミを捨てるべからず。**
+   - *Koko ni gomi o suteru bekara zu.*
+   - **Translation**: Do not throw garbage here.
+2. **危険！立ち入るべからず。**
+   - *Kiken! Tachiiru bekara zu.*
+   - **Translation**: Danger! Do not enter.
+## Literary Example
+3. **人の道に外れることをするべからず。**
+   - *Hito no michi ni hazureru koto o suru bekara zu.*
+   - **Translation**: You must not do things that stray from the path of humanity.
+## Historical Text Example
+4. **礼儀を忘るべからず。**
+   - *Reigi o wasuru bekara zu.*
+   - **Translation**: Do not forget your manners.
+---
 ## 5. Cultural Notes
-### Cultural Relevance
-The expression conveys a level of politeness associated with serious admonitions. It reflects the cultural emphasis on behavior and abiding by social norms. Its usage often relates to rules or regulations, such as those in institutions or formal settings.
-### Idiomatic Expressions
-- **式典においては、静かにするべからず。**  
-  *(Shikiten ni oite wa, shizuka ni suru bekara zu.)*  
-  "At the ceremony, you must not make noise."
+## Cultural Relevance
+- **Usage in Signs**: You might encounter **べからず** on old signs or traditional buildings in Japan, indicating prohibitions in a formal manner.
+- **Formality**: This expression reflects a high level of formality and is associated with authoritative directives.
+## Idiomatic Expressions
+- **恩を忘るべからず。**
+  - *On o wasuru bekara zu.*
+  - **Translation**: Do not forget a favor received.
+  - **Explanation**: Emphasizes the importance of gratitude in Japanese culture.
+---
 ## 6. Common Mistakes and Tips
-### Error Analysis
-- Learners might confuse this structure with more casual prohibitions like てはいけない, leading to inappropriate contexts.
-- Misplacement of verbs, as it should directly follow the verb in the る form.
-### Learning Strategies
-- **Mnemonic Device**: Remember that "べからず" rhymes with "ban," suggesting an explicit prohibition.
-- Practice with formal texts to become familiar with its nuance and context.
+## Error Analysis
+- **Using in Casual Speech**: Avoid using **べからず** in daily conversation; it may sound unnatural or overly formal.
+- **Incorrect Verb Form**: Remember to use the dictionary form of the verb before **べからず**, not the masu-form or te-form.
+## Learning Strategies
+- **Mnemonic Device**: Think of **"べからず"** as "べから (do not) + ず (negative ending)" to remember it conveys prohibition.
+- **Contextual Learning**: Read traditional Japanese texts or visit historical sites to see this grammar in authentic contexts.
+---
 ## 7. Summary and Review
-### Key Takeaways
-- **Verbるべからず** indicates prohibition, mainly in formal contexts.
-- It is more severe than other forms like **Verbてはいけない**.
-- Useful in written and formal spoken Japanese.
-### Quick Recap Quiz
-1. What does **Verbるべからず** mean?
-2. Which construction is less formal than this?
-3. Give an example sentence using **Verbるべからず**.
---- 
-Feel free to answer the quiz questions or reach out if you have any more inquiries about this grammar point!
+## Key Takeaways
+- **Verbるべからず** is a formal, literary expression meaning "must not ~" or "should not ~".
+- It is attached directly to the dictionary form of a verb.
+- Commonly found in written warnings, signs, and historical or literary texts.
+- Not used in everyday conversation; instead, use **〜てはいけない** for spoken language.
+## Quick Recap Quiz
+1. **Translate the following sentence:**
+   **立ち入るべからず。**
+   *Answer*: Do not enter.
+2. **Which form of the verb is used before べからず?**
+   a) Masu-form
+   b) Te-form
+   c) Dictionary form
+   *Answer*: c) Dictionary form
+3. **True or False?**
+   **べからず** is commonly used in casual spoken Japanese.
+   *Answer*: False
+---
+Feel free to revisit this lesson to reinforce your understanding of **Verbるべからず**. Practice by spotting this grammar in signs or texts to become familiar with its usage.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

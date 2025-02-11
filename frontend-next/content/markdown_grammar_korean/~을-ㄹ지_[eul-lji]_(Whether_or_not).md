@@ -1,74 +1,106 @@
 Processing keyword: ~을/ㄹ지 [eul/lji] (Whether or not)
 # Korean Grammar Point: ~을/ㄹ지 [eul/lji] (Whether or not)
-# Korean Grammar Point: ~을/ㄹ지 [eul/lji] (Whether or not)
+
 ## 1. Introduction
-The grammar point ~을/ㄹ지 is used to express uncertainty or to indicate a choice between two options, often translating to "whether or not" in English. It's commonly used when asking questions or making statements about possibilities.
+The Korean grammar point **~을/ㄹ지** ([eul/lji]) is used to express uncertainty, speculation, or contemplation about options and possibilities. It's similar to the English phrases "**whether**," "**whether or not**," or "**if**". Mastering this structure will enhance your ability to discuss future possibilities and hypothetical situations in Korean.
+
 ---
 ## 2. Core Grammar Explanation
 ### Detailed Explanation
-The expression ~을/ㄹ지 is attached to verbs and adjectives to show hesitation or inquiry regarding a subsequent action or state. The choice between ~을 and ~ㄹ depends on the final consonant of the preceding verb or adjective.
-- **Structure**: 
-   - Verb/Adjective stem + 을지 (if it ends in a consonant)
-   - Verb/Adjective stem + ㄹ지 (if it ends in a vowel)
+**~을/ㄹ지** is attached to the stem of verbs and adjectives to indicate pondering over possibilities or uncertainties, especially regarding future actions or events. It is often used when:
+- Considering different options.
+- Expressing doubt or uncertainty.
+- Asking oneself or others about what to do.
+### Meaning and Structure
+- **Meaning**: whether; whether or not; if
+- **Structure**:
+  ```
+  Verb/Adjective Stem + 을지/ㄹ지
+  ```
 ### Formation Diagram
+| **Verb/Adjective Stem Ending** | **Add**   |
+|-------------------------------|-----------|
+| Ends with a **consonant**      | **-을지** |
+| Ends with a **vowel**          | **-ㄹ지** |
+### Visual Aid
 ```
-If Verb/Adjective ends with a consonant:
-[stem] + 을지
-Example: 가다 → 갈지 (whether to go)
-If Verb/Adjective ends with a vowel:
-[stem] + ㄹ지
-Example: 예쁘다 → 예쁠지 (whether it is pretty)
+[Verb/Adjective Stem] + 을지/ㄹ지 + [Additional Phrase]
 ```
-### Visual Aids: 
-| Ends In   | Usage           | Example         | Translation        |
-|-----------|----------------|------------------|---------------------|
-| **Consonant** | + 을지      | 생각하다 → 생각할지 | Whether to think     |
-| **Vowel**     | + ㄹ지      | 먹다 → 먹을지    | Whether to eat       |
 ---
 ## 3. Comparative Analysis
-### Comparison with Similar Grammar Points
-- **~거나**: "or" - Used for presenting alternatives, while ~을/ㄹ지 indicates uncertainty.
-    - Example: 가거나 (to go or not to go)
-- **~지 않다**: "not" - Negates the action, while ~을/ㄹ지 poses a question about the action.
-    - Example: 가지 않다 (not to go)
-The nuance is that ~을/ㄹ지 asks if one should take an action or not, whereas ~거나 merely presents choices.
+- **~을/ㄹ지** vs. **~는지**:
+  - **~을/ㄹ지** is used for **uncertain future possibilities** or **decisions yet to be made**.
+  - **~는지** is used for **known information**, **indirect questions**, or **seeking confirmation** about facts.
 ---
 ## 4. Examples in Context
-### Sentence Examples
-1. **Formal**: 
-   - **미팅에 참석할지 말지 고민하고 있어요.**
-   - "I am thinking about whether or not to attend the meeting."
-2. **Informal**: 
-   - **공부할지 말지 잘 모르겠어.**
-   - "I don't know whether or not to study."
-3. **Written**: 
-   - **내일 비가 올지 안 올지 확실치 않다.**
-   - "It is uncertain whether it will rain tomorrow."
-4. **Spoken**: 
-   - **영화를 볼지 말지 고민 중이야.**
-   - "I'm thinking about whether or not to watch a movie."
+### Example Sentences
+1. **내일 뭐 할지 생각 중이에요.**
+   - *Naeil mwo halji saenggak jungieyo.*
+   - "I'm thinking about what to do tomorrow."
+2. **그 사람이 올지 안 올지 모르겠어요.**
+   - *Geu sarami olji an olji moreugesseoyo.*
+   - "I don't know whether that person will come or not."
+3. **점심으로 뭘 먹을지 결정했어요?**
+   - *Jeomsimeuro mwol meogeulji gyeoljeonghaesseoyo?*
+   - "Have you decided what to eat for lunch?"
+4. **이번 주말에 영화 볼지 말지 아직 몰라요.**
+   - *Ibeon jumare yeonghwa bolji malji ajik mollayo.*
+   - "I don't know yet whether I'll watch a movie this weekend or not."
+5. **어느 대학에 지원할지 고민하고 있어요.**
+   - *Eoneu daehage jiwonhalji gominhago isseoyo.*
+   - "I'm debating which university to apply to."
+### Formal and Informal Usage
+- **Formal**: **~을지/ㄹ지** can be used in both formal and informal contexts without changes.
+- **Informal Speech Example**:
+  - **뭘 할지 생각 중이야.**
+    - *Mwol halji saenggak jungiya.*
+    - "I'm thinking about what to do."
 ---
 ## 5. Cultural Notes
 ### Cultural Relevance
-In conversations, showing uncertainty or hesitation is quite common in Korean culture, reflecting a sense of politeness and consideration for social dynamics. By using ~을/ㄹ지, speakers can soften their statements and invite input from others, which is valued in Korean interaction.
+In Korean culture, considering others' opinions and being indirect when expressing uncertainty is common. Using **~을/ㄹ지** reflects a polite way of discussing potential actions without making definitive statements, respecting the listener's perspective.
 ### Idiomatic Expressions
-- **갈지 말지**: This phrase translates as "whether to go or not" and can often appear in discussions regarding decision-making.
+- **갈지 말지 망설이다**
+  - *Galji malji mangseorida*
+  - "To hesitate about whether to go or not."
+  **Example**:
+  - **친구 생일 파티에 갈지 말지 망설였어요.**
+    - *Chingu saengil patie galji malji mangseoryeosseoyo.*
+    - "I hesitated about whether to go to my friend's birthday party or not."
 ---
 ## 6. Common Mistakes and Tips
 ### Error Analysis
-- Mixing up the endings: Remember that it depends on the last sound of the verb/adjective.
-    - Incorrect: 예쁠지 (using + 을 with 예쁘다)
-    - Correct: 예쁠지
+- **Error**: Using **~을지** after a stem ending with a vowel.
+  - **Incorrect**: 가**을지**
+  - **Correct**: 가**ㄹ지** *(Since "가" ends with a vowel, add "ㄹ지")*
+- **Error**: Confusing **~을지/ㄹ지** with **~는지** without considering the context.
+  - **~는지** is for current facts or known information.
+  - **~을지/ㄹ지** is for future possibilities or decisions.
 ### Learning Strategies
-- **Mnemonic Device**: Think of ~을/ㄹ지 as "choosing" — it’s a decision point. If it sounds like it’s choosing from possibilities, it gets ‘지’.
+- **Remember the Ending**:
+  - If the stem ends with a **vowel**, add **-ㄹ지**.
+  - If the stem ends with a **consonant**, add **-을지**.
+- **Associate with Future Actions**:
+  - Link **~을/ㄹ지** with future uncertainty to choose the correct usage.
 ---
 ## 7. Summary and Review
 ### Key Takeaways
-- ~을/ㄹ지 is used to express uncertainty, often translating to "whether or not."
-- Its structure varies based on the last consonant or vowel of the verb or adjective.
-- It is commonly applied in both casual and formal contexts.
+- **~을/ㄹ지** expresses uncertainty about future actions or possibilities.
+- Attach **-을지** after consonants and **-ㄹ지** after vowels.
+- It's used to ponder decisions or speculate about what might happen.
 ### Quick Recap Quiz
-1. What does ~을/ㄹ지 express?
-2. How do you decide whether to use ~을 or ~ㄹ?
-3. Give an example sentence using ~을/ㄹ지 in a formal context.
-Answer these questions to reinforce your understanding of the grammar point!
+1. **Fill in the blank** with the correct form of **~을/ㄹ지**:
+   **오늘 저녁에 뭘 먹___ 고민 중이에요.**
+   - **Answer**: 먹**을지**
+2. **Translate** into Korean using **~을/ㄹ지**:
+   "I can't decide whether to buy it or not."
+   - **Answer**: 살지 말지 결정 못 하겠어요.
+3. **Identify the error** in the following sentence:
+   **내일 비가 오을지 안 오을지 모르겠어요.**
+   - **Answer**: Incorrect use of **오을지**. Since "오" (from **오다**) ends with a vowel, it should be **올지**.
+   - **Correct Sentence**: 내일 비가 **올지** 안 **올지** 모르겠어요.
+---
+By practicing **~을/ㄹ지**, you'll become more comfortable expressing uncertainty and discussing possibilities in Korean, making your conversations more nuanced and natural.
+
+---
+© [Hanabira.org](https://hanabira.org)

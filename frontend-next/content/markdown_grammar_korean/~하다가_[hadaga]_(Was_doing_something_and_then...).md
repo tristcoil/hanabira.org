@@ -1,78 +1,98 @@
 Processing keyword: ~하다가 [hadaga] (Was doing something and then...)
 # Korean Grammar Point: ~하다가 [hadaga] (Was doing something and then...)
-# Grammar Point: ~하다가 [hadaga] (Was doing something and then...)
-## Introduction
-The grammar structure **~하다가** is used to indicate that someone was in the process of doing an action, but then something else happened that caused a change or interruption. It's a commonly used structure in Korean that helps provide context and show transitions between actions.
+
+## 1. Introduction
+In this lesson, we'll explore the Korean grammar point **~하다가 [hadaga]**, which is used to indicate that someone was in the middle of doing something when another action or event occurred. This structure helps speakers express interruptions or transitions between actions in a natural and fluid way.
+
 ---
-## Core Grammar Explanation
-### Detailed Explanation
-- **Meaning**: "To be in the middle of (doing something) when (something else happens)"
-- **Structure**: 
-  - **Verb Stem + 하다가**
-  
+## 2. Core Grammar Explanation
+### Meaning and Usage
+The suffix **~다가** attached to a verb stem conveys the meaning of "while doing something" or "was doing something and then...". It indicates that the initial action was ongoing but was interrupted by a second action.
+### Structure
+- **Verb Stem + ~다가**
 ### Formation Diagram
+```markdown
+[Action 1 Verb Stem] + 다가 + [Action 2]
 ```
-[Action Verb Stem] + 하다가 → "was doing [action] when [something else happened]"
-```
-#### Examples of Verb Stem + 하다:
-1. **가다 (gada)** → 가다가 (gadeuga)
-2. **보다 (boda)** → 보다가 (bodaga)
-3. **일하다 (ilhada)** → 일하다가 (ilhagada)
+### Breakdown
+- **Verb Stem**: The base form of a verb without the ending **-다**.
+- **다가**: A connective ending that links two actions, indicating the first action was interrupted or transitioned into the second action.
 ---
-## Visual Aids
-| **Verb Stem** | **Meaning**         | **Formed with 하다**         | **Resulting Form** |
-|---------------|---------------------|------------------------------|---------------------|
-| 가다          | to go               | 가다 + 하다                   | 가다가              |
-| 보다          | to see              | 보다 + 하다                   | 보다가              |
-| 일하다        | to work             | 일하다 + 하다                 | 일하다가            |
+## 3. Comparative Analysis
+### Comparison with ~면서
+- **~면서** also means "while doing", but it implies two actions happening simultaneously.
+  - **Example**: 먹으면서 TV를 봐요. (I watch TV while eating.)
+- **~다가** implies that the first action was interrupted to perform the second action.
+  - **Example**: 먹다가 전화를 받았어요. (I was eating and then received a phone call.)
+### Key Differences
+| Grammar Point | Usage                                    | Simultaneity | Interruption |
+|---------------|------------------------------------------|--------------|--------------|
+| **~다가**     | Action 1 is interrupted by Action 2      | No           | Yes          |
+| **~면서**     | Two actions happen at the same time      | Yes          | No           |
 ---
-## Comparative Analysis
-### Similar Grammar Points
-- **~고 있다**: Indicates an ongoing action (e.g., "I am studying") but does not imply interruption.
-- **~으면서/면서**: Indicates simultaneous actions (e.g., "I studied while listening to music") without suggesting a change in action.
-**Differences**:
-- **~하다가** indicates that the action was interrupted.
-- **~고 있다** simply describes an ongoing situation with no implied interruption.
-- **~으면서** provides a sense of co-occurrence rather than interruption.
+## 4. Examples in Context
+### Example Sentences
+1. **Informal Spoken**
+   - **한국어를 공부하다가 잠이 들었어요.**
+     - *I was studying Korean and then fell asleep.*
+2. **Formal Written**
+   - **회의를 하다가 중요한 전화를 받았습니다.**
+     - *I was in a meeting when I received an important call.*
+3. **Polite Conversation**
+   - **산책하다가 비가 와서 집에 갔어요.**
+     - *I was taking a walk, but it started raining, so I went home.*
+4. **Casual Speech**
+   - **영화를 보다가 나왔어.**
+     - *I was watching a movie and then left.*
+### Contextual Usage
+- **Expressing an Interruption**: When one action is interrupted by another.
+  - **책을 읽다가 친구를 만나러 갔어요.**
+    - *I was reading a book and then went to meet a friend.*
+- **Indicating a Change of Action**: When the subject stops one action to start another.
+  - **저녁을 준비하다가 재료가 없어서 식당에 갔어요.**
+    - *I was preparing dinner, but since I didn't have ingredients, I went to a restaurant.*
 ---
-## Examples in Context
-### Sentence Examples
-1. **Formal Context**:
-   - 도서관에서 공부하다가 친구를 만났습니다.
-   - (I was studying in the library when I met a friend.)
-2. **Informal Context**:
-   - TV를 보고 있다가 잠들었어.
-   - (I was watching TV and then I fell asleep.)
-3. **Written Context**:
-   - 발표를 준비하다가 갑자기 전화가 울렸다.
-   - (I was preparing for the presentation when suddenly the phone rang.)
-4. **Spoken Context**:
-   - 운동하다가 비가 오기 시작했어.
-   - (I was exercising when it started to rain.)
----
-## Cultural Notes
-### Cultural Relevance
-In Korean culture, describing interruptions is common when communicating about daily activities or important events. The use of **~하다가** helps to provide clarity on the sequence of actions, which aligns with the collective nature of Korean society, where context is significant.
+## 5. Cultural Notes
 ### Levels of Politeness
-The ending verb form (like '습니다' or '어요') adjusts the level of politeness. It's essential to choose the appropriate context depending on who you are speaking with.
+- The use of **~하다가** remains consistent across different levels of politeness; however, the verb endings following it should match the appropriate speech level.
+  - **Informal**: **-았어/었어**
+  - **Polite**: **-았어요/었어요**
+  - **Formal**: **-았습니다/었습니다**
 ### Idiomatic Expressions
-- 미리 준비하다가 (to prepare in advance and then...) conveys being proactive but still facing unexpected results.
+- **놀다가 물렸어요.**
+  - *I was playing around and then got bitten.*
+- Such expressions often reflect natural consequences or unexpected events during an activity.
 ---
-## Common Mistakes and Tips
-### Error Analysis
-- **Common Mistake**: Forgetting to use the correct verb form (stem).
-- **Tip**: Always make sure the verb is in its correct stem form before adding *하다가*.
+## 6. Common Mistakes and Tips
+### Common Errors
+1. **Using ~다가 with Adjectives**
+   - **Incorrect**: *예쁘다가 사진을 찍었어요.*
+   - **Correct**: *예뻐서 사진을 찍었어요.*
+   - **Tip**: **~다가** is used with action verbs, not adjectives.
+2. **Confusing with ~서**
+   - **~서** indicates cause and effect, not interruption.
+     - **Example**: *공부해서 성공했어요.* (I studied and therefore succeeded.)
 ### Learning Strategies
-- **Mnemonic Device**: Remember the **"was doing... when"** structure as a cue for using **~하다가**. Think of it as a timeline interruption.
+- **Mnemonic Device**: Think of **다가** as "Da! Got interrupted!" to remember it's about an action being interrupted.
+- **Practice Pairing Actions**: Write sentences where one action is naturally interrupted by another.
 ---
-## Summary and Review
+## 7. Summary and Review
 ### Key Takeaways
-- **~하다가** is used to express an interruption of an action.
-- Structure: **Verb Stem + 하다가**.
-- Different from ongoing actions (**~고 있다**) and simultaneous actions (**~으면서**).
+- **~하다가** is used to express that an action was ongoing and then another action occurred.
+- It is formed by adding **~다가** to the verb stem of the first action.
+- It implies an interruption or transition between actions.
+- **~다가** should be used with action verbs, not adjectives.
 ### Quick Recap Quiz
-1. What does **~하다가** mean?
-2. How do you form **~하다가**?
-3. Provide an example sentence using **~하다가**.
+1. How do you form the **~하다가** structure?
+   - **Answer**: Attach **~다가** to the verb stem of the first action.
+2. What is the difference between **~다가** and **~면서**?
+   - **Answer**: **~다가** indicates that the first action was interrupted by the second, while **~면서** means both actions happen simultaneously.
+3. Correct the error in the sentence: *먹다가 기분이 좋아요.*
+   - **Answer**: *먹어서 기분이 좋아요.* (Because I ate, I feel good.)
 ---
-Feel free to use these guidelines to enhance your understanding of this grammatical point!
+### Practice Sentences
+Try creating your own sentences using **~하다가** to describe a situation where you were doing something and then something else happened.
+- **Example**: *_____________________________ 하다가 ____________________________ 했어요.*
+
+---
+© [Hanabira.org](https://hanabira.org)

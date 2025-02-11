@@ -1,76 +1,145 @@
 Processing keyword: ~할 수 없다 [hal su eopda] (Cannot do)
 # Korean Grammar Point: ~할 수 없다 [hal su eopda] (Cannot do)
-# TOPIK Grammar Point: ~할 수 없다 [hal su eopda] (Cannot do)
+
 ## 1. Introduction
-The phrase ~할 수 없다 (hal su eopda) translates to "cannot do" in English. It is used to express an inability or impossibility to perform an action. This grammar point is essential for communicating restrictions, limitations, or circumstances that prevent someone from doing something.
+The Korean grammar point **~할 수 없다** is used to express the inability or impossibility to perform an action. It translates to "**cannot do**" or "**be unable to do**" in English. This structure is essential for expressing limitations, lack of ability, or external circumstances preventing an action.
+
+---
 ## 2. Core Grammar Explanation
-### Detailed Explanation
-- **Meaning**: The structure "~할 수 없다" literally means "cannot do." 
-- **Structure**: This structure is formed by taking the verb stem, adding "할 수" (which means "can do"), followed by "없다," which negates the ability to perform that action.
-  
+### Meaning and Usage
+- **Meaning**: To indicate that someone **cannot** or **is unable to** perform a certain action.
+- **Usage**: Attach **~(으)ㄹ 수 없다** to the verb stem.
+### Structure
+The structure combines the verb stem with **(으)ㄹ 수 없다**:
+- **For verb stems ending with a consonant**:  
+  **Verb Stem + 을 수 없다**
+- **For verb stems ending with a vowel**:  
+  **Verb Stem + ㄹ 수 없다**
 ### Formation Diagram
 ```
-[Verb Stem] + 할 수 + 없다
+[Verb Stem] + (으)ㄹ 수 없다
 ```
-- Example: 
-  - "가다" (gada - to go) → "갈 수 없다" (gal su eopda - cannot go)
-  - "하다" (hada - to do) → "할 수 없다" (hal su eopda - cannot do)
-### Visual Aids
-| Verb | Verb Stem | Can Do | Cannot Do |
-|------|-----------|--------|-----------|
-| 가다 | 가          | 갈 수  | 갈 수 없다 |
-| 하다 | 하          | 할 수  | 할 수 없다 |
-| 먹다 | 먹          | 먹을 수 | 먹을 수 없다 |
+### Examples of Formation
+| Verb (Dictionary Form) | Verb Stem | + (으)ㄹ 수 없다 | Meaning         |
+|-------------------------|-----------|-----------------|-----------------|
+| 먹다 (to eat)           | 먹         | 먹을 수 없다     | Cannot eat      |
+| 가다 (to go)            | 가         | 갈 수 없다       | Cannot go       |
+| 읽다 (to read)          | 읽         | 읽을 수 없다     | Cannot read     |
+| 보다 (to see/watch)     | 보         | 볼 수 없다       | Cannot see/watch|
+---
 ## 3. Comparative Analysis
-### Comparison with Similar Grammar Points
-1. **~지 못하다 [ji mothada]**: This has a similar meaning, but it emphasizes internal limitations or restrictions.
-   - Example: "참지 못하다" (cannot endure) vs. "참할 수 없다" (cannot hold back).
-   
-2. **~수를 모르다 [suleul moleuda]**: This phrase means "do not know how to" and is more about a lack of knowledge or ability to do something, rather than the outright impossibility.
-| Grammar Point      | Meaning                   | Context                      |
-|--------------------|---------------------------|------------------------------|
-| ~할 수 없다        | Cannot do                | General inability            |
-| ~지 못하다        | Cannot (due to internal reasons) | Internal limitations         |
-| ~수를 모르다       | Do not know how to do     | Lack of knowledge            |
+### Comparison with "~못하다"
+Both **~할 수 없다** and **~못하다** convey the meaning of "cannot do," but there are subtle differences:
+- **~할 수 없다**: Implies **inability** due to lack of ability or external circumstances.
+  - *Example*: 비가 와서 등산을 **할 수 없어요**.  
+    *(It's raining, so I can't go hiking.)*
+- **~못하다**: Implies **failure** or being **prevented** from doing something, often due to some hindrance.
+  - *Example*: 감기 때문에 학교에 **못 갔어요**.  
+    *(I couldn't go to school because of a cold.)*
+**Nuance Difference**:
+- **~할 수 없다** focuses on the **lack of ability or possibility**.
+- **~못하다** emphasizes that something **didn't happen**, possibly due to external factors.
+---
 ## 4. Examples in Context
-### Sentence Examples
-1. **Formal**:
-   - 저는 그 일을 할 수 없습니다. 
-     - (Jeoneun geu il-eul hal su eopseumnida.)
-     - "I cannot do that work."
-2. **Informal**:
-   - 오늘은 공부할 수 없어. 
-     - (Oneureun gongbuhal su eobseo.)
-     - "I can't study today."
-3. **Written**:
-   - 이 문제를 해결할 수 없다.
-     - (I munjeleul haegyeolhal su eopda.)
-     - "This problem cannot be solved."
-4. **Spoken**:
-   - 미안한데, 나 그거 할 수 없어.
-     - (Mianhande, na geugeo hal su eobseo.)
-     - "Sorry, but I can't do that."
+### Formal Examples
+1. **지금은 통화할 수 없습니다.**
+   - *Transliteration*: Jigeum-eun tonghwahal su eopseumnida.
+   - *Translation*: I cannot talk on the phone right now.
+2. **이 장소에서는 사진을 찍을 수 없습니다.**
+   - *Transliteration*: I jangso-eseoneun sajin-eul jjigeul su eopseumnida.
+   - *Translation*: You cannot take pictures at this place.
+### Informal Examples
+1. **나 오늘 영화 볼 수 없어.**
+   - *Transliteration*: Na oneul yeonghwa bol su eopseo.
+   - *Translation*: I can't watch a movie today.
+2. **시간이 없어서 거기에 갈 수 없어.**
+   - *Transliteration*: Sigani eopseoseo geogie gal su eopseo.
+   - *Translation*: I can't go there because I don't have time.
+### Written Examples
+1. **이 상품은 해외로 배송할 수 없습니다.**
+   - *Transliteration*: I sangpum-eun haeoe-ro baesonghal su eopseumnida.
+   - *Translation*: This product cannot be shipped overseas.
+2. **본 이미지는 저작권 문제로 사용할 수 없습니다.**
+   - *Transliteration*: Bon imijineun jeojakgwon munjero sayonghal su eopseumnida.
+   - *Translation*: This image cannot be used due to copyright issues.
+### Spoken Examples
+1. **미안하지만, 도와줄 수 없어.**
+   - *Transliteration*: Mianhajiman, dowajul su eopseo.
+   - *Translation*: I'm sorry, but I can't help you.
+2. **그건 말해 줄 수 없어.**
+   - *Transliteration*: Geugeon malhae jul su eopseo.
+   - *Translation*: I can't tell you that.
+---
 ## 5. Cultural Notes
-### Cultural Relevance
-In Korean culture, expressing inability to perform a task can be influenced by social norms. Politeness levels matter, and using the formal structure (할 수 없습니다) is essential when speaking to elders or in professional settings.
+### Levels of Politeness and Formality
+Korean language has different speech levels to show respect and formality. The ending of **~할 수 없다** changes accordingly:
+- **Formal Polite**:  
+  **~(으)ㄹ 수 없습니다**  
+  *Used in formal settings or towards strangers, elders, superiors.*
+- **Informal Polite**:  
+  **~(으)ㄹ 수 없어요**  
+  *Used in casual conversations with peers or slightly older people.*
+- **Informal**:  
+  **~(으)ㄹ 수 없어**  
+  *Used among close friends or those younger than you.*
 ### Idiomatic Expressions
-- **할 수밖에 없다 [hal subakke eopda]**: "There is no way to do otherwise; I have to." This expression conveys a sense of resignation to the fact that there are no alternatives.
+1. **손 쓸 수 없다**
+   - *Literal Meaning*: Cannot use hands.
+   - *Idiomatic Meaning*: There's nothing that can be done; it's out of one's hands.
+   - *Example*: 상황이 너무 빨리 변해서 손 쓸 수 없었어요.
+     - *Translation*: The situation changed so quickly that there was nothing we could do.
+2. **어찌할 수 없다**
+   - *Meaning*: There's no way to handle or deal with something.
+   - *Example*: 그의 고집은 어찌할 수 없어.
+     - *Translation*: There's no way to deal with his stubbornness.
+---
 ## 6. Common Mistakes and Tips
 ### Error Analysis
-- Learners often confuse the structure with similar negatives like ~지 않다 or ~지 못하다, which changes the emphasis on ability.
-  
+1. **Mixing up with "~못하다"**
+   - Incorrect: 시간이 없어서 숙제를 **할 수 없었어요**.  
+     *(I didn't have time, so I couldn't do my homework.)*
+   - Correct: 시간이 없어서 숙제를 **못했어요**.  
+     *(I didn't have time, so I couldn't do my homework.)*
+   *Tip*: Use **~못하다** when external factors prevent you from doing something that you otherwise could do.
+2. **Incorrect Verb Conjugation**
+   - Incorrect: 먹다 → 먹ㄹ 수 없다
+   - Correct: 먹다 → 먹**을** 수 없다
+   *Tip*: Remember to add **을** after consonants and **ㄹ** after vowels.
 ### Learning Strategies
-- **Mnemonic Device**: “할 수 없다” can be remembered as "How I missed (the ability) to do." The focus on "할 수" (can do) shows ability and shifts to "없다" (not exist) for negation.
+- **Mnemonic for (으)ㄹ 수 없다**:
+  - If the verb stem **ends with a consonant**, it needs extra support (으) before ㄹ. Think of **"consonants need support"**.
+    - *Example*: 읽다 → 읽**을** 수 없다
+  - If the verb stem **ends with a vowel**, it can directly attach ㄹ.
+    - *Example*: 가다 → 가**ㄹ** 수 없다
+- **Understanding Context**:
+  - Practice by creating sentences about things you **cannot do** due to various reasons (ability, permission, circumstances).
+---
 ## 7. Summary and Review
 ### Key Takeaways
-- The structure ~할 수 없다 expresses one's inability to perform an action.
-- It is formed by the verb stem plus "할 수" and "없다."
-- It is important to use appropriate levels of politeness in context.
+- **~할 수 없다** is used to express the **inability** or **impossibility** to perform an action.
+- It is formed by attaching **(으)ㄹ 수 없다** to the **verb stem**.
+- Adjust the level of politeness by changing the ending:
+  - Formal: **~(으)ㄹ 수 없습니다**
+  - Informal Polite: **~(으)ㄹ 수 없어요**
+  - Informal: **~(으)ㄹ 수 없어**
+- Be mindful of the differences between **~할 수 없다** and **~못하다**.
 ### Quick Recap Quiz
-1. What does ~할 수 없다 mean?
-2. How do you form this structure?
-3. Provide another phrase with a similar meaning.
-**Answers**:
-1. It means "cannot do."
-2. Verb Stem + 할 수 + 없다.
-3. ~지 못하다.
+1. **Fill in the blank** to express "I cannot speak Korean well."
+   - 한국어를 잘 ________.
+   <details><summary>Answer</summary>
+   한국어를 잘 **할 수 없어요**.
+   </details>
+2. **True or False**: "~할 수 없다" and "~못하다" can always be used interchangeably.
+   <details><summary>Answer</summary>
+   False. While they sometimes can be used similarly, "~할 수 없다" implies inability due to lack of ability or possibility, whereas "~못하다" often refers to being prevented from doing something due to external factors.
+   </details>
+3. **Correct the mistake** in the following sentence:
+   - 저는 딸기를 먹ㄹ 수 없어요.
+   <details><summary>Answer</summary>
+   저는 딸기를 **먹을 수 없어요**.
+   </details>
+---
+By practicing and understanding **~할 수 없다**, you'll be able to express inability and limitations effectively in Korean, enhancing your communication skills in various contexts.
+
+---
+© [Hanabira.org](https://hanabira.org)

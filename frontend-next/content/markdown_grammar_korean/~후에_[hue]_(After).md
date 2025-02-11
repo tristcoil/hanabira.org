@@ -1,66 +1,110 @@
 Processing keyword: ~후에 [hue] (After)
 # Korean Grammar Point: ~후에 [hue] (After)
-# TOPIK Grammar Point: ~후에 [hue] (After)
+
 ## 1. Introduction
-The Korean grammar point ~후에 (hue) means "after" and is used to indicate a sequence of actions, specifically that one event or action occurs after another.
+In this lesson, we'll explore the Korean grammar point **~후에**, which is used to express the meaning of "after" doing something. This structure is essential for talking about sequences of events and is commonly used in everyday Korean conversation.
+
+---
 ## 2. Core Grammar Explanation
-### Definition
-~후에 (hue) is a postpositional particle that is attached to a noun to indicate that something happens after that noun/event.
-### Structure
-- Form: [Noun] + 후에
-- Example: 수업 후에 (after class)
-### Formation Diagram
-```
-[Event A] + 후에 → [Event B]
-```
-- **Event A** occurs first.
-- **Event B** occurs after.
-### Key Points
-1. **Noun Usage**: The noun can refer to a time-related noun, like "day," "week," "class," etc.
-2. **Contextual Placement**: It typically follows a noun without altering the noun’s form.
+### Detailed Explanation
+The suffix **~후에** is attached to the verb stem to indicate that one action occurs **after** another action has been completed. It's equivalent to "after doing" in English.
+### Meaning, Structure, Formation Diagram
+#### Meaning
+- **~후에**: "after (doing something)"
+#### Structure
+1. **Verb Stem + -은 후에** (when the verb stem ends with a consonant)
+2. **Verb Stem + -ㄴ 후에** (when the verb stem ends with a vowel)
+#### Formation Diagram
+| Verb Ending Type      | Suffix     | Example Verb | Conjugated Form | Translation       |
+|-----------------------|------------|--------------|-----------------|-------------------|
+| Verb stem ending with a consonant | -은 후에 | 먹다 (to eat)   | 먹은 후에       | after eating     |
+| Verb stem ending with a vowel     | -ㄴ 후에  | 가다 (to go)    | 간 후에         | after going      |
+---
 ## 3. Comparative Analysis
-- **Similar Grammar Point**: ~후 (hue) vs. ~다음에 (dame) 
-    - **후 (hue)**: Used to directly imply “after” in terms of time.
-    - **다음에 (dame)**: Translates more as “next” and can refer to following in order or sequence.
+### Comparison with Similar Grammar Points
+- **~고 나서**: Also means "after doing," but emphasizes the completion of the first action before starting the next.
+  - **Example**: 일을 **하고 나서** 쉬세요. (Rest after you finish your work.)
+- **~(으)면**: Means "if/when," indicating a condition rather than a sequence.
+  - **Example**: 시간이 **있으면** 만나요. (If you have time, let's meet.)
+**Note**: While **~후에** simply denotes that one action follows another, **~고 나서** stresses the completion, and **~(으)면** introduces a conditional scenario.
+---
 ## 4. Examples in Context
 ### Sentence Examples
-1. **Formal**: 
-   - 수업 후에 도서관에 갑니다.  
-   (I will go to the library after class.)
-   
-2. **Informal**: 
-   - 나중에 영화 본 후에 전화할게.  
-   (I will call you after I watch the movie later.)
-   
-3. **Written**: 
-   - 저녁 후에 친구들을 만날 계획입니다.
-   (I plan to meet my friends after dinner.)
-   
-4. **Spoken**:
-   - 학교 후에 뭐 할 거야?  
-   (What are you going to do after school?)
+#### Formal Context
+1. **회의가 끝난 후에** 보고서를 제출하겠습니다.
+   - *After the meeting ends, I will submit the report.*
+2. **퇴근한 후에** 친구를 만났어요.
+   - *After getting off work, I met a friend.*
+#### Informal Context
+1. **점심을 먹은 후에** 산책할래?
+   - *Do you want to take a walk after eating lunch?*
+2. **영화를 본 후에** 커피 마실까?
+   - *Shall we drink coffee after watching the movie?*
+#### Written Context
+1. **졸업한 후에** 무엇을 할 예정입니까?
+   - *What do you plan to do after graduating?*
+2. **책을 읽은 후에** 리뷰를 남겨주세요.
+   - *Please leave a review after reading the book.*
+#### Spoken Context
+1. A: 언제 만날까요?
+   - *When shall we meet?*
+   B: **수업이 끝난 후에** 만나요.
+   - *Let's meet after the class ends.*
+2. A: 저녁에 뭐 해?
+   - *What are you doing in the evening?*
+   B: **운동한 후에** 집에 있을 거야.
+   - *After exercising, I'll be at home.*
+---
 ## 5. Cultural Notes
 ### Cultural Relevance
-In Korean culture, sequencing events is vital for clarity in communication. Using ~후에 helps listeners understand the order of actions.
-### Levels of Politeness
-The choice of words surrounding 수업, 도서관, etc., can imply different levels of respect. Using formal speech at a professional gathering is expected.
+- In Korean culture, time and order of events are important, especially in professional and social settings. Using **~후에** helps to clearly communicate when activities or responsibilities will take place.
+### Levels of Politeness and Formality
+- **~후에** is neutral and can be used in both formal and informal contexts.
+- Politeness is usually conveyed through verb endings and the context rather than the use of **~후에** itself.
 ### Idiomatic Expressions
-- “과제 후에” (after the assignment) is often used when discussing deadlines or schedules in schools.
+- **식사 후에**: *After the meal*
+  - Often used when suggesting activities post-meal.
+- **업무 후에**: *After work*
+  - Commonly used among colleagues planning after-work activities.
+- **수업 후에**: *After class*
+  - Used frequently by students.
+---
 ## 6. Common Mistakes and Tips
 ### Error Analysis
-- **Common Mistake**: Omitting the noun before ~후에.  
-  - Incorrect: “물 마신 후에” (after drinking water) should be “물 마신 후에 친구를 만날 거예요.” (I will meet a friend after drinking water).
-  
-### Learning Strategies 
-- **Mnemonic Device**: Remember that ~후에 is a 'time' indicator linking actions; think of “hue” as having a sequence like colors in a rainbow.
+1. **Incorrect Attachment**
+   - **Wrong**: 먹다후에
+   - **Right**: 먹은 후에
+   - *Explanation*: Do not attach **~후에** directly to the dictionary form of the verb. Conjugate properly based on the verb stem ending.
+2. **Ignoring Consonant/Vowel Rule**
+   - **Wrong**: 가은 후에
+   - **Right**: 간 후에
+   - *Explanation*: For verb stems ending with a vowel, use **-ㄴ 후에**.
+### Learning Strategies
+- **Mnemonic Device**: Think "**후**" as "who comes after" to remember it means "after."
+- **Practice Tip**: When in doubt, identify the verb stem and check if it ends with a consonant or vowel to choose between **-은 후에** and **-ㄴ 후에**.
+---
 ## 7. Summary and Review
 ### Key Takeaways
-- **Meaning**: ~후에 means "after."
-- **Usage**: Indicates that one action happens after another by linking events through nouns.
-- **Formality**: Can be used in both formal and informal settings, but context is crucial.
+- **~후에** is used to express "after doing something."
+- Attach **-은 후에** to verb stems ending with consonants and **-ㄴ 후에** to those ending with vowels.
+- It's a versatile grammar point suitable for various contexts.
 ### Quick Recap Quiz
-1. What does ~후에 mean in English?
-2. Can you use ~후에 with verbs directly without a noun? Why or why not?
-3. Compare ~후에 with another similar grammar point. What is the key difference?
+1. How do you say "after studying" using **~후에**?
+   - a) 공부한 후에
+   - b) 공부는 후에
+   - c) 공부은 후에
+2. Choose the correct form of **~후에** for the verb *만들다* (to make).
+   - a) 만든 후에
+   - b) 만들은 후에
+   - c) 만들은 후에
 ---
-This lesson provided an in-depth look at the grammar point **~후에** (hue), illustrating its structure, usage, and relevance in Korean culture. Be sure to practice the examples provided for a better understanding!
+### Answers:
+1. **a) 공부한 후에**
+   - *공부하다* → 공부하 (verb stem ending with a vowel) + **-ㄴ 후에** → 공부한 후에
+2. **a) 만든 후에**
+   - *만들다* → 만들 (verb stem ending with a consonant) + **-은 후에** → 만든 후에
+---
+Continue practicing by creating sentences about your daily routine using **~후에**. The more you use it, the more natural it will become!
+
+---
+© [Hanabira.org](https://hanabira.org)

@@ -1,219 +1,125 @@
 Processing keyword: ~이랑 [irang] (And, with)
 # Korean Grammar Point: ~이랑 [irang] (And, with)
-# Korean Grammar Point: ~이랑 [irang] (And, With)
+
 ## 1. Introduction
-The grammar point **~이랑** (irang) is used to connect nouns in Korean. It translates to "and" or "with" in English, and it is essential for forming sentences that involve multiple subjects or objects. This guide will explain its structure, usage, and nuances in different contexts.
-## 2. Core Grammar Explanation
-### Detailed Explanation
-**~이랑** is a postpositional particle that can be used to connect two or more nouns. It is commonly used in informal situations. The usage depends on whether the noun it follows ends with a consonant or a vowel.
-- **When the noun ends with a vowel**: Use **랑**.
-- **When the noun ends with a consonant**: Use **이랑**.
-### Structure
-| Noun (Consonant) | +이랑       | Example                   |
-|-------------------|-------------|---------------------------|
-| 사과 (apple)     | +이랑      | 사과랑 바나나 (Apple and banana) |
-| 책 (book)        | +이랑      | 책이랑 이야기 (The book and the story)|
-| Noun (Vowel)       | +랑       | Example                    |
-|--------------------|-----------|----------------------------|
-| 우유 (milk)        | +랑       | 우유랑 케이크 (Milk and cake)  |
-| 바람 (wind)        | +랑       | 바람랑 구름 (Wind and clouds)  |
-### Formation Diagram
-```
-Noun (Consonant) + 이랑  → 연결 (linking)
-Noun (Vowel) + 랑       → 연결 (linking)
-```
-## 3. Comparative Analysis
-### Similar Grammar Points
-- **~하고**: Another way to say "and" that can be used in both formal and informal contexts. Unlike **이랑**, **하고** doesn't depend on the ending of the noun.
-- **~와/과**: More formal versions of "and." **과** is used after consonants, while **와** is after vowels.
-| Grammar Point | Usage       | Formality           |
-|----------------|------------|---------------------|
-| ~이랑          | Informal   | Casual conversations  |
-| ~하고          | Neutral    | Commonly used       |
-| ~와/과         | Formal     | Written/formal speech|
-## 4. Examples in Context
-### Sentence Examples
-1. **Informal Spoken Context**
-   - **나는 친구랑 영화 봤어.**  
-   - *(I watched a movie with my friend.)*
-2. **Informal Written Context**
-   - **사과랑 바나나는 맛있어.**  
-   - *(Apples and bananas are delicious.)*
-3. **Formal Spoken Context**
-   - **선생님과 학생이 함께 공부합니다.**  
-   - *(The teacher and the student study together.)* *(using 과 for formality)*
-4. **Mixed Usage**
-   - **엄마랑 아빠하고 바다에 갔어요.**  
-   - *(I went to the sea with my mom and dad.)*
-## 5. Cultural Notes
-### Cultural Relevance
-In Korean culture, the way you address people and the politeness level you use are essential. Knowing when to use **이랑**, **하고**, or **와/과** can show respect and understanding of social hierarchies.
-### Idiomatic Expressions
-- **친구랑 시간 보내다**   
-*(Spending time with a friend.)*  
-A common expression reflecting the value of relationships in Korean culture.
-## 6. Common Mistakes and Tips
-### Error Analysis
-1. **Using the wrong form**: Many learners mistakenly combine nouns incorrectly.
-   - Incorrect: **친구이랑 바다** (Friend + with + sea)
-   - Correct: **친구랑 바다** (Friend + with + sea) 
-   
-2. **Confusing with formal counterparts**: Learners may use **이랑** in formal contexts and feel awkward.
-### Learning Strategies
-- Create flashcards with different nouns demonstrating the usage of **이랑** and **랑**.
-- Practice speaking with a partner using both informal and formal contexts.
-## 7. Summary and Review
-### Key Takeaways
-- **~이랑** is used to connect nouns informally.
-- The particle changes based on the last letter of the noun.
-- Its usage dimensions differ from **~하고** and **~와/과** in terms of formality.
-### Quick Recap Quiz
-1. What particle do you use after a noun ending with a consonant?
-   - **Answer**: 이랑
-2. How do you say "and with my friend" in an informal way?
-   - **Answer**: 친구랑
-3. Which grammatical point would you use in a formal situation?
-   - **Answer**: ~와/과
-Feel free to practice using **이랑** in your conversations to enhance your Korean communication skills!
-Processing keyword: ~이랑 [irang] (And, with)
-# Korean Grammar Point: ~이랑 [irang] (And, with)
-# Grammar Point: ~이랑 [irang] (And, with)
-## 1. Introduction
-The grammar point ~이랑 is a versatile Korean expression used to indicate 'and' or 'with' when connecting nouns. It is often used in casual or informal contexts to list items or to denote accompaniment.
-## 2. Core Grammar Explanation
-### Detailed Explanation
-**Meaning**: ~이랑 is used to connect two nouns or to indicate that someone is doing something with someone else. 
-**Structure**:
-- The form ~이랑 is used when the preceding noun ends with a consonant.
-- The form ~랑 is used when the preceding noun ends with a vowel.
-### Formation Diagram
-| Noun Ending      | Form            | Example                 | Translation             |
-|------------------|-----------------|-------------------------|-------------------------|
-| Ends with a vowel| Noun + ~랑     | 사과랑 바나나 (sagwarang banana) | Apple and banana        |
-| Ends with a consonant| Noun + ~이랑| 책이랑 (chaegirang)        | With a book            |
-### Visual Aids
-- **Example**: 
-  - **I eat rice with my friend.** 
-    - 나 (I) + 밥 (rice) + 이랑 (with) + 친구 (friend) = 나 친구랑 밥을 먹어요. 
-    - (Na chingurang babeul meogeoyo.)
-## 3. Comparative Analysis
-~이랑 is very similar to another grammar point, ~와/과 (wa/gwa), which also means 'and' or 'with'. 
-| Form        | Usage              | Context                  |
-|-------------|---------------------|--------------------------|
-| ~이랑 / ~랑 | Informal/Intimate   | Used in casual conversation among friends or peers. |
-| ~와 / ~과  | Formal/Polite       | Used in formal situations, written Korean, or when respect is needed. |
-### Example:
-- Informal: 나랑 가자. (Let’s go together.)
-- Formal: 저와 가겠습니다. (I will go with you.)
-## 4. Examples in Context
-### Sentence Examples
-1. **Informal**: 
-   - 나랑 영화 보러 갈래?  
-   (Are you going to watch a movie with me?)
-  
-2. **Formal**: 
-   - 선생님이랑 이야기를 했어요.  
-   (I talked with the teacher.)
-3. **Written**: 
-   - 친구랑 함께 프로젝트를 진행하고 있어요.  
-   (I am working on a project with my friend.)
-4. **Spoken**: 
-   - 어제 친구랑 놀았어요.  
-   (I hung out with my friend yesterday.)
-## 5. Cultural Notes
-### Cultural Relevance
-Using ~이랑 in conversation with peers conveys a sense of familiarity and comfort. In contrast, using ~와/과 may indicate formality or respect, which is important in hierarchical social contexts in Korean culture.
-### Idiomatic Expressions
-- 친구랑 시간을 보내다 (to spend time with a friend)
-  
-## 6. Common Mistakes and Tips
-### Error Analysis
-- **Common Mistake**: Confusing ~이랑 with ~와/과 in casual settings.
-  - Example Error: 친구와 가자 (should be 친구랑 가자 for a casual invite).
-### Learning Strategies
-- **Mnemonic Device**: Remember that ~이랑 is used for casual, friendly interactions. Think of "friends" to recall the informal setting.
-  
-## 7. Summary and Review
-### Key Takeaways
-- ~이랑 is used to connect nouns informally, meaning 'and' or 'with'.
-- Use ~랑 after vowels and ~이랑 after consonants.
-- Differentiate between ~이랑/랑 (informal) and ~와/과 (formal).
-### Quick Recap Quiz
-1. How do you attach ~이랑 to a noun that ends with a vowel?
-2. What's the difference in usage between ~이랑 and ~와?
-3. Provide an example sentence using ~이랑 in an informal context. 
-Feel free to review again and practice using this grammar point in your conversations!
-Processing keyword: ~이랑 [irang] (And, with)
-# Korean Grammar Point: ~이랑 [irang] (And, with)
-# TOPIK Grammar Point: ~이랑 [irang] (And, with)
-## 1. Introduction
-The grammar point ~이랑 (irang) is commonly used in conversational Korean to mean "and" or "with." It is particularly used to connect nouns, indicating a relationship or association between them. This grammar point is useful for learners who want to combine nouns or mention companions and objects in their sentences.
+In Korean, connecting words and phrases is essential for constructing sentences and expressing complex ideas. The particle **~이랑** [irang] is a versatile conjunction used to mean **"and"** or **"with"**. It is commonly used in everyday speech and helps in listing items or indicating companionship.
+
 ---
 ## 2. Core Grammar Explanation
 ### Meaning
-- **~이랑** can be translated as "and" or "with" in English.
+- **"And"**: To connect two nouns in a list.
+- **"With"**: To indicate doing something together with someone or something.
 ### Structure
-- The structure of ~이랑 is as follows:
-  - Noun + 이랑/랑 (depending on the final consonant of the noun)
+The particle **~이랑** attaches to nouns and has two forms depending on whether the noun ends with a consonant or a vowel.
+| Noun Ending     | Particle | Usage      |
+|-----------------|----------|------------|
+| **Consonant**   | **이랑** | 무릎 **이랑** |
+| **Vowel**       | **랑**   | 친구 **랑**    |
 ### Formation Diagram
-| Last Consonant | Use 이랑 | Use 랑 |
-|----------------|-----------|-----------|
-| With consonant | Noun + 이랑 | -         |
-| Without consonant | Noun + 랑 | -         |
-### Explanation of Usage
-- Use **이랑** if the preceding noun ends with a consonant.
-- Use **랑** if the preceding noun ends with a vowel.
-  
+```
+[ Noun ] + 이랑/랑
+```
+- **If noun ends with a consonant**: **이랑**
+  - Example: 책 **이랑** (book and)
+- **If noun ends with a vowel**: **랑**
+  - Example: 사과 **랑** (apple and)
+### Visual Aid: When to Use 이랑 vs. 랑
+| Ending of Noun | Particle to Use | Example      | Meaning         |
+|----------------|-----------------|--------------|-----------------|
+| Consonant      | 이랑            | 집 **이랑**    | House and       |
+| Vowel          | 랑              | 학교 **랑**    | School and      |
 ---
 ## 3. Comparative Analysis
-### Comparison with 다른 (dareun) and 그리고 (geurigo)
-- **~이랑** vs. **다른**
-  - **이랑** connects two nouns directly (e.g., “apple and banana” = 사과 이랑 바나나).
-  - **다른** means "different," used to compare or contrast nouns.
-- **~이랑** vs. **그리고**
-  - **그리고** is used to add sentences or clauses rather than just nouns (e.g., "I like apples, and I like bananas." = 나는 사과를 좋아하고 바나나를 좋아해요).
+### Comparison with Other Conjunctions
+| Particle   | Usage       | Politeness Level | Example             |
+|------------|-------------|------------------|---------------------|
+| **하고**    | And/With    | Neutral          | 친구 **하고** 영화 봤어요. |
+| **와/과**   | And/With    | Formal/Written   | 친구 **와** 영화 봤습니다. |
+| **(이)랑** | And/With    | Informal/Speech  | 친구 **랑** 영화 봤어.    |
+- **하고** is neutral and widely used in both speech and writing.
+- **와/과** is more formal and often used in written language or formal speech.
+- **(이)랑** is informal and commonly used in casual conversations among friends.
 ---
 ## 4. Examples in Context
-### Sentence Examples
-- **Formal:**
-  - 저는 친구 **이랑** 영화를 봤어요. 
-    - (I watched a movie **with** my friend.)
-  
-- **Informal:**
-  - 나랑 놀자! 
-    - (Let’s play **together**!)
-- **Written:**
-  - 선생님은 책 **이랑** 노트를 가지고 오셨어요. 
-    - (The teacher brought a book **and** a notebook.)
-- **Spoken:**
-  - 저랑 같이 가요! 
-    - (Let’s go **together**!)
+### Informal Spoken Korean
+1. **친구랑 영화 봤어.**
+   - *Chingurang yeonghwa bwasseo.*
+   - **I watched a movie with a friend.**
+2. **사과랑 바나나를 샀어.**
+   - *Sagwarang bananareul sasseo.*
+   - **I bought apples and bananas.**
+### Formal Spoken/Written Korean
+1. **동생이랑 공원에 갔어요.**
+   - *Dongsaengirang gongwone gasseoyo.*
+   - **I went to the park with my younger sibling.**
+2. **책이랑 노트가 필요해요.**
+   - *Chaegirang noteuga piryohaeyo.*
+   - **I need a book and a notebook.**
+### Using with Pronouns
+1. **나랑 같이 갈래?**
+   - *Narang gachi gallae?*
+   - **Do you want to go with me?**
+2. **너랑 이야기를 하고 싶어.**
+   - *Neorang iyagireul hago sipeo.*
+   - **I want to talk with you.**
+### In Questions
+1. **누구랑 갔어요?**
+   - *Nugurang gasseoyo?*
+   - **With whom did you go?**
+2. **뭐랑 뭐를 주문했어요?**
+   - *Mworang mworeul jumunhaesseoyo?*
+   - **What and what did you order?**
 ---
 ## 5. Cultural Notes
-### Cultural Relevance
-Using **이랑** appropriately reflects a level of politeness in Korean culture. It is common to be respectful and considerate when mentioning other people or belongings. 
-### Levels of Politeness
-- In formal contexts, it’s important to maintain politeness not only through the choice of vocabulary but also through the structure of sentences.
-### Idiomatic Expressions
-- "친구랑" can also imply socializing or hanging out, reflecting Korean cultural values of friendship and community.
+### Politeness and Formality
+- **~(이)랑** is considered informal and is best used in casual settings with friends, family, or peers.
+- In formal situations or with someone of higher status, it's more appropriate to use **와/과** or **하고**.
+### Idiomatic Expressions Using ~(이)랑
+1. **죽이 맞다** *(To get along well)*
+   - **그 사람하고는 죽이 잘 맞아요.**
+   - *Geu saramhagoneun juki jal majayo.*
+   - **I get along well with that person.**
+2. **손발이 맞다** *(To work well together)*
+   - **팀원들이랑 손발이 잘 맞아요.**
+   - *Timwondeurirang sonbari jal majayo.*
+   - **I work well with the team members.**
 ---
 ## 6. Common Mistakes and Tips
-### Error Analysis
-- Learners often confuse the usage of 이랑 with other conjunctions like 그리고, leading to direct translation issues. Remember that **이랑** is specifically for combining nouns.
-  
-### Learning Strategies
-- To remember:
-  - **이랑** for nouns ending with a consonant.
-  - **랑** for nouns ending with a vowel.
-- You can create phrases combining familiar nouns to practice usage.
+### Common Mistakes
+1. **Using ~(이)랑 in Formal Situations**
+   - Incorrect: **사장님이랑 회의했어요.**
+   - Correct: **사장님과 회의했습니다.**
+   - *It's inappropriate to use ~(이)랑 with someone of higher status.*
+2. **Mixing Up Particles**
+   - Confusing **랑** with **랑** used in different contexts.
+   - Remember that **~(이)랑** is for connecting nouns meaning "and/with."
+### Tips
+- **Mnemonic to Remember Usage:**
+  - **이랑** attaches to nouns ending with a **consonant**, just like how **이** is used in subject particles (이/가).
+  - If the noun ends with a **vowel**, it smoothly connects with **랑**.
+- **Practice by Listing Items:**
+  - **빵이랑 우유랑 계란을 샀어요.**
+    - *Ppangirang uyurang gyeraneul sasseoyo.*
+    - **I bought bread, milk, and eggs.**
 ---
 ## 7. Summary and Review
 ### Key Takeaways
-- **~이랑** is used to connect nouns, meaning "and" or "with."
-- Remember to check the last consonant of the noun to decide between 이랑 and 랑.
+- **~(이)랑** is an informal particle meaning **"and"** or **"with"**.
+- Use **이랑** after nouns ending with a consonant and **랑** after nouns ending with a vowel.
+- Suitable for casual conversations; avoid using in formal contexts.
+- Similar particles include **하고** (neutral) and **와/과** (formal).
 ### Quick Recap Quiz
-1. What does ~이랑 mean in English?
-2. Use ~이랑 in a sentence with "사과" (apple).
-3. When do you use "이랑" instead of "랑"?
+1. Fill in the blank with the correct particle:
+   **책___ 연필을 주세요.**
+2. Is it appropriate to use **~(이)랑** when speaking to your professor?
+3. Translate the following sentence:
+   **누구랑 점심을 먹을 거예요?**
+#### Answers:
+1. **책이랑 연필을 주세요.** *(Please give me the book and the pencil.)*
+2. **No**, it's not appropriate; use **와/과** instead in formal situations.
+3. **With whom are you going to eat lunch?**
 ---
-Feel free to practice and use this grammar point in your conversations!
+By mastering **~(이)랑**, you'll enhance your ability to connect ideas and interact casually in Korean. Practice using it in daily conversations with friends to become more comfortable with its usage.
+
+---
+© [Hanabira.org](https://hanabira.org)

@@ -1,74 +1,106 @@
 Processing keyword: ~토록 [torok] (So ~ that, to the extent)
 # Korean Grammar Point: ~토록 [torok] (So ~ that, to the extent)
-# Grammar Point: ~토록 [torok] (So ~ that, to the extent)
+
 ## 1. Introduction
-The suffix ~토록 is used to express a degree or extent of an action or situation. It conveys the meaning of "so that" or "to the extent that," indicating a certain level of intensity.
+In this lesson, we will explore the Korean grammar point **~토록 [torok]**, which is used to express the extent or degree of an action or state. By the end of this lesson, you will understand how to use **~토록** to convey meanings such as "so ~ that" or "to the extent that" in various contexts.
+
+---
 ## 2. Core Grammar Explanation
-### Meaning
-~토록 is typically used to indicate that an action is done to a certain degree or until a certain condition is met.
-### Structure
-- **Structure:** Verb/Adjective + ~토록
-- **Function:** Indicates extent or degree, often relating to achieving a specific outcome.
-### Formation Diagram
+### Detailed Explanation
+**Meaning:**
+- **~토록** is used to indicate the degree or extent of an action or state.
+- It can be translated as "so... that", "to the extent that", or "until".
+**Usage:**
+- Attached to the stem of a verb or adjective.
+- Emphasizes the intensity or extent of an action, condition, or situation.
+**Formation:**
+1. **Verb/Adjective stem** + **~토록**
+### Structure Diagram
 ```
-[Subject] + [Verb/Adjective] + ~토록 + [Outcome/Context]
+[Verb/Adjective stem] + 토록
 ```
-### Examples:
-1. 그는 저를 도와주도록 했습니다.
-   - (He had me helped so that I could do it.)
-2. 너무 열심히 공부해서 졸업할 수 있도록!
-   - (I studied so hard that I could graduate!)
+### Examples of Formation
+
+| Verb/Adjective Stem | + 토록 | Result      |
+|---------------------|--------|-------------|
+| 울다 (to cry)        | 울**도록**  | 울도록      |
+| 기다리다 (to wait)   | 기다리**도록** | 기다리도록 |
+| 아름답다 (to be beautiful) | 아름답**도록** | 아름답도록 |
+
+---
 ## 3. Comparative Analysis
-### Comparison with Similar Grammar Points
-1. **~게 하다 [ge hada]**: Both express outcomes or intentions, but ~게 하다 is more about causing an action, whereas ~토록 emphasizes the extent of that action.
-   - Example: 공부하게 하다 (make someone study) vs. 공부하도록 하다 (help someone study so that they can achieve something).
-2. **~도록 [dorok]**: Similar in function, but ~도록 focuses more on the instruction to reach a goal, while ~토록 emphasizes the extent of the action.
-   - Example: 일어나도록 해 (make sure to wake up) vs. 일어날 수 있도록 해 (do it so that you can wake up).
+**~토록** vs. **~도록**
+- Both **~토록** and **~도록** can be used interchangeably in many contexts.
+- **~토록** has a slightly more emphatic or literary nuance compared to **~도록**.
+- **~도록** is more commonly used in spoken Korean.
+
+| Grammar Point | Meaning                   | Nuance            |
+|---------------|---------------------------|-------------------|
+| ~토록          | So ~ that, to the extent  | Emphatic, formal  |
+| ~도록          | So ~ that, in order to    | Neutral, common   |
+
+---
 ## 4. Examples in Context
-### Sentence Examples
-- Formal: 
-  - 이 기계를 사용해 보도록 하세요.
-    - (Please try using this machine so that you can understand how it works.)
-  
-- Informal: 
-  - 이거 다 끝내도록 해!
-    - (Finish all of this so that you can go out!)
-  
-- Written:
-  - 그렇게 열심히 일하므로 소비할 수 있도록 시간을 벌어요.
-    - (Working that hard will help you save time to spend.)
-- Spoken:
-  - 연습을 많이 해서 잘 할 수 있도록 해야 해.
-    - (You need to practice a lot so that you can do it well.)
+### Formal Examples
+1. **그는 목이 쉬**토록** 소리쳤다.**
+   *Translation:* *He shouted so much that his voice became hoarse.*
+2. **밤을 새우**토록** 공부했다.**
+   *Translation:* *I studied to the extent of staying up all night.*
+### Informal Examples
+1. **배가 아프**토록** 많이 먹었어.**
+   *Translation:* *I ate so much that my stomach hurts.*
+2. **웃음이 멈추지 않**토록** 재미있었어.**
+   *Translation:* *It was so fun that I couldn't stop laughing.*
+### Written Context
+1. **세상이 깜깜하**토록** 비가 내렸다.**
+   *Translation:* *It rained so much that the world became dark.*
+### Spoken Context
+1. **너를 기다리**토록** 여기 있었어.**
+   *Translation:* *I was here waiting for you to the extent of (implying waiting for a long time).*
+---
 ## 5. Cultural Notes
 ### Cultural Relevance
-Using ~토록 reflects a mindset towards goal-setting and achievement prevalent in Korean culture, where effort and results are highly valued. The use of this structure can indicate to others the speaker's intention to encourage perseverance to reach an objective.
+- Using **~토록** can add a dramatic or emphatic tone to the sentence, which is often found in literary works, speeches, or formal contexts.
+- It reflects the speaker's strong feelings about the action or state.
+### Politeness and Formality
+- While **~토록** is grammatically neutral, its usage leans toward formal or written language.
+- In everyday conversation, **~도록** may be more commonly used.
 ### Idiomatic Expressions
-- 잠깐 이야기하도록 하겠습니다.
-  - (I will speak briefly.)
+1. **피땀 흘리**토록** 노력했다.**
+   *Translation:* *I worked hard to the extent of shedding blood and sweat.*
+2. **죽**토록** 사랑하다.**
+   *Translation:* *To love to death (to the extent of dying).*
+---
 ## 6. Common Mistakes and Tips
 ### Error Analysis
-- **Mistake:** Confusing ~토록 and ~도록.
-  - These are not interchangeable; remember that ~토록 focuses on "to such a degree" and ~도록 on "in order to."
+- **Mistake:** Confusing **~토록** with **~도록** without understanding the nuance.
+  
+  *Example Incorrect:* *배고프도록 먹었다.*
+  *Correction:* *배가 아프도록 먹었다.*
+- **Mistake:** Using **~토록** with nouns directly without the appropriate verb.
+  *Example Incorrect:* *행복토록 있다.*
+  *Correction:* *행복하**도록** 지내다.*
 ### Learning Strategies
-- **Mnemonic device:** 
-  - Think of “to the extent” as an extreme pointer. If you can visualize an arrow extending toward a target, that helps cement the meaning of ~토록.
+- **Mnemonic Device:** Remember that **~토록** intensifies the action "to the extent that" something happens. Think of "to rock" (sounds like "torok") the intensity.
+- **Tip:** Practice by creating sentences that express extreme conditions or actions to become familiar with the usage.
+---
 ## 7. Summary and Review
 ### Key Takeaways
-- ~토록 is used to express an extent or degree of an action.
-- It focuses on achieving a particular outcome.
-- Comparisons with other grammar points help distinguish its unique use.
+- **~토록** is used to express the extent or degree of an action or state.
+- It translates to "so ~ that" or "to the extent that."
+- Commonly attached to verbs or adjectives to intensify the meaning.
+- More emphatic and formal compared to **~도록**.
 ### Quick Recap Quiz
-1. What does ~토록 express?
-   - a) Cause of an action
-   - b) Extent or degree of an action
-   - c) Past actions
-2. Fill in the blank: 그는 공부를 _________ 해서 시험에 합격했다. (so that)
-   - a) ~하도록
-   - b) ~게
-   - c) ~토록
-3. True or False: ~토록 can be used interchangeably with ~도록.
-#### Answers:
-1. b) Extent or degree of an action
-2. c) ~토록
-3. False
+1. What does **~토록** express in a sentence?
+2. How does **~토록** differ from **~도록**?
+3. Create a sentence using **~토록** to express "I missed you so much that I couldn't sleep."
+
+**Answers:**
+1. It expresses the extent or degree of an action or state, meaning "so ~ that" or "to the extent that."
+2. **~토록** is more emphatic and formal than **~도록**, which is more commonly used in everyday speech.
+3. **너를 보고 싶**토록** 잠을 잘 수 없었어.**
+---
+By understanding and practicing **~토록**, you can add depth and emphasis to your Korean expressions, especially in formal or written contexts.
+
+---
+© [Hanabira.org](https://hanabira.org)

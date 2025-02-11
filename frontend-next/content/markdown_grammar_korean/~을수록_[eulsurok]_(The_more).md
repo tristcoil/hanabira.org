@@ -1,72 +1,110 @@
 Processing keyword: ~을수록 [eulsurok] (The more)
 # Korean Grammar Point: ~을수록 [eulsurok] (The more)
-# TOPIK Grammar Point: ~을수록 [eulsurok] (The more)
+
 ## 1. Introduction
-The grammar point ~을수록 [eulsurok], translates to "the more... the more..." in English. It is used to indicate a correlation between two actions or qualities where an increase in one leads to an increase in another. This expression emphasizes that one factor makes another factor more pronounced.
+In Korean, the grammar structure **~을수록** is used to express the idea of "the more... the more...". This expression highlights a proportional relationship between two actions or states, indicating that as one increases or intensifies, so does the other.
+
+---
 ## 2. Core Grammar Explanation
-### Detailed Explanation
-1. **Meaning**: It conveys that as one condition increases, another condition will also increase.
-2. **Structure**: 
-   - The structure is [verb/adjective stem + 을수록] (for verbs) or [noun + 일수록] (for nouns).
-   - The first clause states what increases, while the second clause states what happens concurrently.
+### Meaning
+- **~을수록** conveys that as the action or state in the first clause happens more, the action or state in the second clause increases correspondingly.
+- It emphasizes a continuous or increasing effect between two related scenarios.
+### Structure
+The basic formation of **~을수록** is as follows:
+1. **For Verbs and Adjectives:**
+   | Condition                      | Ending        |
+   | ------------------------------ | ------------- |
+   | Stem ends with a consonant     | **~을수록**   |
+   | Stem ends with a vowel         | **~ㄹ수록**   |
+2. **Placement in a Sentence:**
+   ```
+   [Verb/Adjective Stem] + (으)ㄹ수록 + [Resulting Clause]
+   ```
 ### Formation Diagram
-```
-[Condition 1] + 을수록 → [Condition 2]
-```
-- Example: 공부할수록 → 성적이 좋아진다.
-- Translation: "The more you study, the better your grades get."
-### Visual Aids
-| Subject | Condition 1                     | Condition 2                    |
-|---------|----------------------------------|---------------------------------|
-| Verb    | 공부할수록 (The more you study) | 성적이 좋아진다 (the better your grades get) |
-| Noun    | 나이가 많을수록 (The older you get) | 지혜가 증가한다 (the more wisdom increases) |
+Let's break down the formation with examples:
+| Verb/Adjective | Stem  | Ends with | Attach    | Result      |
+| -------------- | ----- | --------- | --------- | ----------- |
+| 많다 (to be many)    | 많    | Consonant | 을수록    | 많을수록    |
+| 빠르다 (to be fast)  | 빠르  | Vowel     | ㄹ수록    | 빠를수록    |
+| 듣다 (to listen)     | 듣    | Consonant | 을수록    | 들을수록    |
+| 크다 (to be big)     | 크    | Vowel     | ㄹ수록    | 클수록      |
+---
 ## 3. Comparative Analysis
-### Comparison with Similar Grammar Points
-- **~고 싶다 (I want to...)**: This indicates desire but does not imply a comparative increase.
-- **~면 (if)**: This introduces conditions but does not emphasize the correlation between two increasing scenarios.
-**Example of Difference**:
-- Using ~고 싶다: "저는 공부하고 싶어요." (I want to study.)
-- Using ~면: "공부하면 성적이 좋을 거예요." (If you study, your grades will be good.)
-- Using ~을수록: "공부할수록 성적이 좋아져요." (The more you study, the better your grades get.)
+### Comparison with **~면 ~수록**
+- **~면 ~수록** combines the conditional **~면** ("if") with **~수록**.
+- It emphasizes the same increasing relationship but adds a conditional nuance.
+**Example:**
+- **갈수록 어려워요.**
+  - _The more I go, the harder it gets._
+- **가면 갈수록 어려워요.**
+  - _If I keep going, it gets harder and harder._
+### Difference:
+- **~을수록**: Directly states "the more... the more..."
+- **~면 ~을수록**: Adds a condition, implying "if... then the more..."
+---
 ## 4. Examples in Context
-### Sentence Examples
-1. **Informal**:
-   - **Korean**: 너가 열심히 할수록 결과가 좋을 거야.
-   - **Translation**: The more you work hard, the better the results will be.
-2. **Formal**:
-   - **Korean**: 나이가 많을수록 경험이 쌓인다.
-   - **Translation**: The older you get, the more experience you gain.
-3. **Written Context**:
-   - **Korean**: 독서를 할수록 지식이 풍부해진다.
-   - **Translation**: The more you read, the richer your knowledge becomes.
-4. **Spoken Context**:
-   - **Korean**: 이 운동을 할수록 체력이 좋아져.
-   - **Translation**: The more you do this exercise, the better your stamina gets.
+### Formal Speech
+1. **공부할수록 지식이 늘어납니다.**
+   - _The more you study, the more your knowledge increases._
+2. **사람이 많을수록 분위기가 좋아집니다.**
+   - _The more people there are, the better the atmosphere becomes._
+### Informal Speech
+1. **이 노래는 들을수록 좋아.**
+   - _The more I listen to this song, the more I like it._
+2. **생각할수록 웃겨.**
+   - _The more I think about it, the funnier it gets._
+### Written Language
+1. **시간이 지날수록 그의 기억은 희미해졌다.**
+   - _As time passed, his memory faded._
+2. **노력할수록 목표에 가까워진다.**
+   - _The more you strive, the closer you get to your goal._
+---
 ## 5. Cultural Notes
 ### Cultural Relevance
-Usage of ~을수록 reflects the Korean cultural emphasis on persistence and hard work. It often appears in motivational contexts, encouraging individuals to strive for improvement.
-### Levels of Politeness
-This grammar point can be used in both formal and informal settings, but it is often employed more formally in written and professional contexts.
+- **Emphasis on Effort and Improvement:** Korean culture highly values continuous effort and gradual improvement. Using **~을수록** reflects this cultural aspect by expressing progressive enhancement.
+- **Politeness Levels:** While **~을수록** itself doesn't change with politeness levels, the sentence's verb endings should match the appropriate level of formality.
 ### Idiomatic Expressions
-Common expressions include:
-- "노력할수록 성공할 확률이 높아진다." (The more effort you put in, the higher the probability of success.)
+1. **갈수록 태산이다.**
+   - _Literal Translation:_ As you go, it's Mount Tai.
+   - _Meaning:_ Things become more challenging as you proceed.
+2. **볼수록 매력적이다.**
+   - _Meaning:_ The more you see (someone or something), the more charming they become.
+---
 ## 6. Common Mistakes and Tips
-### Error Analysis
-1. **Omitting the subject**: Korean often drops subjects, but learners should ensure clarity in sentences.
-2. **Confusing with other forms**: Remember that ~을수록 denotes increase, while ~면 indicates a conditional situation.
+### Common Mistakes
+1. **Using the Wrong Ending**
+   - **Incorrect:** 바쁘다 → 바쁘을수록
+   - **Correct:** 바쁘다 → 바쁠수록
+   - **Tip:** Remember that if the stem ends with a vowel, attach **~ㄹ수록**. If it ends with a consonant, use **~을수록**.
+2. **Misplacing **~을수록***
+   - **Incorrect:** 더 좋아요 친구가 많을수록.
+   - **Correct:** 친구가 많을수록 더 좋아요.
+   - **Tip:** The clause with **~을수록** typically comes first to set up the comparison.
 ### Learning Strategies
-- Mnemonic Device: Associate "수록" with “more” to remember that it indicates proportional increase.
-- Practice forming sentences using everyday situations to solidify understanding.
+- **Mnemonic Device:**
+  - **"Consonant gets **을**, vowel gets **ㄹ**."**
+- **Practice with Common Verbs/Adjectives:**
+  - Create sentences using frequently used words to become familiar with the structure.
+---
 ## 7. Summary and Review
 ### Key Takeaways
-- ~을수록 indicates a proportional relationship where an increase in one condition affects another.
-- It can refer to verbs, adjectives, or nouns and is applicable in both formal and informal contexts.
-- It emphasizes the importance of effort leading to positive results, a theme prevalent in Korean culture.
+- **~을수록** is used to express a relationship where an increase in one action or state leads to an increase in another.
+- Attach **~을수록** to verb or adjective stems following the consonant/vowel rule.
+- Ensure sentence structure places the **~을수록** clause before the resulting clause.
+- Be mindful of politeness levels by adjusting verb endings accordingly.
 ### Quick Recap Quiz
-1. Translate "The more you eat, the more you enjoy."
-2. Fill in the blank: 공부할수록 ________ (the better understanding you gain).
-3. Identify the structure for verbs using ~을수록.
-Answers:
-1. "먹을수록 더 즐거운다."
-2. "이해가 좋다."
-3. [verb stem + 을수록]
+1. **Fill in the blank with the correct form of **~을수록**:**
+   - **많다 → 많___ 행복해요.**
+   - **Answer:** **많을수록 행복해요.** (_The more [there is], the happier [we are]._)
+2. **Choose the correct sentence:**
+   - a) 재미있는 사람을 만날수록 즐거워요.
+   - b) 즐거워요 재미있는 사람을 만날수록.
+   - **Answer:** a) 재미있는 사람을 만날수록 즐거워요.
+3. **Translate to Korean using **~을수록**:**
+   - _The more you eat spicy food, the more you get used to it._
+   - **Answer:** 매운 음식을 먹을수록 익숙해져요.
+---
+By understanding and practicing **~을수록**, you can express complex relationships between actions and states, making your Korean more nuanced and natural.
+
+---
+© [Hanabira.org](https://hanabira.org)

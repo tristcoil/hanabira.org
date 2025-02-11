@@ -1,74 +1,101 @@
 Processing keyword: ~고 보니 [go boni] (After doing, I noticed)
 # Korean Grammar Point: ~고 보니 [go boni] (After doing, I noticed)
-# Grammar Point: ~고 보니 [go boni]
+
 ## 1. Introduction
-The expression **~고 보니** is used to convey that after completing an action or task, the speaker has realized or noticed something related to that action. It reflects a sort of realization following the execution of an action.
+In Korean, expressing the realization or discovery of something after completing an action is common in everyday conversations. The grammar pattern **~고 보니** is used to convey this meaning, similar to saying "After doing..., I realized..." in English. This lesson will explore the usage of **~고 보니**, its formation, nuances, and how it differs from similar expressions.
+
 ---
 ## 2. Core Grammar Explanation
-### Detailed Explanation
-- **Meaning**: The structure **~고 보니** translates to "After doing [something], I noticed" or "Having done [something], I realized." It implies that the speaker gained new insight after performing an action.
-  
-- **Structure**:
-  - Verb stem + **고 보니**
-  
-- **Formation Diagram**:
-  ```markdown
-  [Verb Stem] + 고 보니 → [Realization or Insight]
-  ```
-### Visual Aid
-| **Action** (Verb Stem) | **Expression**             | **Realization**            |
-|----------------------|-------------------------|---------------------------|
-| 가다 (gada)          | 가고 보니 (gago boni)   | 길이 멀다는 걸 알게 됐다. (I realized the road is long.) |
-| 먹다 (meokda)        | 먹고 보니 (meokgo boni) | 너무 맛있어서 더 먹고 싶다. (I realized it was so delicious that I wanted to eat more.) |
+## Meaning
+**~고 보니** is used to indicate that the speaker discovered or realized something **after** completing an action. It translates to "after doing..., I realized/noticed/found out..." and highlights a new understanding or information that was not apparent before the action took place.
+## Structure
+### Formation
+To form **~고 보니**, attach **-고 보니** to the verb stem of the first action.
+```
+[Verb Stem] + -고 보니
+```
+### Diagram
+```
+┌─────────────────────┐   ┌───────────┐
+│   Action Verb Stem  │ + │  -고 보니  │
+└─────────────────────┘   └───────────┘
+```
+## Conjugation Example
+Let's take the verb **읽다** (to read):
+- **읽** (verb stem) + **고 보니**
+- Result: **읽고 보니** (After reading, I realized...)
 ---
 ## 3. Comparative Analysis
-**~고 보니** vs. **~니까**:  
-- **~고 보니** indicates realization after completion of an action, whereas **~니까** is a causal form meaning "because" or "since."  
-- Example:  
-  - **고 보니**: 가고 보니 길이 멀다. (After going, I realized the road is long.)  
-  - **니까**: 길이 멀니까 일찍 출발하자. (Since the road is long, let’s leave early.)
+## Comparing **~고 보니** with **~다 보니**
+While both expressions deal with realizing something, they differ in usage:
+- **~고 보니**: Used after **completing** an action, leading to a realization.
+  - Focus on the discovery **after** the action.
+- **~다 보니**: Used during the **process** of an action, leading to a realization.
+  - Emphasizes ongoing action and continuous realization.
+**Example:**
+- **먹고 보니** 맛이 이상했어요.
+  - After eating it, I realized it tasted strange.
+- **먹다 보니** 배가 불렀어요.
+  - As I was eating, I became full.
 ---
 ## 4. Examples in Context
-### Sentence Examples
-1. **Informal**:  
-   - 영화 보고 보니 생각보다 재미있었어.  
-   - (I realized that the movie was more fun than I thought after watching it.)
-2. **Formal**:  
-   - 수업을 듣고 보니 많은 도움이 되었습니다.  
-   - (After attending the class, I realized it was a great help.)
-3. **Spoken**:  
-   - 이걸 하고 보니 진짜 별로네.  
-   - (After doing this, I really realized it's not that great.)
-4. **Written**:  
-   - 요리를 해보고 보니 요리의 어려움을 알게 되었습니다.  
-   - (After trying to cook, I learned about the difficulties of cooking.)
+## Formal Situations
+1. **책을 읽고 보니 이해가 더 잘 되었어요.**
+   - After reading the book, I understood it better.
+2. **회의에 참석하고 보니 문제가 심각했어요.**
+   - After attending the meeting, I realized the problem was serious.
+## Informal Situations
+1. **영화를 보고 보니 생각보다 재미있었어.**
+   - After watching the movie, it was more interesting than I thought.
+2. **친구를 만나고 보니 기분이 좋아졌어.**
+   - After meeting my friend, I felt better.
+## Written Communication
+1. **조사를 해보고 보니 기존 자료에 오류가 있었다.**
+   - After conducting the research, I found there were errors in the existing data.
+## Spoken Communication
+1. **맛집이라고 해서 가고 보니 문을 닫았더라고요.**
+   - They said it's a famous restaurant, but after going, I found it was closed.
 ---
 ## 5. Cultural Notes
-### Cultural Relevance
-**Levels of Politeness**: Korean language has varying levels of politeness. Using **~고 보니** in formal settings shows respect and acknowledges the realization process. Conversely, in informal contexts, the same grammar can denote a casual tone.
-### Idiomatic Expressions
-- **보니** can also be seen in idiomatic expressions, indicating reflection or internalization:
-  - 이것을 해보니 매우 흥미로워요. (Having tried this, I find it very interesting.)
+## Levels of Politeness and Formality
+- **~고 보니** can be used in both formal and informal contexts.
+- Adjust politeness by conjugating the verb in the second clause appropriately.
+  - Formal: **-았/었습니 다**, **-더라고요**
+  - Informal: **-았어**, **-더라**
+## Idiomatic Expressions Using **~고 보니**
+- **알고 보니**: As it turns out; actually.
+  - **그 사람이 알고 보니 유명한 배우였어요.**
+    - That person, as it turns out, was a famous actor.
 ---
 ## 6. Common Mistakes and Tips
-### Error Analysis
-- **Common Mistake**: Confusing **~고 보니** with **~서** (because), leading to errant usage.
-  
-- **Tip**: Remember that **~고 보니** implies an **after effect** of realization closely tied to an action completed.
-### Learning Strategies
-- Mnemonic Device: Think of **“go”** as **“after going”** and **“boni”** as **“I notice.”** Visualize a journey leading to a new discovery.
+## Common Mistakes
+1. **Misusing with Ongoing Actions**
+   - Incorrect: **책을 읽다 보니 이해가 더 잘 되었어요.** (If you mean after finishing the book)
+   - Correct: **책을 읽고 보니 이해가 더 잘 되었어요.**
+2. **Using with Adjectives**
+   - **~고 보니** is typically used with action verbs, not adjectives.
+## Tips
+- Remember that **~고 보니** implies completion.
+- Associate **고** (and/then) with **보니** (upon seeing/realizing) to recall that the realization comes **after** the action.
 ---
 ## 7. Summary and Review
-### Key Takeaways
-- **~고 보니** expresses realization after completing an action.
-- It's constructed using the verb stem + 고 보니.
-  
-### Quick Recap Quiz
-1. What does **~고 보니** indicate?
-2. How would you say "After trying" using this grammar point?
-3. Can you give an example sentence using **~고 보니** in a formal context? 
-**Answers**:
-1. Realization after completing an action.
-2. [Verb Stem] + 고 보니 (e.g., 해보고 보니)
-3. (Example provided above).
+## Key Takeaways
+- **~고 보니** is used to express a realization after completing an action.
+- Formed by attaching **-고 보니** to the verb stem.
+- Different from **~다 보니**, which is used during an ongoing action.
+- Can be adjusted for politeness and used in various contexts.
+## Quick Recap Quiz
+1. How do you form **~고 보니** with the verb **보다** (to see)?
+2. Translate to Korean: "After listening to the song, I found it very touching."
+3. What's the difference between **먹고 보니** and **먹다 보니**?
+
+**Answers:**
+1. **보** (verb stem) + **고 보니** = **보고 보니**
+2. **노래를 듣고 보니 매우 감동적이었어요.**
+3. **먹고 보니**: After eating, I realized...  
+   **먹다 보니**: While eating, I realized...
 ---
+Feel free to revisit this lesson for a better understanding of **~고 보니**, and try creating your own sentences to practice!
+
+---
+© [Hanabira.org](https://hanabira.org)

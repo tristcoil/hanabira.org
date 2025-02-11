@@ -1,81 +1,117 @@
 Processing keyword: ～かいもなく (〜kai mo naku)
 # Japanese Grammar Point: ～かいもなく (〜kai mo naku)
-# Grammar Point: ～かいもなく (〜kai mo naku)
-## Introduction
-The grammar structure ～かいもなく (〜kai mo naku) is used to express that something happens without any regard for a certain situation, expectation, or effort made. It conveys a sense of futility or inevitability, indicating that despite something being done or an expected condition, the desired outcome did not occur.
-## Core Grammar Explanation
-### Meaning and Structure
-- **Meaning**: "despite (doing something)" or "even though (something happened)"
-- **Structure**: 
-  - This expression is typically used with the verb in its dictionary form or in the た-form (past form).
-  - The structure can be visualized as follows:
-```
-[Verb (Dictionary form/た-form)] + かいもなく
-```
+
+## 1. Introduction
+In this lesson, we'll explore the Japanese grammar point **～かいもなく (〜kai mo naku)**. This expression is used to convey the feeling that despite making an effort or taking action, the expected result was not achieved. It often carries a sense of disappointment or regret.
+## 2. Core Grammar Explanation
+### Meaning
+- **English Translation**: "Despite (doing something)...", "Even though...", "In vain"
+- **Usage**: To indicate that an effort or action did not lead to the desired outcome.
+### Structure
+| **Formation**                          | **Example**               |
+|----------------------------------------|---------------------------|
+| Verb (dictionary form) + かいもなく     | 努力するかいもなく         |
+| Verb (た-form) + かいもなく             | 頑張ったかいもなく         |
+| Noun + の + かいもなく                  | 手術のかいもなく           |
 ### Formation Diagram
-Here’s a visual representation of how to construct this grammar point:
 ```
-   ┌───────────────────┐
-   │  Verb (Dictionary/た-form)  │
-   └──────────────┬────┘
-                  │
-                  ▼
-   ┌────────────────────┐
-   │     かいもなく       │
-   └────────────────────┘
+[Verb (dictionary form / た-form) / Noun + の] + かいもなく + [Unfavorable Result]
 ```
-## Comparative Analysis
-### Comparison with Similar Grammar Points
-- **～にもかかわらず (〜nimo kakawarazu)**: 
-  - This also means "despite" but is used more broadly, without the sense of personal effort being emphasized.
-  - Example: 雨にもかかわらず、彼は出かけた。 (Ame ni mo kakawarazu, kare wa dekaketa.) - "Despite the rain, he went out."
-- **～が (〜ga)**: 
-  - While this conjunction can mean "but" or "although," it doesn’t carry the same nuance of futility as ～かいもなく does.
-  - Example: 彼は勉強したが、試験に合格しなかった。 (Kare wa benkyou shita ga, shiken ni goukaku shinakatta.) - "He studied, but he did not pass the exam."
-## Examples in Context
-### Sentence Examples
-1. **Formal Context**: 
-   - 通勤のために早起きしたかいもなく、電車は遅れた。
-     - *Tsuu kin no tame ni hayaoki shita kai mo naku, densha wa okureta.*
-     - "Despite waking up early for my commute, the train was delayed."
-2. **Informal Context**: 
-   - 頑張って勉強したかいもなく、テストは難しかった。
-     - *Ganbatte benkyou shita kai mo naku, tesuto wa muzukashikatta.*
-     - "Even though I worked hard studying, the test was difficult."
-3. **Written Context**: 
-   - ご両親の期待に応えようとしたかいもなく、子供は失敗した。
-     - *Goryoushin no kitai ni kotaeyou to shita kai mo naku, kodomo wa shippai shita.*
-     - "Despite trying to meet the expectations of their parents, the child failed."
-4. **Spoken Context**: 
-   - 何時間も待ったかいもなく、イベントはキャンセルされた。
-     - *Nanjikan mo matta kai mo naku, ibento wa kyanseru sareta.*
-     - "After waiting for hours, the event was canceled."
-## Cultural Notes
+- **Verb (dictionary form / た-form)**: Indicates the action or effort made.
+- **Noun + の**: When using a noun to represent the effort or attempt.
+- **かいもなく**: Suggests that the effort was in vain or did not produce the desired effect.
+### Detailed Explanation
+The term **かい (甲斐)** means "effect", "result", or "worth". By adding **もなく (mo naku)**, which means "without even" or "without", the expression emphasizes that the effort did not lead to any worthwhile result.
+## 3. Comparative Analysis
+### Similar Grammar Points
+| Grammar Point         | Meaning                            | Nuance                                                |
+|-----------------------|------------------------------------|-------------------------------------------------------|
+| 〜ものの               | Although, even though              | Acknowledges a fact, but contrasts it with reality.    |
+| 〜にもかかわらず      | Despite, in spite of               | Used in formal contexts to show contrast.             |
+| 〜たところで           | Even if                            | Indicates that even if something is done, the result won't change. |
+### Differences
+- **〜かいもなく** specifically highlights that an **effort was made but did not pay off**, often with a sense of regret.
+- **〜ものの** and **〜にもかかわらず** express contrast but don't necessarily imply wasted effort.
+- **〜たところで** suggests futility even before the action is taken.
+## 4. Examples in Context
+### Example 1
+#### Sentence
+- **Japanese**: 高い薬を飲んだかいもなく、病気が治らなかった。
+- **Romaji**: Takai kusuri o nonda kai mo naku, byōki ga naoranakatta.
+- **English**: Despite taking expensive medicine, the illness did not improve.
+### Example 2
+#### Sentence
+- **Japanese**: 一生懸命練習したかいもなく、試合で負けてしまった。
+- **Romaji**: Isshōkenmei renshū shita kai mo naku, shiai de makete shimatta.
+- **English**: Even though I practiced hard, I ended up losing the match.
+### Example 3
+#### Sentence
+- **Japanese**: 両親の期待のかいもなく、彼は大学を中退した。
+- **Romaji**: Ryōshin no kitai no kai mo naku, kare wa daigaku o chūtai shita.
+- **English**: Despite his parents' expectations, he dropped out of university.
+### Example 4 (Formal Context)
+#### Sentence
+- **Japanese**: 手術のかいもなく、彼の病状は悪化した。
+- **Romaji**: Shujutsu no kai mo naku, kare no byōjō wa akka shita.
+- **English**: Despite the surgery, his condition worsened.
+### Example 5 (Spoken Language)
+#### Sentence
+- **Japanese**: 徹夜で勉強したかいもなく、試験は延期になった。
+- **Romaji**: Tetsuya de benkyō shita kai mo naku, shiken wa enki ni natta.
+- **English**: Even though I studied all night, the exam was postponed.
+## 5. Cultural Notes
 ### Cultural Relevance
-The use of ～かいもなく reflects a sense of humility and acceptance in Japanese culture. It demonstrates an acknowledgment of failure despite effort, which is a common theme in Japanese values, emphasizing perseverance.
+- In Japanese culture, effort and perseverance are highly valued.
+- Using **〜かいもなく** acknowledges the importance of the effort while expressing disappointment over the outcome.
+- It reflects a sense of humility and acceptance of situations beyond one's control.
 ### Levels of Politeness
-The formality of the context can dictate the verb tense and choice of other language elements surrounding this structure, maintaining an appropriate level of politeness and respect. Using polite forms when speaking about efforts or failures is essential to uphold social norms.
-## Common Mistakes and Tips
+- Suitable for both **formal and informal** contexts.
+- Often used in **written language**, such as **essays**, **articles**, or **literature**.
+- Can be used in spoken language to express sincere feelings.
+### Idiomatic Expressions
+- **骨折り損のくたびれ儲け (ほねおりぞんのくたびれもうけ)**
+  - **Meaning**: "All pain and no gain"; to work hard for nothing.
+  - **Usage**: Similar sentiment to **〜かいもなく**, emphasizing wasted effort.
+## 6. Common Mistakes and Tips
 ### Error Analysis
-- **Overuse**: Some learners may use this structure in situations where it doesn’t clearly signify futility. It should specifically express the notion of something being in vain.
-- **Incorrect Verb Form**: It is crucial to use the proper form of the verb (dictionary or た-form) preceding かいもなく.
+1. **Incorrect Verb Form**
+   - **Mistake**: Using the **ます-form** instead of the **dictionary** or **た-form**.
+     - **Incorrect**: 走りますかいもなく、遅刻した。
+     - **Correct**: 走ったかいもなく、遅刻した。
+     - **Explanation**: **ます-form** is not used in this structure. Use the **た-form** for past actions.
+2. **Misplacement of かいもなく**
+   - **Mistake**: Placing **かいもなく** after the result.
+     - **Incorrect**: 試合に負けて、練習したかいもなく。
+     - **Correct**: 練習したかいもなく、試合に負けた。
+     - **Explanation**: The **かいもなく** clause should precede the unfavorable result.
 ### Learning Strategies
-- **Mnemonic Device**: To remember that this expression implies an effort that was "in vain," think of "kai" as "try," reinforcing that despite trying, the outcome was not as expected.
-## Summary and Review
+- **Remember the Core Meaning**: Associate **かい (甲斐)** with "worth" or "effect". **かいもなく** implies "without worth".
+- **Create Personal Sentences**: Think of situations where efforts didn't lead to success.
+- **Practice with Time Expressions**: Use time-related verbs to express efforts over time (e.g., **待ったかいもなく**, **探したかいもなく**).
+## 7. Summary and Review
 ### Key Takeaways
-- ～かいもなく is used to express that despite an effort or situation, something undesirable still happened.
-- It highlights feelings of futility and inevitability in a given context.
-- Common comparisons include ～にもかかわらず and ～が, though their nuances differ.
+- **〜かいもなく** expresses that despite an effort or action, the expected result was not achieved.
+- Used with **Verb (dictionary form / た-form)** or **Noun + の**.
+- Conveys a sense of **regret** or **disappointment**.
+- Appropriate for both **formal** and **informal** contexts.
 ### Quick Recap Quiz
-1. What does ～かいもなく express?
-   - a) A successful effort
-   - b) An effort that was in vain
-   - c) An anticipated outcome
-2. Which verb forms can be used before かいもなく?
-   - a) Noun forms only
-   - b) Dictionary form or た-form
-   - c) ない-form only
-3. Can ～かいもなく be used in both formal and informal contexts?
-   - a) Yes
-   - b) No
-(Answers: 1-b, 2-b, 3-a)
+1. **Choose the correct form to complete the sentence**:
+   ```markdown
+   雨の中で待った___、彼は来なかった。
+   ```
+   a) かいもなく  
+   b) ものの  
+   c) にもかかわらず
+2. **True or False**: The expression **〜かいもなく** can be used to indicate a positive outcome after hard work.
+3. **Which sentence correctly uses 〜かいもなく?**
+   a) 日本に行くかいもなく、日本料理を食べた。  
+   b) 掃除したかいもなく、すぐに部屋が汚れた。
+#### Answers:
+1. a) かいもなく
+2. **False**
+3. b) 掃除したかいもなく、すぐに部屋が汚れた。
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

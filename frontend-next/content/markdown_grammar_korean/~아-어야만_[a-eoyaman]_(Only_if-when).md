@@ -1,71 +1,87 @@
 Processing keyword: ~아/어야만 [a/eoyaman] (Only if/when)
 # Korean Grammar Point: ~아/어야만 [a/eoyaman] (Only if/when)
-# Grammar Point: ~아/어야만 (Only if/when)
-## Introduction
-The grammar structure ~아/어야만 is used in Korean to indicate that something is true, possible, or will happen **only if** a particular condition is met. It emphasizes that the action or situation expressed in the main clause can only occur under this specific circumstance.
+
+## 1. Introduction
+In Korean, expressing conditions is essential for forming complex sentences and conveying precise meanings. The grammar point **~아/어야만** is used to indicate that something can only happen if a specific condition is met. It adds emphasis to the necessity of the condition.
+
 ---
-## Core Grammar Explanation
-### Meaning and Structure
-- **Meaning**: The phrase ~아/어야만 translates to "only if" or "only when" in English. It emphasizes the exclusivity of the condition.
-- **Structure**: 
-  - The structure combines the verb stem with the suffix 아 or 어, followed by 야만.
-  - **Formation**:
-    - If the verb stem ends with *ㅏ* or *ㅗ*, use **아야만**.
-    - If the verb stem ends with any other vowel, use **어야만**.
+## 2. Core Grammar Explanation
+### Meaning
+**~아/어야만** translates to "**only if**" or "**only when**" in English. It emphasizes that the result or action in the main clause will occur exclusively when the condition in the subordinate clause is fulfilled.
+### Structure
+The structure of **~아/어야만** is as follows:
+```plaintext
+Verb/Adjective stem + 아/어야만 + [result clause]
+```
 ### Formation Diagram
-```
-Verb Stem + 아야만 / 어야만
-```
-### Visual Aid
-| Verb Stem Type | Example Stem | Formed with ~아야만       | Formed with ~어야만       |
-|----------------|--------------|---------------------------|---------------------------|
-| Ends with ㅏ   | 가다 (to go) | 가야만 (only if/when I go) |                           |
-| Ends with ㅗ   | 자다 (to sleep)| 자야만 (only if/when I sleep)|                           |
-| Ends with other vowels | 보다 (to see) |                           | 보아야만 (only if/when I see) |
+| Verb/Adjective Stem Ending | Connective |
+|----------------------------|------------|
+| Ends with **아** or **오** vowels | **-아야만** |
+| Ends with other vowels     | **-어야만** |
+| **하다** verbs             | **-해야만** |
 ---
-## Comparative Analysis
+## 3. Comparative Analysis
 ### Similar Grammar Points
-1. **~아/어야**: Like ~아/어야만, this structure also indicates a condition. However, it does not emphasize exclusivity.
-   - Example: "내일 오면 좋아요." (It's good if you come tomorrow.)
-   - Compared to: "내일 와야만 좋아요." (It's only good if you come tomorrow.)
-2. **~면**: This structure indicates a conditional statement without the exclusive connotation.
-   - Example: "날씨가 좋으면 소풍 가요." (If the weather is good, we go on a picnic.)
-   - Compared to: "날씨가 좋야만 소풍을 가요." (We go on a picnic only if the weather is good.)
+1. **~아/어야**: Indicates necessity but without the added emphasis of "only".
+   - **Example**: 빨리 가야 늦지 않아요. (We need to go quickly to not be late.)
+2. **~ㄴ/는다면**: Used for hypothetical conditions, "if".
+   - **Example**: 시간이 있다면 만납시다. (If you have time, let's meet.)
+### Distinction
+- **~아/어야만** adds a strong emphasis on the condition being the only way for the result to occur, whereas **~아/어야** is more neutral.
 ---
-## Examples in Context
-### Sentence Examples
-1. **Formal**: 
-   - **Korean**: 이 문제를 해결해야만 회의가 진전됩니다. 
-   - **Translation**: Only if this issue is resolved will the meeting progress.
-2. **Informal**: 
-   - **Korean**: 그 영화를 봐야만 이해할 수 있어.
-   - **Translation**: You can only understand if you watch that movie.
-3. **Written**: 
-   - **Korean**: 계획이 완벽해야만 성공할 수 있습니다.
-   - **Translation**: Only if the plan is perfect can we succeed.
-4. **Spoken**: 
-   - **Korean**: 아침에 일어나야만 학교에 늦지 않아.
-   - **Translation**: I can only be on time for school if I wake up in the morning.
+## 4. Examples in Context
+### Formal Speech
+1. **열심히 공부해야만 성공할 수 있습니다.**
+   *(Only if you study hard can you succeed.)*
+2. **정직해야만 신뢰를 얻을 수 있습니다.**
+   *(Only if you are honest can you gain trust.)*
+### Informal Speech
+1. **진실을 말해야만 널 도울 수 있어.**
+   *(Only if you tell the truth can I help you.)*
+2. **운동을 해야만 건강해질 거야.**
+   *(Only if you exercise will you become healthy.)*
+### Written Context
+1. **환경을 보호해야만 미래 세대를 지킬 수 있다.**
+   *(Only if we protect the environment can we safeguard future generations.)*
+### Spoken Context
+1. **시간이 있어야만 갈 수 있어요.**
+   *(I can go only if I have time.)*
 ---
-## Cultural Notes
-### Cultural Relevance
-The use of ~아/어야만 requires an understanding of politeness and social hierarchies in Korean. It is often used in contexts where one must adhere to rules or criteria, reflecting the importance of meeting expectations in Korean culture. Politeness levels can affect the verb forms used, so it's crucial to adjust the speech depending on the audience.
-### Idiomatic Expressions 
-- "공부해야만 합격하다" (You can only pass if you study.) emphasizes the necessity of studying in Korean educational culture.
+## 5. Cultural Notes
+### Politeness Levels
+- The use of **~아/어야만** is appropriate in both formal and informal contexts.
+- Adjust the politeness level by changing the ending of the main clause verb.
+### Idiomatic Expressions
+1. **노력해야만 얻을 수 있다.**
+   *(Only if you make an effort can you obtain it.)*
+2. **믿어야만 보여요.**
+   *(Only if you believe can you see it.)*
 ---
-## Common Mistakes and Tips
+## 6. Common Mistakes and Tips
 ### Error Analysis
-- **Common Mistake**: Confusing ~아/어야 with ~아/어야만. Remember, ~아/어야 does not show exclusivity.
-- **Tip**: Always check the last vowel of the verb stem to choose between 아야만 and 어야만.
+- **Mistake**: Using **~아/어야만** without the necessary emphasis.
+  - *Incorrect*: 시간이 있으면 갈 수 있어요. (If I have time, I can go.)
+  - *Correct*: 시간이 있어야만 갈 수 있어요. (Only if I have time can I go.)
+- **Mistake**: Mixing up with **~으면** (if).
+  - **Tip**: Remember that **~아/어야만** stresses exclusivity.
 ### Learning Strategies
-- **Mnemonic Device**: Remember that **-만** indicates "only," helping you to associate it with exclusive conditions.
+- **Mnemonic Device**: Think of **야만** as "yeah, man, only if..." to recall that it emphasizes "only if".
+- **Practice**: Create sentences where the result is only possible under one condition.
 ---
-## Summary and Review
+## 7. Summary and Review
 ### Key Takeaways
-- ~아/어야만 is used to express that something can happen **only if** a specific condition is met.
-- Pay attention to the verb's last vowel to select the correct suffix.
+- **~아/어야만** is used to express that only when a condition is met will the result occur.
+- Emphasizes the exclusivity and necessity of the condition.
+- Formed by attaching **~아/어야만** to the verb or adjective stem.
 ### Quick Recap Quiz
-1. What does ~아/어야만 mean in English?
-2. Which suffix do you use if the verb stem ends with ㅗ?
-3. Create an example sentence using ~어야만.
-By understanding and applying the ~아/어야만 grammar structure, you can express conditions clearly and emphatically in Korean!
+1. How do you express "Only if you eat breakfast will you have energy" using **~아/어야만**?
+2. What is the difference between **~아/어야만** and **~으면**?
+3. Fill in the blank: **용기를 가져__ 성공할 수 있어요.** (Only if you have courage can you succeed.)
+---
+### Answers
+1. **아침을 먹어야만 힘이 날 거예요.**
+2. **~아/어야만** emphasizes "only if", while **~으면** simply means "if".
+3. **용기를 가져야만 성공할 수 있어요.**
+
+---
+© [Hanabira.org](https://hanabira.org)

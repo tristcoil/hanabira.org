@@ -1,74 +1,111 @@
 Processing keyword: ～てごらん (〜te goran)
 # Japanese Grammar Point: ～てごらん (〜te goran)
-# Grammar Point: ～てごらん (〜te goran)
-## Introduction
-The expression ～てごらん (〜te goran) is a colloquial Japanese grammar point used to give a gentle suggestion or request, often to encourage someone to try doing something. It combines the te-form of a verb with the imperative form ごらん (goran), which conveys a sense of looking or trying out.
+
+
+## 1. Introduction
+In this lesson, we'll explore the Japanese grammar point **～てごらん (〜te goran)**. This expression is commonly used to encourage someone to **try doing something**. It's a gentle way to make suggestions or give advice, often used with friends, family members, or people of equal or lower status.
+
 ---
-## Core Grammar Explanation
-### Detailed Explanation
-- **Meaning**: "Try (to do)..." or "Have a look at..."
-- **Structure**: Verb (in te-form) + ごらん
-  - The te-form of the verb indicates action, while ごらん softens the command and makes it more of a suggestion.
-### Formation Diagram
-| Verb Type         | Verb Example | Te-form  | Final Construction    |
-|-------------------|--------------|----------|-----------------------|
-| Group 1 Verbs     | 話す (hanasu) | 話して (hanashite) | 話してごらん (hanashite goran) |
-| Group 2 Verbs     | 食べる (taberu) | 食べて (tabete) | 食べてごらん (tabete goran) |
-| Irregular Verbs   | する (suru)   | して (shite) | してごらん (shite goran)   |
-| Irregular Verbs   | 来る (kuru)   | 来て (kite) | 来てごらん (kite goran)    |
+## 2. Core Grammar Explanation
+### Meaning
+- **～てごらん** is used to **encourage or suggest** someone to try doing an action.
+- It conveys a **soft, gentle tone**, less direct than a command.
+### Structure
+To form this expression:
+1. **Take the verb's て-form**.
+2. **Add ごらん**.
+**Formation Diagram:**
+```
+[Verb in て-form] + ごらん
+```
+### Visual Aid
+| Verb Type      | Dictionary Form | て-form   | + ごらん         | Meaning                      |
+|----------------|-----------------|-----------|------------------|------------------------------|
+| **Godan verb** | 読む (よむ)      | 読んで    | 読んでごらん     | Try reading                  |
+| **Ichidan verb** | 食べる (たべる) | 食べて    | 食べてごらん     | Try eating                   |
+| **Irregular verb** | する          | して      | してごらん       | Try doing                    |
+| **Irregular verb** | 来る (くる)   | 来て (きて) | 来てごらん       | Try coming                   |
 ---
-## Comparative Analysis
-### Similar Expressions
-- **～なさい (nasai)**: This is a more direct command and is used in a more formal or authoritative context.
-- **～てみて (te mite)**: This means "try doing" something but is less polite compared to ～てごらん. 
-**Nuance Comparison**:
-- **～てごらん** is more casual and involves encouragement.
-- **～なさい** carries a more commanding tone.
-- **～てみて** suggests trying more than prompting with an invite.
+## 3. Comparative Analysis
+### Comparison with Similar Grammar Points
+#### ～てみる (〜te miru)
+- **Meaning**: To try doing something to see what happens or how it turns out.
+- **Usage**: Focuses on the **experience or outcome** of trying.
+**Example:**
+- **このケーキを食べてみる。**
+  - *Kono kēki o tabete miru.*
+  - "I'll try eating this cake (to see how it tastes)."
+#### ～なさい (〜nasai)
+- **Meaning**: A direct command telling someone to do something.
+- **Usage**: Often used by parents to children or teachers to students.
+**Example:**
+- **宿題をしなさい。**
+  - *Shukudai o shinasai.*
+  - "Do your homework."
+### Nuance Differences
+- **～てごらん**: Gentle suggestion; less direct.
+- **～てみる**: Trying something to test it or see the result.
+- **～なさい**: Direct command; authoritative.
 ---
-## Examples in Context
+## 4. Examples in Context
 ### Sentence Examples
-1. **Informal**: 
-   - これを見てごらん。  
-   *(Kore o mite goran.)*  
-   "Take a look at this."
-2. **Casual**: 
-   - 新しいゲームをやってごらん。  
-   *(Atarashii gēmu o yatte goran.)*  
-   "Try playing the new game."
-3. **Formal/Polite**: 
-   - もう一度説明してごらんください。  
-   *(Mō ichido setsumei shite goran kudasai.)*  
-   "Please try explaining it one more time."
-4. **Conversational**: 
-   - それについて考えてごらん。  
-   *(Sore ni tsuite kangaete goran.)*  
-   "Try thinking about that."
+#### 1. To a Friend
+- **新しいカフェに行ってごらん。**
+  - *Atarashii kafe ni itte goran.*
+  - "Try going to the new café."
+#### 2. Parent to Child
+- **自分でやってごらん。**
+  - *Jibun de yatte goran.*
+  - "Try doing it yourself."
+#### 3. Suggesting a Solution
+- **もう一度考えてごらん。**
+  - *Mō ichido kangaete goran.*
+  - "Try thinking about it once more."
+#### 4. Encouraging Practice
+- **ピアノを弾いてごらん。**
+  - *Piano o hiite goran.*
+  - "Try playing the piano."
+#### 5. Offering Help
+- **困ったら、先生に聞いてごらん。**
+  - *Komattara, sensei ni kiite goran.*
+  - "If you're having trouble, try asking the teacher."
 ---
-## Cultural Notes
+## 5. Cultural Notes
 ### Cultural Relevance
-- **Politeness**: The use of ごらん adds politeness and warmth to suggestions. It is often used in a friendly context, which is important in Japanese culture where interpersonal relationships are valued.
-  
+- **Politeness Level**: Used in informal situations.
+- **Social Norms**: Appropriate when speaking to someone of equal or lower status.
+- **Avoid with Superiors**: Do not use with bosses or clients; it's considered too casual.
 ### Idiomatic Expressions
-- While specific idiomatic expressions may not exist with ～てごらん, the use of the expression itself in everyday conversation fosters a culture of encouraging trial and error, particularly in learning environments.
+- **見てごらん (Mite goran)**: "Try looking."
+  - **Example**: **空を見てごらん。虹が見えるよ。**
+    - *Sora o mite goran. Niji ga mieru yo.*
+    - "Try looking at the sky. You can see a rainbow."
 ---
-## Common Mistakes and Tips
+## 6. Common Mistakes and Tips
 ### Error Analysis
-- **Common Mistake**: Using the plain form instead of the te-form. For example, saying "見るごらん" instead of "見てごらん".
-- **Tip to Remember**: Think of ごらん as a gentle nudge—it's less about commanding and more about inviting someone to experience something.
+- **Using with Superiors**: Avoid using ～てごらん with people of higher status; it can be seen as disrespectful.
+- **Confusing with ～てください**: Remember that ～てください is a polite request, suitable for formal situations.
 ### Learning Strategies
-- **Mnemonic Device**: Remember that "ごらん" sounds like "gorilla" and imagine encouraging a gorilla to try something new; it makes the phrase memorable and relatable.
+- **Mnemonic Device**: **"Go run and try it!"** — associates **ごらん** with encouraging someone to go and do something.
+- **Practice**: Create sentences using verbs you frequently use to become comfortable with the structure.
 ---
-## Summary and Review
+## 7. Summary and Review
 ### Key Takeaways
-- **Usage**: ～てごらん is used to suggest or invite someone to try something, creating a warm and friendly tone.
-- **Politeness Level**: Suitable for casual to somewhat formal contexts.
-- **Important Forms**: Always convert verbs to the te-form before combining them with ごらん.
+- **Usage**: ～てごらん is for giving gentle suggestions or encouraging someone to try something.
+- **Formation**: Attach **ごらん** to the **て-form** of a verb.
+- **Politeness**: Use in informal settings with friends, family, or subordinates.
 ### Quick Recap Quiz
-1. What is the meaning of ～てごらん?
-2. What is the te-form of the verb "見る" (miru)?
-3. How does ～てごらん differ from ～なさい?
-**Answers**:
-1. "Try (to do)..."
-2. 見て (mite)
-3. ～てごらん is more casual and inviting, while ～なさい is a direct command.
+1. **How do you form the expression using ～てごらん?**
+   - *Answer*: Use the verb's て-form and add ごらん. Example: 食べて + ごらん = 食べてごらん.
+2. **Can you use ～てごらん with your teacher?**
+   - *Answer*: No, it's too informal. Use ～てみてください instead.
+3. **Translate to Japanese: "Try listening to this song."**
+   - *Answer*: **この歌を聞いてごらん。**
+     - *Kono uta o kiite goran.*
+---
+By understanding ～てごらん, you can make your suggestions sound more natural and appropriate in casual conversations. Try using it when speaking with your Japanese friends!
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

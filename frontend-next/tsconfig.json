@@ -42,6 +42,6 @@
     "src/components/Testimonial.tsx.bak",
     "src/app/japanese/kanji_overview/page.tsx.nonprod",
     "src/app/z-experimental/move-words/page.jsx"
-  ],
+, "src/components/ComplexFlashcardModalGrammar.Flasktsx"  ],
   "exclude": ["node_modules"]
 }

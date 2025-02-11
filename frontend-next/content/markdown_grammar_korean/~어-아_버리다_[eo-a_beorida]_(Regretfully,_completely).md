@@ -1,67 +1,96 @@
 Processing keyword: ~어/아 버리다 [eo/a beorida] (Regretfully, completely)
 # Korean Grammar Point: ~어/아 버리다 [eo/a beorida] (Regretfully, completely)
-# Grammar Point: ~어/아 버리다 [eo/a beorida]
+
 ## 1. Introduction
-The grammar point ~어/아 버리다 is used in Korean to express the completion of an action, often with a nuance of regret, disappointment, or unintentional consequence. It emphasizes that something has happened completely, and often the speaker feels a sense of loss or regret about that completion.
+The Korean grammar pattern **~어/아 버리다** is used to express the completion of an action, often with an emotional nuance such as regret, relief, or frustration. It emphasizes that an action has been carried out entirely, and the speaker has feelings about its completion.
+
+---
 ## 2. Core Grammar Explanation
-### Detailed Explanation
-- **Meaning**: When you say something like "봤어 버리다" (I saw it), it implies that not only did you see it, but that the act of seeing is now complete and something may have been lost because of it.
-- **Structure**: The structure combines the verb stem with either "어" or "아" based on the final vowel of the verb stem, followed by "버리다."
-### Formation
-1. Identify the verb stem.
-2. Determine the final vowel:
-   - If the last vowel is ㅏ or ㅗ, use "아" 
-   - If it's anything else, use "어"
-3. Add "버리다" to the conjugated form.
+### Meaning
+- **Completion with Emotional Nuance**: Indicates that an action has been completed fully, and the speaker feels regret, relief, or sometimes frustration about it.
+### Structure
+The pattern is formed by attaching **~어/아 버리다** to the verb stem.
+### Formation Diagram
+```markdown
+[Verb Stem] + 어/아 버리다
+```
+### How to Attach
+1. **Determine the Verb Stem**: Remove **다** from the dictionary form of the verb.
+2. **Add 어/아 버리다**:
+   - If the verb stem has **ㅏ** or **ㅗ** as the last vowel, use **아 버리다**.
+   - Otherwise, use **어 버리다**.
+   - For verbs ending with **하다**, it becomes **해 버리다**.
 ### Examples of Formation
-- **가다 (to go)** → 가 + 아 + 버리다 → 가 버리다
-- **먹다 (to eat)** → 먹 + 어 + 버리다 → 먹어 버리다
-- **하다 (to do)** → 하 + 어 + 버리다 → 해 버리다
-### Visual Aid
-| Verb        | Verb Stem | Final Vowel | Conjugation   | Complete Form   |
-|-------------|-----------|-------------|---------------|-----------------|
-| 가다        | 가        | ㅏ          | 가 + 아       | 가 버리다       |
-| 먹다        | 먹        | ㅓ          | 먹 + 어       | 먹어 버리다     |
-| 하다        | 하        | ㅏ          | 하 + 아       | 해 버리다       |
+| Verb (Dictionary Form) | Verb Stem | Ending | Result                   |
+|------------------------|-----------|--------|--------------------------|
+| 먹다 (to eat)          | 먹        | 어     | 먹어 버리다              |
+| 마시다 (to drink)      | 마시      | 어     | 마셔 버리다              |
+| 가다 (to go)           | 가        | 아     | 가 버리다                |
+| 공부하다 (to study)    | 공부하    | 여     | 공부해 버리다            |
+---
 ## 3. Comparative Analysis
-- **Similar Points**: 
-  - Verb + -어/아야 하다: This expresses necessity or obligation, which does not carry the nuance of regret or completion.
-  - Verb + -는 바람에: This indicates causation from an action but lacks the emotional weight of regret found in ~어/아 버리다.
+### ~고 말다
+- **Similarity**: Both express the completion of an action.
+- **Difference**: **~고 말다** often implies that the action happened unintentionally or against the speaker's will, whereas **~어/아 버리다** focuses on the emotional reaction to the completion.
+### ~아/어 놓다
+- **Similarity**: Both can indicate the completion of an action.
+- **Difference**: **~아/어 놓다** emphasizes that the result of the action remains or is maintained after completion, without necessarily conveying emotion.
+---
 ## 4. Examples in Context
-### Sentence Examples
-1. **Formal Context**:
-   - 영화를 잘못 봐 버렸어요.  
-   (I accidentally saw the wrong movie.)  
-2. **Informal Context**:
-   - 책을 다 읽어 버렸어.  
-   (I read the whole book.)  
-3. **Written Example**:
-   - 그는 약속을 잊어 버려서 정말 미안하다.  
-   (He completely forgot the appointment, and I am really sorry.)
-4. **Spoken Example**:
-   - 숙제를 안 해 버렸네!  
-   (I completely forgot to do my homework!)
+### Informal Spoken
+1. **아이스크림을 다 먹어 버렸어.**
+   - *I ended up eating all the ice cream (and I regret it).*
+2. **숙제를 잊어 버렸어.**
+   - *I completely forgot the homework.*
+### Formal Written
+3. **그는 실수를 인정해 버렸습니다.**
+   - *He admitted his mistake (completely).*
+4. **우리는 계획을 포기해 버렸다.**
+   - *We completely gave up on the plan.*
+### Polite Spoken
+5. **어제 책을 읽어 버렸어요.**
+   - *I finished reading the book yesterday (and I'm relieved).*
+6. **친구가 비밀을 말해 버렸어요.**
+   - *My friend blurted out the secret.*
+---
 ## 5. Cultural Notes
-- **Cultural Relevance**: In Korean culture, expressing regret or disappointment is often a reflection of humility or acknowledgment of a mistake. This points to the importance of interpersonal relationships and social harmony.
-- **Politeness levels**: Depending on the context and relationship with the listener, the formality of the sentence can change while maintaining the structure of ~어/아 버리다.
-- **Idiomatic Expressions**:
-   - **어쩔 수 없이~ 해 버리다** (I had no choice but to do…): This often indicates resignation to the situation.
+### Emotional Expression in Korean
+- Koreans often use grammar structures like **~어/아 버리다** to convey subtle emotions within their speech.
+- This pattern helps express feelings without explicitly stating them, which aligns with the cultural norm of maintaining harmony and expressing oneself indirectly.
+### Levels of Politeness
+- The structure remains consistent across formal and informal speech, but verb endings should be adjusted according to the level of politeness.
+  - Informal: **먹어 버렸어**
+  - Polite: **먹어 버렸어요**
+  - Formal: **먹어 버렸습니다**
+---
 ## 6. Common Mistakes and Tips
-### Error Analysis
-- **Common Mistakes**: 
-  - Forgetting to match the vowel appropriately when conjugating (for example, incorrectly using the structure after a vowel that requires the other form).
-  - Using ~어/아 버리다 to describe neutral outcomes where there’s no regret—this should generally involve a sense of regret.
-### Learning Strategies
-- **Mnemonic Device**: 
-  - Remembering **"I completely regret the action"** helps you associate the grammar with the emotional nuances involved.
+### Common Mistakes
+- **Forget to adjust 어/아 according to the vowel harmony**:
+  - Incorrect: **가어 버리다**
+  - Correct: **가 버리다**
+- **Using it without considering the emotional nuance**:
+  - Misusing **~어/아 버리다** in contexts where there's no emotional emphasis can sound unnatural.
+### Tips
+- **Mnemonic for 어/아 Selection**:
+  - If you can say **"아!"** (Ah!) with the verb, use **아 버리다**.
+  - If not, use **어 버리다**.
+- **Emphasize Emotion**:
+  - Remember that this grammar point is not just about completion but also about how you feel regarding the action.
+---
 ## 7. Summary and Review
 ### Key Takeaways
-- ~어/아 버리다 expresses a completed action with an element of regret or unintended consequence.
-- The structure relies on the vowel of the verb stem to determine the form used.
-- This grammar point is deeply embedded in the cultural context of politeness and humility.
+- **~어/아 버리다** attaches to verb stems to express complete actions with emotional nuances.
+- It conveys feelings like regret, relief, or frustration about the action's completion.
+- Proper formation and understanding of the emotional context are crucial for natural usage.
 ### Quick Recap Quiz
-1. How do you form ~어/아 버리다 for the verb "주다" (to give)?
-2. What nuance does ~어/아 버리다 typically carry?
-3. Give an example of a sentence using ~어/아 버리다 in an informal context. 
---- 
-This structure should aid learners in understanding the grammatical point ~어/아 버리다 effectively.
+1. How do you attach **~어/아 버리다** to the verb **읽다** (to read)?
+   - **Answer**: 읽어 버리다
+2. What emotion might **먹어 버렸어요** convey?
+   - **Answer**: Possibly regret or relief about eating completely.
+3. True or False: **~어/아 버리다** can be used without any emotional nuance.
+   - **Answer**: False
+---
+By understanding **~어/아 버리다**, you can express nuanced emotions related to the completion of actions, making your Korean more natural and expressive.
+
+---
+© [Hanabira.org](https://hanabira.org)

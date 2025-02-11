@@ -1,71 +1,114 @@
 Processing keyword: Verb てから～ (〜te kara)
 # Japanese Grammar Point: Verb てから～ (〜te kara)
-# Verb てから (〜te kara) Grammar Point Explanation
+
 ## 1. Introduction
-The Japanese grammar point てから (te kara) is used to indicate that an action or event happens after another action has been completed. It combines the て-form of a verb with から, which means "after" or "since." This structure helps establish a sequence of actions in a clear and straightforward manner.
+The Japanese grammar point **〜てから** (te kara) is used to indicate that one action occurs **after** another action has been completed. It emphasizes the sequence of events, showing that the second action only takes place once the first action is finished.
+
+---
 ## 2. Core Grammar Explanation
-### Detailed Explanation
-- **Meaning**: てから (te kara) expresses "after doing [verb]..." or "after [action] has been completed..."
-- **Structure**: 
-  - Verb て-form + から + Verb
-- **Formation Diagram**:
-  
+### Meaning
+**〜てから** means **"after doing [Verb]"**. It connects two actions in a sequence, highlighting that the second action happens subsequent to the completion of the first action.
+### Structure
+To form this grammar point, take the **て-form** of a verb and add **から**, followed by the next action.
+**Formation:**
 ```
-Verb て-form → てから → Resulting Action
+Verb (て-form) + から + Action B
 ```
-### Visual Aids
-| Verb (て form) | から | Resulting Action |
-| --------------- | ---- | ---------------- |
-| 食べる (taberu, to eat) | から | 行く (iku, to go) |
-| 見る (miru, to see) | から | 話す (hanasu, to talk) |
-| 寝る (neru, to sleep) | から | 起きる (okiru, to wake up) |
+**Example:**
+- 食べる (to eat) → 食べてから (after eating)
+- 食べてから、勉強します。
+  - I will study **after eating**.
+### Formation Diagram
+| Step        | Description                                  | Example          |
+|-------------|----------------------------------------------|------------------|
+| **1**       | Convert the first verb to its **て-form**     | 見る → 見て      |
+| **2**       | Add **から** after the **て-form**            | 見てから         |
+| **3**       | Add the second action                       | 見てから、寝ます。|
+| **Result**  | Combined sentence indicating sequence       | I will sleep **after watching** (TV). |
+---
 ## 3. Comparative Analysis
-### Comparison with Similar Grammar Points
-- **Verb 終わってから (owatte kara)**: Specifically means "after finishing [something]." 
-- **Verb たら (tara)**: This structure also indicates a sequence of actions but can be more conditional (e.g., "if/when [something happens]..."). 
-  - Example: 食べたら (tabetara, "if/when I eat...") can imply a condition rather than just a sequence.
+### 〜てから vs 〜たあとで
+Both **〜てから** and **〜たあとで** mean "after doing ~", but there are subtle differences:
+- **〜てから** emphasizes that the second action occurs **immediately** after the first action is completed.
+- **〜たあとで** can be used more generally for any time after the completion of the first action, not necessarily immediately.
+**Example:**
+- **宿題をしてから、テレビを見ます。**
+  - I will watch TV **after** doing my homework (immediately after).
+- **宿題をしたあとで、テレビを見ます。**
+  - I will watch TV **after** doing my homework (at some point afterward).
+---
 ## 4. Examples in Context
-### Sentence Examples
-1. **Formal**: 
-   - 日本に行ってから、友達に会いました。  
-     (Nihon ni itte kara, tomodachi ni aimashita.)  
-     "I met my friend after going to Japan."
-  
-2. **Informal**: 
-   - 宿題をしてから、遊びに行く。  
-     (Shukudai o shite kara, asobi ni iku.)  
-     "I will go play after doing my homework."
-  
-3. **Written**:
-   - 彼は旅行から帰ってから、疲れたと言った。  
-     (Kare wa ryokou kara kaette kara, tsukareta to itta.)  
-     "He said he was tired after returning from his trip."
-4. **Spoken**:
-   - 夕飯を食べてから、テレビを見ます。  
-     (Yūhan o tabete kara, terebi o mimasu.)  
-     "I will watch TV after I eat dinner."
+### Informal Speech
+1. **映画を見てから、食事に行こう。**
+   - Let's go eat **after watching** the movie.
+2. **彼女に会ってから、気持ちが変わった。**
+   - My feelings changed **after meeting** her.
+### Formal Speech
+3. **資料を確認してから、ご連絡いたします。**
+   - I will contact you **after reviewing** the documents.
+4. **新しいプロジェクトが終わってから、休暇を取ります。**
+   - I will take a vacation **after finishing** the new project.
+### Written Language
+5. **彼は退職してから、農業を始めた。**
+   - He started farming **after retiring**.
+6. **準備ができてから、お知らせします。**
+   - We will inform you **after the preparations are complete**.
+---
 ## 5. Cultural Notes
 ### Cultural Relevance
-Using てから (te kara) is essential in Japanese to express the order of actions and maintain politeness. In Japanese culture, clarity of sequence is valued, as it can affect the understanding of plans or obligations.
-### Levels of Politeness and Formality
-- **Polite Speech**: Consider using this structure in respectful conversations or formal situations.
-- **Casual Speech**: This structure is commonly used in informal settings with friends and family.
+In Japanese culture, the order and sequence of actions are significant, especially regarding social etiquette and rituals. Using **〜てから** correctly reflects an understanding of these sequences.
+- **Examples:**
+  - Removing shoes **after entering** a house's genkan (玄関).
+  - Saying "itadakimasu" **before eating**.
+### Levels of Politeness
+When using **〜てから** in formal situations, ensure that verbs are conjugated into their polite forms where appropriate.
+- **Example:**
+  - **お客様が帰ってから、会議を始めます。**
+    - We will start the meeting **after the guests leave**.
 ### Idiomatic Expressions
-- 行ってから帰る (itte kara kaeru) - "go and then come back" often used when discussing travel or plans.
+- **考えてから行動する**
+  - Act **after thinking** (Think before you act).
+- **失敗してから学ぶ**
+  - Learn **after failing**.
+---
 ## 6. Common Mistakes and Tips
 ### Error Analysis
-- **Mistake**: Using a non-て-form verb before から.
-  - Incorrect: 飲むから行きます。 (Nomu kara ikimasu.)
-  - Correct: 飲んでから行きます。 (Nonde kara ikimasu.) 
+1. **Using the plain form instead of the て-form before から**
+   - *Incorrect:* 食べるから、行きます。
+   - *Correct:* 食べてから、行きます。
+   - *Tip:* Always use the **て-form** of the verb before **から** when expressing "after doing ~".
+2. **Confusing with から meaning "because"**
+   - *Incorrect:* 疲れてから、早く寝ます。
+     - This could be misinterpreted as "After being tired, I will sleep early."
+   - *Intended Meaning:* Because I am tired, I will sleep early.
+   - *Correct:* 疲れたから、早く寝ます。
+   - *Tip:* Remember that when **から** follows the **plain form** of a verb (**辞書形** or **た形**), it often means "because".
 ### Learning Strategies
-- **Mnemonic Device**: Remember that てから leads to a subsequent action: "TE" = "Then/Event!"
+- **Mnemonic Device:**
+  - Think of **てから** as "Te-form + kara (after)" to remember that it requires the て-form.
+- **Practice Conjugation:**
+  - Regularly practice converting verbs to their て-form to become comfortable with this structure.
+- **Usage Practice:**
+  - Create sentences about your daily routine using **〜てから** to internalize the sequence of actions.
+---
 ## 7. Summary and Review
 ### Key Takeaways
-- てから expresses a sequence of actions, indicating one action follows another.
-- Structure: Verb (て-form) + から + Resulting Action.
-- Use properly to maintain clarity and politeness in communication.
+- **〜てから** is used to express that one action happens **after** another action is completed.
+- The first verb must be in the **て-form**, followed by **から**.
+- It emphasizes the immediate sequence of actions.
+- Be cautious not to confuse it with **から** meaning "because".
 ### Quick Recap Quiz
-1. How do you express "after eating" using the verb 食べる (taberu)?
-2. Rewrite the sentence "行きます" (I will go) to include "after studying" (勉強する, benkyou suru).
-3. True or False: You can use てから with non-て-form verbs.
-These points will help reinforce your understanding of the grammar point Verb てから (〜te kara).
+1. **How do you form a sentence using 〜てから?**
+   - **Answer:** Use the て-form of the first verb + から + the second action.
+2. **Which form of the verb is used before から to mean "after doing ~"?**
+   - **Answer:** The **て-form** of the verb.
+3. **Correct the sentence:**
+   - 仕事が終わるから、飲みに行きましょう。
+   - **Answer:** 仕事が終わってから、飲みに行きましょう。
+---
+By understanding and practicing **〜てから**, you can effectively communicate sequences of actions in Japanese, enhancing both your spoken and written skills.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

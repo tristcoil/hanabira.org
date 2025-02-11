@@ -1,65 +1,107 @@
 Processing keyword: ~해 갈수록 [hae galsurok] (Increasingly, as time goes on)
 # Korean Grammar Point: ~해 갈수록 [hae galsurok] (Increasingly, as time goes on)
-# Grammar Point: ~해 갈수록 [hae galsurok] (Increasingly, as time goes on)
-## Introduction
-The expression ~해 갈수록 is used to indicate a gradual change or increase in a certain state or condition over time. It conveys the meaning that something is becoming more pronounced as time progresses.
-## Core Grammar Explanation
-### Detailed Explanation
-1. **Meaning**: The phrase ~해 갈수록 implies that as time passes, a particular action or state continues to increase or develop.
-  
-2. **Structure**:
-   - The expression is formed using the verb stem (해) followed by the phrase 기 (gi) and 갈수록 (galsurok).
-   - A general breakdown:
-     - **해 (hae)**: The verb "to do" or "to be" (in a general context).
-     - **갈수록 (galsurok)**: Means "as time goes on" or "increasingly".
-  
-3. **Formation Diagram**:
-   ```
-   [Verb stem] + 해 갈수록
-   → Indicates that something is getting more intense over time.
-   ```
-### Visual Aids
-| Component   | Description                                       |
-|-------------|---------------------------------------------------|
-| Verb Stem   | Action or state that is changing or increasing    |
-| 해          | Present tense form of the verb “to do”           |
-| 갈수록     | Conveys the ongoing nature of the change         |
-## Comparative Analysis
-- **Similar Grammar Points**:
-  - `점점 [jeomjeom]`: This translates to "gradually" and is often used in a more direct context without indicating a time progression.
-  - **Difference**: ~해 갈수록 emphasizes the ongoing process and the time element, whereas 점점 focuses on the gradual nature without temporal implications.
-## Examples in Context
-### Sentence Examples
-1. **Formal**: 
-   - 시간이 지날수록 경제가 좋아지고 있다. 
-   - *(As time goes on, the economy is getting better.)*
-2. **Informal**: 
-   - 요즘은 공부할수록 더 어려워져. 
-   - *(Lately, the more I study, the harder it gets.)*
-3. **Written**: 
-   - 건강이 나빠질수록 의사의 조언을 더 많이 들어야 한다. 
-   - *(The more our health declines, we need to listen to doctors' advice more.)*
-4. **Spoken**:
-   - 여기 사람들은 해 갈수록 친절해져. 
-   - *(The people here are becoming increasingly friendly as time goes on.)*
-## Cultural Notes
+
+## 1. Introduction
+The grammatical structure **~해 갈수록** (*hae galsurok*) is used in Korean to express a progressive change or increase as time passes. It conveys the meaning of "increasingly" or "the more... the more..." indicating that as one action continues, another outcome becomes more pronounced.
+
+---
+## 2. Core Grammar Explanation
+### Meaning
+- **~해 갈수록** indicates that as an action or state progresses, there is a corresponding increase or intensification in another aspect.
+- It emphasizes a continuous change over time.
+### Structure
+**Formation:**
+```
+Verb Stem + 아/어 가다 + (으)ㄹ수록
+```
+### Formation Diagram
+| Part                  | Explanation                               |
+|-----------------------|-------------------------------------------|
+| **Verb Stem**         | Base form of the verb without 다          |
+| **아/어 가다**         | Indicates continuation into the future    |
+| **(으)ㄹ수록**        | Means "the more..., the more..."          |
+### How to Form
+1. **Identify the Verb Stem**:
+   - Remove **다** from the dictionary form of the verb.
+   
+2. **Add 아/어 가다**:
+   - If the last vowel of the verb stem is **아** or **오**, add **아 가다**.
+   - For other vowels, add **어 가다**.
+   - **하다** verbs become **해 가다**.
+   
+3. **Add (으)ㄹ수록**:
+   - If the verb stem ends with a consonant, add **을수록**.
+   - If it ends with a vowel, add **ㄹ수록**.
+**Example with the verb 배우다 (to learn):**
+1. **Verb Stem**: 배우
+2. **Add 어 가다**: 배워 가다
+3. **Add ㄹ수록**: 배워 갈수록
+---
+## 3. Comparative Analysis
+### ~해 갈수록 vs ~(으)면 ~(으)ㄹ수록
+While both structures express a progressive increase, they differ slightly:
+- **~해 갈수록**:
+  - Focuses on the ongoing action leading to a gradual change.
+  - Emphasizes the continuation over time.
+- **~(으)면 ~(으)ㄹ수록**:
+  - Means "the more... the more..."
+  - Often used to compare two related conditions.
+**Example Comparison:**
+- **운동을 해 갈수록 건강이 좋아져요.**
+  - *As I continue to exercise, my health improves.*
+- **운동을 하면 할수록 건강이 좋아져요.**
+  - *The more I exercise, the better my health becomes.*
+---
+## 4. Examples in Context
+### Example 1: Daily Conversation (Informal)
+**한국어를 배워 갈수록 재미있어져요.**
+- *As I keep learning Korean, it becomes more interesting.*
+### Example 2: Polite Conversation (Formal)
+**시간이 지나며 서로를 알아가 갈수록 친해집니다.**
+- *As time goes by and we get to know each other, we become closer.*
+### Example 3: Written Context
+**그 책을 읽어 갈수록 새로운 사실을 발견하게 됩니다.**
+- *As you continue reading the book, you discover new facts.*
+### Example 4: Spoken Context
+**연습을 해 갈수록 실력이 늘어요.**
+- *The more I practice, the more my skills improve.*
+---
+## 5. Cultural Notes
 ### Cultural Relevance
-In Korean culture, the concept of gradual improvement or decline is often tied to patience and the notion of hard work yielding fruit over time. This concept is reflected in societal attitudes where effort and perseverance are highly valued. 
+- In Korean culture, emphasis is placed on gradual progress and continuous effort.
+- **~해 갈수록** reflects the value of perseverance and steady improvement over time.
+### Levels of Politeness
+- Adjust verb endings to match the appropriate level of politeness:
+  - **Informal**: **-어/아 가** + **-ㄹ수록**
+  - **Polite**: Add **-요** at the end.
+  - **Formal**: Use **-습니다** form.
 ### Idiomatic Expressions
-- **한 걸음씩 나아가다 (han georeumssik na-agada)**: *To move forward step by step* implies that progress happens gradually and should be appreciated.
-## Common Mistakes and Tips
+- **갈수록 태산이다**: *It gets worse as it goes on* (Literally: "As you go, it's a greater mountain.")
+---
+## 6. Common Mistakes and Tips
 ### Error Analysis
-- **Frequent Mistake**: Confusing ~해 갈수록 with 점점 due to their similar meanings.
-- **Tip**: Remember that ~해 갈수록 includes a time element, focusing on the ongoing change rather than just a gradual increase.
+1. **Forgetting '가다' in the structure**
+   - Incorrect: **공부할수록 재미있어요.**
+   - Correct: **공부해 갈수록 재미있어요.**
+2. **Misplacing '(으)ㄹ수록'**
+   - Incorrect: **배워수록 좋아요.**
+   - Correct: **배워 갈수록 좋아요.**
 ### Learning Strategies
-- Use mnemonic devices like “Time’s going, and so is ___” to remember that ~해 갈수록 emphasizes the ongoing nature of change over time.
-## Summary and Review
+- **Mnemonic Tip**: Think of **"As I go on doing..."** for **~해 갈수록**.
+- **Practice**: Create sentences using activities you do regularly to internalize the structure.
+---
+## 7. Summary and Review
 ### Key Takeaways
-- ~해 갈수록 indicates increasing change over time.
-- Combines the verb “to do” with a structure that implies growth or change.
-- Used in various contexts (formal, informal, written, spoken).
+- **~해 갈수록** is used to express an increasing change over time as an action continues.
+- Formed by **Verb Stem + 아/어 가다 + (으)ㄹ수록**.
+- Reflects the importance of gradual progress in Korean culture.
 ### Quick Recap Quiz
-1. What does ~해 갈수록 mean in English?
-2. How does this expression differ from 점점?
-3. Provide an example sentence using ~해 갈수록. 
-By practicing using ~해 갈수록 and differentiating it from similar expressions, learners can effectively communicate gradual changes and enhance their fluency in Korean.
+1. **Fill in the blank**: **___ 해 갈수록 한국어 실력이 늘어요.** (to study)
+   - **Answer**: **공부해 갈수록 한국어 실력이 늘어요.**
+2. **Translate**: *As time goes on, the weather is getting colder.*
+   - **Answer**: **시간이 지나갈수록 날씨가 추워져요.**
+---
+By understanding and practicing **~해 갈수록**, you can express progressive changes and deepening states in Korean naturally and accurately.
+
+---
+© [Hanabira.org](https://hanabira.org)

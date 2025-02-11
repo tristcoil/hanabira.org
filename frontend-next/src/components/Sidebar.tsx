@@ -169,7 +169,7 @@ export default function Sidebar() {
             hanabira.org
           </p>
           <p className=" lg:flex ml-3 text-blue-900/90 dark:text-blue-300/60 text-left text-xs">
-            Public Alpha v0.3.6
+            Public Alpha v0.3.8
           </p>
           <p className=" lg:flex ml-3 text-blue-900/90 dark:text-blue-300/60 text-left text-xs">
             Free Open-Source
@@ -259,6 +259,9 @@ export default function Sidebar() {
             </div>
             <Link href="/podcasts" className="dashboardOption">
               YouTube library
+            </Link>
+            <Link href="/my-podcasts" className="dashboardOption">
+              My YouTube library
             </Link>
             <Link href="/custom-text" className="dashboardOption">
               My articles library

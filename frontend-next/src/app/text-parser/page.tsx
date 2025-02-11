@@ -31,6 +31,7 @@ import JapaneseTextParser from "@/components-parser/JapaneseTextParser"; // meca
 import GrammarExplanation from "@/components-parser/GrammarExplanation";
 
 import ExampleVideos from "@/components-parser/ExampleVideos";
+import SubtitleInfo from "@/components-parser/SubtitleInfo";
 import Disclaimer from "@/components-parser/Disclaimer";
 
 import YouTubeUrlInputForm from "@/components-parser/YouTubeUrlInputForm";
@@ -41,6 +42,9 @@ import FuriganaConverter from "@/components-parser/FuriganaConverter";
 import FuriganaConverterV2 from "@/components-parser/FuriganaConverterV2";
 import Tabs from "@/components-parser/Tabs";
 import Tab from "@/components-parser/Tab";
+
+import SubtitleUploader from "@/components-parser/SubtitleUploader";
+
 
 import { getUserFromCookies } from "@/utils/helperFunctions";
 
@@ -342,6 +346,15 @@ function HomeComponent() {
 
   // ---
 
+
+
+
+
+
+
+
+
+
   // ----------------------------------- JSX HTML ------------------------------------ //
   return (
     <div className="h-full w-full">
@@ -399,7 +412,8 @@ function HomeComponent() {
               <h1 className="text-3xl font-bold text-slate-600">
                 YouTube video subtitle analyzer
               </h1>
-              <br></br>
+              
+              <SubtitleInfo />
               <ExampleVideos />
               <br />
 
@@ -415,6 +429,9 @@ function HomeComponent() {
                   onSubtitleUpdate={handleSubtitleUpdate}
                 />
               )}
+
+              {/* <SubtitleUploader url={finalInputUrl}/> */}
+              <SubtitleUploader url={inputUrl}/>
 
               <h1 className="mt-2">
                 Current japanese subtitle (sentence mining, MECAB tokenizer):

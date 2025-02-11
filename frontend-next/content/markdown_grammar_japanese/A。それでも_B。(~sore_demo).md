@@ -1,66 +1,97 @@
 Processing keyword: A。それでも B。(~sore demo)
 # Japanese Grammar Point: A。それでも B。(~sore demo)
-# Japanese Grammar Point: A。それでも B。(~sore demo)
+
 ## 1. Introduction
-The grammar point **A。それでも B。** (~sore demo) is used to convey a contrast between two statements, where the second statement (B) still holds true despite the situation presented in the first statement (A). It can be translated as "Even so," "Nonetheless," or "Still."
+In Japanese, **それでも** is a conjunction that connects two statements, often expressing contrast or unexpected results. It translates to **"Even so," "Nevertheless,"** or **"Despite that"** in English. Understanding how to use **それでも** properly will enhance your ability to express contrasting ideas and add depth to your conversations.
+
+---
 ## 2. Core Grammar Explanation
-### Detailed Explanation
-- **A** and **B** are both sentences where:
-  - **A** presents a situation or fact.
-  - **B** counters that situation or fact, showing that it does not change the outcome or reality.
+### Meaning
+**それでも** is used to indicate that the second statement holds true despite the circumstances described in the first statement. It emphasizes that an outcome or action occurs contrary to expectations.
+- **それでも**: Even so; Nevertheless; Despite that
 ### Structure
-- The structure is as follows:
-  - **A** (fact/situation) + **それでも** + **B** (contrasting fact/result).
+The basic structure using **それでも** is:
+```
+[Statement A]. それでも [Statement B].
+```
+- **Statement A**: A fact, situation, or condition.
+- **Statement B**: An outcome or action that occurs despite Statement A.
 ### Formation Diagram
+```plaintext
+[Clause 1]. それでも [Clause 2].
 ```
-[Situation A] それでも [Contrasting Situation B]
-```
-### Visual Aids
-| Part      | Description                        |
-|-----------|------------------------------------|
-| A         | A statement presenting a situation |
-| それでも   | "Even so" / "Nonetheless"          |
-| B         | A contrasting statement             |
+- **Clause 1**: A situation or condition.
+- **それでも**: Conjunction meaning "Even so" or "Nevertheless."
+- **Clause 2**: A contrasting outcome or action.
+---
 ## 3. Comparative Analysis
-- **A。それでも B。** (sore demo) vs. **A。けれども B。** (keredomo)
-  - **けれども** also shows contrast but is less emphatic than **それでも**. 
-  - Example:
-    - A. 雨が降っている。 (It's raining.)
-    - B. それでも行く。 (Even so, I'm going.)
-    - B'. けれども行く。 (But, I am going.)
+### Comparison with Similar Grammar Points
+#### しかし (Shikashi) vs. それでも (Sore demo)
+- **しかし**: Means "However" or "But," introducing a simple contrast.
+- **それでも**: Implies that despite the previous statement, something still holds true.
+
+|     | しかし (Shikashi)           | それでも (Sore demo)                         |
+|-----|-----------------------------|---------------------------------------------|
+| Use | Simple contrast or objection | Outcome occurs despite the previous situation |
+| Example | 雨が降っています。しかし、出かけます。 | 雨が降っています。それでも、出かけます。 |
+| Meaning | "It's raining. However, I'll go out." | "It's raining. Even so, I'll go out." |
+
+---
 ## 4. Examples in Context
-### Sentence Examples
-1. **Formal/ Written:**
-   - 医者に行ってきました。それでも、まだ体調が悪いです。
-   - (I went to see the doctor. Even so, I still feel unwell.)
-2. **Informal/ Spoken:**
-   - 昨日遅くまで遊んでいた。それでも、今朝早く起きた。
-   - (I played late last night. Still, I woke up early this morning.)
-3. **Mixed Context:**
-   - この映画はとても長い。それでも、面白かった。
-   - (This movie is very long. Nonetheless, it was interesting.)
+### Example Sentences
+1. **Formal - Written**
+   - **彼は失敗しました。**それでも**、あきらめませんでした。**
+   - *Kare wa shippai shimashita. Sore demo, akiramemasen deshita.*
+   - *He failed. Even so, he did not give up.*
+2. **Informal - Spoken**
+   - **雨だけど、**それでも**サッカーするの？**
+   - *Ame dakedo, sore demo sakkā suru no?*
+   - *It's raining, but you're still going to play soccer?*
+3. **Formal - Spoken**
+   - **問題が多いです。**それでも**、プロジェクトを続けます。**
+   - *Mondai ga ōi desu. Sore demo, purojekuto o tsudzukemasu.*
+   - *There are many problems. Nevertheless, we will continue the project.*
+4. **Informal - Written**
+   - **彼女は忙しい。**それでも**、時間を作ってくれる。**
+   - *Kanojo wa isogashii. Sore demo, jikan o tsukutte kureru.*
+   - *She's busy. Even so, she makes time for me.*
+---
 ## 5. Cultural Notes
-### Cultural Relevance
-Using **それでも** conveys a level of resilience or the notion that circumstances do not deter one from action or feeling. This can reflect attitudes of perseverance, which is highly valued in Japanese culture.
-### Levels of Politeness and Formality
-- **それでも** is neutral and can be used in both formal and informal settings. However, it's essential to maintain context appropriateness for the conversation.
+### Levels of Politeness
+- **それでも** is neutral in terms of politeness and can be used in both formal and informal contexts.
 ### Idiomatic Expressions
-- 使用例: それでもさ (Even so, you know)
-- This phrase indicates informal conversation and can convey a degree of emotional engagement.
+- **それでもかまいません**: "Even so, it's okay."
+- **それでもやります**: "I'll do it anyway."
+---
 ## 6. Common Mistakes and Tips
-### Error Analysis
-- One common mistake is using **それでも** excessively when simpler conjunctions can suffice, like **でも** or **けれども**. 
-### Learning Strategies
-- **Mnemonic Device:** Think of **それでも** as "Even"* "so" to remind you that it indicates a contrast where the result persists despite the preceding situation.
+### Common Mistakes
+1. **Confusing with でも (demo)**
+   - **でも** means "but" or "however," and is used for general contrasts.
+   - **それでも** emphasizes that an action occurs despite the previous statement.
+2. **Overusing in Inappropriate Contexts**
+   - Using **それでも** when there is no strong contrast or unexpected outcome.
+### Tips
+- **Mnemonic Device**: Think of **それでも** as "Even that being so," to remember its usage in expressing contrasts where something happens despite circumstances.
+- **Practice**: Create your own sentences using **それでも** to describe situations where an outcome is unexpected based on prior information.
+---
 ## 7. Summary and Review
 ### Key Takeaways
-- **A。それでも B。** expresses contrast where B remains true despite A.
-- It is a versatile phrase applicable in multiple contexts.
+- **それでも** is a conjunction meaning "Even so" or "Nevertheless."
+- Used to express that something occurs despite preceding circumstances.
+- Differs from **しかし** and **でも** by emphasizing an unexpected continuation or outcome.
 ### Quick Recap Quiz
-1. Translate this sentence: "It's raining. Even so, she went out."
-2. Which is more emphatic: **それでも** or **けれども**?
-3. Create your own example using this structure.
-Answers:
-1. 雨が降っています。それでも、彼女は出かけました。
-2. **それでも** is more emphatic.
-3. (Your example here...)
+1. **Translate the following sentence:**
+   **彼は疲れていた。**それでも**、最後まで走った。**
+   *He was tired. ________, he ran until the end.*
+2. **True or False:**
+   **それでも** can be used interchangeably with **しかし** in all contexts.
+### Answers
+1. **He was tired. Even so, he ran until the end.**
+2. **False:** **それでも** implies a stronger contrast, emphasizing that something happened despite circumstances.
+---
+By mastering **それでも**, you can effectively express contrasts and unexpected outcomes in Japanese, making your communication more nuanced and natural.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

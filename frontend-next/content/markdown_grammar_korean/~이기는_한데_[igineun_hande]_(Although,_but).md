@@ -1,70 +1,103 @@
 Processing keyword: ~이기는 한데 [igineun hande] (Although, but)
 # Korean Grammar Point: ~이기는 한데 [igineun hande] (Although, but)
-# Korean TOPIK Grammar Point: ~이기는 한데 [igineun hande]
+
 ## 1. Introduction
-The grammar point **~이기는 한데** is used to express a contrast or contradiction in statements. It typically means "although" or "but," allowing the speaker to acknowledge one fact while providing additional information that may oppose or qualify that fact.
+In Korean, expressing contrast or concession is essential for nuanced communication. The grammar structure **~이기는 한데** is used to acknowledge a fact while introducing a contrasting statement. This lesson will delve into the usage of **~이기는 한데**, helping you understand its formation, meaning, and application in various contexts.
+
 ---
 ## 2. Core Grammar Explanation
+### Meaning
+**~이기는 한데** translates to **"Although [noun] is... but..."** in English. It's used to:
+- Acknowledge a certain fact or situation.
+- Introduce a contrasting statement or exception.
+### Structure
+The structure varies slightly depending on whether it follows a **noun**, **adjective**, or **verb**.
+#### Formation Diagram
+| Part of Speech | Attached to Root | Conjugation |
+|----------------|------------------|-------------|
+| Noun           | Noun + **이기는 한데** | 친구이기는 한데 (Although [he/she] is a friend, but...) |
+| Adjective      | Adjective + **기는 한데** | 크기는 한데 (Although [it] is big, but...) |
+| Verb           | Verb stem + **기는 한데** | 가기는 한데 (Although [I] go, but...) |
 ### Detailed Explanation
-- **Meaning**: The phrase **~이기는 한데** indicates that while the first part of the statement is true, there is a contrasting aspect or additional nuance presented in the second part.
-- **Structure**: 
-  - **Noun + (이)기는 한데**
-  - **Verb Stem + (으)니는 한데**
-  
-- **Formation Diagram**:
-  
-  ```
-  Statement 1 (True fact) + ~이기는 한데 + Statement 2 (Contrasting information)
-  ```
-### Visual Aids
-| Structure         | Example                        | Translation                           |
-|-------------------|--------------------------------|---------------------------------------|
-| Noun + (이)기는 한데 | 나는 학생이기는 한데, 잘 모르겠다. | Although I am a student, I don’t know well. |
-| Verb Stem + (으)니는 한데 | 영화가 재미있기는 한데, 너무 길어. | The movie is interesting, but it's too long. |
+- **Nouns**: When using nouns, attach **이기는 한데** directly to the noun.
+  - **Note**: If the noun ends with a vowel, sometimes **이** is omitted.
+- **Verbs/Adjectives**: Attach **기는 한데** to the verb or adjective stem.
 ---
 ## 3. Comparative Analysis
-### Comparison with Similar Grammar Points:
-- **~지만 [jiman]**: This also means "but," but is used more straightforwardly without the nuance that **~이기는 한데** carries.
-  - Example: 나는 학생이지만, 잘 모르겠다. (I am a student, but I don’t know well.)
-  - Contrast: While **~지만** simply presents a contradiction, **~이기는 한데** suggests that there might be an explanation or a more detailed context following it.
+### Comparison with **~지만**
+- **~지만** is another common way to express "but" or "although".
+  - **Example**: 춥지만 나가야 해요. (It's cold, but I have to go out.)
+- **Difference**:
+  - **~기는 한데** often emphasizes the acknowledgment of the first clause more than **~지만**.
+  - It can convey a slight concession or hesitation.
+### Comparison Table
+| Grammar Point | Usage | Nuance |
+|---------------|-------|--------|
+| **~지만** | Attach to verb/adjective stem | Simple contrast |
+| **~기는 한데** | Attach to noun/verb/adjective | Acknowledgment with contrast; slight concession |
 ---
 ## 4. Examples in Context
-### Sentence Examples:
-1. **Formal Context**: 
-   - 이 책은 재미있기는 한데, 너무 길어서 읽기 힘들어요.  
-     *(This book is interesting, but it's too long, so it's hard to read.)*
-2. **Informal Context**:
-   - 날씨가 좋기는 한데, 바람이 너무 세.  
-     *(The weather is nice, but the wind is too strong.)*
-3. **Written Context**:
-   - 이 방법이 효율적이기는 한데, 비용이 많이 듭니다.  
-     *(This method is efficient, but it costs a lot.)*
-4. **Spoken Context**:
-   - 나는 가고 싶기는 한데, 시간이 없어서 못 가.  
-     *(I want to go, but I can’t because I don’t have time.)*
+### Formal Situations
+1. **회의에 참석하기는 한데 시간이 없습니다.**
+   - *Translation*: Although I will attend the meeting, I don't have much time.
+2. **그분이 전문가이기는 한데 경험이 부족합니다.**
+   - *Translation*: Although he/she is an expert, he/she lacks experience.
+### Informal Situations
+1. **맛있기는 한데 너무 매워.**
+   - *Translation*: It's tasty, but it's too spicy.
+2. **영화 보기는 한데 다른 거 할래?**
+   - *Translation*: Although we can watch a movie, do you want to do something else?
+### Written Context
+1. **이 책이 유명하기는 한데 내용이 어려워요.**
+   - *Translation*: Although this book is famous, the content is difficult.
+2. **프로젝트가 진행되기는 한데 문제가 많습니다.**
+   - *Translation*: Although the project is progressing, there are many issues.
+### Spoken Context
+1. **가기는 한데 왜 가야 해?**
+   - *Translation*: I'll go, but why do I have to?
+2. **알기는 한데 설명하기 어려워.**
+   - *Translation*: I know, but it's hard to explain.
 ---
 ## 5. Cultural Notes
-### Cultural Relevance:
-In Korean culture, acknowledging and contrasting opinions is essential to maintaining harmony in conversations. Using **~이기는 한데** allows speakers to express their opinions while respectfully presenting contrasting views, which reflects a nuanced understanding of relationships and communication.
-### Idiomatic Expressions:
-- "공부는 하기를 한데, 시험은 준비하지 않았다."  
-*Although I studied, I didn’t prepare for the exam.*  
-This idiom reflects a common scenario among students acknowledging their efforts but recognizing their shortcomings.
+### Politeness Levels
+Understanding levels of formality is crucial in Korean culture. Using **~이기는 한데** appropriately can convey politeness while expressing a differing opinion or hesitation, which aligns with the indirect communication style often preferred in Korean social interactions.
+### Idiomatic Expressions
+- **먹기는 했는데 배가 고파요.**
+  - *Translation*: I did eat, but I'm still hungry.
+  - *Usage*: Expressing that despite an action, the expected result isn't met.
 ---
 ## 6. Common Mistakes and Tips
-### Error Analysis:
-- **Mistake**: Using **~이기는 한데** with a statement that doesn’t provide contrasting information.
-  - **Incorrect**: 그 영화는 재미있기는 한데.  
-  - **Correct**: 그 영화는 재미있기는 한데, 너무 길어.
-### Learning Strategies:
-- **Mnemonic Device**: Remember that **이기는 한데** signifies a bridge to contrast; the first part must be a true statement followed by the contrasting viewpoint.
+### Common Mistakes
+1. **Incorrect Attachment**
+   - *Mistake*: 친구기는 한데...
+   - *Correction*: **친구**이기는 한데...
+   - *Tip*: Don't forget the **이** after a noun ending with a consonant.
+2. **Mixing with ~지만**
+   - *Mistake*: 크지만 한데...
+   - *Correction*: **크기는 한데** or **크지만**
+   - *Tip*: Choose one structure; don't combine them.
+### Learning Strategies
+- **Mnemonic Device**:
+  - Think of **기는 한데** as "I acknowledge **(기)** it is **(는)** this, but **(한데)**..."
+- **Practice**:
+  - Create sentences using familiar verbs and nouns to get comfortable with the structure.
+  - Swap out **기는 한데** with **지만** in sentences to feel the nuance difference.
 ---
 ## 7. Summary and Review
-### Key Takeaways:
-- **~이기는 한데** is used to express contrast in statements.
-- It can follow nouns or verb stems and is different from **~지만** in its nuance.
-### Quick Recap Quiz:
-1. What does **~이기는 한데** mean?
-2. How do you structure a sentence using this grammar point?
-3. Can you give an example using **~이기는 한데** in a formal context?
-Use these points to enhance your understanding and usage of the grammar point **~이기는 한데** in your Korean conversations!
+### Key Takeaways
+- **~이기는 한데** is used to express **"Although..., but..."** by acknowledging a point before presenting a contrast.
+- Attach **이기는 한데** to nouns and **기는 한데** to verbs and adjectives.
+- It conveys a stronger sense of concession compared to **~지만**.
+### Quick Recap Quiz
+1. How do you attach **~이기는 한데** to the noun **학생**?
+   - **Answer**: 학생**이기는 한데**
+2. Translate the following sentence:
+   - **비싸기는 한데 품질이 좋아요.**
+   - **Answer**: Although it's expensive, the quality is good.
+3. What's a key difference between **~지만** and **~기는 한데**?
+   - **Answer**: **~기는 한데** emphasizes acknowledgment of the first clause more and conveys concession, whereas **~지만** is a straightforward contrast.
+---
+By mastering **~이기는 한데**, you can express subtle contrasts and concessions in Korean, enhancing your conversational skills and understanding of the language's nuances.
+
+---
+© [Hanabira.org](https://hanabira.org)

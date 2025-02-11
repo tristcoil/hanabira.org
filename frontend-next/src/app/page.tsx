@@ -440,7 +440,7 @@ export default function Example() {
                       What is new
                     </span>
                     <span className="inline-flex items-center space-x-1 text-sm font-medium text-rose-800">
-                      <span>Just shipped Public Alpha v0.3.6</span>
+                      <span>Just shipped Public Alpha v0.3.8</span>
                       <ChevronRightIcon
                         className="h-5 w-5"
                         aria-hidden="true"
@@ -1098,6 +1098,22 @@ export default function Example() {
                 className="transform transition duration-300 ease-in-out hover:scale-105 w-[48rem] max-w-none rounded-xl bg-gray-900 shadow-xl ring-1 ring-gray-400/10 sm:w-[57rem]"
                 loading="lazy"
               />
+
+{/* Small link below the image */}
+<div className="mt-3 text-center text-sm text-gray-700">
+  Screenshot from{' '}
+  <a
+    href="https://www.youtube.com/@the_bitesize_japanese_podcast"
+    target="_blank"
+    rel="noopener noreferrer"
+    className="text-slate-600 hover:text-slate-800"
+  >
+    Bite Size Japanese YouTube Channel
+  </a>
+</div>
+
+
+
             </div>
             <div className="lg:col-span-2 lg:col-start-1 lg:row-start-2 lg:mx-auto lg:grid lg:w-full lg:max-w-7xl lg:grid-cols-2 lg:gap-x-8 lg:px-8">
               <div className="lg:pr-4">
@@ -1562,12 +1578,12 @@ export default function Example() {
                   </div>
                   <div className="mt-6">
                     <h2 className="text-3xl font-bold tracking-tight text-gray-900">
-                      Bite size japanese grammar explanations for each JLPT
+                      Quick japanese grammar explanations for each JLPT
                       level
                     </h2>
                     <p className="mt-4 text-lg text-gray-500">
                       Enhance your Japanese language learning with our
-                      bite-sized grammar lessons tailored for each JLPT level.
+                      streamlined quick grammar lessons tailored for each JLPT level.
                       Inspired by the popular Nihongo so Matome books, these
                       lessons offer quick and concise explanations of essential
                       grammar points. Each lesson includes example sentences and

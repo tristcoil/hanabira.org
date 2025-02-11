@@ -3,8 +3,14 @@
 
 [**Hanabira.org**](https://hanabira.org)
  is a free and (mostly) open-source Japanese learning platform designed to help you prepare for JLPT N5-N1. Our platform offers various tools to enhance your Japanese language learning experience, from text parsing and grammar explanations to YouTube immersion and kanji mnemonics. Can be easily Self-Hosted. Is in very early Alpha stage, full of bugs. 
-Korean content to be added soon(ish). Tech stack is: NextJS 14, Tailwind CSS, Shad CN, MongoDB, Express, Flask, Docker. 
-MIT License. Code is provides "as is" without any warranty. Use at your own risk.
+Korean content to be added soon(ish). Tech stack is: NextJS 14, Tailwind CSS, shadcn, MongoDB, Express, Flask, Docker. 
+MIT License for hanabira.org code. Code is provided "as is" without any warranty. Use at your own risk.
+Creative Commons License for in house created hanabira.org content. 
+We also use content from other sources under Creative Commons License, links to sources are listed below.
+
+In house content can be found here:
+[Hanabira.org content](https://github.com/tristcoil/hanabira.org-japanese-content)
+
 
 ## Features
 

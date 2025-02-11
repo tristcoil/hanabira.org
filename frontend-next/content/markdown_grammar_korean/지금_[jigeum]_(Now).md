@@ -1,65 +1,119 @@
 Processing keyword: 지금 [jigeum] (Now)
 # Korean Grammar Point: 지금 [jigeum] (Now)
-# 지금 (jigeum) - Now
+
 ## 1. Introduction
-지금 (jigeum) translates to "now" in English. It is a fundamental Korean adverb used to denote the present moment or time. Understanding its usage is essential for expressing immediate actions or states in both spoken and written Korean.
+**지금** (*jigeum*) is a fundamental Korean adverb meaning **"now"** or **"at this moment"**. It's widely used in daily conversations to indicate actions or states occurring at the present time. Understanding how to use **지금** is essential for expressing current events and engaging in real-time discussions in Korean.
+
 ---
 ## 2. Core Grammar Explanation
-### Detailed Explanation
-지금 indicates the current time and is often used to talk about actions happening right now or to emphasize immediacy. It can be placed at the beginning, middle, or end of a sentence with slight variations in emphasis.
-### Structure
-- **Basic Structure**: 지금 + Verb/Noun
+### Meaning
+- **지금**: Now, right now, at this moment.
+### Usage
+- **As an Adverb**: Modifies verbs to indicate that the action is happening **now**.
+- **Position in a Sentence**: Typically placed before the verb or at the beginning of a sentence for emphasis.
+### Sentence Structure
+**Basic Structure**:
+- **[Subject] + 지금 + [Verb]**
+**Examples**:
+- **저는 지금 먹어요.**
+  - *jeoneun jigeum meogeoyo.*
+  - "I am eating now."
 ### Formation Diagram
 ```
-[지금] + [Verb/Noun]
+    A[Subject] --> B[지금];
+    B --> C[Verb];
 ```
-### Example:
-- 지금 가요. (jigeum gayo) - I am going now.
-- 지금 공부해요. (jigeum gongbuhaeyo) - I am studying now.
 ---
 ## 3. Comparative Analysis
-- **Similar Point**: 
-  - **방금 (banggeum)**: This means "just now" or "a moment ago." While 지금 refers to the present moment, 방금 references a very recent past. 
-  - **Example**: 방금 전화했어요. (banggeum jeonhwahaess-eoyo) - I just called.
-### Differences:
-| Term     | Meaning               | Time Reference       |
-|----------|-----------------------|-----------------------|
-| 지금     | Now                   | Present moment        |
-| 방금    | Just now              | Very recent past      |
+### 지금 vs. 이제 vs. 현재
+| Word   | Pronunciation | Meaning             | Usage                                  |
+|--------|---------------|---------------------|----------------------------------------|
+| 지금   | jigeum        | Now                 | Immediate present moment               |
+| 이제   | ije           | Now (from now on)   | Transition from past to present/future |
+| 현재   | hyeonjae      | Currently, Present  | Formal contexts, reports, presentations |
+- **지금** focuses on the exact current moment.
+- **이제** implies a change or transition, often used when something has just changed.
+- **현재** is used in formal or written contexts to denote the present time.
 ---
 ## 4. Examples in Context
-### Sentence Examples
-- **Formal**: 지금 발표할 것입니다. (jigeum balpyohal geos-imnida.) - I will present now.
-- **Informal**: 지금 뭐 해? (jigeum mwo hae?) - What are you doing now?
-- **Written**: 지금은 중요한 시점입니다. (jigeumeun jungyohan sijpeumimnida.) - Now is an important point in time.
-- **Spoken**: 나는 지금 밥 먹고 있어. (naneun jigeum bap meokgo isseo.) - I'm eating now.
+### Informal Speech
+1. **지금 뭐 해?**
+   - *jigeum mwo hae?*
+   - "What are you doing now?"
+2. **나 지금 가야 돼.**
+   - *na jigeum gaya dwae.*
+   - "I have to go now."
+### Formal Speech
+1. **지금 시간 있으세요?**
+   - *jigeum sigan isseuseyo?*
+   - "Do you have time now?"
+2. **회의는 지금 시작합니다.**
+   - *hoe-ui-neun jigeum sijakhamnida.*
+   - "The meeting starts now."
+### Written Context
+1. **현재 우리는 중요한 시기에 있습니다.**
+   - *hyeonjae urineun jung-yo-han sigie isseumnida.*
+   - "We are currently at an important time."
+2. **지금까지 감사합니다.**
+   - *jigeumkkaji gamsahamnida.*
+   - "Thank you until now."
+### Conversational Phrases
+1. **지금 바로 갈게요.**
+   - *jigeum baro galgeyo.*
+   - "I will go right now."
+2. **지금은 힘들어요.**
+   - *jigeumeun himdeureoyo.*
+   - "It's difficult at the moment."
 ---
 ## 5. Cultural Notes
-### Cultural Relevance
-In Korean culture, the concept of time is often emphasized. Using 지금 correctly can reflect one's awareness of the current situation and expectation of immediacy. When conversing, using appropriate levels of respect aligns with social norms, particularly in formal settings.
+### Levels of Politeness
+- **Informal**: Used among friends or peers.
+  - **지금 올래?**
+    - *jigeum ollae?*
+    - "Want to come over now?"
+- **Formal**: Used in respectful situations or with strangers.
+  - **지금 통화 가능하십니까?**
+    - *jigeum tonghwa ganeunghasipnika?*
+    - "Are you available to talk now?"
 ### Idiomatic Expressions
-- **지금 막** (jigeum mak): "Right now" or "just now."
-  - Example: 지금 막 도착했어요. (jigeum mak dochakhaess-eoyo) - I just arrived right now.
+- **지금 이 순간** (*jigeum i sungan*)
+  - "At this very moment."
+  - Used to emphasize the importance of the present.
+- **지금을 즐기다** (*jigeumeul jeulgi-da*)
+  - "Enjoy the moment."
+  - Encourages living in the present.
 ---
 ## 6. Common Mistakes and Tips
-### Error Analysis
-- **Common Errors**: Learners often confuse 지금 with other time-related words, such as 오늘 (today) or 방금 (just now). Make sure to differentiate the contexts in which you use these terms.
+### Common Mistakes
+1. **Overusing 지금**: In Korean, it's often unnecessary to use **지금** if the present tense verb already implies current action.
+   - **Incorrect**: 저는 지금 먹고 있어요.
+     - *jeoneun jigeum meokgo isseoyo.*
+     - "I am eating now."
+   - **Correct but Simplified**: 저는 먹고 있어요.
+     - *jeoneun meokgo isseoyo.*
+     - "I am eating."
+2. **Confusing 지금 with 이제**:
+   - **이제** signifies a change or "from now on," not just the current moment.
 ### Learning Strategies
-- **Mnemonic Device**: Associate 지금 with "Jim Goes Now." Imagine a friend named Jim who always leaves as soon as you mention plans. This can reinforce the sense of immediacy tied to "now."
+- **Tip**: Associate **지금** with "immediate action." If something is happening right as you speak, **지금** is appropriate.
+- **Mnemonic**: Remember **지** in **지금** as "G" for "Go" — things are happening "Go-time" now.
 ---
 ## 7. Summary and Review
 ### Key Takeaways
-- 지금 means "now" and indicates the current moment.
-- It can be used in various contexts, both formal and informal.
-- Understanding when to use 지금 and how it differs from similar terms is crucial for effective communication.
+- **지금** means "now" and is used to describe actions or states occurring at the present moment.
+- It is an adverb placed before verbs or at the sentence's beginning for emphasis.
+- Distinguish **지금** from **이제** and **현재** based on context and formality.
 ### Quick Recap Quiz
-1. What does 지금 mean?
-   - A) Today
-   - B) Now
-   - C) Yesterday
-2. Which of the following sentences uses 지금 correctly?
-   - A) 지금 영화 봤어요. (I watched a movie now.)
-   - B) 나는 지금 밥 먹고 있어. (I am eating now.)
-   - C) 방금 학교 갔다. (I went to school just now.)
+1. **Translate to Korean**: "I am studying now."
+   - **Answer**: **저는 지금 공부하고 있어요.**
+     - *jeoneun jigeum gongbuhago isseoyo.*
+2. **True or False**: **지금** can be used interchangeably with **현재** in formal writing.
+   - **Answer**: **False**. **현재** is preferred in formal writing.
+3. **Fill in the Blank**: "If not now, when?" translates to **지금 아니면 ___?**
+   - **Answer**: **언제**
+     - *eonje*
 ---
-By understanding and using 지금 appropriately, you can enhance the clarity and immediacy of your conversations in Korean!
+Now you have a solid understanding of **지금** and how to use it naturally in Korean sentences. Practice incorporating **지금** into your daily conversations to become more fluent and express present actions effectively!
+
+---
+© [Hanabira.org](https://hanabira.org)

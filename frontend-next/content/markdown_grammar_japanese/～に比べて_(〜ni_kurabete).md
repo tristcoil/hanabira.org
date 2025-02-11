@@ -1,70 +1,130 @@
 Processing keyword: ～に比べて (〜ni kurabete)
 # Japanese Grammar Point: ～に比べて (〜ni kurabete)
-# Grammar Point: ～に比べて (〜ni kurabete)
+
 ## 1. Introduction
-The expression ～に比べて (ni kurabete) is used to make comparisons between two or more subjects in Japanese. It translates to "compared to," "compared with," or "in comparison to" in English. It is especially useful when highlighting differences or similarities in characteristics, quality, or conditions.
+In this lesson, we'll explore the Japanese grammar point **～に比べて (〜ni kurabete)**, which means "**compared to**" or "**in comparison with**". This expression is essential for making comparisons between two items, people, situations, or ideas. Understanding how to use **～に比べて** will enhance your ability to describe differences and contrasts in Japanese.
+
+---
 ## 2. Core Grammar Explanation
-### Detailed Explanation
-The structure of ～に比べて consists of the following parts:
-- **Noun + に比べて (ni kurabete)**
-Here, the noun indicates the subject you’re comparing something to. The expression emphasizes the difference or similarity between this subject and another subject that is being evaluated.
-### Meaning, Structure, and Formation
-- **に (ni):** A particle indicating the subject to which you are comparing.
-- **比べて (kurabete):** A form of the verb 比べる (kuraberu), meaning “to compare.”
-#### Formation Diagram
+### Meaning
+- **～に比べて** is used to compare two things, highlighting differences in degree, quality, or characteristics.
+- It translates to **"compared to"** or **"in comparison with"** in English.
+### Structure
+- **[Noun A] に比べて [Noun B / Phrase]**
+  - **[Noun A]**: The reference point or standard for comparison.
+  - **に比べて**: Particle meaning "compared to".
+  - **[Noun B / Phrase]**: The item or situation being compared.
+### Formation Diagram
 ```
-[Noun A]  + に比べて + [Noun B] + は 
+[Reference Point] に比べて [Item being compared + Comment]
 ```
-- Example: 
-  - 日本 (Nihon, Japan) + に比べて + アメリカ (Amerika, America) + は 
-  - "Compared to Japan, America..."
+### Visual Aid: Structure Table
+
+| Part               | Function                               | Example                   |
+|--------------------|----------------------------------------|---------------------------|
+| **Noun A**         | Reference point for comparison         | 去年 (last year)          |
+| **に比べて**       | Particle meaning "compared to"         | に比べて                   |
+| **Noun B/Phrase**  | Item being compared + Comment          | 今年は暑いです (it's hot this year) |
+
+---
 ## 3. Comparative Analysis
-To better understand the nuances of ～に比べて, let’s compare it with other comparison expressions:
-| Grammar Point | Meaning                       | Usage                                   |
-|---------------|-------------------------------|-----------------------------------------|
-| ～より        | “than”                        | Direct comparison between two items.    |
-| ～に対して    | “to” or “against”            | Indicates opposition or contrast.       |
-| ～と比べて    | “when compared to”           | Similar to に比べて, but more neutral.  |
-### Differences:
-- Compared to ～より, which is more direct, ～に比べて emphasizes a broader context.
-- ～に対して can express a contrast, while ～に比べて focuses on comparative evaluation.
+### ～に比べて vs. ～より (〜yori)
+- **～より**
+  - Also means **"than"** and is used for direct comparisons.
+  - Structure: **[Noun A] より [Adjective/Verb]**
+  - Focuses on the degree of a particular quality.
+**Comparison Table**
+
+|                     | **～に比べて**                 | **～より**                        |
+|---------------------|------------------------------|-----------------------------------|
+| **Meaning**         | Compared to                  | Than                              |
+| **Usage**           | General comparisons          | Direct comparisons                |
+| **Structure**       | [Noun A] に比べて [Noun B]    | [Noun A] より [Adjective/Verb]    |
+| **Example**         | 去年に比べて暑いです。        | 去年より暑いです。                |
+
+**Note:** While both can sometimes be used interchangeably, **～に比べて** often introduces a broader or more general comparison.
+
+---
 ## 4. Examples in Context
 ### Sentence Examples
+1. **家の近くは、町中に比べて静かです。**
+   - *Ie no chikaku wa, machi naka ni kurabete shizuka desu.*
+   - "Compared to downtown, the area near my house is quiet."
+2. **この問題は、前の問題に比べて簡単です。**
+   - *Kono mondai wa, mae no mondai ni kurabete kantan desu.*
+   - "This problem is easy compared to the previous one."
+3. **今年の冬は例年に比べて暖かい。**
+   - *Kotoshi no fuyu wa reinen ni kurabete atatakai.*
+   - "This winter is warm compared to an average year."
+4. **日本の電車は他の国に比べて時間に正確だ。**
+   - *Nihon no densha wa hoka no kuni ni kurabete jikan ni seikaku da.*
+   - "Japanese trains are punctual compared to those in other countries."
+5. **彼は兄に比べて背が高い。**
+   - *Kare wa ani ni kurabete se ga takai.*
+   - "He is tall compared to his older brother."
+### Formal vs. Informal Usage
 - **Formal:**
-  - 日本の経済は、中国の経済に比べて大きいです。
-    - **Translation:** Japan's economy is large compared to China's economy.
+  - **御社のサービスは他社に比べて優れています。**
+    - *Onsha no sābisu wa tasha ni kurabete sugurete imasu.*
+    - "Your company's services are superior compared to other companies."
 - **Informal:**
-  - 彼は私に比べて背が高いね。
-    - **Translation:** He is taller than me, compared to me.
-- **Written:**
-  - 昨年に比べて、今年の売上は増加しました。
-    - **Translation:** The sales have increased compared to last year.
-- **Spoken:**
-  - その映画は前のシリーズに比べてつまらなかった。
-    - **Translation:** That movie was boring compared to the previous series.
+  - **俺に比べて、君は運がいいね。**
+    - *Ore ni kurabete, kimi wa un ga ii ne.*
+    - "Compared to me, you're lucky."
+---
 ## 5. Cultural Notes
 ### Cultural Relevance
-In Japanese culture, comparing items or people can carry significant weight depending on the context. Using comparatives like ～に比べて can reflect respect towards counterparts, especially when discussing cultural aspects or achievements.
-### Levels of Politeness
-The politeness of your language often matches the context of your comparisons. Using formal language when discussing sensitive topics or higher-status entities is crucial in maintaining respect and etiquette.
+- In Japanese culture, making direct negative comparisons can be considered impolite.
+- Use **～に比べて** carefully to avoid offending someone; focus on neutral or positive attributes when possible.
+- Humility is valued, so comparing oneself favorably over others may be frowned upon.
 ### Idiomatic Expressions
-- 友達に比べての私の成績は良くない。
-  - **Translation:** My grades are not good compared to my friends.
+- **猫に比べて犬は忠実だ。**
+  - *Neko ni kurabete inu wa chūjitsu da.*
+  - "Dogs are loyal compared to cats."
+- **昔に比べて、生活が便利になった。**
+  - *Mukashi ni kurabete, seikatsu ga benri ni natta.*
+  - "Life has become convenient compared to the past."
+---
 ## 6. Common Mistakes and Tips
 ### Error Analysis
-1. **Mistake:** Confusing に比べて with より when items are too subjective (i.e., aesthetics).
-   - **Correction:** Use に比べて for more detailed evaluations.
-2. **Mistake:** Omitting the noun after に.
-   - **Correction:** Always follow に with the noun you are comparing.
+1. **Using the Wrong Particle**
+   - **Incorrect:** *今年は去年と比べて寒いです。*
+   - **Correct:** *今年は去年に比べて寒いです。*
+   - **Explanation:** Use **に比べて**, not **と比べて**, for this expression.
+2. **Incorrect Word Order**
+   - **Incorrect:** *に比べて彼は弟背が低いです。*
+   - **Correct:** *彼は弟に比べて背が低いです。*
+   - **Explanation:** The person being compared comes after **に比べて**.
 ### Learning Strategies
-- **Mnemonic Device:** Remember "比べる" (kuraberu) as "compare", and think of it as sounding similar to "rub"—like rubbing two things together to see the differences!
+- **Remember the Verb:** **比べて** comes from **比べる** (*kuraberu*), which means "to compare."
+- **Particle Practice:** Associate **に** with the reference point in comparisons.
+- **Visualize Comparisons:** When using **～に比べて**, imagine placing **[Noun A]** on one side and **[Noun B]** on the other for comparison.
+---
 ## 7. Summary and Review
 ### Key Takeaways
-- Use ～に比べて to emphasize differences or similarities between two subjects.
-- The structure follows [Noun] + に比べて + [Noun].
-- It's important to use it in contexts where you want a clearer comparative evaluation.
+- **～に比べて** is used to compare two items, meaning **"compared to"**.
+- The structure is **[Noun A] に比べて [Noun B / Phrase]**.
+- Be mindful of politeness and cultural nuances when making comparisons.
 ### Quick Recap Quiz
-1. What does ～に比べて mean in English?
-2. What particle do you use before the noun in a comparison with ～に比べて?
-3. Is this phrase more formal or informal?
-By understanding and practicing with ～に比べて, you can deepen your grasp of Japanese comparative expressions and enhance your conversational skills!
+1. **Fill in the blank with the correct particle:**
+   *夏___比べて冬は涼しいです。*
+   <details><summary>Answer</summary>
+   夏**に**比べて冬は涼しいです。
+   </details>
+2. **True or False:**
+   *It's acceptable to use **と比べて** instead of **に比べて**.*
+   <details><summary>Answer</summary>
+   False. The correct particle is **に** as in **に比べて**.
+   </details>
+3. **Correct the mistake in the sentence:**
+   *この車は古い車よりに比べて高いです。*
+   <details><summary>Answer</summary>
+   Remove **より**: *この車は古い車に比べて高いです。*
+   </details>
+---
+By mastering **～に比べて**, you'll be able to express comparisons effectively in Japanese, enriching your conversations and descriptions.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

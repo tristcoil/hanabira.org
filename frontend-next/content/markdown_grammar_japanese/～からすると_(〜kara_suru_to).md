@@ -1,74 +1,118 @@
 Processing keyword: ～からすると (〜kara suru to)
 # Japanese Grammar Point: ～からすると (〜kara suru to)
-# Grammar Point: ～からすると (〜kara suru to)
-## Introduction
-The grammar point ～からすると (kara suru to) is used to express a perspective or judgment based on a specific reference or point of view. This structure is common in spoken and written Japanese and helps convey conclusions or opinions derived from certain premises.
-## Core Grammar Explanation
-### Detailed Explanation
-- **Meaning:** "From the standpoint of ~" or "Considering ~"
-- **Structure:** 
-  - This structure combines the noun or situation (the reference point) followed by から (kara) and then the verb する (suru) in the form of すると (suru to).
-  
+
+## 1. Introduction
+In this lesson, we'll explore the grammar point **～からすると (〜kara suru to)**, a useful expression in Japanese that allows you to make judgments or inferences based on certain evidence or perspectives. Mastering this structure will enable you to articulate your reasoning and interpret situations more effectively in Japanese.
+
+---
+## 2. Core Grammar Explanation
+### Meaning
+**～からすると** is used to express:
+- **"Judging from..."**
+- **"Considering..."**
+- **"Based on..."**
+- **"From the perspective of..."**
+It indicates that the speaker is making a judgment or inference based on the preceding noun.
+### Structure
+**Formation:**
+```
+Noun + からすると / からすれば / からして
+```
+| **Component** |             |                            |
+|---------------|-------------|----------------------------|
+| **Noun**      | **+**       | **からすると**             |
+| **Noun**      | **+**       | **からすれば**             |
+| **Noun**      | **+**       | **からして**               |
+- **からすると** and its variations **からすれば**, **からして** are often interchangeable.
 ### Formation Diagram
+```plaintext
+[Evidence/Source (Noun)] + からすると → [Inference/Judgment]
 ```
-[Reference Point/Noun] + から (kara) + すると (suru to)
-```
-### Example Breakdown
-1. **Reference Point:** The subject or scenario you are assessing.
-2. **から:** Means "from" or "based on."
-3. **すると:** A form derived from the verb "suru," meaning "to do," used here to connect with the conclusion or opinion.
-### Visual Aid: Structure Table
-| Components    | Meaning                    | Example                                   |
-|---------------|----------------------------|-------------------------------------------|
-| Reference Point | The perspective you use  | 彼の意見 (kare no iken - his opinion)    |
-| から (kara)    | from                      |                                           |
-| すると (suru to)| leads to a conclusion    | すると、〜となる (suru to, ~to naru - leads to ~) |
-## Comparative Analysis
-### Comparison with Similar Grammar Points
-- **～から見て (kara mite)**: This is similar but emphasizes a viewpoint rather than a conclusive judgment. 
-  - Example: 彼から見て、私は… (From his perspective, I am…)
-  
-- **～に対して (ni taishite)**: This indicates a response or relation rather than a judgment.
-  - Example: その結果に対して (Regarding that result)
-**Nuance:** While all these structures express perspective, ～からすると directly leads to a judgment or conclusion based on that perspective.
-## Examples in Context
+### Detailed Explanation
+- **Usage**: Attach **からすると** to a noun to indicate that you're making a judgment or inference based on that noun.
+- **Nuance**: It suggests that, from the standpoint of the evidence provided by the noun, the speaker concludes something.
+- **Variations**: 
+  - **からすれば** has a similar meaning but may emphasize the standpoint slightly more.
+  - **からして** can also be used but sometimes carries a nuance of "even" or highlights an extreme example.
+---
+## 3. Comparative Analysis
+### Similar Grammar Points
+1. **～によると (〜ni yoru to)**
+   - **Meaning**: "According to..."
+   - **Usage**: Used to report information obtained from a source.
+   - **Difference**: Focuses on relaying information, not making an inference.
+2. **～にとって (〜ni totte)**
+   - **Meaning**: "For (someone)..."
+   - **Usage**: Expresses the perspective or opinion of a person.
+   - **Difference**: Indicates personal relevance, not necessarily used for making judgments based on evidence.
+---
+## 4. Examples in Context
 ### Sentence Examples
-1. **Formal:** 
-   - 学生の立場からすると、もっと自由な時間が必要です。
-   - (From the standpoint of students, more free time is necessary.)
-   
-2. **Informal:** 
-   - 彼女の気持ちからすると、ちょっと難しいよね。
-   - (Considering her feelings, it's a bit difficult, right?)
-  
-3. **Written:** 
-   - 専門家からすると、この問題は深刻です。
-   - (From the perspective of experts, this problem is serious.)
-4. **Spoken:** 
-   - 親からすると、子供を守りたいと思うのが普通だよね。
-   - (From a parent's perspective, it's natural to want to protect their child.)
-## Cultural Notes
+1. **彼の態度からすると、今日は機嫌が悪いようだ。**
+   - *Kare no taido kara suru to, kyō wa kigen ga warui yō da.*
+   - **Translation**: "Judging from his attitude, he seems to be in a bad mood today."
+2. **この足跡からすると、昨夜誰かが庭に入ったようだ。**
+   - *Kono ashiato kara suru to, sakuya dareka ga niwa ni haitta yō da.*
+   - **Translation**: "Judging from these footprints, someone seems to have entered the garden last night."
+3. **彼女の話し方からすれば、彼女はこの件について何も知らないと思う。**
+   - *Kanojo no hanashikata kara sureba, kanojo wa kono ken ni tsuite nani mo shiranai to omou.*
+   - **Translation**: "Considering the way she talks, I think she doesn't know anything about this matter."
+4. **あの服装からして、彼はエンジニアではないかもしれない。**
+   - *Ano fukusō kara shite, kare wa enjinia dewa nai kamo shirenai.*
+   - **Translation**: "Even judging from that outfit alone, he might not be an engineer."
+5. **専門家の意見からすると、この計画は成功するだろう。**
+   - *Senmonka no iken kara suru to, kono keikaku wa seikō suru darō.*
+   - **Translation**: "Based on the experts' opinions, this plan will probably succeed."
+### Usage in Different Contexts
+- **Formal Writing**: Commonly used in essays, reports, and formal analyses.
+- **Casual Speech**: Used in daily conversations to express thoughts and inferences.
+---
+## 5. Cultural Notes
 ### Cultural Relevance
-Using this structure indicates awareness of varying perspectives, which is important in Japanese culture emphasizing harmony and consideration of others' feelings. Depending on the context, the speaker must adjust their politeness level when using this structure.
-### Politeness Levels
-- Use in formal situations when discussing professional or academic topics.
-- More casual in personal conversations among friends, but still convey respect for the other person's perspective.
-### Idiomatic Expressions
-- Often used with phrases like "見るからすると" (miru kara suru to - from observing) which indicates visual judgment.
-## Common Mistakes and Tips
+- **Indirectness in Communication**: Japanese language often uses indirect expressions to convey thoughts politely. **～からすると** allows the speaker to suggest an inference without making a direct statement, aligning with cultural preferences for subtlety.
+### Levels of Politeness and Formality
+- The grammar point itself is neutral.
+- Politeness is adjusted through verb endings and honorific language in the sentence, not through **からすると**.
+---
+## 6. Common Mistakes and Tips
 ### Error Analysis
-1. **Confusing with Similar Structures:** Ensure not to mix up with ～から見て (kara mite), which is more observational rather than conclusive.
-2. **Incorrect Noun Use:** Ensure the reference point is clear and relevant to the situation being discussed.
+1. **Incorrect Attachment**
+   - **Wrong**: *面白いからすると、この映画は見たほうがいい。*
+   - *Omoshiroi kara suru to, kono eiga wa mita hō ga ii.*
+   - **Issue**: **からすると** should be attached to a noun, not an adjective.
+   - **Correct**: *評判の良さからすると、この映画は見たほうがいい。*
+   - *Hyōban no yosa kara suru to, kono eiga wa mita hō ga ii.*
+   - **Explanation**: Changed to a noun **評判の良さ** (the good reputation).
+2. **Confusion with ～によると**
+   - **Wrong**: *天気予報からすると、明日は雨が降る。*
+   - *Tenki yohō kara suru to, ashita wa ame ga furu.*
+   - **Issue**: Should use **～によると** when reporting information.
+   - **Correct**: *天気予報によると、明日は雨が降る。*
+   - *Tenki yohō ni yoru to, ashita wa ame ga furu.*
 ### Learning Strategies
-- **Mnemonic Device:** Think of "kara" as "from" and "suru to" as "leading to" help reinforce the idea of drawing conclusions from a specific perspective.
-- **Practice with Context:** Use in daily conversations to practice and recognize appropriate applications.
-## Summary and Review
+- **Remember the Noun Link**: Ensure **からすると** is attached to a noun. If you have an adjective or verb, consider converting it into a noun form.
+- **Practice with Observations**: Look around and make inferences based on what you see using **～からすると**.
+---
+## 7. Summary and Review
 ### Key Takeaways
-- **Meaning:** ～からすると expresses judgment based on a specific perspective.
-- **Structure:** [Noun] + から + すると
-- **Nuances:** Similar to but distinct from ～から見て (kara mite) and ～に対して (ni taishite).
+- **～からすると** is used to make judgments or inferences based on evidence or perspective, attaching to nouns.
+- Can be translated as "judging from...", "considering...", "based on...".
+- Be careful not to confuse it with **～によると**, which is used for citing sources.
 ### Quick Recap Quiz
-1. What does ～からすると translate to in English?
-2. How does it differ from ～から見て?
-3. Give an example sentence using ～からすると. 
-These questions should help reinforce your understanding of the grammar point!
+1. **Fill in the Blank**
+   **彼の声の様子______、彼は風邪をひいたようだ。**
+   - **Answer**: からすると
+2. **True or False**
+   You can attach **からすると** directly to adjectives.
+   - **Answer**: False
+3. **Choose the Correct Sentence**
+   a) *この写真を見るからすると、彼女は元気そうだ。*
+   b) *この写真からすると、彼女は元気そうだ。*
+   - **Answer**: b)
+---
+Congratulations! You've learned how to use **～からすると** to express inferences and judgments in Japanese. Keep practicing by observing situations and forming sentences using this structure.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

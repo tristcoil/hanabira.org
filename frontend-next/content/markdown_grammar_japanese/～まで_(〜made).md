@@ -1,148 +1,130 @@
 Processing keyword: ～まで (〜made)
 # Japanese Grammar Point: ～まで (〜made)
-# Japanese Grammar: ～まで (〜made)
+
 ## 1. Introduction
-The grammar point ～まで (〜made) is used in Japanese to express a range of meanings including "until," "up to," "to," and "as far as." It is a versatile marker that can indicate a limit in time, distance, or quantity. Understanding how to properly use ～まで is essential for conveying precise meanings in conversations.
+In Japanese, the particle **まで** (made) is commonly used to express the idea of "until," "up to," or "as far as." It indicates the end point of an action, time period, location, or even an extent. Mastering **まで** will enhance your ability to describe limits and durations in Japanese effectively.
+
 ---
 ## 2. Core Grammar Explanation
-### Detailed Explanation
-- **Meaning**: 
-  - The primary meaning of ～まで is "until" or "up to," indicating the endpoint of an action or situation.
-  
-- **Structure**:
-  - The construction is typically used with nouns, verbs, or adjectives. The basic structure is:
-    - **Noun + まで**
-    - **Verb (る-form) + まで**
-    - **Adjective + まで**
-### Formation Diagram
-- **Example Structures**:
-```
-(1) Noun: 東京まで (Tōkyō made) - "up to Tokyo"
-(2) Verb: 行くまで (iku made) - "until [I] go"
-(3) Adjective: 暑いまで (atsui made) - "until it's hot"
-```
+### Meaning
+- **まで** means **"until," "up to," "as far as,"** or **"to the extent of."**
+- It denotes the end point or limit of an action, time, place, or condition.
+### Structure
+**まで** is attached directly to nouns, verbs, or phrases without any additional particles.
+### Formation
+| Usage                   | Formation                    |
+|-------------------------|------------------------------|
+| **Time Expressions**    | **Time + まで**              |
+| **Place Expressions**   | **Place + まで**             |
+| **Action/State**        | **Verb (dictionary form) + まで** |
+### Examples
+- **Time:**  
+  - **午前9時まで** (*gozen kuji made*)  
+    *Until 9 AM*
+- **Place:**  
+  - **駅まで** (*eki made*)  
+    *Up to the station*
+- **Action/State:**  
+  - **雨が止むまで** (*ame ga yamu made*)  
+    *Until the rain stops*
 ---
 ## 3. Comparative Analysis
-### Comparison with Similar Grammar Points
-- **ときまで (toki made)**: This indicates a specific time and is typically less interchangeable with time periods than まで.
-- **のあいだ (no aida)**: Refers to "in between" and indicates a span without the implication of an endpoint.
-- **までは (made wa)**: This adds emphasis, sometimes suggesting "even" or "as far as." For instance, "日本までは行った" means "I went as far as Japan."
+### まで vs. までに
+- **まで** indicates **"until"**, focusing on the continuation of an action up to a certain point.
+- **までに** means **"by"**, emphasizing the deadline or time limit by which something should be completed.
+| Particle | Meaning     | Usage Example                     | Translation                      |
+|----------|-------------|-----------------------------------|----------------------------------|
+| まで     | Until       | 昼まで寝ます。                   | I will sleep until noon.         |
+| までに    | By          | 昼までにレポートを提出します。   | I will submit the report by noon.|
+### まで vs. だけ
+- **まで** indicates an end point or limit.
+- **だけ** means **"only"** or **"just"**, expressing exclusivity.
+| Particle | Meaning     | Usage Example                      | Translation                       |
+|----------|-------------|------------------------------------|-----------------------------------|
+| まで     | Until       | 駅まで歩きます。                  | I will walk up to the station.    |
+| だけ     | Only        | 一人だけ来ました。                | Only one person came.             |
 ---
 ## 4. Examples in Context
-### Sentence Examples
-1. **Informal**: 
-   - 明日までに宿題を出してね。(Ashita made ni shukudai o dashite ne.)
-   - "Please submit your homework by tomorrow."
-2. **Formal**: 
-   - 会議は五時まで続きます。(Kaigi wa go-ji made tsuzukimasu.)
-   - "The meeting will continue until 5:00."
-3. **Written**: 
-   - この道は南まで続いています。(Kono michi wa minami made tsuduite imasu.)
-   - "This road continues south."
-4. **Spoken**: 
-   - お店は八時まで開いてるよ。(Omise wa hachi-ji made aiteru yo.)
-   - "The store is open until 8:00."
+### Formal Speech
+1. **会議は5時まで続きます。**  
+   *Kaigi wa go-ji made tsudzukimasu.*  
+   *The meeting will continue until 5 o'clock.*
+2. **この電車は次の駅まで止まりません。**  
+   *Kono densha wa tsugi no eki made tomarimasen.*  
+   *This train doesn't stop until the next station.*
+### Informal Speech
+1. **映画が終わるまで待ってて。**  
+   *Eiga ga owaru made mattete.*  
+   *Wait until the movie ends.*
+2. **宿題が終わるまで遊べないよ。**  
+   *Shukudai ga owaru made asobenai yo.*  
+   *I can't play until I finish my homework.*
+### Written Language
+1. **彼は成功を収めるまで努力を続けた。**  
+   *Kare wa seikō o osameru made doryoku o tsudzuketa.*  
+   *He continued his efforts until he achieved success.*
+2. **雨が止むまで、ここで待ちましょう。**  
+   *Ame ga yamu made, koko de machimashō.*  
+   *Let's wait here until the rain stops.*
+### Spoken Language
+1. **店は夜9時まで開いています。**  
+   *Mise wa yoru ku-ji made aiteimasu.*  
+   *The store is open until 9 PM.*
+2. **この道をまっすぐ行けば、駅まで行けますよ。**  
+   *Kono michi o massugu ikeba, eki made ikemasu yo.*  
+   *If you go straight on this road, you can get to the station.*
 ---
 ## 5. Cultural Notes
 ### Cultural Relevance
-- In Japanese culture, time and punctuality are considered very important. Using まで properly indicates not only your intention but also your respect for other people's time.
-### Idiomatic Expressions
-- "海まで行こう！" (Umi made ikou!) - "Let's go to the sea!" 
-- This reflects casual talk among friends about plans.
+- **まで** is neutral in formality but pairs with verbs and expressions that can vary in politeness.
+- It's often used in both casual and formal contexts to indicate limits naturally.
+### Levels of Politeness
+- The politeness level is determined by the verb forms and overall sentence structure, not by **まで** itself.
+  - **Formal polite:** します (shimasu)
+  - **Informal casual:** する (suru)
+### Idiomatic Expressions Using まで
+1. **死ぬまで** (*shinu made*)  
+   *Until death; for a lifetime*  
+   - **例:** *彼女を死ぬまで愛します。*  
+     *Kanojo o shinu made aishimasu.*  
+     *I will love her until I die.*
+2. **これまで** (*kore made*)  
+   *Until now; up to this point*  
+   - **例:** *これまでお世話になりました。*  
+     *Kore made osewa ni narimashita.*  
+     *Thank you for everything up to now.*
 ---
 ## 6. Common Mistakes and Tips
 ### Error Analysis
-- **Common Mistake**: Confusing まで with から (kara) which means "from." Remember, まで marks an endpoint, whereas から marks a starting point.
-  
+- **Common Mistake:** Using **までに** when **まで** is appropriate, and vice versa.
+  - **Incorrect:** *午後5時までに働きます。*  
+    *(Gogo go-ji made ni hatarakimasu.)*  
+    *I will work by 5 PM.*
+  - **Correction:** *午後5時まで働きます。*  
+    *(Gogo go-ji made hatarakimasu.)*  
+    *I will work until 5 PM.*
 ### Learning Strategies
-- **Mnemonic Device**: Associate "まで" with "made," the English word, to remember that it leads to a destination or endpoint.
-- Visualizing a finish line can help reinforce the concept of reaching an endpoint or limit.
+- **Tip:** Remember that **まで** indicates a continuous action up to a point, like stretching a rubber band **until** it snaps.
+- **Practice:** Create pairs of sentences using **まで** and **までに** to become familiar with their differences.
 ---
 ## 7. Summary and Review
 ### Key Takeaways
-- **Function**: Indicates "until," "up to," "to," and implies an endpoint.
-- **Structures**: Primarily used with nouns, verbs, and adjectives.
-- **Cultural Aspect**: Reflects the importance of timing in Japanese society.
+- **まで** expresses the end point or limit of an action, time, or place.
+- It translates to **"until," "up to,"** or **"as far as."**
+- Attach **まで** directly to nouns or the dictionary form of verbs.
+- Be careful not to confuse **まで** (until) with **までに** (by [a deadline]).
 ### Quick Recap Quiz
-1. What does ～まで mean?
-2. How do you use it with a verb?
-3. Provide an example sentence using ～まで in a formal context. 
+1. **How do you say "I will wait until 6 o'clock" in Japanese?**  
+   - **Answer:** *6時まで待ちます。*  
+     *(Roku-ji made machimasu.)*
+2. **Which particle indicates a deadline: まで or までに?**  
+   - **Answer:** *までに*
+3. **Translate to English: 彼女は帰国するまで日本語を勉強します。**  
+   - **Answer:** *She will study Japanese until she returns to her country.*
 ---
-By understanding and practicing this grammar point, students can articulate their thoughts more clearly and appropriately in Japanese.
-Processing keyword: ～まで (〜made)
-# Japanese Grammar Point: ～まで (〜made)
-# Grammar Point: ～まで (〜made)
-## Introduction
-The Japanese grammar point ～まで (〜made) is used to express the idea of "until" or "up to" a certain point in time or space. This can refer to both physical locations and temporal limits. Understanding how to use 〜まで correctly will enhance your ability to describe actions and situations in both written and spoken Japanese.
+Feel free to revisit the examples and explanations to reinforce your understanding of **まで**. With practice, using **まで** will become a natural part of your Japanese communication!
+
+
 ---
-## Core Grammar Explanation
-### Meaning and Structure
-1. **Temporal Use (Time)**: 
-   - 〜まで can indicate a time limit. It implies that something occurs up to that specific time.
-   - **Structure**: [Time/Date] + まで
-   - **Example**: 
-     - 午後5時まで働きます (ごごごじまで はたらきます, gogo go-ji made hatarakimasu) - "I will work until 5 PM."
-2. **Spatial Use (Place)**:
-   - 〜まで can also indicate a physical destination, showing the extent of movement or coverage in space.
-   - **Structure**: [Place] + まで
-   - **Example**: 
-     - 東京まで行きます (とうきょうまでいきます, Tōkyō made ikimasu) - "I will go up to Tokyo."
-### Formation Diagram
-```
-Time:
-[Activity/Event] は [Time/Date] まで (です)
- 
-Place:
-[Activity/Event] は [Place] まで (です)
-```
----
-## Comparative Analysis
-### Comparison with Similar Grammar Points
-1. **～まで (〜made) vs. ～から (〜kara)**
-   - 〜まで indicates an endpoint, while 〜から indicates a starting point.
-   - Example: 
-     - 日本からアメリカまで行った (にほんからあめりかまでいった, Nihon kara Amerika made itta) - "I traveled from Japan to America."
-2. **～まで (〜made) vs. ～より (〜yori)**
-   - 〜より indicates "than" or "compared to," whereas 〜まで limits or defines a scope.
-   - Example: 
-     - 彼は私より背が高い (かれはわたしよりせがたかい, Kare wa watashi yori se ga takai) - "He is taller than me."
----
-## Examples in Context
-### Sentence Examples
-1. **Formal Context**:
-   - 明日まで報告書を提出してください (あすまでほうこくしょをていしゅつしてください, Asu made hōkokusho o teishutsu shite kudasai) - "Please submit the report by tomorrow."
-2. **Informal Context**:
-   - 友達は駅まで送ってくれた (ともだちはえきまでおくってくれた, Tomodachi wa eki made okutte kureta) - "My friend took me to the station."
-3. **Written Context**:
-   - このプロジェクトは来月の末まで進める必要があります (このぷろじぇくとはらいげつのまつまですすめるひつようがあります, Kono purojekuto wa raigetsu no matsu made susumeru hitsuyō ga arimasu) - "This project needs to be advanced until the end of next month."
-4. **Spoken Context**:
-   - 休みは昨日までだった (やすみはきのうまでだった, Yasumi wa kinō made datta) - "The holiday was until yesterday."
----
-## Cultural Notes
-### Cultural Relevance
-In Japanese culture, the use of 〜まで is essential for respecting time and space limits during communication. It reflects the importance placed on punctuality and consideration regarding others' time. Being precise about time indicates a sense of responsibility.
-### Levels of Politeness
-The politeness of this expression can be adjusted with the verb forms and context in which it's used. In polite situations, adding です (desu) or ます (masu) forms is typical.
-### Idiomatic Expressions
-- いつまで (いつまで, itsu made) - “Until when”
-- どこまで (どこまで, doko made) - “Up to where”
----
-## Common Mistakes and Tips
-### Error Analysis
-- **Common Mistake**: Confusing 〜まで with までに (made ni), which indicates a deadline by which something should be done.
-  - Correct usage: 作業は午後5時までに終わります (さぎょうはごごごじまでにおわります, Sagyō wa gogo go-ji made ni owarimasu) - "The work will be finished by 5 PM."
-### Learning Strategies
-- **Mnemonic Device**: Remember that 〜まで denotes limits: you "went up to" or "stopped until" a certain point.
-- Visualize a line, where you cannot go beyond this line indicates where 〜まで ends.
----
-## Summary and Review
-### Key Takeaways
-- 〜まで indicates a limit in time or space.
-- It can be used in both formal and informal contexts.
-- It is crucial for describing actions with respect to time and physical destinations.
-### Quick Recap Quiz
-1. What does 〜まで mean in English?
-2. How would you say “until next week” in Japanese?
-3. Provide an example sentence using 〜まで to express a location.
----
-Feel free to reach out for further clarification on any points or for more examples!
+
+© [Hanabira.org](https://hanabira.org)

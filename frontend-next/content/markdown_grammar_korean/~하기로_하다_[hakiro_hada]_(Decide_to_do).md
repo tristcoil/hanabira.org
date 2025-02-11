@@ -1,75 +1,92 @@
 Processing keyword: ~하기로 하다 [hakiro hada] (Decide to do)
 # Korean Grammar Point: ~하기로 하다 [hakiro hada] (Decide to do)
-# Grammar Point: ~하기로 하다 (hakiro hada) - "Decide to do"
+
 ## 1. Introduction
-The Korean grammar point **~하기로 하다** is a useful structure that means "to decide to do (something)." It is commonly used when expressing a decision or resolution regarding an action.
+In this lesson, we'll explore the grammar point **~하기로 하다**, which is used to express the decision to do something in Korean. Mastering this structure will enable you to convey your intentions and plans effectively, enhancing your communication skills in various contexts.
+
+---
 ## 2. Core Grammar Explanation
 ### Detailed Explanation
-**~하기로 하다** is made up of two components:
-- **~하다 (hada)**: which means "to do."
-- **~기 (gi)**: is a gerund form that turns verbs into nouns.
-The structure essentially combines these parts to express the idea of making a decision to perform a specific action. 
-### Structure
-The general structure can be outlined as follows:
-```
-Verb stem + (으)ㄹ + 기로 하다
-```
-- If the verb stem ends with a consonant, use **(으)ㄹ** 
-- If the verb stem ends with a vowel, just add **ㄹ**
+**~하기로 하다** is a grammatical construction used to indicate that someone has decided or made up their mind to perform a certain action. It combines the nominalized form of a verb with the expression **-기로 하다**, meaning "to decide to do."
+### Meaning, Structure, and Formation Diagram
+**Meaning**: To decide to do something.
+**Structure**:
+- **Verb Stem** + **-기** + **로 하다**
+**Components**:
+1. **Verb Stem**: The base form of the verb without **-다**.
+2. **-기**: Nominalizer that turns the verb into a noun (gerund form).
+3. **로**: Particle meaning "to" or "for," indicating purpose.
+4. **하다**: Verb "to do."
 ### Formation Diagram
-| Verb Stem   | Ending Form      | Example                               | Translation                   |
-|-------------|------------------|---------------------------------------|-------------------------------|
-| 가다 (gada) | 갈 + 기로 하다   | 가기로 하다                          | Decide to go                  |
-| 먹다 (meokda)| 먹을 + 기로 하다 | 먹기로 하다                          | Decide to eat                 |
-| 사다 (sada)  | 살 + 기로 하다   | 사기로 하다                          | Decide to buy                 |
+| Component       | Function            | Example                               |
+|-----------------|---------------------|---------------------------------------|
+| Verb Stem       | Base form of verb   | 먹**다** → 먹                         |
+| + **-기**       | Nominalizer         | 먹**기**                              |
+| + **로 하다**   | Decide to do        | 먹기로 하다 (decide to eat)           |
+---
 ## 3. Comparative Analysis
-### Similar Grammar Points
-- **~기로 하다** vs **~기로 결정하다 (gyeoljeonghada)**
-    - Both can mean "to decide," but **~기로 하다** is more common in everyday conversation, while **~기로 결정하다** is more formal and often used in written contexts.
+Let's compare **~하기로 하다** with similar grammar points:
+### **~(으)려고 하다** (To intend to do)
+- **Usage**: Expresses intention or plan to do something.
+- **Example**: 공부하려고 해요. (I intend to study.)
+### **Difference**:
+- **~하기로 하다** implies a decision has been made.
+- **~(으)려고 하다** indicates an intention but not necessarily a firm decision.
+---
 ## 4. Examples in Context
 ### Sentence Examples
-1. **Formal Context:**
-   - 결혼하기로 하였어요.
-   - (Gyeolhonhagiro hayeosseoyo.)
-   - "I decided to get married."
-2. **Informal Context:**
-   - 내일 영화를 보기로 했어.
-   - (Nael yeonghwareul bogiro haesseo.)
-   - "I decided to watch a movie tomorrow."
-3. **Written Context:**
-   - 연구를 계속하기로 했다.
-   - (Yeongureul gyesokhagiro haetda.)
-   - "I decided to continue the research."
-4. **Spoken Context:**
-   - 주말에 여행하기로 했어?
-   - (Jumare yeohaenghagiro haesseo?)
-   - "Did you decide to travel on the weekend?"
+1. **내일부터 일찍 일어나기로 했어요.**
+   - *I decided to wake up early from tomorrow.*
+2. **우리는 주말에 여행을 가기로 했습니다.**
+   - *We decided to go on a trip this weekend.*
+3. **사장님과 회의하기로 했다.**
+   - *I decided to have a meeting with the boss.*
+4. **친구와 같이 공부하기로 해요.**
+   - *Let's decide to study together with a friend.*
+5. **저녁으로 피자를 먹기로 했어.**
+   - *I decided to eat pizza for dinner.*
+---
 ## 5. Cultural Notes
 ### Cultural Relevance
-In Korean culture, decisions often involve consultation or agreement with others, especially in group settings. Thus, using ~하기로 하다 can indicate personal resolution but may also reflect a consensus.
-### Levels of Politeness
-The formality of this expression can be adjusted by changing the verb ending based on the audience:
-- **Informal:** 하기로 해.
-- **Polite:** 하기로 해요.
-- **Formal:** 하기로 하였습니다.
+- **Collective Decision-Making**: In Korean culture, decisions are often made collectively. Using **~하기로 하다** can reflect a group decision or consensus.
+- **Politeness Levels**: Showing respect through appropriate verb endings is crucial.
 ### Idiomatic Expressions
-- "결심하다 (gyeolsimhada)" - means "to resolve" or "to determine," and often overlaps with the notion of making a decision.
+- **담배를 끊기로 하다**: To decide to quit smoking.
+  - **올해는 담배를 끊기로 했어요.**
+    - *I decided to quit smoking this year.*
+- **약속을 지키기로 하다**: To decide to keep a promise.
+  - **꼭 약속을 지키기로 했습니다.**
+    - *I decided to definitely keep my promise.*
+---
 ## 6. Common Mistakes and Tips
 ### Error Analysis
-- A common mistake is using **~기로 하다** improperly with embedded sentences (e.g., missing the verb form).
-- Example of a mistake: "영화를 봐기로 하다." (should be „영화를 보기로 하다”)
+1. **Forgetting the Nominalizer -기**:
+   - Incorrect: 운동**으로 하다**
+   - Correct: 운동**하기로 하다**
+   - *Always include **-기** to nominalize the verb.*
+2. **Misusing Particles**:
+   - Incorrect: 만나**가** 하다
+   - Correct: 만나**기로** 하다
+   - *Use the correct particle **-기로**.*
 ### Learning Strategies
-- Use a mnemonic such as "HAGA (decide) to do it!" to remember the structure.
+- **Mnemonic Device**: Remember "**Verb Stem + 기 → noun form (the act of doing)**"; then "**기로 하다**" means "**decide to do the act**."
+- **Practice Conjugation**: Apply this structure with different verbs to become familiar.
+---
 ## 7. Summary and Review
 ### Key Takeaways
-- **~하기로 하다** means "to decide to do."
-- The structure includes converting verb stems into noun forms with **~기**.
-- Varies in politeness levels based on context.
+- **~하기로 하다** is used to express the decision to do an action.
+- Structure: **Verb Stem + 기로 하다**.
+- Ensure you use the nominalizer **-기** and the particle **-로** correctly.
+- Adjust the level of politeness by conjugating **하다** appropriately.
 ### Quick Recap Quiz
-1. How do you say "I decided to run" in Korean?
-   - Answer: **달리기로 하다 (dalligiro hada)**.
-   
-2. What is the more formal version of using ~기로 하다?
-   - Answer: **~기로 하였습니다**. 
-3. Is ~기로 하다 only used in spoken language?
-   - Answer: No, it can be used in both spoken and written contexts.
+1. **Fill in the blank**: 영화(______) 봐요. (*I decide to watch a movie.*)
+   - **Answer**: **보기로**
+2. **True or False**: **~하기로 하다** expresses an intention without a firm decision.
+   - **Answer**: **False** (It expresses a firm decision.)
+3. **Correct the mistake**: 공부**하로** 했어요.
+   - **Answer**: 공부**하기로** 했어요.
+---
+By understanding and practicing **~하기로 하다**, you'll be able to effectively communicate decisions and plans in Korean, enhancing both your language skills and cultural comprehension.
+
+---
+© [Hanabira.org](https://hanabira.org)

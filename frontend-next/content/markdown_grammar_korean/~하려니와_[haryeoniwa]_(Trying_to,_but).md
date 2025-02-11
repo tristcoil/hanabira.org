@@ -1,72 +1,95 @@
 Processing keyword: ~하려니와 [haryeoniwa] (Trying to, but)
 # Korean Grammar Point: ~하려니와 [haryeoniwa] (Trying to, but)
-# Grammar Point: ~하려니와 [haryeoniwa] (Trying to, but)
+
 ## 1. Introduction
-The expression ~하려니와 is a Korean grammar point used to indicate that the speaker is attempting to do something but is also acknowledging an opposing or contrasting situation. It’s similar to saying “I’m trying to …, but …” in English. It conveys a sense of effort or intention while recognizing limitations or difficulties.
-## 2. Core Grammar Explanation 
-### Detailed Explanation
-~하려니와 consists of:
-- **하(하다)**: to do
-- **려(으려)**: indicates an intention or effort (often through future tense)
-- **니와**: conjunction that adds contrast (meaning and but)
-When used together, it reflects that the speaker is trying to perform an action but faces contrasting circumstances.
+In this lesson, we'll explore the advanced Korean grammar point **~하려니와**, pronounced *haryeoniwa*. This expression is used to indicate that while you are trying or intending to do something, there's an opposing situation or additional consideration.
+
+---
+## 2. Core Grammar Explanation
+### Meaning
+**~하려니와** translates to:
+- "Trying to..., but"
+- "I intend to..., however"
+It expresses a contrast between an intention and a complicating factor or an additional action.
 ### Structure
-- Basic form: **Verb Stem + 하려니와**
-- Usage: 
-  - The verb stem is usually derived from action verbs in their dictionary form.
-  
+The structure of **~하려니와** is as follows:
+- **Verb stem + 하려니와**
 ### Formation Diagram
-```
-[Verb Stem] + 하려니와
-       ↓
-       Trying to Verb, but ...
-```
-### Visual Aids
-| Components     | Meaning                     |
-|----------------|-----------------------------|
-| 하다           | to do                       |
-| 려(으려)      | (in order) to (do)         |
-| 니와          | and, but                    |
+1. **Take the verb stem** (remove **-다** from the dictionary form).
+2. **Add 하려니와** to the verb stem.
+#### Example:
+| Dictionary Form | Verb Stem | + 하려니와 | Meaning                 |
+|-----------------|-----------|-----------|-------------------------|
+| 공부하다        | 공부하     | 하려니와   | Trying to study, but... |
+---
 ## 3. Comparative Analysis
-The grammar point ~하려니와 can be compared to other similar expressions:
-- **~려고 하다 [ryeogo hada]**: This structure indicates a plan or intention without the contrasting element.
-  - Example: **가려고 해요. (I’m planning to go.)**
-- **~지만 [jiman]**: This is a contrasting conjunction, but it does not express the intention to try something.
-  - Example: **가고 싶지만, 바빠요. (I want to go, but I’m busy.)**
-### Key Difference:
-- ~하려니와 emphasizes an effort coupled with contrast, while ~려고 하다 merely states an intention.
+### Similar Grammar Points
+| Grammar Point  | Meaning                       | Usage                                     |
+|----------------|-------------------------------|-------------------------------------------|
+| ~(으)려고 하지만 | "I'm trying to..., but"         | Common in both spoken and written language |
+| ~고자 하지만    | "I intend to..., but"          | Formal, often in written context           |
+| ~하려니와       | "Trying to..., but also..."     | Formal, adds an additional consideration   |
+### Nuances
+- **~하려니와** adds not just a contrast but often an additional action or consideration.
+- It is more formal and less commonly used in everyday conversation compared to **~(으)려고 하지만**.
+---
 ## 4. Examples in Context
-### Sentence Examples
-1. **음식을 만들려고 하려니와 시간이 없어요.**  
-   (I’m trying to make food, but I don't have time.)
-   
-2. **공부하려니와 집중하기가 어렵네요.**  
-   (I’m trying to study, but it’s hard to concentrate.)
-3. **운동을 하려니와 날씨가 너무 추워요.**  
-   (I’m trying to exercise, but the weather is too cold.)
-4. **영화를 보려니와 이미 예약이 다 차버렸어요.**  
-   (I’m trying to watch a movie, but all the reservations are already full.)
+### Example Sentences
+1. **Formal Written**
+   - **회사를 발전시키려니와 직원들의 복지도 중요합니다.**
+     - *Trying to develop the company, but the welfare of employees is also important.*
+2. **Formal Spoken**
+   - **환경을 보호하려니와 경제 성장도 고려해야 합니다.**
+     - *Trying to protect the environment, but we also need to consider economic growth.*
+3. **Academic Context**
+   - **연구를 진행하려니와 예산이 부족하여 어려움을 겪고 있습니다.**
+     - *Trying to proceed with the research, but facing difficulties due to lack of funding.*
+4. **Business Setting**
+   - **신제품을 출시하려니와 시장의 반응을 예측하기 어렵습니다.**
+     - *Trying to launch a new product, but it's hard to predict the market response.*
+### Sentence Breakdown
+#### Example 1
+- **회사를 발전시키려니와**
+  - *Trying to develop the company, but*
+- **직원들의 복지도 중요합니다.**
+  - *the welfare of employees is also important.*
+---
 ## 5. Cultural Notes
-### Cultural Relevance
-In Korean culture, acknowledging one's efforts while recognizing challenges reflects humility and a realistic perspective on situations. This grammar point connects well with the Korean social value of perseverance despite hardships.
-### Levels of Politeness
-When using this structure in formal settings, opt for using higher politeness levels:
-- **하실려니와** instead of **하려니와** in very formal conversations.
-### Idiomatic Expressions
-- **노력하려니와 (but I’m trying)** is often used during discussions about aspirations versus the struggles of daily life.
+### Politeness and Formality
+- **~하려니와** is used in **formal contexts** such as academic writing, official speeches, or formal reports.
+- It reflects a high level of politeness and is not commonly used in everyday casual conversations.
+### Usage in Korean Culture
+- Emphasizes the importance of considering multiple factors or responsibilities.
+- Reflects the Korean value of harmony by acknowledging different aspects of a situation.
+---
 ## 6. Common Mistakes and Tips
-### Error Analysis
-- **Omission of “하”**: Learners might mistakenly drop the ‘하’ and say “려니와,” which is incorrect.
-- **Incorrect verb stem usage**: Always ensure the correct verb stem is used before 하려니와.
-### Learning Strategies
-- **Mnemonic Device**: Associate "하" with "doing," and think of "trying to do (다), but (와)..." to remember the structure.
+### Common Mistakes
+1. **Using in Informal Contexts**
+   - **Incorrect:** 친구를 만나려니와 시간이 없어.
+     - *(Trying to meet a friend, but I have no time.)* – Too formal for casual talk.
+   - **Correct:** 친구를 만나려고 하지만 시간이 없어.
+     - *(I'm trying to meet a friend, but I have no time.)*
+2. **Misplacing the Grammar Point**
+   - **Incorrect:** 발전시키려니와 회사를 직원들의 복지도 중요합니다.
+   - **Correct:** 회사를 발전시키려니와 직원들의 복지도 중요합니다.
+### Tips
+- **Remember the Formality:** Use **~하려니와** in formal settings.
+- **Practice with Formal Writing:** Incorporate it into essays or speeches to get comfortable with its usage.
+---
 ## 7. Summary and Review
 ### Key Takeaways
-- ~하려니와 means “I’m trying to …, but …”
-- It combines an expression of intention with a contrasting outcome.
-- Useful in both informal and formal contexts with slight variations in politeness.
+- **~하려니와** expresses an intention with a contrasting or additional consideration.
+- It is used with verb stems and is formal in tone.
+- Appropriate for formal writing and speeches.
 ### Quick Recap Quiz
-1. What does ~하려니와 express in a sentence?
-2. Compare ~하려니와 with another grammar point of your choice.
-3. Provide an example sentence using ~하려니와.
-By mastering the use of ~하려니와, learners can effectively communicate their aspirations and challenges in Korean settings.
+1. **What does ~하려니와 mean?**
+   - *Answer:* "Trying to..., but" or "I intend to..., however"
+2. **Is ~하려니와 suitable for casual conversation?**
+   - *Answer:* No, it's used in formal contexts.
+3. **How do you attach ~하려니와 to the verb 시작하다 (to start)?**
+   - *Answer:* 시작하려니와
+---
+By understanding and practicing **~하려니와**, you enhance your ability to express complex ideas formally in Korean. Remember to consider the context and formality when using this grammar point.
+
+---
+© [Hanabira.org](https://hanabira.org)

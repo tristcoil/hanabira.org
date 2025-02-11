@@ -1,84 +1,109 @@
 Processing keyword: A。すると B。(~suruto)
 # Japanese Grammar Point: A。すると B。(~suruto)
-# A。すると B。 Grammar Point (~suruto)
+
 ## 1. Introduction
-The structure **A。すると B。** is commonly used in Japanese to indicate that when action A occurs, action B follows as a result. It expresses a causal or sequential relationship between two events.
+In this lesson, we'll explore the Japanese grammar point **「A。すると B。」**, pronounced *~すると*. This structure is used to indicate that upon the completion of action A, action B immediately follows, often with a sense of surprise or unexpectedness.
+
 ---
 ## 2. Core Grammar Explanation
-### Detailed Explanation
-**する** (suru) means "to do," and **と** (to) is a particle used to indicate a condition or result. When combined, **する** (suru) with **と** creates a conditional sentence that translates to "when A happens, B happens."
-- **Meaning**: If A happens, then B happens.
-- **Structure**: 
-  - **A**: The condition or action that triggers another event.
-  - **すると**: Connecting the two actions.
-  - **B**: The resultant action or event.
+### Meaning
+**すると** connects two sentences to mean:
+- "Then...",
+- "And then...",
+- "Thereupon...",
+- "Immediately after..."
+It implies that **B** happens directly after **A**, sometimes with a causal relationship or element of surprise.
+### Structure
+```plaintext
+[Sentence A in the past tense]。すると [Sentence B]。
+```
+- **Sentence A**: An action or event that has occurred.
+- **すると**: Conjunction meaning "then" or "and then".
+- **Sentence B**: The subsequent action or event that happens immediately after A.
 ### Formation Diagram
-```
-A (Condition Action) + すると + B (Result Action)
-```
+| Component          | Function                            |
+|--------------------|-------------------------------------|
+| **Sentence A**。   | Describes the first action/event    |
+| **すると**          | Conjunction meaning "then/and then" |
+| **Sentence B**。   | Describes the following action/event|
 ---
 ## 3. Comparative Analysis
-The grammar point **すると** can be compared to other conditional phrases such as **~ば** (ba), **~たら** (tara), and **~場合は** (baai wa). Here are some differences:
-| Grammar Point | Usage                                | Examples                             |
-|---------------|--------------------------------------|-------------------------------------|
-| する (suruto) | Indicates a direct result or sequence| 日本に行く。すると、友達に会う。<br>(I go to Japan. Then, I meet my friend.)|
-| ば (ba)       | Shows a hypothetical or general condition | 雨が降れば、行きません。<br>(If it rains, I won't go.)|
-| たら (tara)   | Similar to ~ba, but emphasizes completion | 終わったら、遊びに行く。<br>(When I finish, I will go play.)|
-| 場合は (baai wa) | Indicates a specific circumstance or case | 都合が悪い場合は変更します。<br>(In case of inconvenience, I will change it.)|
+### Similar Grammar Points
+| Grammar Point    | Meaning                            | Nuance                                           |
+|------------------|------------------------------------|--------------------------------------------------|
+| **そして**       | "And", "And then"                  | Simply adds information; sequential but less immediate |
+| **それから**     | "After that", "And then"           | Indicates sequence; can imply a time gap         |
+| **すると**       | "Then", "Thereupon"                | Immediate succession; often unexpected or surprising |
+- **Difference**: **すると** emphasizes that action B occurs immediately after action A, sometimes unexpectedly. **そして** and **それから** denote sequence but without the immediacy or surprise.
 ---
 ## 4. Examples in Context
-### Sentence Examples
-1. **Formal**:
-   - **日本に到着すると、すぐに連絡します。**
-   - *Nihon ni touchaku suruto, sugu ni renraku shimasu.*  
-   - *(When I arrive in Japan, I will contact you right away.)*
-2. **Informal**:
-   - **宿題を終えると、遊びに行こう！**
-   - *Shukudai o oeru to, asobi ni ikou!*  
-   - *(When I finish my homework, let's go play!)*
-  
-3. **Written**:
-   - **彼は仕事を終えると、すぐに家に帰った。**
-   - *Kare wa shigoto o oeru to, sugu ni ie ni kaetta.*  
-   - *(He went home right after finishing work.)*
-4. **Spoken**:
-   - **朝ごはんを食べると、元気になるよ。**
-   - *Asagohan o taberu to, genki ni naru yo.*  
-   - *(When you eat breakfast, you will feel energetic.)*
+### Example 1
+**Sentence**:
+- 子供たちは遊びに出かけた。すると、雨が降り始めた。
+**Reading**:
+- こどもたちは あそびに でかけた。すると、あめが ふりはじめた。
+**Translation**:
+- "The children went out to play. *Then*, it began to rain."
+### Example 2
+**Sentence**:
+- ドアを開けた。すると、猫が飛び出してきた。
+**Reading**:
+- ドアを あけた。すると、ねこが とびだしてきた。
+**Translation**:
+- "I opened the door. *Thereupon*, a cat jumped out at me."
+### Example 3
+**Sentence**:
+- 薬を飲んだ。すると、すぐに痛みが消えた。
+**Reading**:
+- くすりを のんだ。すると、すぐに いたみが きえた。
+**Translation**:
+- "I took the medicine. *Then*, the pain immediately went away."
+### Example 4 (Formal/Written)
+**Sentence**:
+- 研究結果を分析した。すると、予想外の事実が明らかになった。
+**Reading**:
+- けんきゅうけっかを ぶんせきした。すると、よそうがいの じじつが あきらかになった。
+**Translation**:
+- "We analyzed the research results. *Then*, unexpected facts came to light."
 ---
 ## 5. Cultural Notes
 ### Cultural Relevance
-The use of **すると** can reflect the Japanese cultural emphasis on cause and effect relationships in daily conversation. Understanding the sequence of actions is important, especially in formal or business contexts where clarity is essential.
-### Levels of Politeness
-Using **すると** is neutral in politeness and can be adapted to formal or casual conversations depending on the verbs surrounding it. 
+- **すると** is commonly used in storytelling and narratives.
+- It helps build suspense or highlight surprising developments.
 ### Idiomatic Expressions
-- **「帰るときに電話する。」**  
-  *(I will call you when I am leaving.)*  
-  - This reflects the understanding of time and sequence commonly utilized in Japanese culture.
+- **するとどうだろう**: "Then, what do you think happened?" Used to pique interest before revealing something surprising.
 ---
 ## 6. Common Mistakes and Tips
-### Error Analysis
-1. **Incorrect Verb Forms**: Learners often forget to use the correct verb form before **すると**; ensure that A is correctly conjugated.
-   - **Incorrect**: 本を読む、すると眠くなる。 
-   - **Correct**: 本を読むと、眠くなる。
-2. **Applying to Non-Sequential Events**: Using **すると** in situations where events do not follow sequentially.
-   - Be aware that **すると** should only be used where a clear sequence exists.
-### Learning Strategies
-- **Mnemonic Device**: Think of **すると** as "Then" in English. This helps in visually remembering its sequential nature.
-  
+### Common Mistakes
+1. **Using すると without proper context**: Since **すると** implies immediacy and sometimes surprise, using it for unrelated or long-separated events can sound unnatural.
+   - **Incorrect**: 朝ごはんを食べた。すると、寝た。
+   - **Correct**: 朝ごはんを食べた。それから、寝た。
+2. **Confusing with そして**: Remember that **そして** simply connects actions in a sequence but lacks the immediacy or unexpectedness of **すると**.
+### Tips
+- **Mnemonic Device**: Think of **する** (to do) + **と** (if/when), implying "when you do A, then B happens."
+- To check if **すると** fits, see if B follows A immediately and if there's an element of surprise.
 ---
 ## 7. Summary and Review
 ### Key Takeaways
-- **すると** signifies a direct sequential relationship between two actions.
-- It is commonly used in both spoken and written Japanese.
-- Ensure the proper verb form is used in conjunction with this grammar.
+- **すると** is a conjunction meaning "then" or "and then," used to indicate that action B occurs immediately after action A.
+- Often carries a sense of immediacy or unexpectedness.
+- Common in narratives to build suspense or highlight surprising events.
 ### Quick Recap Quiz
-1. Translate and identify the structure: **雨が降る。すると、試合が中止になる。**
-   - Answer: If it rains, the game gets canceled.
-2. Fill in the blank: **家に着くと、______。**
-   - Example Answer: 友達が待っている。 *(My friend is waiting.)*
-3. Choose the correct form: **もう食べたら、 ______。**
-   - a) すると遊びます  
-   - b) すると遊びに行く  
-   - **Correct answer**: b) すると遊びに行く
+1. What does **すると** imply about the relationship between actions A and B?
+   A) They happen simultaneously.
+   B) B happens long after A.
+   C) B happens immediately after A, often unexpectedly.
+2. Choose the correct conjunction:  
+   映画を見た。____、感動して泣いてしまった。
+   A) そして
+   B) すると
+   **Answers**:
+   1. C) B happens immediately after A, often unexpectedly.
+   2. B) すると
 ---
+By understanding **「A。すると B。」**, you can enhance your storytelling in Japanese, making your narratives more engaging and natural.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

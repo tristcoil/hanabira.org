@@ -1,78 +1,144 @@
 Processing keyword: どんな Noun (donna)
 # Japanese Grammar Point: どんな Noun (donna)
-# Japanese Grammar Point: どんな (donna)
-## Introduction
-"どんな" (donna) is an important Japanese phrase that means "what kind of" or "what type of." It is used to inquire about the nature or characteristics of a noun. This expression is essential for asking questions about things, people, and concepts.
-## Core Grammar Explanation
-### Detailed Explanation
-- **Meaning:** 
-  "どんな" is used to ask about the type or quality of something. It requires a noun (person, object, etc.) to complement it.
-- **Structure:**
-  The basic structure using "どんな" is:
-  
-  ```
-  どんな + Noun
-  ```
-  
-- **Formation Diagram:**
-  
-  ```plaintext
-  Question Form:
-  どんな Noun ですか？
-   
-  Example:
-  どんな本ですか？ (What kind of book is it?)
-  ```
-### Visual Aids
-| **Question Structure** | **Example**          | **Translation**              |
-|------------------------|----------------------|------------------------------|
-| どんな + Noun          | どんな映画ですか？      | What kind of movie is it?    |
-| どんな + Noun          | どんな人が好きですか？ | What kind of person do you like? |
-## Comparative Analysis
-### Similar Grammar Points
-- **何 (nani):** This means "what" but is used more generally to ask for specific items or information (e.g., 何が好きですか？ - What do you like?).
-- **どこ (doko):** This means "where" and is used to ask for locations, thus focusing on place rather than type.
-### Differences
-- "どんな" specifically inquires about types and qualities, while "何" is more broad and can be about anything that can be objects, actions, or ideas.
-## Examples in Context
+
+## 1. Introduction
+In this lesson, we'll explore the Japanese question word **どんな** (donna), which is used to ask about the kind or type of something. Mastering **どんな** will help you inquire about various characteristics and preferences in everyday conversations.
+
+---
+## 2. Core Grammar Explanation
+### Meaning
+**どんな** translates to **"what kind of..."** or **"what sort of..."** in English. It's used to ask about the nature, type, or characteristics of a noun.
+### Structure
+The basic structure is:
+```plaintext
+どんな + Noun
+```
+- **どんな** modifies the noun that follows.
+- It can be used with a wide range of nouns, both tangible and abstract.
+### Formation Diagram
+```markdown
+[Question Word]  +  Noun
+     どんな         音楽
+(Donna)          (Ongaku)
+```
+![どんな Formation Diagram](https://i.imgur.com/formation-diagram.png)
+---
+## 3. Comparative Analysis
+### Comparing どんな with Similar Question Words
+| Question Word | Meaning             | Usage                                   | Example                                       |
+|---------------|---------------------|-----------------------------------------|-----------------------------------------------|
+| **どれ**      | Which one           | Asking among multiple items             | **どれが好きですか。**<br>(_Which one do you like?_) |
+| **どの**      | Which + Noun        | Modifies a noun when choices are known  | **どの本がいいですか。**<br>(_Which book is good?_)   |
+| **なんの**    | What + Noun         | Asks about content or purpose           | **なんの音楽ですか。**<br>(_What music is it?_)       |
+| **どんな**     | What kind of + Noun | Asks about type or characteristics      | **どんな音楽が好きですか。**<br>(_What kind of music do you like?_) |
+- **どの** is used when selecting from known options.
+- **なんの** asks for identification or content.
+- **どんな** inquires about the type or nature.
+---
+## 4. Examples in Context
 ### Sentence Examples
-1. **Formal:**
-   - どんな音楽が好きですか？  
-     *(What kind of music do you like?)*
-    
-2. **Informal:**
-   - どんなゲームしてる？  
-     *(What kind of games are you playing?)*
-3. **Written:**
-   - 彼女はどんな仕事をしていますか？  
-     *(What kind of job does she have?)*
-    
-4. **Spoken:**
-   - どんなスポーツが一番楽しい？  
-     *(What kind of sports are the most fun?)*
-## Cultural Notes
+#### Formal Situations
+1. **どんな映画がお好きですか。**
+   - *Donna eiga ga o-suki desu ka.*
+   - "What kind of movies do you like?"
+2. **お仕事ではどんなことをしますか。**
+   - *O-shigoto de wa donna koto o shimasu ka.*
+   - "What kind of things do you do at work?"
+#### Informal Situations
+3. **週末はどんな予定があるの？**
+   - *Shūmatsu wa donna yotei ga aru no?*
+   - "What kind of plans do you have for the weekend?"
+4. **どんなスポーツが得意？**
+   - *Donna supōtsu ga tokui?*
+   - "What kind of sports are you good at?"
+#### Written Context
+5. **この本はどんな内容ですか。**
+   - *Kono hon wa donna naiyō desu ka.*
+   - "What kind of content does this book have?"
+#### Casual Conversation
+6. **彼はどんな人？**
+   - *Kare wa donna hito?*
+   - "What kind of person is he?"
+---
+## 5. Cultural Notes
 ### Cultural Relevance
-In Japanese, asking about the characteristics of a person or object can indicate interest and respect. Using "どんな" can facilitate deeper conversations and is often seen as polite due to its inquisitive nature. 
+- **どんな** is versatile and commonly used in daily conversations.
+- It reflects interest and engagement when asking about someone's preferences or experiences.
 ### Levels of Politeness
-Using "どんな" in questions tends to be neutral. It's polite enough for most situations but doesn't carry the same weight of formality as other structures could (like どのような (dono you na) for more formal inquiries).
-### Idiomatic Expressions
-- どんなもんだい (donna mondai): What kind of problem is this?
-  
-## Common Mistakes and Tips
+- Adding **ですか** or **ますか** makes the question more formal.
+  - **どんな食べ物が好きですか。** (_Formal_)
+  - **どんな食べ物が好き？** (_Casual_)
+### Idiomatic Expressions Using どんな
+1. **どんな時でも**
+   - *Donna toki demo*
+   - "Anytime" or "At any time"
+2. **どんな場合でも**
+   - *Donna baai demo*
+   - "In any case" or "Under any circumstances"
+---
+## 6. Common Mistakes and Tips
 ### Error Analysis
-- A common mistake is using "何" instead of "どんな" when the sentence requires inquiring about the type. Remember, "どんな" is specifically for types and characteristics.
+#### Common Mistake 1: Using どんな without a Noun
+- **Incorrect:** **どんなが好きですか。**
+- **Correct:** **どんな食べ物が好きですか。**
+  - *Donna tabemono ga suki desu ka.*
+  - "What kind of food do you like?"
+**Tip:** Always follow **どんな** with a noun to specify what you're asking about.
+#### Common Mistake 2: Confusing どんな with どうやって (How)
+- **Incorrect Usage:** Using **どんな** to ask "how."
+  - **どんな学校に行きますか。** (_Incorrect if intending to ask "How do you go to school?"_)
+- **Correct Usage:** Use **どうやって** for "how."
+  - **どうやって学校に行きますか。**
+  - *Dō yatte gakkō ni ikimasu ka.*
+  - "How do you go to school?"
 ### Learning Strategies
-- **Mnemonic Device:** Associate "どんな" with "Donuts" (both start with "do") to remember it's about asking "what kind of." Imagine asking, “What kind of donuts do you have?”
-## Summary and Review
+- **Mnemonic Device:** Remember **どんな** as **"Don-na kind?"** The "Don" sounds like "Don" in "Don't know," prompting you to ask about the kind.
+- **Practice Pairing:** Make a list of nouns and practice pairing them with **どんな** to form questions.
+  - **どんな音楽...**
+  - **どんな映画...**
+  - **どんな場所...**
+---
+## 7. Summary and Review
 ### Key Takeaways
-- "どんな" means "what kind of" and is used to inquire about the characteristics of nouns.
-- The structure is simple: どんな + Noun.
-- It is polite and suitable for various contexts.
+- **どんな** means **"what kind of..."** and is used to ask about the type or nature of something.
+- The structure is **どんな + Noun**.
+- Always follow **どんな** with a noun; it cannot stand alone.
+- It differs from other question words like **どの** (which) and **なんの** (what/which).
 ### Quick Recap Quiz
-1. How do you ask "What kind of person is she?" in Japanese?
-   - Answer: どんな人ですか？
-  
-2. True or False: "どんな" can be used interchangeably with "何."
-   - Answer: False
-3. Give one example sentence using "どんな."
-   - (Example answer: どんな本が好きですか? - What kind of book do you like?)
+#### Question 1
+Fill in the blank with the correct question word:
+**______色が好きですか。**  
+*(What kind of color do you like?)*
+- a) どの
+- b) どんな
+- c) なんの
+<details><summary>Answer</summary>
+**b) どんな**
+</details>
+
+#### Question 2
+Is the following sentence correct? If not, correct it:
+**どんなが一番人気ですか。**
+<details><summary>Answer</summary>
+**Incorrect.**
+**Correct Sentence:** **どんな商品が一番人気ですか。**  
+(*Donna shōhin ga ichiban ninki desu ka.*)  
+"What kind of product is the most popular?"
+**Explanation:** **どんな** must be followed by a noun.
+</details>
+
+#### Question 3
+Translate to Japanese:
+"What kind of books does she read?"
+<details><summary>Answer</summary>
+**彼女はどんな本を読みますか。**  
+*Kanojo wa donna hon o yomimasu ka.*
+</details>
+
+---
+By understanding and practicing the use of **どんな**, you'll be able to ask more detailed questions and engage in richer conversations in Japanese. Keep practicing by creating your own sentences!
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

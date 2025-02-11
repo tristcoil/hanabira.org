@@ -1,80 +1,142 @@
 Processing keyword: ~해 보이다 [hae boida] (Look/seem to be)
 # Korean Grammar Point: ~해 보이다 [hae boida] (Look/seem to be)
-# Grammar Point: ~해 보이다 [hae boida] (Look/seem to be)
+
 ## 1. Introduction
-The grammar structure ~해 보이다 is used in Korean to express how something looks or seems from the speaker's perception. It can describe physical appearance, emotions, or general impressions.
+In Korean, the grammar point **~해 보이다 [~hae boida]** is used to express that someone or something appears or seems to be in a certain state based on visual perception. It translates to **"looks"** or **"seems to be"** in English and is commonly used to describe observations or first impressions.
+
 ---
 ## 2. Core Grammar Explanation
-### Detailed Explanation
-- **Structure**: Verb Stem + 해 보이다
-- This structure combines the verb 하다 (to do) in its 변형 (modified) form, 해 (hae), with 보이다 (to be seen or to be revealed).
-- The meaning of ~해 보이다 is roughly "to look" or "to seem" based on observation.
-### Meaning and Formation Diagram
-- **Meaning**: To express a subjective observation about someone's or something's appearance or state.
-- **Formation**:
-  - Take the verb stem (the root of a verb), attach 해 (hae), followed by 보이다 (boida).
-  - Example: 
-    - Verb: 예쁘다 (to be pretty)
-    - Verb stem: 예쁨 (yeppeum) + 해 보이다 → 예뻐 보이다 (to look pretty)
-| Verb      | Verb Stem | 해 보이다         | Translation          |
-|-----------|-----------|--------------------|-----------------------|
-| 예쁘다    | 예쁨     | 예뻐 보이다       | Looks pretty          |
-| 아프다    | 아픔     | 아파 보이다       | Seems to be hurt      |
-| 슬프다    | 슬픔     | 슬퍼 보이다       | Looks sad             |
+## Meaning
+**~해 보이다** is attached to the stem of an adjective to indicate that something appears or looks a certain way to the speaker. It conveys a subjective observation based on what the speaker sees.
+## Structure
+### Formation Diagram
+```markdown
+[Adjective Stem] + 아/어 보이다
+```
+### How to Attach **아/어 보이다**
+1. **For adjective stems ending with vowels ㅏ or ㅗ:**
+   - Attach **아 보이다**
+2. **For adjective stems ending with other vowels:**
+   - Attach **어 보이다**
+3. **For adjective stems ending with 하다:**
+   - Replace **하다** with **해 보이다**
+---
+## Examples of Formation
+| Adjective (Dictionary Form) | Adjective Stem | Ending | Conjugation         | Meaning                |
+|-----------------------------|----------------|--------|----------------------|------------------------|
+| 작다 (to be small)          | 작             | ㅏ     | 작아 보이다          | Looks small            |
+| 크다 (to be big)            | 크             | ㅡ     | 커 보이다            | Looks big              |
+| 예쁘다 (to be pretty)       | 예쁘           | ㅡ     | 예뻐 보이다          | Looks pretty           |
+| 피곤하다 (to be tired)      | 피곤하         | 하     | 피곤해 보이다        | Looks tired            |
 ---
 ## 3. Comparative Analysis
-- **Similar Grammar Points**:
-  - **~같다 [gatda]**: This also expresses similarity, but it’s used more for direct comparisons. For example, "그는 학생 같아요" (He looks like a student).
-  - **~처럼 [cheoreom]**: Meaning "as if" or "like", it gives a comparative nuance. For example, "구름처럼 보인다" (Looks like a cloud).
-| Grammar Point | Meaning          | Usage Example                            |
-|---------------|------------------|-----------------------------------------|
-| 해 보이다     | Looks/Seems      | 너무 피곤해 보여요. (You look very tired.) |
-| 같아          | Seems Like       | 너는 학생 같아. (You seem like a student.) |
-| 처럼          | As If/Like       | 꽃처럼 보여요. (Looks like a flower.)  |
+## **~해 보이다** vs. **~같다**
+While both grammar points express a perception or assumption, they are used differently:
+- **~해 보이다**: Used with adjectives to express that something looks or appears a certain way based on visual cues.
+  - *그 사람은 행복해 보여요.*  
+    *(That person looks happy.)*
+- **~같다**: Used with nouns and verb stems to indicate that something is similar to something else or to speculate.
+  - *그 사람은 행복한 것 같아요.*  
+    *(I think that person is happy.)*
+## Key Differences
+| **~해 보이다**                          | **~같다**                                |
+|----------------------------------------|------------------------------------------|
+| Used with adjectives                   | Used with nouns and verb stems           |
+| Based on visual observation            | Based on assumption or indirect evidence |
+| Translates to "looks" or "seems to be" | Translates to "seems like" or "think that" |
 ---
 ## 4. Examples in Context
-### Sentence Examples
-1. **Formal**
-   - 이 영화가 재미있어 보입니다.
-     - (Iseu yeonghwa-ga jaemiisseo boimnida.)
-     - Translation: This movie looks interesting.
-2. **Informal**
-   - 너 오늘 기분이 좋아 보여.
-     - (Neo oneul gibuni joha boyeo.)
-     - Translation: You seem to be in a good mood today.
-3. **Written**
-   - 그 사람은 신뢰할 수 있을 것처럼 보인다.
-     - (Geu saram-eun sinloehalsu isseul geoscheoreom boinda.)
-     - Translation: That person seems trustworthy.
-4. **Spoken**
-   - 날씨가 좋으니까 밖에 나가면 기분이 좋게 보일 것 같아.
-     - (Nalssiga joheunikka bakke nagamyeon gibuni johaul geot gata.)
-     - Translation: Since the weather is nice, I think my mood will look good if I go outside.
+## Sentence Examples
+### Formal Situations
+1. **그분은 젊어 보입니다.**  
+   *(He/She looks young.)*
+2. **이 음식은 맛있어 보여요.**  
+   *(This food looks delicious.)*
+### Informal Situations
+1. **오늘 기분이 좋아 보여!**  
+   *(You look happy today!)*
+2. **날씨가 추워 보여.**  
+   *(The weather looks cold.)*
+### Written Context
+1. **하늘이 맑아 보였다.**  
+   *(The sky looked clear.)*
+2. **그들의 관계는 가까워 보였다.**  
+   *(Their relationship seemed close.)*
+### Spoken Context
+1. **너 피곤해 보여. 좀 쉬는 게 어때?**  
+   *(You look tired. How about taking a rest?)*
+2. **그 영화 재미있어 보였어?**  
+   *(Did that movie look interesting?)*
 ---
 ## 5. Cultural Notes
-### Cultural Relevance
-- The usage of ~해 보이다 often reflects the importance of social relationships in Korean culture. Observing how someone "looks" can indicate concern or connection.
-- **Politeness Levels**: The formality of your observation can change depending on whom you're speaking to. In more formal contexts, using the polite forms is crucial.
-### Idiomatic Expressions
-- **기분이 우울해 보이다.**
-  - (Gibuni uulhae boida.)
-  - Translation: Seems to be feeling depressed.
+## Cultural Relevance
+- **Visual Politeness:** In Korean culture, commenting on someone's appearance is common but should be done politely, especially with elders or superiors.
+- **Indirect Communication:** Using **~해 보이다** allows for indirect expression, which aligns with the Korean communication style of being less direct to maintain harmony.
+## Levels of Politeness
+The verb **보이다** can be conjugated to match the appropriate level of politeness:
+| Politeness Level | Conjugation     | Example                              |
+|------------------|-----------------|--------------------------------------|
+| Formal           | 보입니다         | 행복해 보입니다 (You look happy.)     |
+| Standard         | 보여요           | 행복해 보여요 (You look happy.)       |
+| Informal         | 보여             | 행복해 보여 (You look happy.)         |
+---
+## Idiomatic Expressions
+- **수상해 보이다**  
+  *(To look suspicious)*
+  - *그 사람이 좀 수상해 보여요.*  
+    *(That person looks a bit suspicious.)*
+- **멀어 보이다**  
+  *(To look distant/far)*
+  - *목적지가 아직도 멀어 보여요.*  
+    *(The destination still looks far away.)*
 ---
 ## 6. Common Mistakes and Tips
-### Error Analysis
-- **Confusing**: Many learners confuse using ~해 보이다 with direct verb conjugation. Remember, ~해 보이다 specifically expresses observation.
-- **Negation**: Negating this structure can cause misunderstanding. Use "안" before 보이다. For example, "안 좋아 보여요." (You don’t look good.)
-### Learning Strategies
-- **Mnemonic Device**: Remember that "해" relates to doing, while "보이다" relates to seeing. Together, they connect actions observed.
+## Common Mistakes
+### 1. Using **~해 보이다** with Action Verbs
+**Incorrect:**  
+- *먹어 보이다*  
+  *(Looks eat)*
+**Correct:**  
+- *맛있어 보이다*  
+  *(Looks delicious)*
+**Explanation:**  
+- **~해 보이다** is generally used with adjectives, not action verbs.
+### 2. Confusing with **~아/어 보다** (To Try)
+**Incorrect Usage:**  
+- *그 옷을 예쁘어 봐요.*  
+  *(Try being pretty in those clothes.)*
+**Correct Usage:**  
+- *그 옷이 예뻐 보여요.*  
+  *(Those clothes look pretty.)*
+**Explanation:**  
+- **~아/어 보다** means "to try doing something," whereas **~아/어 보이다** means "to look/seem."
+## Learning Strategies
+- **Visual Association:** Associate **보이다** with "to be seen" or "appears," helping you remember it's about perception.
+- **Practice with Adjectives:** Make a list of common adjectives and practice conjugating them with **~해 보이다**.
 ---
 ## 7. Summary and Review
-### Key Takeaways
-- ~해 보이다 is used to express perceived appearance or state.
-- It offers subjective observation rather than factual information.
-- Know the difference between similar expressions to avoid confusion.
-### Quick Recap Quiz
-1. What does ~해 보이다 mean?
-2. Provide an example sentence using ~해 보이다 in past tense.
-3. Compare ~해 보이다 with ~같다 using a sentence example.
+## Key Takeaways
+- **~해 보이다** is used to express that something **looks** or **seems** a certain way based on visual observation.
+- It is attached to **adjective stems** with **아/어 보이다**.
+- Do not confuse with **~아/어 보다**, which means **"to try doing something."**
+- Be mindful of the level of politeness when using **보이다**.
 ---
-By mastering ~해 보이다, you will enhance your ability to make observations and convey perceptions in Korean, enriching your conversational skills.
+## Quick Recap Quiz
+1. **Fill in the blank:**  
+   The grammar structure used to express that something looks a certain way is **\[Adjective Stem\] + __________**.
+   **Answer:** 아/어 보이다
+2. **True or False:**  
+   You can use **~해 보이다** with action verbs.
+   **Answer:** False
+3. **Choose the correct sentence:**  
+   a) 그 음식이 먹어 보여요.  
+   b) 그 음식이 맛있어 보여요.
+   **Answer:** b) 그 음식이 맛있어 보여요.
+4. **Translate to Korean using **~해 보이다****:  
+   "She looks busy."
+   **Answer:** 그녀는 바빠 보여요.
+---
+By understanding and practicing **~해 보이다**, you can better express your observations and perceptions in Korean, making your conversations more nuanced and natural.
+
+---
+© [Hanabira.org](https://hanabira.org)

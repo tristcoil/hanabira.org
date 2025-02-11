@@ -1,62 +1,107 @@
 Processing keyword: 아/어/여 놓다 [a/eo/yeo nohda] (Leave something as is)
 # Korean Grammar Point: 아/어/여 놓다 [a/eo/yeo nohda] (Leave something as is)
-# Korean Grammar Point: 아/어/여 놓다 [a/eo/yeo nohda] (Leave something as is)
-## Introduction
-The Korean expression 아/어/여 놓다 is used to indicate that something has been left in a particular state or position. It conveys that an action has been completed, and its result remains in effect, highlighting the permanence or continuation of that state.
-## Core Grammar Explanation
-### Detailed Explanation
-1. **Meaning**: It expresses that an action was done and that something has been left in a certain state.
-2. **Structure**: The basic structure involves attaching 아/어/여 놓다 to a verb stem. The choice between 아/어/여 depends on the last vowel of the verb stem:
-   - Use **아** after stems ending in ㅏ or ㅗ.
-   - Use **어** after stems ending in any other vowel.
-   - Use **여** after stems ending in 하 (하다).
-3. **Formation**: 
-   - Verb stem + 아/어/여 + 놓다
-### Visual Aid: Verb Ending Chart
-| Verb Stem Ending | Suffix | Example Verb  | Formed Expression     | Translation               |
-|-------------------|--------|---------------|------------------------|---------------------------|
-| ㅏ or ㅗ          | 아     | 가다 (gada)   | 가 + 아 + 놓다 = 가 놓다 | To leave (in a state of going) |
-| Other vowels      | 어     | 먹다 (meokda) | 먹 + 어 + 놓다 = 먹어놓다 | To leave (in a state of eating) |
-| 하                | 여     | 하다 (hada)   | 하 + 여 + 놓다 = 하여놓다 | To leave (in a state of doing) |
-## Comparative Analysis
-- **Similar Points**: Often confused with the forms 두다 (to put) or 보다 (to see) which don't imply the same nuance of leaving something in a completed state.
-- **Differences**: Unlike 아/어/여 놓다, using 두다 just states an action without the implication that the result has maintained a particular condition.
-## Examples in Context
-### Sentence Examples
-1. **Formal Context**:
-   - 책을 책상 위에 놓아 놓았습니다.
-     - (Chegeul chaeksang wie noha nohassseumnida.)
-     - "I have left the book on the desk."
-2. **Informal Context**:
-   - 나는 음식 먹어 놓을게.
-     - (Naneun eumsik meogeo noheulge.)
-     - "I will leave the food eaten (for later)."
-3. **Written Context**:
-   - 문서가 서랍에 정리해 놓았습니다.
-     - (Munseoga seorabe jeongnihae nohassseumnida.)
-     - "The documents have been organized and left in the drawer."
-4. **Spoken Context**:
-   - 가방에 옷을 넣어 놓았어?
-     - (Gabang-e os-eul neoh-eo noh-ass-eo?)
-     - "Did you leave the clothes in the bag?"
-## Cultural Notes
+
+## 1. Introduction
+Understanding the grammar point **아/어/여 놓다** in Korean is essential for expressing actions that have been completed and left in a certain state, often for future use or convenience. This construction adds nuance to your Korean language skills by allowing you to convey intentionality and preparedness.
+
+---
+## 2. Core Grammar Explanation
+### Meaning
+The suffix **아/어/여 놓다** is attached to the verb stem to indicate that an action has been completed and the result is intentionally left as it is. It implies that something has been done in advance, often for a specific purpose or future convenience.
+### Structure
+- **Verb Stem + 아/어/여 놓다**
+### Formation Details
+1. **Identify the Verb Stem:**
+   Remove the dictionary ending **-다** from the verb.
+2. **Choose the Correct Connecting Vowel:**
+   - If the verb stem ends with **아** or **오**, add **아 놓다**.
+   - If the verb stem ends with other vowels, add **어 놓다**.
+   - For verbs ending with **하**, add **여 놓다** (often contracted to **해 놓다**).
+### Formation Diagram
+| Verb Ending            | Connector  | Example Verb | Combined Form  |
+|------------------------|------------|--------------|----------------|
+| Ends with **아** or **오** | 아 놓다     | 사다 (to buy) | 사 + 아 놓다 = **사놓다** |
+| Other vowels           | 어 놓다     | 먹다 (to eat) | 먹 + 어 놓다 = **먹어 놓다** |
+| Verb stem **하**        | 여 놓다<br>(해 놓다) | 공부하다 (to study) | 공부하 + 여 놓다 = **공부해 놓다** |
+---
+## 3. Comparative Analysis
+### **아/어/여 놓다** vs. **아/어/여 두다**
+While both grammar points are used to indicate that an action has been completed and its result remains, there are subtle differences:
+- **아/어/여 놓다**:
+  - Emphasizes that something has been done and intentionally left in that state.
+  - Often used when the action is done for future convenience or use.
+- **아/어/여 두다**:
+  - Focuses on the continuation of a state resulting from an action.
+  - May imply leaving something as it is, possibly unattended.
+**Example:**
+- **문을 열어 놓았어요.**
+  - *I opened the door (and left it open for a purpose).*
+- **문을 열어 두었어요.**
+  - *I opened the door (and left it open, possibly without specific intention).*
+---
+## 4. Examples in Context
+### Formal Context
+1. **회의 자료를 준비해 놓았습니다.**
+   - *I have prepared the meeting materials.*
+2. **숙제를 미리 해 놓았어요.**
+   - *I have done the homework in advance.*
+### Informal Context
+1. **배고플까 봐 음식 좀 만들어 놓았어.**
+   - *I made some food in case you might be hungry.*
+2. **사진을 찍어 놓을게.**
+   - *I'll take a photo (and keep it for later).*
+### Written Context
+1. **친구의 연락처를 기록해 놓았다.**
+   - *I have recorded my friend's contact information.*
+2. **중요한 문서를 파일에 저장해 놓았습니다.**
+   - *I have saved the important document in the file.*
+### Spoken Context
+1. **내일 일찍 출발하려고 짐을 싸 놓았어.**
+   - *I packed my luggage to depart early tomorrow.*
+2. **손님들 오기 전에 의자를 배치해 놓읍시다.**
+   - *Let's arrange the chairs before the guests arrive.*
+---
+## 5. Cultural Notes
 ### Cultural Relevance
-- This grammar point reflects the Korean cultural emphasis on order and cleanliness. Leaving things organized or in specific states is often seen as polite and responsible.
-  
+In Korean culture, being prepared and considering future needs is valued. Using **아/어/여 놓다** reflects a proactive attitude and thoughtfulness, which are appreciated traits in social interactions.
+### Levels of Politeness
+- **-아/어/여 놓습니다**: Highly formal and polite.
+- **-아/어/여 놓았어요**: Polite and commonly used in everyday conversations.
+- **-아/어/여 놓았어**: Casual, used among friends or peers.
 ### Idiomatic Expressions
-- **기대에 놓다 ([gidae-e nohda])**: To leave in anticipation.
-  - Example: 기대에 놓아두다 - "to keep something in anticipation."
-## Common Mistakes and Tips
-### Error Analysis
-- **Confusion with 두다**: Learners often mistakenly use 두다 instead of 놓다, missing the nuance of permanence.
+1. **기억해 놓으세요.**
+   - *Please remember this (and keep it in mind).*
+2. **주소를 적어 놓을게요.**
+   - *I will write down the address (for future reference).*
+---
+## 6. Common Mistakes and Tips
+### Common Mistakes
+1. **Omitting 놓다 After 아/어/여**
+   - Incorrect: **문을 열어.**
+     - Means simply *"Open the door."* (command)
+   - Correct: **문을 열어 놓아.**
+     - *Open the door and leave it open.*
+2. **Using 놓다 with Intransitive Verbs**
+   - **놓다** is typically used with transitive verbs (verbs that take an object).
+   - Be cautious using it with intransitive verbs (e.g., *go*, *come*), as it may not make sense.
 ### Learning Strategies
-- Remember the significance of the verb prefix 아/어/여 to determine the correct form. Mnemonically, think of **놓다** as **“leave it in”**.
-## Summary and Review
+- **Mnemonic Device:** Think of **놓다** as "note" — you *note* something by leaving it as is for future reference.
+- **Practice Combining:** Take common verbs and practice forming the **아/어/여 놓다** construction to become familiar with the pattern.
+---
+## 7. Summary and Review
 ### Key Takeaways
-- 아/어/여 놓다 indicates an action done and left in that state.
-- It's used to emphasize the result of the action rather than the action itself.
+- **아/어/여 놓다** is used to indicate that an action has been completed and intentionally left in that state.
+- It adds the nuance of preparation, consideration, and intentionality.
+- Formation depends on the verb stem and follows regular vowel harmony patterns.
 ### Quick Recap Quiz
-1. What does 아/어/여 놓다 mean?
-2. How do you form the expression based on the verb ending?
-3. Give an example sentence using 아/어/여 놓다 in informal context.
-Make sure to practice using this grammar in both speaking and writing to solidify your understanding!
+1. **Form the **아/어/여 놓다** construction with the verb **닫다** (to close).**
+   **Answer:** 닫 + 아 놓다 = **닫아 놓다** (to close and leave closed)
+2. **What is the meaning of **책을 펴 놓았어요**?**
+   **Answer:** *I have opened the book (and left it open).*
+3. **Explain why **아/어/여 놓다** cannot be used with the verb **걷다** (to walk).**
+   **Answer:** **아/어/여 놓다** is generally used with actions that result in a state that can be left as is. Since **걷다** is an intransitive verb indicating motion, it doesn't result in a state that can be retained, so **걷어 놓다** is not appropriate.
+---
+By mastering **아/어/여 놓다**, you enhance your ability to describe actions that have been completed with an intentional purpose, reflecting a deeper understanding of nuance in the Korean language.
+
+---
+© [Hanabira.org](https://hanabira.org)

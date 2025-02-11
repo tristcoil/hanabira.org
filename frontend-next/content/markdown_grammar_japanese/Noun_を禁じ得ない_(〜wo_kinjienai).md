@@ -1,71 +1,109 @@
 Processing keyword: Noun を禁じ得ない (〜wo kinjienai)
 # Japanese Grammar Point: Noun を禁じ得ない (〜wo kinjienai)
-# Noun を禁じ得ない (〜をきんじえない)
+
 ## 1. Introduction
-The grammar point **Nounを禁じ得ない (〜をきんじえない)** is an expression used in Japanese to convey the idea that one "cannot help but (do something)" or "cannot refrain from (doing something)." It often conveys a strong emotion or reaction.
+In this lesson, we'll explore the Japanese grammar point **Noun を禁じ得ない (〜をきんじえない)**. This expression is used to convey that one **cannot suppress or help but feel** a certain emotion toward something. It's a formal construct often found in written language, such as newspapers, literature, or official reports.
+
 ---
 ## 2. Core Grammar Explanation
-### Detailed Explanation
-- **Structure**: [Noun] + を + 禁じ得ない (きんじえない)
-- **Meaning**: "Cannot help but..." or "Cannot refrain from..."
-- **Use**: This structure emphasizes an unavoidable feeling or reaction towards something.
+### Meaning
+**Noun を禁じ得ない** expresses that the speaker cannot control or suppress an emotion elicited by a particular situation or event. It conveys involuntary feelings that arise naturally.
+### Structure
+The structure of this grammar point is straightforward:
+```
+[Noun] を 禁じ得ない
+```
+- **[Noun]**: A noun representing an emotion or feeling.
+- **を**: Object particle indicating the direct object.
+- **禁じ得ない**: "Cannot suppress" or "cannot help but feel."
 ### Formation Diagram
-```
-[Noun] + を + 禁じ得ない
-```
-### Breakdown
-- **Noun**: The subject you are referring to (e.g., sadness, anger).
-- **禁じ得ない (きんじえない)**: A combination of "禁じる (to prohibit)" and "得ない (cannot obtain)," which together imply that one cannot prohibit oneself from feeling or doing something.
+| Component           | Function                               |
+|---------------------|----------------------------------------|
+| **[Emotion Noun]**  | The emotion felt (e.g., 驚き, 怒り)     |
+| **を**              | Object marker particle                 |
+| **禁じ得ない**       | Cannot suppress / Cannot help but feel |
 ---
 ## 3. Comparative Analysis
-### Comparison with Similar Grammar Points
-- **Nounを避けられない (〜をさけられない)**: "Cannot avoid (doing [something])" – this focuses on avoidance rather than emotional response.
-- **Nounをやむを得ない (〜をやむをえない)**: "Inevitably (must do [something])" – suggests necessity rather than emotional compulsion.
+### Similar Grammar Points
+1. **〜ないではいられない / 〜ずにはいられない**
+   - **Meaning**: Cannot help but do ~ (an action).
+   - **Usage**: Used with verbs to express an uncontrollable action.
+   - **Example**: 笑わないではいられない。("I can't help but laugh.")
+### Differences
+- **〜を禁じ得ない**:
+  - Used with **nouns** (emotions).
+  - Emphasizes inability to suppress feelings.
+  - More formal, often used in writing.
+  
+- **〜ないではいられない / 〜ずにはいられない**:
+  - Used with **verbs**.
+  - Focuses on uncontrollable actions.
+  - Can be used in both spoken and written language.
 ---
 ## 4. Examples in Context
-### Sentence Examples
-1. **Formal Context**: 
-   - 彼の成功を見て、喜びを禁じ得ない。
-   - (かれのせいこうをみて、よろこびをきんじえない。)
-   - "Seeing his success, I cannot help but feel joy."
-2. **Informal Context**: 
-   - この映画を見たら、泣かずにはいられないよ。感動を禁じ得ない。
-   - (このえいがをみたら、なくずにはいられないよ。かんどうをきんじえない。)
-   - "Once you see this movie, you can’t help but cry. I cannot refrain from being moved."
-3. **Written Context**: 
-   - 彼女の演説を聞いて、感銘を受けたことを禁じ得ない。
-   - (かのじょのえんぜつをきいて、かんめいをうけたことをきんじえない。)
-   - "I cannot help but be impressed by her speech."
-4. **Spoken Context**: 
-   - 昨日の試合の結果には、驚きを禁じ得ないね。
-   - (きのうのしあいのけっかには、おどろきをきんじえないね。)
-   - "I can't help but be surprised by the result of yesterday's match."
+### Example Sentences
+1. **彼の勇気ある行動に感動を禁じ得ない。**
+   - *Translation*: "I cannot help but feel moved by his courageous actions."
+   - *Context*: Expressing deep admiration.
+2. **そのニュースを聞いて驚きを禁じ得なかった。**
+   - *Translation*: "I couldn't suppress my astonishment upon hearing the news."
+   - *Context*: Reacting to unexpected information.
+3. **彼女の悲しい物語に涙を禁じ得ない。**
+   - *Translation*: "I cannot hold back my tears at her sad story."
+   - *Context*: Expressing empathy and sorrow.
+4. **政府の対応には疑問を禁じ得ない。**
+   - *Translation*: "I cannot help but doubt the government's response."
+   - *Context*: Questioning or criticizing authority.
+5. **彼の失礼な態度に怒りを禁じ得なかった。**
+   - *Translation*: "I couldn't suppress my anger at his rude behavior."
+   - *Context*: Feeling anger due to someone's actions.
 ---
 ## 5. Cultural Notes
 ### Cultural Relevance
-This expression often reflects a deep emotional state in Japanese culture, where showing feelings openly can be less common than in some Western cultures. Using this expression can demonstrate a level of vulnerability and sincerity.
-### Levels of Politeness and Formality
-The structure can be used in both formal and informal contexts but is especially more impactful in written and formal communication.
+- **Formality**: This expression is **formal** and is commonly used in **written** Japanese, such as newspapers, academic writings, and formal speeches.
+- **Emotional Expression**: Japanese culture often values restraint in emotional expression. Using **〜を禁じ得ない** emphasizes that the emotion is so strong that it cannot be suppressed, which underscores the significance of the situation.
 ### Idiomatic Expressions
-- **感情を禁じ得ない** (かんじょうをきんじえない): "Cannot help but feel emotions."
+While **〜を禁じ得ない** itself is a set phrase, it's often used with certain emotion-related nouns:
+- **驚き** (おどろき): Surprise
+- **悲しみ** (かなしみ): Sadness
+- **怒り** (いかり): Anger
+- **同情** (どうじょう): Sympathy
+- **感動** (かんどう): Being moved
 ---
 ## 6. Common Mistakes and Tips
 ### Error Analysis
-- **Mistake**: Incorrectly using with verbs instead of nouns.
-   - **Correct**: その出来事に対する怒りを禁じ得ない。
-   - **Error**: その出来事に対する怒るを禁じ得ない。 (invalid structure)
+- **Using Verbs Instead of Nouns**: Remember that **〜を禁じ得ない** is used with **nouns**, not verbs.
+  - **Incorrect**: *笑うを禁じ得ない。*
+  - **Correct**: *笑いを禁じ得ない。*
+- **Inappropriate Context**: Avoid using it in casual conversation; it's too formal.
+  - **Incorrect**: *昨日の映画は面白くて笑いを禁じ得ないよ！*
+  - **Correct**: *昨日の映画は面白くて、笑わずにはいられなかったよ！*
 ### Learning Strategies
-- **Mnemonic Device**: Remember "禁じる" (to prohibit) as "prohibiting oneself" from an emotion you wish to express.
+- **Mnemonic Device**: Think of **禁じる** (to prohibit) and **得ない** (cannot obtain), combining to mean "cannot prohibit (suppress)" an emotion.
+- **Practice with Emotion Nouns**: Familiarize yourself with common emotion nouns to use with this expression.
 ---
 ## 7. Summary and Review
 ### Key Takeaways
-- **Nounを禁じ得ない** is used to express that one cannot help but feel a certain way.
-- It reflects emotions and is often used in formal contexts.
-- It has nuances different from expressions that suggest necessity or avoidance.
+- **Noun を禁じ得ない** is used to express that one cannot suppress a certain emotion.
+- It is a **formal** expression, mainly found in written Japanese.
+- The structure is: **[Emotion Noun] を 禁じ得ない**.
 ### Quick Recap Quiz
-1. Translate the following: 彼の気持ちを理解することを禁じ得ない。
-2. Which of the following expresses an emotion: 
-   - A) 彼を褒めることを禁じ得ない 
-   - B) 彼を避けることを禁じ得ない
+1. **Fill in the blank with the correct form**:
+   彼の失敗に（　）を禁じ得ない。
+   a) 笑い  
+   b) 笑う  
+   c) 笑って
+2. **True or False**: 〜を禁じ得ない can be used with verbs.
+3. **Choose the appropriate context for using 〜を禁じ得ない**:
+   a) Informal chat with friends  
+   b) Newspaper article  
+   c) Casual blog post
 ---
-By understanding and practicing this grammar point, learners can effectively express emotions and reactions in various situations in Japanese!
+**Answers**:
+1. a) 笑い  
+2. False  
+3. b) Newspaper article
+
+---
+
+© [Hanabira.org](https://hanabira.org)

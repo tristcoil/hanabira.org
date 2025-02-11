@@ -1,67 +1,122 @@
 Processing keyword: Noun にすら (〜ni sura)
 # Japanese Grammar Point: Noun にすら (〜ni sura)
-# Grammar Point: Noun にすら (〜ni sura)
+
 ## 1. Introduction
-The grammar point **Noun にすら (〜ni sura)** is used to emphasize that even the least expected or the most basic item indicated by the noun is included in a given situation. It conveys a sense of surprise or extremity, often highlighting that something minimal is also affected or included, implying that the situation is more severe or expansive than one might think.
+In this lesson, we'll delve into the Japanese grammar point **Noun にすら (〜ni sura)**. This structure is used to express strong emphasis, similar to saying "even in" or "even at" in English. By mastering **にすら**, you'll be able to convey a deeper level of emphasis and nuance in your Japanese communication.
+
+---
 ## 2. Core Grammar Explanation
-### Detailed Explanation
-- **Meaning**: The phrase **Noun にすら** translates to "even" in English and is often used in negative contexts to stress that even something minimal or expected is not the case.
-- **Structure**:
-  - **Formation**:  
-    ``` 
-    Noun + にすら
-    ```
-- **Usage Context**: 
-  - Typically used in negative sentences or to express disbelief or surprise about a situation.
-### Visual Aids
-| Element       | Example  | Translation                |
-|---------------|----------|----------------------------|
-| Noun          | 猫 (neko) | Cat                        |
-| Constructed Phrase | 猫にすら (neko ni sura) | Even cats               |
+### Meaning
+**にすら** is used to highlight an extreme case or emphasize that even a particular noun, which might be considered an exception or unlikely scenario, is included. It translates to **"even in," "even at,"** or **"even to"** in English.
+### Structure
+**Formation:**
+```
+[Noun] + にすら
+```
+- **に**: Particle indicating direction, location, time, or indirect object.
+- **すら**: Particle meaning "even".
+**Diagram:**
+
+| Component | Function                  |
+|-----------|---------------------------|
+| Noun      | Subject/Subject of emphasis |
+| に        | Direction/Location marker |
+| すら      | Emphatic particle ("even") |
+
+---
+### Example Breakdown
+**Example Sentence:**
+- **彼は疲れて、起き上がる**にすら**力がない。**
+  - *Kare wa tsukarete, okiagaru ni sura chikara ga nai.*
+  - **Translation:** "He is so tired that he doesn't even have the strength to get up."
+**Explanation:**
+- **起き上がる** (okiagaru): to get up.
+- **に** (ni): particle indicating the action towards which "strength" is needed.
+- **すら** (sura): emphasizes "even" the act of getting up.
+- **力がない** (chikara ga nai): doesn't have strength.
+---
 ## 3. Comparative Analysis
-### Comparison with Similar Grammar Points
-- **にすら (ni sura)** vs. **さえ (sae)**
-  - Both indicate "even," but **にすら** often carries a heavier tone of surprise or disbelief, while **さえ** is more neutral and can be used both in positive and negative contexts.
-  - Example:  
-    - **猫さえ見た** (neko sae mita) - "I even saw a cat."  
-    - **猫にすら見えない** (neko ni sura mienai) - "I can't even see a cat."
+### にすら vs. にさえ
+Both **すら** and **さえ** mean "even," but there are subtle differences:
+- **にすら**:
+  - More formal and literary.
+  - Stronger emphasis on the unexpectedness.
+  - Less common in conversational Japanese.
+- **にさえ**:
+  - Commonly used in both spoken and written Japanese.
+  - Slightly less formal.
+  - Neutral emphasis.
+**Example Comparison:**
+1. **彼は自分の名前**にすら**漢字を使わない。**
+   - "He doesn't even use kanji for his own name." (Emphasizes surprise.)
+2. **彼は自分の名前**にさえ**漢字を使わない。**
+   - "He doesn't even use kanji for his own name." (Standard emphasis.)
+---
 ## 4. Examples in Context
-### Sentence Examples
-- **Formal**: 
-  - 彼は友達にすら助けを求めなかった。
-    - *He didn't even ask for help from his friends.*
-- **Informal**: 
-  - この問題は子供にすら解けない。
-    - *This problem is something even a child can't solve.*
-- **Spoken**: 
-  - 彼女は私にすら会いたくないみたいだ。
-    - *It seems she doesn't even want to see me.*
-- **Written**: 
-  - その映画は評論家にすら評価されなかった。
-    - *That movie was not even appreciated by critics.*
+### Formal Written Context
+1. **専門家**にすら**解決できない問題だ。**
+   - *Senmonka ni sura kaiketsu dekinai mondai da.*
+   - **Translation:** "It's a problem that even experts cannot solve."
+2. **彼女は親友**にすら**秘密を明かさなかった。**
+   - *Kanojo wa shinyū ni sura himitsu o akasanakatta.*
+   - **Translation:** "She didn't reveal the secret even to her best friend."
+---
+### Informal Spoken Context
+While **にすら** is less common in spoken Japanese, you might encounter it in more dramatic or emphatic speech.
+1. **昨日は忙しくて食事をする時間**にすら**恵まれなかった。**
+   - *Kinō wa isogashikute shokuji o suru jikan ni sura megumarenakatta.*
+   - **Translation:** "Yesterday I was so busy that I didn't even have time to eat."
+### Additional Examples
+1. **彼は自分**にすら**嘘をついている。**
+   - *Kare wa jibun ni sura uso o tsuite iru.*
+   - **Translation:** "He is lying even to himself."
+2. **その風景は夢**にすら**見たことがない。**
+   - *Sono fūkei wa yume ni sura mita koto ga nai.*
+   - **Translation:** "I've never seen that scenery, not even in my dreams."
+---
 ## 5. Cultural Notes
-### Cultural Relevance
-Using **にすら** reflects a particular cultural nuance in Japanese communication. It often indicates humility or an acknowledgment of a shortcoming, especially in contexts where one might be expected to perform better or achieve more.
+### Formality and Usage
+- **すら** is considered more **formal** and **literary**.
+- Commonly found in **written language**, such as literature, essays, and formal speeches.
+- Using **すら** adds dramatic emphasis and can make the statement feel more profound.
+### Politeness Levels
+- The use of **にすら** does not significantly alter the politeness level but elevates the formality of the sentence.
+- Suitable for formal writing or speeches, less common in casual conversation.
 ### Idiomatic Expressions
-- **権威にすら逆らう** (ken'i ni sura sakarau) - "To go against even authority," demonstrating extreme defiance.
+- **骨身**にすら**染みる**
+  - *Honemi ni sura shimiru*
+  - **Translation:** "To penetrate even to the bones." (Meaning to feel something deeply.)
+---
 ## 6. Common Mistakes and Tips
-### Error Analysis
-- **Common Mistake**: Using **にすら** in a positive context when it typically fits a negative context.
-  - Incorrect: このテストは簡単にすらです。  
-  - Correct: このテストは簡単にすらできなかった。
-  
+### Common Mistakes
+1. **Confusing すら with さえ**
+   - **Incorrect:** 彼は仕事をすること**すら**楽しんでいる。
+   - **Correct (but less common):** 彼は仕事をすること**にすら**楽しんでいる。
+   - **Better with さえ:** 彼は仕事をすること**さえ**楽しんでいる。
+   *Note: In this context, **さえ** is more natural.*
+2. **Using にすら in Casual Speech**
+   - **Tip:** In everyday conversation, opt for **にさえ** to sound more natural.
 ### Learning Strategies
-- To remember this structure, think of contexts where you might express surprise or highlight extremity, allowing the use of "even" in phrases. Associating it with disbelief can solidify its application.
+- **Context Recognition:** Pay attention to the formality of the situation. Use **にすら** in formal contexts.
+- **Practice Substitution:** Try rewriting sentences using both **にすら** and **にさえ** to understand the nuance.
+---
 ## 7. Summary and Review
 ### Key Takeaways
-- **Noun にすら (〜ni sura)** emphasizes that even the least expected situation is included.
-- Typically used in negative statements to express surprise or emphasis.
-- Distinct from similar expressions like **さえ (sae)** in tone and usage.
+- **にすら** adds strong emphasis, translating to "even in/at."
+- It's more formal and often used in written or formal spoken Japanese.
+- Remember that **すら** follows particles like **に** for emphasis.
 ### Quick Recap Quiz
-1. What does **Noun にすら** mean in English?
-2. Provide an example sentence using **Noun にすら** in a negative context.
-3. How does **にすら** differ from **さえ** in usage? 
-Answers:
-1. "Even"
-2. (Examples can vary, such as "彼は母にすら言えなかった。")
-3. **にすら** conveys a sense of surprise or disbelief in negative contexts more strongly than **さえ**.
+1. **What is the main difference between にすら and にさえ?**
+   - **Answer:** **にすら** is more formal and emphasizes unexpectedness, while **にさえ** is more common and neutral in emphasis.
+2. **Translate to Japanese using にすら:**
+   - "She didn't even trust her own judgment."
+   - **Answer:** 彼女は自分の判断**にすら**信頼しなかった。
+3. **True or False:** にすら is commonly used in everyday casual conversations.
+   - **Answer:** False. **にすら** is formal and more common in written language.
+---
+By understanding and practicing **Noun にすら (〜ni sura)**, you can enhance your Japanese language skills, especially in formal writing and speech, to convey strong emphasis and nuance.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

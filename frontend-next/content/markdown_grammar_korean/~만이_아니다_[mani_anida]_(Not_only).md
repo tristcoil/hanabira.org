@@ -1,60 +1,96 @@
 Processing keyword: ~만이 아니다 [mani anida] (Not only)
 # Korean Grammar Point: ~만이 아니다 [mani anida] (Not only)
-# Grammar Point: ~만이 아니다 (mani anida) - Not only
+
+
+---
 ## 1. Introduction
-The expression ~만이 아니다 is used to convey the idea of "not only" something, emphasizing that there is more or that additional factors are involved. It is a useful way to include multiple elements in a sentence.
+In this lesson, we'll explore the Korean grammar point **~만이 아니다**, which translates to **"not only"** in English. This structure is used to indicate that something is **not the only case** or **there are more instances beyond what is mentioned**.
+
+---
 ## 2. Core Grammar Explanation
-### Detailed Explanation
-- **Meaning**: The phrase indicates that the subject is not limited to just one particular aspect, item, or characteristic.
-- **Structure**: The structure typically follows this pattern:
-  
-  **Noun + 만이 아니다**
-  
-  In the case of verbs or adjectives used in the same context, they may be transformed into nominalized forms (e.g., using the verb stem).
+### Meaning
+**~만이 아니다** is used to express that **something is not the only one** or **there is more to consider**. It emphasizes that the mentioned subject or object is **not exclusive**, suggesting the existence of other elements or factors.
+### Structure
+The structure combines a noun or verb/adjective stem with **~만이 아니다**.
+#### Formation:
+1. **With Nouns:**
+   ```
+   Noun + 만이 아니다
+   ```
+2. **With Verbs/Adjectives:**
+   First, convert the verb/adjective into a noun form using **~(으)ㅁ** or **~기**, then add **만이 아니다**.
+   ```
+   Verb/Adjective Stem + ~(으)ㅁ/기 + 만이 아니다
+   ```
 ### Formation Diagram
-```plaintext
-Subject + (이/가) + Noun + 만이 아니다
-```
-### Visual Aids
-| Element        | Description                     | Example                       |
-|----------------|---------------------------------|-------------------------------|
-| Subject        | The focus of the sentence       | 친구 (friend)                |
-| Noun           | The additional detail or factor | 학생 (student)               |
-| Structure      | Indicates 'not only... but also'| 친구만이 아니다 (Not only a friend) |
+| Part of Speech    | Formation                          | Example                            |
+|-------------------|------------------------------------|------------------------------------|
+| Noun              | 명사 + 만이 아니다                 | 학생만이 아니다                    |
+| Verb/Adjective    | 동사/형용사 어간 + 기만이 아니다  | 먹기만이 아니다                   |
+---
 ## 3. Comparative Analysis
-### Similar Expressions
-- **~뿐만 아니라 (ppunman anira)**: This also means "not only... but also," but it’s used when listing additional items or conditions.
-- **Difference**: While ~만이 아니다 can be used more flexibly with nouns or nominalized verbs/adjectives, ~뿐만 아니라 is typically followed by an additional sentence pattern.
+### Comparison with **~뿐만 아니라** (~ppunman anira)
+Both **~만이 아니다** and **~뿐만 아니라** mean **"not only"**, but they differ in usage and formality.
+- **~만이 아니다**: Focuses on **negating exclusivity** of the subject/object.
+  - Example: 그는 학생만이 아니다. (He is **not only a student**.)
+- **~뿐만 아니라**: Means **"not only... but also"**, typically followed by additional information.
+  - Example: 그는 학생일 뿐만 아니라 선생님이기도 하다. (He is **not only a student but also a teacher**.)
+**Key Differences:**
+- **~만이 아니다** is often used to negate and emphasize that the subject/object is not the only one.
+- **~뿐만 아니라** is used to add more information, indicating additional qualities or items.
+---
 ## 4. Examples in Context
-### Sentence Examples
-**Formal Context:**
-1. 이 연구는 학생만이 아니다. (This research is not only for students.)
-2. 이 영화는 흥미롭고 재미있을 만이 아니다. (This movie is not only interesting but also fun.)
-**Informal Context:**
-1. 그 사람은 친구만이 아니야. (That person is not just a friend.)
-2. 오늘은 바쁘지만 재미있을 만이 아니야. (Today is not only busy but also not boring.)
-**Written Context:**
-1. 이 정책은 시민만이 아니다, 외국인도 포함된다. (This policy does not concern only citizens; it also includes foreigners.)
-2. 나는 한국어를 잘하는 사람이 되고 싶다. 학습만이 아니다. 노력도 필요하다. (I want to become someone who speaks Korean well. It’s not only about studying; effort is also necessary.)
-**Spoken Context:**
-1. 그녀는 학생만이 아니야, 선생님이기도 해. (She is not only a student; she is also a teacher.)
-2. 이 제품은 가격이 저렴할 만이 아니다, 품질도 좋아. (This product is not just cheap; its quality is also good.)
+### Example Sentences
+1. **Formal Written Context**
+   - 음악은 **즐거움만이 아니다**.
+     - *Music is **not only for enjoyment**.*
+   - 교육은 **지식 전달만이 아니다**.
+     - *Education is **not only about imparting knowledge**.*
+2. **Informal Spoken Context**
+   - 이 영화는 재미만이 아니야.
+     - *This movie is **not just fun**.*
+   - 그는 친구만이 아니야, 가족이야.
+     - *He is **not only a friend**, he's family.*
+3. **Complex Sentences**
+   - 환경 문제는 한 지역의 문제가 **만이 아니다**.
+     - *Environmental issues are **not only a problem of one region**.*
+   - 성공은 노력만이 **아니야**, 운도 필요해.
+     - *Success **isn't only effort**; luck is needed too.*
+---
 ## 5. Cultural Notes
 ### Cultural Relevance
-In Korean society, it’s common to convey additional qualities or traits that a person or a situation may possess. Using ~만이 아니다 emphasizes thoroughness and comprehensiveness, aligning with the Korean values of inclusivity and multifactored perspectives.
-### Idiomatic Expressions
-- "성공만이 아니다." (Not only success.) - Often used to imply that there are other important factors in life beyond just achieving success.
+- In Korean culture, **emphasis and clarification** are important in communication. Using structures like **~만이 아니다** helps speakers clarify that there's more to the situation than what's immediately apparent.
+### Levels of Politeness
+- The structure can be used in both formal and informal contexts. Adjust politeness levels by conjugating verbs appropriately and using honorifics when necessary.
+---
 ## 6. Common Mistakes and Tips
 ### Error Analysis
-- **Mistake**: Confusing ~만이 아니다 with ~뿐만 아니라, leading to incorrect sentence structures.
-- **Correction**: Remember that ~만이 아니다 can stand alone without needing another clause following it, while ~뿐만 아니라 requires additional information.
+1. **Omitting Necessary Particles**
+   - Incorrect: 그는 학생 아니다.
+   - Correct: 그는 학생**만이** 아니다.
+     - *Missing **만이** changes the meaning.*
+2. **Confusion with **~만 아니다**
+   - Be careful not to drop the **이** in **만이 아니다**, as **만 아니다** can sound unnatural or change the meaning.
 ### Learning Strategies
-- **Mnemonic Device**: Think of "only" as a door; ~만이 아니다 opens the door to more possibilities beyond what’s indicated.
+- **Mnemonic Device:**
+  - **"Only (만) it's not (아니다)"** - Remember that **만 (only)** combined with **아니다 (not)** negates the exclusivity.
+- **Practice Forming Sentences:**
+  - Create sentences negating exclusivity in your daily observations.
+---
 ## 7. Summary and Review
 ### Key Takeaways
-- The expression ~만이 아니다 means "not only" and is used to indicate that there is more than one aspect to a subject.
-- It is widely applicable across various contexts, from formal writing to casual conversation.
+- **~만이 아니다** is used to express **"not only"**, negating that something is exclusive.
+- It can be attached to nouns, verbs, and adjectives (after nominalization).
+- Different from **~뿐만 아니라**, which adds additional information.
 ### Quick Recap Quiz
-1. Translate: "이 차는 가격이 비쌀 만이 아니다." (This car is not only expensive.)
-2. Identify if the following is correct: "그녀는 친구뿐만 아니라 나도 좋아해." (She likes not only friends but also me.) [Correct]
-Feel free to ask questions for further clarification!
+1. How do you attach **~만이 아니다** to a noun?
+   - **Answer:** Noun + 만이 아니다
+2. Translate to Korean: "This is not only delicious."
+   - **Answer:** 이것은 맛있기만이 아니다.
+3. What's the difference between **~만이 아니다** and **~뿐만 아니라**?
+   - **Answer:** **~만이 아니다** negates exclusivity ("not only"), whereas **~뿐만 아니라** means "not only... but also," adding more information.
+---
+Feel free to practice by creating your own sentences using **~만이 아니다** to reinforce your understanding!
+
+---
+© [Hanabira.org](https://hanabira.org)

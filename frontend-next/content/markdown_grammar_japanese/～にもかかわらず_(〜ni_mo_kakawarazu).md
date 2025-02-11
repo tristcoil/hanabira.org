@@ -1,70 +1,110 @@
 Processing keyword: ～にもかかわらず (〜ni mo kakawarazu)
 # Japanese Grammar Point: ～にもかかわらず (〜ni mo kakawarazu)
-# Grammar Point: ～にもかかわらず (〜ni mo kakawarazu)
+
 ## 1. Introduction
-The Japanese phrase "〜にもかかわらず" (〜ni mo kakawarazu) is used to express contrast or contradiction between two situations. It can be translated as "despite", "in spite of", or "regardless of". This grammar point allows the speaker to highlight unexpected outcomes despite certain conditions being present.
----
+In this lesson, we will explore the Japanese grammar point **～にもかかわらず (〜ni mo kakawarazu)**. This expression is used to indicate that something happens **despite** a certain circumstance. It conveys a sense of **unexpectedness** or that an outcome occurs **against expectations**.
 ## 2. Core Grammar Explanation
-### Detailed Explanation
-- **Meaning**: It conveys that a certain circumstance or condition exists, but another situation occurs that contradicts expectations.
-- **Structure**: It is typically used between two clauses, with the first clause expressing a condition and the second clause showing an unexpected result.
-### Formation
-The structure for using "〜にもかかわらず" is as follows:
-- **[Condition/Situation] + にもかかわらず + [Contradicting Outcome]**
-### Visual Aids
-| **Condition**                | **にもかかわらず** | **Contradicting Outcome**        |
-|------------------------------|----------------------|----------------------------------|
-| その問題は難しかった (The problem was difficult) | にもかかわらず        | 彼は簡単に解いた (He solved it easily) |
----
+### Meaning
+- **Despite**
+- **In spite of**
+- **Although**
+- **Even though**
+### Usage
+The phrase **～にもかかわらず** is used to express that an action or state occurs regardless of another action, state, or fact that would typically hinder or prevent it. It highlights a contrast between the expected outcome and the actual result.
+### Structure
+The formation of **～にもかかわらず** depends on the type of word it attaches to:
+#### Formation Diagram
+| **Word Type**          | **Formation**                         |
+|------------------------|---------------------------------------|
+| **Verb**               | Verb (dictionary form) + にもかかわらず |
+| **い-adjective**        | い-adjective + にもかかわらず           |
+| **な-adjective**        | な-adjective + **である** + にもかかわらず |
+| **Noun**               | Noun + **である** + にもかかわらず        |
+### Examples of Formation
+- **Verb:**
+  学ぶ**にもかかわらず**
+  *manabu ni mo kakawarazu*
+- **い-adjective:**
+  忙しい**にもかかわらず**
+  *isogashii ni mo kakawarazu*
+- **な-adjective:**
+  元気**であるにもかかわらず**
+  *genki de aru ni mo kakawarazu*
+- **Noun:**
+  雨**であるにもかかわらず**
+  *ame de aru ni mo kakawarazu*
 ## 3. Comparative Analysis
 ### Similar Grammar Points
-- **〜のに (〜noni)**: Both "にもかかわらず" and "のに" express contrast, but "のに" tends to be more conversational and can be slightly less formal.
-  - **Example with のに**: 
-    - 問題は難しかったのに、彼は解けた。(The problem was difficult, but he solved it.)
-- **〜はずなのに (〜hazunoni)**: This also suggests contradiction, emphasizing that something should typically happen but doesn't.
-  - **Example with はずなのに**: 
-    - 彼は遅れるはずなのに、もう来ている。(He should be late, but he’s already here.)
----
+#### ～のに (〜no ni)
+- **Meaning:** "Even though," "although"
+- **Usage:** Used in both written and spoken language to express a contradiction between two clauses.
+- **Example:** 熱がある**のに**、働いている。
+#### Differences with ～にもかかわらず
+- **Formality:** ～にもかかわらず is more formal than ～のに.
+- **Tone:** ～のに can express personal feelings such as regret or dissatisfaction, while ～にもかかわらず is more objective.
 ## 4. Examples in Context
 ### Sentence Examples
-1. **Formal**: 
-   - 雨が降っているにもかかわらず、彼は散歩に出かけた。
-   - (Despite the fact that it was raining, he went for a walk.)
-2. **Informal**: 
-   - 彼女は忙しいにもかかわらず、手伝ってくれた。
-   - (Even though she was busy, she helped me.)
-3. **Written**: 
-   - 経済が悪化しているにもかかわらず、会社は成長を続けている。
-   - (Despite the economic downturn, the company continues to grow.)
-4. **Spoken**: 
-   - こんな料理は難しいにもかかわらず、みんな美味しいって言ってるよ。
-   - (Despite this dish being difficult, everyone is saying it's delicious.)
----
+1. **彼は雨**にもかかわらず、**ジョギングに出かけた。**
+   *Kare wa ame **ni mo kakawarazu**, jogingu ni dekaketa.*
+   **Translation:** Despite the rain, he went out jogging.
+2. **試験勉強をしていなかった**にもかかわらず、**彼女は合格した。**
+   *Shiken benkyō o shite inakatta **ni mo kakawarazu**, kanojo wa gōkaku shita.*
+   **Translation:** Even though she hadn't studied for the exam, she passed.
+3. **彼らは反対**にもかかわらず、**計画を進めた。**
+   *Karera wa hantai **ni mo kakawarazu**, keikaku o susumeta.*
+   **Translation:** Despite the opposition, they proceeded with the plan.
+4. **忙しい**にもかかわらず、**彼はボランティア活動に参加している。**
+   *Isogashii **ni mo kakawarazu**, kare wa borantia katsudō ni sanka shite iru.*
+   **Translation:** In spite of being busy, he participates in volunteer activities.
+5. **高価である**にもかかわらず、**その製品はよく売れている。**
+   *Kōka de aru **ni mo kakawarazu**, sono seihin wa yoku urete iru.*
+   **Translation:** Although it is expensive, that product is selling well.
 ## 5. Cultural Notes
 ### Cultural Relevance
-Using "〜にもかかわらず" reflects a level of politeness and consideration in Japanese culture. It acknowledges an opposing condition while expressing gratitude or acknowledging the effort made by someone despite that condition.
+In Japanese culture, there is a strong emphasis on perseverance and commitment. Using expressions like **～にもかかわらず** highlights the act of overcoming obstacles, which is a valued trait.
+### Levels of Politeness and Formality
+- **Formal Expression:** ～にもかかわらず is considered formal and is commonly used in written language, speeches, news reports, and official documents.
+- **Politeness:** It maintains a neutral tone and does not carry emotional judgment, making it suitable for both formal and polite contexts.
 ### Idiomatic Expressions
-- **多忙にもかかわらず (tabou ni mo kakawarazu)**: This phrase illustrates a busy situation but emphasizes that one is still doing something.
-  - Example: 多忙にもかかわらず、彼はプロジェクトを完成させた。
-  - (Despite being busy, he completed the project.)
----
+- **天候**にもかかわらず
+  *Ten-kō ni mo kakawarazu*
+  **Meaning:** Despite the weather
+- **予想外の結果**にもかかわらず
+  *Yosōgai no kekka ni mo kakawarazu*
+  **Meaning:** Despite the unexpected results
 ## 6. Common Mistakes and Tips
 ### Error Analysis
-1. **Incorrect Usage**: Often, learners may confuse "にもかかわらず" with "のに" in more formal scenarios.
-   - Remember: Use "にもかかわらず" in formal writing or speeches; "のに" is more casual.
-2. **Structure**: Ensure the condition is logically connected to the outcome. 
+1. **Omitting である with Nouns and な-adjectives**
+   - **Incorrect:** 学生**にもかかわらず**
+   - **Correct:** 学生**であるにもかかわらず**
+2. **Using Casual Forms in Formal Contexts**
+   - **Incorrect:** 忙しい**のに**
+     *(Too casual in formal writing)*
+   - **Correct:** 忙しい**にもかかわらず**
 ### Learning Strategies
-- **Mnemonic Device**: Think of "かかわらず" as "carelessly ignoring" conditions. This association can help you remember its contrastive function.
-- Practice forming sentences with personal experiences to enhance retention.
----
+- **Mnemonic Device:** Remember that **かかわらず** comes from the verb **関わる (kakawaru)** meaning "to be related." So, think of it as "even when related to X, Y happens."
+- **Practice Switching:** Try rewriting sentences that use ～のに with ～にもかかわらず to become comfortable with formal expressions.
 ## 7. Summary and Review
 ### Key Takeaways
-- "〜にもかかわらず" is used to indicate an action or situation that occurs despite contrary conditions.
-- It is more formal than similar expressions like "〜のに."
-  
+- **～にもかかわらず** is used to express "despite" or "in spite of."
+- It connects two clauses where the second clause occurs contrary to what might be expected from the first.
+- It is a **formal expression**, suitable for written and formal spoken Japanese.
+- **Formation:** Attach **にもかかわらず** directly to verbs and い-adjectives. Use **である** before **にもかかわらず** with nouns and な-adjectives.
 ### Quick Recap Quiz
-1. What does "〜にもかかわらず" mean in English?
-2. Create a sentence using "〜にもかかわらず" about going out despite being tired.
-3. Compare "〜にもかかわらず" and "〜のに" in terms of formality.
+1. **Question:** How do you correctly use ～にもかかわらず with a noun?
+   a) Noun + にもかかわらず
+   b) Noun + である + にもかかわらず
+   **Answer:** **b) Noun + である + にもかかわらず**
+2. **Question:** Translate the following sentence:
+   "Despite the high price, customers are buying it."
+   **Answer:** **高い価格であるにもかかわらず、顧客はそれを購入している。**
+3. **Question:** Is ～にもかかわらず more formal or casual compared to ～のに?
+   **Answer:** It is **more formal** than ～のに.
+
 ---
-Feel free to ask if you need further clarification or additional examples!
+By understanding and practicing **～にもかかわらず**, you can enhance your ability to express complex contrasts in formal Japanese. Keep practicing by creating your own sentences using this grammar point!
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

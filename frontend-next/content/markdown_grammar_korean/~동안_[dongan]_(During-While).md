@@ -1,74 +1,105 @@
 Processing keyword: ~동안 [dongan] (During/While)
 # Korean Grammar Point: ~동안 [dongan] (During/While)
-# Korean Grammar Point: ~동안 [dongan] (During/While)
+
 ## 1. Introduction
-The grammar point **~동안** is used to express the duration of an action or state, indicating "during" or "while" something is happening. It is commonly used in both spoken and written Korean to describe the time frame in which an activity occurs.
+In Korean, expressing the duration of an action or state is essential for describing events and situations. The grammar point **~동안** [dongan] is used to indicate "during" or "while" something happens. This lesson will explore how to use ~동안 effectively in various contexts.
+
+---
 ## 2. Core Grammar Explanation
-### Detailed Explanation
-- **Meaning**: The term **동안** means "during" or "while." It indicates a period in which something takes place.
-- **Structure**: It is typically used after a noun or a time expression to provide clarity on when an action occurs.
-  
-**Formation**: 
+### Meaning
+**~동안** translates to **"during"** or **"while"** in English. It is used to express the time span in which an action or state occurs.
+### Structure
+- **Noun + 동안**
+- **Verb Stem + 는 동안**
+### Formation Diagram
+#### Using Nouns
 ```
 [Noun] + 동안
+Example:
+방학 동안 (During vacation)
 ```
-### Visual Aids
-| Noun      | Example Sentence                  | Translation                     |
-|-----------|----------------------------------|---------------------------------|
-| 수업 (class) | 수업 동안 조용히 해 주세요.     | Please be quiet during class.   |
-| 여름 (summer) | 여름 동안 여행할 거예요.      | I will travel during the summer. |
-| 공부 (study) | 4시간 동안 공부했어요.         | I studied for 4 hours.           |
-### Time Expressions
-You can also use **~동안** with time expressions to specify the duration further.
-| Time Expression | Example Sentence                            | Translation                             |
-|-----------------|-------------------------------------------|-----------------------------------------|
-| 3일 (3 days)    | 3일 동안 서울에 있었습니다.                | I was in Seoul for 3 days.               |
-| 2년 (2 years)   | 2년 동안 한국어를 배웠어요.               | I studied Korean for 2 years.            |
-| 한 달 (one month)| 한 달 동안 여행을 갔어요.                | I traveled for one month.                 |
+#### Using Verbs
+```
+[Verb Stem] + 는 동안
+Example:
+공부하는 동안 (While studying)
+```
+### Detailed Explanation
+- **With Nouns**: Attach **동안** directly after a noun to indicate the duration of that noun.
+  - **Example**: 
+    - **겨울 동안** - During winter
+    - **회의 동안** - During the meeting
+- **With Verbs**: Use the verb stem plus **~는 동안** to express "while doing" an action.
+  - **Example**:
+    - **영화를 보는 동안** - While watching a movie
+    - **밥을 먹는 동안** - While eating a meal
+---
 ## 3. Comparative Analysis
-**Similar Grammar Points**:
-- **동안** vs **부터** (from):
-  - **~동안** indicates a duration while something happens.
-  - **부터** indicates the starting point of an action or activity, while **동안** indicates how long it lasts.
-    - Example: “집에서 3시간 동안 공부했어요.” (I studied at home for 3 hours.)
-    - Versus “3시부터 6시까지 공부했어요.” (I studied from 3 PM to 6 PM.)
+### Comparing ~동안 with ~때
+- **~동안** emphasizes the duration **throughout** which an action or state occurs.
+- **~때** means "when" and refers to a specific point or period in time.
+**Example Comparison**:
+- **학교에 다니는 동안** - **During** attending school (emphasizes the whole period)
+- **학교에 다닐 때** - **When** attending school (could refer to specific times during schooling)
+---
 ## 4. Examples in Context
-### Sentence Examples
-#### Formal Context
-- 회의 동안 모든 참석자들이 집중하였습니다.  
-  *(During the meeting, all participants were focused.)*
-#### Informal Context
-- 영화 보는 동안 친구랑 이야기했어.  
-  *(I talked with my friend while watching the movie.)*
-#### Written Context
-- 이번 프로젝트 동안 우리는 많은 도전을 겪었습니다.  
-  *(During this project, we faced many challenges.)*
-#### Spoken Context
-- 자는 동안 꿈을 꿨어.  
-  *(I had a dream while I was sleeping.)*
+### Formal Context
+- **회의가 진행되는 동안 질문을 받을 수 없습니다.**
+  - *You cannot ask questions during the meeting.*
+- **휴가 동안 가족과 함께 여행을 갔습니다.**
+  - *I went on a trip with my family during the vacation.*
+### Informal Context
+- **너 공부하는 동안 나는 잠깐 나갔다 올게.**
+  - *While you're studying, I'll step out for a bit.*
+- **비 오는 동안 집에 있었어요.**
+  - *I stayed at home while it was raining.*
+### Written Context
+- **전쟁 기간 동안 많은 사람들이 고통을 겪었다.**
+  - *During the war period, many people suffered.*
+### Spoken Context
+- **영화 보는 동안 전화하지 마.**
+  - *Don't call me while I'm watching a movie.*
+---
 ## 5. Cultural Notes
 ### Cultural Relevance
-In Korea, the use of time-related expressions is significant in both daily conversations and formal situations. Knowing when to use **~동안** appropriately reflects an understanding of Korean time concepts and helps to convey politeness and respect.
-### Levels of Politeness
-The examples provided can be altered for formality based on the context. Using polite endings (e.g., -요) shows respect and is important in Korean culture when addressing elders or superiors.
+In Korean culture, time expressions are crucial for polite conversation and planning. Using **~동안** appropriately shows a good understanding of time-related grammar, which is essential in social interactions.
+### Politeness Levels
+The use of **~동안** itself does not change with politeness levels, but the verbs and sentences around it should be adjusted according to formal or informal speech.
 ### Idiomatic Expressions
-- 여름 방학 동안 많은 여행을 갔어요.  
-  *(I traveled a lot during the summer vacation.)*
+- **잠시 동안** - *For a moment*
+- **오랜 동안** - *For a long time*
+---
 ## 6. Common Mistakes and Tips
 ### Error Analysis
-- **Omission of noun**: Learners might forget to attach a noun before **동안**. 
-  - Correct: 나가 있는 동안 (during the time I'm out)
-  
+- **Mistake**: Using **~동안에** unnecessarily after verbs.
+  - **Incorrect**: 공부하는 동안에 음악을 들어요.
+  - **Correct**: 공부하는 동안 음악을 들어요.
+  *Tip*: When using **~는 동안**, adding **에** is unnecessary.
+- **Mistake**: Confusing **~동안** with **~사이** (between).
+  - **~동안** refers to duration, **~사이** refers to the space between.
 ### Learning Strategies
-- **Mnemonic Devices**: Remember that **동안** relates to "duration" by associating it with the English word "long" (as in the duration of time).
-  
+- **Mnemonic Device**: Think of **동안** as "duration" to remember it relates to the length of time.
+- **Practice**: Create sentences using both nouns and verbs with **~동안** to become familiar with the structure.
+---
 ## 7. Summary and Review
 ### Key Takeaways
-- **~동안** means "during" or "while."
-- It is used to describe the period when an action takes place.
-- Remember to attach nouns and time expressions correctly.
+- **~동안** is used to express "during" or "while" for durations.
+- Attach **동안** to nouns directly.
+- Use **~는 동안** after verb stems.
+- Do not confuse with **~때** or **~사이**.
 ### Quick Recap Quiz
-1. How do you say "I studied for 2 hours" using **~동안**?
-2. What does **~동안** indicate in a sentence?
-3. Write a sentence using **~동안** to describe an activity. 
-Feel free to try answering the quiz questions to reinforce your understanding!
+1. How do you say "During class" in Korean?
+   - **Answer**: 수업 **동안**
+2. Choose the correct form:
+   - 나는 숙제하는 __ 음악을 들어요.
+     a) 동안에
+     b) 동안
+   - **Answer**: b) 동안
+3. Translate to Korean: "Don't speak while eating."
+   - **Answer**: 먹는 동안 말하지 마세요.
+---
+
+By understanding and practicing **~동안**, you'll be able to describe actions and states that occur over a period of time more naturally in Korean.
+
+---
+© [Hanabira.org](https://hanabira.org)

@@ -1,72 +1,92 @@
 Processing keyword: ~것 마는 [geot maneun] (But)
 # Korean Grammar Point: ~것 마는 [geot maneun] (But)
-# Introduction
-The Korean grammar point **~것 마는 [geot maneun]** is used to introduce a contrast or exception, similar to the English word "but." This structure allows speakers to acknowledge a preceding statement while providing an opposing or corrective idea. 
-# Core Grammar Explanation
-## Detailed Explanation
-The grammar structure **~것 마는** can be broken down into two parts:
-- **~것** (geot): This part refers to "thing" or "fact," used to indicate the subject of the discussion.
-- **마는** (maneun): This is a connective that expresses contrast or exception.
+
+## 1. Introduction
+In this lesson, we'll explore the Korean grammar point **~건마는** [geon maneun], which is used to express contrast or opposition, similar to the English word "but" or "although". Understanding this grammar point will enhance your ability to convey nuanced contrasts and express subtle emotions in Korean.
+
+---
+## 2. Core Grammar Explanation
+### Meaning
+The suffix **~건마는** is attached to a verb or adjective stem to express a sense of contrast or concession, often conveying feelings of regret, disappointment, or unexpected outcomes. It can be translated as "but", "although", or "even though".
 ### Structure
-The structure can be summarized as:
+#### Formation
+To form **~건마는**, you attach it to the verb or adjective stem as follows:
 ```
-(Subject/Fact) + ~것 + 마는 + (Contrasting Statement)
+Verb/Adjective Stem + 건마는
 ```
 #### Formation Diagram
+| **Stem Type** | **Attachment**     | **Example**                   |
+|---------------|--------------------|-------------------------------|
+| Verb          | 가 + 건마는         | 가건마는 (Although [I] go)     |
+| Adjective     | 예쁘 + 건마는       | 예쁘건마는 (Although [she] is pretty) |
+### Usage Notes
+- **Formal/Written Language**: **~건마는** is typically used in formal contexts or written language, such as literature, essays, or formal speeches.
+- **Expressing Regret or Contrast**: It often conveys a deeper sense of regret or emphatic contrast than the more commonly used **~지만**.
+### Visual Aid: Structure Breakdown
 ```
-[Subject/Fact] + 것 + 마는  -> [Contrasting Statement]
+[Verb/Adjective Stem] + 건마는 + [Rest of the sentence expressing contrast]
 ```
-### Meaning
-This structure is used to convey that while something is true or valid, there is another side or perspective that should be acknowledged.
-# Visual Aids
-| Part         | Meaning                   | Example              |
-|--------------|---------------------------|----------------------|
-| 것 (geot)    | "thing" or "fact"        | 그건 사실이야 (That is true) |
-| 마는 (maneun)| "but" (contrast marker)   | 하지만 (but)         |
-# Comparative Analysis
-**~것 마는** vs. **~지만 [jiman]**:
-While both structures serve to indicate contrast, there are subtle differences:
-- **~것 마는** emphasizes the fact or situation being discussed before introducing the contrasting idea.
-- **~지만** directly connects two contrasting statements without the same level of emphasis on the first statement.
-**Usage Example**:
-- **Using ~것 마는**: "이것은 좋지만... [이것은 비싸다.]" (This is good, but... it is expensive.)
-- **Using ~지만**: "이것은 좋지만 비싸다." (This is good, but it is expensive.)
-# Examples in Context
-1. **Formal Context**:
-   - 이 제안은 유용한 것 마는 실행하기 어려울 것이다.
-     - (This proposal is useful, but it will be hard to implement.)
-   
-2. **Informal Context**:
-   - 그 영화는 재미있는 것 마는 너무 길어.
-     - (That movie is interesting, but it’s too long.)
-     
-3. **Written Context**:
-   - 논문의 결론은 명확한 것 마는 부족한 자료가 문제이다.
-     - (The conclusion of the paper is clear, but the lack of data is an issue.)
-4. **Spoken Context**:
-   - 이 음식은 맛있는 것 마는 너무 매워.
-     - (This food is delicious, but it's too spicy.)
-# Cultural Notes
-### Cultural Relevance
-Using **~것 마는** reflects Korean social norms where it is essential to acknowledge different perspectives, especially in discussions or disagreements. This structure enables a more polite and diplomatic conversation.
-### Levels of Politeness
-It's important to note that while the structure itself is neutral, the overall sentence's politeness will depend on the verb forms and context used with it.
+---
+## 3. Comparative Analysis
+### Comparing with Similar Grammar Points
+| Grammar Point | Usage                                  | Nuance                                    |
+|---------------|----------------------------------------|-------------------------------------------|
+| ~지만         | Basic contrast ("but")                 | Neutral contrast                          |
+| ~는데도       | "Even though", unexpected result       | Emphasizes unexpectedness                 |
+| ~건마는       | "But", "although", with regret         | Formal, conveys regret or strong feeling  |
+---
+## 4. Examples in Context
+### Example Sentences
+1. **Formal/Written Context**
+   - **Korean**: 그는 노력하건마는 성과를 얻지 못했다.
+   - **Pronunciation**: *Geuneun noryeokhageonmaneun seonggwareul eotji motaetda.*
+   - **Translation**: "He worked hard, but he didn't achieve any results."
+2. **Expressing Regret**
+   - **Korean**: 시간이 많지 않건마는 끝까지 해보겠다.
+   - **Pronunciation**: *Sigani manchi an geonmaneun kkeutkkaji haebogetda.*
+   - **Translation**: "I don't have much time, but I will try to finish it."
+3. **Descriptive Contrast**
+   - **Korean**: 꽃이 아름답건마는 곧 시들 것이다.
+   - **Pronunciation**: *Kkoti areumdapgeonmaneun got sideul geosida.*
+   - **Translation**: "The flowers are beautiful, but they will soon wither."
+4. **Expressing Unexpected Outcome**
+   - **Korean**: 비가 올 것 같아 우산을 가져왔건마는 비는 오지 않았다.
+   - **Pronunciation**: *Biga ol geot gata usan-eul gajyeowatgeonmaneun bineun oji anatda.*
+   - **Translation**: "I brought an umbrella because it seemed like it would rain, but it didn't."
+---
+## 5. Cultural Notes
+### Levels of Politeness and Formality
+- **Formal Expression**: **~건마는** is a formal expression, more likely to be found in written texts, literature, or formal speeches.
+- **Emotional Depth**: It often conveys deeper emotions, such as regret, disappointment, or a poignant contrast.
 ### Idiomatic Expressions
-- "믿는 것 마는..." (It is believed that...) is often used to introduce a contrast with known facts or popular beliefs.
-# Common Mistakes and Tips
-## Error Analysis
-- **Using it too severely**: Learners might tend to overuse **~것 마는**, making sentences sound overly complex or formal.
-- **Omitting the subject**: Do not forget the subject part before adding this grammar point.
-## Learning Strategies
-- **Mnemonic Device**: Remember "it’s a fact (것) but (마는)" to help recall the structure.
-- **Contextual Practice**: Try creating sentences under different contexts varying in formality.
-# Summary and Review
-## Key Takeaways
-- **~것 마는** indicates a contrast or exception, similar to "but."
-- It emphasizes the subject before providing contrasting information.
-- Be mindful of context and formality levels when using this structure.
-## Quick Recap Quiz
-1. What does **~것 마는** translate to in English?
-2. How does **~것 마는** differ from **~지만**?
-3. Write a sentence using **~것 마는** in a formal context.
-By understanding **~것 마는**, learners can engage in more nuanced and sophisticated conversations in Korean, allowing them to express contrasting ideas effectively.
+- While **~건마는** itself is not commonly found in idiomatic expressions, understanding its usage can help in appreciating literary works and formal speeches where such expressions are more prevalent.
+---
+## 6. Common Mistakes and Tips
+### Common Mistakes
+1. **Using in Informal Speech**
+   - Mistake: Using **~건마는** in casual conversation.
+   - Correction: Use **~지만** for everyday speech.
+2. **Incorrect Attachment**
+   - Mistake: Attaching **~건마는** to the verb after conjugation.
+   - Correction: Attach **~건마는** directly to the verb or adjective stem.
+### Tips
+- **Remember the Formality**: Use **~건마는** in appropriate contexts (formal writing, speeches).
+- **Contrast with Emotion**: Use it when you want to express not just contrast but also an emotional nuance such as regret or disappointment.
+---
+## 7. Summary and Review
+### Key Takeaways
+- **~건마는** is used to express contrast with an emotional nuance.
+- It is formal and typically used in written language.
+- Attach **~건마는** directly to the verb or adjective stem.
+### Quick Recap Quiz
+1. **Question**: What is the main use of **~건마는**?
+   - **Answer**: To express contrast or opposition with a sense of regret or disappointment in formal contexts.
+2. **Question**: How do you correctly attach **~건마는** to the verb "먹다" (to eat)?
+   - **Answer**: 먹 + 건마는 = 먹건마는
+3. **Question**: True or False: **~건마는** is commonly used in everyday informal conversation.
+   - **Answer**: False
+---
+By mastering **~건마는**, you enhance your ability to express nuanced contrasts in formal Korean, adding depth and emotion to your language skills.
+
+---
+© [Hanabira.org](https://hanabira.org)

@@ -12,6 +12,7 @@ import {
   faArrowRight,
 } from "@fortawesome/free-solid-svg-icons";
 import { ChevronDownIcon, ChevronUpIcon } from "@heroicons/react/24/solid";
+import ClosedFlashcard from "@/components/ClosedFlashcard";
 
 interface Question {
   id: string;
@@ -212,36 +213,64 @@ const ComplexFlashcardModal: FC<ComplexFlashcardModalProps> = ({
 
   if (error) return <div>Failed to load</div>;
 
-  if (!isOpen)
-    return (
-      <div className="bg-white dark:bg-gray-800 rounded-lg shadow-lg overflow-hidden m-2 transition duration-300 ease-in-out transform hover:-translate-y-1 hover:shadow-2xl flex flex-row justify-between items-center text-center sm:text-left">
-        <div className="p-4 flex-grow">
-          <div className="text-xs sm:text-sm md:text-md lg:text-lg font-semibold text-gray-700 dark:text-gray-300 uppercase tracking-widest">
-            {p_tag}
-          </div>
+  // if (!isOpen)
+  //   return (
+  //     <div className="bg-white dark:bg-gray-800 rounded-lg shadow-lg overflow-hidden m-2 transition duration-300 ease-in-out transform hover:-translate-y-1 hover:shadow-2xl flex flex-row justify-between items-center text-center sm:text-left">
+  //       <div className="p-4 flex-grow">
+  //         <div className="text-xs sm:text-sm md:text-md lg:text-lg font-semibold text-gray-700 dark:text-gray-300 uppercase tracking-widest">
+  //           {p_tag}
+  //         </div>
 
-          <a
-            href="/japanese/flashcards-kanji/#"
-            className="block mt-1 text-xs sm:text-sm md:text-md leading-tight font-semibold text-gray-800 dark:text-gray-200 hover:text-gray-600 dark:hover:text-gray-400"
-            aria-label={`Kanji with one reading ${s_tag}`}
-          >
-            Essential vocabulary {s_tag}
-          </a>
-          <p className="mt-1 text-xs sm:text-sm text-gray-600 dark:text-gray-400">
-            Explore essential Japanese vocabulary interactively.
-          </p>
-          <div className="mt-2">
-            <button
-              type="button"
-              onClick={openModal}
-              className="inline-flex justify-center items-center rounded-md bg-gray-200 dark:bg-gray-600 hover:bg-gray-300 dark:hover:bg-gray-500 focus:outline-none focus:ring-2 focus:ring-gray-400 dark:focus:ring-gray-500 focus:ring-offset-2 dark:focus:ring-offset-gray-800 text-gray-800 dark:text-gray-300 text-xs sm:text-sm px-3 py-1.5 transition-colors duration-150"
-            >
-              Open flashcard
-            </button>
-          </div>
-        </div>
-      </div>
-    );
+  //         <a
+  //           href="/japanese/flashcards-kanji/#"
+  //           className="block mt-1 text-xs sm:text-sm md:text-md leading-tight font-semibold text-gray-800 dark:text-gray-200 hover:text-gray-600 dark:hover:text-gray-400"
+  //           aria-label={`Kanji with one reading ${s_tag}`}
+  //         >
+  //           Essential vocabulary {s_tag}
+  //         </a>
+  //         <p className="mt-1 text-xs sm:text-sm text-gray-600 dark:text-gray-400">
+  //           Explore essential Japanese vocabulary interactively.
+  //         </p>
+  //         <div className="mt-2">
+  //           <button
+  //             type="button"
+  //             onClick={openModal}
+  //             className="inline-flex justify-center items-center rounded-md bg-gray-200 dark:bg-gray-600 hover:bg-gray-300 dark:hover:bg-gray-500 focus:outline-none focus:ring-2 focus:ring-gray-400 dark:focus:ring-gray-500 focus:ring-offset-2 dark:focus:ring-offset-gray-800 text-gray-800 dark:text-gray-300 text-xs sm:text-sm px-3 py-1.5 transition-colors duration-150"
+  //           >
+  //             Open flashcard
+  //           </button>
+  //         </div>
+  //       </div>
+  //     </div>
+  //   );
+
+
+    if (!isOpen) {
+      return (
+        <ClosedFlashcard
+          p_tag={p_tag}
+          s_tag={s_tag}
+          badgeText="Vocabulary"
+          badgeColor="bg-orange-100 text-orange-800" // Specify badge color here
+          description="My vocabulary (Sentence Mining)"
+          openModal={openModal}
+          buttonText="Open Flashcard"
+        />
+      );
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
 
   if (!questions || questions.length === 0) return <div>Loading...</div>; // Ensure questions is loaded and has data
 
@@ -361,7 +390,7 @@ const ComplexFlashcardModal: FC<ComplexFlashcardModalProps> = ({
           ${
             difficulty === level
               ? level === "easy"
-                ? "bg-green-500 hover:bg-green-600 text-white"
+                ? "bg-blue-500 hover:bg-blue-600 text-white"
                 : level === "medium"
                 ? "bg-yellow-500 hover:bg-yellow-600 text-white"
                 : "bg-red-500 hover:bg-red-600 text-white"

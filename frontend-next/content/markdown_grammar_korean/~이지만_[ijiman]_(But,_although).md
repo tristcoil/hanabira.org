@@ -1,80 +1,99 @@
 Processing keyword: ~이지만 [ijiman] (But, although)
 # Korean Grammar Point: ~이지만 [ijiman] (But, although)
-# Grammar Point: ~이지만 [ijiman] (But, although)
+
 ## 1. Introduction
-The grammar point **~이지만 (ijiman)** is commonly used in Korean to contrast two clauses or ideas, similar to the English conjunctions "but" or "although." It's used to introduce a statement that contrasts or provides a contrary idea to the previous statement.
+In Korean, expressing contrast or contradiction is essential for nuanced communication. The grammar point **~이지만** is commonly used to mean **"but"** or **"although"** when connecting two contrasting ideas involving nouns. This lesson will explore how to use ~이지만 effectively in various contexts.
+
 ---
 ## 2. Core Grammar Explanation
-### Detailed Explanation
-- **Meaning**: ~이지만 indicates a contrast between two clauses. It suggests a surprising or unexpected relationship between statements.
-  
-- **Structure**: The structure can be broken down into two parts:
-  - Part 1 (Subject + Verb/Adjective) + **이지만** + Part 2 (Contrasting Statement)
-  
-- **Formation**:
-  - For nouns and adjectives: 
-    - Use **-이지만** after a noun (if the noun ends with a consonant) or **-지만** after a verb/adjective.
-  - For verbs:
-    - Attach **-지만** directly to the verb stem.
-### Visual Aid
-| Subject Clause         | Grammar Point | Contrasting Clause          |
-|------------------------|---------------|------------------------------|
-| 나는 학생이다          | 이지만        | 나는 돈이 없다               |
-| (I am a student)       | (but)         | (I don’t have any money.)    |
-| 그는 친절하다          | 이지만        | 그가 항상 바쁘다               |
-| (He is kind)           | (but)         | (He is always busy.)          |
+### Meaning and Usage
+**~이지만** is attached to nouns to express a contrast or exception, similar to "but" or "although" in English. It allows the speaker to acknowledge a fact and introduce a contrasting statement.
+### Formation
+The attachment of **~이지만** depends on whether the noun ends with a consonant or a vowel.
+#### Formation Rules
+| Noun Ending             | Add        | Example            |
+|-------------------------|------------|--------------------|
+| Ends with a **consonant**   | 이지만     | 학생 **+ 이지만** → 학생이지만 |
+| Ends with a **vowel**       | 지만      | 의사 **+ 지만** → 의사지만   |
+#### Visual Diagram
+```
+[Noun (consonant-ending)] + 이지만
+[Noun (vowel-ending)] + 지만
+```
 ---
 ## 3. Comparative Analysis
-- **~지만 vs. ~거든요 (geodeunyo)**: 
-  - **~지만** is used purely for contrast, while **~거든요** can provide an explanation or reasoning behind the contrast.
-    - Example: 
-      - 그는 착한 사람이야, **하지만** 아주 게을러. (He is a good person, **but** very lazy.)
-      - 그는 착한 사람이야, **거든요**. (He is a good person, **you know**.)
-- **~지만 vs. 그러나 (geureona)**:
-  - **~지만** is less formal than **그러나**; the latter is used in writing or formal speech.
-    - Example:
-      - 그는 훌륭한 지도자이다, **그러나** 경험이 부족하다. (He is a great leader, **but** lacks experience.)
+### Comparison with Similar Grammar Points
+- **~지만**: Used with verbs and adjectives to express contrast.
+  - *Example*: 먹다 (to eat) → 먹지만 (eat but)
+- **~이지만**: Specifically used with nouns.
+  - *Example*: 학생 (student) → 학생이지만 (although [I am] a student)
+### Nuances
+- Using **~이지만** emphasizes the contrast involving a noun, whereas **~지만** is for verbs and adjectives.
+- Incorrect usage can lead to confusion or grammatical errors.
 ---
 ## 4. Examples in Context
-### Sentence Examples
-1. **Formal**:
-   - 그는 법사이다, **하지만** 경제학을 전공했다. 
-     - (He is a lawyer, **but** majored in economics.)
-  
-2. **Informal**:
-   - 나는 너를 좋아해, **하지만** 만날 수 없어. 
-     - (I like you, **but** I can’t meet you.)
-  
-3. **Written**: 
-   - 이 제품은 비싸다. **하지만** 품질이 뛰어나다. 
-     - (This product is expensive; **however**, the quality is excellent.)
-  
-4. **Spoken**:
-   - 오늘은 비가 올 것 같아, **하지만** 나가고 싶어. 
-     - (It looks like it will rain today, **but** I want to go out.)
+### Formal Context
+1. **저는 학생이지만 일을 하고 있습니다.**
+   - *I am a student, but I am working.*
+2. **그분은 의사지만 병원에서 일하지 않습니다.**
+   - *He is a doctor, but he doesn't work at a hospital.*
+### Informal Context
+1. **나는 한국 사람이지만 김치를 못 먹어.**
+   - *I am Korean, but I can't eat kimchi.*
+2. **우리는 친구지만 가끔 싸워.**
+   - *We are friends, but we sometimes fight.*
+### Written Context
+1. **이곳은 작지만 아름답습니다.**
+   - *This place is small, but it's beautiful.*
+2. **그는 배우지만 가수가 되고 싶어 합니다.**
+   - *He is an actor, but he wants to become a singer.*
+### Spoken Context
+1. **오늘은 금요일이지만 일해야 해요.**
+   - *Today is Friday, but I have to work.*
+2. **저는 미국 사람이지만 한국어를 잘해요.**
+   - *I am American, but I speak Korean well.*
 ---
 ## 5. Cultural Notes
 ### Cultural Relevance
-The use of ~이지만 reflects the Korean culture's emphasis on expressing humility and reserve in conversations. It aligns with the societal norm of not appearing too direct or confrontational. Using this form is polite and helps to soften the contrast in discussions, maintaining harmony in conversations.
+- In Korean culture, modesty is valued. Using **~이지만** to present contrasting information can reflect humility.
+  - *Example*: **저는 학생이지만 열심히 배우고 있습니다.** (I am a student, but I am learning diligently.)
+### Levels of Politeness and Formality
+- The politeness level is determined by the verb endings, not **~이지만** itself.
+  - Formal: **합니다**, **있습니다**
+  - Informal: **해요**, **있어요**
 ### Idiomatic Expressions
-- **비록 ~이지만**: This phrase can be translated as "even though" or "although".
-  - Example: 비록 힘들어도 계속 공부할 것이다.
-    - (Even though it’s hard, I will keep studying.)
+- **보기에는 어렵지만 재미있어요.**
+  - *Although it seems difficult, it's fun.*
+- **시간이 없지만 꼭 갈게요.**
+  - *I don't have time, but I'll definitely go.*
 ---
 ## 6. Common Mistakes and Tips
-### Error Analysis
-- **Incorrect Usage**: Beginners often mistakenly use **~이지만** without proper context or try to use it for causal relationships rather than contrasting statements.
-### Learning Strategies
-- **Mnemonic Device**: Remember that **~이지만** can always be translated as “but” to check if the contrast fits.
-- Always try to pair it with contrasting ideas to reinforce understanding.
+### Common Mistakes
+1. **Incorrect Attachment to Verbs or Adjectives**
+   - *Incorrect*: 예쁘이지만
+   - *Correct*: 예쁘지만 (Since 예쁘다 is an adjective)
+2. **Omitting '이' After Consonant-ending Nouns**
+   - *Incorrect*: 학생지만
+   - *Correct*: 학생**이지만**
+### Tips for Proper Usage
+- **Remember the '이'**: If the noun ends with a consonant, always add **이지만**.
+- **Practice with Common Nouns**: Create sentences using common nouns to get comfortable with the structure.
+- **Mnemonic Device**: **Consonant + 이지만**, **Vowel + 지만**
 ---
 ## 7. Summary and Review
 ### Key Takeaways
-- **~이지만** is used to contrast two clauses, indicating a relationship of opposition.
-- Remember the correct structures for nouns and verbs.
-- Be aware of its usage in formal vs. informal contexts.
+- **~이지만** is used to express "but" or "although" with nouns.
+- Attach **이지만** to consonant-ending nouns and **지만** to vowel-ending nouns.
+- The contrast is between a fact stated by the noun and the following clause.
 ### Quick Recap Quiz
-1. How would you translate "I am tired, but I want to continue studying" using ~이지만?
-2. Which is more formal, ~이지만 or 그러나?
-3. What's a common mistake learners make with ~이지만?
-Feel free to reach out if you have further questions or need clarifications!
+1. **Fill in the blank**: 그는 학생___ 선생님처럼 행동해요.
+   - **Answer**: **이지만** (그는 학생**이지만** 선생님처럼 행동해요.)
+2. **Correct the mistake**: 저는 의사이지만 노래를 잘 불러요.
+   - **Answer**: No correction needed. Sentence is correct.
+3. **Translate to Korean**: "She is a singer but can't sing well."
+   - **Answer**: 그녀는 가수지만 노래를 잘 못 해요.
+---
+By understanding and practicing the use of **~이지만**, you can express contrasts involving nouns effectively in Korean.
+
+---
+© [Hanabira.org](https://hanabira.org)

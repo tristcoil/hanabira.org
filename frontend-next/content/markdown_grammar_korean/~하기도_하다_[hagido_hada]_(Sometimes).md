@@ -1,67 +1,89 @@
 Processing keyword: ~하기도 하다 [hagido hada] (Sometimes)
 # Korean Grammar Point: ~하기도 하다 [hagido hada] (Sometimes)
-# Korean Grammar Point: ~하기도 하다 [hagido hada] (Sometimes)
+
 ## 1. Introduction
-The grammar structure ~하기도 하다 is commonly used in the Korean language to indicate that an action sometimes occurs or that there are occasional aspects to a subject. It can be translated as "sometimes," "also," or "even."
+The grammar pattern **~하기도 하다** is used in Korean to express that someone **also does** something or **sometimes does** something. It emphasizes that the action is one of several possibilities or occurs occasionally.
+
 ---
 ## 2. Core Grammar Explanation
-### Detailed Explanation
-The structure ~하기도 하다 is formed by combining the verb stem with ~기 + 도 + 하다. Here's the breakdown:
-- **Verb Stem**: The basic form of the verb from which we derive other forms. 
-- **~기**: A nominalizer that turns the verb into a noun-like form. 
-- **도**: A particle meaning "also" or "even." 
-- **하다**: The verb meaning "to do."
+### Meaning and Usage
+- **Emphasis on Addition**: Indicates that the action is in addition to others.
+- **Occasional Action**: Expresses that the action happens sometimes.
 ### Structure
-- **Formula**: Verb Stem + 하기도 하다
-- **Example**: [가다 (gada)] → [가기도 하다 (gadido hada)] → "Sometimes go."
-### Visual Aid
-| Component    | Example (가다) | Result       |
-|--------------|----------------|--------------|
-| Verb Stem    | 가 (to go)     | 가기         |
-| Nominalizer  | 가기           | 가기도       |
-| Also         | 가기도         | 가기도 하다   |
-| Final Meaning| -              | Sometimes go  |
+The pattern is formed by attaching **-기도 하다** to the verb stem.
+```markdown
+[Verb Stem] + 기도 하다
+```
+### Formation Diagram
+| Verb (Dictionary Form) | Remove Ending | Verb Stem | Add 기도 하다 | Resulting Form |
+|------------------------|---------------|-----------|--------------|----------------|
+| 먹다 (to eat)          | 다            | 먹        | 먹기도 하다   | 먹기도 하다     |
+| 가다 (to go)           | 다            | 가        | 가기도 하다   | 가기도 하다     |
+| 공부하다 (to study)    | 다            | 공부하    | 공부하기도 하다 | 공부하기도 하다 |
 ---
 ## 3. Comparative Analysis
-~하기도 하다 differs from another similar construction, ~기도 싶다 [gido sipda], which expresses a desire to do something. Here’s how they contrast:
-| Grammar Point   | Meaning                       | Usage                                         |
-|------------------|-------------------------------|----------------------------------------------|
-| ~하기도 하다     | Sometimes do                  | Used to express the occasional occurrence of an action. |
-| ~기도 싶다       | Also want to do               | Indicates a desire to perform an action, not emphasizing frequency.|
+### Comparison with **~하곤 하다** (used for habitual actions)
+- **~하곤 하다** indicates a habitual action in the past.
+  - *Ex: 어렸을 때는 공원에서 놀곤 했어요.* (I used to play in the park when I was young.)
+- **~하기도 하다** indicates an action occurs sometimes or is one among others.
+  - *Ex: 주말에는 책을 읽기도 해요.* (I sometimes read books on weekends.)
 ---
 ## 4. Examples in Context
-### Sentence Examples
-- **Formal**: 가끔 운동하기도 합니다.  
-  *(I sometimes exercise.)*
-- **Informal**: 나도 가끔 영화 보기기도 해.  
-  *(I sometimes watch movies too.)*
-- **Spoken**: 친구랑 밥 먹기도 해.  
-  *(Sometimes I eat with my friend.)*
-- **Written**: 이 카페에서 일하기도 합니다.  
-  *(I sometimes work at this café.)*
+### Formal Context
+1. **회의에서 의견을 말하기도 합니다.**
+   - *[Hoeuieseo uigyeoneul malhagido hamnida.]*
+   - "I also share my opinions in meetings."
+2. **회사에서는 야근을 하기도 합니다.**
+   - *[Hoesaeseoneun yageuneul hagido hamnida.]*
+   - "We sometimes work overtime at the company."
+### Informal Context
+1. **친구랑 영화를 보기도 해요.**
+   - *[Chingurang yeonghwareul bogido haeyo.]*
+   - "I sometimes watch movies with my friend."
+2. **주말에 집에서 요리하기도 해요.**
+   - *[Jumare jibeseo yorihagido haeyo.]*
+   - "I also cook at home on weekends."
+### Spoken Context
+1. **아침에 커피를 마시기도 해.**
+   - *[Achime keopireul masigido hae.]*
+   - "I sometimes drink coffee in the morning."
+2. **시간 있을 때 운동을 하기도 해.**
+   - *[Sigan isseul ttae undongeul hagido hae.]*
+   - "I also exercise when I have time."
 ---
 ## 5. Cultural Notes
-### Cultural Relevance
-This expression is commonly used in contexts where flexibility or variability is applicable. It's polite to use it in conversations, maintaining respect for the listener's time and habits.
-### Idiomatic Expressions
-- **가끔씩 친구를 만나기도 한다.**  
-  *(I sometimes meet my friends.)*
+### Levels of Politeness
+- **Formal Polite**: ~하기도 합니다
+- **Informal Polite**: ~하기도 해요
+- **Casual**: ~하기도 해
+Understanding and using the correct level of politeness is crucial in Korean culture to show respect and maintain proper social relationships.
 ---
 ## 6. Common Mistakes and Tips
-### Error Analysis
-- **Common Mistake**: Using it too casually in formal settings. Remember to adjust your level of politeness when using this structure.
-  
-### Learning Strategies
-- Think of it as a way to express "once in a while" to help remember its meaning. Keep it in contrast with more definite expressions like "항상" (always).
+### Common Mistakes
+- **Incorrect Attachment**: Placing **-기도 하다** after the verb ending **-다**.
+  - *Wrong*: **가다기도 해요.**
+  - *Right*: **가기도 해요.**
+- **Confusion with ~도 하다**: Using **~도 하다** without the nominalizer **-기**.
+  - *Incorrect nuance*: **가도 해요.** (Means "Even if I go, I do.")
+### Tips
+- **Remember to Nominalize**: Always convert the verb to a noun form using **-기** before adding **-도 하다**.
+- **Mnemonic Device**: Think of **-기** as turning the action into a "thing" that you "also do."
 ---
 ## 7. Summary and Review
 ### Key Takeaways
-- ~하기도 하다 indicates the occasional occurrence of an action.
-- It's formed by attaching ~하기고 하다 to the verb stem.
-- Remember to adjust formality based on context.
+- **~하기도 하다** is used to express occasional actions or additional actions.
+- Formed by attaching **-기도 하다** to the verb stem.
+- Be mindful of the politeness level in different contexts.
+- Always nominalize the verb with **-기** before adding **-도 하다**.
 ### Quick Recap Quiz
-1. How do you form the grammar ~하기도 하다?
-2. Translate this sentence: "그는 가끔 음악 듣기도 해."
-3. What is the primary meaning of ~하기도 하다? 
+1. How do you say "I sometimes read books" using **~하기도 하다**?
+   - **Answer**: **책을 읽기도 해요.**
+2. True or False: **먹다기도 해요** is the correct form of using **~하기도 하다** with **먹다**.
+   - **Answer**: **False** (Correct form: **먹기도 해요.**)
+3. What is the purpose of **-기** in the grammar pattern **~하기도 하다**?
+   - **Answer**: It nominalizes the verb, turning it into a noun form before adding **-도 하다**.
 ---
-This concludes the explanation of ~하기도 하다. Remember, practice using this structure in different contexts for better retention!
+By understanding and practicing **~하기도 하다**, you can express occasional or additional actions naturally in Korean!
+
+---
+© [Hanabira.org](https://hanabira.org)

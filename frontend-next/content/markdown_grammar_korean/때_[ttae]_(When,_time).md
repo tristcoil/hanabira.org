@@ -1,84 +1,145 @@
 Processing keyword: 때 [ttae] (When, time)
 # Korean Grammar Point: 때 [ttae] (When, time)
-# Korean Grammar Point: 때 [ttae] (When, Time)
+
 ## 1. Introduction
-In Korean, **때 (ttae)** is a noun that means "when" or "time." It is used to refer to a specific point or period in time. Understanding the usage of **때** is essential for expressing temporal concepts accurately.
----
+In Korean, **때 [ttae]** is a versatile noun that means **"time"** or **"when"**. It's commonly used to indicate the time when an action occurs or to describe a specific moment or period. Mastering the use of **때** is essential for expressing time-related concepts and creating complex sentences in Korean.
+
 ## 2. Core Grammar Explanation
-**때** can be used in several ways, mainly to denote specific times or periods associated with actions or events.
-### Breakdown of Usage:
-1. **Indicating Specific Times**:
-   - **때** is often used to specify a time when something happens.
-   - Structure: **Verb + 때**
-   - Example: **가다** (to go) + **때** → **갈 때** (when [someone] goes)
-2. **Referring to General Times**:
-   - It can also refer to more general time frames, like seasons or parts of the day.
-   - Example: **여름때** (in summer time)
-3. **Combined Structures**:
-   - **-ㄹ/을 때**: This usage attaches to verbs and adjectives to indicate "when (someone does something)."
-   - Example: **배우다** (to learn) becomes **배울 때** (when [someone] learns).
-### Visual Aid: Structure Diagram
+## Meaning
+- **때 [ttae]**: Refers to **"the time when..."**, **"at the time of..."**, or simply **"when..."**.
+## Structure
+The basic structure for using **때** is as follows:
+### For Verbs and Adjectives
+```markdown
+[Verb/Adjective Stem] + -을/ㄹ 때
 ```
-           +-------------+
-           |  Verb/Adj  |
-           +-------------+
-                 |
-                 v
-          +-----------------+
-          |       때        |
-          +-----------------+
+- If the stem ends with a **consonant**, add **-을 때**.
+- If the stem ends with a **vowel**, add **-ㄹ 때**.
+### For Nouns
+```markdown
+[Noun] + 때
 ```
----
+## Formation Diagram
+| Part of Speech     | Ending Condition        | Conjugation        | Example        |
+|--------------------|-------------------------|--------------------|----------------|
+| **Verb/Adjective** | Stem ends with consonant| -을 때             | 먹을 때        |
+| **Verb/Adjective** | Stem ends with vowel    | -ㄹ 때             | 갈 때          |
+| **Noun**           |                         | 때                 | 방학 때        |
+## Conjugation Rules
+### For Verbs and Adjectives
+1. **Stem Ending with a Vowel**: Add **-ㄹ 때**
+   - **가다** (to go) ⇒ **가** + **-ㄹ 때** ⇒ **갈 때** (when [someone] goes)
+   - **자다** (to sleep) ⇒ **자** + **-ㄹ 때** ⇒ **잘 때** (when [someone] sleeps)
+2. **Stem Ending with a Consonant**: Add **-을 때**
+   - **먹다** (to eat) ⇒ **먹** + **-을 때** ⇒ **먹을 때** (when [someone] eats)
+   - **읽다** (to read) ⇒ **읽** + **-을 때** ⇒ **읽을 때** (when [someone] reads)
+### For Nouns
+- Simply add **때** after the noun without any changes.
+  - **시험** (exam) + **때** ⇒ **시험 때** (during the exam)
+  - **어렸을** (when [someone] was young) ⇒ **어렸을 때** (when [someone] was young)
+
 ## 3. Comparative Analysis
-### Similar Grammar Points:
-- **-ㄹ/을 때** vs **-는 동안**:
-  - **때** is more focused on specific points in time.
-  - **동안 (dong-an)** indicates a duration of time.
-  - Example: 
-    - **공부할 때** (when studying) vs **공부하는 동안** (during studying)
----
+## 때 vs. **동안**
+- **때** emphasizes the specific moment or period when an action occurs.
+- **동안** means **"during"** or **"for a duration of time"**, highlighting the length of time.
+**Examples:**
+- **일할 때 전화하지 마세요.**
+  - Don't call me **when** I'm working.
+- **일하는 동안 전화하지 마세요.**
+  - Don't call me **during** work.
+## 때 vs. **(으)면서**
+- **때** is used for one action happening at a specific time.
+- **(으)면서** indicates two actions happening simultaneously.
+**Examples:**
+- **저녁을 먹을 때 뉴스를 봐요.**
+  - I watch the news **when** I eat dinner.
+- **저녁을 먹으면서 뉴스를 봐요.**
+  - I watch the news **while** eating dinner.
+
 ## 4. Examples in Context
-### Sentence Examples:
-1. **Formal**:
-   - **회의할 때 꼭 참석해 주세요.**  
-     *(Please make sure to attend when there is a meeting.)*
-2. **Informal**:
-   - **놀 때 친구랑 같이 하자!**  
-     *(Let’s play together when we hang out!)*
-3. **Written**:
-   - **엊그제의 일은 추억할 때가 많습니다.**  
-     *(There are many times when I reminisce about the events of the other day.)*
-4. **Spoken**:
-   - **밥 먹을 때 TV를 보지 마!**  
-     *(Don't watch TV when eating!)*
----
+## Formal Situations
+1. **출근할 때 지하철을 탑니다.**
+   - I take the subway when commuting to work.
+2. **회의가 시작될 때 모두 자리에 앉아 주세요.**
+   - Please be seated when the meeting starts.
+## Informal Conversations
+1. **집에 올 때 빵 좀 사와.**
+   - Bring some bread when you come home.
+2. **시간 날 때 영화 보자.**
+   - Let's watch a movie when we have time.
+## Written Language
+1. **졸업할 때 많은 감정을 느꼈다.**
+   - I felt many emotions when I graduated.
+2. **비가 올 때를 대비하여 우산을 챙겼습니다.**
+   - I prepared an umbrella in case it rains.
+## Spoken Language
+1. **너 웃을 때 정말 예뻐!**
+   - You look really pretty when you smile!
+2. **시험 볼 때 긴장돼?**
+   - Do you get nervous when taking exams?
+
 ## 5. Cultural Notes
-### Cultural Relevance:
-- In Korean culture, timing and appropriateness are crucial. Using **때** correctly can reflect awareness of social norms and respect for situations.
-### Levels of Politeness:
-- Using **때** in polite forms, especially in formal contexts, is essential to maintain respect in conversations.
-### Idiomatic Expressions:
-- **그때그때**: Means "at that time" or "at the moment," often used to refer to adapting to situations.
----
+## Cultural Relevance
+- **Respect for Time**: In Korean culture, punctuality is important. Using **때** properly shows respect for others' time.
+- **Age and Experience**: Phrases like **어렸을 때** (when I was young) are frequently used to share experiences.
+## Levels of Politeness and Formality
+- The politeness level is adjusted through the verb endings, not **때** itself.
+- Formal endings: **-습니다**, **-세요**, **-ㅂ니다**
+- Informal endings: **-아/어**, **-해**
+**Examples:**
+- **Formal**: 떠날 때 말씀해 주세요.
+  - Please let me know when you leave.
+- **Informal**: 떠날 때 말해 줘.
+  - Tell me when you leave.
+## Idiomatic Expressions Using **때**
+1. **때를 놓치다** - To miss the timing/opportunity.
+   - **좋은 때를 놓쳤어요.**
+     - I missed a good opportunity.
+2. **때가 되다** - It's time (to do something).
+   - **이제 갈 때가 됐네요.**
+     - It's time to go now.
+3. **때와 장소** - Time and place.
+   - **적절한 때와 장소에서 이야기합시다.**
+     - Let's talk at an appropriate time and place.
+
 ## 6. Common Mistakes and Tips
-### Error Analysis:
-- Mistake: Confusing **때** with **동안**. 
-  - ** 동안** is for indicating a duration, while **때** is for a specific moment.
-  
-### Learning Strategies:
-- **Mnemonic Device**: Think of **때** as a "date" to remember its connection to specific times.
-  
----
+## Common Mistakes
+1. **Forgetting to Conjugate the Verb/Adjective Correctly**
+   - ❌ **먹다 때** instead of **먹을 때**
+   - **Tip**: Always check the ending of the stem and add **-을 때** or **-ㄹ 때** accordingly.
+2. **Confusing **때** with **동안**
+   - Using **때** when **동안** is appropriate.
+   - **Incorrect**: **나는 두 시간 때 공부했어요.**
+   - **Correct**: **나는 두 시간 동안 공부했어요.**
+     - I studied for two hours.
+3. **Misplacing **때** in the Sentence**
+   - Remember that **때** structures often come before the main clause.
+## Learning Strategies
+- **Mnemonic for Conjugation**:
+  - **Consonant + 을 때**: Think of **C**onsonant with **E**ul (**을**).
+  - **Vowel + ㄹ 때**: Vowel flows smoothly into **ㄹ 때**.
+- **Practice with Common Verbs**:
+  - Write sentences using **때** with verbs you use frequently.
+
 ## 7. Summary and Review
-### Key Takeaways:
-- **때 (ttae)** is essential for discussing when events occur.
-- Used correctly, it reflects proper respect and awareness of social situations.
-### Quick Recap Quiz:
-1. What does **때** mean?
-   - **Answer**: When, time.
-   
-2. How can you express “when I eat" using **때**?
-   - **Answer**: **밥 먹을 때** (bap meogeul ttae).
-3. What is the difference between **때** and **동안**?
-   - **Answer**: **때** refers to a specific time, while **동안** refers to a duration. 
-By understanding and practicing with **때**, learners can enhance their ability to discuss time-related matters in Korean!
+## Key Takeaways
+- **때** is used to express **"when"** or **"the time of"** an action or state.
+- Conjugate verbs and adjectives correctly by adding **-을 때** or **-ㄹ 때**.
+- Use **때** after nouns without additional conjugation.
+- Be aware of similar expressions like **동안** and **(으)면서** to convey time-related nuances.
+- Politeness levels are adjusted with verb endings, not with **때**.
+## Quick Recap Quiz
+1. **How do you conjugate **보다** (to see) with **때**?**
+   - **Answer**: **볼 때**
+2. **Which expression emphasizes the duration of time: **때** or **동안**?**
+   - **Answer**: **동안**
+3. **Translate to Korean: "I listen to music when I study."**
+   - **Answer**: **공부할 때 음악을 들어요.**
+4. **What's the difference between **갈 때** and **가는 동안**?**
+   - **Answer**: **갈 때** means "when going", focusing on the time of departure, while **가는 동안** means "while going", emphasizing the duration of the journey.
+
+---
+By understanding and practicing the use of **때**, you'll be able to express time-related ideas more naturally and accurately in Korean. Remember to pay attention to the verb stems and the context in which **때** is used.
+
+---
+© [Hanabira.org](https://hanabira.org)

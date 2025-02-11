@@ -144,102 +144,46 @@ const getDashboardCardsProps = (level: string): DashboardCardsProps[] => {
         return [
           {
             id: "1",
-            name: "JLPT N3 Grammar 10",
-            link: "/japanese/grammar_dashboard/JLPT_N3/10",
+            name: "JLPT N3 Grammar 25",
+            link: "/japanese/grammar_dashboard/JLPT_N3/25",
             file: jlpt_universal_01,
             description: ""
           },
           {
             id: "2",
-            name: "JLPT N3 Grammar 20",
-            link: "/japanese/grammar_dashboard/JLPT_N3/20",
+            name: "JLPT N3 Grammar 50",
+            link: "/japanese/grammar_dashboard/JLPT_N3/50",
             file: jlpt_universal_02,
             description: ""
           },
           {
             id: "3",
-            name: "JLPT N3 Grammar 30",
-            link: "/japanese/grammar_dashboard/JLPT_N3/30",
+            name: "JLPT N3 Grammar 75",
+            link: "/japanese/grammar_dashboard/JLPT_N3/75",
             file: jlpt_universal_03,
             description: ""
           },
           {
             id: "4",
-            name: "JLPT N3 Grammar 40",
-            link: "/japanese/grammar_dashboard/JLPT_N3/40",
+            name: "JLPT N3 Grammar 100",
+            link: "/japanese/grammar_dashboard/JLPT_N3/100",
             file: jlpt_universal_04,
             description: ""
           },
           {
             id: "5",
-            name: "JLPT N3 Grammar 50",
-            link: "/japanese/grammar_dashboard/JLPT_N3/50",
+            name: "JLPT N3 Grammar 125",
+            link: "/japanese/grammar_dashboard/JLPT_N3/125",
             file: jlpt_universal_05,
             description: ""
           },
           {
             id: "6",
-            name: "JLPT N3 Grammar 60",
-            link: "/japanese/grammar_dashboard/JLPT_N3/60",
+            name: "JLPT N3 Grammar 150",
+            link: "/japanese/grammar_dashboard/JLPT_N3/150",
             file: jlpt_universal_06,
             description: ""
           },
-          {
-            id: "7",
-            name: "JLPT N3 Grammar 70",
-            link: "/japanese/grammar_dashboard/JLPT_N3/70",
-            file: jlpt_universal_07,
-            description: ""
-          },
-          {
-            id: "8",
-            name: "JLPT N3 Grammar 80",
-            link: "/japanese/grammar_dashboard/JLPT_N3/80",
-            file: jlpt_universal_08,
-            description: ""
-          },
-          {
-            id: "9",
-            name: "JLPT N3 Grammar 90",
-            link: "/japanese/grammar_dashboard/JLPT_N3/90",
-            file: jlpt_universal_09,
-            description: ""
-          },
-          {
-            id: "10",
-            name: "JLPT N3 Grammar 100",
-            link: "/japanese/grammar_dashboard/JLPT_N3/100",
-            file: jlpt_universal_10,
-            description: ""
-          },
-          {
-            id: "11",
-            name: "JLPT N3 Grammar 110",
-            link: "/japanese/grammar_dashboard/JLPT_N3/110",
-            file: jlpt_universal_11,
-            description: ""
-          },
-          {
-            id: "12",
-            name: "JLPT N3 Grammar 120",
-            link: "/japanese/grammar_dashboard/JLPT_N3/120",
-            file: jlpt_universal_12,
-            description: ""
-          },
-          {
-            id: "13",
-            name: "JLPT N3 Grammar 130",
-            link: "/japanese/grammar_dashboard/JLPT_N3/130",
-            file: jlpt_universal_13,
-            description: ""
-          },
-          {
-            id: "14",
-            name: "JLPT N3 Grammar 140",
-            link: "/japanese/grammar_dashboard/JLPT_N3/140",
-            file: jlpt_universal_14,
-            description: ""
-          }
         ];
   
       case "JLPT_N2":

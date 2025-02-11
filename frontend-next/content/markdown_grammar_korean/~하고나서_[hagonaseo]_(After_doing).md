@@ -1,64 +1,127 @@
 Processing keyword: ~하고나서 [hagonaseo] (After doing)
 # Korean Grammar Point: ~하고나서 [hagonaseo] (After doing)
-# Grammar Point: ~하고나서 [hagonaseo] (After doing)
+
 ## 1. Introduction
-The Korean grammar point **~하고나서** is used to express the idea of "after doing" something. It connects two actions, indicating that the second action occurs after the first one is completed.
+The grammar point **~하고 나서** (*hago naseo*) is used in Korean to indicate that one action occurs after the completion of another action. It translates to **"after doing"** in English. This structure is essential for expressing sequential actions and is frequently used in daily conversations.
+
+---
 ## 2. Core Grammar Explanation
-### Detailed Explanation
-The structure of **~하고나서** can be broken down as follows:
-- **Verb Stem** + **하고** + **나서**
-  
-Here, **하고** is the connector that means "and" or "with," linking the first action with the second. The **나서** indicates "after doing" the first verb.
-### Meaning and Usage
-- **하고나서** is used to describe an event that takes place after the completion of a previous action. It's often employed in both written and spoken Korean.
+## Detailed Explanation
+**~하고 나서** combines the connective form **~하고** (from **~하다**, meaning "to do") with **나서**, derived from **나다** ("to occur" or "to happen"). Together, they form a phrase that emphasizes the completion of the first action before the next one begins.
+### Meaning
+- **"After doing [Action A], [Action B]."**
+### Structure
+The basic structure for using **~하고 나서** is:
+```
+[Verb Stem] + 고 나서 + [Next Action]
+```
 ### Formation Diagram
-```
-[ Verb Stem ] + 하고 + 나서
-         ↓
-  <-- Action 1  -->   <-- Action 2 (happens after Action 1) -->
-```
+1. **Conjugate the first verb to its stem.**
+2. **Add "고 나서" to the verb stem.**
+3. **Follow with the second action or verb phrase.**
+### Visual Aid: Conjugation Table
+
+| Verb        | Verb Stem | + 고 나서       | Meaning                   |
+| ----------- | --------- | --------------- | ------------------------- |
+| 먹다 (to eat)     | 먹        | 먹고 나서       | After eating              |
+| 공부하다 (to study)| 공부하     | 공부하고 나서    | After studying            |
+| 읽다 (to read)    | 읽        | 읽고 나서       | After reading             |
+| 가다 (to go)      | 가        | 가고 나서       | After going               |
+| 마시다 (to drink) | 마시      | 마시고 나서     | After drinking            |
+
+---
 ## 3. Comparative Analysis
-### Similar Grammar Points:
-- **~고 나서** - This is a more general connector implying "and after," but it can also be used interchangeably with **~하고 나서** in many contexts.
-- **~ㄴ/은 후에** (after doing) - This form uses the past tense and is often more formal. It can be used similarly but sometimes sounds less natural in casual speech.
-### Differences:
-- **~하고나서** is less formal than **~ㄴ/은 후에**.
-- The choice between these forms may depend on the level of formality of the situation or the speaker's preference.
+**~하고 나서** vs. **~(으)ㄴ 후에**
+- **~하고 나서**
+  - Emphasizes the completion of the first action before starting the next.
+  - Used primarily with action verbs.
+- **~(으)ㄴ 후에**
+  - Means "after doing" but less emphasis on the completion.
+  - Can be used with both action verbs and certain descriptive verbs (adjectives).
+**Example Comparison**
+- **음식을 먹고 나서 산책했어요.**
+  - *"I took a walk after eating (emphasizing I finished eating completely before walking)."*
+- **음식을 먹은 후에 산책했어요.**
+  - *"I took a walk after eating."*
+---
 ## 4. Examples in Context
-### Sentence Examples
-1. **Formal:**
-   - 저는 집에 가고 나서 숙제를 할 거예요.  
-   - (I will do my homework after I go home.)
-   
-2. **Informal:**
-   - 친구를 보고 나서 카페에 갔어.  
-   - (I went to the cafe after seeing my friend.)
-   
-3. **Written:**
-   - 그는 영화를 보고 나서 저녁을 먹었다.  
-   - (He ate dinner after watching the movie.)
-   
-4. **Spoken:**
-   - 밥 먹고 나서 뭐 할 거야?  
-   - (What are you going to do after eating?)
+## Sentence Examples
+### Example 1: Formal Polite (Written)
+- **회의를 하고 나서 보고서를 작성했습니다.**
+- *"After having the meeting, I prepared the report."*
+### Example 2: Informal Polite (Spoken)
+- **운동하고 나서 뭐 할 거예요?**
+- *"What will you do after exercising?"*
+### Example 3: Casual (Between Friends)
+- **영화를 보고 나서 커피 마실래?**
+- *"Do you want to grab a coffee after watching the movie?"*
+### Example 4: Honorific (Formal Situations)
+- **선생님께서는 강의를 하고 나서 질문을 받으십니다.**
+- *"The teacher takes questions after giving the lecture."*
+### Example 5: Everyday Conversation
+- **숙제를 다 하고 나서 친구를 만났어요.**
+- *"I met my friend after finishing all my homework."*
+---
 ## 5. Cultural Notes
-### Cultural Relevance
-Understanding when and how to use **~하고나서** relates to Korean culture’s emphasis on the sequence of actions and the appropriate timing for events. It is important in everyday conversations to clarify what happens first and what follows to avoid misunderstandings.
-### Idiomatic Expressions
-- **밥먹고 나서 (After eating)** - commonly used to discuss plans or actions that occur after a meal.
+## Cultural Relevance
+In Korean culture, the order of actions and showing proper sequence is important, especially in formal settings or when showing respect. Using **~하고 나서** appropriately reflects an understanding of timing and respect for processes.
+## Levels of Politeness and Formality
+The verb endings following **~하고 나서** can be adjusted to match the appropriate level of politeness:
+- **Formal Polite:** ~합니다, ~했습니다
+- **Informal Polite:** ~해요, ~했어요
+- **Casual:** ~해, ~했어
+## Idiomatic Expressions
+While **~하고 나서** is not idiomatic on its own, it's essential in many expressions that require a sequence of actions, such as giving instructions or narrating events.
+
+---
 ## 6. Common Mistakes and Tips
-### Error Analysis
-1. **Forgetting to modify the verb stem**: Learners often forget to convert the verb to its appropriate form before using **하고 나서**.
-2. **Using it inappropriately in informal contexts**: Remember that while **~하고나서** can be used in informal speech, choosing the correct level of politeness is key.
-### Learning Strategies
-- **Mnemonic Device**: Picture a timeline where actions are sequentially placed to remember that **하고 나서** indicates the order of occurrence.
+## Error Analysis
+### Mistake 1: Omitting "나서"
+- **Incorrect:** 집에 가고 숙제했어요.
+  - *"I went home and did homework."* (Actions may overlap)
+- **Correct:** 집에 가고 나서 숙제했어요.
+  - *"I did homework after going home."* (Clear sequence)
+*Tip:* Including **나서** emphasizes that the first action is completed before the second begins.
+### Mistake 2: Using with Adjectives
+- **Incorrect:** 피곤하고 나서 잤어요.
+  - *"I slept after being tired."*
+- **Correct:** 피곤해서 잤어요.
+  - *"I slept because I was tired."*
+*Tip:* **~하고 나서** is used with action verbs, not adjectives. Use **~아서/어서** with adjectives to indicate cause.
+### Mistake 3: Misplacing the Sequence
+- **Incorrect:** 학교에 가고 나서 아침을 먹었어요.
+  - *"After going to school, I ate breakfast."* (Unusual sequence)
+- **Correct:** 아침을 먹고 나서 학교에 갔어요.
+  - *"After eating breakfast, I went to school."*
+*Tip:* Ensure the sequence of actions makes logical sense.
+## Learning Strategies
+- **Practice with Daily Routines:**
+  Write out your daily activities using **~하고 나서** to describe the order.
+- **Mnemonic Device:**
+  Remember **"하**고 나서" as "do and then after".
+---
 ## 7. Summary and Review
-### Key Takeaways
-- **~하고나서** indicates an action occurring after another.
-- It is less formal than **~ㄴ/은 후에**.
-- Common in both spoken and written Korean.
-### Quick Recap Quiz
-1. What does **~하고나서** mean?
-2. How would you use **~하고나서** in a sentence?
-3. What is the difference between **~하고나서** and **~ㄴ/은 후에**?
-Feel free to ask if you need more explanations or examples!
+## Key Takeaways
+- **~하고 나서** is used to express that one action occurs **after** the completion of another.
+- Formed by adding **고 나서** to the verb stem.
+- Emphasizes the completion of the first action before the second begins.
+- Not used with adjectives; only action verbs.
+## Quick Recap Quiz
+1. **Fill in the blank with the correct form:**
+   책을 ________ 나서 잘 거예요.
+   - *Answer:* **읽고**
+   - *"I will sleep after reading the book."*
+2. **True or False:**
+   **~하고 나서** can be used to express simultaneous actions.
+   - *Answer:* **False**
+   - *It's used for sequential actions where one occurs after the other.*
+3. **Choose the correct sentence that uses **~하고 나서** properly:**
+   a) 기분이 좋고 나서 노래를 불렀어요.
+   b) 일을 끝내고 나서 집에 갔어요.
+   - *Answer:* **b) 일을 끝내고 나서 집에 갔어요.**
+   - *"I went home after finishing work."*
+---
+By understanding and practicing **~하고 나서**, you can accurately describe sequences of events and enhance the clarity of your communication in Korean.
+
+---
+© [Hanabira.org](https://hanabira.org)

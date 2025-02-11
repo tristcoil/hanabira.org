@@ -1,63 +1,93 @@
 Processing keyword: ~이야말로 [iyamallo] (Truly, really)
 # Korean Grammar Point: ~이야말로 [iyamallo] (Truly, really)
-# Detailed Grammar Explanation of ~이야말로 [iyamallo] 
-## Introduction
-The Korean expression ~이야말로 [iyamallo] translates to "truly" or "really" in English and is used to emphasize the importance or truth of the subject being discussed. This grammar point highlights the speaker's strong conviction about the statement that follows.
-## Core Grammar Explanation
-### Detailed Explanation
-- **Meaning**: The phrase ~이야말로 emphasizes that the subject is the one thing or person that is truly representative of what is being expressed. It indicates a higher degree of affirmation.
-- **Structure**:
-  - **Noun + 이야말로** (for nouns ending with a consonant)
-  - **Noun + 야말로** (for nouns ending with a vowel)
-### Formation Diagram
-```plaintext
-Noun + 이야말로 / 야말로
-```
-### Visual Aids
-| Noun Ending   | Structure         | Example              | Translation                  |
-|---------------|-------------------|----------------------|------------------------------|
-| Consonant     | Noun + 이야말로   | 학생이야말로         | "It is truly the student."   |
-| Vowel         | Noun + 야말로     | 날씨야말로           | "It is truly the weather."   |
-## Comparative Analysis
-The expression ~이야말로 differs from other emphasis structures like ~은/는 정말 [eun/neun jeongmal] (is really) because ~이야말로 places a stronger emphasis on the exclusivity of the noun. For example:
-- **~은/는 정말**: Used for general emphasis.
-- **~이야말로**: Indicates that the noun is the definitive example.
-### Examples:
-- **그 사람이야말로**: "It is that person truly."
-- **이 책이야말로**: "This book is truly the one."
-## Examples in Context
-### Sentence Examples
-1. **Formal**: 
-   - 이 프로젝트야말로 우리의 미래를 결정짓는 일입니다.
-   - Translation: "This project truly determines our future."
-2. **Informal**: 
-   - 친구가야말로 나를 가장 잘 이해해.
-   - Translation: "My friend truly understands me best."
-3. **Written**:
-   - 문화유산이야말로 우리나라 고유의 자산입니다.
-   - Translation: "Cultural heritage is truly the unique asset of our country."
-4. **Spoken**:
-   - 이 음식이야말로 제일 맛있어!
-   - Translation: "This food is truly the most delicious!"
-## Cultural Notes
-### Cultural Relevance
-The use of ~이야말로 reflects the importance of hierarchical relationships and formality in Korean culture. Emphasizing a statement with this grammar point can invoke respect or acknowledgment towards the subject being discussed, making it a significant expression in conversations.
-### Idiomatic Expressions
-- **사랑이야말로**: "True love." 
-- **가족이야말로**: "Family truly is (the most important)."
-## Common Mistakes and Tips
-### Error Analysis
-- **Using with incorrect noun form**: Ensure that you match the noun ending with the correct ~이야말로 or ~야말로.
-- **Overusing in casual conversations**: The phrase can sound overly formal for casual chats.
-### Learning Strategies
-- **Mnemonic Device**: Remember that ~이야말로 emphasizes something as the **ultimate truth** – think of it as putting a sticker on the "best" or "truest" option.
-## Summary and Review
-### Key Takeaways
-- **~이야말로** emphasizes the truthfulness or exclusivity of a subject.
-- It can only be used with nouns and follows specific rules based on the noun's ending.
-- Reflects cultural nuances of politeness in conversations.
-### Quick Recap Quiz
-1. What is the translation of ~이야말로?  
-2. Fill in the blank: "친구는 ___________" (answer: 친구야말로).
-3. Compare ~이야말로 to ~은/는 정말. What is the key difference?
-This concludes the explanation of ~이야말로 [iyamallo]. Happy studying!
+
+## 1. Introduction
+In this lesson, we'll explore the Korean grammar point **~이야말로** [iyamallo], which is used to emphasize that something is truly or indeed the case. It's a powerful expression that highlights the subject as the most fitting or exemplary instance among others.
+
+---
+## 2. Core Grammar Explanation
+### **Meaning and Usage**
+- **~이야말로** is used to emphasize that the preceding noun is the best example or the very essence of something.
+- It translates to **"indeed," "truly," "exactly,"** or **"the very"** in English.
+- It highlights that the subject is unique or unparalleled in a particular context.
+### **Structure and Formation**
+#### **Formation Diagram**
+| Noun Ending | Attachment    |
+|-------------|---------------|
+| Consonant   | **~이야말로** |
+| Vowel       | **~야말로**   |
+#### **How to Attach**
+1. **Identify the noun** you want to emphasize.
+2. **Check the ending of the noun**:
+   - If it ends with a consonant, attach **이야말로**.
+   - If it ends with a vowel, attach **야말로**.
+---
+## 3. Comparative Analysis
+- **~이야말로 vs. ~은/는**:
+  - While **~은/는** (topic particles) can introduce or contrast topics, **~이야말로** adds a strong emphasis, highlighting the noun as the definitive example.
+- **~이야말로 vs. ~이야**:
+  - **~이야** simply identifies or defines, whereas **~이야말로** intensifies, implying "this is exactly..."
+---
+## 4. Examples in Context
+### **Formal Context**
+1. **한국어야말로 세계에서 가장 아름다운 언어입니다.**
+   - *Hangug-eoyamallo segyeseo gajang areumdaun eoneoimnida.*
+   - **Translation:** "Korean is truly the most beautiful language in the world."
+2. **노력해야말로 성공의 비결입니다.**
+   - *Noryeokhayamallo seonggong-ui bigyeorimnida.*
+   - **Translation:** "Effort is indeed the secret to success."
+### **Informal Context**
+1. **너야말로 내 진정한 친구야.**
+   - *Neoyamallo nae jinjeonghan chinguya.*
+   - **Translation:** "You are truly my real friend."
+2. **방학이야말로 학생들이 기다리는 시간이지!**
+   - *Banghagi-yamallo haksaengdeuri gidarineun siganiji!*
+   - **Translation:** "Vacation is exactly the time students wait for!"
+### **Written Context**
+1. **이 문제가야말로 우리 사회가 해결해야 할 과제이다.**
+   - *I munjega-yamallo uri sahoe-ga haegyeolhaeya hal gwajeida.*
+   - **Translation:** "This problem is precisely the task our society must solve."
+### **Spoken Context**
+1. **지금이야말로 출발할 때야.**
+   - *Jigeumi-yamallo chulbalhal ttaeya.*
+   - **Translation:** "Now is truly the time to depart."
+---
+## 5. Cultural Notes
+### **Cultural Relevance**
+- **Emphasis in Communication**: Korean language often uses particles and endings to convey subtle nuances. **~이야말로** is a way to stress importance without raising one's voice.
+- **Politeness Levels**: While **~이야말로** itself doesn't change formality, the surrounding speech level (e.g., **습니다** endings for formal, **야** endings for informal) determines the politeness.
+### **Idiomatic Expressions**
+- **사랑이야말로 모든 것을 이긴다.**
+  - *Sarangi-yamallo modeun geoseul iginda.*
+  - **Translation:** "Love truly conquers all."
+---
+## 6. Common Mistakes and Tips
+### **Error Analysis**
+1. **Incorrect Attachment**:
+   - *Incorrect:* 학생**이야말로**
+   - *Correct:* 학생**이야말로** (since "학생" ends with a consonant, attach **이야말로**)
+2. **Using ~이야말로 with Verbs or Adjectives**:
+   - *Incorrect:* 행복하다**이야말로**
+   - *Correct:* 행복**이야말로** (Use the noun form)
+### **Learning Strategies**
+- **Mnemonic Device**: Think of **~이야말로** as highlighting "this *exactly* is the case."
+- **Practice**: Create sentences by choosing nouns that are significant to you and emphasize them using **~이야말로**.
+---
+## 7. Summary and Review
+### **Key Takeaways**
+- **~이야말로** is used to emphasize a noun as truly or indeed the case.
+- Attach **~이야말로** to nouns ending with consonants and **~야말로** to nouns ending with vowels.
+- It adds strong emphasis and is used in both formal and informal contexts.
+### **Quick Recap Quiz**
+1. How do you attach **~이야말로** to a noun ending with a vowel?
+   - **Answer:** Attach **~야말로** (without **이**).
+2. Translate the following sentence:
+   - **친구야말로 인생의 보물이다.**
+     - **Answer:** "Friends are truly the treasures of life."
+3. True or False: **~이야말로** can be used with verbs.
+   - **Answer:** False. It is used with nouns.
+---
+Feel free to revisit this lesson and practice creating your own sentences to master the usage of **~이야말로**!
+
+---
+© [Hanabira.org](https://hanabira.org)

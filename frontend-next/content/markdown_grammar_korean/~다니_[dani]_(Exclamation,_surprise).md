@@ -1,67 +1,106 @@
 Processing keyword: ~다니 [dani] (Exclamation, surprise)
 # Korean Grammar Point: ~다니 [dani] (Exclamation, surprise)
-# Understanding the Korean Grammar Point: ~다니 (dani)
+
 ## 1. Introduction
-In Korean, the suffix ~다니 (dani) is used to express surprise or exclamation. It often conveys a sense of disbelief or astonishment about what has been said. This grammar point is commonly used in spoken language, and it helps the speaker react to unexpected or surprising information.
+In Korean, expressing surprise or exclamation about a situation is often done using the grammar point **~다니**. This ending conveys astonishment, disbelief, or being impressed by something that has occurred or been mentioned. By mastering **~다니**, you'll add emotion and expressiveness to your Korean conversations.
+
+---
 ## 2. Core Grammar Explanation
-### Detailed Explanation
-- **Meaning**: The suffix ~다니 expresses an exclamatory reaction to a statement, often indicating surprise or incredulity.
-- **Structure**: It typically follows a statement that has just been made. The statement can be a fact, an opinion, or a piece of news. It can also follow a verb or adjective in its declarative form. 
-### Formation Diagram
+### Meaning
+**~다니** is used to express the speaker's surprise, amazement, disbelief, or admiration about a fact or situation. It reflects an emotional reaction to something unexpected or noteworthy.
+### Structure
+Attach **~다니** to the stem of verbs or adjectives that describe the surprising situation.
+#### Formation:
+| **Type**           | **Stem**             | **Attachment** | **Example**        |
+|--------------------|----------------------|----------------|--------------------|
+| Action Verb        | 가다 (to go)         | 가**다니**     | 가다니             |
+| Descriptive Verb   | 예쁘다 (to be pretty)| 예쁘**다니**   | 예쁘다니           |
+| Past Tense Verb    | 갔다 (went)          | 갔**다니**     | 갔다니             |
+#### Conjugation Rules:
+- **Present Tense Verbs/Adjectives:** Attach **다니** directly to the stem.
+  - 예: *맛있다* + **다니** → *맛있다니*
+- **Past Tense Verbs:** Use the past tense stem and attach **다니**.
+  - 예: *먹었다* + **다니** → *먹었다니*
+- **Future Tense Verbs:** Rarely used but can be formed similarly.
+### Visual Aid: Formation Diagram
 ```
-        Statement           +        ~다니
-        (Surprising Info)              (Exclamation)
+[Verb/Adjective Stem] + 다니 → Expressing surprise/exclamation
+Example:
+놀랍다 (to be surprising) + 다니 → 놀랍다니 (How surprising!)
 ```
-**Example**: 
-- "그녀가 한국에 간다니!" (Geunyeoga Hanguk-e gannani!)  
-  "She is going to Korea (what?!)"
+---
 ## 3. Comparative Analysis
-~다니 (dani) can be compared to:
-- **~네요 (neyo)**: While both are used to express surprise, ~네요 is often more neutral, while ~다니 conveys a stronger sense of disbelief or astonishment.
-    - **Example**: "재미있네요!" vs. "재미있다니!" 
-    - Translations: "That's interesting!" (neutral surprise), "That’s interesting (unbelievable)!" (stronger surprise).
+### Comparison with **~다니까**
+- **~다니까** is used to provide a reason or explanation, often translated as "because."
+  - 예: *늦었**다니까** 사과했어요.* (I apologized **because** I was late.)
+- **~다니** focuses on expressing surprise, not providing reasons.
+### Comparison with **~더니**
+- **~더니** indicates a contrast or change after an action, often used when observing something.
+  - 예: *비가 오**더니** 지금은 맑아요.* (It was raining, but now it's clear.)
+- **~다니** is used for exclamatory reactions, not to show contrast.
+---
 ## 4. Examples in Context
 ### Sentence Examples
-- **Informal**:
-  - "네가 그런 말을 했다니!"  
-    "That you said such a thing!"
-  
-- **Formal**:
-  - "그 일이 정말 있었다니, 믿을 수 없습니다."  
-    "I can’t believe that thing really happened."
-- **Written**:
-  - "그녀가 상을 받다니 정말 대단합니다."  
-    "It’s really amazing that she received an award."
-- **Spoken**:
-  - "너도 연주회에 갔었니? 왜 안 알려줬다니!"  
-    "You went to the concert? Why didn’t you let me know?!"
+1. **네가 그걸 다 먹었다니 정말 대단해!**
+   *I can't believe you ate all of that! Amazing!*
+2. **이렇게 빨리 끝냈다니 믿을 수 없어.**
+   *I can't believe you finished so quickly.*
+3. **그 영화가 그렇게 재미있었다니 다음에 꼭 볼게요.**
+   *I didn't expect the movie to be so interesting; I'll watch it next time.*
+4. **저 사람이 한국말을 그렇게 잘한다니 놀라워요.**
+   *It's surprising that person speaks Korean so well.*
+5. **오늘이 네 생일이라니! 미리 알았으면 선물 준비했을 텐데.**
+   *I can't believe today is your birthday! If I had known earlier, I would have prepared a gift.*
+### Usage in Different Contexts
+- **Formal Spoken:** Add polite endings for formality.
+  - 예: *시험에 합격했다니 축하합니다!* (Congratulations on passing the exam!)
+- **Informal Spoken:** Used among friends or close acquaintances.
+  - 예: *네가 이겼다니 대박!* (You won? Awesome!)
+---
 ## 5. Cultural Notes
-### Cultural Relevance
-The usage of ~다니 reflects the Korean cultural context of expressing surprise, often intertwined with values of community and shared experiences. It's common in conversations to acknowledge and react to others' statements with emphasis on the listener's emotional response.
+### Expressing Emotions in Korean
+Korean language often uses specific grammar structures to convey emotions subtly and appropriately. Using **~다니** reflects a natural way of expressing surprise or amazement, fitting well within social norms.
+### Levels of Politeness
+- Adjust the level of politeness by adding endings:
+  - Informal: **-다니**
+    - *네가 왔다니!* (You came!)
+  - Polite: **-다니요**
+    - *네가 왔다니요!* (You came!)
+- In formal settings, it's important to match the politeness level to the situation and the person you're speaking with.
 ### Idiomatic Expressions
-- "이럴 수가 있다니!"  
-  "I can’t believe this!"
+- **세상에 이렇게 맛있을 수 있다니!**
+  *I can't believe something can be this delicious!*
+- **시간이 이렇게 빨리 지나갔다니 믿기지 않아.**
+  *I can't believe how quickly time has passed.*
+---
 ## 6. Common Mistakes and Tips
-### Error Analysis
-- **Frequent Mistake**: Using ~다니 as a statement rather than in reaction to someone's claim.
-    - **Correct**: "너가 승진했다니!" (You got promoted? That’s surprising!)
-   
-### Learning Strategies
-- **Mnemonic Device**: Associate ~다니 with "Dani is shocked!" to remember it expresses surprise or disbelief.
+### Common Mistakes
+1. **Incorrect Attachment:**
+   - Wrong: *예쁘**하다니***
+   - Correct: *예쁘**다니***
+2. **Using with Nouns Incorrectly:**
+   - **~다니** is typically not attached to nouns directly. Instead, use **이라니** for nouns.
+   - Wrong: *학생**다니***
+   - Correct: *학생**이라니***
+### Tips
+- **Remember the Emotional Context:** **~다니** is all about expressing emotion. Think about situations where you feel surprised or amazed.
+- **Practice with Common Adjectives and Verbs:** Start by making sentences using frequently used words like *크다* (big), *좋다* (good), *오다* (come).
+---
 ## 7. Summary and Review
 ### Key Takeaways
-- ~다니 is used to express surprise or incredulity about information.
-- It can attach to any assertion that is surprising to the speaker.
+- **~다니** is used to express surprise, disbelief, or amazement.
+- Attach **~다니** to verb and adjective stems.
+- Adjust politeness levels by adding appropriate endings.
+- Not used directly with nouns; use **~이라니** instead.
 ### Quick Recap Quiz
-1. What does the suffix ~다니 express?
-   - A) Joy
-   - B) Surprise
-   - C) Sadness
-   - **Answer**: B) Surprise
-2. Which of the following can ~다니 be used with?
-   - A) Only verbs
-   - B) Only adjectives
-   - C) Both verbs and adjectives in their declarative forms
-   - **Answer**: C) Both verbs and adjectives in their declarative forms
-3. True or False: ~다니 conveys strong disbelief. 
-   - **Answer**: True
+1. **Fill in the Blank:** *그가 그렇게 빨리 달릴 수 있다___ 놀랍네요!*
+   - **Answer:** **다니**
+2. **True or False:** **~다니** can be used directly after nouns.
+   - **Answer:** False (Use **~이라니** with nouns)
+3. **Correct the Sentence:** *맛있다다니 정말이에요!*
+   - **Corrected:** *맛있다니 정말이에요!*
+---
+By incorporating **~다니** into your speech, you'll communicate your reactions more naturally and connect better with Korean speakers through shared expressions of surprise or admiration.
+
+---
+© [Hanabira.org](https://hanabira.org)

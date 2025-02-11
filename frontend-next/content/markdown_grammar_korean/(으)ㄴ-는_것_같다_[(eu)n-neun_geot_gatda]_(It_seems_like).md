@@ -1,90 +1,117 @@
 Processing keyword: (으)ㄴ/는 것 같다 [(eu)n/neun geot gatda] (It seems like)
 # Korean Grammar Point: (으)ㄴ/는 것 같다 [(eu)n/neun geot gatda] (It seems like)
-# Grammar Explanation: (으)ㄴ/는 것 같다 [(eu)n/neun geot gatda] 
+
+
 ## 1. Introduction
-The grammar point (으)ㄴ/는 것 같다 is commonly used in Korean to express conjecture or to suggest that something seems to be a certain way. It's a way to share an interpretation or assumption without asserting it as a fact.
-## 2. Core Grammar Explanation 
-### Detailed Explanation
-- **(으)ㄴ/는 것 같다** is made up of three parts:
-  - **(으)ㄴ/는**: This is a suffix that attaches to verbs or adjectives.
-    - For descriptive verbs (adjectives), you add **-ㄴ**.
-    - For action verbs, you add **-는**.
-  - **것**: This means "thing" or "fact". When combined with the previous part, it effectively changes the meaning to "the fact that..."
-  - **같다**: This translates to "to seem" or "to be like".
-### Structure
-1. **Descriptive Verb (Adjective)**
-   - Attach **-ㄴ** to the stem.
-   - Example: *맑다* (to be clear) → *맑은 것 같다* (It seems to be clear).
-   
-2. **Action Verb**
-   - Attach **-는** to the stem.
-   - Example: *하다* (to do) → *하는 것 같다* (It seems like [someone is] doing).
-### Formation Diagram
-```markdown
-                     Verb Stem
-                        |
-            +-----------+------------+
-            |                        |
-         (으)ㄴ               는
-            |                        |
-         (Adjective)            (Action Verb)
-            |                        |
-         것 같다               것 같다
-```
+In Korean, expressing doubt, guess, or speculation is common in daily conversations. The grammar pattern **(으)ㄴ/는 것 같다** is frequently used to indicate that something "seems like" or "appears to be." Understanding this pattern will enhance your ability to express uncertainty or make assumptions based on available information.
+
+---
+## 2. Core Grammar Explanation
 ### Meaning
-- Overall, (으)ㄴ/는 것 같다 means "It seems like..." or "It appears that..."
+The expression **(으)ㄴ/는 것 같다** is used to:
+- Make assumptions or guesses about a situation.
+- Express that something appears a certain way based on evidence or feelings.
+- Convey uncertainty or probability.
+### Structure
+The structure changes depending on the tense and whether the verb is an action verb or a descriptive (adjective) verb.
+#### Formation:
+| Verb Type            | Tense      | Conjugation             |
+|----------------------|------------|-------------------------|
+| **Action Verb (AV)** | Present    | **-는 것 같다**          |
+| **Action Verb (AV)** | Past       | **-(으)ㄴ 것 같다**       |
+| **Descriptive Verb (DV)** | Present | **-(으)ㄴ 것 같다**       |
+| **All Verbs**        | Future     | **-(으)ㄹ 것 같다**       |
+#### Conjugation Rules:
+1. **For verbs ending with a vowel:**
+   - **Past Tense (Action Verbs):** Attach **-ㄴ 것 같다**
+   - **Present Tense (Action Verbs):** Attach **-는 것 같다**
+   - **Future Tense (All Verbs):** Attach **-ㄹ 것 같다**
+2. **For verbs ending with a consonant:**
+   - **Past Tense (Action Verbs):** Attach **-은 것 같다**
+   - **Present Tense (Action Verbs):** Attach **-는 것 같다**
+   - **Future Tense (All Verbs):** Attach **-을 것 같다**
+### Formation Diagram
+Let's take the verb **먹다** (to eat) as an example.
+- **Present Tense:**
+  ```
+  먹다 -> 먹 + 는 것 같다 -> 먹는 것 같다
+  ```
+- **Past Tense:**
+  ```
+  먹다 -> 먹 + 은 것 같다 -> 먹은 것 같다
+  ```
+- **Future Tense:**
+  ```
+  먹다 -> 먹 + 을 것 같다 -> 먹을 것 같다
+  ```
+---
 ## 3. Comparative Analysis
-- **-는 것** vs. **-(으)ㄴ 것**:
-  - Use **-는 것** for actions that are currently happening or habitual actions.
-  - Use **-(으)ㄴ 것** for past states or situations.
-  
-#### Example Comparison
-- 지금 비가 오는 것 같아요. (It seems like it’s raining now.)
-- 어제 비가 온 것 같아요. (It seemed like it rained yesterday.)
+### Similar Grammar Points
+- **-아/어 보이다**: Means "looks like" based on appearance.
+  - *예: 피곤해 보여요.* (You look tired.)
+- **-나 보다**: Used to speculate based on evidence.
+  - *예: 비가 오나 봐요.* (It seems it's raining.)
+### Differences
+- **(으)ㄴ/는 것 같다** is more general and can be used in various contexts, while **-아/어 보이다** is based on visual cues.
+- **-나 보다** is only used with action verbs and cannot be used in the past tense.
+---
 ## 4. Examples in Context
-### Sentence Examples
-1. **Formal**: 
-   - **그 영화는 재밌는 것 같아요.**
-     - Translation: It seems like that movie is interesting.
-  
-2. **Informal**:
-   - **너 요즘 많이 바쁜 것 같아.**
-     - Translation: It seems like you are very busy these days.
-3. **Written**:
-   - **이 결과는 예상보다 좋은 것 같다.**
-     - Translation: This result seems to be better than expected.
-4. **Spoken**:
-   - **이 음식은 맛있는 것 같아!**
-     - Translation: It seems like this food is delicious!
+### Formal Situations
+- **회의가 길어질 것 같습니다.**
+  - *It seems the meeting will be extended.*
+- **그분은 이미 떠난 것 같습니다.**
+  - *It appears that person has already left.*
+### Informal Conversations
+- **오늘 비가 오는 것 같아.**
+  - *It seems like it's raining today.*
+- **너 피곤한 것 같아 보인다.**
+  - *You look like you're tired.*
+### Written Form
+- **그 영화는 재미있는 것 같아요.**
+  - *It seems that movie is interesting.*
+### Spoken Form
+- **학생들이 이해한 것 같아요?**
+  - *Do you think the students understood?*
+---
 ## 5. Cultural Notes
 ### Cultural Relevance
-In Korean communication, expressing uncertainty or conjectures is common and often shows politeness. Using (으)ㄴ/는 것 같다 allows speakers to suggest opinions without sounding too forceful.
+In Korean culture, making direct statements can sometimes be considered too strong or blunt. Using **(으)ㄴ/는 것 같다** softens the statement, showing modesty or politeness by indicating that you're expressing an opinion rather than a fact.
+### Politeness Levels
+- **같습니다**: Very formal
+- **같아요**: Polite
+- **같아**: Informal
 ### Idiomatic Expressions
-- **그래서 그런 것 같아요.**
-  - Translation: That’s why it seems like that.
+- **꿈을 꾸는 것 같다**: *Feels like dreaming.*
+  - Used when experiencing something unbelievable.
+---
 ## 6. Common Mistakes and Tips
 ### Error Analysis
-- **Incorrect Vowel Ending**: 
-  - Mistakingly using the wrong ending can lead to confusion (e.g., *할 것 가타* instead of *하는 것 같아*).
-  
+1. **Mixing up tenses:**
+   - Incorrect: *내일 비가 오는 것 같아요.* (Talking about future with present tense.)
+   - Correct: *내일 비가 올 것 같아요.* (Use future tense.)
+2. **Using with adjectives incorrectly:**
+   - Incorrect: *맛있는 것 같다.* (Without context, it may be ambiguous.)
+   - Correct: *이 음식이 맛있는 것 같아요.* (Specify what seems tasty.)
 ### Learning Strategies
-- **Mnemonic Device**: 
-  - Remember it as "It appears to be the thing" for visualizing its use.
+- **Mnemonic Device:** Think of **것 같다** as "thing that seems" to remember it expresses a seeming or appearance.
+- **Practice Conjugation:** Regularly conjugate different verbs in various tenses with **(으)ㄴ/는 것 같다** to become familiar.
+---
 ## 7. Summary and Review
 ### Key Takeaways
-- (으)ㄴ/는 것 같다 is used to express conjecture.
-- Use **-는** for action verbs and **-ㄴ** for descriptive verbs.
-- It shows politeness and indirectness in Korean communication.
+- **(으)ㄴ/는 것 같다** is used to express that something seems or appears a certain way.
+- The conjugation changes based on tense and verb type.
+- It adds politeness and softness to statements, aligning with Korean cultural norms.
+- Be mindful of tenses and verb types when conjugating.
 ### Quick Recap Quiz
-1. How do you use (으)ㄴ/는 것 같다 for the verb "가다" (to go)?
-   - A. 가는 것 같다
-   - B. 간 것 같다
-   - C. 가다 것 같다
-2. Translate this sentence: "It seems like it is hot."
-   - A. 덥지 않는 것 같다.
-   - B. 더운 것 같다.
-   - C. 더운 것이 가능하다. 
-3. What does (으)ㄴ/는 것 같다 imply?
-   - A. Certainty
-   - B. Conjecture
-   - C. Command
+1. How would you say "It seems that he is busy" in Korean?
+2. Conjugate **살다** (to live) with **(으)ㄴ 것 같다** in past tense.
+3. What is the difference between **-는 것 같다** and **-나 보다**?
+---
+**Answers:**
+1. **그는 바쁜 것 같아요.**
+2. **산 것 같다.** (살다 -> 산 것 같다)
+3. **(으)ㄴ/는 것 같다** is used with both action and descriptive verbs in various tenses, while **-나 보다** is used only with action verbs and indicates speculation based on evidence.
+
+
+---
+© [Hanabira.org](https://hanabira.org)

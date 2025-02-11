@@ -1,154 +1,123 @@
 Processing keyword: ~하면서 [hamyeonseo] (While doing)
 # Korean Grammar Point: ~하면서 [hamyeonseo] (While doing)
-# Korean Grammar Point: ~하면서 [hamyeonseo] (While doing)
+
 ## 1. Introduction
-The grammar point **~면서** (hamyeonseo) is used to indicate that two actions are happening simultaneously, or to express that an action is being performed while another action occurs. This structure is often found in both spoken and written Korean, allowing speakers to convey actions that are connected.
+The Korean grammar point **~하면서** *(hamyeonseo)* is used to express that two actions are happening simultaneously. It is equivalent to the English conjunction "while doing" and is commonly used to indicate that one action occurs in parallel with another.
+
 ---
 ## 2. Core Grammar Explanation
-### Detailed Explanation
-**Structure:** 
-The structure for using **~하면서** is as follows:
-1. Take the verb stem of the first action.
-2. Add **면서** to the verb stem.
-3. Follow it with another action (verb). 
-**Example Structure:**  
-\[Verb Stem\] + **면서** + [other action]
 ### Meaning
-- **~면서** combines two actions, indicating that both are happening at the same time.
-- It can be used to show parallel actions or to describe conditions.
+**~하면서** is attached to a verb stem to indicate that the subject performs two actions at the same time. It emphasizes the simultaneity of the actions and is used when the same subject is involved in both actions.
+### Structure
+#### Formation
+```markdown
+[Verb Stem] + **(하)** + **면서** + [Second Action]
+- For most verbs: Verb Stem + **면서**
+- For 하다 verbs: Verb Stem + **하면서**
+Examples:
+- 먹다 (to eat) → 먹 + **으면서** → 먹으면서
+- 공부하다 (to study) → 공부하 + **면서** → 공부하면서
+```
+#### Notes:
+- When the verb stem ends with a vowel or consonant, simply add **면서**.
+- For verbs ending with **하다**, use **하면서** directly.
 ### Formation Diagram
+```plaintext
+[Subject] + [Verb 1 Stem] + 면서 + [Verb 2]
 ```
-[Action 1] + ~면서 + [Action 2]
-```
-| Action 1 (Verb Stem) | Action 2 (Verb)      |
-|----------------------|----------------------|
-| 가다 (gada) - to go | 공부하다 (gongbuhada) - to study |
-| 일하다 (ilhada) - to work | 노래하다 (norae-hada) - to sing   |
+- **Verb 1**: The action being done simultaneously.
+- **Verb 2**: The main action.
 ---
 ## 3. Comparative Analysis
-**Comparison with Similar Grammar Points:**
-- **~고** (go): Used to list actions in sequence.
-  - **Example:** 
-    - 책을 읽고 음악을 듣다. (I read a book and listen to music.)
-- **~면서** denotes simultaneous actions, whereas **~고** indicates a series of actions.
-| Aspect         | ~하면서               | ~고                     |
-|----------------|-----------------------|-------------------------|
-| Meaning        | While doing           | And / also              |
-| Use            | Simultaneous actions   | Sequential actions       |
-| Context        | Describes actions happening together | Describes actions one after the other |
+### **~면서** vs. **~는 동안에**
+- **~면서**: Indicates two actions happening at the same time by the **same subject**.
+  - *음악을 들으면서 공부해요.*  
+    *(I study **while listening** to music.)*
+- **~는 동안에**: Indicates that an action happens during the time another action occurs and can involve **different subjects**.
+  - *엄마가 요리하는 동안에 나는 숙제했어요.*  
+    *(I did homework **while** mom was cooking.)*
+### **~면서** vs. **~(으)면서도**
+- **~면서**: Simply indicates simultaneity of actions.
+- **~(으)면서도**: Adds a contrasting meaning, similar to "even though" or "despite."
+  - *돈이 없으면서도 비싼 차를 샀어요.*  
+    *(He bought an expensive car **even though** he doesn't have money.)*
 ---
 ## 4. Examples in Context
 ### Sentence Examples
-1. **Formal:**
-   - **한국어를 공부하면서 음악을 듣습니다.**
-   - *I listen to music while studying Korean.*
-2. **Informal:**
-   - **친구하고 이야기하면서 고구마를 먹자.**
-   - *Let’s eat sweet potatoes while chatting with friends.*
-3. **Written:**
-   - **그들은 회의 중에 여러 의견을 나누면서 결정을 내렸다.**
-   - *They made decisions while exchanging various opinions during the meeting.*
-4. **Spoken:**
-   - **전화하면서 자동차를 운전하지 마세요.**
-   - *Please don’t drive while talking on the phone.*
+#### 1. Formal Polite Speech
+- *저는 아침에 신문을 읽으면서 커피를 마셔요.*  
+  **Translation**: I drink coffee while reading the newspaper in the morning.
+#### 2. Informal Speech
+- *친구랑 수다 떨면서 길을 걸었어.*  
+  **Translation**: I walked down the street chatting with my friend.
+#### 3. Written Form
+- *그녀는 음악을 들으면서 책을 읽었다.*  
+  **Translation**: She read a book while listening to music.
+#### 4. Formal Written Form
+- *학생들은 토론을 하면서 주제를 깊게 이해했다.*  
+  **Translation**: The students deeply understood the topic while having a discussion.
+### Various Contexts
+- **Expressing Multitasking**:
+  - *저는 운동하면서 영어를 배워요.*  
+    **Translation**: I learn English while exercising.
+- **Describing Background Actions**:
+  - *비가 오면서 바람이 불기 시작했어요.*  
+    **Translation**: It started to rain while the wind began to blow.
+- **Narrating Simultaneous Events**:
+  - *아이들은 웃으면서 놀고 있었어요.*  
+    **Translation**: The children were playing while laughing.
 ---
 ## 5. Cultural Notes
 ### Cultural Relevance
-In Korean culture, multitasking is common, particularly in work and social settings. Using **~면서** reflects the ability to manage multiple responsibilities simultaneously, which is often admired.
-### Levels of Politeness
-The level of politeness in using **~면서** can vary based on the context. In formal situations (like business meetings), more polite verbs are typically used.
+In Korean culture, the ability to manage multiple tasks efficiently is valued. Using **~하면서** reflects the practicality and multitasking aspect of daily life. It is common to describe routines or habits where actions are combined to save time.
 ### Idiomatic Expressions
-- **음악을 들으면서 공부하다:** *To study while listening to music* - Reflects a typical student behavior in Korea.
+- **늦잠을 자면서도 지각하지 않아요.**  
+  *Despite oversleeping, I am not late.*
+  - Here, **~면서도** adds the nuance of contrast.
 ---
 ## 6. Common Mistakes and Tips
 ### Error Analysis
-- **Using a noun instead of a verb:** Some learners mistakenly try to use a noun with **~면서**. Remember, it must follow a verb stem.
-  - Incorrect: *돈을 벌면서 일을.* (This is incorrect because "돈을 벌다" is not a verb stem.)
-  - Correct: *돈을 벌면서 일을 했어요.* (I worked while earning money.)
+#### Mistake 1: Using **~면서** with Different Subjects
+- **Incorrect**: *나는 음악을 들으면서 동생은 춤을 춰요.*  
+  **Explanation**: **~면서** assumes the same subject for both actions.
+- **Correct**: *나는 음악을 들으면서 춤을 춰요.*  
+  *(I dance while listening to music.)*
+- **Alternatively**, if subjects are different, use **~는 동안에**:
+  - *내가 음악을 듣는 동안에 동생은 춤을 춰요.*  
+    *(While I listen to music, my sibling dances.)*
+#### Mistake 2: Improper Tense Conjugation
+- **Incorrect**: *저는 먹으면서 영화 봤어요.*  
+  *(I watch a movie while eating.)*
+- **Tip**: Ensure the tense matches the context.
+- **Correct**: *저는 먹으면서 영화를 봤어요.*  
+  *(I watched a movie while eating.)*
 ### Learning Strategies
-- **Mnemonic Device:** Remember "**~면서 = while doing**" by thinking of two people doing something together at the same time, like eating and talking.
+- **Practice Combining Verbs**: Take two actions you commonly do simultaneously and form sentences using **~하면서**.
+- **Subject Consistency**: Remember that **~하면서** requires the same subject. Use other conjunctions if subjects differ.
 ---
 ## 7. Summary and Review
 ### Key Takeaways
-- **~면서** expresses simultaneous actions.
-- It emphasizes the relationship between two actions happening at the same time.
-- Always use the verb stem before adding **~면서**.
+- **~하면서** is used to express two simultaneous actions performed by the same subject.
+- Attach **~면서** directly to the verb stem; for **하다** verbs, use **하면서**.
+- Do not use **~하면서** when the subjects of the two actions are different; use **~는 동안에** instead.
 ### Quick Recap Quiz
-1. What does **~면서** mean?
-2. Can you use a noun before **~면서**?
-3. Create a sentence using **~면서** to express two actions.
+#### Question 1
+Fill in the blank with the correct form of **~하면서**:
+- *저는 노래를 ______ 집안을 청소해요.*
+  - **Answer**: 부르면서  
+    *(I clean the house while singing.)*
+#### Question 2
+Is the following sentence correct? If not, correct it.
+- *동생은 공부하면서 나는 TV를 봐요.*
+  - **Answer**: Incorrect. The subjects are different.
+  - **Corrected Sentence**: *동생이 공부하는 동안에 나는 TV를 봐요.*  
+    *(While my younger sibling studies, I watch TV.)*
+#### Question 3
+Translate the following sentence into Korean using **~하면서**:
+- "I listen to podcasts while jogging."
+  - **Answer**: *저는 조깅하면서 팟캐스트를 들어요.*
 ---
-Processing keyword: ~하면서 [hamyeonseo] (While doing)
-# Korean Grammar Point: ~하면서 [hamyeonseo] (While doing)
-# Grammar Point: ~하면서 [hamyeonseo] (While doing)
-## 1. Introduction
-The Korean grammar point ~하면서 is used to express simultaneous actions, indicating that one action occurs while another action is taking place. It is a useful structure that can enhance the variety and depth of your sentences in both spoken and written Korean.
+By understanding and practicing **~하면서**, you can accurately describe actions happening at the same time and enhance the flow of your Korean sentences.
+
 ---
-## 2. Core Grammar Explanation
-### Detailed Explanation
-The structure ~하면서 is formed by taking a verb stem, adding -면서, and then continuing with the rest of the sentence. 
-**Structure:**
-- Verb Stem + -면서 + (main clause)
-### Example Breakdown
-1. **Verbs:** Look at the verb you want to use, for example, 가다 (gada - to go).
-2. **Stem:** The stem of 가다 is 가 (ga).
-3. **Add -면서:** Attach -면서 to create 가면서 (gamyeonseo - while going).
-**Diagram:**
-```
-[Verb Stem] + -면서 → [Action 1] + (Main Clause)
-      가다 (to go)    +   -면서    →  가면서      →  학교에 가면서 공부해요 (I study while going to school).
-```
-### Meaning
-- Used to show that two actions are happening at the same time.
-- Implies a connection between the actions.
----
-## 3. Comparative Analysis
-The functionality of ~하면서 shares similarities with other grammatical forms in Korean like:
-- **~고 [go]:** This structure also connects actions but does not emphasize the simultaneity as directly as ~하면서. 
-  - Example: 집에 가고 친구를 만났어요 (I went home and met a friend).
-  
-### Key Differences:
-- **~면서** indicates that both actions are happening concurrently.
-- **~고** tells that actions are simply added in sequence.
----
-## 4. Examples in Context
-### Sentence Examples
-1. **Formal:**
-   - **한국어를 공부하면서 음악을 들어요.**  
-     (I listen to music while studying Korean.)
-  
-2. **Informal:**
-   - **영화를 보면서 팝콘을 먹자.**  
-     (Let's eat popcorn while watching a movie.)
-3. **Written:**
-   - **그는 일하면서 계속 전화 통화를 했다.**  
-     (He was on the phone while working.)
-4. **Spoken:**
-   - **걸으면서 생각해봤어.**  
-     (I thought about it while walking.)
----
-## 5. Cultural Notes
-### Cultural Relevance
-In Korean culture, multitasking is often emphasized, and using ~하면서 can reflect the importance of efficiency. Understanding the levels of politeness is essential; using this structure in formal contexts may require extra layers of politeness (such as 존댓말). 
-### Idiomatic Expressions
-- **일하면서 배우다 (ilhamyeonseo baeu-da):** to learn while working.
----
-## 6. Common Mistakes and Tips
-### Error Analysis
-1. **Forgetting the proper conjugation of the verb.** 
-   - Correct: 하면서 (hameonseo); Incorrect: 하면서(ha) 
-2. **Using 대화하면서 (daehwahamyeonseo) when not in a conversation context.**
-### Learning Strategies
-- **Mnemonic Devices:** Remember "hamyeonseo" as "ham (with) + yeonseo (doing)" to associate the word with simultaneous actions.
-- **Practice in Pairs:** Try to create sentences with a partner, alternating actions to fully grasp the concept.
----
-## 7. Summary and Review
-### Key Takeaways
-- ~하면서 is useful for expressing simultaneous actions.
-- It forms a connection between two activities.
-- There are distinctions from other conjunctions like ~고.
-### Quick Recap Quiz
-1. How do you form ~하면서?
-2. What is the difference between ~하면서 and ~고?
-3. Create a sentence using ~하면서. 
-By understanding and practicing this grammar point, you will enhance your Korean communication skills and express actions more effectively!
+© [Hanabira.org](https://hanabira.org)

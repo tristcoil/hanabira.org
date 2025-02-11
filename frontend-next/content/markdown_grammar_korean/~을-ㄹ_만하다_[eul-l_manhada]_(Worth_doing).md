@@ -1,64 +1,107 @@
 Processing keyword: ~을/ㄹ 만하다 [eul/l manhada] (Worth doing)
 # Korean Grammar Point: ~을/ㄹ 만하다 [eul/l manhada] (Worth doing)
-# Grammar Point: ~을/ㄹ 만하다 [eul/l manhada] (Worth Doing)
-## Introduction
-The grammar structure **~을/ㄹ 만하다** is used to indicate that something is worth doing. It expresses the idea that an action has sufficient value or merit to be considered worthy of one’s time or effort.
-## Core Grammar Explanation
-### Detailed Explanation
-- **Structure**: The basic structure of this grammar point is formed by adding **~을** (for verbs ending in a consonant) or **~ㄹ** (for verbs ending in a vowel) to the verb stem, followed by **만하다**.
-  
-- **Formation**:
-  - For consonant-ending verbs: **Verb stem + 을 만하다**
-  - For vowel-ending verbs: **Verb stem + ㄹ 만하다**
-### Meaning
-This structure implies appreciation or recognition of the action's value. It can be used to suggest an opinion or personal judgment about the activity being discussed.
-#### Visual Diagram
-```
-Verb Stem    +   을/ㄹ   + 만하다
-(e.g., 가다)  (for vowel: 가) + 만하다
-              →   갈 만하다   (It is worth going)
-```
-## Comparative Analysis
+
+## 1. Introduction
+The grammar pattern **~을/ㄹ 만하다** is used in Korean to express that something is **worth doing** or **deserves to be done**. It's a versatile expression that helps you recommend actions or evaluate experiences.
+
+---
+## 2. Core Grammar Explanation
+### Meaning and Usage
+- **Express Worthiness or Merit**: Indicates that an action is worth undertaking.
+- **Imply Recommendation**: Softly suggests that someone should try or experience something.
+### Structure
+To form **~을/ㄹ 만하다**, attach it to the verb stem according to the following rules:
+1. **Verb stem ending with a consonant**: **~을 만하다**
+2. **Verb stem ending with a vowel**: **~ㄹ 만하다**
+### Formation Diagram
+
+| Verb Infinitive | Verb Stem | Ending Type | Suffix      | Result          |
+|-----------------|------------|-------------|-------------|-----------------|
+| 먹다 (to eat)    | 먹         | Consonant   | 을 만하다   | 먹을 만하다     |
+| 보다 (to see)    | 보         | Vowel       | ㄹ 만하다   | 볼 만하다       |
+| 읽다 (to read)   | 읽         | Consonant   | 을 만하다   | 읽을 만하다     |
+| 가다 (to go)     | 가         | Vowel       | ㄹ 만하다   | 갈 만하다       |
+
+---
+## 3. Comparative Analysis
 ### Comparison with Similar Grammar Points
-- **~어/아도 되다 [eodeo doeda]**: This structure indicates permission (e.g., "You may do it"). In contrast, **~을/ㄹ 만하다** focuses on the value or worth of doing an action.
-- **~는 것이 좋다 [neun geosi jota]**: This expression suggests that something is good or advisable. However, **~을/ㄹ 만하다** emphasizes that the action is not only good but worth the effort to be considered.
-## Examples in Context
+1. **~을/ㄹ 만하다 vs. ~을/ㄹ 만에**
+   - **~을/ㄹ 만하다**: Indicates that something is worth doing.
+     - 예: 이 영화는 볼 만해요. (This movie is worth watching.)
+   - **~을/ㄹ 만에**: Expresses the lapse of time after an action.
+     - 예: 한 달 만에 만났어요. (We met after a month.)
+2. **~을/ㄹ 만하다 vs. ~을/ㄹ 수 있다**
+   - **~을/ㄹ 만하다**: Emphasizes the value or merit of doing something.
+     - 예: 그 책은 읽을 만해요. (That book is worth reading.)
+   - **~을/ㄹ 수 있다**: Indicates the ability or possibility to do something.
+     - 예: 나는 수영을 할 수 있어요. (I can swim.)
+---
+## 4. Examples in Context
 ### Sentence Examples
-1. **Formal Written**: 
-   - 이 영화는 볼 만하다.
-   - *(This movie is worth watching.)*
-2. **Informal Spoken**:
-   - 그 식당은 가 볼 만해!
-   - *(That restaurant is worth going to!)*
-3. **Written Context**:
-   - 이 책은 읽을 만한 가치가 있다.
-   - *(This book has worth to be read.)*
-4. **Casual Conversation**:
-   - 우주 여행은 할 만한 경험이야.
-   - *(Space travel is worth experiencing.)*
-## Cultural Notes
+1. **Informal Spoken**
+   - **이 식당은 정말 먹을 만해.**
+     - This restaurant is really worth eating at.
+2. **Formal Spoken**
+   - **그 전시회는 볼 만합니다.**
+     - That exhibition is worth seeing.
+3. **Written**
+   - **이 영화는 감동적이어서 추천할 만하다.**
+     - This movie is touching, so it's worth recommending.
+4. **Casual Conversation**
+   - **A:** 부산 여행 어때?
+   - **B:** 갈 만해. 재미있었어.
+     - **A:** How's the trip to Busan?
+     - **B:** It's worth going. It was fun.
+5. **Polite Conversation**
+   - **이 책은 학생들이 읽을 만해요.**
+     - This book is worth students reading.
+---
+## 5. Cultural Notes
 ### Cultural Relevance
-The notion of worth can reflect cultural values where quality and meaningful experiences are encouraged. Using **~을/ㄹ 만하다** often signifies respect and acknowledgment of the value placed on various activities.
-### Ideomatic Expressions
-- **가는 길에 잠깐 들를 만하다** 
-  - *(It's worth a brief stop on the way.)*
-## Common Mistakes and Tips
+In Korean culture, modesty and humility are valued. Using **~을/ㄹ 만하다** allows speakers to make recommendations or positive evaluations without sounding boastful or overly assertive.
+### Idiomatic Expressions
+- **살 만하다**
+  - **Meaning**: Life is bearable; things are okay.
+  - **Usage**: Expressing that, despite difficulties, one can manage.
+  - **Example**: 요즘 바쁘지만 그래도 살 만해요.
+    - I'm busy these days, but life is still manageable.
+---
+## 6. Common Mistakes and Tips
 ### Error Analysis
-1. **Incorrect Usage of Vowel vs. Consonant Ending**: 
-   - Be careful not to confuse when to use **~을** and **~ㄹ** based on the verb endings.
-   - *Example*: Saying “가을 만하다” instead of “갈 만하다”.
-### Learning Strategies 
-- **Mnemonic Device**: Remember “Eul Manha” as sounds like “It's worth it!” — Eul adds worth!
-  
-## Summary and Review
+1. **Incorrect Suffix Attachment**
+   - **Mistake**: *읽다* + ㄹ 만하다 → *읽ㄹ 만하다* ❌
+   - **Correction**: *읽다* (verb stem *읽*) ends with a consonant, so add **을 만하다** → *읽을 만하다* ✔️
+2. **Misusing Tense**
+   - **Mistake**: 미래 시제에서 *할 만하다*를 그대로 사용
+   - **Correction**: Adjust **하다** for tense:
+     - Past: *할 만했다*
+     - Present: *할 만하다*
+     - Future: *할 만할 것이다*
+### Learning Strategies
+- **Mnemonic Device**: Remember that **만하다** sounds like **"man had a"** reason to do something. So, **~을/ㄹ 만하다** indicates there's a reason or worth in doing something.
+- **Practice with Common Verbs**
+  | Verb     | Verb Stem | Ending Type | Formed Expression   |
+  |----------|-----------|-------------|---------------------|
+  | 듣다 (to listen) | 듣        | Consonant   | 들을 만하다         |
+  | 쓰다 (to write) | 쓰        | Vowel       | 쓸 만하다           |
+  | 배우다 (to learn) | 배우       | Vowel       | 배울 만하다         |
+---
+## 7. Summary and Review
 ### Key Takeaways
-- **~을/ㄹ 만하다** indicates an action that is worth considering.
-- It has specific suffix rules based on the verb's final sound.
-- It differs in meaning and usage from permission-related structures and recommendations.
+- **~을/ㄹ 만하다** is used to express that an action is **worth doing**.
+- Attach **을 만하다** after consonant-ending verb stems and **ㄹ 만하다** after vowel-ending verb stems.
+- It conveys modest recommendations and positive evaluations.
 ### Quick Recap Quiz
-1. Formulate a sentence using **~을/ㄹ 만하다** with the verb "하다" (to do).
-   - *(Expected Example: 할 만하다 - worth doing.)*
-2. What is the difference between **~을/ㄹ 만하다** and **~어/아도 되다**?
-   - *(Answer: The former indicates worthiness of action, while the latter indicates permission.)*
-3. Provide a formal sentence using **~을/ㄹ 만하다**.
-   - *(Expected Example: 이 공연은 볼 만합니다.)*
+1. **Fill in the blank**: 이 노래는 들___ 만해요.
+   - **Answer**: 을 → *들을 만해요.*
+2. **Translate to Korean**: "It's worth trying."
+   - **Answer**: 시도할 만해요.
+3. **True or False**: **~을/ㄹ 만하다** can be used to express ability.
+   - **Answer**: False. It expresses worthiness, not ability.
+4. **Correct the mistake**: "그 책은 읽ㄹ 만했어요."
+   - **Answer**: "그 책은 읽을 만했어요."
+---
+By mastering **~을/ㄹ 만하다**, you enhance your ability to make recommendations and express value judgments in Korean, enriching your conversational skills.
+
+---
+© [Hanabira.org](https://hanabira.org)

@@ -1,161 +1,108 @@
 Processing keyword: ~하자마자 [hajamaja] (As soon as)
 # Korean Grammar Point: ~하자마자 [hajamaja] (As soon as)
-# Grammar Point: ~하자마자 [hajamaja] (As soon as)
+
 ## 1. Introduction
-The expression ~하자마자 is a Korean grammatical structure used to indicate that one action occurs immediately after another action takes place. It translates to "as soon as" in English and emphasizes the immediacy of the sequence of events.
+In Korean, the grammatical expression **~하자마자** is used to indicate that one action occurs immediately after another action. It translates to **"as soon as"** or **"immediately after"** in English. This structure emphasizes the immediacy between two events, highlighting that there is no delay between them.
+
 ---
 ## 2. Core Grammar Explanation
-### Detailed Explanation
-~하자마자 is formed by taking the verb stem and adding -자마자. Here’s a breakdown of the structure:
-- **Verb Stem + 하자마자**
-- **Usage**: This structure is typically used with actions that happen in a very close time frame, indicating that one event follows directly after another.
-### Meaning, Structure, and Formation Diagram
-- **Meaning**: Indicates that action "A" happens immediately before or after action "B."
-- **Structure**:
-  - Verb + 하자마자
-- **Diagram**:
-  
-```
-[Action A] 하자마자 -> [Action B]
-```
-### Visual Aids
-| Korean        | English                       |
-|---------------|-------------------------------|
-| 나가자마자   | As soon as I go out          |
-| 자자마자     | As soon as I sleep            |
-| 끝내자마자   | As soon as I finish           |
----
-## 3. Comparative Analysis
-The structure ~하자마자 is often compared with:
-- **~고 나서 (go naseo)**: This means "after doing something" and indicates that the second action occurs at some point after the first action, which could be delayed or not immediate.
-| Structure     | Function                        | Example                                     |
-|---------------|---------------------------------|---------------------------------------------|
-| ~하자마자    | Immediately after               | 공부하자마자 잠을 잤어요. (As soon as I studied, I slept.) |
-| ~고 나서      | After completing an action      | 공부하고 나서 잠을 잤어요. (After I studied, I slept.)      |
----
-## 4. Examples in Context
-### Sentence Examples
-1. **Formal Context**:
-   - 수업이 끝나자마자 집에 갔습니다.
-     - As soon as the class finished, I went home.
-  
-2. **Informal Context**:
-   - 친구가 오자마자 놀기 시작했어.
-     - As soon as my friend arrived, we started playing.
-  
-3. **Written Context**:
-   - 비가 오자마자 사람들이 뛰어갔다.
-     - As soon as it started raining, people ran away.
-  
-4. **Spoken Context**:
-   - 밥 먹자마자 TV 보자!
-     - Let’s watch TV as soon as we eat!
----
-## 5. Cultural Notes
-### Cultural Relevance
-In Korean culture, punctuality and timeliness are valued. Using ~하자마자 reflects this cultural trait by indicating that actions should be sequenced closely and without delay. 
-### Levels of Politeness
-When using this structure, context matters:
-- In formal situations, remember to use the appropriate ending (e.g., -습니다).
-- In casual situations with friends, it’s acceptable to drop endings and use informal speech.
-### Idiomatic Expressions
-- **하자마자 듣다**: "to listen right away"
-- **가기 전 하자마자**: "as soon as before going"
----
-## 6. Common Mistakes and Tips
-### Error Analysis
-- **Incorrect**: 수업이 끝났자마자 집에 갔습니다. 
-  - **Correction**: 수업이 끝나자마자 집에 갔습니다. 
-    - (Use the verb stem "끝나" instead of "끝났.")
-### Learning Strategies
-- **Mnemonic Device**: Remember “하자마자” as “Hurry! I’m going to act right away!” to reinforce the idea of immediacy.
----
-## 7. Summary and Review
-### Key Takeaways
-- ~하자마자 means "as soon as" and indicates immediate sequences of actions.
-- Can be compared with ~고 나서 which indicates a less immediate action.
-- Used in various contexts with attention to formality and politeness.
-### Quick Recap Quiz
-1. What does ~하자마자 mean?
-2. How does it compare to ~고 나서?
-3. Create a sentence using ~하자마자 in a formal context.
-This structured approach should help learners grasp the use and nuances of ~하자마자 effectively!
-Processing keyword: ~하자마자 [hajamaja] (As soon as)
-# Korean Grammar Point: ~하자마자 [hajamaja] (As soon as)
-# Grammar Point: ~하자마자 [hajamaja] (As soon as)
-## 1. Introduction
-The expression ~하자마자 is used to indicate that one action occurs immediately after another action. It highlights a close temporal relationship between two events.
----
-## 2. Core Grammar Explanation
-### Detailed Explanation
-- **Meaning**: "As soon as" or "immediately after."
-- **Structure**: [Verb (하다) + 자마자]
+### Meaning
+**~하자마자** expresses that the action in the main clause happens immediately after the action in the preceding clause without any lapse of time.
+### Structure
+To form this grammatical structure:
+1. **Verb Stem** + **자마자**
 ### Formation Diagram
-```
-[Action 1] + 하자마자 + [Action 2]
-```
-### Breakdown
-1. **Verb**: The verb’s stem is used, which is typically a verb that describes an action.
-2. **자**: This is a suffix that connects the verb to the next clause.
-3. **마자**: Indicates "as soon as" or "right after."
-### Example Structure
-- 보이다 (to show) → 보이자마자 (as soon as it showed)
-- 시작하다 (to start) → 시작하자마자 (as soon as it started)
+
+| Verb (Dictionary Form) | Verb Stem | + 자마자 | Result                    | Meaning             |
+|------------------------|-----------|---------|---------------------------|---------------------|
+| 일어나다 (to get up)   | 일어나    | 자마자  | 일어나자마자             | As soon as I got up |
+| 먹다 (to eat)          | 먹        | 자마자  | 먹자마자                 | As soon as I eat    |
+| 끝나다 (to finish)     | 끝나      | 자마자  | 끝나자마자               | As soon as it ends  |
+| 도착하다 (to arrive)   | 도착하    | 자마자  | 도착하자마자             | As soon as I arrive |
+
+**Note:** Do not add any tense markers (e.g., 았/었) before **자마자**.
 ---
 ## 3. Comparative Analysis
-### Comparison with Related Grammar Points
-- **~고 나서**: This means "after doing," which indicates a longer duration between two actions. 
-    - Example: 수업이 끝나고 나서 집에 갔다. (I went home after class ended.)
-- **~면서**: This means "while doing" and does not imply immediacy.
-    - Example: 음악을 들으면서 공부했다. (I studied while listening to music.)
-### Key Difference
-- **~하자마자** emphasizes immediacy, while **~고 나서** and **~면서** do not.
+### Similar Grammar Points
+#### 1. **~고 나서** (After doing)
+- **Usage:** Indicates one action occurs after another, but there's no emphasis on immediacy.
+- **Example:** 일을 **하고 나서** 쉽니다.
+  - "I rest **after** working."
+#### 2. **~(으)면 바로** (If/When... immediately)
+- **Usage:** Highlights immediate action upon a condition being met.
+- **Example:** 집에 **가면 바로** 잘 거예요.
+  - "If I go home, I will sleep immediately."
+#### 3. **~자** (As soon as)
+- **Usage:** Similar to **~자마자**, but slightly more formal/literary.
+- **Example:** 비가 **오자** 사람들이 뛰기 시작했다.
+  - "As soon as it rained, people started running."
 ---
 ## 4. Examples in Context
-### Sentence Examples
-1. **Formal Context**:
-   - 시험이 끝나자마자 친구를 만났습니다.
-   - (As soon as the exam ended, I met my friend.)
-2. **Informal Context**:
-   - 집에 가자마자 TV 켰어.
-   - (I turned on the TV as soon as I got home.)
-3. **Written Context**:
-   - 그는 문을 열자마자 소리가 들렸다.
-   - (As soon as he opened the door, a sound was heard.)
-4. **Spoken Context**:
-   - 밥 먹자마자 나갈 거야?
-   - (Are you going out as soon as you finish eating?)
+### Informal Speech
+1. **집에 도착하자마자 잤어.**
+   - "I slept as soon as I arrived home."
+2. **친구를 보자마자 웃었어.**
+   - "I laughed as soon as I saw my friend."
+### Formal Speech
+1. **회의가 끝나자마자 보고서를 작성했습니다.**
+   - "I drafted the report as soon as the meeting ended."
+2. **손님이 떠나자마자 청소를 시작했어요.**
+   - "I started cleaning as soon as the guests left."
+### Written Context
+1. **태양이 뜨자마자 새들이 노래를 부르기 시작했다.**
+   - "As soon as the sun rose, the birds began to sing."
+2. **시험이 끝나자마자 학생들은 교실을 나갔다.**
+   - "As soon as the exam ended, the students left the classroom."
+### Spoken Context
+1. **수업이 끝나자마자 뭐 할 거예요?**
+   - "What will you do as soon as class ends?"
+2. **영화를 보자마자 리뷰를 쓸 거예요.**
+   - "I will write a review as soon as I watch the movie."
 ---
 ## 5. Cultural Notes
 ### Cultural Relevance
-- The usage of ~하자마자 reflects a respect for timeliness and efficiency in Korean culture. This is often seen in professional settings and social interactions where punctuality is valued.
-### Levels of Politeness
-- Be mindful of your politeness level; using formal language is appropriate in business or when speaking to elders, while informal language can be used among friends.
+- **Punctuality and Promptness:** Korean culture places value on being prompt and efficient. Using **~하자마자** reflects a sense of immediacy and responsibility in actions.
+- **Politeness Levels:** Ensure that the verbs used with **~하자마자** match the appropriate speech level for the context (informal, polite, formal).
 ### Idiomatic Expressions
-- The expression doesn't have common idioms but is often used in time-sensitive scenarios, especially when making plans.
+- **눈을 뜨자마자**: "As soon as I opened my eyes."
+  - **Example:** 눈을 뜨자마자 휴대폰을 확인했어요.
+    - "As soon as I opened my eyes, I checked my phone."
+- **집에 오자마자**: "As soon as I came home."
+  - **Example:** 집에 오자마자 샤워를 했어요.
+    - "As soon as I came home, I took a shower."
 ---
 ## 6. Common Mistakes and Tips
 ### Error Analysis
-1. **Incorrect Usage**: Using it with nouns instead of verbs.
-   - Incorrect: 책을 읽자마자
-   - *(Should be used with a verb: 읽는다)*
-2. **Tense Confusion**: Mixing past and present tenses.
-   - Incorrect: 시험이 끝났자마자
-   - *(Use: 끝나자마자)*
+1. **Using Tense Markers Before 자마자**
+   - **Incorrect:** 먹**었**자마자 (❌)
+   - **Correct:** 먹자마자 (✔️)
+   **Explanation:** Do not add past tense markers (**았/었**) before **자마자**. The tense is shown in the main verb of the sentence.
+2. **Attaching 자마자 to the Conjugated Verb**
+   - **Incorrect:** 먹어요자마자 (❌)
+   - **Correct:** 먹자마자 (✔️)
+   **Explanation:** Attach **자마자** directly to the verb stem without any conjugation.
 ### Learning Strategies
-- Remember the immediate connection by associating it with the image of two actions performed back-to-back.
-- Practice with verbs that represent common daily activities, such as 먹다 (to eat), 가다 (to go), and 보다 (to see).
+- **Mnemonic Device:** Think of "**Verb + Immediately**", reminding you to attach **자마자** directly after the verb stem to indicate immediate action.
+- **Practice Makes Perfect:** Create your own sentences using verbs you commonly use to become familiar with the structure.
 ---
 ## 7. Summary and Review
 ### Key Takeaways
-- **~하자마자** indicates actions that occur immediately after one another.
-- It is different from other temporally related expressions like ~고 나서 and ~면서.
-- Usage varies in formality, suitable for both spoken and written Korean.
+- **~하자마자** means **"as soon as"** and emphasizes immediacy between two actions.
+- Attach **자마자** directly to the **verb stem** without tense markers.
+- The tense of the sentence is indicated in the main clause, not before **자마자**.
 ### Quick Recap Quiz
-1. What does ~하자마자 mean?
-2. How is it different from ~고 나서?
-3. Give an example sentence using ~하자마자 in an informal context.
-### Answers
-1. "As soon as."
-2. ~하자마자 emphasizes immediacy, while ~고 나서 indicates a delay.
-3. (Examples will vary; make sure to create one!)
+1. **How do you attach ~자마자 to a verb?**
+   - **Answer:** Attach **자마자** directly to the **verb stem** without any tense markers.
+2. **Translate the following sentence:**
+   - **회의가 시작되자마자 참석자들이 집중했어요.**
+     - "As soon as the meeting started, the participants focused."
+3. **Is the following sentence correct? If not, correct it:**
+   - **나는 영화를 봤자마자 친구에게 이야기했어요.**
+   - **Answer:** Incorrect.
+     - **Correct Sentence:** **나는 영화를 보자마자 친구에게 이야기했어요.**
+       - "As soon as I watched the movie, I talked to my friend."
+---
+By understanding and practicing the use of **~하자마자**, you'll be able to express immediate actions naturally in Korean. Keep practicing with different verbs to become more comfortable with this grammar point!
+
+---
+© [Hanabira.org](https://hanabira.org)

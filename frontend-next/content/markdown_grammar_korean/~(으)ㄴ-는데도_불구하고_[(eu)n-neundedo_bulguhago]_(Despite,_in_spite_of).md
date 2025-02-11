@@ -1,63 +1,131 @@
 Processing keyword: ~(으)ㄴ/는데도 불구하고 [(eu)n/neundedo bulguhago] (Despite, in spite of)
 # Korean Grammar Point: ~(으)ㄴ/는데도 불구하고 [(eu)n/neundedo bulguhago] (Despite, in spite of)
-# Grammar Point: ~(으)ㄴ/는데도 불구하고 (eu/n/neundedo bulguhago)
+
 ## 1. Introduction
-In Korean, the phrase ~(으)ㄴ/는데도 불구하고 is used to convey the meaning of "despite" or "in spite of." It highlights a contrast between two clauses, typically showing that even though a certain situation exists, another outcome occurs.
+The Korean grammar structure **~(으)ㄴ/는데도 불구하고** translates to **"despite"** or **"in spite of"** in English. It is used to express a contrast between two clauses, where the action or state in the second clause occurs **despite** the condition stated in the first clause. This expression emphasizes that the expected outcome did not occur, highlighting an unexpected or contrary result.
+
+---
 ## 2. Core Grammar Explanation
-### Detailed Explanation
-The structure of this grammar point is as follows:
-1. **Conjugation**: 
-   - For **verbs** and **adjecitves**:
-     - Use the stem form +(으)ㄴ for adjectives (같다 → 같은).
-     - Use the verb + -는데 for action verbs (가다 → 가는데).
-   - Combine this with **불구하고** which means "despite" or "in spite of."
-**Structure**: 
-- **Noun**: Noun + 불구하고
-- **Adjective**: Adjective stem + (으)ㄴ/는데도 불구하고
-- **Verb**: Verb stem + -는데도 불구하고
-### Visual Aids
-| Type         | Structure                       | Example                              | Translation                             |
-|--------------|---------------------------------|--------------------------------------|-----------------------------------------|
-| Noun         | Noun + 불구하고                 | 날씨가 추운데도 불구하고 갔다.        | It was cold, but we went despite that. |
-| Adjective    | Adjective (으)ㄴ/는데도 불구하고 | 예쁜데도 불구하고 샀어요.           | I bought it despite it being pretty.   |
-| Verb         | Verb -는데도 불구하고          | 늦었는데도 불구하고 일어났어요.       | I woke up despite being late.          |
+### Meaning
+- Indicates that an action or state happens **despite** a certain condition.
+- Emphasizes the contrast between the expected outcome and the actual result.
+### Structure
+The structure of **~(으)ㄴ/는데도 불구하고** depends on the type of verb or adjective and its ending.
+#### Formation Diagram
+| **Verb/Adjective Type**           | **Stem Ending** | **Suffix**              |
+| --------------------------------- | --------------- | ----------------------- |
+| **Action Verb**                   | Any             | -는데도 불구하고          |
+| **Descriptive Verb (Adjective)**  | Vowel           | -ㄴ데도 불구하고          |
+| **Descriptive Verb (Adjective)**  | Consonant       | -은데도 불구하고          |
+| **Noun + 이다**                   | Vowel           | -ㄴ데도 불구하고          |
+| **Noun + 이다**                   | Consonant       | -인데도 불구하고          |
+#### Breakdown
+- **Action Verbs**: Attach **-는데도 불구하고** to the verb stem.
+- **Descriptive Verbs ending with a vowel**: Attach **-ㄴ데도 불구하고**.
+- **Descriptive Verbs ending with a consonant**: Attach **-은데도 불구하고**.
+- **Nouns + 이다**:
+  - Noun ending with vowel: **-ㄴ데도 불구하고**.
+  - Noun ending with consonant: **-인데도 불구하고**.
+### Examples of Formation
+1. **Action Verb (가다 - to go)**
+   - 가 + **는데도 불구하고** = **가는데도 불구하고**
+   - *Despite going*
+2. **Descriptive Verb with Vowel Ending (크다 - to be big)**
+   - 크 + **ㄴ데도 불구하고** = **큰데도 불구하고**
+   - *Despite being big*
+3. **Descriptive Verb with Consonant Ending (작다 - to be small)**
+   - 작 + **은데도 불구하고** = **작은데도 불구하고**
+   - *Despite being small*
+4. **Noun + 이다 (학생이다 - to be a student)**
+   - 학생 + **인데도 불구하고** = **학생인데도 불구하고**
+   - *Despite being a student*
+### Visual Aid: How to Attach the Suffix
+```markdown
+[Verb/Adjective Stem] + [Suffix] + 불구하고
+- For action verbs:    먹 + 는데도 불구하고 → 먹는데도 불구하고
+- For adjectives (vowel ending):    예쁘 + ㄴ데도 불구하고 → 예쁜데도 불구하고
+- For adjectives (consonant ending): 춥 + 은데도 불구하고 → 추운데도 불구하고
+```
+---
 ## 3. Comparative Analysis
-- **Similar Grammar Point**: ~지만 (jiman) 
-  - **Difference**: While ~지만 expresses a simple contrast (A but B), ~(으)ㄴ/는데도 불구하고 emphasizes a more significant contrast, showcasing a situation that seems contradictory or unexpected.
-  
-| Grammar Point         | Meaning            | Example                                |
-|-----------------------|--------------------|----------------------------------------|
-| ~(으)ㄴ/는데도 불구하고 | Despite that       | 비가 오는데도 불구하고 나갔어요.       |
-| ~지만                  | But                | 비가 오지만 나갔어요.                  |
-  
+### Comparison with Similar Grammar Points
+1. **~지만** (but, however)
+   - **Usage**: Connects two clauses with contrasting information.
+   - **Example**: 피곤하지만 일해야 해요. (*I'm tired, but I have to work.*)
+   - **Difference**: **~지만** is less emphatic and doesn't necessarily imply an unexpected outcome.
+2. **~(으)ㄴ/는데** (but, and)
+   - **Usage**: Provides background information or contrasts.
+   - **Example**: 비가 오는데 우산이 없어요. (*It's raining, and I don't have an umbrella.*)
+   - **Difference**: **~(으)ㄴ/는데** is a softer contrast and often sets the scene rather than emphasizing the unexpected.
+3. **~(으)ㄴ/는데도** (even though)
+   - **Usage**: Similar to **~(으)ㄴ/는데도 불구하고** but less formal.
+   - **Example**: 많이 먹었는데도 배가 고파요. (*Even though I ate a lot, I'm hungry.*)
+   - **Difference**: **~(으)ㄴ/는데도 불구하고** is more formal and emphatic.
+---
 ## 4. Examples in Context
-### Sentence Examples
-1. **Formal Context**:
-   - 비가 오는데도 불구하고 회의에 참석했습니다.
-   - (Despite the rain, I attended the meeting.)
-2. **Informal Context**:
-   - 수업 끝났는데도 불구하고 친구를 기다려.
-   - (I’m waiting for my friend despite the class being over.)
-3. **Written Context**:
-   - 온도가 낮았음에도 불구하고 수영을 하러 갔다.
-   - (I went swimming despite the low temperature.)
+### Example Sentences
+#### Formal Speech/Writing
+1. **그는 최선을 다했는데도 불구하고 성공하지 못했습니다.**
+   - *Despite doing his best, he couldn't succeed.*
+2. **가격이 비싼데도 불구하고 그 제품은 잘 팔립니다.**
+   - *The product sells well despite its high price.*
+#### Informal Conversation
+1. **비가 오는데도 불구하고 축구하러 나갔어.**
+   - *He went out to play soccer despite the rain.*
+2. **아픈데도 불구하고 학교에 갔어.**
+   - *I went to school despite being sick.*
+#### Written Context
+1. **많은 불편함이 있었는데도 불구하고 행사는 성공적으로 마무리되었습니다.**
+   - *Despite many inconveniences, the event concluded successfully.*
+2. **시간이 늦었는데도 불구하고 그는 집에 돌아오지 않았다.**
+   - *Despite the late hour, he did not return home.*
+#### Spoken Context
+1. **겨울인데도 불구하고 날씨가 따뜻하네요.**
+   - *It's warm despite being winter.*
+2. **차가 막히는데도 불구하고 제시간에 도착했어요?**
+   - *You arrived on time despite the traffic jams?*
+---
 ## 5. Cultural Notes
 ### Cultural Relevance
-Using ~(으)ㄴ/는데도 불구하고 appropriately reflects a nuanced understanding of Korean politeness and formality. In formal situations, it’s common to emphasize the contrast more strongly.
+- The use of **~(으)ㄴ/는데도 불구하고** reflects the Korean value of perseverance.
+- It often highlights situations where individuals push through obstacles, a theme common in Korean stories and media.
+### Levels of Politeness and Formality
+- **~(으)ㄴ/는데도 불구하고** is considered formal and is frequently used in written language, news reports, and formal speeches.
+- In casual speech, people might shorten it to **~(으)ㄴ/는데도**.
 ### Idiomatic Expressions
-- 사고가 났는데도 불구하고 (despite the accident)
-- 퇴근 후에도 불구하고 (despite not finishing work)
+- **불구하고** itself means "disregarding" or "ignoring," so it often appears in idiomatic expressions emphasizing overcoming obstacles.
+---
 ## 6. Common Mistakes and Tips
-### Error Analysis
-- **Common Mistake**: Confusing it with ~지만 (jiman), which does not imply the same level of contrast. 
-- **Tip**: Remember that ~(으)ㄴ/는데도 불구하고 is stronger and suggests an unexpected outcome.
+### Common Mistakes
+1. **Incorrect Attachment of Suffixes**
+   - Mistake: 짧다 → 짧는데도 불구하고 (Incorrect)
+   - Correction: 짧다 → 짧은데도 불구하고 (Correct)
+   - **Tip**: For adjectives ending with a consonant, remember to use **-은데도 불구하고**.
+2. **Confusing with ~지만**
+   - Mistake: 비가 오지만 축제에 갔어요.
+   - While grammatically correct, using **~지만** doesn't convey the same emphasis on the unexpectedness as **~(으)ㄴ/는데도 불구하고**.
+   - **Tip**: Use **~(으)ㄴ/는데도 불구하고** when you want to stress that something happened contrary to expectations.
 ### Learning Strategies
-- Think of the phrase as "Even though A, B happens" to strengthen your grasp of its usage.
+- **Mnemonic Device**: Think of **불구하고** as "regardless" – the action happens regardless of the preceding condition.
+- **Practice**: Create example sentences contrasting expected and actual outcomes to solidify understanding.
+---
 ## 7. Summary and Review
 ### Key Takeaways
-- Use ~(으)ㄴ/는데도 불구하고 to express contrasting situations meaning “despite” or “in spite of.”
-- Differentiating from ~지만 (jiman) showcases a deeper level of discrepancy.
+- **~(으)ㄴ/는데도 불구하고** is used to express that despite a certain condition, an unexpected result occurs.
+- It is more formal and emphatic than other contrasting conjunctions like **~지만**.
+- Proper attachment of the suffix depends on whether the verb or adjective ends with a vowel or consonant and whether it's an action or descriptive verb.
 ### Quick Recap Quiz
-1. How do you form the structure for adjectives using ~(으)ㄴ/는데도 불구하고?  
-2. Translate the sentence: "I went to the party despite being tired."  
-3. Provide an example sentence using a noun with ~(으)ㄴ/는데도 불구하고.
+1. **Fill in the blank**: 시간이 없는데도 불구하고 그는 도와주었어요.
+   - What does this sentence mean?
+     - *Despite not having time, he helped.*
+2. **Choose the correct form** of **예쁘다** with **~(으)ㄴ/는데도 불구하고**.
+   - a) 예쁜데도 불구하고
+   - b) 예쁘는데도 불구하고
+   - **Answer**: a) 예쁜데도 불구하고
+3. **True or False**: **~(으)ㄴ/는데도 불구하고** can be used interchangeably with **~지만** without any change in meaning.
+   - **Answer**: False
+---
+By mastering **~(으)ㄴ/는데도 불구하고**, you enhance your ability to express complex contrasts and unexpected outcomes in Korean, bringing greater depth and nuance to your communication.
+
+---
+© [Hanabira.org](https://hanabira.org)

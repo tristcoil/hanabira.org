@@ -1,69 +1,99 @@
 Processing keyword: 계속 [gyesok] (Continue to)
 # Korean Grammar Point: 계속 [gyesok] (Continue to)
-# Korean Grammar Point: 계속 [gyesok] (Continue to)
+
 ## 1. Introduction
-The Korean word "계속" [gyesok] translates to "continue to" in English. It denotes an action that persists over a period of time. This grammar point is essential for expressing ongoing actions or situations in both written and spoken Korean.
+In this lesson, we'll explore the Korean adverb **계속** (*gyesok*), which means **"continuously"** or **"keep doing"**. Understanding how to use **계속** will help you express ongoing actions or states in Korean, adding depth and fluency to your language skills.
+
+---
 ## 2. Core Grammar Explanation
-### Detailed Explanation
-"계속" is used to indicate that an action is ongoing or repetitive. It emphasizes the continuity of an action, suggesting that it has not stopped and will likely continue. 
-### Meaning, Structure, Formation
-- **Meaning**: To continue doing something.
-- **Structure**: 
-  - Verb + 계속
-  - Adjective + 계속 
-  - Noun + 계속
-#### Formation Diagram
-```plaintext
-[Subject] + [Verb/Adjective/Noun] + 계속
+### Meaning and Usage
+**계속** is used to indicate that an action or state continues without interruption. It can modify verbs to express that something is happening continuously or repeatedly over a period of time.
+### Structure
+The basic structure is:
+```markdown
+[Subject] + 계속 + [Verb]
 ```
-### Visual Aids
-| Verb/Adjective/Noun | Examples                      |
-|---------------------|------------------------------|
-| 가다 (to go)        | 계속 가고 있다 (continue going) |
-| 공부하다 (to study) | 계속 공부하고 있다 (continue studying) |
-| 행복 (happiness)    | 계속 행복하다 (continue to be happy) |
+- **계속** is placed **before the verb** it modifies.
+- It functions as an **adverb**, describing the manner of the action.
+### Formation Diagram
+```markdown
+Subject   계속   Verb
+   ↓        ↓      ↓
+ 주어    계속하다   동사
+```
+---
 ## 3. Comparative Analysis
-"계속" can be compared to the English phrases "keep on" or "go on". However, "계속" specifically highlights that the action started in the past and is still in progress. 
-- **Similar Grammar Point**: "여전히" [yeojeonhi] (still)
-  - "여전히" implies that a state continues without interruption but does not specifically indicate an action. 
-  - Example: 그녀는 여전히 학생이다. (She is still a student.)
+While **계속** means "to continue," it's useful to compare it with other expressions of continuation in Korean:
+| Grammar Point       | Meaning                        | Usage Example                  |
+| ------------------- | ------------------------------ | ------------------------------ |
+| **계속**            | Continuously, keep doing       | 계속 먹다 (to keep eating)     |
+| **-아/어 있다**     | To be in a state of            | 앉아 있다 (to be sitting)      |
+| **-고 있다**        | Currently doing (progressive)  | 먹고 있다 (am eating)          |
+| **-아/어 가다**     | Continue doing into the future | 늘어 가다 (to keep increasing) |
+- **-고 있다** expresses a current, ongoing action.
+- **계속** adds the nuance of **continuity without interruption**.
+---
 ## 4. Examples in Context
-### Sentence Examples
-1. **Formal Context**:
-   - 한국어를 계속 배우고 있습니다.  
-     (I am continuing to learn Korean.)
-   
-2. **Informal Context**:
-   - 나는 계속 일해.  
-     (I keep on working.)
-  
-3. **Written Context**:
-   - 이 문제에 대해 계속 논의해야 합니다.  
-     (We need to continue discussing this issue.)
-  
-4. **Spoken Context**:
-   - 계속 기다려줄래?  
-     (Can you continue to wait?)
+### Formal Speech
+1. **회의가 계속 진행되고 있습니다.**
+   - *Hoeuiga gyesok jinhaengdoego issseumnida.*
+   - The meeting is continuing.
+2. **그는 계속 노력할 것입니다.**
+   - *Geuneun gyesok noryeokhal geosimnida.*
+   - He will continue to make efforts.
+### Informal Speech
+1. **나는 계속 공부하고 있어.**
+   - *Naneun gyesok gongbuhago isseo.*
+   - I am continuing to study.
+2. **비가 계속 와.**
+   - *Biga gyesok wa.*
+   - It keeps raining.
+### Written Context
+1. **경제가 계속 성장하고 있다.**
+   - *Gyeongjega gyesok seongjanghago itda.*
+   - The economy is continuously growing.
+### Spoken Context
+1. **왜 계속 날 따라와?**
+   - *Wae gyesok nal ttarawa?*
+   - Why do you keep following me?
+2. **음악이 계속 반복돼.**
+   - *Eumagi gyesok banbokdwae.*
+   - The music keeps repeating.
+---
 ## 5. Cultural Notes
-### Cultural Relevance
-Using "계속" is common in Korean for expressing ongoing situations or efforts. Politeness and formality are important in Korean culture, so choose the appropriate verb endings based on the context when using "계속".
+### Levels of Politeness and Formality
+- **계속** is neutral and can be used in both formal and informal settings.
+- Adjust the verb endings to match the appropriate level of politeness.
 ### Idiomatic Expressions
-- **계속해서**: This is a variation that means "continuously."
-  - Example: 계속해서 이야기해 주세요. (Please keep talking continuously.)
+- **계속해서** (*gyesokhaeseo*): An emphatic form meaning "continuously" or "without stopping."
+  - **예:** 그는 계속해서 질문했다.
+    - *Geuneun gyesokhaeseo jilmunhaetda.*
+    - He kept asking questions.
+---
 ## 6. Common Mistakes and Tips
 ### Error Analysis
-1. **Omitting** "계속": Many learners forget to add "계속" when they want to express that an action is ongoing.
-   - Incorrect: 한국어를 배우고 있습니다. (I am learning Korean.)
-   - Correct: 한국어를 계속 배우고 있습니다. (I am continuing to learn Korean.)
+**Common Mistake:** Placing **계속** after the verb.
+- **Incorrect:** 나는 공부하고 계속 있어.
+- **Correct:** 나는 계속 공부하고 있어.
+**Explanation:** **계속** should come **before** the verb it modifies.
 ### Learning Strategies
-- **Mnemonic Device**: Think of "계속" as a “gear” that keeps the action in "drive," letting it “continue” forward. 
+- **Mnemonic Device:** Think of **계속** as a **"continuation signal"** that needs to be placed right before the action it affects.
+- **Tip:** When you want to express "keep doing something," remember the pattern **계속 + Verb**.
+---
 ## 7. Summary and Review
 ### Key Takeaways
-- "계속" indicates that an action continues over time.
-- Use appropriate verb forms to convey continuity.
-- Differentiate between "계속" and similar expressions like "여전히."
+- **계속** means **"continuously"** or **"keep doing"**.
+- It is placed **before the verb** to indicate an ongoing action.
+- Adjust verb endings for appropriate politeness levels.
 ### Quick Recap Quiz
-1. What does "계속" mean in English?
-2. Construct a sentence using "계속" with a verb of your choice.
-3. Compare "계속" and "여전히." How do their meanings differ?
-By understanding and practicing the usage of "계속," you can enrich your Korean communication, making your speech more expressive and fluent!
+1. Fill in the blank: 비가 ___ 내리고 있어요. (*The rain is continuing to fall.*)
+   - **Answer:** 계속
+2. True or False: **계속** should be placed after the verb.
+   - **Answer:** False
+3. Translate to Korean: "She keeps talking."
+   - **Answer:** 그녀는 계속 말하고 있어요.
+---
+Feel free to revisit this lesson to reinforce your understanding of **계속**. Practice by making your own sentences to describe actions that continue over time!
+
+---
+© [Hanabira.org](https://hanabira.org)

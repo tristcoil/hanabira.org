@@ -1,81 +1,113 @@
 Processing keyword: まだ〜ないです (mada 〜 nai desu)
 # Japanese Grammar Point: まだ〜ないです (mada 〜 nai desu)
-# Grammar Point: まだ〜ないです (mada 〜 nai desu)
-## Introduction
-The Japanese expression まだ〜ないです (mada 〜 nai desu) is used to indicate that something has not happened yet or is still not the case. This construction is invaluable for expressing things that are pending or expected to happen in the future, making it crucial for both conversational and written Japanese.
+
+## 1. Introduction
+In this lesson, we'll explore the Japanese grammar point **まだ〜ないです** (*mada 〜 nai desu*), which is used to express that something has **not happened yet**. This structure is commonly used in everyday conversation to indicate that an expected action or event hasn't occurred up to the present moment.
+
 ---
-## Core Grammar Explanation
-### Detailed Explanation
-The structure of まだ〜ないです is as follows:
-- **まだ (mada)**: Means "yet" or "still." It indicates that something is not done, but there is an implication that it might happen in the future.
-- **Verb (nai form)**: The negative form of a verb. In this case, it needs to be in the non-past (dictionary form) negative form to imply "not yet."
+## 2. Core Grammar Explanation
+### Meaning
+**まだ〜ないです** translates to "**not yet**" or "**still haven't**" in English. It conveys that an action is pending but anticipated to happen in the future.
 ### Structure
-- **Formation**: 
-    - まだ + Verb (negative form)
-  
-#### Formation Diagram:
+The basic structure is:
+```plaintext
+まだ + Verb (ていない form) + です。
 ```
-まだ (mada) + [Verb in Negative Form]
-```
-### Examples of Verb Forms:
-Let's consider the verb "食べる" (taberu - to eat):
-- 食べる (taberu) ➔ 食べない (tabenai - to not eat)
-- まだ食べないです (mada tabenai desu) - I have not eaten yet.
+### Formation Diagram
+| Component               | Function                         |
+|-------------------------|----------------------------------|
+| **まだ**                | "Not yet"                        |
+| **Verb (ていない form)** | Negative present perfect form    |
+| **です**                | Polite sentence ending           |
+### Detailed Explanation
+- **まだ (mada)**: An adverb meaning "still" or "not yet".
+- **Verb (ていない form)**: The verb is conjugated into the negative present continuous form, indicating an action that has not been completed.
+- **です (desu)**: A copula used to make the sentence polite.
+**Note**: The negative present continuous or present perfect form (ていない) expresses that an action has not been done up to now.
 ---
-## Comparative Analysis
-### Comparison with Similar Grammar Points
-- **まだ (mada)** vs. **もう (mou)**: While まだ indicates something has not happened yet, もう means "already" and indicates something has happened. 
-**Examples**:
-- まだ行っていません (mada itteimasen) - I have not gone yet.
-- もう行きました (mou ikimashita) - I have already gone.
-### Differences in nuance:
-- **まだ〜ないです** emphasizes that an event has not occurred up to now with a potential for it to occur later.
-- It can be contrasted with もう (mou) which reinforces a completed action.
+## 3. Comparative Analysis
+### Similar Grammar Points
+1. **もう〜ました (mō 〜 mashita)**
+   - **Usage**: Expresses that an action has already been completed.
+   - **Example**: もう勉強しました。(*Mō benkyō shimashita*) - "I have already studied."
+2. **まだです (mada desu)**
+   - **Usage**: A shorter phrase meaning "not yet", often used alone.
+   - **Example**: レポートは終わりましたか？ (*Repōto wa owarimashita ka?*) - "Have you finished the report?"
+     - いいえ、まだです。 (*Iie, mada desu.*) - "No, not yet."
+### Differences and Nuances
+- **まだ〜ないです** emphasizes that the action hasn't occurred but is expected.
+- **もう〜ました** indicates the action has been completed.
+- Using **まだです** alone is less specific and doesn't include the verb action.
 ---
-## Examples in Context
+## 4. Examples in Context
 ### Sentence Examples
-#### Formal Context:
-1. まだ宿題を終わらせていないです。(Mada shukudai o owaraseteinai desu.)  
-   - I have not finished my homework yet.
-  
-2. 彼女はまだ来ていないです。(Kanojo wa mada kiteinai desu.)  
-   - She has not arrived yet.
-#### Informal Context:
-1. まだご飯食べてないよ。(Mada gohan tabetenai yo.)  
-   - I haven't eaten rice yet. (casual)
-  
-2. もう宿題やった？ - まだだよ！(Mou shukudai yatta? - Mada da yo!)  
-   - Did you do your homework? - Not yet!
-#### Written Context:
-1. 彼はまだ返事をくれません。(Kare wa mada henji o kuremasen.)  
-   - He has not given me a reply yet.
+1. **Formal Speech**
+   - **私はまだ朝ご飯を食べていないです。**
+     - *Watashi wa mada asagohan o tabete inai desu.*
+     - "I haven't eaten breakfast yet."
+2. **Informal Speech**
+   - **彼はまだ来ていない。**
+     - *Kare wa mada kite inai.*
+     - "He hasn't come yet."
+3. **Written Context**
+   - **新しい映画をまだ見ていないです。**
+     - *Atarashii eiga o mada mite inai desu.*
+     - "I haven't seen the new movie yet."
+4. **Spoken Conversation**
+   - **A:** 会議は始まりましたか？  
+     *Kaigi wa hajimarimashita ka?*  
+     "Has the meeting started?"
+   - **B:** いいえ、まだ始まっていないです。  
+     *Iie, mada hajimatte inai desu.*  
+     "No, it hasn't started yet."
+5. **Expressing Intentions**
+   - **宿題をまだしていないから、これからします。**
+     - *Shukudai o mada shite inai kara, kore kara shimasu.*
+     - "I haven't done my homework yet, so I'll do it now."
 ---
-## Cultural Notes 
+## 5. Cultural Notes
 ### Cultural Relevance
-Understanding the use of まだ in conversations can reflect patience and anticipation, which are valued in Japanese culture. It shows a polite acknowledgment that one is waiting for an event or response.
-### Levels of Politeness
-- **Casual**: Using まだ (mada) in informal speech among friends or close ones.
-- **Formal**: Using まだ (mada) in structured or official settings.
+- **Politeness Levels**: Adding **です** at the end makes the sentence polite, which is appropriate in formal situations or when speaking to someone of higher status.
+- **Expectation of Action**: Using **まだ〜ないです** implies that you are aware of the pending action and possibly intend to complete it, reflecting responsibility and social awareness.
 ### Idiomatic Expressions
-- まだまだ (mada mada): Indicates that there is still a long way to go or improvement. It is often used to show humility about one's capabilities or progress.
+- **まだまだです**  
+  *Mada mada desu*  
+  - Literal: "Not yet, not yet."
+  - Meaning: "I still have a long way to go." Used to express humility when someone praises you.
 ---
-## Common Mistakes and Tips
+## 6. Common Mistakes and Tips
 ### Error Analysis
-- **Using まだ with an incorrect verb form**: Remember that the negative form is essential. Mistaking the form can lead to confusion.
-  - Incorrect: まだ行きました (mada ikimashita - I have not gone yet).
-  - Correct: まだ行っていないです (mada itteinai desu).
+1. **Incorrect Verb Form**
+   - **誤り (Mistake):** まだ食べません。(*Mada tabemasen.*)
+     - This translates to "I will not eat yet," which implies a decision not to eat now.
+   - **正しい (Correct):** まだ食べていないです。(*Mada tabete inai desu.*)
+     - "I haven't eaten yet."
+2. **Omitting まだ**
+   - Forgetting to include **まだ** changes the meaning entirely.
+   - **誤り:** 書いていないです。(*Kaite inai desu.*) - "I'm not writing."
+   - **正しい:** まだ書いていないです。(*Mada kaite inai desu.*) - "I haven't written it yet."
 ### Learning Strategies
-- **Mnemonic Device**: Think of まだ (mada) as the waiting signal that something has not occurred, highlighting patience.
-- **Visual Aid**: Create flashcards of verbs in positive and negative forms to practice transformation.
+- **Remember the Pattern**: **まだ + Verb (ていない form) + です**
+- **Practice with Common Verbs**: Create sentences using verbs you frequently use.
+- **Listen and Repeat**: Listen to native speakers using this structure to get a natural feel for it.
 ---
-## Summary and Review
+## 7. Summary and Review
 ### Key Takeaways
-- まだ〜ないです is a structure that expresses that something has not happened yet.
-- It is formed by placing まだ before the negative form of the verb.
-- Context matters: use it appropriately in formal and informal settings to convey waiting or anticipation.
+- **まだ〜ないです** is used to express actions that have not occurred yet but are expected to happen.
+- The verb is in the **ていない** form (negative present continuous/present perfect).
+- Adding **です** makes the sentence polite; omitting it makes the sentence casual.
 ### Quick Recap Quiz
-1. Translate the following: "I have not seen the movie yet."
-2. Choose the correct form: まだ雨が (降る/降っていない)です。
-3. Create a sentence using "まだ" to indicate that you have not finished your work.
+1. **Translate to Japanese:** "I haven't decided yet."
+   - **Answer:** まだ決めていないです。(*Mada kimete inai desu.*)
+2. **True or False:** In **まだ〜ないです**, the verb should be in the affirmative form.
+   - **Answer:** False. The verb should be in the negative form.
+3. **Fill in the Blank:**  
+   **映画を______見ていない。**  
+   "I haven't watched the movie yet."
+   - **Answer:** まだ (*Mada*)
 ---
-Feel free to ask if you have any questions or need further clarification on this grammar point!
+By mastering **まだ〜ないです**, you'll enhance your ability to discuss pending actions and express yourself more naturally in Japanese.
+
+---
+
+© [Hanabira.org](https://hanabira.org)

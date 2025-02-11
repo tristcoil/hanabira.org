@@ -1,66 +1,111 @@
 Processing keyword: ~하고는 [hagoneun] (And then, after)
 # Korean Grammar Point: ~하고는 [hagoneun] (And then, after)
-# Korean Grammar Point: ~하고는 [hagoneun] (And then, after)
+
 ## 1. Introduction
-The grammar point ~하고는 is used to indicate an action or event that takes place after another action or situation. It is often translated into English as "and then" or "after (doing something)." This structure helps connect related events and sequences in storytelling or conversation.
+In this lesson, we'll explore the Korean grammar point **~하고는** (*hagoneun*), which is used to indicate that after one action, another action occurs—often unexpectedly or in contrast to what was anticipated. This expression helps connect actions and highlight the relationship or contrast between them.
+
+---
 ## 2. Core Grammar Explanation
-### Detailed Explanation
-- **Structure**: 
-  - `[Verb/Noun + 하곤은]`
-  
-  The structure consists of two main parts: 
-  - A verb or noun that represents the first action/event.
-  - The suffix -곤은 which follows the verb/noun.
-- **Formation**:
-  - Use the verb in its base form (dictionary form) or noun form followed by ~하고는 to indicate the sequential nature of the actions.
-### Visual Aid
-| Element          | Form                  | Example                       |
-|------------------|-----------------------|-------------------------------|
-| Verb (base form) | [Verb] + 하곤은      | 가다 (to go) + 하고는 = 가곤은  |
-| Noun             | [Noun] + 하고는       | 공부 (study) + 하고는 = 공부하고는  |
+### Meaning and Usage
+**~하고는** is attached to the verb stem of the first action to express that **after doing that action, another action takes place**, often with an unexpected or contrasting result. It emphasizes the sequence and the surprising or contrasting nature of the second action.
+### Structure and Formation
+#### Formation Diagram
+```
+[Verb Stem] + 하고는 + [Second Clause]
+```
+- **Verb Stem**: The base form of the verb without the **-다** ending.
+- **하고는**: A connective particle meaning "and then, after".
+#### Example of Verb Conjugation
+| Verb (Dictionary Form) | Verb Stem | + 하고는  |
+|------------------------|-----------|-----------|
+| 마시다 (to drink)       | 마시       | 마시고는    |
+| 웃다 (to laugh)         | 웃         | 웃고는      |
+| 듣다 (to listen/hear)    | 듣         | 듣고는      |
+---
 ## 3. Comparative Analysis
-The expression ~하고는 is often compared to other similar structures like ~고 (and) and ~고 나서 (after doing). 
-- **Differences**:
-  - **~하고는** implies a sequential action following a condition or event, often emphasizing the completion of the first before starting the second.
-  - **~고** is simply a conjunction that connects two actions without the sequential emphasis.
-  - **~고 나서** focuses on "after doing," emphasizing the time order of actions, while ~하고는 focuses more on the condition to proceed.
+### Comparison with Similar Grammar Points
+#### **~고 나서**
+- **Structure**: [Verb Stem] + **고 나서**
+- **Meaning**: Simply indicates that one action occurs after another without any particular emphasis on contrast or unexpectedness.
+- **Example**: 일을 **하고 나서** 쉽니다. (*After working, I rest.*)
+#### **~하자마자**
+- **Structure**: [Verb Stem] + **하자마자**
+- **Meaning**: Indicates that the second action occurs immediately after the first action.
+- **Example**: 집에 **들어오자마자** 샤워했어요. (*As soon as I came home, I took a shower.*)
+#### **Comparison Table**
+| Grammar Point | Emphasis                     | Example                                                  |
+|---------------|------------------------------|----------------------------------------------------------|
+| **~하고는**     | Sequence with contrast or unexpected result | 친구를 만나**고는** 기분이 좋아졌어요.<br/>(*After meeting my friend, I felt better.* - unexpected improvement in mood) |
+| **~고 나서**    | Simple sequence of actions  | 일을 끝내**고 나서** 집에 갔어요.<br/>(*After finishing work, I went home.*) |
+| **~하자마자**   | Immediate subsequent action | 문을 열**자마자** 강아지가 달려왔어요.<br/>(*As soon as I opened the door, the dog ran to me.*) |
+---
 ## 4. Examples in Context
-### Sentence Examples
-1. **Formal Context**:
-   - 회의가 끝나고는 점심을 먹겠습니다.
-     - (After the meeting, I will eat lunch.)
-  
-2. **Informal Context**:
-   - 학교 갔다가 친구를 만나고는 영화 봤어.
-     - (I went to school, then met up with a friend and watched a movie.)
-  
-3. **Spoken Context**:
-   - 일을 하고는 집에 갈 거야.
-     - (I'm going to work, and then I'll go home.)
-4. **Written Context**:
-   - 수업이 끝나고는 도서관에서 공부할 것이다.
-     - (After the class ends, I will study at the library.)
+### Example Sentences
+1. **저는 그 이야기를 듣고는 깜짝 놀랐어요.**
+   - *After hearing that story, I was startled.*
+2. **그는 시험을 망치고는 공부를 열심히 하기 시작했어요.**
+   - *After failing the exam, he started studying hard.* (Contrasting action)
+3. **비가 오고는 날씨가 추워졌어요.**
+   - *After it rained, the weather became cold.* (Unexpected weather change)
+4. **음식을 먹고는 배탈이 났어요.**
+   - *After eating the food, I got an upset stomach.* (Unexpected result)
+5. **그녀를 만나고는 생각이 바뀌었어요.**
+   - *After meeting her, my thoughts changed.* (Change in mindset)
+### Formal vs. Informal Usage
+**Formal Speech**
+- **회의를 마치고는 새로운 계획을 발표했습니다.**
+  - *After finishing the meeting, a new plan was announced.*
+**Informal Speech**
+- **책을 읽고는 잠이 확 달아났어.**
+  - *After reading the book, I became wide awake.* (Opposite of what might be expected)
+### Spoken vs. Written Context
+- **Spoken Language**: Often used to share personal experiences with unexpected outcomes.
+  - **친구랑 얘기하고는 시간이 그렇게 빨리 간 줄 몰랐어!**
+    - *After talking with my friend, I didn't realize time went by so fast!*
+- **Written Language**: Used in narratives to build contrast or surprise.
+  - **그는 모든 것을 포기하고는 사라져 버렸다.**
+    - *After giving up on everything, he disappeared.*
+---
 ## 5. Cultural Notes
 ### Cultural Relevance
-Using ~하고는 aligns with the Korean emphasis on sequences and the order of events in storytelling, which is often crucial for clarity. Understanding such grammar enhances comprehension of conversations and narratives in Korean culture.
-### Politeness Levels
-When using this structure, attention to the politeness and formality of the context is important. The ending verb forms or nouns that precede ~하고는 adjust based on who you are speaking to.
+In Korean storytelling and daily conversation, expressing the unexpected or contrasting outcomes of events is common. Using **~하고는** allows speakers to narrate experiences vividly, highlighting changes in situations or feelings that occur after certain actions.
 ### Idiomatic Expressions
-- Often used in story-telling or recounting events in a chronological manner.
+- **물을 마시고는 갈증이 더 났어요.**
+  - *After drinking water, I became even thirstier.*
+  - Used to express that the expected relief didn't occur; instead, the opposite happened.
+---
 ## 6. Common Mistakes and Tips
 ### Error Analysis
-Common mistakes include:
-- Confusing ~하고는 with simply using ~고.
-- Omitting the appropriate verb or noun before ~하고는, leading to incomplete phrases.
+**Common Mistake 1**: Using **~하고는** when actions are simply sequential without any contrast or unexpected result.
+- **Incorrect**: 저는 아침을 먹고는 학교에 갔어요.
+  - *I ate breakfast and then went to school.* (No contrast or unexpected outcome)
+- **Correct**: 저는 아침을 먹고 학교에 갔어요.
+  - *I ate breakfast and then went to school.* (Use simple **~고**)
+**Common Mistake 2**: Confusing **~하고는** with **~해서** (because, so).
+- **Incorrect**: 비가 오고는 우산을 가져왔어요.
+  - *Because it was raining, I brought an umbrella.*
+- **Correct**: 비가 와서 우산을 가져왔어요.
+  - *Because it was raining, I brought an umbrella.*
 ### Learning Strategies
-- Remember that ~하고는 indicates an "and then" situation, so think of sequences in storytelling.
-- Create simple stories using this structure to practice sequencing events.
+- **Remember the Nuance**: Use **~하고는** when the second action is unexpected or contrasts with the first.
+- **Practice with Contrasts**: Create sentences where the outcome isn't what one would normally expect after the first action.
+- **Mnemonic Device**: Think of **~하고는** as "after doing..., unexpectedly..." to remind you of its contrasting nature.
+---
 ## 7. Summary and Review
 ### Key Takeaways
-- ~하고는 connects sequential actions and indicates what happens after a specific event.
-- It is distinct from other structures like ~고 and ~고 나서, emphasizing the condition of completing the first action.
+- **~하고는** is used to connect two actions where the second action is unexpected or contrasts with the first.
+- It is formed by attaching **하고는** to the verb stem of the first action.
+- Be mindful of the nuance; use it to highlight surprising outcomes.
 ### Quick Recap Quiz
-1. What does ~하고는 express in a sentence?
-2. How does it differ from using ~고?
-3. Create a sentence using ~하고는.
-By mastering ~하고는, learners can enhance their storytelling abilities in Korean and better understand sequences in conversations!
+1. What is the main function of **~하고는** in a sentence?
+2. How do you correctly form **~하고는** with the verb **웃다** (to laugh)?
+3. Which grammar point would you use for a simple sequence without contrast?
+#### Answers:
+1. To indicate that after one action, another unexpected or contrasting action occurs.
+2. 웃고는 (*utgoneun*)
+3. **~고 나서** or **~고**
+---
+By understanding and practicing **~하고는**, you can add depth to your Korean expressions, especially when narrating events with unexpected outcomes. Keep practicing with various verbs and contexts to master this grammar point!
+
+---
+© [Hanabira.org](https://hanabira.org)

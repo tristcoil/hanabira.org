@@ -1,72 +1,131 @@
 Processing keyword: ～と～ともに (〜to 〜tomoni)
 # Japanese Grammar Point: ～と～ともに (〜to 〜tomoni)
-# Grammar Point: ～と～ともに (〜to 〜tomoni)
+
 ## 1. Introduction
-The grammar point ～と～ともに is used to express simultaneous actions or a relationship between two elements in both a literal and metaphorical sense. It is particularly useful for indicating that one action occurs alongside another or that both subjects are progressing together.
+In this lesson, we will explore the Japanese grammar pattern **～と～ともに (〜to 〜tomoni)**. This structure is commonly used to express the meaning of "together with," "along with," or "as... then...". It indicates that two actions or states occur simultaneously or that one change happens alongside another.
+Understanding this grammar point will enhance your ability to describe simultaneous actions, parallel changes, and relationships between events or states in Japanese.
+
+---
 ## 2. Core Grammar Explanation
-### Detailed Explanation
-- **Meaning:** The structure ~と~ともに translates roughly to "together with" or "at the same time as" in English.
-- **Structure:**
-  - **Formation:** [Noun/Verb (dictionary form)] + と + [Noun/Verb (dictionary form)] + ともに
-  - The noun or verb that precedes "と" is what is being joined with whatever follows "ともに."
-### Diagram
+### Meaning
+**～と～ともに (〜to 〜tomoni)** is used to express that two actions, events, or states occur together or change simultaneously. It can convey:
+- **"Together with..."**
+- **"Along with..."**
+- **"As... then..."**
+- **"At the same time as..."**
+### Structure
+The grammar pattern is formed by attaching **とともに** to various parts of speech:
+- **Noun + とともに**
+- **Verb (Dictionary Form) + とともに**
+- **Adjective + とともに**
+### Formation Diagram
 ```plaintext
-   Noun/Verb1   と   Noun/Verb2   ともに
-       |           |            |
-    (Action 1)   +            (Action 2)
+Noun         + とともに
+Verb (Dict.) + とともに
+Adjective    + とともに
 ```
-### Visual Example
-| Element     | Meaning                     |
-|-------------|-----------------------------|
-| 朝ごはん     | Breakfast                   |
-| 食べる      | To eat                      |
-| 仕事        | Work                        |
-| と          | And                         |
-| ともに      | Together with               |
-| (Example)   | 朝ごはんを食べるとともに仕事を始める。 |
-| (Translation)| I begin work together with eating breakfast. |
+### Detailed Explanation
+1. **Noun + とともに**
+   - **Meaning**: "Together with (noun)"
+   - **Usage**: Indicates that someone or something does something together with someone or something else.
+   Example:
+   - 彼は家族とともに来日した。
+   - *He came to Japan together with his family.*
+2. **Verb (Dictionary Form) + とともに**
+   - **Meaning**: "As (verb) happens, (something else) happens"
+   - **Usage**: Shows that as one action or state progresses, another occurs simultaneously.
+   Example:
+   - 年を取るとともに、体力が衰える。
+   - *As one gets older, physical strength declines.*
+3. **Adjective + とともに**
+   - **Meaning**: "Along with being (adjective), (something else)"
+   - **Usage**: Expresses that two states exist together.
+   Example:
+   - 彼は優秀であるとともに、努力家でもある。
+   - *He is excellent and also a hard worker.*
+---
 ## 3. Comparative Analysis
-- **vs. ～ながら (〜nagara):** 
-  - While both expressions indicate simultaneous actions, ～ながら is generally used to pair two verbs that describe what the subject is doing at the same time, usually indicating that the two actions affect the same subject.
-    - Example: 音楽を聞きながら勉強します。(I study while listening to music.)
-  
-- **vs. ～と同時に (〜to dōji ni):** 
-  - This expression is more formal and emphasizes that two events occur simultaneously, often used for sequences where time is critical.
-    - Example: 彼は走ると同時にバスが出発した。(He started running at the same time the bus departed.)
+### Comparison with Other Similar Grammar Points
+1. **～ながら**
+   - **Usage**: Indicates two actions happening at the same time performed by the same subject.
+   - **Example**: 音楽を聞きながら勉強する。
+   - *Study while listening to music.*
+   - **Difference**: ～とともに can be used for simultaneous actions or changes involving different subjects or broader changes over time, whereas ～ながら is for simultaneous actions by the same subject.
+2. **～につれて**
+   - **Usage**: "As... then..." Indicates that as one thing changes, another changes accordingly.
+   - **Example**: 年を取るにつれて、体力が落ちる。
+   - *As one gets older, physical strength declines.*
+   - **Difference**: Both ～とともに and ～につれて can express parallel changes, but ～とともに is more formal and can be used with nouns to mean "together with," which ～につれて cannot.
+---
 ## 4. Examples in Context
-### Sentence Examples
-1. **Formal:** 
-   - 環境問題について話し合うとともに、解決策を見つける必要があります。
-   - (We need to discuss environmental issues together with finding solutions.)
-2. **Informal:** 
-   - 友達と遊ぶとともに宿題もやります。
-   - (I’ll do my homework together with hanging out with my friends.)
-3. **Written:** 
-   - 最近、テクノロジーが進化するのとともに、人々の生活も大きく変わった。
-   - (As technology has advanced, people's lives have changed significantly.)
-4. **Spoken:** 
-   - 昼ごはんを食べるとともに、次の会議の準備をします。
-   - (I will prepare for the next meeting while having lunch.)
+### Formal Written Style
+1. **技術の進歩**とともに**、生活が便利になった。**
+   - *Along with technological advances, life has become convenient.*
+2. **経済成長**とともに**、環境問題も深刻化している。**
+   - *Along with economic growth, environmental problems are also becoming serious.*
+### Informal Spoken Style
+1. **時間が経つ**とともに**、彼のことを忘れた。**
+   - *As time went by, I forgot about him.*
+2. **彼女と別れる**とともに**、新しい生活を始めた。**
+   - *Along with breaking up with her, I started a new life.*
+### Additional Examples
+1. **季節の変化**とともに**、服装も変える必要がある。**
+   - *Along with the change of seasons, it's necessary to change clothing.*
+2. **人口が増える**とともに**、交通問題が発生した。**
+   - *As the population increased, traffic problems arose.*
+---
 ## 5. Cultural Notes
 ### Cultural Relevance
-In Japanese culture, the idea of doing things "together" often emphasizes harmony, teamwork, and collaboration, making this grammar point relevant in discussions about relationships, work, and community efforts.
+In Japanese culture, the concept of harmony and doing things together is significant. The use of **とともに** reflects the cultural emphasis on group harmony and collective action.
 ### Levels of Politeness and Formality
-This structure is versatile, being applicable in both formal and informal contexts. It showcases the speaker's awareness of simultaneous actions and an emphasis on interconnectedness, cultural values deeply rooted in Japanese society.
+- **とともに** is considered formal and is often used in written language, speeches, news, or formal reports.
+- In casual spoken language, people might use **一緒に (いっしょに)** meaning "together with" instead.
+   Example:
+   - **友達と一緒に映画を見た。**
+   - *I watched a movie together with my friends.*
 ### Idiomatic Expressions
-- 一緒に (いっしょに, issho ni) - "together" - though less formal, this expression can serve similar purposes.
+- **時代とともに**
+  
+  - *With the times; as the times change*
+  - Used to express changes that occur alongside societal or temporal shifts.
+- **発展とともに**
+  - *Along with development*
+---
 ## 6. Common Mistakes and Tips
 ### Error Analysis
-- **Mistake:** Using ～ともに in contexts where actions are not simultaneous or related.
-  - **Correction Example:** Instead of saying 仕事が終わったとともに友達に会った, use 音楽を聴きつつ仕事を終えました。
-  
+1. **Using the wrong particle**
+   - Incorrect: 彼は家族**をともに**来た。
+   - Correct: 彼は家族**とともに**来た。
+   *Tip*: Always use **と** before **ともに**.
+2. **Mixing with casual speech**
+   - Using **とともに** in very casual conversations may sound out of place.
+   *Tip*: Reserve **とともに** for formal contexts; use **一緒に** for casual speech.
 ### Learning Strategies
-- **Mnemonic Device:** Remember that とともに indicates "together" and "with," which can help to visualize two actions occurring side by side.
+- **Mnemonic Device**: Remember that **と** (with) + **ともに** (together) literally reinforces the idea of "together with."
+  
+- **Practice**: Create sentences combining nouns and verbs with **とともに** to get comfortable with different usages.
+---
 ## 7. Summary and Review
 ### Key Takeaways
-- The grammar point ～と～ともに is used to express simultaneous actions or relationships between two subjects.
-- It is versatile and applicable in various contexts, maintaining a level of formality depending on usage.
+- **～と～ともに (〜to 〜tomoni)** is used to express simultaneous actions, changes, or states.
+- It can be attached to nouns, verbs (dictionary form), and adjectives.
+- It is formal and often used in written or formal spoken Japanese.
 ### Quick Recap Quiz
-1. What does ～と～ともに imply in a sentence?
-2. What is the difference between ～ともに and ～ながら?
-3. Can ～と～ともに be used in informal contexts?
-By understanding and practicing this grammar point, you'll enhance your ability to convey complex ideas about simultaneous actions in both casual and formal Japanese.
+1. **Fill in the blank**: 経済が発展する___、生活水準も向上した。
+   - a) にとって
+   - b) とともに
+   - c) によって
+2. **True or False**: **とともに** can be used in casual conversations without any issue.
+3. **Translate the sentence**: "As technology advances, new problems emerge."
+   - 技術が進歩する________、新たな問題が生じる。
+### Answers
+1. b) とともに
+2. False – **とともに** is formal and might sound out of place in casual conversations.
+3. 技術が進歩するとともに、新たな問題が生じる。
+---
+By understanding and practicing **～と～ともに**, you can enhance your ability to express complex relationships between actions and states in Japanese. Remember to consider the formality of the context when choosing to use this grammar point.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

@@ -1,18 +1,7 @@
-// TODO:
-// I think custom videos should be saved in f-api since these are user specific,
-// eventually retrieval should be protected by decorator
-// putting it under text parser was just temp workaround for speed of dev
-// it is technical debt
-
-// pages/index.js
 "use client";
 
 import { useEffect, useState } from "react";
 import Link from "next/link";
-import axios from "axios";
-import { getUserFromCookies } from "@/utils/helperFunctions";
-
-import { useUser } from "@/context/UserContext";
 
 // Dummy data for other video categories (replace with your actual data)
 // const podcasts = []; // Replace with your actual data
@@ -26,131 +15,17 @@ const Home = () => {
   const [techReviewVideos, setTechReviewVideos] = useState([]);
   const [travelVlogVideos, setTravelVlogVideos] = useState([]);
   const [customVideos, setCustomVideos] = useState([]);
-  const [newVideo, setNewVideo] = useState({
-    url: "",
-    customTitle: "",
-    customDescription: "",
-    userId: "", // empty userId initially
-    p_tag: "youtube", // New field
-    s_tag: "video", // New field
-    lang: "jp", // New field with default value
-  });
-
-  const { userId, loggedIn } = useUser();
-
-  // Add the following useEffect after your imports and before your existing useEffect:
-  useEffect(() => {
-    //const { userId, jwt } = getUserFromCookies();
-    setNewVideo((prev) => ({ ...prev, userId }));
-    //axios.defaults.headers.common['Authorization'] = `Bearer ${jwt}`;
-  }, []);
-
-  // In fetchCustomVideos, handleSubmit, and handleDelete functions, no further changes are needed
-  // since axios.defaults.headers.common['Authorization'] is now set.
 
   useEffect(() => {
     setPodcastVideos(podcasts.map(getVideoData));
     setSituationVideos(commonSituations.map(getVideoData));
     setTechReviewVideos(techReviews.map(getVideoData));
     setTravelVlogVideos(travelVlogs.map(getVideoData));
-
-    // Fetch custom videos from backend
-    fetchCustomVideos();
   }, []);
 
-  const fetchCustomVideos = async () => {
-    try {
-      const response = await axios.get("/f-api/v1/custom-videos");
-      setCustomVideos(response.data.map(getVideoData));
-    } catch (error) {
-      console.error("Error fetching custom videos:", error);
-    }
-  };
-
-  const handleInputChange = (e) => {
-    setNewVideo({ ...newVideo, [e.target.name]: e.target.value });
-  };
-
-  const handleSubmit = async (e) => {
-    e.preventDefault();
-
-    try {
-      const response = await axios.post("/f-api/v1/custom-videos", newVideo);
-      setCustomVideos([...customVideos, getVideoData(response.data)]);
-
-      // Reset specific fields
-      setNewVideo((prevState) => ({
-        ...prevState, // retain previous values
-        url: "", // reset URL
-        customTitle: "", // reset title
-        customDescription: "", // reset description
-        // userId, p_tag, s_tag, and lang can be retained or reset based on your needs
-      }));
-    } catch (error) {
-      console.error("Error posting new video:", error);
-    }
-  };
-
-  const handleDelete = async (id) => {
-    try {
-      await axios.delete(`/f-api/v1/custom-videos/${id}`);
-      setCustomVideos(customVideos.filter((video) => video.id !== id));
-    } catch (error) {
-      console.error("Error deleting video:", error);
-    }
-  };
 
   return (
     <div className="container mx-auto p-4">
-      {/* Form to add new custom video */}
-      <h1 className="text-2xl font-bold mb-8">Add Your Custom YouTube Video</h1>
-      <form onSubmit={handleSubmit} className="mb-8">
-        {/* YouTube Video URL */}
-        <div className="mb-4">
-          <label className="block text-gray-700">YouTube Video URL:</label>
-          <input
-            type="text"
-            name="url"
-            value={newVideo.url}
-            onChange={handleInputChange}
-            className="mt-1 p-2 w-full border rounded-md"
-            required
-          />
-        </div>
-        {/* Custom Title */}
-        <div className="mb-4">
-          <label className="block text-gray-700">Custom Title:</label>
-          <input
-            type="text"
-            name="customTitle"
-            value={newVideo.customTitle}
-            onChange={handleInputChange}
-            className="mt-1 p-2 w-full border rounded-md"
-          />
-        </div>
-        {/* Custom Description */}
-        <div className="mb-4">
-          <label className="block text-gray-700">Custom Description:</label>
-          <textarea
-            name="customDescription"
-            value={newVideo.customDescription}
-            onChange={handleInputChange}
-            className="mt-1 p-2 w-full border rounded-md"
-          />
-        </div>
-        {/* Submit Button */}
-        <button type="submit" className="bg-blue-500 text-white p-2 rounded-md">
-          Add Video
-        </button>
-      </form>
-
-      {/* Custom Videos Section */}
-      <h1 className="text-2xl font-bold mb-8">Custom YouTube Videos</h1>
-      <VideoSection
-        title="Custom Videos"
-        videos={customVideos}
-        onDelete={handleDelete}
-      />
 
       {/* YouTube Channels */}
       <CollapsibleSection title="YouTube Channels">

@@ -1,67 +1,118 @@
 Processing keyword: ~는데다가 [neundedaga] (Moreover, furthermore)
 # Korean Grammar Point: ~는데다가 [neundedaga] (Moreover, furthermore)
-# Grammar Point: ~는데다가 [neundedaga] (Moreover, Furthermore)
-## Introduction
-The Korean grammar point ~는데다가 is used to add additional information or to provide more details about a situation. It functions similarly to “furthermore” or “moreover” in English, allowing speakers to connect sentences and provide richer context.
-## Core Grammar Explanation
-### Detailed Explanation
-- **Meaning**: ~는데다가 indicates that the speaker is adding more information about something that has already been mentioned. 
-- **Structure**: 
-    - The structure typically combines the verb or adjective in the base form with ~는데다가.
-    - The form is derived from two parts: 
-        - **-는데**: which is used for background information. 
-        - **-다가**: which emphasizes the addition of extra information.
-### Formation Diagram
-```
-[Verb/Adjective base form] + ~는데다가
-```
-**Example**: 
-- **가다** (to go) + ~는데다가 → **가는 데다가** (going, moreover)
-## Visual Aids
-| Structure        | Example          | Translation          |
-|------------------|------------------|----------------------|
-| Verb + -는데다가 | 가는데다가       | going, moreover       |
-| Adjective + -는데다가 | 좋는데다가  | good, moreover        |
-## Comparative Analysis
-### Comparison with Similar Grammar Points
-- **~고**: This simply connects clauses with "and," but does not imply the addition of further information as strongly as ~는데다가.
-    - **Example**: I went and ate → 갔다고 먹었다.
-- **~ㄴ/는 데다가**: Similar but usually focuses on combining two background situations rather than emphasizing a relationship of adding information.
-## Examples in Context
-### Sentence Examples
-1. **Formal**
-   - **그는 영어를 잘하고, 수학을 잘하는 데다가 과학도 잘 합니다.**
-   - *(He speaks English well, and moreover, he is good at math and science.)*
-2. **Informal**
-   - **이 음식은 맛있는데다가 가격도 싸!**
-   - *(This food is delicious, moreover, it’s cheap!)*
-3. **Written**
-   - **그 연구 결과는 잘 알려져 있는데다가 실험을 통해 검증되었습니다.**
-   - *(The research results are well-known, moreover, they have been verified through experiments.)*
-4. **Spoken**
-   - **영화가 재미있는데다가 배우들도 모두 유명해!**
-   - *(The movie is interesting, moreover, all the actors are famous!)*
-## Cultural Notes
-### Cultural Relevance
-In Korean culture, the use of connecting and adding information politely is crucial. When discussing topics, especially in formal situations, using ~는데다가 correctly reflects the speaker's ability to convey information clearly and respect the interlocutor by providing relevant details.
-### Idiomatic Expressions
-- **기분이 나쁜 데다가 날씨도 너무 우울해.**
-  - *(I’m in a bad mood, and moreover, the weather is so gloomy.)*
-## Common Mistakes and Tips
-### Error Analysis
-- **Incorrect Use**: Some learners may overuse ~는데다가 for every addition which may lead to awkward sentences. It should only be used when genuinely adding relevant information.
-- **Confusing with ~고**: Learners might confuse ~는데다가 with just connecting clauses using ~고, but the former adds emphasis.
-### Learning Strategies
-- **Mnemonic Device**: Remember "moreover" as M (for "more") + D (for "Daniel," a common name, who loves adding fun facts) to link ~는데다가 with the act of adding information.
-## Summary and Review
-### Key Takeaways
-- **Function**: Used to connect and add information.
-- **Structure**: [Verb/Adjective base form] + ~는데다가.
-- **Usage**: Enhances sentences by providing further details naturally.
-  
-### Quick Recap Quiz
-1. What does ~는데다가 mean in English?
-2. Can ~는데다가 be used with only verbs?
-3. Create a sentence using ~는데다가 in a formal context.
+
+## 1. Introduction
+The Korean grammar pattern **~는데다가** (*~neunde daga*) is used to express the addition of information, emphasizing that one action or state is compounded by another. It can be translated as **"Moreover,"** **"Furthermore,"** or **"On top of that."** This pattern allows speakers to seamlessly connect related ideas, highlighting the cumulative effect of multiple circumstances.
+
 ---
-Feel free to use this structure to practice and reinforce your understanding of the grammar point ~는데다가!
+## 2. Core Grammar Explanation
+### Meaning
+**~는데다가** is used to indicate that the content of the second clause adds to or intensifies the content of the first clause. It emphasizes that not only is the first statement true, but there's additional information that further impacts the situation.
+### Structure
+The formation of **~는데다가** varies depending on whether it follows an action verb, a descriptive verb (adjective), or a noun.
+#### **Formation**
+| **Type**            | **Verb/Noun Ending** | **Attachment**    | **Example**         | **Attached Form**       |
+|---------------------|----------------------|-------------------|---------------------|-------------------------|
+| **Action Verb**     | Any                  | **-는데다가**      | 가다 (*to go*)       | 가**는데다가**          |
+| **Descriptive Verb**| **Vowel ending**     | **-ㄴ데다가**      | 크다 (*to be big*)    | 크**ㄴ데다가**          |
+|                     | **Consonant ending** | **-은데다가**      | 작다 (*to be small*)  | 작**은데다가**          |
+| **Noun**            | Any                  | **-인데다가**      | 학생 (*student*)      | 학생**인데다가**        |
+#### **Formation Diagram**
+1. **For Action Verbs**:
+   ```
+   [Verb Stem] + 는데다가
+   ```
+2. **For Descriptive Verbs**:
+   - If stem ends with a vowel:
+     ```
+     [Verb Stem] + ㄴ데다가
+     ```
+   - If stem ends with a consonant:
+     ```
+     [Verb Stem] + 은데다가
+     ```
+3. **For Nouns**:
+   ```
+   [Noun] + 인데다가
+   ```
+#### **Notes**
+- The tense is typically expressed in the final verb of the sentence.
+- The pattern is used when both clauses have a similar tone (both positive or both negative).
+---
+## 3. Comparative Analysis
+### Comparison with **~뿐만 아니라** (*~ppunman anira*) - "Not only... but also"
+While both **~는데다가** and **~뿐만 아니라** express the idea of adding information, there are subtle differences:
+- **~는데다가** emphasizes the accumulation of circumstances, often implying that the second situation intensifies the first.
+- **~뿐만 아니라** is used to list additional facts or actions, similar to "not only... but also," without necessarily intensifying the previous statement.
+**Example**:
+- **~는데다가**:
+  - 경제가 나쁜데다가 물가도 올랐다.
+    - *The economy is bad, and on top of that, prices have risen.*
+- **~뿐만 아니라**:
+  - 그는 영어뿐만 아니라 중국어도 할 수 있다.
+    - *He can speak not only English but also Chinese.*
+---
+## 4. Examples in Context
+### Formal Examples
+1. **Sentence**: 그 정책은 효율적인데다가 비용도 저렴합니다.
+   - **Translation**: That policy is efficient, and moreover, it's also cost-effective.
+2. **Sentence**: 이 책은 내용이 유익한데다가 글씨체도 읽기 쉽습니다.
+   - **Translation**: This book's content is informative, and in addition, the font is easy to read.
+### Informal Examples
+1. **Sentence**: 날씨가 추운데다가 바람도 많이 불어.
+   - **Translation**: It's cold, and on top of that, it's really windy.
+2. **Sentence**: 오늘은 피곤한데다가 기분도 별로야.
+   - **Translation**: I'm tired today, and besides, I'm not in a good mood.
+### Written Context Examples
+1. **Sentence**: 그 도시는 역사적인 가치가 큰데다가 문화적으로도 풍부하다.
+   - **Translation**: That city has great historical value, and furthermore, it's culturally rich.
+2. **Sentence**: 이 프로그램은 사용자 친화적인데다가 기능도 다양하다.
+   - **Translation**: This program is user-friendly, and moreover, it has various functions.
+### Spoken Context Examples
+1. **Sentence**: 요즘 공부할 게 많은데다가 일도 바빠.
+   - **Translation**: These days, I have a lot to study, and on top of that, work is busy.
+2. **Sentence**: 길이 막히는데다가 사고까지 났어.
+   - **Translation**: The traffic is heavy, and furthermore, there was even an accident.
+---
+## 5. Cultural Notes
+### Cultural Relevance
+In Korean, connecting clauses to show the accumulation of circumstances reflects the language's emphasis on relationships and contexts. Using **~는데다가** allows speakers to build upon ideas logically and expressively.
+### Levels of Politeness and Formality
+- **~는데다가** is neutral and can be used in both formal and informal contexts.
+- Adjust the politeness level by changing the sentence endings, not the grammar pattern itself.
+### Idiomatic Expressions
+While there are no specific idioms that include **~는데다가**, it's commonly used in daily conversation to emphasize additional points.
+
+---
+## 6. Common Mistakes and Tips
+### Error Analysis
+- **Incorrect Attachment**:
+  - **Mistake**: 크다 → 크는데다가 (Incorrect attachment for descriptive verbs ending with a vowel)
+  - **Correction**: 크다 → **큰데다가**
+  
+- **Using Tense Markers in the First Clause**:
+  - **Mistake**: 먹었는데다가 (Adding past tense marker in the first clause)
+  - **Correction**: 먹는데다가 (Tense is expressed in the final verb)
+### Learning Strategies
+- **Tip**: Remember that **~는데다가** is about adding layers. Think of stacking circumstances on top of each other.
+- **Mnemonic**: **"는 데다가" equals "Adding to the situation."**
+- **Practice**: Create sentences where the second clause intensifies or adds to the first.
+---
+## 7. Summary and Review
+### Key Takeaways
+- **~는데다가** is used to express "Moreover," "Furthermore," or "In addition to."
+- It connects two clauses where the second adds information or intensifies the first.
+- The structure changes based on whether it follows an action verb, descriptive verb, or noun.
+- Tense is usually indicated in the second clause.
+### Quick Recap Quiz
+1. **How do you attach ~는데다가 to the descriptive verb 예쁘다 (*to be pretty*)?**
+   - **Answer**: 예쁜데다가
+2. **Translate into Korean**: "It's raining, and on top of that, it's cold."
+   - **Answer**: 비가 오는데다가 추워요.
+3. **True or False**: Tense markers like *-았/었-* are used before ~는데다가.
+   - **Answer**: False (Tense is expressed in the final verb)
+---
+By understanding and practicing **~는데다가**, you can effectively convey compounded situations and enhance the cohesiveness of your sentences in Korean.
+
+---
+© [Hanabira.org](https://hanabira.org)

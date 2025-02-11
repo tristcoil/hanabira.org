@@ -1,71 +1,126 @@
 Processing keyword: ～が Verb られる (〜ga Verb rareru)
 # Japanese Grammar Point: ～が Verb られる (〜ga Verb rareru)
-# Understanding ～が Verb られる (〜ga Verb rareru)
+
 ## 1. Introduction
-The grammar structure "~が ~られる" is used in Japanese to express the potential or the ability to do something. It's particularly useful for articulating what one can do or what is possible in relation to the subject of the action.
+In Japanese, the construction **～が Verb られる** is used to express involuntary actions, spontaneous feelings, or situations where something occurs naturally without the subject's deliberate intent. This form often conveys that an action happens by itself or that the speaker cannot control their feelings or thoughts about something.
+
+---
 ## 2. Core Grammar Explanation
-### Meaning
-The form "~が ~られる" indicates that the subject is capable of performing the verb's action. It conveys a sense of potentiality or possibility.
-### Structure
-The pattern typically follows this structure:
-- Subject + が + Verb (in the potential form ending with られる)
-### Formation Diagram
-Here's a simple breakdown of the formation:
-- **Verb Dictionary Form** → Replace the last suffix with られる
-- **Example**: 
-  - 飲む (nomu - to drink) → 飲まれる (nomareru - can drink/be drunk)
-  - 待つ (matsu - to wait) → 待たれる (matareru - can wait)
-### Visual Aids
-| Verb (Dictionary Form) | Potential Form       | Example Sentence            |
-|-------------------------|----------------------|-----------------------------|
-| 食べる (taberu)       | 食べられる (taberareru) | あなたはこの料理を食べられますか？ (Can you eat this dish?) |
-| 見る (miru)           | 見られる (mirareru)   | 映画が見られる時間はありますか？ (Do you have time to watch the movie?) |
-| 行く (iku)             | 行ける (ikeru)        | 明日、行けますか？ (Can you go tomorrow?)    |
+### Detailed Explanation
+The **～が Verb られる** structure is known as the **spontaneous passive** or **intransitive passive**. It is used to express:
+- **Involuntary Actions**: Actions that occur without the subject's intentional effort.
+- **Spontaneous Feelings**: Natural emotions or thoughts that arise unintentionally.
+In this construction, the focus is on the action happening to the subject naturally, rather than the subject performing the action deliberately.
+### Meaning, Structure, Formation
+#### Meaning
+- **Expressing involuntary actions or spontaneous occurrences.**
+- **Conveying that something happens naturally or that the speaker cannot help but feel or do something.**
+#### Structure
+```
+[Subject] が [Verb (Passive Form)]
+```
+- **Subject**: The person experiencing the involuntary action or spontaneous feeling, marked by **が**.
+- **Verb (Passive Form)**: The verb conjugated into the passive form (**られる** form).
+#### Formation Diagram
+For **Ichidan verbs** (る-verbs):
+```
+Verb Stem + られる
+```
+For **Godan verbs** (う-verbs):
+```
+Change the ending う sound to the corresponding あ sound + れる
+```
+#### Conjugation Examples
+| Verb (Dictionary Form) | Verb Type | Passive Form      |
+|------------------------|-----------|-------------------|
+| 思う (おもう)           | Godan     | 思われる (おもわれる) |
+| 見る (みる)             | Ichidan   | 見られる (みられる)   |
+| 聞く (きく)             | Godan     | 聞かれる (きかれる)   |
+---
 ## 3. Comparative Analysis
-The potential form "~が ~られる" is often compared with other ways to express potential, such as:
-- **〜ことができる (koto ga dekiru)**: A more formal expression for ability or capability. 
-  - *Example*: 宿題をすることができます。 (I can do my homework.)
-- **Differences**:
-  - "~が ~られる" is often more direct and can imply that the action is generally possible, while "〜ことができる" can denote a specific ability or skill.
+### Similar Grammar Points
+- **Passive Voice (受身形)**: Used to express actions done to the subject by someone else.
+  - Structure: *[Subject] は [Agent] に [Verb (Passive Form)]*
+  - Example: 先生は学生に質問された。(The teacher was asked a question by a student.)
+- **Potential Form (可能形)**: Indicates the ability or possibility to do something.
+  - Structure: *Verb stem + られる* (Ichidan verbs)
+  - Example: 日本語が話せる。(I can speak Japanese.)
+### Differences and Nuances
+- **Spontaneous Passive vs. Passive Voice**:
+  - The **spontaneous passive** focuses on involuntary actions or feelings without an agent performing the action.
+  - The **passive voice** involves an agent acting upon the subject.
+- **Spontaneous Passive vs. Potential Form**:
+  - The **potential form** expresses capability, using **が** to mark the object.
+  - The **spontaneous passive** uses **が** to mark the subject experiencing the involuntary action.
+---
 ## 4. Examples in Context
-### Sentence Examples
-1. **Formal**:
-   - **Japanese**: 日本語が話せます。
-   - **Translation**: I can speak Japanese.
-2. **Informal**:
-   - **Japanese**: この本、読める？
-   - **Translation**: Can you read this book?
-3. **Written**:
-   - **Japanese**: 彼は来週までにプロジェクトを完成させることができる。
-   - **Translation**: He can complete the project by next week.
-4. **Spoken**:
-   - **Japanese**: あなたはギターを弾けるの？
-   - **Translation**: Can you play the guitar?
+### Example Sentences
+1. **彼女の歌声が心に響かれる。**
+   *Kanojo no utagoe ga kokoro ni hibikareru.*
+   *Her singing voice resonates in my heart (naturally).*
+2. **昔の思い出が次々と思い出される。**
+   *Mukashi no omoide ga tsugitsugi to omoi dasareru.*
+   *Memories of the past come to mind one after another.*
+3. **この曲を聞くと、涙が流される。**
+   *Kono kyoku o kiku to, namida ga nagasareru.*
+   *When I listen to this song, tears flow (without control).*
+4. **その光景が目に浮かばれる。**
+   *Sono koukei ga me ni ukabareru.*
+   *That scene comes to mind (spontaneously).*
+5. **彼の言葉が気にかかられる。**
+   *Kare no kotoba ga ki ni kakareru.*
+   *I can't help but be bothered by his words.*
+---
 ## 5. Cultural Notes
 ### Cultural Relevance
-In Japanese culture, expressing potential often reflects humility. Using the potential form shows consideration for the listener's perspective or abilities.
-### Levels of Politeness
-- "〜が ~られる" is often used in polite speech, while the informal versions can drop the "が."
-- It’s important to choose the appropriate level of politeness depending on the context (formal vs. informal).
+- In Japanese culture, there's an emphasis on expressing actions and feelings modestly or indirectly.
+- The **spontaneous passive** allows speakers to describe feelings or events as occurring naturally, aligning with cultural norms of humility and understatement.
+### Levels of Politeness and Formality
+- The **～が Verb られる** form is neutral and can be used in both formal and informal contexts.
+- Politeness can be adjusted by adding polite endings like **ます**: **思われます**.
 ### Idiomatic Expressions
-- **できるだけ** (dekiru dake): as much as possible.
-  - *Example*: できるだけ早く来てください。(Please come as soon as you can.)
+- **思われる**: Often used to express an impression or thought that comes naturally.
+  - Example: **彼は真面目な人だと思われる。**
+    *Kare wa majime na hito da to omowareru.*
+    *He seems to be a serious person.*
+---
 ## 6. Common Mistakes and Tips
 ### Error Analysis
-1. Confusing the potential form with the passive form.
-   - *Remember*: Potential form indicates ability while the passive form indicates receiving an action.
-2. Forgetting to change the verb correctly (e.g., using the wrong verb ending).
-   - *Tip*: Memorize the basic potential forms for common verbs.
+1. **Confusing with Passive Voice**
+   - Mistake: Adding an agent when using the spontaneous passive.
+     - Incorrect: **彼女が私に思われる。**
+     - Correction: **彼女が思われる。**
+2. **Mixing with Potential Form**
+   - Mistake: Misinterpreting **見られる** as "can see" instead of "is seen" or "comes to see".
+     - Context is key to determine meaning.
 ### Learning Strategies
-- **Mnemonic Device**: Associate the potential form with capability. Example: "もしもし、できるよ!" (Hello, I can do it!)
-  
+- **Mnemonic Device**: Remember that **が + Verb られる** without an agent indicates something happening on its own.
+- **Practice Identifying Context**: Read sentences and determine if the action is involuntary or if there's an agent involved.
+---
 ## 7. Summary and Review
 ### Key Takeaways
-- "~が ~られる" shows the ability to perform an action.
-- It varies from 〜ことができる in formality and usage.
-- Context matters in Japanese; adjust your speech based on the situation.
+- **～が Verb られる** is used to express involuntary actions or spontaneous feelings.
+- The subject experiencing the action is marked by **が**.
+- This form emphasizes that the action occurs naturally without deliberate intent.
+- It differs from the passive voice and potential form in structure and usage.
 ### Quick Recap Quiz
-1. What does "~が ~られる" imply in a sentence?
-2. How do you form the potential of a verb like "飲む"?
-3. Provide an example using the potential form in a sentence.
-Feel free to ask for clarification or more examples regarding any specific point!
+1. **What does the construction ～が Verb られる express?**
+   a) Ability to do something
+   b) Passive action done by someone else
+   c) Involuntary actions or spontaneous feelings
+2. **In the sentence "雨が降られる", what is being conveyed?**
+   a) Someone is making it rain.
+   b) It is raining (naturally).
+   c) I can make it rain.
+3. **True or False: The spontaneous passive uses an agent marked by に.**
+---
+**Answers:**
+1. c) Involuntary actions or spontaneous feelings
+2. b) It is raining (naturally).
+3. False. (The spontaneous passive does not involve an agent.)
+
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

@@ -1,72 +1,120 @@
 Processing keyword: ～切る (〜kiru)
 # Japanese Grammar Point: ～切る (〜kiru)
-# Grammar Point: ～切る (〜kiru)
+
 ## 1. Introduction
-The grammar point ～切る (〜kiru) is used in Japanese to express the completion or to indicate that an action is done thoroughly. It conveys the idea that something has been done to the end, completely, or thoroughly.
+In this lesson, we'll explore the Japanese grammar point **～切る (〜kiru)**. This expression is used to convey the sense of doing something completely or thoroughly. Mastering ～切る will enhance your ability to express actions that are carried out to their absolute completion in Japanese.
+
 ---
 ## 2. Core Grammar Explanation
-### Detailed Explanation
-- **Meaning**: The suffix 〜切る (kiru) indicates that an action has been fully carried out or that something is done to the extent that it can no longer be undone or reversed.
-  
-- **Structure**: The construction typically involves a verb in its stem form followed by 切る (kiru).
-  
-- **Formation**: 
-  - Verb Stem + 切る
-  - Example: 話す (hanasu - to talk) becomes 話し切る (hanashikiru - to talk completely).
-### Visual Aids
-| Step         | Example      | Meaning                     |
-|--------------|--------------|-----------------------------|
-| Verb Stem    | 読む (yomu)  | To read                     |
-| Add 切る     | 読み切る (yomikiru) | To read completely        |
+### Meaning
+**～切る** is used to indicate that an action is done completely, thoroughly, or to the very end. It emphasizes that nothing remains and the action has been fully completed.
+### Structure
+To form this expression, attach **切る (きる)** to the **masu-stem (pre-masu form)** of a verb.
+```
+[Verb Stem (ます形)] + 切る
+```
+### Formation Diagram
+| Verb (Dictionary Form) | Verb Stem (ます形) | + 切る   | Meaning                    |
+|------------------------|-------------------|----------|----------------------------|
+| 食べる (たべる)         | 食べ              | 食べ切る   | Eat up (eat completely)    |
+| 使う (つかう)           | 使い              | 使い切る   | Use up                     |
+| 信じる (しんじる)       | 信じ              | 信じ切る   | Believe completely         |
+| 疲れる (つかれる)       | 疲れ              | 疲れ切る   | Be completely exhausted    |
+| 売る (うる)             | 売り              | 売り切る   | Sell out completely        |
+### Usage Notes
+- **切る** is an **Ichidan verb**, so it conjugates accordingly.
+- Can be used in various tenses and forms (past, negative, polite, etc.).
+- Often used with verbs where the notion of "finishing completely" makes sense.
 ---
 ## 3. Comparative Analysis
-- **Similar Grammar Points**: 
-  - **～終わる (〜owaru)**: This indicates that an action is finished, but does not necessarily imply it was done thoroughly.
-    - Example: 仕事が終わりました (Shigoto ga owarimashita - Work is finished).
-  - **～きる (〜kiru)** can be used similarly to show completion but emphasizes the thoroughness.
-### Differences
-- **Complete and Thorough**:
-  - 話し切る (hanashikiru - to talk thoroughly) vs. 話し終わる (hanashiowaru - to be done talking but not necessarily thoroughly).
+### Similar Grammar Points
+#### ～尽くす (〜つくす)
+- **Meaning**: To do something exhaustively or to the utmost.
+- **Difference**: **尽くす** focuses on exhausting all possibilities or resources, often involving effort or service to others, whereas **切る** emphasizes the completion of an action itself.
+#### ～終わる (〜おわる)
+- **Meaning**: To finish doing something.
+- **Difference**: **終わる** simply denotes that an action has ended, without the emphasis on completeness that **切る** provides.
 ---
 ## 4. Examples in Context
-### Sentence Examples
-1. **Formal Context**:
-   - この本を読み切りました。 
-     - (Kono hon o yomikimashita.)
-     - Translation: I have read this book completely.
-2. **Informal Context**:
-   - 映画を見切った？
-     - (Eiga o mikitta?)
-     - Translation: Did you finish watching the movie?
-3. **Written Context**:
-   - 彼はその課題をやり切ることができた。
-     - (Kare wa sono kadai o yarikiru koto ga dekita.)
-     - Translation: He was able to complete that assignment thoroughly.
-4. **Spoken Context**:
-   - もう夕飯を作り切ったよ。
-     - (Mou yuuhan o tsukurikitta yo.)
-     - Translation: I’ve already finished making dinner.
+### Example Sentences
+1. **食べ切る**
+   - **Japanese**: 美味しいケーキを一人で食べ切った。
+   - **Romaji**: Oishii kēki o hitori de tabekitta.
+   - **Translation**: "I ate the delicious cake all by myself."
+2. **使い切る**
+   - **Japanese**: 買った絵の具を全部使い切りました。
+   - **Romaji**: Katta enogu o zenbu tsukaikirimashita.
+   - **Translation**: "I used up all the paints I bought."
+3. **読み切る**
+   - **Japanese**: 彼はその長い小説を読み切った。
+   - **Romaji**: Kare wa sono nagai shōsetsu o yomikitta.
+   - **Translation**: "He finished reading that long novel."
+4. **疲れ切る**
+   - **Japanese**: マラソンの後、彼女は疲れ切っていた。
+   - **Romaji**: Marason no ato, kanojo wa tsukarekitte ita.
+   - **Translation**: "After the marathon, she was completely exhausted."
+5. **信じ切る**
+   - **Japanese**: 子供たちはサンタクロースの存在を信じ切っている。
+   - **Romaji**: Kodomo-tachi wa Santa Kurōsu no sonzai o shinjikitte iru.
+   - **Translation**: "Children completely believe in the existence of Santa Claus."
+### Context Variations
+- **Formal Written**
+  - **Japanese**: お客様の期待に応え、全力を出し切ります。
+  - **Romaji**: Okyaku-sama no kitai ni kotae, zenryoku o dashikirimasu.
+  - **Translation**: "We will meet our customers' expectations and exert all our efforts."
+- **Casual Spoken**
+  - **Japanese**: この仕事、やり切ったね！
+  - **Romaji**: Kono shigoto, yarikitta ne!
+  - **Translation**: "We really finished this job, didn't we!"
 ---
 ## 5. Cultural Notes
 ### Cultural Relevance
-- The use of 〜切る (kiru) reflects the Japanese value placed on thoroughness and dedication in tasks. It is common to hear this grammar point in contexts where completion and attention to detail are respected.
+- The concept of **completeness** and **thoroughness** is valued in Japanese culture.
+- Expressions like **～切る** reflect the importance placed on fully committing to and finishing tasks.
+### Levels of Politeness
+- **～切る** itself is neutral; politeness is added through verb conjugation.
+- In formal situations, use the **–ます** form:
+  - **使い切ります**, **食べ切りました**, etc.
 ### Idiomatic Expressions
-- すべてをやり切る (subete o yarikiru): To do everything completely, often used in a context where one has taken on a challenging task.
+- **思い切る (おもいきる)**: To make up one's mind decisively.
+  - **Example**: 思い切って彼に聞いてみた。
+  - **Translation**: "I took the plunge and asked him."
+- **出し切る (だしきる)**: To give one's all.
+  - **Example**: 最後まで力を出し切った。
+  - **Translation**: "I gave it my all until the end."
 ---
 ## 6. Common Mistakes and Tips
 ### Error Analysis
-- **Mistake**: Confusing with 〜終わる (owaru). Some learners may mistakenly use 〜終わる when they intend to express thoroughness.
-  
+- **Incorrect Verb Form**: Attaching **切る** to the wrong form of the verb.
+  - *Incorrect*: 食べて切る
+  - *Correct*: 食べ切る
+- **Overgeneralization**: Not all verbs naturally pair with **切る**.
+  - Stick to verbs where "completing entirely" makes logical sense.
 ### Learning Strategies
-- **Mnemonic**: Think of 切る (kiru) as "to cut" something completely; if you cut through, you go all the way.
+- **Mnemonic**: Associate **切る (きる)** with "cutting off" any remaining part of an action—completing it fully.
+- **Practice**: Create sentences using **～切る** with common verbs to become comfortable with its usage.
+- **Visual Charts**: Use a chart to map out verb conjugations with **切る**.
 ---
 ## 7. Summary and Review
 ### Key Takeaways
-- 〜切る (kiru) emphasizes the completion of an action, suggesting it has been done thoroughly.
-- It's important to differentiate it from similar grammar points like 〜終わる (owaru).
+- **～切る** is used to express that an action is done completely or thoroughly.
+- Attach **切る** to the **masu-stem** of verbs.
+- Emphasizes total completion or exhaustion of an action.
 ### Quick Recap Quiz
-1. What does 〜切る (〜kiru) signify?
-2. Give an example using 〜切る in a formal sentence.
-3. How does 〜切る differ from 〜終わる?
+1. **How do you form the expression using ～切る with a verb?**
+2. **What does 疲れ切る mean?**
+3. **Fill in the blank with the correct form of ～切る:**
+   - **Japanese**: 彼はパズルを最後まで______。
+   - **Options**: a) やり切った, b) やって切った, c) やりて切った
 ---
-By understanding 〜切る (〜kiru), you can express the idea that an action is completed and done thoroughly, reflecting a critical aspect of both language and cultural values in Japan!
+### Answers:
+1. Attach **切る** to the **masu-stem** (pre-masu form) of the verb.
+2. It means "to be completely exhausted."
+3. a) **やり切った**
+---
+By understanding and practicing **～切る**, you'll be able to express complete actions more naturally and vividly in Japanese. Keep practicing with different verbs to solidify your grasp of this grammar point!
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

@@ -1,63 +1,121 @@
 Processing keyword: ~에 따라 [e ddara] (According to, depends on)
 # Korean Grammar Point: ~에 따라 [e ddara] (According to, depends on)
-# Korean Grammar Point: ~에 따라 [e ddara] (According to, depends on)
+
 ## 1. Introduction
-The grammar point ~에 따라 is used to indicate that something is dependent on or varies according to the condition specified. It is commonly used in both spoken and written Korean to express that a situation or action changes based on a particular factor.
+In this lesson, we'll delve into the grammar point **~에 따라**, which is essential for expressing dependency or variation based on certain conditions in Korean. Understanding this structure will enhance your ability to articulate how outcomes or actions change according to different factors.
+
+---
 ## 2. Core Grammar Explanation
-### Detailed Explanation
-- **Meaning**: The phrase ~에 따라 translates to "according to" or "depending on." It describes a relationship where the outcome is contingent upon a specific circumstance or condition.
-- **Structure**: The structure typically follows this format:
-  - Subject + ~에 따라 + Verb/Object
-  - Example: "계획에 따라" (according to the plan)
+### Meaning
+**~에 따라** is used to indicate that something varies or depends on the preceding noun. It translates to:
+- **According to**
+- **Depending on**
+- **In accordance with**
+### Structure
+The structure is straightforward and involves attaching **~에 따라** to a noun.
+```
+[**Noun**] + 에 따라
+```
+#### Components
+- **Noun**: The factor or basis on which something depends.
+- **에**: A particle meaning "at," "to," or "by," but here it functions as "according to."
+- **따라**: Derived from the verb **따르다** ("to follow").
 ### Formation Diagram
+| **Component** | **Function**              | **Example**        |
+|---------------|---------------------------|--------------------|
+| 시간          | Noun (time)               | 시간               |
+| 에            | Particle ("according to") | 에                 |
+| 따라          | "Follow"                  | 따라               |
+| 행동이 달라요 | Result/Action             | 행동이 달라요       |
+**Example:** 시간에 따라 행동이 달라요.  
+_"Behavior changes according to time."_
+### Visual Aid
 ```
-[Situation/Condition] + 에 따라 + [Action/Outcome]
-e.g., 
-날씨에 따라 (depending on the weather) + 소풍을 간다. (we will go for a picnic)
+[Factor/Basis Noun] 에 따라 [Result/Action]
 ```
+---
 ## 3. Comparative Analysis
-The expression ~에 따라 is often compared with 다른 + noun (depending on other...) or depending on context verbs like 다르다 (to differ). 
-- **Example**: 
-  - ~에 따라: 
-    - "학생의 나이에 따라 수업이 다르다." (The class differs depending on the student's age.)
-  - 다른 + noun: 
-    - "다른 학생들과 다르게." (Differently than other students.)
-**Nuance**: While ~에 따라 directly points out the reliance on a condition, 다른 + noun emphasizes the differences in comparison.
+### Similar Grammar Points
+#### 1. **~에 따르면**
+- **Usage**: Used to cite a source of information; translates to "according to."
+- **Example**: _뉴스에 따르면 내일 비가 온대요._  
+  _"According to the news, it will rain tomorrow."_
+#### 2. **~에 의하면**
+- **Usage**: Similar to **~에 따르면**, also used for quoting sources.
+- **Example**: _선생님 말씀에 의하면 시험이 어려울 거예요._  
+  _"According to the teacher, the test will be difficult."_
+### Difference with **~에 따라**
+- **~에 따라** focuses on outcomes that vary based on conditions.
+- **~에 따르면 / ~에 의하면** are specifically for attributing information to a source.
+---
 ## 4. Examples in Context
 ### Sentence Examples
-- **Formal Written**:
-  - 정책에 따라 예산이 변경될 수 있습니다.  
-    *(According to the policy, the budget may be changed.)*
-  
-- **Informal Spoken**:
-  - 너의 기분에 따라 영화 선택할 거야.  
-    *(I’ll choose the movie depending on your mood.)*
-- **Contextual Usage**:
-  - 경제 상황에 따라 소비가 줄어들 수 있다.  
-    *(Consumption may decrease, depending on the economic situation.)*
+1. **가격에 따라 품질이 달라요.**  
+   _"Quality varies according to the price."_
+2. **사람마다 생각에 따라 다를 수 있어요.**  
+   _"It can differ depending on each person's thoughts."_
+3. **문화에 따라 인사하는 방법이 달라요.**  
+   _"The way of greeting varies according to culture."_
+4. **날씨에 따라 옷을 입어요.**  
+   _"I dress according to the weather."_
+5. **상황에 따라 결정이 바뀔 수 있어요.**  
+   _"The decision can change depending on the situation."_
+### Formal and Informal Contexts
+- **Formal:**  
+  **결과는 노력에 따라 달라집니다.**  
+  _"The results vary according to effort."_
+- **Informal:**  
+  **기분에 따라 음악을 들어요.**  
+  _"I listen to music depending on my mood."_
+### Dialogue Example
+**A:** 어디에서 식사할까요?  
+**B:** 사람 수에 따라 달라질 것 같아요.
+_A: Where shall we eat?  
+B: It seems it'll depend on the number of people._
+
+---
 ## 5. Cultural Notes
 ### Cultural Relevance
-In Korean culture, adhering to social norms and expectations is significant. Using ~에 따라 reflects sensitivity to these norms as actions or opinions can greatly depend on the context and social hierarchy.
-### Politeness Levels
-The structure itself does not imply politeness, but the verbs or nouns used with it can reflect the level of formality based on the situation and audience.
+In Korean culture, context and situational factors play a significant role in communication and behavior. Using **~에 따라** reflects the importance of adapting actions according to social norms, hierarchy, and circumstances.
 ### Idiomatic Expressions
-- "상황에 따라" means "depending on the situation."
+- **계절에 따라 변하다**  
+  _"To change with the seasons."_
+- **경우에 따라 다르다**  
+  _"It depends on the case/situation."_
+
+---
 ## 6. Common Mistakes and Tips
 ### Error Analysis
-- **Common Mistake**: Confusing ~에 따라 with ~대로 (as per). 
-  - **Tip**: Remember that ~에 따라 indicates dependence while ~대로 indicates following or doing something as instructed.
+#### Mistake 1: Attaching **~에 따라** to verbs directly.
+- **Incorrect:** 출근하다에 따라 시간이 달라요.  
+- **Correct:** **출근 시간**에 따라 시간이 달라요.
+*Tip:* Ensure **~에 따라** follows a noun. If starting with a verb, nominalize it using **~기** or use the noun form.
+#### Mistake 2: Confusing **~에 따라** with **~에 따르면**.
+- **Incorrect Usage:** 뉴스에 따라 비가 올 거예요.  
+- **Correct Usage:** 뉴스에 **따르면** 비가 올 거예요.
+*Tip:* Use **~에 따르면** when citing a source, and **~에 따라** when indicating dependency.
 ### Learning Strategies
-- Mnemonic: Think of "따라" as "following" and remember that it's based on a specific "condition." 
+- **Mnemonic:** Think of **따라** as "following" something. So, the action "follows" (depends on) the noun it attaches to.
+- **Practice:** Create sentences by listing factors that cause variation, such as time, weather, mood, etc.
+---
 ## 7. Summary and Review
 ### Key Takeaways
-- The phrase ~에 따라 means "depending on" or "according to."
-- It indicates that the outcome hinges upon the situation mentioned.
-- It's commonly used in both formal and informal contexts.
+- **~에 따라** is used to express that something changes or depends on a certain factor.
+- Attach **~에 따라** to nouns, not verbs.
+- Differentiate between **~에 따라** (depends on) and **~에 따르면** (according to a source).
 ### Quick Recap Quiz
-1. What does ~에 따라 mean in English?
-2. How would you say "Depending on the weather" in Korean?
-3. What is a common mistake when using ~에 따라?
-**Answers**:
-1. According to / depends on
-2. 날씨에 따라
-3. Mixing it with ~대로 (to follow).
+1. **Fill in the blank:**  
+   _결과는 노력**( )** 따라 달라져요._  
+   **Answer:** 에
+2. **True or False:**  
+   **~에 따라** can be used to cite information from a news source.  
+   **Answer:** False
+3. **Correct the mistake in the sentence:**  
+   _학생들 생각하다에 따라 수업 방식이 달라요._  
+   **Answer:**  
+   _학생들 **생각에** 따라 수업 방식이 달라요._
+---
+By mastering **~에 따라**, you can more accurately describe how different factors influence outcomes in Korean. Keep practicing by crafting your own sentences using this grammar point!
+
+---
+© [Hanabira.org](https://hanabira.org)

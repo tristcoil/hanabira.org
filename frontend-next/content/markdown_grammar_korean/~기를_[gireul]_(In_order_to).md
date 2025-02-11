@@ -1,73 +1,87 @@
 Processing keyword: ~기를 [gireul] (In order to)
 # Korean Grammar Point: ~기를 [gireul] (In order to)
-# Korean Grammar Point: ~기를 [gireul] (In order to)
-## 1. Introduction 
-The Korean grammar point ~기를 [gireul] is used to express purpose or intention, translating to "in order to" in English. It allows the speaker to articulate what they aim to achieve through an action, making it an essential structure for expressing goals.
+
+---
+## 1. Introduction
+Welcome to today's lesson! We'll be exploring the Korean grammar point **~기를** [gireul], which is used to nominalize verbs and is often found in expressions related to desire, hope, requests, or intentions. Understanding **~기를** will help you express wishes or intentions more naturally in Korean.
+
 ---
 ## 2. Core Grammar Explanation
-### Detailed Explanation
-The structure ~기를 [gireul] is formed by attaching the verb stem (without the 다 ending) followed by the suffix ~기 and the particle ~를 (or ~을) based on whether the verb stem ends with a consonant or vowel respectively. 
-**Formation Diagram:**
-```
-Verb Stem + 기 + (를/을)
-```
+### Meaning
+The suffix **~기를** attaches to the verb stem to nominalize it (turn it into a noun form) and takes the object marker **를**. It is commonly used with verbs like **바라다** (to wish), **원하다** (to want), **기대하다** (to expect), and **기도하다** (to pray).
+**~기를** allows the speaker to express hopes, desires, or intentions regarding an action.
 ### Structure
-- **Verb Stem**: Base form of the verb without 다.
-- **~기**: Suffix indicating the action as a noun (gerund form).
-- **~를/을**: Particle that marks the noun phrase if required in the sentence.
-### Example:
-- **Learn (배우다)** → 배우기 + 를 → 배우기를
-   - Meaning: "in order to learn"
+```
+[Verb Stem] + 기를 + [Verb of desire or intention]
+```
+### Formation Diagram
+| Verb Stem |   +   | 기를 |   +   | Verb of Desire/Intention |
+|-----------|-------|------|-------|--------------------------|
+| 먹        |       | 기를 |       | 바라다                   |
+| 가        |       | 기를 |       | 원하다                   |
+| 성공하    |       | 기를 |       | 기도하다                 |
 ---
 ## 3. Comparative Analysis
-### Comparison with Similar Grammar Points
-- **~려고 [ryeogo]**: Used similarly to mean "in order to," but is more direct and often implies intention more strongly. 
-- **~고자 [goja]**: This also indicates intention, but is more formal and used primarily in written Korean.
-| Structure   | Meaning               | Usage                          |
-|-------------|-----------------------|--------------------------------|
-| ~기를      | "in order to (do)"   | General purpose/intention      |
-| ~려고      | "in order to (do)"   | Stronger, often more common    |
-| ~고자      | "in order to (do)"   | More formal, written contexts   |
+### **~기를** vs. **~기 위해(서)**
+While **~기를** is used to express hopes or desires about an action, **~기 위해(서)** means "in order to" and is used to express the purpose of an action.
+- **~기를**: Expresses hope or desire.
+  - *합격하기를 바랍니다.* (I hope you pass.)
+- **~기 위해(서)**: Expresses purpose.
+  - *합격하기 위해 열심히 공부했어요.* (I studied hard in order to pass.)
 ---
 ## 4. Examples in Context
-### Sentence Examples
-1. **Informal**: 
-   - **영어를 배우기를 원해요.**  
-   - *"I want to learn (in order to learn) English."*
-2. **Formal**: 
-   - **그 프로젝트를 성공시키기를 바랍니다.**  
-   - *"I hope to succeed in (in order to succeed in) that project."*
-3. **Written**: 
-   - **연구를 위해 데이터를 수집하기를 계획하고 있습니다.**  
-   - *"I am planning to collect data in order to conduct research."*
-4. **Spoken**: 
-   - **운동하기를 시작했어요.**  
-   - *"I started working out (in order to work out)."*
+### Formal Situations
+1. **학생들이 성공하기를 바랍니다.**
+   - *I hope the students succeed.*
+2. **더 좋은 세상이 되기를 기원합니다.**
+   - *I pray for a better world.*
+### Informal Situations
+1. **네가 행복하기를 원해.**
+   - *I want you to be happy.*
+2. **친구가 빨리 낫기를 바라고 있어.**
+   - *I'm hoping my friend gets well soon.*
+### Written Context
+1. **모두가 평화롭게 살기를 소망합니다.**
+   - *I wish for everyone to live peacefully.*
+### Spoken Context
+1. **시험 잘 보기를 바래요!**
+   - *I hope you do well on the exam!*
 ---
 ## 5. Cultural Notes
-### Cultural Relevance
-The use of ~기를 [gireul] reflects personal goals and ambition, which is culturally significant in Korea, where reaching goals is often emphasized. Using the correct level of politeness is also crucial; avoiding excessively formal structures in informal settings is essential.
+### Politeness and Formality
+Using **~기를** in expressions conveys a polite and considerate tone. It's often used when expressing wishes or hopes for others, which reflects the value Koreans place on harmony and respect in social relationships.
 ### Idiomatic Expressions
-- **나아지기를 바라다**  
-   - *"I hope (in order to improve)."*
+- **행운이 있기를!**
+  - *Good luck!*
+- **성공하기를 빕니다.**
+  - *I wish you success.*
 ---
 ## 6. Common Mistakes and Tips
-### Error Analysis
-- Confusing ~기를 with ~려고:
-   - Remember that ~려고 emphasizes intention more vividly, whereas ~기를 can feel softer or more general.
-### Learning Strategies
-- **Tip**: To remember that ~기를 is about purpose, think of the word "goal." Associating it with the actions you take to achieve your goals can aid recall.
+### Common Mistakes
+1. **Confusing **~기를** with **~기 위해(서)**:
+   - Remember that **~기를** expresses a hope or desire, not the purpose of an action.
+2. **Omitting the Object Marker **를**:
+   - Since **~기를** includes the object marker **를**, make sure not to drop it.
+### Learning Tips
+- Associate **~기를** with verbs of wishing or hoping to remember its usage.
+- Create flashcards with common verbs that are used with **~기를** to practice.
 ---
 ## 7. Summary and Review
 ### Key Takeaways
-- **~기를 [gireul]** is used to express intention or purpose translating to "in order to."
-- It forms by attaching ~기 to the verb stem and may use the object marker ~를/을.
-- Distinguish this structure from ~려고 and ~고자 for varied levels of formality and emphasis.
+- **~기를** [gireul] is used to nominalize a verb and express hopes or desires.
+- It is commonly used with verbs like **바라다**, **원하다**, **기대하다**, and **기도하다**.
+- Do not confuse **~기를** with **~기 위해(서)**, which means "in order to."
 ### Quick Recap Quiz
-1. What does ~기를 mean in English?
-2. How is the structure formed?
-3. Compare ~기를 with ~려고 in terms of usage.
-Answers:
-1. "In order to"
-2. Verb stem + 기 + (를/을)
-3. ~기는 more general while ~려고 is stronger in expressing intention.
+1. How do you say "I hope it rains tomorrow" using **~기를**?
+2. What is the difference between **~기를** and **~기 위해(서)**?
+3. Which verbs are commonly used with **~기를**?
+---
+### **Answers**
+1. **내일 비가 오기를 바랍니다.**
+2. **~기를** expresses a hope or desire, while **~기 위해(서)** expresses the purpose ("in order to") of an action.
+3. Verbs like **바라다** (to wish), **원하다** (to want), **기대하다** (to expect), **기도하다** (to pray).
+---
+By understanding and practicing **~기를**, you'll be able to express your hopes and wishes more naturally in Korean. Keep practicing, and soon it'll become second nature!
+
+---
+© [Hanabira.org](https://hanabira.org)

@@ -1,63 +1,118 @@
 Processing keyword: ~(으)던 [(eu)deon] (Who used to)
 # Korean Grammar Point: ~(으)던 [(eu)deon] (Who used to)
-# Grammar Point: ~(으)던 [(eu)deon] (Who used to)
+
 ## 1. Introduction
-The grammar point ~(으)던 is used to indicate actions or states that were habitual or recurring in the past. It conveys the sense of "who used to" or "that used to be the case."
+In Korean, verb endings play a crucial role in expressing nuances of time, aspect, and mood. One such verb ending is **~(으)던**, which reflects past actions or states that were ongoing, habitual, or incomplete. This lesson will delve into the meaning, usage, and formation of **~(으)던**, compare it with similar grammar points, and provide examples to enhance understanding.
+
+---
 ## 2. Core Grammar Explanation
-### Detailed Explanation
-- **Meaning**: The suffix ~(으)던 describes something that was a habitual action or state in the past but is no longer true in the present.
-- **Structure**: 
-  - The suffix is attached to the verb stem (or adjective stem).
-  - If the verb or adjective ends in a vowel, simply add 던.
-  - If it ends in a consonant, add ~(으)던.
-### Formation
-| Verb/Adjective Stem | Ending | Example   | Meaning                 |
-|---------------------|--------|-----------|-------------------------|
-| 가다 (to go)        | Vowel  | 가던      | used to go              |
-| 하다 (to do)       | Consonant | 하던    | used to do              |
-| 예쁘다 (to be pretty)| Vowel | 예쁘던    | used to be pretty       |
-| 맛있다 (to be delicious)| Consonant| 맛있던 | used to be delicious    |
+### Meaning
+**~(으)던** is used to describe:
+- An action or state that **used to happen regularly** in the past.
+- An action that was **in progress in the past** but not necessarily completed.
+- A **reminiscence** of past habits or ongoing states.
+It conveys a sense of looking back at past actions or states with a focus on their continuity or recurrence.
+### Structure
+#### Formation
+1. **For verb stems ending with a vowel or the consonant 'ㄹ':**
+   - Attach **던** directly to the verb stem.
+     | Verb (Infinitive) | Verb Stem | Add 던 | Result     |
+     |-------------------|-----------|--------|------------|
+     | 가다 (to go)      | 가         | 던     | 가던       |
+     | 살다 (to live)    | 살        | 던     | 살던       |
+2. **For verb stems ending with other consonants:**
+   - Attach **-던** to the verb stem without any changes.
+     | Verb (Infinitive) | Verb Stem | Add 던 | Result     |
+     |-------------------|-----------|--------|------------|
+     | 먹다 (to eat)     | 먹         | 던     | 먹던       |
+     | 읽다 (to read)    | 읽         | 던     | 읽던       |
+#### Formation Diagram
+```
+[Verb Stem] + 던
+```
+### Usage
+- **Descriptive Modifier:** Modifies a noun to describe past habitual actions or states.
+  - **Example:** 내가 **읽던 책** (The book I used to read)
+- **Reflective Statements:** Expresses nostalgia or memories of past actions or states.
+  - **Example:** 우리가 함께 **걷던 길** (The road we used to walk together)
+---
 ## 3. Comparative Analysis
-- **Similar Grammar Points**:
-  - **-(았/었다) [-(at/et)da]**: Describes completed past actions. Unlike ~(으)던, which continues to imply habituality, -(았/었다) indicates that the action was completed once.
-  - **-(고 있다) [-(go itda]**: Indicates a current action in progress, contrasting with ~(으)던 which refers solely to past habits.
-### Differences:
-- **~(으)던**: habitual actions in the past.
-- **-(았/었다)**: actions that were completed in the past.
-- **-(고 있다)**: actions that are currently ongoing.
+### Comparison with **~았/었던**
+While both **~던** and **~았/었던** refer to past actions or states, there are subtle differences:
+- **~던**
+  - Focuses on actions or states that were **ongoing or habitual** in the past and may not have been completed.
+  - Emphasizes the **continuity or repetition** of the past action.
+- **~았/었던**
+  - Indicates actions or states that were **completed in the past**.
+  - Can also express a past state that has changed.
+#### Example Comparison
+1. **내가 먹던 빵**
+   - The bread I used to eat (habitually in the past).
+2. **내가 먹었던 빵**
+   - The bread I ate before (completed action in the past).
+---
 ## 4. Examples in Context
 ### Sentence Examples
-1. **Formal**: 어렸을 때 친구들과 자주 가던 공원이 지금은 사라졌어요.  
-   *Translation: The park that I used to go to with friends when I was young has disappeared now.*
-   
-2. **Informal**: 너랑 같이 쓰던 책 어디 갔어?  
-   *Translation: Where is the book that I used to write with you?*
-3. **Written**: 내가 좋아하던 노래를 들으니 옛날 생각이 나네요.  
-   *Translation: Hearing the song that I used to like reminds me of the old days.*
-4. **Spoken**: 이 길은 예전엔 자주 가던 길이야.  
-   *Translation: This road is the one that I used to take frequently back in the day.*
-## 5. Cultural Notes 
+#### Formal Context
+1. **학생들이 자주 방문하던 도서관이 폐쇄되었습니다.**
+   _The library that students used to visit frequently has been closed._
+2. **그분이 가르치던 과목은 한국사입니다.**
+   _The subject he used to teach is Korean history._
+#### Informal Context
+1. **우리가 어릴 때 뛰어놀던 공원 기억나?**
+   _Do you remember the park we used to play in when we were kids?_
+2. **네가 다니던 학교는 어땠어?**
+   _How was the school you used to attend?_
+#### Written Language
+1. **그녀는 어머니가 만들던 요리법을 전수받았다.**
+   _She inherited the recipes her mother used to make._
+2. **과거에 사용하던 언어는 지금과 많이 달랐다.**
+   _The language that was used in the past was very different from now._
+#### Spoken Language
+1. **내가 예전에 만나던 사람이야.**
+   _He is someone I used to meet before._
+2. **이 노래는 우리가 즐겨 듣던 거야.**
+   _This is the song we used to enjoy listening to._
+---
+## 5. Cultural Notes
 ### Cultural Relevance
-In Korean culture, reflecting on the past is common during conversations, especially when talking about childhood or nostalgic memories. Using ~(으)던 conveys a depth of familiarity and connection to the past, which is significant in building rapport.
+- Korean often reflects levels of formality and politeness through verb endings and sentence endings rather than through modifiers like **~(으)던**.
+- The use of **~(으)던** can evoke nostalgia, a common theme in Korean storytelling and music.
 ### Idiomatic Expressions
-- **종종 가던 카페** (The café that I used to frequent)
-- **예전처럼 하던 대화** (The conversations we used to have like in the past)
+1. **옛날에 내가 사랑하던 사람**
+   _The person I used to love in the past_
+2. **가끔 생각나던 장소**
+   _A place that used to come to mind occasionally_
+---
 ## 6. Common Mistakes and Tips
-### Error Analysis
-- **Mistake**: Confusion with the use of -(았/었다): Some learners may use -(았/었다) when referring to past habitual actions instead of ~(으)던.
-- **Tip**: Remember that ~(으)던 is specifically for habits or states in the past, whereas -(았/었다) is for completed actions.
+### Common Mistakes
+- **Mistake:** Confusing **~던** with **~는**
+  - **Incorrect:** 내가 먹는 빵 (The bread I am eating)
+  - **Correct:** 내가 먹던 빵 (The bread I used to eat)
+- **Mistake:** Using **~던** for one-time past actions
+  - **Correction:** Use **~았/었던** for completed actions.
+    - **Incorrect:** 어제 보던 영화 (The movie I watched yesterday)
+    - **Correct:** 어제 봤던 영화 (The movie I watched yesterday)
 ### Learning Strategies
-- **Mnemonic Device**: Think of “(으)던” as "used to"—remind yourself it relays something about a routine from the past that does not continue into the present.
+- **Mnemonic Device:** Think of **~던** as "back then, I was in the middle of..." to recall its usage for ongoing past actions.
+- **Practice:** Create sentences contrasting **~던** and **~았/었던** to understand their nuances.
+---
 ## 7. Summary and Review
 ### Key Takeaways
-- The suffix ~(으)던 expresses past habitual actions or states.
-- It differs from other past tense forms and focuses on actions that were repeated rather than completed.
-- Use it to reflect on past experiences that are no longer true.
+- **~(으)던** is used to describe past habitual or ongoing actions/states.
+- It modifies nouns to reflect memories or past experiences that may not have been completed.
+- Distinct from **~았/었던**, which denotes completed past actions or states.
 ### Quick Recap Quiz
-1. What does ~(으)던 express about an action or state?
-2. How would you say "I used to go there" using the verb 가다?
-3. Differentiate between ~(으)던 and -(았/었다).
-- **Answers**: 
-1. It expresses a past habit or state. 
-2. 가던.
-3. ~(으)던 is for past habits; -(앗/었다) is for completed past actions.
+1. **Fill in the blank:** 내가 자주 방문___ 카페는 이제 없어졌다.
+   - **Answer:** 하던 (방문하던)
+2. **Choose the correct usage of ~(으)던:**
+   a) 어제 읽던 책을 다 읽었어요.
+   b) 어제 읽었던 책을 다 읽었어요.
+   - **Answer:** b) 어제 읽었던 책을 다 읽었어요.
+3. **True or False:** **~(으)던** is used for completed actions in the past.
+   - **Answer:** False
+---
+By understanding and practicing **~(으)던**, you can express past habits and reminisce about ongoing actions or states in Korean, adding depth to your language skills.
+
+---
+© [Hanabira.org](https://hanabira.org)

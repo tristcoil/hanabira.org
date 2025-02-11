@@ -1,74 +1,110 @@
 Processing keyword: (으)면 [(eu)myeon] (If, when)
 # Korean Grammar Point: (으)면 [(eu)myeon] (If, when)
-# Grammar Point: (으)면 [(eu)myeon] (If, when)
+
 ## 1. Introduction
-The Korean grammar point (으)면 is used to express a conditional situation, similar to "if" or "when" in English. It is an essential structure in Korean for making hypothetical statements.
+In Korean, the conditional and temporal clause marker **(으)면** is widely used to express "if" or "when". It's an essential grammar point that allows speakers to discuss possibilities, conditions, and future events contingent on certain circumstances.
 ## 2. Core Grammar Explanation
+### Meaning
+The suffix **(으)면** is attached to verbs, adjectives, or nouns with the copular verb **이다** to form conditional statements. It conveys the meaning of "if" or "when", indicating that one action or state is contingent upon another.
+### Structure
+The formation of **(으)면** depends on whether the stem ends with a vowel or a consonant.
+- **For stems ending with a consonant (excluding 'ㄹ'):**
+  ```markdown
+  [Verb/Adjective stem] + **-으면**
+  ```
+- **For stems ending with a vowel or the consonant 'ㄹ':**
+  ```markdown
+  [Verb/Adjective stem] + **-면**
+  ```
+### Formation Diagram
+| Stem Ending                   | Attach      | Example Verb/Adjective | Conjugation | Meaning          |
+|-------------------------------|-------------|------------------------|-------------|------------------|
+| Consonant (excluding 'ㄹ')    | **-으면**   | 먹다 (to eat)          | 먹으면      | If [I] eat       |
+| Vowel or 'ㄹ'                 | **-면**     | 가다 (to go)           | 가면        | If [I] go        |
+|                               |             | 길다 (to be long)      | 길면        | If it's long     |
 ### Detailed Explanation
-The structure (으)면 is attached to the verb or adjective stem, which allows speakers to create conditional sentences. 
-1. **If the verb ends in a consonant:** Add (으)면  
-   - Example: 가다 (gada - to go) → 가면 (gamyeon - if [you] go)
-  
-2. **If the verb ends in a vowel:** Add 면  
-   - Example: 보다 (boda - to see) → 보면 (bomyeon - if [you] see)
-3. **For adjectives:** The same rules apply.  
-   - Example: 재미있다 (jaemiitda - to be fun) → 재미있으면 (jaemiisseumyeon - if [it] is fun)
-### Meaning, Structure, Formation Diagram
-- **Meaning:** Creates a conditional or hypothetical expression.
-- **Structure:** 
-    - Verb stem + (으)면
-    - Adjective stem + (으)면
-#### Visual Aid: Formation Diagram
-```
- If a VERB ends with a VOWEL   ->   Verb stem + 면
- If a VERB ends with a CONSONANT -> Verb stem + 으면
-```
+1. **Identify the verb/adjective stem:**
+   - Remove **-다** from the dictionary form.
+     - **먹다** → 먹
+     - **가다** → 가
+2. **Determine the ending:**
+   - If the stem ends with a **consonant** (excluding 'ㄹ'), add **-으면**.
+   - If the stem ends with a **vowel** or the consonant **'ㄹ'**, add **-면**.
+3. **Attach the appropriate suffix:**
+   - **먹** + **으면** = **먹으면** (If [I] eat)
+   - **가** + **면** = **가면** (If [I] go)
 ## 3. Comparative Analysis
-- **Similar Grammar: (으)면 vs. (ㄴ/는)다면** 
-  - (으)면 is more general for hypothetical situations, while (ㄴ/는)다면 can suggest a stronger hypothetical or contrary condition, similar to “if it were the case that…” in English.
-#### Example:
-1. **(으)면**: 너는 돈이 있으면 영화에 가자.  
-   Translation: If you have money, let’s go to the movies.
+### Comparison with Other Conditional Forms
+- **(으)면 vs. (으)ㄹ 때:**
+  - **(으)면**: Emphasizes the condition or possibility ("if").
+  - **(으)ㄹ 때**: Focuses on the time when an action occurs ("when").
   
-2. **(ㄴ/는)다면**: 너는 돈이 있다면 영화에 갔을 것이다.  
-   Translation: If you had had money (at that time), you would have gone to the movies.
+  | Sentence                            | Meaning                    |
+  |-------------------------------------|----------------------------|
+  | 비가 **오면** 집에 있어요.          | If it rains, I stay home.  |
+  | 비가 **올 때** 집에 있어요.        | When it rains, I'm at home.|
+  
+- **(으)면 좋겠다:**
+  - Used to express a wish or hope.
+  - Example: 빨리 봄이 **오면 좋겠어요**. (I wish spring would come quickly.)
 ## 4. Examples in Context
-### Sentence Examples
-1. **Formal:**  
-   - 공부하면 성적이 오를 것입니다.  
-   Translation: If you study, your grades will improve.
-  
-2. **Informal:**  
-   - 집에 가면 전화 줘.  
-   Translation: If you go home, give me a call.
-3. **Spoken:**  
-   - 지금 나와 있으면 밥 먹을래?  
-   Translation: If you're available now, do you want to eat?
-4. **Written:**  
-   - 이 문제를 해결하면 보고서에 반영하겠습니다.  
-   Translation: If I resolve this issue, I will reflect it in the report.
+### Formal Situations
+1. **예약을 변경하고 싶으면 고객 센터에 연락해 주세요.**
+   - *If you want to change your reservation, please contact customer service.*
+2. **시간이 있으면 저희 사무실에 방문해 주시길 바랍니다.**
+   - *If you have time, please visit our office.*
+### Informal Situations
+1. **내일 비가 오면 집에 있을 거야.**
+   - *If it rains tomorrow, I'll stay home.*
+2. **맛있으면 더 먹어.**
+   - *If it's delicious, eat more.*
+### Spoken Language
+1. **피곤하면 좀 쉬어.**
+   - *If you're tired, take some rest.*
+2. **심심하면 영화 볼래?**
+   - *If you're bored, do you want to watch a movie?*
+### Written Language
+1. **연락이 없으면 회의는 취소됩니다.**
+   - *If there is no contact, the meeting will be canceled.*
+2. **이 약을 드시면 기침이 멈출 것입니다.**
+   - *If you take this medicine, your cough will stop.*
 ## 5. Cultural Notes
-### Cultural Relevance
-The use of (으)면 demonstrates the conditionality and politeness that can be present in Korean conversations. The choice to use formal or informal language can heavily depend on the relationship between the speakers.
-### Levels of Politeness
-Using (으)면 in formal contexts shows respect and follows social norms of politeness that are essential in Korean culture.
-### Idiomatic Expressions
-- "이유가 있으면 이유를 말해."  
-  Translation: "If you have a reason, state it."
+### Levels of Politeness and Formality
+- **(으)면** itself does not change formality levels but is used within sentences that can be adjusted for politeness by changing verb endings.
+  - **Informal polite**: 가면요?
+  - **Formal polite**: 가면습니까?
+### Idiomatic Expressions Using (으)면
+1. **우물 안 개구리라면 세상을 몰라요.**
+   - *If you are like a frog in a well, you don't know the world.*
+2. **하늘의 별 따기면 불가능해요.**
+   - *If it's like plucking a star from the sky, it's impossible.*
 ## 6. Common Mistakes and Tips
-### Error Analysis
-- Mistake: Confusing the endings, especially with verbs that have multiple syllables.
-  - Correctly identify whether the verb ends in a vowel or consonant.
-### Learning Strategies
-- **Mnemonic Device:** Remember "CONsonant = (으)면" and "VOWel = 면" to differentiate easily.
-  
+### Common Mistakes
+1. **Incorrect Attachment:**
+   - Mistake: 먹다 + 면 = 먹다면 ❌
+   - Correction: 먹다 → 먹 + **으면** = 먹으면 ✔️
+2. **Using (으)면 with Nouns Without '이다':**
+   - Mistake: 학생면 열심히 공부해야 해요. ❌
+   - Correction: 학생**이면** 열심히 공부해야 해요. ✔️
+### Tips to Remember
+- **Mnemonic Device:**
+  - **"Consonant? Add '으' before '면'."**
+    - If the stem ends with a consonant (except 'ㄹ'), remember to insert **'으'** before **'면'**.
 ## 7. Summary and Review
 ### Key Takeaways
-- The grammar point (으)면 expresses conditionality.
-- It is essential to determine if the verb ends in a consonant or vowel for correct usage.
-- (으)면 is different from (ㄴ/는)다면, which suggests a stronger hypothetical scenario.
+- **(으)면** is used to express "if" or "when" conditions.
+- Attach **-으면** to stems ending with a consonant (excluding 'ㄹ').
+- Attach **-면** to stems ending with a vowel or the consonant 'ㄹ'.
 ### Quick Recap Quiz
-1. How do you attach (으)면 to a verb that ends in a consonant?
-2. What is the translation of "가면"?
-3. Can you provide an example sentence using (으)면 in an informal context?
-Remember, practice makes perfect! Use (으)면 in your daily conversations to become more familiar with its usage.
+1. **How do you conjugate 살다 (to live) with (으)면?**
+   - **Answer:** 살면 (If [I/you] live)
+2. **Fill in the blank: 시간이 ____ 만나러 갈게요. (If I have time, I'll go meet you.)**
+   - **Answer:** 있으면
+3. **Is the following sentence correct? 왜 안 오다면 걱정돼요.**
+   - **Answer:** Incorrect. It should be "왜 안 **오면** 걱정돼요."
+
+---
+By understanding and practicing the usage of **(으)면**, you can express conditions and possibilities in Korean fluently. Remember to pay attention to the stem endings for correct conjugation!
+
+---
+© [Hanabira.org](https://hanabira.org)

@@ -10,6 +10,8 @@ import {
   faArrowLeft,
   faArrowRight,
 } from "@fortawesome/free-solid-svg-icons";
+import ClosedFlashcard from "@/components/ClosedFlashcard";
+
 
 interface Question {
   _id: string;
@@ -204,25 +206,53 @@ const ComplexFlashcardModal: FC<ComplexFlashcardModalProps> = ({
 
   if (error) return <div>Failed to load</div>;
 
-  if (!isOpen)
-    return (
-      <div className=" p-2 bg-white dark:bg-gray-800 rounded-lg shadow transition-shadow duration-300 ease-in-out hover:shadow-xl">
-        <div className="text-sm md:text-md lg:text-lg font-semibold text-gray-700 dark:text-gray-300 uppercase tracking-widest">
-          Level: {p_tag}
-        </div>
-        <p>Kanji with one reading {s_tag}</p>
-        <p className="mt-1 text-sm text-gray-600 dark:text-gray-400">
-          Explore the kanji readings interactively.
-        </p>
-        <button
-          type="button"
-          onClick={openModal}
-          className="mt-2 inline-flex items-center justify-center rounded-md bg-gray-300 dark:bg-gray-600 hover:bg-gray-400 dark:hover:bg-gray-500 focus:outline-none focus:ring-2 focus:ring-inset focus:ring-gray-500 dark:focus:ring-gray-600 text-gray-800 dark:text-gray-300 text-sm px-3 py-1.5 transition-colors duration-150"
-        >
-          Open flashcard
-        </button>
-      </div>
-    );
+  // if (!isOpen)
+  //   return (
+  //     <div className=" p-2 bg-white dark:bg-gray-800 rounded-lg shadow transition-shadow duration-300 ease-in-out hover:shadow-xl">
+  //       <div className="text-sm md:text-md lg:text-lg font-semibold text-gray-700 dark:text-gray-300 uppercase tracking-widest">
+  //         Level: {p_tag}
+  //       </div>
+  //       <p>Kanji with one reading {s_tag}</p>
+  //       <p className="mt-1 text-sm text-gray-600 dark:text-gray-400">
+  //         Explore the kanji readings interactively.
+  //       </p>
+  //       <button
+  //         type="button"
+  //         onClick={openModal}
+  //         className="mt-2 inline-flex items-center justify-center rounded-md bg-gray-300 dark:bg-gray-600 hover:bg-gray-400 dark:hover:bg-gray-500 focus:outline-none focus:ring-2 focus:ring-inset focus:ring-gray-500 dark:focus:ring-gray-600 text-gray-800 dark:text-gray-300 text-sm px-3 py-1.5 transition-colors duration-150"
+  //       >
+  //         Open flashcard
+  //       </button>
+  //     </div>
+  //   );
+
+
+    if (!isOpen) {
+      return (
+        <ClosedFlashcard
+          p_tag={p_tag}
+          s_tag={s_tag}
+          badgeText="Kanji"
+          badgeColor="bg-rose-100 text-rose-800" // Specify badge color here
+          description="Explore kanji readings."
+          openModal={openModal}
+          buttonText="Open Flashcard"
+        />
+      );
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
 
   if (!questions || questions.length === 0) return <div>Loading...</div>; // Ensure questions is loaded and has data
 
@@ -356,7 +386,7 @@ const ComplexFlashcardModal: FC<ComplexFlashcardModalProps> = ({
           ${
             difficulty === level
               ? level === "easy"
-                ? "bg-green-500 hover:bg-green-600 text-white"
+                ? "bg-blue-500 hover:bg-blue-600 text-white"
                 : level === "medium"
                 ? "bg-yellow-500 hover:bg-yellow-600 text-white"
                 : "bg-red-500 hover:bg-red-600 text-white"

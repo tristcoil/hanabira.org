@@ -1,82 +1,95 @@
 Processing keyword: ~진 않다 [jin anta] (Not really)
 # Korean Grammar Point: ~진 않다 [jin anta] (Not really)
-# Korean TOPIK Grammar Point: ~진 않다 [jin anta] (Not really)
+
 ## 1. Introduction
-The structure ~진 않다 is used in Korean to express negation or to convey that something is not the case or not to the extent that one might think. This grammar point adds a nuance of understatement, often translated as "not really" or "not so much" in English.
+In Korean, expressing negation can be nuanced. The grammar point **~진 않다** is used to convey a softer or partial negation, similar to "not really" or "it's not that...". It allows the speaker to deny something without being overly direct or absolute.
+
 ---
 ## 2. Core Grammar Explanation
-### Detailed Explanation
-The grammar ~진 않다 consists of:
-- **Base Verb + 지 (ji)**: A suffix that implies negation.
-- **않다 (anta)**: The verb meaning "to not be."
-### Formation Diagram
-1. Take the verb stem. 
-2. Attach **지**.
-3. Follow with **않다**.
-**Example Structure:**  
-```
-Verb Stem + 지 + 않다
-```
-### Example:
-- **하다 (hada)** → **하지 않다** (to not do)
-- **갑니다 (gamnida)** → **가지 않다** (to not go)
 ### Meaning
-This grammar structure indicates that the speaker wants to emphasize that something is not true or not as significant as implied.
+**~진 않다** is used to indicate that while something may not be the case, it doesn't necessarily mean the opposite is true either. It conveys a sense of partial disagreement or a softer denial.
+- **Translation:** "It's not that...," "Not really," "Not exactly," "I wouldn't say..."
+### Structure
+The structure involves attaching **~진 않다** to the verb stem.
+#### Formation Diagram
+```
+Verb Stem + 진 않다
+```
+- **Verb Stem:** The base form of the verb without 다.
+- **진 않다:** Contraction of **지는 않다**, where **-지** is a negation particle, and **않다** means "to not do".
+### Example
+- **하다** (to do) → **하** (verb stem) + **진 않다** → **하진 않다** (I don't really do...)
 ---
 ## 3. Comparative Analysis
-### Comparison with Other Negation Forms
-- **안 (an)**: A simple negation that directly negates the verb. 
-  - **가다 (gada)** (to go) → **안 가다 (an gada)** (not go)
-  
-- **~지 않다 (jin anta)**: Implies a more nuanced or softer form of negation.
-  - **가다 (gada)** → **가지 않다 (jin anta)** (not really go, suggesting a nuance of mildness or understatement)
-### Nuance:
-- Use **안** for straightforward negation.
-- Use **~지 않다** for more complex emotions or thoughts, emphasizing that it's not the case or less than expected.
+### Comparison with ~지 않다
+- **~지 않다** is a straightforward negation meaning "do not".
+  - **집에 가지 않아요.** (I am not going home.)
+- **~진 않다** is less direct, often implying that while something isn't the case, it's not entirely untrue either.
+  - **집에 가진 않아요.** (I'm not really going home.) [but perhaps somewhere else]
+### Comparison with ~지 못하다
+- **~지 못하다** indicates inability.
+  - **영화를 보지 못했어요.** (I couldn't watch the movie.)
+- **~진 않다** doesn't imply inability, but a soft negation.
+  - **영화를 보진 않았어요.** (I didn't really watch the movie.)
 ---
 ## 4. Examples in Context
-### Sentence Examples
-1. **Formal:**
-   - 이 음식은 맛있지 않아요.  
-     *I don't really like this food.*  
-     *(Literal: This food is not tasty.)*
-2. **Informal:**
-   - 그 사람이 믿기지도 않아.  
-     *I don’t really believe that person.*  
-     *(Literal: That person is not believable.)*
-3. **Written:**
-   - 그녀의 말은 진실하지 않다.  
-     *Her words are not really true.*  
-     *(Literal: Her words are not truthful.)*
-4. **Spoken:**
-   - 그 영화는 재미있진 않더라.  
-     *That movie isn't really interesting.*  
-     *(Literal: That movie is not interesting.)*
+### Formal Context
+1. **그 책을 읽진 않았습니다.**
+   - *I haven't really read that book.*
+2. **회의에 참석하진 않을 것입니다.**
+   - *I won't really attend the meeting.*
+### Informal Context
+1. **어제 많이 먹진 않았어.**
+   - *I didn't really eat much yesterday.*
+2. **그 영화가 재미있진 않았어.**
+   - *That movie wasn't really interesting.*
+### Spoken Language
+1. **별로 힘들진 않았어요.**
+   - *It wasn't really that hard.*
+2. **날씨가 춥진 않네요.**
+   - *The weather isn't really cold.*
+### Written Language
+1. **그 제안이 최선이진 않다.**
+   - *That proposal isn't really the best.*
+2. **문제가 없진 않다.**
+   - *There isn't exactly no problem.*
 ---
 ## 5. Cultural Notes
-### Cultural Relevance
-In Korean culture, it is important to express oneself with politeness, and using structures like ~진 않다 reflects a gentle, less confrontational way of disagreeing or stating a negative opinion. 
 ### Levels of Politeness
-- Using ~진 않다 sounds softer and more polite than simply saying the verb with the **안** prefix. This makes it suitable for formal situations where maintaining politeness is critical.
-### Idiomatic Expressions
-- **진짜 안 믿어**: *I really don’t believe it.*  
-  *(Emphasizes disbelief; common in casual conversations.)*
+- **~진 않다** can be used across different levels of speech. Adjust the ending to match the formality.
+  - **하진 않습니다** (Formal)
+  - **하진 않아요** (Polite)
+  - **하진 않아** (Casual)
+
+### Softening Statements
+In Korean culture, direct refusals or negations can be considered impolite. Using **~진 않다** allows the speaker to express disagreement or negation more softly, which aligns with the preference for indirect communication.
+
 ---
 ## 6. Common Mistakes and Tips
-### Error Analysis
-- Mistaking ~진 않다 for simple **안** can lead to bluntness in communication. 
-- Misusing it in contexts where straightforward negation is needed.
-### Learning Strategies
-- **Mnemonic Device**: Think of **~지 않다** as "not to that extent," which will help you remember its nuanced usage.
-  
-- Practice using it in daily conversations to express mild disagreement or negation subtly.
+### Common Mistakes
+1. **Confusing ~진 않다 with ~지 않다**
+   - Remember that **~진 않다** is a softer negation.
+2. **Incorrect Verb Stem Attachment**
+   - Ensure that **~진 않다** is attached directly to the verb stem.
+### Tips
+- **Mnemonic Device:** Think of **~진 않다** as "It's not truly..." to remind yourself that it's not an absolute negation.
+- **Practice Differentiation:** Compare sentences using **~지 않다** and **~진 않다** to feel the nuance.
 ---
 ## 7. Summary and Review
 ### Key Takeaways
-- **~진 않다** is used for nuanced negation, conveying "not really."
-- It's softer than simple **안** negation and is useful for polite or formal communication.
-- Key structure: **Verb Stem + 지 + 않다**
+- **~진 않다** is used for soft or partial negation.
+- It is a contraction of **~지는 않다**.
+- Attaches directly to the verb stem.
+- Useful for polite and indirect communication.
 ### Quick Recap Quiz
-1. How would you say "I don’t really understand" using the structure ~진 않다?
-2. What is the difference between using **안** and **~진 않다**?
-By reflecting on these points and practicing, you can incorporate the grammar ~진 않다 into your conversational toolkit effectively!
+1. How do you attach **~진 않다** to the verb **먹다** (to eat)?
+   - **Answer:** 먹 + 진 않다 → **먹진 않다**
+2. Translate to English: **그렇게 복잡하진 않아요.**
+   - **Answer:** It's not really that complicated.
+3. What is the difference between **~지 않다** and **~진 않다**?
+   - **Answer:** **~지 않다** is a direct negation ("do not"), while **~진 않다** is a softer, less direct negation ("not really").
+---
+By understanding and practicing **~진 않다**, you can express negations more naturally and politely in Korean.
+
+---
+© [Hanabira.org](https://hanabira.org)

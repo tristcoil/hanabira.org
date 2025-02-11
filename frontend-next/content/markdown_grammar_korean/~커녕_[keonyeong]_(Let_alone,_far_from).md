@@ -1,61 +1,130 @@
 Processing keyword: ~커녕 [keonyeong] (Let alone, far from)
 # Korean Grammar Point: ~커녕 [keonyeong] (Let alone, far from)
-# Grammar Point: ~커녕 [keonyeong] (Let alone, far from)
-## 1. Introduction
-The Korean grammar point ~커녕 is used to express that something is far from being true or that one thing is extremely unlikely compared to another. It often serves to highlight a contrast between expectations and reality.
-## 2. Core Grammar Explanation
-### Detailed Explanation
-- **Meaning**: ~커녕 emphasizes that not only is the first statement untrue, but the second statement is even more unlikely or a contrasting situation.
-- **Structure**: It is typically used after a noun or a verb stem and often comes from a negated clause.
-### Formation Diagram
-```
-[Negated Sentence] + 커녕 + [Contrasting Clause]
-```
-### Example Breakdown
-- **Basic Structure**: 
-  - “문을 열지 커녕” (let alone open the door) implies an expectation or assumption that one would at least open the door, but it’s stated that this is not even the case.
-## 3. Comparative Analysis
-The structure ~커녕 can be compared to the English phrase "not to mention." While both phrases indicate that something is not even close to the expected or stated condition, ~커녕 adds a stronger sense of contrast.
-### Similar Expression
-- **~은커녕**: This is a related structure but is specifically used with nouns and can often be seen in the same context but with a slight nuance.
-  - Example: “아침도 못 먹은 커녕” (not even having breakfast).
-## 4. Examples in Context
-### Sentence Examples
-1. **Formal Context**:
-   - 그는 나를 도와주기는커녕 나를 괴롭혔다.  
-   (Translation: He didn’t help me, let alone, he actually troubled me.)
-  
-2. **Informal Context**:
-   - 오늘은 일도 하기 커녕, 그냥 누워 있었어.  
-   (Translation: Today, I didn’t even do my work, I just lay down.)
-  
-3. **Written Context**:
-   - 건강에 좋기는커녕, 오히려 해로운 음식들이 많다.  
-   (Translation: There are many foods that are not good for health, let alone, they are harmful.)
-  
-4. **Spoken Context**:
-   - 걔랑 말도 안 하고 커녕, 그냥 지나쳤어.  
-   (Translation: I didn’t even talk to him/her, I just walked past.)
-## 5. Cultural Notes
-### Cultural Relevance
-The expression ~커녕 reflects a perspective often found in Korean culture where contrasting statements are emphasized to show disappointment or surprise. This is particularly important in situations involving politeness and expectations in social interactions.
-### Idiomatic Expressions
-- “잘하려고 하기는커녕…” (Not to mention trying to do well...)  
-  - Often used to express the opposite of the expected effort.
-## 6. Common Mistakes and Tips
-### Error Analysis
-1. **Using it without negation**: Learners may forget to properly negate the first sentence.
-   - **Correct**: 공부는커녕 (Let alone study...)
-   - **Incorrect**: 공부 커녕 (This suggests an improper context).
-  
-### Learning Strategies
-- **Mnemonic Device**: Think of ~커녕 as "not even" plus a contrast. Every time you think of what you could do, use it to express what you couldn't even consider.
-## 7. Summary and Review
-### Key Takeaways
-- ~커녕 indicates a strong contrast, showing that not only is the first statement untrue, but the following one is less likely.
-- It adds depth to a sentence by amplifying the expectation versus reality.
-### Quick Recap Quiz
-1. Translate the sentence: “그는 올 생각은 커녕, 그냥 집에 있었다.”  
-2. Provide a sentence using ~커녕 in your own words.
+
+## **1. Introduction**
+In Korean, the particle **~커녕** is used to emphasize that something is far from happening or that one thing is even less likely or possible than another. It translates to "let alone," "far from," or "not to mention" in English. This grammar point is particularly useful when you want to stress the improbability of an action or state in comparison to another.
+
 ---
-This overview should provide a solid understanding of the grammar point ~커녕 in Korean, illustrating its usage, structure, and cultural relevance.
+## **2. Core Grammar Explanation**
+### **Meaning and Usage**
+- **~커녕** expresses that not only is the first thing impossible or didn't happen, but the second thing (usually more basic or expected) also didn't happen.
+- It emphasizes a negative contrast between two clauses or items.
+- Used to highlight a worsening situation or to stress dissatisfaction.
+### **Structure**
+#### **For Nouns**
+- **Noun + 커녕**
+#### **For Verbs and Adjectives**
+- **Verb/Adjective Stem + 기는커녕**
+---
+### **Formation Diagram**
+#### **Attaching ~커녕 to Nouns**
+```
+[Noun] + 커녕
+Example:
+밥 + 커녕 = 밥커녕
+(Let alone rice)
+```
+#### **Attaching ~기는커녕 to Verbs/Adjectives**
+```
+[Verb/Adjective Stem] + 기는커녕
+Example:
+자다 (to sleep) → 자 + 기는커녕 = 자기는커녕
+(Let alone sleep)
+```
+---
+### **Detailed Explanation**
+1. **With Nouns**
+   - Directly attach **~커녕** to the noun.
+   - Used when the noun itself is unattainable or didn't occur.
+   **Example:**
+   - **시간커녕**  
+     *Let alone time.*
+2. **With Verbs and Adjectives**
+   - Attach **기는커녕** to the verb or adjective stem.
+   - **기** is the nominalizer, turning the verb into a noun form.
+   - **는커녕** emphasizes the contrast.
+   **Example:**
+   - **먹다** (to eat) → **먹기는커녕**  
+     *Far from eating.*
+---
+## **3. Comparative Analysis**
+### **Comparison with Similar Grammar Points**
+#### **~은/는 고사하고**
+- Also means "let alone" or "not to mention."
+- More formal and often used in written language.
+
+| Grammar Point    | Usage                        | Formality       |
+|------------------|------------------------------|-----------------|
+| **~커녕**           | Emphasizes negative contrast | Informal to Neutral |
+| **~은/는 고사하고**   | Adds emphasis in formal writing | Formal            |
+
+#### **~은/는커녕**
+- Similar to **~기는커녕** but used directly with nouns or noun forms of verbs/adjectives without the nominalizer **기**.
+---
+## **4. Examples in Context**
+### **Example Sentences**
+1. **아침커녕 물도 못 마셨어요.**
+   *I couldn't even drink water, let alone have breakfast.*
+2. **휴식을 취하기는커녕 일만 했어요.**
+   *I only worked instead of resting.*
+3. **친구를 만나기는커녕 전화도 못 했어요.**
+   *I couldn't even call, let alone meet my friend.*
+4. **돈을 벌기는커녕 오히려 빚이 늘었어요.**
+   *Far from earning money, my debt actually increased.*
+5. **그 영화는 재미있기는커녕 지루했어요.**
+   *That movie was boring, far from being interesting.*
+### **Contextual Usage**
+- **Formal Context:**
+  - **회의에 참석하기는커녕 연락도 없었어요.**
+    *There was no contact, let alone attending the meeting.*
+- **Informal Context:**
+  - **집에 가기는커녕 아직도 회사에 있어요.**
+    *I'm still at the office, let alone going home.*
+---
+## **5. Cultural Notes**
+### **Cultural Relevance**
+- In Korean culture, expressing humility or avoiding direct negative statements is common.
+- Using **~커녕** allows speakers to emphasize a negative situation politely.
+### **Levels of Politeness and Formality**
+- **~커녕** itself is neutral.
+- Politeness is adjusted through verb endings and context.
+   **Example:**
+   - **먹기는커녕** (neutral)
+   - **먹기는커녕요** (polite)
+   - **먹기는커녕 말도 마세요.** (Don't even mention eating.)
+### **Idiomatic Expressions**
+- **말하기는커녕 숨 쉴 시간도 없었어요.**
+  *I didn't even have time to breathe, let alone talk.*
+---
+## **6. Common Mistakes and Tips**
+### **Error Analysis**
+1. **Incorrect Attachment**
+   - **Incorrect:** *먹다커녕*  
+     (Attaching **~커녕** directly to the verb without **기**)
+   - **Correct:** *먹기는커녕*
+2. **Using with Positive Clauses**
+   - **Incorrect:** *시간이 많아서 심심하기는커녕 재미있어요.*  
+     (Using **~커녕** in a positive sense)
+   - **Correct:** *시간이 많기는커녕 너무 바빠요.*  
+     (Far from having a lot of time, I'm very busy.)
+### **Learning Strategies**
+- **Remember the Negative Context:** **~커녕** is used in negative situations to emphasize contrast.
+- **Use Nominalizer **기****: When attaching to verbs or adjectives, always use **기** before **는커녕**.
+---
+## **7. Summary and Review**
+### **Key Takeaways**
+- **~커녕** is used to express "let alone" or "far from" in negative statements.
+- Attach **~커녕** directly to nouns and **~기는커녕** to verb/adjective stems.
+- It emphasizes that not even the less likely or less desirable action/state occurred.
+### **Quick Recap Quiz**
+1. **How do you attach **~커녕** to the verb 열다 (to open)?**
+   **Answer:** **열기는커녕**
+2. **Translate the sentence:** **"시간이 없어서 쉬기는커녕 밥도 못 먹었어요."**
+   **Answer:** "I couldn't even eat, let alone rest, because I didn't have time."
+3. **Is **~커녕** used in positive or negative contexts?**
+   **Answer:** Negative contexts.
+---
+**Continue practicing by forming your own sentences using **~커녕** to express strong negative contrasts in Korean!**
+
+---
+© [Hanabira.org](https://hanabira.org)

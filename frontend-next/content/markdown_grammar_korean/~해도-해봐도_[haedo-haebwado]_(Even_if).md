@@ -1,71 +1,117 @@
 Processing keyword: ~해도/해봐도 [haedo/haebwado] (Even if)
 # Korean Grammar Point: ~해도/해봐도 [haedo/haebwado] (Even if)
-# Grammar Point: ~해도/해봐도 [haedo/haebwado] (Even if)
-## 1. Introduction
-The grammatical structure **~해도** and **~해봐도** is used to express the idea of "even if" in Korean. It conveys the notion that regardless of the situation or action taken, the outcome remains unchanged. 
-## 2. Core Grammar Explanation
-### Detailed Explanation
-- **~해도** is derived from the verb **하다** (to do) with the addition of **-도**, which means "even if".
-- **~해봐도** is a more colloquial form that combines **하다** with **-아/어 보다** to express a tentative action, meaning "even if I try to do".
-### Structure
-1. **~해도** Structure
-   - Verb Stem + 해도
-   - Example: 하다 (to do) → 해도
-2. **~해봐도** Structure
-   - Verb Stem + 해 + 보다 + -도
-   - Example: 하다 (to do) → 해봐도
-### Visual Aids
-| Grammar Structure | Meaning                                         | Usage Context                  |
-|-------------------|-------------------------------------------------|--------------------------------|
-| Verb + 해도       | Even if (done)                                 | Hypothetical or conditional    |
-| Verb + 해봐도     | Even if (tried to do)                         | Tentative actions              |
-## 3. Comparative Analysis
-### Differences between ~해도 and ~해봐도
-- **~해도** is used for actions already established or known.
-- **~해봐도** implies trying or making an attempt at that action, suggesting a sense of experimentation or uncertainty.
-### Examples:
-- **Using ~해도**: 
-  - "비가 와도 나갈 거예요." 
-  - (Even if it rains, I'm going out.)
-- **Using ~해봐도**: 
-  - "이렇게 해봐도 결과가 변하지 않아."
-  - (Even if I try doing it like this, the result doesn't change.)
-## 4. Examples in Context
-### Sentence Examples
-1. **Formal Context**:
-   - "어떠한 상황이 발생해도 저는 최선을 다하겠습니다."
-   - (Even if any situation arises, I will do my best.)
-2. **Informal Context**:
-   - "너가 그렇게 해도 별로 의미 없어."
-   - (Even if you do it that way, it doesn’t really matter.)
-3. **Written Context**:
-   - "어떤 결정을 해봐도 결국 같은 결과로 이어진다."
-   - (Even if you try making any decision, it ultimately leads to the same result.)
-4. **Spoken Context**:
-   - "시간이 없어도 해야 해."
-   - (I have to do it even if I don’t have time.)
-## 5. Cultural Notes
-### Cultural Relevance
-Using the phrase **~해도/해봐도** is prevalent in discussions where uncertainty or disapproval of an action is expressed. It reflects a common Korean trait of considering all possible outcomes before making a decision.
-### Levels of Politeness
-The level of politeness can vary depending on the verb used before **-도**. Using formal speech with **~해도** is more appropriate in a workplace setting, whereas **~해봐도** can be easily used in casual conversations among friends.
-### Idiomatic Expressions
-- "소용없어, 이렇게 해봐도." (It’s useless, even if we try like this.)
-  
-## 6. Common Mistakes and Tips
-### Error Analysis
-- Many learners confuse when to use **~해도** versus **~해봐도**. Remember:
-  - Use **~해도** for actions already taken.
-  - Use **~해봐도** for actions you are considering or trying out.
-### Learning Strategies
-- **Mnemonic Device**: Think of "해도" as "done" and "해봐도" as "trying". This helps differentiate between affirmative actions and possibilities.
-## 7. Summary and Review
-### Key Takeaways
-- **~해도** and **~해봐도** express the concept of "even if".
-- They convey a sense of either established action or tentative exploration.
-- Culturally relevant for evaluating outcomes in various situations.
-### Quick Recap Quiz
-1. What is the general meaning of **~해도**?
-2. In what context would you use **~해봐도**?
-3. How would you translate "Even if it doesn’t work out" into Korean using these structures? 
-Feel free to answer the quiz to reinforce your understanding!
+
+### 1. Introduction
+In Korean, expressing conditions where an action or situation doesn't affect the outcome is essential for nuanced communication. The grammar points **~해도** and **~해봐도** allow speakers to convey "even if", "even though", or "no matter how much". This lesson will explore how to use these expressions effectively.
+
+---
+### 2. Core Grammar Explanation
+#### Meaning and Usage
+- **~아/어도 (~해도)**: Used to express that **even if** or **even though** the action in the first clause occurs, the result in the second clause remains unaffected.
+  - **Example**: 시간이 없어도 갈 거예요.
+    - *Even if I don't have time, I will go.*
+- **~아/어 봐도 (~해봐도)**: Adds the nuance of trying or attempting an action, meaning **even if one tries to**.
+  - **Example**: 말해 봐도 소용없어요.
+    - *Even if I try to say something, it's useless.*
+#### Structure
+##### Formation of **~해도 (~아/어도)**
+1. **Identify the verb stem** by removing **~다** from the dictionary form.
+2. **Determine the vowel** in the verb stem:
+   - If the last vowel is **ㅏ** or **ㅗ**, add **~아도**.
+   - For all other vowels, add **~어도**.
+   - For verbs ending with **하다**, it becomes **해도**.
+3. **Attach the ending** to the verb stem.
+##### Formation of **~해봐도 (~아/어 봐도)**
+1. **Follow the same steps** as above to conjugate the verb with **~아/어 보다** (to try doing something).
+2. **Add ~도** after **~아/어 보다**.
+#### Conjugation Table
+| Verb (Dictionary Form) | Verb Stem | **~아/어도** | **~아/어 봐도** |
+|------------------------|-----------|--------------|-----------------|
+| 가다 (to go)           | 가         | 가도         | 가 봐도        |
+| 먹다 (to eat)          | 먹        | 먹어도       | 먹어 봐도      |
+| 읽다 (to read)         | 읽        | 읽어도       | 읽어 봐도      |
+| 하다 (to do)           | 하         | 해도         | 해 봐도        |
+---
+### 3. Comparative Analysis
+#### **~해도** vs. **~더라도**
+- **~더라도** also means "even if" but is often used to express a hypothetical situation with a stronger emphasis or when the speaker wants to stress the unlikelihood of the condition.
+  - **Example**:
+    - 비가 와도 갈 거예요.
+      - *Even if it rains, I will go.* (Acknowledging that rain may happen.)
+    - 비가 오더라도 갈 거예요.
+      - *Even if it were to rain, I will go.* (Emphasizing determination regardless of rain.)
+#### **~해봐도** vs. **~하려고 해도**
+- **~하려고 해도** means "even if one intends to" or "even if one tries to", focusing on the intention rather than the attempt.
+  - **Example**:
+    - 찾아 봐도 없어요.
+      - *Even if I look, it's not there.*
+    - 찾으려고 해도 없어요.
+      - *Even if I try to look for it, it's not there.*
+---
+### 4. Examples in Context
+#### Formal Context
+1. **아무리 설명해도 이해하지 못합니다.**
+   - *Even if I explain it repeatedly, they can't understand.*
+2. **시간이 부족해도 프로젝트를 완성해야 합니다.**
+   - *Even if time is insufficient, we must complete the project.*
+#### Informal Context
+1. **늦어도 꼭 와.**
+   - *Even if you're late, make sure to come.*
+2. **전화해 봐도 안 받아.**
+   - *Even if I try calling, they don't answer.*
+#### Written Context
+1. **돈이 없어도 행복할 수 있다.**
+   - *Even if one doesn't have money, they can be happy.*
+2. **노력해 봐도 바꿀 수 없는 것이 있다.**
+   - *Even if you try, there are things you can't change.*
+#### Spoken Context
+1. **먹어 봐도 맛이 없어.**
+   - *Even if I try eating it, it doesn't taste good.*
+2. **지금 시작해도 늦지 않아.**
+   - *Even if you start now, it's not too late.*
+---
+### 5. Cultural Notes
+#### Levels of Politeness
+- **~해도** and **~해봐도** can be used in both formal and informal settings. Adding **요** makes it polite.
+  - **Formal Polite**: 가도요, 먹어 봐도요
+  - **Informal**: 가도, 먹어 봐도
+#### Idiomatic Expressions
+- **죽어도 못해.**
+  - *I can't do it even if I die.* (Meaning: I absolutely cannot do it.)
+- **불러 봐도 대답이 없어요.**
+  - *Even if I call out, there's no answer.*
+---
+### 6. Common Mistakes and Tips
+#### Common Mistakes
+1. **Incorrect Vowel Harmony**
+   - **Mistake**: 먹다 → 먹아도 ❌
+   - **Correction**: 먹다 → 먹어도 ✔️
+2. **Confusing with Future Tense**
+   - **Mistake**: 시간이 없어도 갈 거야. (Correct)
+   - **But thinking it's future tense due to **거야**.
+3. **Using **~해도** with Nouns**
+   - **Mistake**: 학생해도 열심히 공부해요. ❌
+   - **Correction**: 학생이어도 열심히 공부해요. ✔️
+     - *Even if (I am) a student, I study hard.*
+#### Tips
+- **Remember Vowel Harmony**: If you're unsure, check the last vowel in the verb stem.
+- **Practice with Common Verbs**: Conjugate verbs you frequently use to get comfortable with the endings.
+---
+### 7. Summary and Review
+#### Key Takeaways
+- **~해도** means "even if" or "even though", indicating the result is unaffected by the condition.
+- **~해봐도** adds the nuance of attempting, "even if one tries to".
+- Pay attention to vowel harmony when attaching **~아/어도** or **~아/어 봐도**.
+- These expressions are versatile and used across various contexts.
+#### Quick Recap Quiz
+1. **Conjugate** the verb **쓰다** (to write) with **~해도**.
+   - **Answer**: 써도
+2. **Translate**: *Even if I sleep early, I'm still tired.*
+   - **Answer**: 일찍 자도 피곤해요.
+3. **What's the difference** between **가도** and **가 봐도**?
+   - **Answer**: **가도** means "even if (I) go", while **가 봐도** means "even if (I) try to go".
+---
+By mastering **~해도** and **~해봐도**, you can express complex conditions and contrasts in Korean, enhancing both your spoken and written communication skills.
+
+---
+© [Hanabira.org](https://hanabira.org)

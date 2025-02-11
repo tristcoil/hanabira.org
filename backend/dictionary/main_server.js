@@ -715,7 +715,7 @@ const openai = new OpenAI({
 });
 
 const systemPrompt =
-  "You are a teacher of Japanese and Korean language. Explain grammar of provided Japanese or Korean sentence in detail. Return answer in Markdown format with Markdown formatting so the output is readable.";
+  "You are a teacher of Japanese and Korean language. Explain grammar of provided Japanese or Korean sentence in detail, explanation is in English. Return answer in Markdown format with Markdown formatting so the output is readable.";
 const translationPrompt =
   "You are a translator. Translate the provided Japanese or Korean text to English. Return answer in Markdown format with Markdown formatting so the output is readable.";
 const translationSbSPrompt =
@@ -1424,6 +1424,18 @@ app.get("/d-api/v1/get-transcript", async (req, res) => {
     console.log("*** TRANS RES ***");
     console.log(transRes);
 
+    // *** TRANS RES ***
+    // [
+    //   { text: 'はい皆さん、こんにちは。', duration: 1.45, offset: 0.1, lang: 'ja' },
+    //   {
+    //     text: 'Bite size Japaneseのレイラです。',
+    //     duration: 2.03,
+    //     offset: 1.55,
+    //     lang: 'ja'
+    //   },
+
+
+
     // Decode HTML entities in the transcript
     const decodedTranscript = await transRes.map((entry) => ({
       ...entry,
@@ -1433,6 +1445,24 @@ app.get("/d-api/v1/get-transcript", async (req, res) => {
 
     console.log("*** HE DECODED TRANSCRIPT ***");
     console.log(decodedTranscript);
+
+    // *** HE DECODED TRANSCRIPT ***
+    // [
+    //   { text: 'はい皆さん、こんにちは。', duration: 1.45, offset: 0.1, lang: 'ja' },
+    //   {
+    //     text: 'Bite size Japaneseのレイラです。',
+    //     duration: 2.03,
+    //     offset: 1.55,
+    //     lang: 'ja'
+    //   },
+    //   { text: '元気ですか？', duration: 1.35, offset: 3.58, lang: 'ja' },
+    //   { text: '今日は自分の仕事の好きなところ', duration: 7.59, offset: 4.93, lang: 'ja' },
+    //   {
+    //     text: '楽しいところをちょっと話したいなと思います。',
+    //     duration: 5.08,
+    //     offset: 12.52,
+    //     lang: 'ja'
+    //   },
 
     console.log("fetched transcript successfully");
 

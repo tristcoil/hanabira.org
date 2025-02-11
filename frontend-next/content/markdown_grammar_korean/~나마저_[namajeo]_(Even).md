@@ -1,75 +1,125 @@
 Processing keyword: ~나마저 [namajeo] (Even)
 # Korean Grammar Point: ~나마저 [namajeo] (Even)
-# Detailed Grammar Explanation: ~나마저 [namajeo] (Even)
+
+---
 ## 1. Introduction
-The Korean grammar structure ~나마저 (namajeo) is used to express "even" in various contexts, often emphasizing inclusion or unexpectedness of the subject in focus. It is particularly useful for highlighting situations where someone or something that's typically not included or is unexpected is indeed part of a scenario.
+In Korean, the expression **~나마저** is used to emphasize that even the last remaining option or least expected subject is included in a situation, often highlighting a sense of frustration, disappointment, or inevitability. This grammar point combines **~나** (even) with **마저** (also, even), intensifying the inclusion of something unexpected.
+
+---
 ## 2. Core Grammar Explanation
-### Detailed Explanation
-The grammar point ~나마저 consists of:
-- **나 (na)**: this particle is typically used with "I" or "me."
-- **마저 (majeo)**: a particle that translates to "even" or "also."
-#### Structure:
-- The structure can be used with:
-    - Noun + 나마저
-    - Conjugative form + 나마저
+### Meaning
+- **~나마저** translates to **"even"** in English.
+- It emphasizes that even the last option, person, or thing is included in an action or situation.
+- Often conveys negative feelings such as disappointment or exasperation.
+### Structure
+The structure of **~나마저** varies slightly depending on whether it is attached to a noun, verb, or adjective.
+#### Formation:
+1. **Nouns**:
+   ```
+   Noun + (이)나마저
+   ```
+   - Use **이나마저** after a noun ending with a consonant.
+   - Use **나마저** after a noun ending with a vowel.
+2. **Verbs/Adjectives**:
+   ```
+   Verb/Adjective Stem + 기나마저
+   ```
+   - Attach **기나마저** to the stem of the verb or adjective.
 ### Formation Diagram
-Here is a simple diagram to illustrate the formation:
+#### For Nouns:
+```markdown
+[Consonant-ending Noun] + 이나마저
+[모두] + 이나마저 → 모두이나마저
+[Vowel-ending Noun] + 나마저
+[친구] + 나마저 → 친구나마저
 ```
-   Noun/Subject (이/가) + 나마저
-  --------------------------
-  Example: 
-  친구가 나마저 울렸어요. 
-  (Even my friend made me cry.)
+#### For Verbs/Adjectives:
+```markdown
+[Verb/Adjective Stem] + 기나마저
+[기다리다] → 기다리 + 기나마저 → 기다리기나마저
 ```
+---
 ## 3. Comparative Analysis
-~나마저 is similar to other modifiers such as ~까지 (kkaji - "even") but with slight nuances:
-- **~까지** emphasizes the extension or inclusiveness without the surprising context.
-- **~나마저** emphasizes the unexpected or surprising inclusion of something or someone.
-### Quick Comparison
-| Grammar Point | Meaning        | Usage Context                    |
-|---------------|----------------|-----------------------------------|
-| ~나마저      | Even (unexpected) | When something surprising is included |
-| ~까지        | Even (inclusive) | To show inclusiveness or extent  |
+### Comparing **~나마저** with **~조차**
+- **~나마저** and **~조차** both mean **"even"**, but there are subtle differences.
+
+| Grammar Point | Usage                                    | Nuance                                      |
+|---------------|------------------------------------------|---------------------------------------------|
+| ~나마저       | Emphasizes inclusion of the last option  | Stronger sense of disappointment            |
+| ~조차         | Indicates inclusion of an extreme case   | Can be neutral or negative                  |
+
+**Example**:
+- **밥조차 못 먹었어요.**
+  - *I couldn't even eat rice.*
+- **밥이나마저 못 먹었어요.**
+  - *I couldn't even eat rice (the least I could have done).*
+---
 ## 4. Examples in Context
-### Sentence Examples
-1. **Formal Context:**
-   - 친구가 나마저 도와줬어요.  
-     *(Even my friend helped me.)*
-   
-2. **Informal Context:**
-   - 나마저 모르는 사실이네.  
-     *(It’s a fact that even I don’t know.)*
-   
-3. **Written Context:**
-   - 그 영화가 나마저 감동을 주었다.  
-     *(The movie moved even me.)*
-   
-4. **Spoken Context:**
-   - 널 생각하니까 나마저 우울해져.  
-     *(Thinking of you makes me even feel down.)*
+### Example Sentences
+1. **친구나마저 나를 떠났어요.**
+   - *Even my friend left me.*
+   - (The last person I expected to leave has left.)
+2. **남은 돈이나마저 잃어버렸어요.**
+   - *I even lost the remaining money.*
+   - (I lost the last of my money.)
+3. **비가 오더니 우산이나마저 고장 났어요.**
+   - *It started raining, and even my umbrella broke.*
+   - (Misfortune upon misfortune.)
+4. **그 사람은 가족이나마저 속였어요.**
+   - *He even deceived his family.*
+   - (He deceived the very people he shouldn't have.)
+5. **희망이나마저 사라졌어요.**
+   - *Even hope has disappeared.*
+   - (All hope is lost.)
+### Formal vs. Informal Usage
+- **Formal**: Used in written language, news reports, literature.
+- **Informal**: Less common in casual conversation; may sound heavy or dramatic.
+---
 ## 5. Cultural Notes
 ### Cultural Relevance
-Using ~나마저 shows a level of humility or vulnerability in Korean culture, which often values the expression of emotion and connection within interpersonal relationships. This structure can show solidarity with others or acknowledge one's own feelings in a less assertive way.
+- Emphasizes the importance of relationships and expectations in Korean culture.
+- Highlights the gravity of a situation when even the last hope or person is affected.
+### Politeness Levels
+- The use of **~나마저** itself doesn't change politeness level but can intensify the emotion.
 ### Idiomatic Expressions
-- **나마저 그럴 줄은 몰랐다.**  
- *(I didn't think even I would be like that.)*  
-This expression captures a mixture of surprise and self-reproach.
+- **마지막 희망이나마저 날아갔다.**
+  - *Even the last hope has flown away.*
+- **친구마저 등을 돌렸다.**
+  - *Even friends have turned their backs.*
+---
 ## 6. Common Mistakes and Tips
 ### Error Analysis
-1. **Misuse with Non-Nouns:**
-   - Avoid using it with verbs or adjectives directly without a noun structure. 
-2. **Confusion with ~것마저:**
-   - Learners might confuse ~나마저 with ~것마저, which has a different function and meaning.
+1. **Incorrect Attachment**:
+   - **Incorrect**: *친구**이**나마저*
+   - **Correct**: *친구나마저*
+   *Tip*: Don't add **이** after vowel-ending nouns.
+2. **Confusing **~나마저** with **~조차나**
+   - **Incorrect**: *밥**조차나** 못 먹었어요.*
+   - **Correct**: *밥조차 못 먹었어요.* or *밥이나마저 못 먹었어요.*
 ### Learning Strategies
-- **Mnemonic Device:** 
-   - Remember "na" for "I" as a personal connection and "majeo" for inclusion, emphasizing unexpected inclusion.
+- **Mnemonic Device**: Remember **나** (even) + **마저** (also) = **~나마저** (even the last one).
+- Practice by creating sentences where something unexpected or least likely is included.
+---
 ## 7. Summary and Review
 ### Key Takeaways
-- The grammar point ~나마저 signifies "even," especially in contexts of unexpected inclusion.
-- It's formed with nouns and emphasizes surprising elements in sentences.
-- Different from similar structures like ~까지; it emphasizes unexpectedness.
+- **~나마저** is used to express that even the last or least expected option is included.
+- It conveys strong emotions like disappointment or frustration.
+- Structure depends on whether it follows a noun or verb/adjective.
 ### Quick Recap Quiz
-1. Translate: "Even I couldn't believe it."
-2. What is the main emotion conveyed by using ~나마저?
-3. Give an example sentence using ~나마저 in an informal context. 
-This framework helps in mastering the usage of ~나마저 in Korean, enriching learners' ability to convey subtleties in conversation.
+1. How do you attach **~나마저** to the noun **사람** (person)?
+   - a) 사람이마저
+   - b) 사람이나마저
+   - c) 사람나마저
+2. Translate the following sentence:
+   - **희망이나마저 없어졌어요.**
+   - a) Hope has increased.
+   - b) Even hope has disappeared.
+   - c) Only hope remains.
+### Answers:
+1. **b) 사람이나마저**
+2. **b) Even hope has disappeared.**
+---
+By understanding and practicing **~나마저**, you can express nuanced emotions and situations where even the last expected outcome occurs.
+
+---
+© [Hanabira.org](https://hanabira.org)

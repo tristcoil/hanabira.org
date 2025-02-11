@@ -1,64 +1,154 @@
 Processing keyword: 한테서/에서 [hanteseo/eseo] (From someone)
 # Korean Grammar Point: 한테서/에서 [hanteseo/eseo] (From someone)
-# Understanding the Grammar Point: 한테서/에서 [hanteseo/eseo]
+
 ## 1. Introduction
-In Korean, the particles **한테서** and **에서** are used to indicate the source or origin of an action or information. They both translate to "from someone/somewhere" in English, but their usage may change depending on context.
+In Korean, expressing that you received something **from someone** or **from somewhere** requires the correct use of particles. Two essential particles for this purpose are **한테서** and **에서**. Mastering these particles will help you convey the source of an action or item accurately, which is crucial for clear and effective communication in Korean.
+
+---
 ## 2. Core Grammar Explanation
-### Meaning and Structure
-- **한테서 [hanteseo]**: This is used when referring to a person as the source from whom something is received or comes.
-- **에서 [eseo]**: This can also indicate the origin but is more flexible and can denote non-human sources, including places, such as objects or institutions.
+### Meaning and Usage
+#### 한테서 (hanteseo)
+- **Meaning:** "From someone" (used with people or animals)
+- **Usage:** Attach **한테서** to a noun referring to a person or animal to indicate that the subject received something from them.
+- **Context:** Informal spoken language.
+#### 에서 (eseo)
+- **Meaning:** "From somewhere" (used with places or institutions)
+- **Usage:** Attach **에서** to a noun referring to a place or institution to indicate the origin of an action or the source from which something is received.
+- **Context:** Used regardless of formality when referring to places.
+### Structure
+#### For Receiving **From a Person or Animal**:
+- **[Noun (Person/Animal)] + 한테서 + Verb**
+#### For Receiving **From a Place or Institution**:
+- **[Noun (Place/Institution)] + 에서 + Verb**
 ### Formation Diagram
 ```
-[Subj.] + [Verb] + 한테서/에서 + [Object]
+[ Noun (Source) ] + [ 한테서 / 에서 ] + [ Verb ]
+        (Person/Animal/Place)      (Receive/Obtain)
 ```
-### Usage Examples
-- **그 여자한테서 rose을 받았어요.**  
-  (I received a rose from that woman.)
-- **학교에서 책을 borrowed 했어요.**  
-  (I borrowed a book from the school.)
+### Visual Aid: Particle Usage Table
+| Noun Type           | Particle Used | Meaning    |
+|---------------------|---------------|------------|
+| Person / Animal     | 한테서        | From someone |
+| Place / Institution | 에서          | From somewhere |
+---
 ## 3. Comparative Analysis
-### Similar Grammar Points
-- **한테 (hante) vs. 한테서 (hanteseo)**: 
-  - **한테** means "to" and indicates direction, while **한테서** indicates the source of an action.
-  - Example:
-    - **그에게 편지를 보냈어요.** (I sent a letter to him.) - (한테)
-    - **그에게 편지를 받았어요.** (I received a letter from him.) - (한테서)
-### Nuance
-- **에서** can be considered more formal and can also relate to locations (e.g., a city or building), whereas **한테서** is specifically used for people.
+### 한테서 vs. 에게서 vs. (으)로부터
+While **한테서** and **에서** are common, you might also encounter **에게서** and **(으)로부터**.
+| Particle     | Usage                                       | Formality |
+|--------------|---------------------------------------------|-----------|
+| 한테서       | From someone (informal spoken)              | Informal  |
+| 에게서       | From someone (formal/written)               | Formal    |
+| (으)로부터   | From someone/somewhere (formal/written)     | Formal    |
+| 에서         | From somewhere (places/institutions)        | Neutral   |
+- **에게서** is the formal counterpart of **한테서** when referring to people.
+- **(으)로부터** is more formal and can be used with both people and places.
+- **에서** is used exclusively with places or institutions.
+### Example Comparison
+1. **Informal (Speaking about a friend):**
+   - **한테서:** 친구**한테서** 소식을 들었어요.  
+     *(I heard the news from a friend.)*
+2. **Formal (Writing about a colleague):**
+   - **에게서:** 동료**에게서** 정보를 얻었습니다.  
+     *(I obtained information from a colleague.)*
+3. **Formal (From an organization):**
+   - **(으)로부터:** 회사**로부터** 편지를 받았습니다.  
+     *(I received a letter from the company.)*
+---
 ## 4. Examples in Context
-### Sentence Examples
-1. **Formal Context**:
-   - **선생님한테서 조언을 받았습니다.**  
-     (I received advice from my teacher.)
-2. **Informal Context**:
-   - **친구한테서 소식을 들었어.**  
-     (I heard the news from a friend.)
-3. **Written Context**:
-   - **그 다음 날, 엄마에게서 편지를 받았어요.**  
-     (The next day, I received a letter from my mom.)
-4. **Spoken Context**:
-   - **형한테서 새 폰을 얻었어.**  
-     (I got a new phone from my brother.)
+### Example Sentences
+#### 1. Receiving from a Friend (Informal)
+- **Korean:** 저는 친구**한테서** 편지를 받았어요.
+- **Romanization:** Jeoneun chingu**hanteseo** pyeonjireul badasseoyo.
+- **Translation:** I received a letter from a friend.
+#### 2. Getting Information from the Internet (Neutral)
+- **Korean:** 저는 인터넷**에서** 정보를 찾았어요.
+- **Romanization:** Jeoneun inteonet**eseo** jeongboreul chajasseoyo.
+- **Translation:** I found information on the internet.
+#### 3. Receiving a Gift from Parents (Formal)
+- **Korean:** 저는 부모님**에게서** 선물을 받았습니다.
+- **Romanization:** Jeoneun bumonim**egeseo** seonmureul badasseumnida.
+- **Translation:** I received a gift from my parents.
+#### 4. Hearing News from the Radio (Neutral)
+- **Korean:** 라디오**에서** 그 소식을 들었어요.
+- **Romanization:** Radio**eseo** geu sosig-eul deureosseoyo.
+- **Translation:** I heard the news from the radio.
+#### 5. Learning from a Teacher (Formal)
+- **Korean:** 선생님**에게서** 많은 것을 배웠습니다.
+- **Romanization:** Seonsaengnim**egeseo** maneun geoseul baewosseumnida.
+- **Translation:** I learned a lot from my teacher.
+#### 6. Receiving an Email from the Company (Neutral)
+- **Korean:** 회사**에서** 이메일이 왔어요.
+- **Romanization:** Hoesa**eseo** imeil-i wasseoyo.
+- **Translation:** An email came from the company.
+### Contextual Usage
+- **Informal Spoken Language:** Use **한테서** with friends, peers, or younger people.
+- **Formal Situations/Written Language:** Use **에게서** or **(으)로부터** for respect and formality.
+- **Places/Institutions:** Always use **에서** regardless of the level of formality.
+---
 ## 5. Cultural Notes
-- **Politeness and Formality**: Korean language has varying levels of politeness, and using **한테서** or **에서** in formal situations is crucial. Using appropriate titles like 선생님 (teacher) or 아빠 (dad) enhances respect and formality.
-  
-- **Idiomatic Expressions**: 
-  - **친구한테서 배운다** (learns something from a friend) is a common expression highlighting the importance of interpersonal learning in Korean culture.
+### Levels of Politeness and Formality
+- **Respect in Language:** Korean language places a strong emphasis on politeness and respect. The particles you choose reflect your relationship with the person you're referring to.
+- **Using 한테서 with Elders/Superiors:** Avoid using **한테서** when referring to someone of higher status, such as elders, teachers, or superiors. Instead, use **께** or **께서** for honorifics.
+  - **Example with Honorific:**
+    - **Korean:** 할아버지**께** 선물을 받았습니다.
+    - **Romanization:** Harabeoji**kke** seonmureul badasseumnida.
+    - **Translation:** I received a gift from my grandfather.
+### Idiomatic Expressions
+- **뒷북치다 (To beat the back drum):** Receiving old news or reacting late.
+  - **Example:**
+    - **Korean:** 친구한테서 이미 끝난 소식을 듣고 뒷북쳤어요.
+    - **Romanization:** Chingu**hanteseo** imi kkeutnan sosig-eul deutgo dwitbuk-chyeosseoyo.
+    - **Translation:** I heard old news from a friend and acted late.
+---
 ## 6. Common Mistakes and Tips
-### Error Analysis
-- **Mistaking 한테서 for 한테**: Remember that 한테서 is specifically for indicating source, whereas 한테 is used for direction.
-  
-- **Confusing with 에서**: To avoid confusion, always remember that **에서** can imply both actions coming from a place as well as a person in specific contexts.
+### Common Mistakes
+1. **Using 한테서 with Places**
+   - **Incorrect:** 저는 서울**한테서** 왔어요.
+   - **Correct:** 저는 서울**에서** 왔어요.
+   - **Explanation:** Use **에서** when referring to places, not **한테서**.
+2. **Using 한테서 Instead of 에게서 in Formal Contexts**
+   - **Incorrect:** 교수님**한테서** 배웠습니다.
+   - **Correct:** 교수님**에게서** 배웠습니다.
+   - **Explanation:** Use **에게서** for formal situations or when showing respect.
+3. **Confusing 한테 and 한테서**
+   - **한테:** Means "to someone" (direction)
+   - **한테서:** Means "from someone" (source)
+   - **Mistake Example:**
+     - **Incorrect:** 저는 선생님**한테** 선물을 받았어요.
+     - **Correct:** 저는 선생님**한테서** 선물을 받았어요.
 ### Learning Strategies
-- **Mnemonic Device**: Think of 한테서 as the phrase **"from" a person** and associate with "source". Visualizing people providing information can help remember.
+- **Mnemonic Device:** Remember that **한테서** has the syllable **서**, which you can associate with "source" to mean "from someone."
+- **Associate 에서 with Places:** Think of **에서** as the particle frequently used with places, both for "at" and "from."
+---
 ## 7. Summary and Review
 ### Key Takeaways
-- **한테서** refers specifically to a person as the source of something.
-- **에서** can indicate a place or a non-human source.
-- Use the correct form depending on the context to express the idea of receiving or getting something from someone or somewhere.
-### Quick Recap Quiz:
-1. What does 한테서 signify?  
-2. Can you use **에서** to refer to a person? Explain.
-3. Form a sentence using 한테서.
+- Use **한테서** to indicate receiving **from someone** (person or animal) in informal contexts.
+- Use **에서** to indicate receiving **from somewhere** (places or institutions).
+- Choose **에게서** or **(으)로부터** for formal contexts or when referring to superiors.
+- Be mindful of Korean honorifics and levels of politeness to avoid disrespect.
+
+### Quick Recap Quiz
+1. **Fill in the blank with the correct particle (한테서 / 에서):**
+   동생___ 선물을 받았어요.
+   
+   **Answer:** 동생**한테서** 선물을 받았어요.
+2. **True or False:**
+   It is appropriate to use **한테서** when speaking about receiving something from your teacher in a formal setting.
+   
+   **Answer:** False (Use **에게서** or **께** for formal and respectful language.)
+3. **Correct the mistake in the sentence:**
+   저는 시장**한테서** 과일을 샀어요.
+   
+   **Answer:** 저는 시장**에서** 과일을 샀어요.
+4. **Choose the appropriate particle to complete the sentence:**
+   회사___ 중요한 소식을 들었습니다.
+   
+   a) 한테서  
+   b) 에서
+   
+   **Answer:** b) 에서 (회사**에서** 중요한 소식을 들었습니다.)
 ---
-This detailed grammar explanation should aid in understanding the usage of **한테서** and **에서** in Korean!
+By understanding the nuances of **한테서** and **에서**, and their proper usage, you'll enhance your ability to communicate sources and origins in Korean effectively and respectfully.
+
+---
+© [Hanabira.org](https://hanabira.org)

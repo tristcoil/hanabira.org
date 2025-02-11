@@ -1,77 +1,115 @@
 Processing keyword: Verb て いく (Verb-te iku)
 # Japanese Grammar Point: Verb て いく (Verb-te iku)
-# Verb て いく (Verb-te iku) - Detailed Grammar Explanation
-## Introduction
-The grammar point Verb て いく (Verb-te iku) is commonly used in Japanese to describe actions that are continuing or evolving over time. This structure conveys the idea of not just doing something, but also the direction or future continuation of that action.
-## Core Grammar Explanation
-### Meaning
-- The structure Verb て いく translates roughly to "to do [verb] and go" or "to keep on [verb]-ing."
-- It indicates that an action is starting now and will continue into the future.
-### Structure
-- The basic formation of this grammar point is:
-  ```
-  Verb (て-form) + いく
-  ```
-- Example: 食べる (taberu - to eat)
-  - 食べていく (tabete iku - to eat and go / to continue eating)
-### Formation Diagram
-Here's how the structure breaks down:
+
+## 1. Introduction
+In this lesson, we'll explore the grammar point **～ていく (Verb て いく)**, a versatile construction in Japanese that expresses movement away from the speaker both in a physical and temporal sense. Understanding this structure will enhance your ability to describe ongoing actions, changes over time, and movements in space.
+## 2. Core Grammar Explanation
+## Meaning and Usage
+The expression **～ていく** combines the **-te form** of a verb with **いく (iku)**, which means "to go." This construction conveys:
+1. **Continuation into the future:** An action or state continues from now into the future.
+2. **Change over time:** Gradual changes starting from the present or past and moving forward.
+3. **Movement away from the speaker:** Physical actions moving away from the current location.
+## Structure
+### Formation
+To form **～ていく**, follow these steps:
+1. **Conjugate the verb into its -te form.**
+2. **Add いく (iku) after the -te form.**
+**Formation Diagram:**
 ```
-Verb Dictionary Form --> Verb て-form --> いく (iku)
-Example: 食べる (taberu) --> 食べて (tabete) --> 食べていく (tabete iku)
+Verb (て-form) + いく
 ```
-### Visual Aids
-| Verb Dictionary Form | て-form     | いく (iku)                   |
-|----------------------|-------------|------------------------------|
-| 食べる (taberu)      | 食べて      | 食べていく (tabete iku)      |
-| 行く (iku)           | 行って      | 行っていく (itte iku)        |
-| 行う (okonau)        | 行って      | 行っていく (okonatte iku)    |
-## Comparative Analysis
-Verb て いく (Verb-te iku) vs. Verb て くる (Verb-te kuru):
-- **Verb て いく (Verb-te iku)** focuses on the action moving away from the speaker and continuing in the future.
-- **Verb て くる (Verb-te kuru)** indicates an action coming towards the speaker or a past action that has relevance to the present.
+**Examples:**
+- **食べる** (taberu) → **食べていく** (tabete iku)
+- **減る** (heru) → **減っていく** (hette iku)
+- **登る** (noboru) → **登っていく** (nobotte iku)
+## Visual Aid: Common Verbs in -te Form with いく
+| Verb (Dictionary Form) | -te Form     | + いく              | Meaning                      |
+|------------------------|--------------|---------------------|------------------------------|
+| 行く (iku)             | 行って (itte) | 行っていく (itte iku) | Go away (from the speaker)    |
+| 減る (heru)            | 減って (hette)| 減っていく (hette iku)| Decrease over time            |
+| 増える (fueru)         | 増えて (fuete)| 増えていく (fuete iku)| Increase over time            |
+| 覚える (oboeru)        | 覚えて (oboete)| 覚えていく (oboete iku)| Continue to remember/learn    |
+## 3. Comparative Analysis
+**～ていく** vs. **～てくる**
+While **～ていく** implies movement or change away from the speaker or present moment, **～てくる** (Verb て くる) indicates movement or change towards the speaker or up to the present moment.
+| Aspect           | ～ていく                       | ～てくる                      |
+|------------------|-------------------------------|------------------------------|
+| Direction        | Away from speaker/present     | Towards speaker/present      |
+| Temporal         | From now into the future      | From the past until now      |
+| Example          | 暖かくなっていく (It will continue to get warmer) | 暖かくなってきた (It has become warmer) |
+## 4. Examples in Context
+## Example Sentences
+1. **季節が変わっていく。**  
+   *Kisetsu ga kawatte iku.*  
+   _The seasons will continue to change._
+2. **これから、日本語を勉強していきます。**  
+   *Korekara, Nihongo o benkyō shite ikimasu.*  
+   _From now on, I will continue studying Japanese._
+3. **彼は山道を歩いていった。**  
+   *Kare wa yamamichi o aruite itta.*  
+   _He walked away along the mountain path._
+4. **人口が減っていく村があります。**  
+   *Jinkō ga hette iku mura ga arimasu.*  
+   _There are villages where the population is decreasing over time._
+5. **新しい技術が発展していくだろう。**  
+   *Atarashii gijutsu ga hatten shite iku darō.*  
+   _New technology will continue to develop._
+## Context Variations
+- **Formal Speech:** 
+  - **会社は成長していきます。**  
+    *Kaisha wa seichō shite ikimasu.*  
+    _The company will continue to grow._
+- **Informal Speech:** 
+  - **これからも頑張っていくよ。**  
+    *Korekara mo ganbatte iku yo.*  
+    _I'll keep doing my best._
+- **Written Language:** 
+  - **環境問題は深刻になっていく。**  
+    *Kankyō mondai wa shinkoku ni natte iku.*  
+    _Environmental issues will continue to become serious._
+- **Spoken Language:** 
+  - **気をつけて行ってね。**  
+    *Ki o tsukete itte ne.*  
+    _Take care as you go._
+## 5. Cultural Notes
+## Cultural Relevance
+In Japanese culture, the use of **～ていく** can reflect a collective awareness of progression and change, which is often important in social and environmental contexts. It can denote respect for the natural flow of time and events.
+## Levels of Politeness
+The basic structure **Verb て いく** is neutral. Politeness can be adjusted by changing the form of **いく**:
+- **Polite Form:** いきます (*ikimasu*)
+- **Casual Form:** いく (*iku*)
+- **Volitional Form:** いこう (*ikō*)
+## Idiomatic Expressions
+- **忘れていく** (*wasurete iku*)  
+  _To gradually forget._
+- **消えていく** (*kiete iku*)  
+  _To disappear/fade away._
+## 6. Common Mistakes and Tips
+## Error Analysis
+- **Confusing with ～てくる:** Mixing up **～ていく** with **～てくる** can lead to misunderstandings in direction and time reference.
   
-Example:
-- 買っていく (katte iku) - "to buy and go" (moving away with the purchase)
-- 買ってくる (katte kuru) - "to buy and come back" (action is brought back to the speaker)
-## Examples in Context
-### Sentence Examples
-1. **Formal:**  
-   引っ越しの準備をしていますので、これから徐々に物をまとめていきます。  
-   *(Hikkoshi no junbi o shiteimasu node, kore kara jojoni mono o matomete ikimasu.)*  
-   "Since I am preparing to move, I will gradually start gathering my things from now on."
-2. **Informal:**  
-   明日から毎日日本語を勉強していくつもりだ。  
-   *(Ashita kara mainichi Nihongo o benkyou shite iku tsumori da.)*  
-   "I plan to study Japanese every day starting tomorrow."
-3. **Written:**  
-   環境問題についての意識が高まり、皆で進んでいかなければならない。  
-   *(Kankyou mondai ni tsuite no ishiki ga takamari, mina de susunde ikanakereba naranai.)*  
-   "As awareness of environmental issues rises, we all need to move forward together."
-4. **Spoken:**  
-   これからも健康に気を付けていくよ！  
-   *(Kore kara mo kenkou ni ki o tsukete iku yo!)*  
-   "From now on, I will continue to take care of my health!"
-## Cultural Notes
-### Cultural Relevance
-In Japanese culture, the concept of looking ahead and preparing for the future is valued. The usage of Verb て いく reflects this notion, emphasizing ongoing effort and development.
-### Levels of Politeness
-Using this structure can be adapted for different levels of speech:
-- **Casual/Informal:** Use with friends or family.
-- **Polite/Formal:** Use in business settings or when speaking formally.
-## Common Mistakes and Tips
-### Error Analysis
-1. **Incorrect verb form:** Ensure you use the correct て-form of the verb.
-2. **Confusing with Verb て くる:** Remember that いく indicates movement away from the speaker while くる indicates movement toward.
-### Learning Strategies
-- **Mnemonic Device:** Visualize someone walking away while doing an action. This can help remember that いく (iku - to go) is about moving away or extending into the future.
-  
-## Summary and Review
-### Key Takeaways
-- Verb て いく is used to express actions that will continue to happen into the future.
-- It emphasizes the ongoing nature of the action rather than a completed event.
-### Quick Recap Quiz
-1. What does Verb て いく express?
-2. How is it different from Verb て くる?
-3. Provide an example sentence using Verb て いく.
-By understanding Verb て いく, learners can express ongoing actions and plans in Japanese more effectively.
+  - Incorrect: **人々は集まっていく。**  
+    (If people are gathering towards the speaker, it should be **集まってくる**.)
+## Learning Strategies
+- **Mnemonic Device:** Remember that **いく (to go)** involves movement **away** from the speaker, so **～ていく** expresses actions moving away or forward in time.
+- **Practice with Timelines:** Visualize timelines to distinguish between actions continuing into the future (**～ていく**) and actions that have been occurring up to now (**～てくる**).
+## 7. Summary and Review
+## Key Takeaways
+- **～ていく (Verb て いく)** is used to express actions or changes that will continue from the present into the future or move away from the speaker.
+- It combines the **-te form** of a verb with **いく**.
+- It contrasts with **～てくる (Verb て くる)**, which indicates movement or change towards the speaker or up to the present.
+## Quick Recap Quiz
+1. How do you form **～ていく** with the verb **始まる (hajimaru)**?
+   **Answer:** 始まっていく (*hajimatte iku*)
+2. What is the main difference between **～ていく** and **～てくる**?
+   **Answer:** **～ていく** indicates movement or continuation away from the speaker or present, while **～てくる** indicates movement or continuation towards the speaker or up to the present.
+3. Translate to Japanese: "The flowers will continue to bloom."
+   **Answer:** 花が咲いていく。(*Hana ga saite iku.*)
+
+---
+Feel free to revisit this lesson to reinforce your understanding of **～ていく**. Practice by creating your own sentences using this grammar point!
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

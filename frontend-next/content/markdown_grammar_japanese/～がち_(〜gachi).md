@@ -1,79 +1,109 @@
 Processing keyword: ～がち (〜gachi)
 # Japanese Grammar Point: ～がち (〜gachi)
-# Japanese Grammar Point: ~がち (〜gachi)
-## Introduction
-The grammar point **〜がち** (〜gachi) is used to express a tendency or a tendency to do something. It is often used when describing someone or something that frequently engages in a particular behavior or action. This expression can have both a neutral and negative nuance depending on the context.
-## Core Grammar Explanation
-### Detailed Explanation
-- **Meaning**: The suffix **がち** indicates a tendency, often implying that it occurs more often than not. It can sometimes carry a negative connotation, suggesting that the action or behavior is undesirable.
-  
-- **Structure**:
-    - **Noun + がち**
-    - **Verb (ます form - ます) + がち**
-### Formation Diagram
-| Structure                   | Example                        | Translation               |
-|-----------------------------|--------------------------------|---------------------------|
-| Noun + がち                  | 病気がち (びょうきがち)        | prone to illness           |
-| Verb (ます form) + がち     | 忘れがち (わすれがち)          | tend to forget            |
-## Visual Aids
-- **Common Nouns**: 
-    - 人 (ひと - person)
-    - 子供 (こども - child)
-    - 病気 (びょうき - illness)
-- **Common Verbs** (ます form):
-    - 忘れる (わすれる - to forget) → 忘れ (わすれ)
-    - 行く (いく - to go) → 行き (いき)
-### Example Sentence Breakdown
-- **病気がちの人** (びょうきがちのひと - a person who is prone to illness)
-- **忘れがちなこと** (わすれがちなこと - things that are often forgotten)
-## Comparative Analysis
-**~がち** vs. **~しがち**:
-- **がち** tends to focus more on habitual behaviors, while **しがち** can imply a tendency towards actions that may not be habitual but are frequently done.
-- Example: 
-  - **疲れがち** (つかれがち - prone to getting tired)
-  - **怒りがち** (おこりがち - tend to get angry)
-**~やすい**:
-- Both indicate a tendency, but **〜やすい** implies something is easy or likely to happen, often with a positive nuance.
-- Example: 
-  - **忘れやすい** (わすれやすい - easy to forget)
-## Examples in Context
-### Formal Sentences
-1. **彼は風邪をひきがちです。**
-   - (かれはかぜをひきがちです。)
-   - "He tends to catch colds."
-2. **この季節、花粉症がちの人が多い。**
-   - (このきせつ、かふんしょうがちのひとがおおい。)
-   - "In this season, many people tend to have hay fever."
-### Informal Sentences
-1. **彼女は約束を忘れがちだ。**
-   - (かのじょはやくそくをわすれがちだ。)
-   - "She tends to forget her promises."
-2. **最近、寝不足がちで疲れている。**
-   - (さいきん、ねぶそくがちでつかれている。)
-   - "Recently, I'm prone to being sleep-deprived and tired."
-## Cultural Notes
+
+## 1. Introduction
+The suffix **～がち (〜gachi)** is a useful grammar point in Japanese that expresses a tendency or frequency of a particular action or state, often with a negative connotation. It indicates that something happens **often** or someone tends to do something **frequently**, usually unintentionally.
+
+---
+## 2. Core Grammar Explanation
+### Meaning
+- **～がち** means "**tend to ~**", "**be apt to ~**", or "**often ~**".
+- It is used to describe an action or state that occurs frequently or is likely to happen, often implying an undesirable tendency.
+### Structure
+The formation of **～がち** involves attaching it to the stem of a verb or to a noun.
+#### Formation Diagram
+| Part of Speech | Formation                          |
+|----------------|------------------------------------|
+| Verb           | **Verb Stem** + がち                 |
+| Noun           | **Noun** + がち                      |
+---
+**Note:** The **verb stem** is the verb form without ます (for polite verbs) or the dictionary form minus the う sound.
+### Examples of Formation
+- **Verb Stem Example:**
+  - **忘れ** (わすれ) + がち → **忘れがち** (tend to forget)
+- **Noun Example:**
+  - **病気** (びょうき) + がち → **病気がち** (tend to be sick frequently)
+---
+## 3. Comparative Analysis
+### ～がち vs. ～傾向がある (けいこうがある)
+- **～がち** implies a tendency based on **habitual or frequent occurrence**, often with a negative nuance.
+- **～傾向がある** means "have a tendency to ~" and is used in a broader sense, applicable to both positive and negative tendencies, and is more formal.
+### ～がち vs. ～気味 (～ぎみ)
+- **～がち** indicates a stronger frequency or inclination toward an action or state.
+- **～気味** means "a touch of ~" or "a little ~", implying a slight degree or hint of something.
+---
+## 4. Examples in Context
+### Example Sentences
+1. **仕事を休みがちです。**
+   *Shigoto o yasumi-gachi desu.*
+   - **Translation:** "I tend to take days off work often."
+2. **最近、彼は遅刻しがちだ。**
+   *Saikin, kare wa chikoku shi-gachi da.*
+   - **Translation:** "Lately, he tends to be late frequently."
+3. **雨の日は家にいがちです。**
+   *Ame no hi wa ie ni i-gachi desu.*
+   - **Translation:** "I tend to stay at home on rainy days."
+4. **疲れていると忘れがちになる。**
+   *Tsukarete iru to wasure-gachi ni naru.*
+   - **Translation:** "When I'm tired, I tend to become forgetful."
+5. **冬になると風邪をひきがちだ。**
+   *Fuyu ni naru to kaze o hiki-gachi da.*
+   - **Translation:** "In winter, I tend to catch colds easily."
+---
+### Context Variations
+- **Formal Spoken:**
+  - **お客様は会議を欠席しがちでございます。**
+    *Okyakusama wa kaigi o kesseki shi-gachi de gozaimasu.*
+    - **Translation:** "The client tends to be absent from meetings."
+- **Casual Spoken:**
+  - **最近、食べすぎがちだから運動しないと。**
+    *Saikin, tabe-sugi-gachi dakara undō shinai to.*
+    - **Translation:** "I've been overeating lately, so I need to exercise."
+---
+## 5. Cultural Notes
 ### Cultural Relevance
-Using **がち** can reflect awareness of social norms and expectations. For example, in the context of social gatherings, saying "彼は遅れて来がち" (kare wa okurete ki gachi - He tends to arrive late) can carry implications about one's punctuality and respect towards others.
-### Politeness
-When using **がち**, the level of politeness can vary based on the context. In formal settings, it's important to use it carefully to avoid sounding critical.
-## Common Mistakes and Tips
+- In Japanese culture, there is an emphasis on being considerate and avoiding inconvenience to others. Using **～がち** can softly acknowledge one's own shortcomings or habitual tendencies without being too direct.
+### Politeness Levels
+- **～がち** can be used in both formal and informal contexts. The level of politeness is adjusted through auxiliary verbs and formal expressions (e.g., です、ます).
+### Idiomatic Expressions
+- **ありがち**
+  - From **ある** (to exist) + がち
+  - **Meaning:** Something that happens often; common occurrence.
+  - **Example:** **ミスは新人にありがちです。**
+    *Misu wa shinjin ni ari-gachi desu.*
+    - **Translation:** "Mistakes are common among newcomers."
+---
+## 6. Common Mistakes and Tips
 ### Error Analysis
-- **Mistake**: Using **がち** with adjectives or nouns that do not indicate behavior.
-  - **Correction**: Only use with nouns or verbs that imply a tendency.
+1. **Using the Dictionary Form Instead of Verb Stem**
+   - **Incorrect:** **忘れるがち**
+     *Wasureru-gachi*
+   - **Correct:** **忘れがち**
+     *Wasure-gachi*
+2. **Attaching ～がち to Adjectives**
+   - **Incorrect:** **疲れたがち**
+     *Tsukareta-gachi*
+   - **Correct Usage:** Use with verb stem or noun.
 ### Learning Strategies
-- To remember **がち**, think of it as **“tending toward”** something. Associate it with characters or situations where a specific habit is demonstrated repeatedly.
-## Summary and Review
+- **Mnemonic Tip:** Remember that **～がち** attaches to the **base form** of a verb (verb stem) or directly to a noun, indicating a **"gotcha"** (がち) habit you tend to fall into.
+---
+## 7. Summary and Review
 ### Key Takeaways
-- **がち** denotes a tendency or habitual action.
-- It can imply something negative or undesirable based on context.
-- Used with nouns and verb stems.
+- **～がち** expresses a tendency to do something often, usually with a negative or undesirable implication.
+- It is formed by attaching **がち** to the **verb stem** or a **noun**.
+- Be mindful not to attach **がち** to the dictionary form of verbs or adjectives.
 ### Quick Recap Quiz
-1. What does **がち** imply?
-   - A) A habitual tendency 
-   - B) Something that is easy 
-   - C) A definitive action
-   - (Correct Answer: A)
-2. Translate: **彼女は遅れがちです。**
-   - (Answer: She tends to be late.)
-3. Can **がち** be used with adjectives? 
-   - (Answer: No, only with nouns or verb stems.)
+1. **How do you form ～がち with verbs?**
+   - Attach **がち** to the verb **stem**.
+2. **Translate to Japanese using ～がち:**
+   - "She tends to forget people's names."
+     **Answer:** **彼女は人の名前を忘れがちだ。**
+3. **True or False:** ～がち can be used with adjectives.
+   - **Answer:** **False**. It is used with verb stems and nouns.
+---
+Feel free to revisit the examples and notes to strengthen your understanding of **～がち**. Practice by creating your own sentences to describe tendencies in your daily life!
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

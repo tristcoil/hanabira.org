@@ -194,8 +194,8 @@ docker buildx build . -t coil/hanabira.org:express-db
 docker push coil/hanabira.org:express-db
 docker pull coil/hanabira.org:express-db
 docker run -it -p 8000:8000 coil/hanabira.org:express-db
-docker run -it -p 8000:8000    -e REACT_APP_HOST_IP=$(hostname -I | awk '{print $1}') coil/hanabira.org:express-db
-docker run -d   -p 8000:8000   -e REACT_APP_HOST_IP=$(hostname -I | awk '{print $1}')   --restart=unless-stopped   coil/hanabira.org:express-db
+docker run -it -p 8000:8000   -e REACT_APP_HOST_IP=$(hostname -I | awk '{print $1}') coil/hanabira.org:express-db
+docker run -d  -p 8000:8000   -e REACT_APP_HOST_IP=$(hostname -I | awk '{print $1}')   --restart=unless-stopped   coil/hanabira.org:express-db
 
 import https from 'https';
 
@@ -205,6 +205,7 @@ const agent = new https.Agent({
 
 const res = await fetch('https://localhost', { agent });
 
+USER SPECIFIC FLASK BACKEND
 ------------------------
 cd /home/coil/Desktop/zen-lingo-website/prod/backend/flask
 
@@ -220,11 +221,11 @@ DICTIONARY/TEXT PARSER/YOUTUBE backend image /d-api/v1
 ------------------------------------------------------
 cd /home/coil/Desktop/zen-lingo-website/prod/backend/dictionary       # kinda fails when we do not run container from this dir
 
-docker buildx build . -t coil/hanabira.org:dictionary-db_v0.3.6
+docker buildx build . -t coil/hanabira.org:dictionary-db
 docker push coil/hanabira.org:dictionary-db
 docker pull coil/hanabira.org:dictionary-db
 # run these from directory where you have the config files .env and config.json with API keys
-docker run -it -p 5200:5200 --add-host=host.docker.internal:host-gateway -v $(pwd)/config.json:/app/config.json coil/hanabira.org:dictionary-db_v0.3.6 # interactive
+docker run -it -p 5200:5200 --add-host=host.docker.internal:host-gateway -v $(pwd)/config.json:/app/config.json coil/hanabira.org:dictionary-db # interactive
 docker run -d -p 5200:5200  --add-host=host.docker.internal:host-gateway -v $(pwd)/config.json:/app/config.json --restart=unless-stopped coil/hanabira.org:dictionary-db # daemonised
 
 

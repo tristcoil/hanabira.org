@@ -1,76 +1,107 @@
 Processing keyword: ～にわたって (〜ni watatte)
 # Japanese Grammar Point: ～にわたって (〜ni watatte)
-# Grammar Point: ～にわたって (〜ni watatte)
+
 ## 1. Introduction
-The grammar point ～にわたって (ni watatte) is used to indicate a range or span of time, space, or conditions over which something occurs. It emphasizes the entirety of the period or scope, often conveying continuity or reach.
+The grammar point **～にわたって (〜ni watatte)** is used in Japanese to express that something extends over a certain **period of time**, **area**, or **range**. It emphasizes the breadth or scope of an action or state, and is often translated as "over," "throughout," or "across" in English.
+
 ---
 ## 2. Core Grammar Explanation
-### Detailed Explanation
-- **Meaning**: Indicates that something lasts or extends over a certain time period or area.
-- **Structure**: 
-  - [Noun] + にわたって (ni watatte)
-  - Example: 日本全土にわたって (Nihon zendo ni watatte) - "Throughout all of Japan"
-### Formation Diagram:
+### Meaning
+**～にわたって** indicates that an action or state covers the entirety of a specified time span, geographical area, or range of items.
+- **Temporal Extent:** Over a period of time.
+- **Spatial Extent:** Across a geographical area.
+- **Range Extent:** Throughout a range or category.
+### Structure
+#### Formation
+```markdown
+**Noun** + にわたって / にわたり / にわたる + **Noun**
 ```
-Noun + にわたって → Indicates a range or span (time/space)
-```
-### Visual Aids
-| Noun               |  Meaning                                   | Example Sentence                                             |
-|--------------------|-------------------------------------------|-------------------------------------------------------------|
-| 時間 (jikan)        | Time                                      | 20年間にわたって (20-nenkan ni watatte) - "For a span of 20 years"  |
-| 空間 (kuukan)      | Space                                     | 町全体にわたって (Machi zentai ni watatte) - "Throughout the entire town" |
-| 状況 (joukyou)     | Condition                                 | 危険な状況にわたって (Kiken na joukyou ni watatte) - "Throughout dangerous conditions" |
+- **にわたって (ni watatte):** Used within a sentence.
+- **にわたり (ni watari):** More formal, often used in writing.
+- **にわたる (ni wataru) + Noun:** Modifies a noun.
+#### Components
+| Component       | Function                             |
+|-----------------|--------------------------------------|
+| **Noun**        | Indicates the period, area, or range |
+| **にわたって** | Expresses extension over that noun    |
+| **Action/State**| The action or state that extends     |
 ---
 ## 3. Comparative Analysis
-- **Similar Grammar Points**:
-  - **～を通じて (～o tsuujite)**: Indicates that something is done through a particular means, often focusing on the method rather than the extent. 
-    - Example: 学校を通じて (Gakkou o tsuujite) - "Through the school"
-  
-- **Differences**:
-  - ～にわたって emphasizes the span or extent, while ～を通じて emphasizes the means or method through which something is done.
+### Similar Grammar Points
+#### ～を通じて / ～を通して (〜o tsūjite / 〜o tōshite)
+- **Meaning:** "Throughout," "through"
+- **Usage:** Indicates something happens consistently over a period or via a medium.
+- **Difference:** Focuses on a continuous state or means, whereas **にわたって** emphasizes the entire span or range.
+#### ～にかけて (〜ni kakete)
+- **Meaning:** "From... to...," "through"
+- **Usage:** Describes a range from one point to another, often with a starting point.
+- **Difference:** Used for approximate ranges without emphasizing complete coverage.
 ---
 ## 4. Examples in Context
-### Sentence Examples
-1. **Formal**:
-   - **事業は全国にわたって展開されています。**
-     - *Jigyou wa zenkoku ni watatte tenkai sareteimasu.*
-     - "The business has expanded throughout the entire country."
-2. **Informal**:
-   - **このイベントは一週間にわたって行われるよ。**
-     - *Kono ibento wa isshuukan ni watatte okonawareru yo.*
-     - "This event will be held over the course of a week."
-3. **Written**:
-   - **彼の研究は二十年以上にわたって続けられました。**
-     - *Kare no kenkyuu wa nijuu nen ijou ni watatte tsuzukeraremashita.*
-     - "His research continued for more than twenty years."
-4. **Spoken**:
-   - **旅行は五日間にわたって新しい場所を見て回った。**
-     - *Ryokou wa itsukakan ni watatte atarashii basho o mite mawatta.*
-     - "The trip spanned five days visiting new places."
+### Example 1: Over a Period of Time
+**会議は２日間にわたって行われました。**
+*The conference was held over two days.*
+
+---
+### Example 2: Across an Area
+**その鳥はアジア全域にわたって生息している。**
+*That bird lives throughout the whole of Asia.*
+
+---
+### Example 3: Throughout a Range
+**この問題は教育、経済、政治など多方面にわたって影響を与える。**
+*This issue affects various fields such as education, economy, and politics.*
+
+---
+### Example 4: Formal Written Context
+**２０年にわたる研究の成果がついに出版された。**
+*The results of research spanning 20 years have finally been published.*
+
+---
+### Example 5: Informal Spoken Context
+**彼は長年にわたってその店で働いていた。**
+*He worked at that shop for many years.*
+
 ---
 ## 5. Cultural Notes
 ### Cultural Relevance
-The use of ～にわたって reflects a level of thoroughness and completeness in both language and culture, which is important in Japanese society. It shows respect for the entirety of time or space involved, acknowledging the full scope of experiences.
+- **Formality:** **にわたって** is often used in formal speech and writing, such as news reports, academic articles, and official statements.
+- **Emphasis on Extent:** In Japanese culture, expressing the extent or thoroughness of an action can convey diligence and thoroughness.
 ### Idiomatic Expressions
-- **世代を超えて (sedai o koete)**: "Across generations"
-  - This expression also conveys spanning or crossing over to emphasize continuity in time.
+- **全国にわたって (zenkoku ni watatte):** "Throughout the country"
+- **長期にわたって (chōki ni watatte):** "Over a long period"
+
 ---
 ## 6. Common Mistakes and Tips
-### Error Analysis
-- **Misuse of Context**: Students may confuse using ～にわたって with time expressions like ～から～まで (kara - made), which specify the start and end without the broader range aspect.
-  
-- **Overusing**: Some learners may use it too frequently in contexts that do not require emphasizing a range, resulting in awkward phrases.
+### Common Mistakes
+1. **Incorrect Noun Attachment**
+   **Incorrect:** 行くにわたって (iku ni watatte)
+   **Correct:** 期間にわたって行く (kikan ni watatte iku)
+   *Tip:* Attach **にわたって** to a **noun** indicating time, area, or range, not directly to a verb.
+2. **Mixing up Similar Grammar**
+   Confusing **にわたって** with **において (ni oite)** or **について (ni tsuite)**.
+   *Tip:* Remember that **にわたって** emphasizes **extent**, whereas **において** indicates **location** or **time**, and **について** means **"about"** or **"regarding."**
 ### Learning Strategies
-- **Mnemonic Device**: Think of "watatte" as "spanning out" like a bridge that connects two points across a distance.
+- **Visual Aids:** Draw timelines or maps to visualize the extent over time or area.
+- **Practice Sentences:** Create your own sentences using **にわたって** to describe periods or ranges relevant to your life.
 ---
 ## 7. Summary and Review
 ### Key Takeaways
-- **Meaning**: Indicates a range or extent in time, space, or conditions.
-- **Structure**: [Noun] にわたって
-- **Comparison**: Unlike ～を通じて, it emphasizes the breadth rather than the method.
+- **～にわたって** is used to express that something extends **over a period of time**, **across an area**, or **throughout a range**.
+- It is typically used in **formal contexts**.
+- Always attach it to a **noun** representing time, area, or category.
 ### Quick Recap Quiz
-1. What is the meaning of ～にわたって?
-2. Formulate a sentence using ～にわたって to describe an event lasting for three months.
-3. Compare ～にわたって with ～を通じて. What is the main difference?
+1. **What does ～にわたって emphasize in a sentence?**
+   *Answer:* It emphasizes that an action or state extends over the entire span of a period, area, or range.
+2. **Fill in the blank with the correct particle:**
+   **彼は３０年____わたって医者として働いた。**
+   *Answer:* に (彼は３０年**に**わたって医者として働いた。)
+3. **True or False:** ～にわたって can be used with verbs directly without a noun.
+   *Answer:* False. It must be attached to a noun indicating time, area, or range.
 ---
-Feel free to ask any questions if you need further clarification!
+*Keep practicing using ～にわたって in different contexts to become more comfortable with its usage!*
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

@@ -1,75 +1,126 @@
 Processing keyword: そんな (sonna) + Noun
 # Japanese Grammar Point: そんな (sonna) + Noun
-# Grammar Point: そんな (sonna) + Noun
+
 ## 1. Introduction
-In Japanese, "そんな" (sonna) is a demonstrative adjective that translates to "such" or "like that" in English. It is used to describe nouns in a way that refers to something that has been previously mentioned or is known to the speaker and listener. This grammar point is commonly used in both spoken and written Japanese.
+In this lesson, we'll explore the Japanese grammar point **「そんな (sonna) + Noun」**. This expression is commonly used to refer to things like "such a" or "that kind of" something. Understanding how to use **そんな** properly will help you describe objects, situations, or even people in relation to something previously mentioned or known in context.
+
+---
 ## 2. Core Grammar Explanation
-### Detailed Explanation
-"そんな" (sonna) is used to specify a type or category of something that has a specific quality or characteristic. It indicates something that is either undesirable or shows surprise regarding the context. 
 ### Meaning
-- "そんな" (sonna): "such", "like that", or "that kind of"
+**そんな (sonna)** means:
+- **"Such a"**
+- **"That kind of"**
+- **"Like that"**
+It is used to describe a noun that is of a type or kind already mentioned or understood from context.
 ### Structure
-- The structure is simple:  
-  **そんな + Noun**  
-  Example: そんな本 (sonna hon) - "such a book"
-### Formation Diagram
+The basic structure is:
 ```plaintext
-     Speaker/Listener Knowledge
-                |
-          +-----+-----+
-          |           |
-       Previous    Demonstrative
-         Context      Usage
-          |           |
-     +----+----+      |
-     |         |     Noun
-  そんな         |
-   (sonna)       |
-                 |
-               Such
+そんな + Noun
 ```
+- **そんな** modifies the noun directly.
+### Formation Diagram
+| Component       | Role             | Example                |
+| --------------- | ---------------- | ---------------------- |
+| **そんな**       | Demonstrative adjective | そんな               |
+| **+**           |                  | +                      |
+| **Noun**        | Object being described | 人 (hito)             |
+| **=**           |                  | **そんな人 (sonna hito)** |
+- **そんな人**: "That kind of person"
+---
 ## 3. Comparative Analysis
-### Comparison with そんな (sonna) and その (sono)
-1. **そんな (sonna)** is used when referring to something described as "that kind of" or "such", often with a nuance of contempt or surprise.
-   - Example: そんな無礼なこと (sonna bureina koto) - "such a rude thing"
-2. **その (sono)** is used to refer to a specific noun that is closer to the listener or being talked about but does not carry the same emotional weight.
-   - Example: その本 (sono hon) - "that book (you are holding)"
+**そんな** is part of a series of demonstrative adjectives:
+| Japanese | Reading  | Meaning                       |
+| -------- | -------- | ----------------------------- |
+| **こんな** | konna    | Such a... (close to the speaker) |
+| **そんな** | sonna    | Such a... (close to the listener or previously mentioned) |
+| **あんな** | anna     | Such a... (far from both speaker and listener) |
+- **こんな**: "Such a" (like this)
+- **そんな**: "Such a" (like that)
+- **あんな**: "Such a" (like that over there)
+**Note:** They correspond to the demonstratives **これ (this)**, **それ (that)**, and **あれ (that over there)**.
+---
 ## 4. Examples in Context
-### Sentence Examples
-1. **Formal Context**: 
-   - そんな問題は簡単です。  
-     (Sonna mondai wa kantan desu.)  
-     "Such a problem is easy."
-2. **Informal Context**: 
-   - そんなこと言わないで。  
-     (Sonna koto iwanaide.)  
-     "Don't say such things."
-3. **Written Context**: 
-   - そんな経験は貴重です。  
-     (Sonna keiken wa kichou desu.)  
-     "Such an experience is valuable."
-4. **Spoken Context**: 
-   - そんな映画は見たくないよ。  
-     (Sonna eiga wa mitakunai yo.)  
-     "I don't want to see such a movie."
+Let's see how **そんな** is used in different sentences.
+### Example Sentences
+1. **そんな本は読みたくない。**
+   *Sonna hon wa yomitakunai.*
+   "I don't want to read a book like that."
+2. **彼がそんなことを言うなんて信じられない。**
+   *Kare ga sonna koto o iu nante shinjirarenai.*
+   "I can't believe he would say such a thing."
+3. **そんな人に会ったことがない。**
+   *Sonna hito ni atta koto ga nai.*
+   "I've never met a person like that."
+4. **どうしてそんなに忙しいの？**
+   *Dōshite sonna ni isogashii no?*
+   "Why are you so busy?"
+5. **そんな問題は簡単だよ。**
+   *Sonna mondai wa kantan da yo.*
+   "Such a problem is easy."
+### Various Contexts
+- **Formal Written Language:**
+  **そんな行動は許されません。**
+  *Sonna kōdō wa yurusaremasen.*
+  "Such behavior is unacceptable."
+- **Casual Spoken Language:**
+  **えー、そんなのありえない！**
+  *Ē, sonna no arienai!*
+  "No way, that's impossible!"
+- **Polite Speech:**
+  **お忙しいところ、そんなお願いをして申し訳ありません。**
+  *Oisogashii tokoro, sonna onegai o shite mōshiwake arimasen.*
+  "I'm sorry to make such a request when you're busy."
+---
 ## 5. Cultural Notes
 ### Cultural Relevance
-The use of "そんな" (sonna) can convey strong feelings such as disbelief or disapproval, reflecting Japanese communication styles that often prioritize subtlety in expressing emotions. The level of formality in speech may change how "そんな" is perceived. In formal contexts, it is essential to maintain politeness.
+In Japanese culture, indirect references are common. Using **そんな** allows a speaker to refer to something without specifying it directly, relying on shared context.
+### Levels of Politeness and Formality
+- **そんな** itself is neutral.
+- Politeness is adjusted with verb endings and honorifics.
+- In very formal situations, **そのような** may be used instead of **そんな**.
 ### Idiomatic Expressions
-- そんなのありえない！ (sonna no arienai!) - "That's impossible!"  
-This reflects disbelief in a very colloquial manner.
+- **そんなことないです。**
+  *Sonna koto nai desu.*
+  "That's not the case." / "That's not true."
+  Often used to be modest or to politely disagree.
+- **そんな馬鹿な！**
+  *Sonna bakana!*
+  "That’s ridiculous!" / "That can't be!"
+---
 ## 6. Common Mistakes and Tips
 ### Error Analysis
-- **Frequent Errors**: Learners often confuse "そんな" with "その" leading to misunderstandings about the emotional tone or context.
-  
+- **Mixing up 「こんな」, 「そんな」, and 「あんな」:**
+  Be mindful of the context and physical or metaphorical distance:
+  - **こんな**: Near the speaker
+  - **そんな**: Near the listener or in context
+  - **あんな**: Away from both or something not present
+- **Overusing in Formal Writing:**
+  In formal documents, prefer **そのような** over **そんな** for increased politeness.
 ### Learning Strategies
-- **Mnemonic Device**: Remember that "そ" in "そんな" hints at "such" while "そ" in "その" indicates a specific noun, allowing you to differentiate based on emotional weight.
+- **Mnemonic Device:**
+  Think of **"so"** in **"sonna"** to remember it relates to **"that"** (as in "so" referring to something previously mentioned).
+- **Practice Creating Sentences:**
+  Write your own sentences using **そんな** to describe things you've recently talked about or things someone else mentioned.
+---
 ## 7. Summary and Review
 ### Key Takeaways
-- "そんな" (sonna) means "such" or "like that" and is used to describe nouns based on previous context with an emotional nuance.
-- It is different from "その" (sono), which simply indicates something specific.
+- **そんな + Noun** is used to describe **"such a"** or **"that kind of"** noun.
+- It references something known from context or previously mentioned.
+- Distinguish between **こんな (this kind of)**, **そんな (that kind of)**, and **あんな (that kind over there)**.
+- Adjust politeness through verb forms and additional polite expressions.
 ### Quick Recap Quiz
-1. What does "そんな" (sonna) translate to in English?
-2. Provide an example using "そんな" (sonna) in a sentence.
-3. How does "そんな" (sonna) differ from "その" (sono)?
-Feel free to review and test your understanding with the recap quiz!
+1. **Fill in the blank:** "I can't eat such food."
+   **Answer:** **そんな食べ物は食べられない。**
+2. **Choose the correct demonstrative:**
+   Something close to the speaker: **こんな**, **そんな**, or **あんな**?
+   **Answer:** **こんな**
+3. **Translate into Japanese:**
+   "I didn't expect such a result."
+   **Answer:** **そんな結果は予想していなかった。**
+---
+By mastering **そんな + Noun**, you'll be able to more naturally describe and refer to things in conversation, enhancing your fluency in Japanese.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

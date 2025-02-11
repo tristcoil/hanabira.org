@@ -1,83 +1,121 @@
 Processing keyword: 아직 [ajik] (Yet, still)
 # Korean Grammar Point: 아직 [ajik] (Yet, still)
-# Grammar Point: 아직 [ajik] (Yet, Still)
+
 ## 1. Introduction
-In Korean, "아직" (ajik) is an adverb that means "yet" or "still." It is used to indicate that something has not happened up to the present time or to suggest that a situation continues. 
+In Korean, the adverb **아직** (*ajik*) is widely used to express the meanings of **"yet"** and **"still"**. It conveys that an action or state is continuing or has not occurred up to a certain point in time. Mastering **아직** is essential for anyone looking to enhance their understanding and fluency in Korean, particularly when discussing timing and the progression of events.
+
+---
 ## 2. Core Grammar Explanation
-### Detailed Explanation
-- **Meaning**: "아직" is used when something is expected but has not happened yet or to show that a condition still exists. 
-- **Structure**: 
-  - "아직" is placed before a verb or an adjective in a sentence.
-  
+### Meaning and Usage
+**아직** can be translated as:
+- **"Still"**: When an action or state is ongoing.
+- **"Yet"**: When an action or state has not happened until now.
+### Structure
+**아직** is an **adverb** and is placed **before** the verb or adjective it modifies.
+#### Formation:
+```markdown
+[Subject +] 아직 + Verb/Adjective
+```
+- **In Affirmative Sentences**: Indicates that an action or state is **still** happening.
+- **In Negative Sentences**: Indicates that an action or state has **not yet** occurred.
 ### Formation Diagram
 ```plaintext
-Subject + 아직 + Verb/Adjective
+[Subject +] 아직 + Verb/Adjective
+                 │
+                 └─ Indicates "still" or "yet"
 ```
-### Example Structures
-- **Affirmative Sentence**: 
-  - "나는 아직 먹지 않았다." 
-  - (I have not eaten yet.)
-  
-- **Negative Sentence**: 
-  - "아직 그러지 않았다."
-  - (I still have not done that.)
+---
 ## 3. Comparative Analysis
-### Compare with Similar Grammar Points
-- **아직 vs. 벌써 (beolseu)**: 
-  - "아직" implies something has NOT happened up to this point, whereas "벌써" indicates that something HAS happened earlier than expected.
-  - Example: 
-    - "나는 아직 숙제를 안 했다." (I haven't done my homework yet.)
-    - "그는 벌써 숙제를 했다." (He has already done his homework.)
-    
-- **아직 vs. 여전히 (yeojeonhi)**: 
-  - "여전히" emphasizes that a situation is unchanged over time, while "아직" highlights that something is not complete or has not occurred yet.
-  - Example: 
-    - "그는 아직 학생이다." (He is still a student.) 
-    - "그는 여전히 학생이다." (He is still a student. - implies unchanged over time.)
+### 아직 vs. 아직도
+- **아직** (*ajik*): Neutral emphasis on "still" or "yet".
+- **아직도** (*ajikdo*): Adds emphasis, sometimes expressing surprise, frustration, or impatience.
+**Example:**
+- **아직** 집에 있어요.  
+  *I'm still at home.*
+- **아직도** 집에 있어요?  
+  *You're still at home?* (Implying surprise or impatience)
+### 아직 vs. 벌써 (*Already*)
+- **아직**: Emphasizes that something has **not yet** happened or is **still** happening.
+- **벌써** (*beolsseo*): Indicates that something has **already** happened, often earlier than expected.
+**Example:**
+- 그는 **아직** 안 왔어요.  
+  *He hasn't come yet.*
+- 그는 **벌써** 왔어요.  
+  *He already came.*
+---
 ## 4. Examples in Context
-### Sentence Examples
-1. **Formal**: 
-   - "회의는 아직 시작하지 않았습니다." 
-   - (The meeting has not started yet.)
-   
-2. **Informal**: 
-   - "아직 안 가?" 
-   - (Aren't you going yet?)
-   
-3. **Written**:
-   - "그의 건강은 아직 회복되지 않았다." 
-   - (His health has not recovered yet.)
-   
-4. **Spoken**: 
-   - "아직도 비가 오고 있어." 
-   - (It is still raining.)
+### Formal Speech
+- **회의가 아직 진행 중입니다.**  
+  *The meeting is still in progress.*
+- **저는 아직 결정하지 못했습니다.**  
+  *I have not decided yet.*
+### Informal Speech
+- **아직 안 먹었어요.**  
+  *I haven't eaten yet.*
+- **너 아직도 자니?**  
+  *Are you still sleeping?*
+### Written Context
+- **그 문제는 아직 해결되지 않았다.**  
+  *That problem has not been solved yet.*
+### Spoken Context
+- **A:** 영화 봤어?  
+  *Have you seen the movie?*
+- **B:** 아니, 아직 못 봤어.  
+  *No, I haven't seen it yet.*
+---
 ## 5. Cultural Notes
 ### Cultural Relevance
-In Korean, using "아직" can reflect politeness and a sense of anticipation. It can be used to show care or concern about someone’s situation.
-- Usage often depends on the social context. In formal situations, it is common to elaborate on what is yet to be done.
+- **Politeness Levels**: Adjust the verb endings following **아직** to match the appropriate level of formality.
+  - Formal: **아직 모르겠습니다.** (*I don't know yet.*)
+  - Informal: **아직 몰라.** (*I don't know yet.*)
 ### Idiomatic Expressions
-One common expression is:
-- "아직 멀었다." (It's still far off/There’s still a long way to go.)
-  
+- **아직 멀었어요.**  
+  Literally "*It's still far*", but means "*Not even close*" or "*Long way to go*".
+  **Example:**
+  - **시험 준비 다 됐어?**  
+    *Are you all prepared for the exam?*
+  - **아니, 아직 멀었어.**  
+    *No, not even close.*
+---
 ## 6. Common Mistakes and Tips
 ### Error Analysis
-- **Common Mistake**: Using "아직" for completed actions.
-  - Incorrect: "나는 벌써 아직 숙제를 했다." (I already did my homework yet.)
-  - Correct: "나는 아직 숙제를 하지 않았다." (I have not done my homework yet.)
+- **Using 긍정문 (Affirmative Sentences) Incorrectly**
+  - Incorrect: **아직 일이 끝났어요.**  
+    *(The work has still finished.)* ❌
+  - Correct: **아직 일이 안 끝났어요.**  
+    *The work hasn't finished yet.* ✔️
+  **Tip:** When using **아직** to mean "*not yet*", ensure that the verb is in the negative form.
+- **Misplacing 아직 in the Sentence**
+  - Incorrect: **저는 먹었어요 아직.**  
+    *(I ate still.)* ❌
+  - Correct: **저는 아직 먹었어요.**  
+    *I still ate.* (Possible but uncommon) ✔️
+  - More natural: **저는 아직 안 먹었어요.**  
+    *I haven’t eaten yet.* ✔️
+  **Tip:** Place **아직** directly before the verb or adjective it modifies for clarity.
 ### Learning Strategies
-- **Mnemonic Device**: 
-  - Remember "아직" as a reminder of **uncompleted tasks**.
-  - "A" for **Anticipation** (not done yet), "J" for **Just waiting to be completed**.
+- **Mnemonic Device**: Associate **아직** with "*Ah, it's ticking*" to remember time is still moving, and the action is ongoing or pending.
+- **Practice**: Create your own sentences using **아직** in both affirmative and negative forms to internalize its usage.
+---
 ## 7. Summary and Review
 ### Key Takeaways
-- "아직" indicates that something has not happened up to the present time or continues to be the case.
-- Be mindful of placing "아직" before the verb or adjective.
-- Differentiate "아직" from "벌써" and "여전히" to use them correctly.
+- **아직** is an adverb meaning **"still"** or **"yet"**, indicating ongoing actions or states that have not occurred up to now.
+- Use **아직** with affirmative verbs for "**still**" and with negative verbs for "**not yet**".
+- Be attentive to verb forms and sentence placement to convey the correct meaning.
 ### Quick Recap Quiz
-1. Translate to Korean: "I still don't understand."
-2. Is it correct to say "나는 아직 숙제를 했다."? 
-3. What does "아직 멀었다" mean in English? 
-Answers:
-1. 나는 아직 이해를 못한다.
-2. No, it is incorrect. The correct form is "나는 아직 숙제를 안 했다."
-3. "It's still far off."
+1. **Translate to Korean using 아직:**  
+   *She still loves him.*  
+   **Answer:** 그녀는 **아직** 그를 사랑해요.
+2. **Identify the Error:**  
+   **Sentence:** 그는 아직 왔어요.  
+   **Question:** What's wrong with this sentence?  
+   **Answer:** The sentence should be negative to express "*He hasn't come yet.*" Correct sentence: 그는 **아직** 안 왔어요.
+3. **Fill in the Blank:**  
+   *I haven't finished my homework yet.*  
+   저는 **_____** 숙제를 끝내지 못했어요.  
+   **Answer:** **아직**
+---
+By understanding and practicing **아직**, you enhance your ability to express time-related nuances in Korean, making your speech and comprehension more natural and accurate.
+
+---
+© [Hanabira.org](https://hanabira.org)

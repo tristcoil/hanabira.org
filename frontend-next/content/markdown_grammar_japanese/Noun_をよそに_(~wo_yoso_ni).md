@@ -1,72 +1,96 @@
 Processing keyword: Noun をよそに (~wo yoso ni)
 # Japanese Grammar Point: Noun をよそに (~wo yoso ni)
-# Noun をよそに (~wo yoso ni)
-## Introduction
-The grammar point **をよそに** (~wo yoso ni) is used to express disregard or indifference towards something, usually referring to a situation or feelings of others while focusing on one's own actions or feelings. It highlights how one acts or proceeds without being affected by external circumstances.
+
+## 1. Introduction
+In this lesson, we will explore the grammar point **をよそに (~wo yoso ni)**, which is used to express the idea of doing something **despite** or **without regard to** certain circumstances or opinions. This construction is commonly used in written and formal Japanese to highlight a contrast between expectations and actions.
+
 ---
-## Core Grammar Explanation
-### Meaning:
-The phrase **をよそに** translates to "disregarding" or "without minding." It implies that the speaker's actions or behavior are not influenced by surrounding factors or other people's feelings.
-### Structure:
-The structure of this grammar point is as follows:
-**Noun + をよそに**
-- **Noun**: The subject that is being disregarded.
-### Formation Diagram:
+## 2. Core Grammar Explanation
+### Meaning
+The phrase **をよそに** translates to "**without regard to**", "**despite**", or "**in defiance of**". It indicates that the subject proceeds with an action, ignoring or showing little concern for surrounding conditions, opinions, or expectations.
+### Structure
+The structure is straightforward:
+- **Noun + をよそに**
+### Formation Diagram
 ```
-[ Noun ] + をよそに → Not minding [ Noun ] (continuing to do something)
+[Concerned Noun] をよそに [Main Action]
+```
+Example:
+```
+彼らは周囲の反対をよそに結婚した。
+They got married despite the opposition around them.
 ```
 ---
-## Visual Aids
-| **Element**      | **Example**             | **Translation**                |
-|------------------|------------------------|---------------------------------|
-| Noun             | 子供 (こども)          | Children                        |
-| Phrase           | をよそに              | Disregarding                    |
-| Example Sentence  | 子供をよそに遊んだ。  | I played regardless of the children. |
+## 3. Comparative Analysis
+### Similar Grammar Points
+| Grammar Point          | Meaning                             | Usage Example                                   |
+|------------------------|-------------------------------------|-------------------------------------------------|
+| **にもかかわらず**      | Despite, in spite of                | 雨にもかかわらず、試合は続行した。               |
+| **をものともせずに**    | In defiance of (often for brave acts)| 彼は病気をものともせずに働き続けた。             |
+| **に反して**            | Contrary to                         | 予想に反して、試験は簡単だった。                 |
+### Nuance Differences
+- **にもかかわらず** is more general and can be used with verbs, adjectives, and nouns.
+- **をものともせずに** is often used to describe overcoming hardships or obstacles, often praising someone's courage.
+- **をよそに** implies ignoring or not caring about something, and can carry a nuance of criticism or surprise.
 ---
-## Comparative Analysis
-The phrase **をよそに** can be confused with other similar expressions such as:
-- **を無視して** (wo mushi shite): "Ignoring" something directly, usually implies a more willful act of ignoring.
-- **をよけて** (wo yokete): "Avoiding" or "steering clear of" something, which often implies physical or situational avoidance rather than emotional disregard.
-### Key Differences:
-- **をよそに** indicates indifference towards feelings or situations, while **を無視して** suggests intentional neglect or disregard.
-- **をよけて** often relates more to avoiding something physically, rather than an emotional or situational indifference. 
+## 4. Examples in Context
+### Example Sentences
+1. **親の心配をよそに、彼は一人で世界旅行に出た。**
+   - *Ignoring his parents' worries, he set out on a solo trip around the world.*
+2. **会社の危機をよそに、彼は悠々と休暇を楽しんでいる。**
+   - *Despite the company's crisis, he is leisurely enjoying his vacation.*
+3. **住民たちの反対をよそに、その建設計画は進められた。**
+   - *Ignoring the residents' opposition, the construction plan proceeded.*
+4. **彼女は周囲の批判をよそに、自分の信念を貫いた。**
+   - *She stuck to her beliefs, disregarding the criticism around her.*
+5. **先生の説明をよそに、学生たちはおしゃべりを続けていた。**
+   - *The students kept chatting, ignoring the teacher's explanation.*
 ---
-## Examples in Context
-### Sentence Examples:
-1. **友達の気持ちをよそに、彼はパーティーに行った。**
-   - **Romaji**: Tomodachi no kimochi wo yoso ni, kare wa paitii ni itta.
-   - **Translation**: Disregarding his friend's feelings, he went to the party.
-2. **周囲の反対をよそに、彼女はその計画を進めた。**
-   - **Romaji**: Shuu ni no hantai wo yoso ni, kanojo wa sono keikaku wo susumeta.
-   - **Translation**: She moved forward with the plan, disregarding the objections from those around her.
-3. **親をよそに彼は家を出た。**
-   - **Romaji**: Oya wo yoso ni kare wa ie wo deta.
-   - **Translation**: He left home without minding his parents.
+## 5. Cultural Notes
+### Cultural Relevance
+In Japanese society, harmony and consideration for others are highly valued. Using **をよそに** can emphasize actions that go against social expectations or group consensus. It can highlight individualism in a culture that often prioritizes the group over the individual.
+### Levels of Politeness and Formality
+- **をよそに** is more commonly used in written language and formal contexts.
+- It may sound stiff or literary in casual spoken Japanese.
+### Idiomatic Expressions
+While **をよそに** itself is a grammatical construct, it's often used in idiomatic ways to express disregard for common concerns, providing a subtle critique or highlighting a notable disregard.
+
 ---
-## Cultural Notes
-### Cultural Relevance:
-In Japanese culture, the concept of harmony and consideration for others is essential. Using **をよそに** may suggest a level of selfishness or disregard for societal norms, which can have cultural implications. It's often used to critique someone's actions as not considering the feelings or situations of others.
-### Levels of Politeness and Formality:
-This grammar point can be used in both casual and formal contexts, although the choice of noun and context will determine the level of politeness.
-### Idiomatic Expressions:
-While **をよそに** itself isn't often found in idioms, it can be associated with expressions like:
-- **空気を読む** (kuuki wo yomu) - "to read the atmosphere," denoting how one should be sensitive to the feelings of others.
+## 6. Common Mistakes and Tips
+### Error Analysis
+- **Using with Verbs or Adjectives Directly**
+  Incorrect:  
+  ~彼は仕事が忙しいをよそに、遊んでばかりいる。~
+  Correct:  
+  彼は忙しい仕事 **をよそに**、遊んでばかりいる。
+- **Misplacing をよそに in the Sentence**
+  Remember that **をよそに** follows a noun directly.
+### Learning Strategies
+- **Mnemonic Device**
+  Think of **をよそに** as "placing [noun] to the side" (i.e., not paying attention to it).
+- **Practice by Identifying**
+  Look for news articles or stories where individuals act contrary to expectations, and try constructing sentences using **をよそに**.
 ---
-## Common Mistakes and Tips
-### Error Analysis:
-- **Mistake**: Using a verb form instead of a noun directly before をよそに.
-  - **Incorrect**: 走るをよそに
-  - **Correct**: 走行者をよそに (Disregarding the pedestrians)
-### Learning Strategies:
-- **Mnemonic Device**: Think of **をよそに** as "looking away from" or "turning aside from" what is happening around you, allowing the feeling of indifference to be present in your mind.
----
-## Summary and Review
-### Key Takeaways:
-- **をよそに** expresses disregard for others' feelings or situations.
-- It follows the structure of **Noun + をよそに**.
-- It can highlight selfishness or indifference in actions.
+## 7. Summary and Review
+### Key Takeaways
+- **をよそに** is used to express doing something **despite** or **without regard to** something else.
+- It follows a **noun** and is commonly used in formal or written contexts.
+- It can carry a nuance of criticism or highlight a notable disregard for norms or expectations.
 ### Quick Recap Quiz
-1. What does **をよそに** mean?
-2. Provide a structure example using **をよそに** with a noun.
-3. How does **をよそに** differ from **を無視して**? 
-By mastering this grammar point, learners can better express nuances of indifference in Japanese conversations!
+1. Fill in the blank:
+   彼は周りの __________、 自分のやり方を続けた。
+   - **Answer:** 彼は周りの **忠告をよそに**、自分のやり方を続けた。
+2. True or False:
+   **をよそに** can be used directly after verbs.
+   - **Answer:** False. It is used after nouns.
+3. Choose the correct usage:
+   a) 彼は疲れをよそに、練習を続けた。  
+   b) 彼は疲れているをよそに、練習を続けた。
+   - **Answer:** a) 彼は疲れ**をよそに**、練習を続けた。
+---
+By understanding and practicing **をよそに**, you can express nuanced contrasts in situations where actions are taken despite prevailing concerns or opinions. Remember to pay attention to its placement after nouns and the formal tone it conveys.
+
+
+---
+
+© [Hanabira.org](https://hanabira.org)

@@ -1,160 +1,106 @@
 Processing keyword: ~기 전에 [gi jeone] (Before doing)
 # Korean Grammar Point: ~기 전에 [gi jeone] (Before doing)
-# Korean Grammar Point: ~기 전에 (gi jeone) - "Before doing"
+
 ## 1. Introduction
-The phrase **~기 전에** is used in Korean to express the idea of doing something **before** another action occurs. It is commonly employed in both spoken and written language, making it a versatile tool in daily conversations and formal writing.
+In Korean, expressing the sequence of actions is essential for clear communication. The grammar point **~기 전에** ([gi jeone]) is used to indicate that one action occurs **before** another action. This structure helps you describe events in chronological order, a fundamental aspect of storytelling and daily conversation.
+
 ---
 ## 2. Core Grammar Explanation
-### Detailed Explanation
-**~기 전에** consists of two parts:
-1. **~기**: This is a nominalizer that turns verbs into nouns, allowing them to function as subjects or objects within a sentence.
-2. **전에**: This means "before," indicating that one action takes place prior to another.
-### Structure
-The structure for using **~기 전에** is as follows:
-- Verb stem + **~기** + **전에**
-### Formation Diagram
-```
-[Verb Stem] + 기 + 전에
-      ↓
-   "Before doing [verb]"
-```
 ### Meaning
-- The phrase indicates that one action (the one described by the verb) occurs before the action that is implied or stated.
----
-## 3. Comparative Analysis
-### Comparison with Similar Grammar Points
-- **~기 후에 (gi hue)**: This means "after doing" and is the opposite of **~기 전에**.
-- **~고 나서 (go naseo)**: This also means "after doing," and is more informal.
-- **~기 전에** is specific to actions happening before another event, whereas **~고 나서** indicates a sequence of events in a more casual context.
----
-## 4. Examples in Context
-### Sentence Examples
-1. **Formal**
-   - **영화 보기 전에 저녁을 먹었어요.**
-     - (Yeonghwa bogi jeone jeonyeogeul meogeosseoyo.)
-     - "I had dinner before watching the movie."
-2. **Informal**
-   - **학교 가기 전에 숙제를 했어.**
-     - (Hakgyo gagi jeone sukjereul haesseo.)
-     - "I did my homework before going to school."
-3. **Written**
-   - **회의 시작하기 전에 모든 자료를 준비해야 합니다.**
-     - (Hoeui sijakagi jeone modeun jaryoreul junbihaeya hamnida.)
-     - "You need to prepare all materials before the meeting starts."
-4. **Spoken**
-   - **사고 나기 전에 조심해!**
-     - (Sago nagi jeone josimhae!)
-     - "Be careful before an accident happens!"
----
-## 5. Cultural Notes
-### Cultural Relevance
-Understanding and using **~기 전에** relates to the Korean value placed on timing and respect for sequences in activities. This grammar point reflects social norms where being prompt and considerate of others' time is crucial.
-### Levels of Politeness
-The expression can be adapted to various levels of politeness depending on the speech context. Using formal endings like **-니다** will increase the level of respect shown to the listener.
-### Idiomatic Expressions
-- **밥 먹기 전에 손 씻기** (Bap meokgi jeone son ssitgi)
-  - "Wash your hands before eating."
----
-## 6. Common Mistakes and Tips
-### Error Analysis
-- Mixing up **기 전에** with **기 후에** can lead to confusion about the sequence of actions.
-- Omitting the verb stem when forming the phrase can also result in sentences that do not correctly convey the intended meaning.
-### Learning Strategies
-- To remember this structure, think of it as a checklist: "First, do [verb], and then..."
----
-## 7. Summary and Review
-### Key Takeaways
-- **~기 전에** expresses the action of doing something before another event.
-- It is formed by attaching **~기** to the verb stem and then adding **전에**.
-- It is important in establishing sequences of actions in both casual and formal contexts.
-### Quick Recap Quiz
-1. What does **~기 전에** mean?
-2. How would you say "Before eating" in Korean?
-3. Can you give an example using **~기 전에** in a sentence?
-By mastering **~기 전에**, learners can effectively communicate the order of events and actions, which is essential for clear interaction in Korean.
-Processing keyword: ~기 전에 [gi jeone] (Before doing)
-# Korean Grammar Point: ~기 전에 [gi jeone] (Before doing)
-# Grammar Point: ~기 전에 [gi jeone] (Before doing)
-## 1. Introduction
-The Korean grammar structure ~기 전에 is used to express "before doing" or "before something happens." This structure allows speakers to indicate actions or events that occur prior to another action or event.
----
-## 2. Core Grammar Explanation
-### Detailed Explanation
-To form the structure ~기 전에, follow these steps:
-1. Take the **verb stem** of the action you want to express.
-2. Add **-기** (gi) to convert it into a noun form (gerund).
-3. Then, attach **전에** (jeone) to indicate "before."
-### Example Structure
-| Verb Stem | +기        | +전에      | Result         |
-|-----------|------------|------------|----------------|
-| 듣다      | 듣기       | 듣기 전에   | Before listening|
-| 가다      | 가기       | 가기 전에   | Before going    |
+**~기 전에** translates to **"before doing"** in English. It is used to express that the action in the main clause happens **before** the action of the verb it is attached to.
+### Structure
+To form this grammar point:
+1. **Take the verb stem.**
+2. **Add** **기 전에**.
+**Formation Formula:**
+```
+[Verb Stem] + 기 전에
+```
 ### Formation Diagram
-```
-Verb Stem + 기 + 전에 
-      ↓
-   Noun form + before
-```
+| Verb (Dictionary Form) | Verb Stem   | + 기 전에   | Meaning               |
+| ---------------------- | ----------- | ----------- | --------------------- |
+| 가다 (to go)           | 가          | 가기 전에   | Before going          |
+| 먹다 (to eat)          | 먹          | 먹기 전에   | Before eating         |
+| 공부하다 (to study)     | 공부하      | 공부하기 전에 | Before studying       |
+| 만나다 (to meet)       | 만나        | 만나기 전에 | Before meeting        |
+| 자다 (to sleep)        | 자          | 자기 전에   | Before sleeping       |
 ---
 ## 3. Comparative Analysis
-### Similar Grammar Point: ~기 후에 [gi hue] (After doing)
-- **~기 전에** indicates that one action occurs before another.
-- **~기 후에** indicates that one action occurs after another.
-**Example Comparison:**
-- **~기 전에:** 
-  - "저는 식사하기 전에 손을 씻어요." 
-  - (I wash my hands before eating.)
-- **~기 후에:**
-  - "저는 식사한 후에 산책해요." 
-  - (I take a walk after eating.)
+### Comparing with **~(으)ㄴ 후에** (After doing)
+- **~기 전에**: Indicates an action that occurs **before** another action.
+- **~(으)ㄴ 후에**: Indicates an action that occurs **after** another action.
+**Examples:**
+1. **수영하기 전에 준비 운동을 해요.**
+   - *I do warm-up exercises before swimming.*
+2. **수영한 후에 샤워를 해요.**
+   - *I take a shower after swimming.*
+### Nuances
+- **~기 전에** focuses on preparing for the upcoming action.
+- **~(으)ㄴ 후에** reflects on actions that follow the completion of another.
 ---
 ## 4. Examples in Context
-### Informal Context:
-1. 학교에 가기 전에 아침을 먹었어요.  
-   *(I ate breakfast before going to school.)*
-### Formal Context:
-2. 회의하기 전에 준비 자료를 확인해 주십시오.  
-   *(Please check the preparation materials before the meeting.)*
-### Written Context:
-3. 마감일이 다가오기 전에 계획을 세워야 합니다.  
-   *(We need to make a plan before the deadline approaches.)*
-### Spoken Context:
-4. 세수를 하기에 전에 양치질을 하세요.  
-   *(Please brush your teeth before washing your face.)*
+### Formal Situations
+1. **보고서를 제출하기 전에 검토하세요.**
+   - *Please review before submitting the report.*
+2. **손님이 오시기 전에 청소를 마쳤습니다.**
+   - *I finished cleaning before the guests arrived.*
+### Informal Conversations
+1. **영화 시작하기 전에 팝콘 사자.**
+   - *Let's buy popcorn before the movie starts.*
+2. **잠자기 전에 뭐 해?**
+   - *What do you do before sleeping?*
+### Written Context
+1. **여행을 떠나기 전에 필요한 물건을 리스트로 작성하세요.**
+   - *List the necessary items before going on a trip.*
+### Spoken Context
+1. **출근하기 전에 커피를 마셔요.**
+   - *I drink coffee before going to work.*
+2. **시험 보기 전에 긴장되나요?**
+   - *Are you nervous before taking the exam?*
 ---
 ## 5. Cultural Notes
-### Cultural Relevance
-The use of ~기 전에 highlights the importance of preparation in Korean culture. It reflects the value placed on planning and readiness before engaging in tasks or activities.
-### Levels of Politeness
-When using this structure, the level of politeness can be adjusted by altering the verb form in the sentence. For formal situations, use the polite verb forms, while informal settings allow for casual expressions.
-### Idiomatic Expressions
-- "행사 전에 점검하세요."  
-  *(Check before the event.)*
-This phrase emphasizes the significance of preparation, which is often a cultural norm in various social contexts in Korea.
+### Politeness and Formality Levels
+In Korean culture, formality and politeness are crucial. While **~기 전에** itself doesn't change, the verbs and sentence endings adjust to match the appropriate speech level.
+**Examples:**
+- **Honorific Form:**
+  - **할머니께서 주무시기 전에 차를 드세요.**
+    - *Grandmother drinks tea before sleeping.*
+- **Casual Form:**
+  - **집에 가기 전에 나랑 얘기 좀 해.**
+    - *Talk with me before going home.*
+### Idiomatic Expressions Using **~기 전에**
+- **생각하기 전에 행동하지 마라.**
+  - *Don't act before thinking.*
+  - Emphasizes the cultural value of thoughtfulness before action.
 ---
 ## 6. Common Mistakes and Tips
 ### Error Analysis
-- **Common Mistakes:**
-  1. Forgetting to convert the verb stem correctly:
-     - Incorrect: “와기 전에” 
-     - Correct: “오기 전에” *(Before coming)*
-  2. Using the incorrect tense:
-     - Ensure the verbs are in the present tense for ongoing actions.
+1. **Attaching **전에** Directly to Verb Without **기**
+   - **Incorrect:** *먹다 전에*
+   - **Correct:** *먹기 전에*
+   **Tip:** Always change the verb to its noun form using **~기** before adding **전에**.
+2. **Using Past Tense Verb Stem**
+   - **Incorrect:** *먹었기 전에*
+   - **Correct:** *먹기 전에*
+   **Tip:** Use the present tense verb stem when attaching **~기 전에**, regardless of the tense of the main verb.
 ### Learning Strategies
-- **Mnemonic Device:** 
-  - Remember the structure as "Before (기 전에) the action we take!"
-  
+- **Mnemonic Device:** Remember that **~기** nominalizes the verb (turns it into a noun). So, **먹기 전에** is like saying "before the eating."
+- **Practice Switching Verbs:** Regularly practice converting verbs to their **~기 전에** form to build muscle memory.
 ---
 ## 7. Summary and Review
 ### Key Takeaways
-- **~기 전에** is used to express "before doing" an action.
-- Form this structure by adding -기 to the verb and then + 전에.
-- Useful for both formal and informal settings.
+- **~기 전에** means **"before doing"** and is used to indicate that one action precedes another.
+- Attach **~기 전에** directly to the **verb stem**.
+- Maintain appropriate politeness levels by adjusting the sentence endings, not the grammar point itself.
 ### Quick Recap Quiz
-1. What structure do you use to say "before sleeping" in Korean?
-   - Answer: 자다 (to sleep) → 자기 전에 (before sleeping)
-2. What does ~기 전에 express in a sentence?
-   - Answer: It indicates that one action occurs before another action.
-3. Can you give an example using the structure in a formal context?
-   - Answer: "회의하기 전에 자료를 준비하세요." *(Please prepare the materials before the meeting.)*
+1. **Fill in the blank:** _(__________) 전에 손을 씻으세요._ (Before eating, wash your hands.)
+   **Answer:** *먹기*
+2. **True or False:** You can use past tense verbs with **~기 전에**.
+   **Answer:** *False* (Always use the present tense verb stem.)
+3. **Translate to Korean:** "Please rest before working."
+   **Answer:** *일하기 전에 쉬세요.*
 ---
+By understanding and practicing **~기 전에**, you'll be able to describe sequences of events clearly and naturally in Korean. Remember to pay attention to the verb forms and the context in which you're speaking to choose the appropriate level of politeness.
+
+---
+© [Hanabira.org](https://hanabira.org)

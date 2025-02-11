@@ -1,73 +1,97 @@
 Processing keyword: 이미 [imi] (Already)
 # Korean Grammar Point: 이미 [imi] (Already)
-# Grammar Point: 이미 [imi] (Already)
+
 ## 1. Introduction
-In this lesson, we will explore the Korean adverb **이미 [imi]**, which means "already." This term is frequently used in conversation and writing to indicate that something has occurred before the current moment.
+In Korean, **이미** means **"already"** and is used to indicate that an action or state has occurred or existed before the current time or before a certain point in time. It emphasizes that the information is known or that the event has happened prior to now.
+
+---
 ## 2. Core Grammar Explanation
-### Detailed Explanation
-The word **이미** is used to express that an action or event has taken place before the time frame being discussed. It often implies a sense of completion or that something is no longer a surprise because it has already happened.
+### Meaning and Usage
+**이미** is an adverb used to express that something has occurred earlier than the time of speaking or reference. It often conveys that the speaker or listener is aware of the fact.
 ### Structure
-- **이미 + Verb**: It is placed before the verb to indicate that the action has been completed.
-  
-  **Formation Diagram:**
-  
-  ```
-  Subject + 이미 + Verb + (Object)
-  ```
-#### Example Formation:
-- **그는 이미 집에 갔어요.**
-  - Translation: He has already gone home.
-### Visual Aids
-| **Korean**                   | **English Translation**              |
-|------------------------------|--------------------------------------|
-| 그는 이미 갔어요.           | He has already left.                 |
-| 나는 이미 숙제를 했어.     | I have already done my homework.     |
-| 그들은 이미 도착했어요.    | They have already arrived.            |
+- **Subject + 이미 + Verb**
+- **이미 + Adjective**
+### Formation Diagram
+```markdown
+[Subject] + [이미] + [Verb/Adjective]
+예: 그는 이미 집에 갔어요.
+(He already went home.)
+```
+### Visual Aid: Timeline Illustration
+```markdown
+| Past     이미 발생한 시점     Present |
+```
+---
 ## 3. Comparative Analysis
-### Similar Grammar Points
-- **벌써 [beolsseo]**: Also means "already," but is often used in conjunction with a sense of urgency or surprise. It can highlight that something happened sooner than expected.
-#### Differences:
-- **이미** indicates completion and a neutral aspect.
-- **벌써** suggests an emotional response, like surprise.
-### Example Comparison:
-- **이미 주문했어요.** (I have already ordered.)
-- **벌써 주문했어요?** (Did you already order? [expressing surprise])
+### 이미 vs. 벌써
+Both **이미** and **벌써** mean **"already"**, but they have subtle differences:
+|              | 이미                        | 벌써                      |
+|--------------|-----------------------------|---------------------------|
+| **Usage**      | Known information, expected outcome | New information, unexpected |
+| **Emphasis**   | Fact that something occurred | Surprise or realization   |
+| **Example**    | 그 소식은 이미 들었어요.       | 벌써 5시예요?               |
+| **Translation**| I already heard that news. | It's already 5 o'clock?   |
+---
 ## 4. Examples in Context
-### Sentence Examples
-**Formal:**
-- **저는 이미 예약을 했습니다.**
-  - Translation: I have already made a reservation.
-**Informal:**
-- **너는 이미 다 했어?**
-  - Translation: Did you already do everything?
-**Written:**
-- **연구 보고서는 이미 제출되었습니다.**
-  - Translation: The research report has already been submitted.
-**Spoken:**
-- **주말에 이미 영화를 봤어.**
-  - Translation: I already watched the movie over the weekend.
+### Formal Situations
+- **회의는 이미 시작되었습니다.**
+  - *The meeting has already started.*
+- **그 결정은 이미 내려졌습니다.**
+  - *That decision has already been made.*
+### Informal Situations
+- **나는 이미 저녁을 먹었어.**
+  - *I already ate dinner.*
+- **이미 끝난 일이야.**
+  - *It's something that's already over.*
+### Written Context
+- **이 책은 이미 여러 번 읽었습니다.**
+  - *I have already read this book several times.*
+### Spoken Context
+- **이미 알고 있었어?**
+  - *Did you already know?*
+---
 ## 5. Cultural Notes
-### Cultural Relevance
-Using **이미** can reflect on punctuality or the management of time in Korean culture. It indicates one’s awareness of time and can show respect for others’ schedules by acknowledging that something has already been done.
 ### Levels of Politeness
-While **이미** is neutral, adjusting the verb form can change the politeness level. For instance, using it with a formal form denotes respect while using it informally with friends indicates familiarity.
+Korean language has different levels of formality. The use of **이미** remains consistent across these levels, but the verb endings change:
+- **Formal Polite:** 이미 했습니다.
+- **Informal Polite:** 이미 했어요.
+- **Casual:** 이미 했어.
 ### Idiomatic Expressions
-- **이미 엎질러진 물**: Literally, "water that has already been spilled," meaning that something has already happened and cannot be changed.
+- **이미 엎질러진 물이다.**
+  - *It's already spilt water.* (Meaning: It's no use crying over spilt milk.)
+---
 ## 6. Common Mistakes and Tips
+### Common Mistake: Confusing 이미 and 벌써
+- **Incorrect:** 벌써 그 영화 봤어요. (If the speaker expected the listener not to have seen it.)
+- **Correct:** 이미 그 영화 봤어요.
+**Tip:** Use **이미** when the action is known or expected; use **벌써** when expressing surprise.
 ### Error Analysis
-**Common Mistake**: Using **이미** in the wrong time frame, such as in future contexts.
-- **Incorrect**: 나는 내일 이미 갈 거야. (I will already go tomorrow.)
-- **Correct**: 나는 내일 간다고 했어. (I said I would go tomorrow.)
-### Learning Strategies
-- Associate **이미** with events you’ve completed to remember its meaning.
-- Use it in daily conversations to solidify your understanding. 
+- **Avoid using 이미 for surprising news:**
+  - **Incorrect:** 이미 비가 오고 있어! (Surprised it's raining.)
+  - **Correct:** 벌써 비가 오고 있어!
+---
 ## 7. Summary and Review
 ### Key Takeaways
-- **이미** signifies that an action has already been completed.
-- It is important to distinguish it from **벌써**, which conveys urgency and surprise.
-- Using **이미** appropriately reflects cultural awareness and social norms in Korea.
+- **이미** means **"already"** and is used for known or expected actions.
+- It emphasizes that the event occurred before now and is not surprising.
+- Differentiate **이미** from **벌써**, which is used for unexpected information.
 ### Quick Recap Quiz
-1. What does **이미** mean in English?
-2. Compare **이미** and **벌써**; how are they different?
-3. Construct a sentence using **이미** in the past tense.
-Feel free to ask follow-up questions or for further examples!
+1. Fill in the blank: 그는 _____ 집에 도착했어요. (He already arrived home.)
+2. True or False: **이미** is used when expressing surprise.
+3. Choose the correct word: It's already too late! (이미 / 벌써)
+
+**Answers:**
+1. 이미
+2. False
+3. 벌써
+---
+# Practice Sentences
+Try translating these sentences using **이미**:
+1. I already finished my homework.
+2. She already left the office.
+3. They already know the truth.
+---
+Feel free to ask any questions or for further clarification on using **이미**!
+
+---
+© [Hanabira.org](https://hanabira.org)

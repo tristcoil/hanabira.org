@@ -1,70 +1,104 @@
 Processing keyword: ~남짓 [namjit] (About, or so)
 # Korean Grammar Point: ~남짓 [namjit] (About, or so)
-# Grammar Point: ~남짓 [namjit] (About, or so)
+
 ## 1. Introduction
-The Korean grammar point ~남짓 [namjit] is used to indicate an approximate quantity or amount. It translates to “about,” “approximately,” or “or so” in English and is often used when providing an estimation that is not exact.
+In this lesson, we will explore the Korean grammar point **~남짓** (*namjit*), which is used to express "about," "approximately," or "a little over" a certain quantity or amount. Understanding how to use **~남짓** will help you describe approximate quantities naturally in Korean conversations.
+
+---
 ## 2. Core Grammar Explanation
-### Detailed Explanation
-~남짓 is added to a numeral to give a rough estimate of quantity. It signifies that the amount mentioned is not precise but is close enough for general understanding.
-- **Structure:** 
-  - **[Number + 남짓]**
-  
-- **Meaning:** 
-  - Used to express an approximate number beyond a precise count.
-### Formation Diagram
-```plaintext
-[Number] + 남짓 → Approximate Quantity
+### Meaning
+**~남짓** indicates that something is **slightly more than** the specified quantity. It conveys an approximate amount that is a little over the mentioned figure.
+### Usage
+- **Placement**: Attach **~남짓** directly after nouns that denote quantities or measurements.
+- **Context**: Used to express approximations in numbers, time, length, weight, and other measurable quantities.
+### Structure
 ```
-**Example:** 
-- 3년 남짓 → About 3 years
-- 5일 남짓 → About 5 days
-### Visual Aid
-| Number | 남짓   | English Translation     |
-|--------|--------|-------------------------|
-| 2      | 남짓   | About 2 (or so)         |
-| 10     | 남짓   | About 10 (or so)        |
-| 150    | 남짓   | About 150 (or so)       |
+[Quantity Noun] + 남짓
+```
+### Formation Diagram
+```
+┌──────────────┐    ┌───────┐
+│ Quantity     │ +  │ 남짓   │
+│   Noun       │    │       │
+└──────────────┘    └───────┘
+```
+### Examples of Quantity Nouns
+- **숫자 (Numbers)**: 열 명 (ten people)
+- **시간 (Time)**: 한 시간 (one hour)
+- **거리 (Distance)**: 오 킬로미터 (five kilometers)
+- **무게 (Weight)**: 삼 킬로그램 (three kilograms)
+- **금액 (Amount)**: 십만 원 (100,000 won)
+---
 ## 3. Comparative Analysis
-~남짓 is similar to:
-- **~쯤 [jjeum]**: This also denotes an approximation but focuses more on time or acts.
-- **~정도 [jeongdo]**: This indicates a level or degree but is more flexible in its usage.
-**Differences:**
-1. **~남짓** is specifically used with counts or quantities, while ~쯤 and ~정도 have broader applications.
-2. **~남짓** often conveys a sense of entitlement to suggest a more casual approximation compared to the other forms.
+### Similar Grammar Points
+| Grammar Point | Usage                            | Nuance                             |
+|---------------|----------------------------------|------------------------------------|
+| **~정도**     | After nouns to mean "about"      | Neutral approximation              |
+| **~쯤**       | After nouns to mean "approximately" | Common in spoken language          |
+| **약~**       | Before nouns to mean "approximately" | More formal, often in writing      |
+| **~가량**     | After nouns to mean "approximately" | Formal, similar to **~정도**       |
+### Differences
+- **~남짓** implies the amount is **a little over** the specified quantity.
+- **~정도** and **~쯤** mean approximately, could be a little less or more.
+- **약~** is placed **before** the noun and is more formal.
+- **~가량** is similar to **~정도**, often used in formal contexts.
+---
 ## 4. Examples in Context
 ### Sentence Examples
-1. **Formal:**
-   - 이 프로젝트는 6개월 남짓 걸립니다.  
-     *(This project takes about 6 months.)*
-2. **Informal:**
-   - 친구는 20살 남짓이에요.  
-     *(My friend is about 20 years old.)*
-3. **Written:**
-   - 이 책은 400페이지 남짓 됩니다.  
-     *(This book is about 400 pages long.)*
-4. **Spoken:**
-   - 영화를 보고 2시간 남짓 됐어요.  
-     *(It’s been about 2 hours since we watched the movie.)*
+1. **참석자 수가 백 명 남짓이었어요.**
+   - *Chamseokja suga baek myeong namjitieosseoyo.*
+   - There were about 100 attendees.
+2. **회의는 두 시간 남짓 걸렸습니다.** *(Formal)*
+   - *Hoeineun du sigan namjit geollyeotsseumnida.*
+   - The meeting took about two hours.
+3. **그는 서른 살 남짓 되어 보여요.**
+   - *Geuneun seoreun sal namjit doeeo boyeoyo.*
+   - He looks to be around 30 years old.
+4. **집까지는 십 분 남짓 걸려요.**
+   - *Jipkkajineun sip bun namjit geollyeoyo.*
+   - It takes about 10 minutes to get home.
+5. **책값이 이만 원 남짓이에요.**
+   - *Chaekgabsi iman won namjisieyo.*
+   - The book costs about 20,000 won.
+### Context Variations
+- **Formal Writing**: Use in reports or formal announcements.
+- **Informal Speech**: Commonly used in daily conversations.
+---
 ## 5. Cultural Notes
 ### Cultural Relevance
-In Korean culture, estimation and approximation can show modesty and humility. Instead of providing exact numbers, people often use ~남짓 to convey a sense of approximation, which can soften statements and avoid sounding overly confident.
-### Idiomatic Expressions
-- 이젠 대부분 다 알고 있지만, 10년 남짓 했다고 할 수 있어요.  
-  *(I can say that it’s been about 10 years, even though I know most of it now.)*
+- In Korean culture, being precise with numbers can sometimes be considered rigid. Using expressions like **~남짓** adds a natural flow to conversations about quantities.
+- Koreans often use approximations in speech, and knowing **~남짓** helps in understanding and participating in such dialogues.
+### Levels of Politeness
+- **~남짓** itself does not carry a politeness level, but ensure that the rest of the sentence matches the appropriate level of formality.
+---
 ## 6. Common Mistakes and Tips
 ### Error Analysis
-- **Mistake:** Using ~남짓 with very precise numbers.  
-  *Correct Usage:* Use approximations (e.g., 2-3 years instead of exactly 2).
-  
+1. **Incorrect Placement**
+   - **Incorrect**: 남짓 열 명이 왔어요.
+   - **Correct**: 열 명 남짓이 왔어요.
+   - *Tip*: Attach **~남짓** after the quantity noun.
+2. **Using with Non-Quantifiable Nouns**
+   - **Incorrect**: 사과 남짓 먹었어요.
+   - **Correct**: 사과 한 개 남짓 먹었어요.
+   - *Tip*: Include a quantifier before using **~남짓**.
 ### Learning Strategies
-- **Mnemonic Device:** Remember that ~남짓 always implies an approximation, so think of it as “allowing a little wiggle room” in quantity.
+- **Mnemonic Device**: Remember that **남짓** sounds like "numb jit," think of "number just over."
+- **Practice with Numbers**: Create sentences using different quantities to become comfortable with placement.
+---
 ## 7. Summary and Review
 ### Key Takeaways
-- ~남짓 means “about” or “or so.”
-- It is used to express approximate amounts or quantities.
-- Use it with a numeral to convey a rough estimation.
+- **~남짓** is used after quantity nouns to express that the amount is slightly over the specified number.
+- It is versatile and can be used in both formal and informal contexts.
+- Remember to attach it directly after the quantity noun.
 ### Quick Recap Quiz
-1. How do you use ~남짓 in a sentence?
-2. What is the difference between ~남짓 and ~쯤?
-3. Why do Koreans often prefer to use approximations in conversation?
-By understanding and utilizing ~남짓, learners can accurately convey estimates in Korean, enhancing their conversational skills and cultural understanding.
+1. **Fill in the blank**: 오십 명 ___ 참석했어요. (*About 50 people attended.*)
+   - **Answer**: **남짓**
+2. **True or False**: **남짓** can be used before the noun it modifies.
+   - **Answer**: **False**
+3. **Correct the mistake**: 남짓 세 시간 걸렸어요.
+   - **Answer**: 세 시간 남짓 걸렸어요.
+---
+Now that you've learned how to use **~남짓**, try incorporating it into your daily Korean practice. Using natural approximations will make your Korean sound more fluent and native-like!
+
+---
+© [Hanabira.org](https://hanabira.org)
