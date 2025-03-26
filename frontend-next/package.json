@@ -17,7 +17,7 @@
     "@headlessui/react": "^1.7.17",
     "@heroicons/react": "^2.0.18",
     "@hookform/resolvers": "^3.9.1",
-    "@mozilla/readability": "^0.5.0",
+    "@mozilla/readability": "^0.6.0",
     "@mui/icons-material": "^5.14.13",
     "@mui/material": "^5.14.13",
     "@next/third-parties": "^15.0.1",
