@@ -1,4 +1,21 @@
 {
+  config ? {
+    ports = { };
+  },
+  ...
+}:
+let
+  ports =
+    config.ports or {
+      nginx = 65040;
+      frontend = 65041;
+      express = 65042;
+      flask = 65043;
+      dictionary = 65044;
+      mongo = 65045;
+    };
+in
+{
   description = "Hanabira.org - Japanese learning platform";
 
   imports = [
@@ -11,16 +28,6 @@
     ./modules/nginx.nix
     ./modules/devshell.nix
   ];
-
-  # Default ports configuration - matching system config
-  ports = {
-    nginx = 65040;
-    frontend = 65041;
-    express = 65042;
-    flask = 65043;
-    dictionary = 65044;
-    mongo = 65045;
-  };
 
   # Default to devshell
   default = {
