@@ -1,9 +1,8 @@
 {
-  imports = [
-    /etc/nixos/apps/hanabira
-  ];
+  name = "hanabira";
+  version = "0.1.0";
 
-  default = {
+  outputs = {
     devShell = import /etc/nixos/apps/hanabira/modules/devshell.nix {
       ports = {
         nginx = 65040;
