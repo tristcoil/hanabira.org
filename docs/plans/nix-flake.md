@@ -77,13 +77,35 @@ nix/
 
 ## Implementation Progress
 
-- [ ] Step 1: Create `nix/` directory structure
-- [ ] Step 2: Implement `modules/mongodb.nix`
-- [ ] Step 3: Implement `modules/backend/dictionary.nix`
-- [ ] Step 4: Implement `modules/backend/express.nix`
-- [ ] Step 5: Implement `modules/backend/flask.nix`
-- [ ] Step 6: Implement `modules/frontend-next.nix`
-- [ ] Step 7: Implement `modules/nginx.nix`
-- [ ] Step 8: Implement `modules/services.nix`
-- [ ] Step 9: Create `devshell.nix`
-- [ ] Step 10: Add configuration via Nix inputs + env vars
+- [x] Step 1: Create `nix/` directory structure
+- [x] Step 2: Implement `modules/mongodb.nix`
+- [x] Step 3: Implement `modules/backend/dictionary.nix`
+- [x] Step 4: Implement `modules/backend/express.nix`
+- [x] Step 5: Implement `modules/backend/flask.nix`
+- [x] Step 6: Implement `modules/frontend-next.nix`
+- [x] Step 7: Implement `modules/nginx.nix`
+- [x] Step 8: Create `nix/scripts/` with start-all.sh, wait-for-mongo.sh, config.env, seed-db.sh
+- [x] Step 9: Create `nix/modules/devshell.nix`
+- [x] Step 10: Add configuration via Nix inputs + env vars
+
+## Files Created
+
+```
+nix/
+  flake.nix                           # Main flake definition
+  modules/
+    config.nix                        # Port configuration
+    mongodb.nix                       # MongoDB service
+    frontend-next.nix                 # Next.js 14 with static build
+    devshell.nix                      # Development environment
+    backend/
+      express.nix                    # Express static DB
+      flask.nix                      # Flask user DB
+      dictionary.nix                 # Text parser with Japanese NLP
+    nginx.nix                         # Reverse proxy to all services
+  scripts/
+    start-all.sh                      # Service orchestration
+    seed-db.sh                        # Database seeding script
+    wait-for-mongo.sh                 # Wait script for service dependencies
+    config.env                        # Environment variable defaults
+```
