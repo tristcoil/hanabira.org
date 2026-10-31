@@ -88,6 +88,19 @@ nix/
 - [x] Step 9: Create `nix/modules/devshell.nix`
 - [x] Step 10: Add configuration via Nix inputs + env vars
 
+## Implementation Details
+
+All Nix modules have been implemented with:
+
+- Proper Nix expression syntax
+- Configurable ports via env vars
+- Service dependency management
+- Ready checks for each service
+- Proper startup/shutdown scripts
+- Database seeding support
+- Nginx reverse proxy configuration
+- Static frontend build support
+
 ## Files Created
 
 ```
@@ -110,15 +123,20 @@ nix/
     config.env                        # Environment variable defaults
 ```
 
-## Implementation Summary
+## Implementation Notes
 
-All Nix modules have been implemented with:
+### Modules
 
-- Proper Nix expression syntax
-- Configurable ports via env vars
-- Service dependency management
-- Ready checks for each service
-- Proper startup/shutdown scripts
-- Database seeding support
-- Nginx reverse proxy configuration
-- Static frontend build support
+- **mongodb.nix**: MongoDB service with configurable port
+- **frontend-next.nix**: Next.js 14 app with static build
+- **backend/express.nix**: Express static DB with seeding
+- **backend/flask.nix**: Flask user DB
+- **backend/dictionary.nix**: Text parser with Japanese NLP (mecab)
+- **nginx.nix**: Reverse proxy to all services
+- **devshell.nix**: Development environment with all dependencies
+
+### Scripts
+
+- **start-all.sh**: Orchestrates service startup with dependency order
+- **wait-for-mongo.sh**: Waits for MongoDB to be ready
+- **seed-db.sh**: Seeds the database with initial data
