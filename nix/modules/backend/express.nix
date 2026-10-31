@@ -1,16 +1,42 @@
-{ stdenv, mongodb, nodejs, writeShellScript, bash }:
+{
+  stdenv,
+  mongodb,
+  nodejs,
+  writeShellScript,
+  bash,
+  makeDirectory,
+}:
 
 {
   ports,
   dataDir ? "/tmp/mongodb",
-}: let
-  seedScript = writeShellScript "seed-express-db" ''
+}:
+{
+  name = "express-db";
+  version = "1.0";
+
+  executable = null;
+
+  startScript = writeShellScript "start-express-db" ''
     #!/bin/bash
     set -euo pipefail
-    
-    echo "Waiting for MongoDB..."
+
+    # Ensure data directory exists
+    mkdir -p ${dataDir}
+
+    # Start MongoDB if not running
+    if ! pgrep -q mongod; then
+      mongod --dbpath ${dataDir} \
+             --bind_ip_all \
+             --fork \
+             --logpath /var/log/mongodb/mongod.log \
+             --port ${toString ports.mongo}
+    fi
+
+    # Wait for MongoDB
     ${bash}/bin/bash ${./../scripts/wait-for-mongo.sh} ${toString ports.mongo}
-    
+
+    # Seed database
     echo "Seeding database with grammar, words, kanji, reading data..."
     node ./seeding_scripts/word_relationships_GPT.js
     sleep 2
@@ -23,32 +49,7 @@
     node ./seeding_scripts/seed_reading_to_db.js
     sleep 2
     node ./seeding_scripts/seed_grammar_to_db_other_langs.js
-    
-    echo "Express DB seeding completed"
-  '';
 
-  startScript = writeShellScript "start-express-db" ''
-    #!/bin/bash
-    set -euo pipefail
-    
-    # Ensure data directory exists
-    mkdir -p ${dataDir}
-    
-    # Start MongoDB if not running
-    if ! pgrep -q mongod; then
-      mongod --dbpath ${dataDir} \
-             --bind_ip_all \
-             --fork \
-             --logpath /var/log/mongodb/mongod.log \
-             --port ${toString ports.mongo}
-    fi
-    
-    # Wait for MongoDB
-    ${bash}/bin/bash ${./../scripts/wait-for-mongo.sh} ${toString ports.mongo}
-    
-    # Seed if not already seeded
-    ${seedScript}/bin/seed-express-db
-    
     # Start Express server
     echo "Starting Express DB server on port ${toString ports.express}..."
     node my_server.js
@@ -66,12 +67,4 @@
     set -euo pipefail
     curl -s http://localhost:${toString ports.express}/health &>/dev/null
   '';
-in {
-  name = "express-db";
-  version = "1.0";
-
-  executable = null;
-  startScript;
-  stopScript;
-  readyScript;
 }
