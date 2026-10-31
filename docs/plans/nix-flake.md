@@ -140,3 +140,57 @@ nix/
 - **start-all.sh**: Orchestrates service startup with dependency order
 - **wait-for-mongo.sh**: Waits for MongoDB to be ready
 - **seed-db.sh**: Seeds the database with initial data
+
+## Git Commits
+
+- `d7f4648`: Updated plan with completed implementation summary
+- `0ee9e05`: Fixed Nix module syntax and script paths
+- `b707877`: Simplified flake.nix with working devshell
+- `527b0dc`: Updated plan with progress
+- `4cce2af`: Updated AGENTS.md with Nix development instructions
+- `069eb21`: Updated plan with implementation details
+
+## Usage
+
+```bash
+# Enter development environment
+nix develop
+
+# Start all services
+./nix/scripts/start-all.sh
+
+# Stop all services
+./nix/scripts/start-all.sh stop
+
+# Check status
+./nix/scripts/start-all.sh status
+
+# Seed database
+./nix/scripts/seed-db.sh
+```
+
+Access Hanabira at http://localhost:8888
+
+## Configuration
+
+All services are configurable via environment variables:
+
+| Variable | Default | Description |
+|----------|---------|-------------|
+| NGINX_PORT | 8888 | Nginx port |
+| FRONTEND_PORT | 3000 | Frontend port |
+| EXPRESS_PORT | 8000 | Express backend port |
+| FLASK_PORT | 5100 | Flask backend port |
+| DICTIONARY_PORT | 5200 | Dictionary backend port |
+| MONGO_PORT | 27017 | MongoDB port |
+
+## Service Dependency Order
+
+Services are started in the following order:
+
+1. MongoDB
+2. Dictionary DB
+3. Express DB
+4. Flask DB
+5. Frontend
+6. Nginx (as reverse proxy)
