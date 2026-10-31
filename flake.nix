@@ -1,11 +1,6 @@
 {
-  config,
-  pkgs,
-  inputs,
-  ...
-}:
-{
-  # Import modules
+  description = "Hanabira.org - Japanese learning platform";
+
   imports = [
     ./modules/config.nix
     ./modules/mongodb.nix
@@ -17,14 +12,14 @@
     ./modules/devshell.nix
   ];
 
-  # Use ports from global config
+  # Default ports configuration - matching system config
   ports = {
-    nginx = config.global.ports.hanabira;
-    frontend = config.global.ports.hanabira-frontend;
-    express = config.global.ports.hanabira-express;
-    flask = config.global.ports.hanabira-flask;
-    dictionary = config.global.ports.hanabira-dictionary;
-    mongo = config.global.ports.hanabira-mongo;
+    nginx = 65040;
+    frontend = 65041;
+    express = 65042;
+    flask = 65043;
+    dictionary = 65044;
+    mongo = 65045;
   };
 
   # Default to devshell
