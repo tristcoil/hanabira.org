@@ -9,7 +9,7 @@ MAX_ATTEMPTS="${2:-30}"
 
 echo "Waiting for MongoDB on port ${PORT}..."
 
-for i in $(seq 1 ${MAX_ATTEMPTS}); do
+for _ in $(seq 1 ${MAX_ATTEMPTS}); do
 	if mongosh --port "${PORT}" --eval "db.adminCommand('ping')" &>/dev/null; then
 		echo "MongoDB is ready"
 		exit 0
