@@ -1,2 +1,16 @@
 user_db/
 prod/user_db/
+
+# Nix runtime artifacts (MongoDB data, service logs, pids, nginx.conf)
+/.nix/
+/result
+
+# Node / Next.js / Python build artifacts
+node_modules/
+.next/
+out/
+venv/
+__pycache__/
+
+# Generated config (copy from backend/dictionary/config.json.dummy)
+backend/dictionary/config.json
