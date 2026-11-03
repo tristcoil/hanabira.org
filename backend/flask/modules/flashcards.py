@@ -5,7 +5,7 @@ import requests
 from flask import request, jsonify
 from pymongo import MongoClient
 from datetime import datetime, timedelta
-from flask_pymongo import PyMongo, ObjectId
+from flask_pymongo import PyMongo
 
 
 # ----------------------------------------------------- #
