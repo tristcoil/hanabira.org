@@ -21,9 +21,12 @@ All services communicate via HTTP on these API endpoints:
 
 ## Development Setup
 
-### Nix Development Shell (Recommended)
+### Nix Development (Recommended)
 
-The repository includes a Nix flake for native development without Docker:
+The repository includes a Nix flake for native development without Docker.
+`nix develop` provides all tooling (Node.js 22, Python/Flask + gunicorn,
+MongoDB + mongosh, mecab, nginx); services are orchestrated by
+`./nix/scripts/start-all.sh`:
 
 ```bash
 # Enter development environment
@@ -38,7 +41,7 @@ nix develop
 # Check status
 ./nix/scripts/start-all.sh status
 
-# Seed database
+# Seed static data (idempotent, also runs automatically during start)
 ./nix/scripts/seed-db.sh
 ```
 
@@ -114,10 +117,13 @@ curl -X POST http://localhost:5200/d-api/v1/parse-simple \
 - Use `./nix/scripts/start-all.sh` to start all services with proper dependency order
 - Use `./nix/scripts/seed-db.sh` to seed the database
 - Use `./nix/scripts/wait-for-mongo.sh` to wait for MongoDB readiness
+- Runtime state (MongoDB data, logs, pids, nginx.conf) lives in `.nix/` and is safe to delete
+- Ports are configurable via `NGINX_PORT`, `FRONTEND_PORT`, `EXPRESS_PORT`, `FLASK_PORT`, `DICTIONARY_PORT`, `MONGO_PORT`
 
 ## Testing
 
 No automated tests exist in the repo. Test manually via API endpoints documented in `dev_notes.txt` files.
+`nix flake check` evaluates all flake outputs and shellchecks the orchestration scripts.
 
 ## Deploy to Production
 
@@ -126,10 +132,14 @@ No automated tests exist in the repo. Test manually via API endpoints documented
 3. Run `certbot --nginx` for Let's Encrypt certificate
 4. Deploy with `podman-compose -f docker-compose_prod.yml up -d`
 
+On a NixOS machine, deployment can instead use the flake's NixOS module
+(`hanabira.nixosModules.hanabira`) — see `nix/README.md` for details.
+
 ## Nix Development Notes
 
-The `nix/` directory contains the Nix flake implementation:
+The `nix/` directory contains the Nix implementation:
 
-- **nix/flake.nix**: Main flake definition
-- **nix/modules/**: Individual service modules (mongodb, nginx, etc.)
-- **nix/scripts/**: Helper scripts for service orchestration
+- **nix/devshell.nix**: `nix develop` development environment (all service tooling)
+- **nix/nixos/module.nix**: `services.hanabira` NixOS module for production (systemd services + nginx vhost)
+- **nix/scripts/**: Helper scripts for service orchestration and seeding
+- The root `flake.nix` wires everything together and provides a test VM (`nixos-rebuild build-vm --flake .#vm`)
