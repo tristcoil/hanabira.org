@@ -9,6 +9,12 @@
 # flask-db, frontend-next), automatic idempotent static-data seeding on
 # deployment, and an nginx virtual host that proxies the whole app.
 #
+# What the module is *about* - the processes, their directories, ports,
+# commands, nginx routes, option defaults - comes from ../services.nix, the
+# same description the dev shell and nix/scripts/*.sh use. The stack is
+# therefore defined in exactly one place, and this module only decides how
+# it runs under systemd.
+#
 # The flake source is copied to /var/lib/hanabira/src on activation; npm
 # dependencies and the Next.js production build are installed/built there on
 # first boot (so the host needs registry access once during deployment).
@@ -27,71 +33,70 @@
 }:
 let
   cfg = config.services.hanabira;
+  stack = import ../services.nix { inherit pkgs; };
 
   user = "hanabira";
-  siteDir = "/var/lib/hanabira/src";
-  dataDir = "/var/lib/hanabira/mongodb";
-  logDir = "/var/lib/hanabira/logs";
   stateDir = "/var/lib/hanabira";
-
-  # Flask backend: server.py + modules + gunicorn
-  pythonEnv = pkgs.python3.withPackages (
-    ps: with ps; [
-      flask
-      flask-cors
-      flask-pymongo
-      pymongo
-      requests
-      gunicorn
-    ]
-  );
-
-  nodePath = lib.makeBinPath [
-    pkgs.nodejs_22
-    pkgs.mecab # mecab binary used by the mecab-async npm package
-    pkgs.coreutils
-  ];
-
-  serviceEnv = [
-    "PATH=${nodePath}:/usr/bin:/bin"
-    "HOME=${stateDir}"
-    "NODE_ENV=production"
-  ];
-  mongoEnv = [
-    "PATH=${
-      lib.makeBinPath [
-        pkgs.nodejs_22
-        pkgs.mongosh
-        pkgs.coreutils
-      ]
-    }:/usr/bin:/bin"
-    "HOME=${stateDir}"
-  ];
+  siteDir = "${stateDir}/src";
+  dataDir = "${stateDir}/mongodb";
 
   useSSL = cfg.enableSSL && cfg.domain != "_";
 
-  # Retries mongosh until MongoDB answers (dependencies wait for it this way).
-  waitForMongo = pkgs.writeShellApplication {
-    name = "hanabira-wait-for-mongo";
-    runtimeInputs = [
-      pkgs.mongosh
-      pkgs.coreutils
+  # Working directory, then the port/PATH/env/pre-steps the module owns:
+  # every one of them is read off the service record in services.nix.
+  #
+  # argv: the {port}/{dataDir}/{logDir} placeholders are substituted here,
+  # because those locations belong to this deployment.
+  argvOf =
+    svc:
+    let
+      port = toString cfg.ports.${svc.name};
+    in
+    map (lib.replaceStrings [ "{port}" "{dataDir}" "{logDir}" ] [ port dataDir stateDir ]) svc.argv;
+
+  binaryOf = svc: stack.packageOf (stack.binaryOf svc);
+
+  execStartOf =
+    svc:
+    lib.escapeShellArgs ([ "${binaryOf svc}/bin/${stack.binaryOf svc}" ] ++ lib.drop 1 (argvOf svc));
+
+  environmentOf = svc: [
+    "PATH=${
+      lib.makeBinPath (
+        [
+          (binaryOf svc)
+          pkgs.coreutils
+        ]
+        ++ map (tool: stack.toolOf tool) (svc.needs or [ ])
+      )
+    }:/usr/bin:/bin"
+    "HOME=${stateDir}"
+    "NODE_ENV=production"
+    "PORT=${toString cfg.ports.${svc.name}}"
+  ];
+
+  # Shared by every unit: run as the service user, restart on failure, and
+  # confine writes to the state tree.
+  baseService = {
+    User = user;
+    Group = user;
+    Restart = "on-failure";
+    RestartSec = "5s";
+    NoNewPrivileges = true;
+    PrivateTmp = true;
+    ProtectSystem = "strict";
+    ProtectKernelTunables = true;
+    ProtectKernelModules = true;
+    ProtectControlGroups = true;
+    RestrictSUIDSGID = true;
+    ReadWritePaths = [
+      siteDir
+      dataDir
+      stateDir
     ];
-    text = ''
-      for _ in $(seq 1 60); do
-        if mongosh --quiet --port ${toString cfg.ports.mongo} \
-            --eval 'db.runCommand({ ping: 1 })' >/dev/null 2>&1; then
-          echo "MongoDB is ready"
-          exit 0
-        fi
-        sleep 1
-      done
-      echo "MongoDB did not become ready in time" >&2
-      exit 1
-    '';
   };
 
-  # Installs npm dependencies on first boot (node_modules survives activations).
+  # npm install on first boot (node_modules survives activations).
   ensureNodeModules =
     dir:
     pkgs.writeShellApplication {
@@ -109,38 +114,97 @@ let
       '';
     };
 
-  # backend/dictionary reads config.json (DEEPL/OpenAI keys) at startup.
-  ensureDictionaryConfig = pkgs.writeShellApplication {
-    name = "hanabira-ensure-dictionary-config";
-    runtimeInputs = [ pkgs.coreutils ];
-    text = ''
-      config="${siteDir}/backend/dictionary/config.json"
-      if [ ! -f "$config" ]; then
-        cp "${siteDir}/backend/dictionary/config.json.dummy" "$config"
-        echo "Created config.json from the dummy template - add your DEEPL/OpenAI keys there."
-      fi
-    '';
-  };
+  # A service's declared config file (e.g. config.json for DEEPL/OpenAI keys)
+  # is created from its .dummy template on first boot.
+  ensureConfig =
+    svc:
+    let
+      dir = "${siteDir}/${svc.dir}";
+      file = svc.config;
+    in
+    pkgs.writeShellApplication {
+      name = "hanabira-ensure-config";
+      runtimeInputs = [ pkgs.coreutils ];
+      text = ''
+        config="${dir}/${file}"
+        if [ ! -f "$config" ]; then
+          cp "${dir}/${file}.dummy" "$config"
+          echo "Created ${file} from its .dummy template for ${svc.description} - edit it to add this service's keys."
+        fi
+      '';
+    };
 
-  # Next.js production build on first deploy.
-  buildFrontend = pkgs.writeShellApplication {
-    name = "hanabira-build-frontend";
-    runtimeInputs = [
-      pkgs.nodejs_22
-      pkgs.coreutils
-    ];
-    text = ''
-      cd ${siteDir}/frontend-next
-      if [ ! -d .next ]; then
-        echo "Building production frontend (this takes a few minutes)..."
-        npm run build
-      fi
-    '';
-  };
+  # The production build a service declares (Next.js), run before it starts.
+  buildStep =
+    dir:
+    pkgs.writeShellApplication {
+      name = "hanabira-build";
+      runtimeInputs = [
+        pkgs.nodejs_22
+        pkgs.coreutils
+      ];
+      text = ''
+        cd ${dir}
+        if [ ! -d .next ]; then
+          echo "Building the production frontend (this takes a few minutes)..."
+          npm run build
+        fi
+      '';
+    };
+
+  # The stack's readiness check, run from the flake source rather than the
+  # deployed copy so it cannot go missing mid-activation.
+  waitForMongo = "${pkgs.bash}/bin/bash ${cfg.package}/nix/scripts/wait-for-mongo.sh";
+
+  # One systemd service per process in the stack description.
+  serviceUnits = map (svc: {
+    name = "hanabira-${svc.name}";
+    value = {
+      description = "Hanabira.org ${svc.description}";
+      after = [
+        "hanabira-mongod.service"
+      ]
+      ++ lib.optional cfg.seedStaticData "hanabira-seed-static-data.service";
+      wantedBy = [ "multi-user.target" ];
+      serviceConfig = baseService // {
+        WorkingDirectory = "${siteDir}/${svc.dir}";
+        Environment = environmentOf svc;
+        ExecStartPre = lib.flatten [
+          (lib.optional (svc.mongo or false) "${waitForMongo} ${toString cfg.ports.mongod}")
+          (lib.optional (svc.npm or false
+          ) "${ensureNodeModules "${siteDir}/${svc.dir}"}/bin/hanabira-npm-install")
+          (lib.optional (svc.config or null != null) "${ensureConfig svc}/bin/hanabira-ensure-config")
+          (lib.optional (svc.build or null != null) "${buildStep "${siteDir}/${svc.dir}"}/bin/hanabira-build")
+        ];
+        ExecStart = execStartOf svc;
+      };
+    };
+  }) stack.application;
+
+  # nginx routes: one location per service that declares a proxy prefix, all
+  # answering with the recommended proxy settings. The backends serve their
+  # own prefixed routes (/e-api/v1/, /f-api/v1/, /d-api/v1/), so the URI is
+  # forwarded unchanged.
+  nginxLocations = lib.listToAttrs (
+    map (
+      svc:
+      lib.nameValuePair svc.proxy {
+        proxyPass = "http://127.0.0.1:${toString cfg.ports.${svc.name}}";
+        proxyWebsockets = true;
+        recommendedProxySettings = true;
+      }
+    ) stack.proxied
+  );
 in
 {
   options.services.hanabira = {
     enable = lib.mkEnableOption "Hanabira.org stack (MongoDB + 3 backends + Next.js frontend behind nginx)";
+
+    package = lib.mkOption {
+      type = lib.types.package;
+      default = self;
+      description = "Source tree to deploy to /var/lib/hanabira/src. Defaults to this flake; override it to deploy a different checkout.";
+    };
 
     domain = lib.mkOption {
       type = lib.types.str;
@@ -166,38 +230,16 @@ in
       description = "Seed the static MongoDB data (grammar, kanji, reading, vocabulary; jmdict when the data dir is present) on every boot. Seeding is idempotent.";
     };
 
-    ports = {
-      nginx = lib.mkOption {
+    # One port option per process in nix/services.nix; the defaults come from
+    # there too, so the option list and the stack can never disagree.
+    ports = lib.mapAttrs (
+      name: svc:
+      lib.mkOption {
         type = lib.types.port;
-        default = 8888;
-        description = "nginx reverse proxy port (public entry point).";
-      };
-      frontend = lib.mkOption {
-        type = lib.types.port;
-        default = 3000;
-        description = "Next.js frontend port.";
-      };
-      express = lib.mkOption {
-        type = lib.types.port;
-        default = 8000;
-        description = "express-db static dictionary API port.";
-      };
-      flask = lib.mkOption {
-        type = lib.types.port;
-        default = 5100;
-        description = "flask-db user data API port.";
-      };
-      dictionary = lib.mkOption {
-        type = lib.types.port;
-        default = 5200;
-        description = "dictionary-db text parser API port.";
-      };
-      mongo = lib.mkOption {
-        type = lib.types.port;
-        default = 27017;
-        description = "MongoDB port (bound to localhost only).";
-      };
-    };
+        default = svc.port;
+        description = "Port for ${svc.description}.";
+      }
+    ) stack.byNameAttr;
   };
 
   config = lib.mkIf cfg.enable {
@@ -211,130 +253,63 @@ in
     users.groups.${user} = { };
 
     # Deploy a writable copy of the flake source (store paths are read-only).
-    # node_modules, .next and generated config.json are protected from deletion
-    # so activation never discards installed dependencies or builds.
+    # node_modules, .next and generated config.json are protected from
+    # deletion so activation never discards installed dependencies or builds.
     system.activationScripts.hanabira-src = lib.stringAfter [ "users" "groups" ] ''
       mkdir -p ${siteDir}
+      ${lib.concatStringsSep "\n" (
+        map (svc: ''
+          mkdir -p ${siteDir}/${svc.dir}
+          ${pkgs.rsync}/bin/rsync -a --delete \
+            --filter='P node_modules' --filter='P .next' --filter='P config.json' \
+            ${cfg.package}/${svc.dir}/ ${siteDir}/${svc.dir}/
+        '') stack.application
+      )}
       ${pkgs.rsync}/bin/rsync -a --delete \
-        --filter='P node_modules' --filter='P .next' --filter='P config.json' \
-        ${self}/backend/ ${siteDir}/backend/
-      ${pkgs.rsync}/bin/rsync -a --delete \
-        --filter='P node_modules' --filter='P .next' \
-        ${self}/frontend-next/ ${siteDir}/frontend-next/
-      ${pkgs.rsync}/bin/rsync -a --delete \
-        ${self}/nix/scripts/ ${siteDir}/nix/scripts/
+        ${cfg.package}/nix/scripts/ ${siteDir}/nix/scripts/
       chown -R ${user}:${user} ${siteDir}
-      mkdir -p ${dataDir} ${logDir}
-      chown -R ${user}:${user} ${dataDir} ${logDir}
+      mkdir -p ${dataDir}
+      chown -R ${user}:${user} ${dataDir}
     '';
 
-    systemd.services.hanabira-mongod = {
-      description = "Hanabira.org MongoDB (static + user data)";
-      wantedBy = [ "multi-user.target" ];
-      after = [ "network.target" ];
-      serviceConfig = {
-        User = user;
-        Group = user;
-        Restart = "on-failure";
-        RestartSec = "5s";
-        ExecStart = "${pkgs.mongodb-ce}/bin/mongod --dbpath ${dataDir} --bind_ip 127.0.0.1 --port ${toString cfg.ports.mongo}";
+    systemd.services = lib.listToAttrs serviceUnits // {
+      # MongoDB is the one service with no working directory in the tree.
+      hanabira-mongod = {
+        description = "Hanabira.org ${stack.byName "mongod".description}";
+        after = [ "network.target" ];
+        wantedBy = [ "multi-user.target" ];
+        serviceConfig = baseService // {
+          Environment = [ "HOME=${stateDir}" ];
+          ExecStart = execStartOf (stack.byName "mongod");
+        };
       };
-    };
 
-    # One-shot static data seeding (idempotent; jmdict skipped unless the
-    # jmdict_json_data_simplified dataset is present in the source tree).
-    systemd.services.hanabira-seed-static-data = lib.mkIf cfg.seedStaticData {
-      description = "Hanabira.org static data seeding";
-      after = [ "hanabira-mongod.service" ];
-      wantedBy = [ "multi-user.target" ];
-      serviceConfig = {
-        Type = "oneshot";
-        RemainAfterExit = true;
-        User = user;
-        Group = user;
-        Environment = mongoEnv ++ [ "MONGO_PORT=${toString cfg.ports.mongo}" ];
-        ExecStartPre = "${waitForMongo}/bin/hanabira-wait-for-mongo";
-        ExecStart = "${siteDir}/nix/scripts/seed-db.sh";
-      };
-    };
-
-    systemd.services.hanabira-dictionary-db = {
-      description = "Hanabira.org dictionary-db (text parser, Japanese NLP)";
-      after = [
-        "hanabira-mongod.service"
-      ]
-      ++ lib.optional cfg.seedStaticData "hanabira-seed-static-data.service";
-      wantedBy = [ "multi-user.target" ];
-      serviceConfig = {
-        User = user;
-        Group = user;
-        WorkingDirectory = "${siteDir}/backend/dictionary";
-        Environment = serviceEnv ++ [ "PORT=${toString cfg.ports.dictionary}" ];
-        ExecStartPre = [
-          "${waitForMongo}/bin/hanabira-wait-for-mongo"
-          "${ensureNodeModules "${siteDir}/backend/dictionary"}/bin/hanabira-npm-install"
-          "${ensureDictionaryConfig}/bin/hanabira-ensure-dictionary-config"
-        ];
-        ExecStart = "${pkgs.nodejs_22}/bin/node main_server.js";
-        Restart = "on-failure";
-      };
-    };
-
-    systemd.services.hanabira-express-db = {
-      description = "Hanabira.org express-db (static dictionary DB)";
-      after = [
-        "hanabira-mongod.service"
-      ]
-      ++ lib.optional cfg.seedStaticData "hanabira-seed-static-data.service";
-      wantedBy = [ "multi-user.target" ];
-      serviceConfig = {
-        User = user;
-        Group = user;
-        WorkingDirectory = "${siteDir}/backend/express";
-        Environment = serviceEnv ++ [ "PORT=${toString cfg.ports.express}" ];
-        ExecStartPre = [
-          "${waitForMongo}/bin/hanabira-wait-for-mongo"
-          "${ensureNodeModules "${siteDir}/backend/express"}/bin/hanabira-npm-install"
-        ];
-        ExecStart = "${pkgs.nodejs_22}/bin/node my_server.js";
-        Restart = "on-failure";
-      };
-    };
-
-    systemd.services.hanabira-flask = {
-      description = "Hanabira.org flask-db (user specific data)";
-      after = [ "hanabira-mongod.service" ];
-      wantedBy = [ "multi-user.target" ];
-      serviceConfig = {
-        User = user;
-        Group = user;
-        WorkingDirectory = "${siteDir}/backend/flask";
-        Environment = serviceEnv ++ [ "PORT=${toString cfg.ports.flask}" ];
-        ExecStartPre = "${waitForMongo}/bin/hanabira-wait-for-mongo";
-        ExecStart = "${pythonEnv}/bin/gunicorn -w 4 -b 0.0.0.0:${toString cfg.ports.flask} server:app";
-        Restart = "on-failure";
-      };
-    };
-
-    systemd.services.hanabira-frontend = {
-      description = "Hanabira.org frontend (Next.js production server)";
-      after = [
-        "hanabira-express-db.service"
-        "hanabira-flask.service"
-        "hanabira-dictionary-db.service"
-      ];
-      wantedBy = [ "multi-user.target" ];
-      serviceConfig = {
-        User = user;
-        Group = user;
-        WorkingDirectory = "${siteDir}/frontend-next";
-        Environment = serviceEnv ++ [ "PORT=${toString cfg.ports.frontend}" ];
-        ExecStartPre = [
-          "${ensureNodeModules "${siteDir}/frontend-next"}/bin/hanabira-npm-install"
-          "${buildFrontend}/bin/hanabira-build-frontend"
-        ];
-        ExecStart = "${pkgs.nodejs_22}/bin/node ${siteDir}/frontend-next/node_modules/next/dist/bin/next start -H 0.0.0.0 -p ${toString cfg.ports.frontend}";
-        Restart = "on-failure";
+      # One-shot static data seeding (idempotent; jmdict skipped unless the
+      # jmdict_json_data_simplified dataset is present in the source tree).
+      hanabira-seed-static-data = lib.mkIf cfg.seedStaticData {
+        description = "Hanabira.org static data seeding";
+        after = [ "hanabira-mongod.service" ];
+        wantedBy = [ "multi-user.target" ];
+        serviceConfig = baseService // {
+          Type = "oneshot";
+          RemainAfterExit = true;
+          Environment = [
+            "PATH=${
+              lib.makeBinPath [
+                pkgs.nodejs_22
+                pkgs.mongosh
+                pkgs.jq
+                pkgs.coreutils
+              ]
+            }:/usr/bin:/bin"
+            "HOME=${stateDir}"
+            "NODE_ENV=production"
+            "MONGO_PORT=${toString cfg.ports.mongod}"
+            "HANABIRA_SERVICES_JSON=${stack.json}"
+          ];
+          ExecStartPre = [ "${waitForMongo} ${toString cfg.ports.mongod}" ];
+          ExecStart = "${siteDir}/nix/scripts/seed-db.sh";
+        };
       };
     };
 
@@ -349,40 +324,7 @@ in
         ];
         forceSSL = useSSL;
         enableACME = useSSL;
-        locations = {
-          "/" = {
-            proxyPass = "http://127.0.0.1:${toString cfg.ports.frontend}";
-            proxyWebsockets = true;
-            extraConfig = ''
-              proxy_set_header X-Real-IP $remote_addr;
-              proxy_set_header X-Forwarded-For $proxy_add_x_forwarded_for;
-            '';
-          };
-          "/e-api/" = {
-            proxyPass = "http://127.0.0.1:${toString cfg.ports.express}/e-api/";
-            proxyWebsockets = true;
-            extraConfig = ''
-              proxy_set_header X-Real-IP $remote_addr;
-              proxy_set_header X-Forwarded-For $proxy_add_x_forwarded_for;
-            '';
-          };
-          "/f-api/" = {
-            proxyPass = "http://127.0.0.1:${toString cfg.ports.flask}/f-api/";
-            proxyWebsockets = true;
-            extraConfig = ''
-              proxy_set_header X-Real-IP $remote_addr;
-              proxy_set_header X-Forwarded-For $proxy_add_x_forwarded_for;
-            '';
-          };
-          "/d-api/" = {
-            proxyPass = "http://127.0.0.1:${toString cfg.ports.dictionary}/d-api/";
-            proxyWebsockets = true;
-            extraConfig = ''
-              proxy_set_header X-Real-IP $remote_addr;
-              proxy_set_header X-Forwarded-For $proxy_add_x_forwarded_for;
-            '';
-          };
-        };
+        locations = nginxLocations;
       };
     };
 
