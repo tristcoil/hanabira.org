@@ -114,16 +114,20 @@ curl -X POST http://localhost:5200/d-api/v1/parse-simple \
 
 - Use `nix develop` to enter the development environment
 - All dependencies (MongoDB, mecab, Node.js, Python) are pre-configured
-- Use `./nix/scripts/start-all.sh` to start all services with proper dependency order
-- Use `./nix/scripts/seed-db.sh` to seed the database
-- Use `./nix/scripts/wait-for-mongo.sh` to wait for MongoDB readiness
-- Runtime state (MongoDB data, logs, pids, nginx.conf) lives in `.nix/` and is safe to delete
-- Ports are configurable via `NGINX_PORT`, `FRONTEND_PORT`, `EXPRESS_PORT`, `FLASK_PORT`, `DICTIONARY_PORT`, `MONGO_PORT`
+- Use `hanabira start` (or `./nix/scripts/start-all.sh start`) to start all services with proper dependency order
+- Use `hanabira stop`, `hanabira status`, `hanabira logs [service] [-f]` to manage and inspect the running stack
+- Use `./nix/scripts/seed-db.sh` to seed the database (idempotent; runs as part of `start`)
+- Use `./nix/scripts/wait-for-mongo.sh` to wait for MongoDB readiness (also runs as each service's `ExecStartPre` in production)
+- Runtime state (MongoDB data, logs, pids, ports, nginx.conf) lives in `.nix/` and is safe to delete
+- Ports are configurable per service with `<SERVICE>_PORT=<port>` (e.g. `FRONTEND_PORT=3100 hanabira start`); `<SERVICE>_PORT` also feeds `status`, `stop` and the generated nginx config
+- Scripts must run from inside `nix develop` (they read the stack description the shell exports in `HANABIRA_SERVICES_JSON`)
 
 ## Testing
 
 No automated tests exist in the repo. Test manually via API endpoints documented in `dev_notes.txt` files.
-`nix flake check` evaluates all flake outputs and shellchecks the orchestration scripts.
+`nix flake check` evaluates all flake outputs, shellchecks the orchestration scripts, checks that the stack
+description in `nix/services.nix` matches the source tree, and asserts that the NixOS module generates the
+systemd units, nginx vhost and port options it describes.
 
 ## Deploy to Production
 
@@ -139,7 +143,10 @@ On a NixOS machine, deployment can instead use the flake's NixOS module
 
 The `nix/` directory contains the Nix implementation:
 
-- **nix/devshell.nix**: `nix develop` development environment (all service tooling)
-- **nix/nixos/module.nix**: `services.hanabira` NixOS module for production (systemd services + nginx vhost)
-- **nix/scripts/**: Helper scripts for service orchestration and seeding
+- **nix/services.nix**: the stack described once — processes, ports, directories, commands, nginx routes (the single source of truth)
+- **nix/devshell.nix**: `nix develop` development environment (all service tooling, plus the `hanabira` command)
+- **nix/python-env.nix**: Python environment for the flask backend (shared by the shell and the module)
+- **nix/nixos/module.nix**: `services.hanabira` NixOS module for production (systemd services + nginx vhost), generated from `nix/services.nix`
+- **nix/scripts/**: Helper scripts for service orchestration and seeding (they render `nix/services.nix` from `HANABIRA_SERVICES_JSON`; `hanabira-lib.sh` is their shared plumbing)
 - The root `flake.nix` wires everything together and provides a test VM (`nixos-rebuild build-vm --flake .#vm`)
+- See `nix/README.md` for the architecture and `nix/IMPLEMENTATION_NOTES.md` for the design decisions

@@ -9,6 +9,11 @@ The Nix support is split into two deliverables:
 2. **Production module** — `nixosModules.hanabira` runs the same stack under
    systemd on NixOS.
 
+Both read the same description of the stack (`nix/services.nix`). That file is
+the only place that says what the stack *is*; the dev shell, the shell scripts
+and the NixOS module are three adapters over it. Adding a service is one
+record in `services.nix` and all three sides follow.
+
 An earlier attempt modeled each service as an ad-hoc "module"
 (`nix/modules/*.nix` with callback args such as `stdenv.nodejs-20_x`,
 `writeShellScript`, `makeDirectory`) that was never wired into any module
@@ -18,38 +23,76 @@ plain processes managed by the shell scripts (dev) or plain systemd services
 
 ## Key design decisions
 
+- **One description, three adapters.** `nix/services.nix` lists the processes
+  with their directory, port, command, needs, readiness probe and nginx route.
+  The dev shell turns it into packages and environment; `start-all.sh` turns
+  it into processes (reading the JSON description the shell exports in
+  `HANABIRA_SERVICES_JSON`); the NixOS module turns it into systemd units,
+  the nginx vhost and the `services.hanabira` options. Nothing about the
+  stack is written down twice, so there is nothing to keep in sync.
 - **No service framework.** `nix develop` ships the toolchain and
   `start-all.sh` runs the services like the Dockerfile CMDs do. This mirrors
   the existing deployment model (podman-compose) with the least new code.
-- **Nix-managed Python.** The flask backend runs from
-  `python3.withPackages (flask, flask-cors, flask-pymongo, pymongo, requests,
-  gunicorn)` — no virtualenv to create or maintain.
-- **meCab from nixpkgs.** `pkgs.mecab` bundles the ipadic dictionary, so the
-  mecab binary (spawned by the `mecab-async` npm package) works out of the
-  box. No external dictionary downloads.
+- **Nix-managed Python.** The flask backend runs from `nix/python-env.nix`
+  (flask, flask-cors, flask-pymongo, pymongo, requests, gunicorn) — no
+  virtualenv to create or maintain, and one list for both the shell and the
+  module.
+- **One readiness check.** `nix/scripts/wait-for-mongo.sh` is the single
+  "is MongoDB up" implementation: start-all.sh reaches it through
+  `hanabira-lib.sh`, and the module runs it from each service's
+  `ExecStartPre`.
 - **Idempotent seeding.** `seed-db.sh` checks collection counts with mongosh
   before seeding and skips work that is already done; the JMDict dataset is
   not part of this repository, so dictionary seeding is skipped (with a
   message) when `backend/dictionary/jmdict_json_data_simplified` is absent.
+  It is shared verbatim between dev and production (the module's oneshot
+  service runs the copy deployed under `/var/lib/hanabira/src`).
 - **Project-local runtime state.** MongoDB data, service logs, pid files and
   the generated nginx config live in `.nix/` (git-ignored), never in
-  root-owned paths like `/var/log/mongodb`.
+  root-owned paths like `/var/log/mongodb`. `.nix/run/` also records the port
+  each service actually started on, so a later `status` reports the port an
+  earlier `<SERVICE>_PORT=<port> start` chose.
 - **Readiness over sleeps.** Services are only started once MongoDB answers
   a ping and each service is polled on its port before the next starts.
 - **Port configurability.** All services read their port from the
   environment (one-line patch in `backend/express/my_server.js`:
-  `process.env.PORT || 8000`); the devshell exports the defaults and both
-  the scripts and the NixOS module expose them as options.
+  `process.env.PORT || 8000`); the stack description holds the defaults and
+  both the scripts and the NixOS module expose them as options.
+- **Stopping is path-scoped.** pid files for what we started, plus a
+  working-directory scan for orphans; never a `pkill -f` pattern that could
+  match an unrelated process. The one exception is mongod, which is stopped
+  with a graceful shutdown followed by a match on the data directory from
+  its own resolved argv.
+- **Checks that assert the seams.** `nix flake check` shellchecks the
+  scripts, verifies the stack description against the source tree
+  (directories, `package.json`s, config templates, unique names/ports/
+  routes), and asserts that the NixOS module generates a unit per process, a
+  location per route and a port option per service.
 
 ## Files
 
 - `flake.nix` — root flake: `devShells`, `formatter`, `checks`, the NixOS
   module and the test VM configuration
+- `nix/services.nix` — the stack, described once (single source of truth)
+- `nix/python-env.nix` — flask backend Python environment
 - `nix/devshell.nix` — the development shell definition
+- `nix/cli.nix` — the `hanabira` command (inside `nix develop`)
 - `nix/nixos/module.nix` — `services.hanabira` NixOS module
+- `nix/scripts/hanabira-lib.sh` — shared helpers: reads the description,
+  probes readiness, pid/cwd helpers
 - `nix/scripts/start-all.sh` — full-stack orchestration (start/stop/restart/
   status/logs)
 - `nix/scripts/seed-db.sh` — shared, idempotent seeding (dev + production)
-- `nix/scripts/wait-for-mongo.sh` — MongoDB readiness helper
+- `nix/scripts/wait-for-mongo.sh` — the one MongoDB readiness helper
 - `.gitignore` — ignores `.nix/`, `node_modules/`, `.next/`, `venv/` and the
   generated `backend/dictionary/config.json`
+
+## Known rough edges
+
+- On nix 2.34, argument-less `nix fmt` passes the formatter an empty file
+  list and formats nothing; use `nix fmt nix/ flake.nix`.
+- The dev scripts need the dev shell (they read `HANABIRA_SERVICES_JSON` and
+  expect mongod/node/gunicorn on PATH); running them from a Nix store copy
+  fails loudly with that message instead of operating on the store.
+- `nix flake check` evaluates the NixOS module but does not build the test VM
+  (`nixos-rebuild build-vm --flake .#vm` does that).
