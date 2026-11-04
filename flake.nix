@@ -32,6 +32,12 @@
               "mongodb-ce"
             ];
         };
+        lib = nixpkgs.lib;
+
+        # The stack, defined once. The dev shell, the shell scripts and the
+        # NixOS module all render this (see nix/services.nix); the checks
+        # below keep that description honest.
+        stack = import ./nix/services.nix { inherit pkgs; };
       in
       {
         # nix develop -> shell with all tooling for every service
@@ -47,7 +53,7 @@
         checks = {
           devShell = self.devShells.${system}.default;
 
-          # shellcheck all orchestration scripts
+          # shellcheck the orchestration scripts (lib included)
           scripts =
             pkgs.runCommand "hanabira-scripts-check"
               {
@@ -56,6 +62,79 @@
               ''
                 shellcheck --severity=warning ${./nix/scripts}/*.sh
                 mkdir -p "$out"
+              '';
+
+          # The stack description stays true: unique names, ports and routes,
+          # and every directory, package.json and config template it
+          # references exists in the source tree.
+          stack =
+            pkgs.runCommandLocal "hanabira-stack-check"
+              {
+                nativeBuildInputs = [ pkgs.jq ];
+              }
+              ''
+                table=${stack.json}
+                jq -e '
+                  (map(.name) | length) == (map(.name) | unique | length) and
+                  (map(.port) | length) == (map(.port) | unique | length) and
+                  (map(select(.proxy != null) | .proxy) | length)
+                    == (map(select(.proxy != null) | .proxy) | unique | length) and
+                  (all(.[]; .proxy == null or (.proxy | startswith("/") and endswith("/")))) and
+                  (all(.[]; .name != "" and .description != "" and (.port | type == "number")))
+                ' "$table" > /dev/null ||
+                  { echo "stack invariants failed: names, ports and routes must be unique"; exit 1; }
+
+                checked=0
+                while read -r rel; do
+                  [ -e "${self}/$rel" ] ||
+                    { echo "stack table references a missing path: $rel"; exit 1; }
+                  checked=$((checked + 1))
+                done < <(jq -r '
+                  .[] |
+                    (.dir // empty),
+                    (select(.npm == true) | "\(.dir)/package.json"),
+                    (select(.config != null) | "\(.dir)/\(.config).dummy")
+                ' "$table")
+                [ "$checked" -ge 4 ] ||
+                  { echo "expected the stack table to reference at least 4 paths, checked $checked"; exit 1; }
+
+                mkdir -p "$out"
+              '';
+
+          # The NixOS module evaluates and generates what the stack describes:
+          # one systemd unit per process, one nginx location per proxy prefix,
+          # one port option per service.
+          module =
+            let
+              vm = self.nixosConfigurations.vm;
+              generated = pkgs.writeText "hanabira-module.json" (
+                builtins.toJSON {
+                  units = lib.mapAttrs (name: unit: {
+                    ExecStart = unit.serviceConfig.ExecStart or null;
+                    ExecStartPre = unit.serviceConfig.ExecStartPre or null;
+                  }) (lib.filterAttrs (name: _: lib.hasPrefix "hanabira-" name) vm.config.systemd.services);
+                  locations = lib.mapAttrs (_: loc: loc.proxyPass or null) (
+                    vm.config.services.nginx.virtualHosts.${vm.config.services.hanabira.domain}.locations
+                  );
+                  ports = vm.config.services.hanabira.ports;
+                  user = vm.config.users.users.hanabira.name;
+                }
+              );
+            in
+            pkgs.runCommandLocal "hanabira-module-eval"
+              {
+                nativeBuildInputs = [ pkgs.jq ];
+              }
+              ''
+                install -Dm644 ${generated} "$out/module.json"
+                jq -e '
+                  (.user == "hanabira")
+                  and ([.units | keys[] | select(startswith("hanabira-"))] | length) >= 5
+                  and (.locations | keys | sort) == ["/", "/d-api/", "/e-api/", "/f-api/"]
+                  and ([.ports | keys[]] | sort)
+                    == ["dictionary", "express", "flask", "frontend", "mongod", "nginx"]
+                ' "$out/module.json" > /dev/null ||
+                  { echo "the module did not generate the expected units, vhost or port options"; exit 1; }
               '';
         };
       }
@@ -88,4 +167,5 @@
         ];
       };
     };
+
 }
