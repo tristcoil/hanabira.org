@@ -47,13 +47,31 @@
         # SSPL, so the unfree predicate above allows it).
         packages.mongodb-ce = pkgs.mongodb-ce;
 
-        # nix fmt
-        formatter = pkgs.nixfmt;
+        # nix fmt. nix 2.34 invokes the formatter with no file list (it then
+        # reads stdin and formats nothing), so the wrapper discovers the
+        # repository's Nix files itself; when nix does forward files it passes
+        # them straight through.
+        formatter = pkgs.writeShellApplication {
+          name = "nixfmt-wrapper";
+          runtimeInputs = [ pkgs.nixfmt ];
+          text = ''
+            if [ "$#" -eq 0 ]; then
+              files="$(git ls-files --cached --others --exclude-standard -- '*.nix' 2>/dev/null || true)"
+              if [ -z "$files" ]; then
+                files="$(find . -name '*.nix' -not -path '*/.*' -not -path '*/node_modules/*' | sort)"
+              fi
+              # shellcheck disable=SC2086
+              set -- $files
+            fi
+            [ "$#" -gt 0 ] || { echo "no Nix files to format" >&2; exit 1; }
+            exec nixfmt "$@"
+          '';
+        };
 
         checks = {
           devShell = self.devShells.${system}.default;
 
-          # shellcheck the orchestration scripts (lib included)
+          # shellcheck the orchestration scripts (lib and contract test included)
           scripts =
             pkgs.runCommand "hanabira-scripts-check"
               {
