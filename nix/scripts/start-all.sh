@@ -439,4 +439,8 @@ main() {
 	esac
 }
 
-main "$@"
+# Only run when executed: sourcing this file (from the contract check in the
+# flake) gives the test the functions above without starting anything.
+if [ "${BASH_SOURCE[0]}" = "${0}" ]; then
+	main "$@"
+fi

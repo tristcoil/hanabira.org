@@ -101,6 +101,35 @@
                 mkdir -p "$out"
               '';
 
+          # The description → processes contract, exercised without booting the
+          # stack: port precedence, argv substitution, log and route naming,
+          # the status/logs surface and the guards. Same test a developer runs
+          # from `nix develop`, so it is covered by the shellcheck check too.
+          script-contract =
+            pkgs.runCommandLocal "hanabira-script-contract"
+              {
+                # The tools a dev shell provides, so the scripts' own
+                # preconditions hold and the checks run the same path a
+                # developer does.
+                nativeBuildInputs = [
+                  pkgs.jq
+                  pkgs.curl
+                  pkgs.mongosh
+                  pkgs.git
+                  pkgs.nodejs_22
+                  (stack.packageOf "gunicorn")
+                  self.packages.${system}.mongodb-ce
+                ];
+              }
+              ''
+                export HANABIRA_SERVICES_JSON=${stack.json}
+                export HOME="$PWD"   # mongosh expects a writable home
+                # Started through bash: a build sandbox has no /usr/bin/env for
+                # the script's shebang.
+                ${pkgs.bash}/bin/bash ${self}/nix/scripts/contract-test.sh
+                mkdir -p "$out"
+              '';
+
           # The NixOS module evaluates and generates what the stack describes:
           # one systemd unit per process, one nginx location per proxy prefix,
           # one port option per service.
@@ -109,7 +138,11 @@
               vm = self.nixosConfigurations.vm;
               generated = pkgs.writeText "hanabira-module.json" (
                 builtins.toJSON {
+                  # Description is forced too: a unit's metadata evaluates
+                  # lazily, so an error in it only appears when something
+                  # builds the system (that has bitten here).
                   units = lib.mapAttrs (name: unit: {
+                    description = unit.description or null;
                     ExecStart = unit.serviceConfig.ExecStart or null;
                     ExecStartPre = unit.serviceConfig.ExecStartPre or null;
                   }) (lib.filterAttrs (name: _: lib.hasPrefix "hanabira-" name) vm.config.systemd.services);
