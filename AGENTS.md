@@ -125,9 +125,11 @@ curl -X POST http://localhost:5200/d-api/v1/parse-simple \
 ## Testing
 
 No automated tests exist in the repo. Test manually via API endpoints documented in `dev_notes.txt` files.
-`nix flake check` evaluates all flake outputs, shellchecks the orchestration scripts, checks that the stack
-description in `nix/services.nix` matches the source tree, and asserts that the NixOS module generates the
-systemd units, nginx vhost and port options it describes.
+`nix flake check` evaluates all flake outputs, shellchecks the orchestration scripts, runs the
+description → processes contract test (`nix/scripts/contract-test.sh`), checks that the stack description in
+`nix/services.nix` matches the source tree, and asserts that the NixOS module generates the systemd units,
+nginx vhost and port options it describes. CI (`.github/workflows/nix.yml`) additionally builds the test VM's
+system closure and asserts its shape.
 
 ## Deploy to Production
 

@@ -275,7 +275,7 @@ in
     systemd.services = lib.listToAttrs serviceUnits // {
       # MongoDB is the one service with no working directory in the tree.
       hanabira-mongod = {
-        description = "Hanabira.org ${stack.byName "mongod".description}";
+        description = "Hanabira.org ${(stack.byName "mongod").description}";
         after = [ "network.target" ];
         wantedBy = [ "multi-user.target" ];
         serviceConfig = baseService // {

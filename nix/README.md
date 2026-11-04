@@ -154,13 +154,42 @@ nixos-rebuild build-vm --flake .#vm
 
 ```bash
 nix flake check       # evaluate all outputs; test the stack description and
-                      # the generated module; shellcheck the scripts
-nix fmt nix/ flake.nix # format Nix files (nixfmt, RFC style)
+                      # the generated module; shellcheck the scripts; run the
+                      # description → processes contract test
+./nix/scripts/contract-test.sh   # that contract test, by hand (fast, no stack)
+nix fmt               # format Nix files (nixfmt, RFC style)
 ```
 
-Note: on nix 2.34 the argument-less `nix fmt` invokes the formatter with an
-empty file list and formats nothing, so pass the files (directories are
-accepted and expanded).
+`nix flake check` runs four kinds of assertion:
+
+1. the scripts shellcheck clean,
+2. the stack description references no missing directories, `package.json`
+   files or config templates, and its names/ports/routes are unique,
+3. the scripts honour what the description says — port precedence
+   (override > recorded > description), argv substitution, log and route
+   naming, the status/logs surface — without starting anything,
+4. the NixOS module generates a systemd unit per process, an nginx location
+   per route and a port option per service.
+
+Note: on nix 2.34 the argument-less `nix fmt` used to invoke the formatter
+with an empty file list (it read stdin and formatted nothing), so the flake
+ships a small wrapper that discovers the repository's Nix files itself and
+passes them through when nix does forward some.
+
+## CI
+
+`.github/workflows/nix.yml` runs on pushes and pull requests:
+
+- **validate** — `nix flake show --all-systems` (every output evaluates on
+  every declared system), `nix flake check`, and `nix fmt` must be a no-op.
+- **vm** — builds the system closure `nixosConfigurations.vm` produces and
+  asserts its shape: one systemd unit per service, MongoDB bound to
+  localhost with the module's data directory, the frontend unit installing
+  and building before it starts, and the nginx vhost routing every API
+  prefix. Then builds the bootable VM image, which is what
+  `nixos-rebuild build-vm --flake .#vm` and `./result/bin/run-hanabira-vm`
+  use locally. This is the job that catches production regressions before
+  a deploy.
 
 `nix flake check` runs the meaningful assertions: the stack description
 references no missing directories, `package.json` files or config templates;

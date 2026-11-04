@@ -66,8 +66,23 @@ plain processes managed by the shell scripts (dev) or plain systemd services
 - **Checks that assert the seams.** `nix flake check` shellchecks the
   scripts, verifies the stack description against the source tree
   (directories, `package.json`s, config templates, unique names/ports/
-  routes), and asserts that the NixOS module generates a unit per process, a
-  location per route and a port option per service.
+  routes), runs the description → processes contract test, and asserts that
+  the NixOS module generates a unit per process, a location per route and a
+  port option per service.
+- **Test the contract where it is used.** `nix/scripts/contract-test.sh`
+  exercises what the scripts do with the description — port precedence,
+  argv substitution, log and route naming, the status/logs surface, the
+  guards — without booting anything. It runs in `nix flake check` with the
+  tools a dev shell provides, and by hand from `nix develop`, so it is
+  covered by the same shellcheck and stays fast.
+- **CI covers what `nix flake check` cannot.** `.github/workflows/nix.yml`
+  builds the VM's system closure and asserts its shape (unit per service,
+  mongodb bound to localhost, the frontend unit installing/building before
+  it starts, the vhost routing every prefix), then builds the bootable VM
+  image. That is where lazy evaluation mistakes in unit metadata surface:
+  `stack.byName "mongod".description` parses as `stack.byName
+  ("mongod".description)` and only fails when something forces it, so the
+  module check forces every unit's `description` too.
 
 ## Files
 
@@ -80,19 +95,24 @@ plain processes managed by the shell scripts (dev) or plain systemd services
 - `nix/nixos/module.nix` — `services.hanabira` NixOS module
 - `nix/scripts/hanabira-lib.sh` — shared helpers: reads the description,
   probes readiness, pid/cwd helpers
+- `nix/scripts/contract-test.sh` — the description → processes contract test
 - `nix/scripts/start-all.sh` — full-stack orchestration (start/stop/restart/
   status/logs)
 - `nix/scripts/seed-db.sh` — shared, idempotent seeding (dev + production)
 - `nix/scripts/wait-for-mongo.sh` — the one MongoDB readiness helper
+- `.github/workflows/nix.yml` — CI: checks on every system, formatting, and
+  the VM build
 - `.gitignore` — ignores `.nix/`, `node_modules/`, `.next/`, `venv/` and the
   generated `backend/dictionary/config.json`
 
 ## Known rough edges
 
-- On nix 2.34, argument-less `nix fmt` passes the formatter an empty file
-  list and formats nothing; use `nix fmt nix/ flake.nix`.
 - The dev scripts need the dev shell (they read `HANABIRA_SERVICES_JSON` and
   expect mongod/node/gunicorn on PATH); running them from a Nix store copy
   fails loudly with that message instead of operating on the store.
-- `nix flake check` evaluates the NixOS module but does not build the test VM
-  (`nixos-rebuild build-vm --flake .#vm` does that).
+- The VM closure build is deliberately not a `nix flake check` (it is ~GB of
+  system closure); CI does it, and locally
+  `nixos-rebuild build-vm --flake .#vm` does the same.
+- Nothing boots the VM automatically yet, so the module's systemd wiring is
+  asserted from the built closure rather than exercised at runtime; the
+  contract test covers the dev path instead.
