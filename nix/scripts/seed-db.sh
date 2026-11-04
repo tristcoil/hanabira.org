@@ -2,7 +2,12 @@
 # Seed the Hanabira MongoDB databases with the static data.
 #
 # Idempotent: collections that already contain documents are never re-seeded.
-# Requires a running MongoDB on MONGO_PORT (default 27017).
+# Requires a running MongoDB (on MONGO_PORT; start it with
+# ./nix/scripts/start-all.sh start).
+#
+# Shared by the dev scripts and the NixOS hanabira-seed-static-data service,
+# which also sets HANABIRA_SERVICES_JSON (the stack description from
+# nix/services.nix that this script reads directories from).
 #
 #   dictionary-db -> jmdictDatabase.entries          (jmdict data, from
 #                   backend/dictionary/jmdict_json_data_simplified, which is
@@ -13,24 +18,18 @@
 set -euo pipefail
 
 SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
-ROOT_DIR="${SCRIPT_DIR}/../.."
+# shellcheck source=hanabira-lib.sh
+source "${SCRIPT_DIR}/hanabira-lib.sh"
 
-MONGO_PORT="${MONGO_PORT:-27017}"
+export HANABIRA_LOG_TAG="seed"
 
-log() {
-	echo "[seed $(date '+%H:%M:%S')] $*"
-}
-
-die() {
-	echo "[seed ERROR] $*" >&2
-	exit 1
-}
+require_stack
 
 # Number of documents in db.collection, 0 when missing or unreachable.
 mongo_count() {
 	local value
-	value="$(mongosh --quiet --port "${MONGO_PORT}" \
-		--eval "db.getSiblingDB('${1}').getCollection('${2}').countDocuments({})" \
+	value="$(mongosh --quiet --port "$(mongo_port)" \
+		--eval "db.getSiblingDB('$1').getCollection('$2').countDocuments({})" \
 		2>/dev/null | tr -d '[:space:]')" || value=""
 	if [[ "${value}" =~ ^[0-9]+$ ]]; then
 		echo "${value}"
@@ -39,13 +38,10 @@ mongo_count() {
 	fi
 }
 
-mongo_is_up() {
-	mongosh --quiet --port "${MONGO_PORT}" --eval "db.runCommand({ ping: 1 })" &>/dev/null
-}
-
 # Seed jmdict dictionary data (dictionary-db).
 seed_dictionary() {
-	local count dir="${ROOT_DIR}/backend/dictionary"
+	local count dir
+	dir="${ROOT_DIR}/$(stack_field dictionary dir)"
 	count="$(mongo_count jmdictDatabase entries)"
 	if [ "${count}" -gt 0 ]; then
 		log "jmdict: already seeded (${count} entries) - skipping"
@@ -65,7 +61,8 @@ seed_dictionary() {
 # Seed static grammar / kanji / reading / vocabulary data (express-db),
 # mirroring backend/express/seed_db_wrapper.sh.
 seed_express() {
-	local dir="${ROOT_DIR}/backend/express" seeded=0 coll
+	local dir seeded=0 coll
+	dir="${ROOT_DIR}/$(stack_field express dir)"
 	for coll in grammars kanji reading tanoswords; do
 		if [ "$(mongo_count zenRelationshipsAutomated "${coll}")" -gt 0 ]; then
 			seeded=1
@@ -93,7 +90,7 @@ seed_express() {
 main() {
 	command -v mongosh >/dev/null 2>&1 || die "'mongosh' not found - run this from 'nix develop'"
 	command -v node >/dev/null 2>&1 || die "'node' not found - run this from 'nix develop'"
-	mongo_is_up || die "MongoDB is not running on port ${MONGO_PORT}. Start it with ./nix/scripts/start-all.sh"
+	mongo_is_up || die "MongoDB is not running on port $(mongo_port). Start it with ./nix/scripts/start-all.sh"
 
 	seed_dictionary
 	seed_express
