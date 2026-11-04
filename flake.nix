@@ -210,7 +210,9 @@
           "${nixpkgs}/nixos/modules/virtualisation/qemu-vm.nix"
           {
             services.hanabira.enable = true;
-            networking.hostName = "hanabira-vm";
+            # hostName becomes the runner script's name (run-<hostName>-vm),
+            # so keep it here: result/bin/run-hanabira-vm.
+            networking.hostName = "hanabira";
             # Smaller footprint for a test VM
             documentation.enable = false;
             virtualisation.memorySize = 2048;
