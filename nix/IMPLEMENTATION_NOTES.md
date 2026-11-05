@@ -113,6 +113,35 @@ plain processes managed by the shell scripts (dev) or plain systemd services
 - The VM closure build is deliberately not a `nix flake check` (it is ~GB of
   system closure); CI does it, and locally
   `nixos-rebuild build-vm --flake .#vm` does the same.
-- Nothing boots the VM automatically yet, so the module's systemd wiring is
-  asserted from the built closure rather than exercised at runtime; the
-  contract test covers the dev path instead.
+- The VM's disk and memory have to be sized for a real deploy: 1 GB starves
+  the install, and below 2 GB the kernel OOM-kills `next build`. The flake's
+  VM configuration uses 8 GB and 4 GB accordingly.
+
+## What only a boot test can tell you
+
+`nix flake check` evaluates the module, and the VM closure build proves it
+assembles, but neither runs the deployed stack. Booting the test VM (locally
+with KVM, in CI as a scheduled/dispatch job) caught five bugs that all three
+earlier checks passed over:
+
+1. **`nix/scripts` was never deployed.** rsync creates only the last path
+   component, so `mkdir ${siteDir}/nix/scripts` failed and the seeding unit
+   could never run.
+2. **The deployed tree was read-only.** `rsync -a` copies the store's modes,
+   leaving every directory at 555, so `npm install` could not create
+   `node_modules` ("the operation was rejected by your operating system").
+3. **The seeding unit could not find `bash`.** It was executed directly, and
+   its shebang (`#!/usr/bin/env bash`) needs bash on the unit's PATH, which
+   never contained it; the unit now runs the script through bash explicitly.
+4. **The start timeout killed first-boot work.** systemd's 90 s default ends
+   `ExecStartPre`, so npm install and `next build` were terminated mid-way
+   and the units restarted forever against a partial tree.
+5. **The frontend could never build.** The units set `NODE_ENV=production`,
+   which makes npm omit devDependencies - where postcss, tailwindcss and
+   autoprefixer live - so `next build` failed with
+   `Cannot find module 'autoprefixer'`.
+
+Two design rules follow from them: interrupted work must be repairable
+(install and build are re-run rather than skipped when a directory merely
+exists), and the deployment has to leave the tree writable. Both are covered
+by the ci(nix) boot smoke test, which is the check that keeps this honest.

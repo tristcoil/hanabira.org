@@ -133,6 +133,20 @@ What the module does:
 - needs outbound network access (npm registry) on first boot per service,
   for `npm install` / `next build`.
 
+Host requirements the first boot makes clear:
+
+- **RAM**: the frontend's production build peaks above 2 GB (a 2 GB test VM
+  gets OOM-killed mid-build, leaving a `.next` directory without a
+  `BUILD_ID`). Give the host at least 4 GB.
+- **Start time**: seeding, both npm installs and the build together take
+  several minutes, so the units run with `TimeoutStartSec = 30min` rather
+  than systemd's 90 s default - which kills them mid-install and leaves
+  them restarting forever.
+- **devDependencies**: the services run with `NODE_ENV=production`, under
+  which npm omits devDependencies - and the frontend's build toolchain
+  (postcss, tailwindcss, autoprefixer) lives there. The install step is run
+  with `--include=dev` for that reason.
+
 The module's options and units are generated from `services.nix`; the useful
 ones to know:
 
