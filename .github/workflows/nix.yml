@@ -130,11 +130,19 @@ jobs:
   # only check that catches activation bugs: rsync creating paths, deployed
   # file modes, the start timeout, npm's devDependencies and OOM-killed
   # builds were all only visible here.
+  # The structural job above asserts what the module generates; this one
+  # boots the image and asserts that the stack actually comes up. It is the
+  # only check that catches activation bugs: rsync creating paths, deployed
+  # file modes, the start timeout, npm's devDependencies and OOM-killed
+  # builds were all only visible here.
   boot-smoke:
     name: boot the VM and probe the stack
     runs-on: ubuntu-latest
     if: github.event_name == 'workflow_dispatch' || github.event_name == 'schedule'
-    timeout-minutes: 75
+    # The image prefers KVM and falls back to TCG, so the same build runs
+    # either way - but a whole first boot (seed + two installs + a Next.js
+    # build) under emulation takes a long time. Budgeted for the slow case.
+    timeout-minutes: 150
     steps:
       - uses: actions/checkout@v4
 
@@ -157,7 +165,7 @@ jobs:
       # build and nginx all have to finish before the vhost answers.
       - name: Wait for the stack to serve
         run: |
-          for attempt in $(seq 1 60); do
+          for attempt in $(seq 1 150); do
             code="$(curl -s -o /dev/null -m 5 -w '%{http_code}' http://localhost:8888/ || echo 000)"
             if [ "$code" = "200" ]; then
               echo "the stack served http://localhost:8888/ after $attempt probes"
@@ -165,8 +173,8 @@ jobs:
             fi
             sleep 30
           done
-          echo "the stack did not come up in 30 minutes; VM log tail:" >&2
-          tail -40 /tmp/vm.log >&2
+          echo "the stack did not come up in 75 minutes; VM log tail:" >&2
+          tail -60 /tmp/vm.log >&2
           exit 1
 
       - name: The vhost routes the frontend and the APIs
