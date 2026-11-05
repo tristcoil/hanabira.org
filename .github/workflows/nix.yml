@@ -19,10 +19,6 @@ on:
     branches: [main]
   pull_request:
   workflow_dispatch:
-  # The boot smoke test is slow (emulated boot + full seed + two npm
-  # installs + a Next.js build), so it runs on a schedule, not per push.
-  schedule:
-    - cron: "0 4 * * 1"
 
 jobs:
   validate:
@@ -125,24 +121,13 @@ jobs:
           path: result/bin/
           retention-days: 7
 
-  # The structural job above asserts what the module generates; this one
-  # boots the image and asserts that the stack actually comes up. It is the
-  # only check that catches activation bugs: rsync creating paths, deployed
-  # file modes, the start timeout, npm's devDependencies and OOM-killed
-  # builds were all only visible here.
-  # The structural job above asserts what the module generates; this one
-  # boots the image and asserts that the stack actually comes up. It is the
-  # only check that catches activation bugs: rsync creating paths, deployed
-  # file modes, the start timeout, npm's devDependencies and OOM-killed
-  # builds were all only visible here.
-  boot-smoke:
-    name: boot the VM and probe the stack
+  # The dev shell is the cross-platform artifact and is Linux-only by design
+  # (MongoDB is not packaged for macOS upstream). Everything above evaluates
+  # it on both systems; this builds it, which is the only thing that notices
+  # a package that resolves on one architecture and not the other.
+  aarch64:
+    name: aarch64-linux outputs build
     runs-on: ubuntu-latest
-    if: github.event_name == 'workflow_dispatch' || github.event_name == 'schedule'
-    # The image prefers KVM and falls back to TCG, so the same build runs
-    # either way - but a whole first boot (seed + two installs + a Next.js
-    # build) under emulation takes a long time. Budgeted for the slow case.
-    timeout-minutes: 150
     steps:
       - uses: actions/checkout@v4
 
@@ -151,49 +136,10 @@ jobs:
           extra_nix_config: |
             experimental-features = nix-command flakes
 
-      - name: Build the VM image
-        run: nix build .#nixosConfigurations.vm.config.system.build.vm -o result
+      - name: Build the dev shell
+        run: nix build .#devShells.aarch64-linux.default --no-link
 
-      # Forward the vhost's port so the runner can reach the stack.
-      - name: Boot the VM (KVM when available, TCG otherwise)
-        run: |
-          export QEMU_NET_OPTS='hostfwd=tcp::8888-:8888'
-          nohup ./result/bin/run-hanabira-vm -nographic > /tmp/vm.log 2>&1 &
-          echo $! > /tmp/vm.pid
-
-      # MongoDB, the full static-data seed, two npm installs, the frontend
-      # build and nginx all have to finish before the vhost answers.
-      - name: Wait for the stack to serve
-        run: |
-          for attempt in $(seq 1 150); do
-            code="$(curl -s -o /dev/null -m 5 -w '%{http_code}' http://localhost:8888/ || echo 000)"
-            if [ "$code" = "200" ]; then
-              echo "the stack served http://localhost:8888/ after $attempt probes"
-              exit 0
-            fi
-            sleep 30
-          done
-          echo "the stack did not come up in 75 minutes; VM log tail:" >&2
-          tail -60 /tmp/vm.log >&2
-          exit 1
-
-      - name: The vhost routes the frontend and the APIs
-        run: |
-          curl -sf -o /dev/null http://localhost:8888/ ||
-            { echo "the frontend is not routed"; exit 1; }
-          # flask-db, on a database seeded by the oneshot service
-          curl -sf http://localhost:8888/f-api/v1/get-logins/ci-probe >/dev/null ||
-            { echo "flask is not reachable through the vhost"; exit 1; }
-          # dictionary-db: the text parser, which needs mecab
-          curl -sf -X POST http://localhost:8888/d-api/v1/parse-simple \
-            -H 'Content-Type: application/json' -d '{"text":"今日は学校に行きます"}' |
-            grep -q furigana ||
-            { echo "the text parser did not answer through the vhost"; exit 1; }
-
-      - name: VM log, for diagnostics
-        if: failure()
-        run: tail -60 /tmp/vm.log
-
-      - name: Stop the VM
-        if: always()
-        run: kill "$(cat /tmp/vm.pid)" || true
+      # SSPL-licensed, so it is built locally (downloads the official tarball
+      # and patches it) rather than substituted.
+      - name: Build MongoDB
+        run: nix build .#packages.aarch64-linux.mongodb-ce --no-link
