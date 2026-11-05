@@ -106,11 +106,14 @@ resolve_argv() {
 	ARGV=("${ARGV[@]//\{runDir\}/${RUN_DIR}}")
 }
 
+# npm install for a service directory, run every time - the NixOS module does
+# the same for the same reason: idempotent and fast off the cache, so it costs
+# little when warm, and an install that was interrupted leaves node_modules
+# present but incomplete, which a presence check would skip repairing forever.
 ensure_node_modules() { # name dir
 	local logfile="${LOG_DIR}/npm-$1.log"
-	[ -d "$2/node_modules" ] && return 0
-	log "installing npm dependencies for $1 (first run, please wait)..."
-	(cd "$2" && npm install --no-audit --no-fund) >>"${logfile}" 2>&1 || {
+	log "installing npm dependencies for $1..."
+	(cd "$2" && npm install --prefer-offline --include=dev --no-audit --no-fund) >>"${logfile}" 2>&1 || {
 		tail -n 20 "${logfile}" >&2
 		die "npm install failed for $1 (see ${logfile})"
 	}
