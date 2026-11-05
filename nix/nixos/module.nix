@@ -82,6 +82,11 @@ let
     Group = user;
     Restart = "on-failure";
     RestartSec = "5s";
+    # A first boot installs npm dependencies, seeds the databases and builds
+    # the frontend - all far beyond systemd's 90s default start timeout, which
+    # would kill the units mid-install and let them restart forever with a
+    # partial node_modules.
+    TimeoutStartSec = "30min";
     NoNewPrivileges = true;
     PrivateTmp = true;
     ProtectSystem = "strict";
@@ -96,7 +101,12 @@ let
     ];
   };
 
-  # npm install on first boot (node_modules survives activations).
+  # npm install for a service directory. Always run (idempotent, and mostly
+  # served from the cache with --prefer-offline): an install that was
+  # interrupted leaves node_modules present but incomplete, and a presence
+  # check would skip repairing it forever. node_modules and .next survive
+  # activations through the rsync protect filters, so this is cheap on a warm
+  # system and self-healing on a cold one.
   ensureNodeModules =
     dir:
     pkgs.writeShellApplication {
@@ -107,10 +117,8 @@ let
       ];
       text = ''
         cd ${dir}
-        if [ ! -d node_modules ]; then
-          echo "Installing npm dependencies for ${dir} (needs network access)..."
-          npm install --no-audit --no-fund
-        fi
+        echo "Installing npm dependencies for ${dir}..."
+        npm install --prefer-offline --include=dev --no-audit --no-fund
       '';
     };
 
@@ -145,10 +153,8 @@ let
       ];
       text = ''
         cd ${dir}
-        if [ ! -d .next ]; then
-          echo "Building the production frontend (this takes a few minutes)..."
-          npm run build
-        fi
+        echo "Building the production frontend (this takes a few minutes)..."
+        npm run build
       '';
     };
 
@@ -255,8 +261,16 @@ in
     # Deploy a writable copy of the flake source (store paths are read-only).
     # node_modules, .next and generated config.json are protected from
     # deletion so activation never discards installed dependencies or builds.
+    # Two things only a real boot will teach you:
+    #   - rsync creates only the last path component, so nix/scripts (two
+    #     levels below the site directory) needs its parent first;
+    #   - rsync -a also copies the store's read-only modes, which leaves the
+    #     deployed directories at 555 and npm install unable to create
+    #     node_modules ("the operation was rejected by your operating system").
+    # Both are handled below, and both are exercised by the boot test.
     system.activationScripts.hanabira-src = lib.stringAfter [ "users" "groups" ] ''
       mkdir -p ${siteDir}
+      mkdir -p ${siteDir}/nix
       ${lib.concatStringsSep "\n" (
         map (svc: ''
           mkdir -p ${siteDir}/${svc.dir}
@@ -267,6 +281,7 @@ in
       )}
       ${pkgs.rsync}/bin/rsync -a --delete \
         ${cfg.package}/nix/scripts/ ${siteDir}/nix/scripts/
+      chmod -R u+w ${siteDir}
       chown -R ${user}:${user} ${siteDir}
       mkdir -p ${dataDir}
       chown -R ${user}:${user} ${dataDir}
@@ -308,7 +323,10 @@ in
             "HANABIRA_SERVICES_JSON=${stack.json}"
           ];
           ExecStartPre = [ "${waitForMongo} ${toString cfg.ports.mongod}" ];
-          ExecStart = "${siteDir}/nix/scripts/seed-db.sh";
+          # Run through bash: the script's shebang is #!/usr/bin/env bash, and
+          # bash is not on this unit's PATH (the same reason waitForMongo is
+          # invoked explicitly).
+          ExecStart = "${pkgs.bash}/bin/bash ${siteDir}/nix/scripts/seed-db.sh";
         };
       };
     };

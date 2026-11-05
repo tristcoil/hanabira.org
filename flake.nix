@@ -215,7 +215,15 @@
             networking.hostName = "hanabira";
             # Smaller footprint for a test VM
             documentation.enable = false;
-            virtualisation.memorySize = 2048;
+            # The frontend's production build peaks above 2GB; at 2048M the
+            # kernel OOM-kills `next build` and the frontend never starts.
+            virtualisation.memorySize = 4096;
+            # node_modules + the Next.js build + a fully seeded MongoDB all
+            # live on this disk; 1GB leaves the install starved.
+            virtualisation.diskSize = 8192;
+            # Lets a boot test (and anyone running the VM) get a shell on the
+            # serial console without a password.
+            services.getty.autologinUser = "root";
           }
         ];
       };
