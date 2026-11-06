@@ -127,7 +127,10 @@ jobs:
   # a package that resolves on one architecture and not the other.
   aarch64:
     name: aarch64-linux outputs build
-    runs-on: ubuntu-latest
+    # Needs an actual arm64 runner: an x86_64 one cannot build aarch64
+    # derivations at all (platform mismatch), even for a writeText. GitHub
+    # provides arm images for public repositories.
+    runs-on: ubuntu-24.04-arm
     steps:
       - uses: actions/checkout@v7
 
