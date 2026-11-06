@@ -19,10 +19,11 @@ jobs:
     name: boot the VM and probe the stack
     runs-on: ubuntu-latest
     # The image prefers KVM and falls back to TCG, so the same build runs
-    # either way - but a whole first boot (seed + two installs + a Next.js
-    # build) under emulation takes a long time. Budgeted for the slow case:
-    # the emulated run measured here took roughly three times the KVM one.
-    timeout-minutes: 150
+    # either way - but the difference is large, and it was measured, not
+    # guessed: with KVM a whole first boot is ~20 minutes; under emulation
+    # (TCG) it was still running after 65, with the frontend build alone past
+    # 40. Budgeted for the slow case, since a standard runner has no KVM.
+    timeout-minutes: 180
     steps:
       - uses: actions/checkout@v7
 
@@ -45,7 +46,7 @@ jobs:
       # build and nginx all have to finish before the vhost answers.
       - name: Wait for the stack to serve
         run: |
-          for attempt in $(seq 1 150); do
+          for attempt in $(seq 1 300); do
             code="$(curl -s -o /dev/null -m 5 -w '%{http_code}' http://localhost:8888/ || echo 000)"
             if [ "$code" = "200" ]; then
               echo "the stack served http://localhost:8888/ after $attempt probes"
@@ -53,7 +54,7 @@ jobs:
             fi
             sleep 30
           done
-          echo "the stack did not come up in 75 minutes; VM log tail:" >&2
+          echo "the stack did not come up in 150 minutes; VM log tail:" >&2
           tail -60 /tmp/vm.log >&2
           exit 1
 
