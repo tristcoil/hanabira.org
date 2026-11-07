@@ -113,9 +113,10 @@ let
   # npm install for a service directory. Always run (idempotent, and mostly
   # served from the cache with --prefer-offline): an install that was
   # interrupted leaves node_modules present but incomplete, and a presence
-  # check would skip repairing it forever. node_modules and .next survive
-  # activations through the rsync protect filters, so this is cheap on a warm
-  # system and self-healing on a cold one.
+  # check would skip repairing it forever. node_modules survives activations
+  # because the deployment excludes it from the transfer, which rsync also
+  # treats as a protection against `--delete`; .next does not survive, because
+  # a build output must be regenerated from the source it was built from.
   ensureNodeModules =
     dir:
     pkgs.writeShellApplication {
@@ -181,6 +182,13 @@ let
       ]
       ++ lib.optional cfg.seedStaticData "hanabira-seed-static-data.service";
       wantedBy = [ "multi-user.target" ];
+      # The deployed tree is this unit's input, so it must restart when the
+      # tree changes - otherwise a running process keeps serving (and a
+      # running Next.js keeps refusing to serve) a state the deployment no
+      # longer matches. The package is a store path, so this lands in the
+      # unit file as X-Restart-Triggers and makes the unit text change, which
+      # is what NixOS's restartIfChanged acts on.
+      restartTriggers = [ cfg.package ];
       serviceConfig = baseService // {
         WorkingDirectory = "${siteDir}/${svc.dir}";
         Environment = environmentOf svc;
@@ -277,8 +285,6 @@ in
     users.groups.${user} = { };
 
     # Deploy a writable copy of the flake source (store paths are read-only).
-    # node_modules, .next and generated config.json are protected from
-    # deletion so activation never discards installed dependencies or builds.
     # Two things only a real boot will teach you:
     #   - rsync creates only the last path component, so nix/scripts (two
     #     levels below the site directory) needs its parent first;
@@ -286,6 +292,25 @@ in
     #     deployed directories at 555 and npm install unable to create
     #     node_modules ("the operation was rejected by your operating system").
     # Both are handled below, and both are exercised by the boot test.
+    #
+    # What the deployment may *overwrite* deserves the same care, because the
+    # flake source is not always just source. A flake that pins this repository
+    # as a `path:` input copies the tree as it stands, .gitignore and all, so a
+    # developer's local .next (562MB here) and node_modules travel into the
+    # store and back out over this machine's own. That is not a cosmetic
+    # problem: `next start` reads .next/static once, at startup, and serves
+    # only the asset paths it saw, while the HTML it renders comes from the
+    # manifests on disk. Overwrite .next under a running server and the page
+    # comes back asking for chunks that server refuses to serve - the page
+    # renders, nothing hydrates, and every button, dropdown and toggle is
+    # dead. That is exactly what happened.
+    #
+    # So: node_modules and the generated config.json are excluded from the
+    # transfer, and excluding them also exempts them from `--delete`, so the
+    # copies this machine owns are neither pushed in nor thrown away. .next is
+    # excluded too, and then removed outright, because a build output from
+    # another tree must never be served here - `hanabira-build` regenerates it
+    # on the next start, from the source that is actually deployed.
     system.activationScripts.hanabira-src = lib.stringAfter [ "users" "groups" ] ''
       mkdir -p ${siteDir}
       mkdir -p ${siteDir}/nix
@@ -293,12 +318,24 @@ in
         map (svc: ''
           mkdir -p ${siteDir}/${svc.dir}
           ${pkgs.rsync}/bin/rsync -a --delete \
-            --filter='P node_modules' --filter='P .next' --filter='P config.json' \
+            --filter='- node_modules' --filter='P node_modules' \
+            --filter='- config.json' --filter='P config.json' \
+            --filter='- .next' \
             ${cfg.package}/${svc.dir}/ ${siteDir}/${svc.dir}/
         '') stack.application
       )}
       ${pkgs.rsync}/bin/rsync -a --delete \
         ${cfg.package}/nix/scripts/ ${siteDir}/nix/scripts/
+      ${lib.concatStringsSep "\n" (
+        # Only a service that declares a build has a build output to drop;
+        # everything else owns no derived state.
+        map (
+          svc:
+          lib.optionalString (svc.build or null != null) ''
+            rm -rf ${siteDir}/${svc.dir}/.next
+          ''
+        ) stack.application
+      )}
       chmod -R u+w ${siteDir}
       chown -R ${user}:${user} ${siteDir}
       mkdir -p ${dataDir}

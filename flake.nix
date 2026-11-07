@@ -196,6 +196,12 @@
                   }
                 ];
               };
+              # The units whose directory the deployment owns: every one of them
+              # must restart when the tree changes, or a running process ends
+              # up serving a build the deployment no longer matches.
+              appUnits = lib.filterAttrs (
+                name: _: lib.elem name (map (svc: "hanabira-${svc.name}") stack.application)
+              ) vm.config.systemd.services;
               generated = pkgs.writeText "hanabira-module.json" (
                 builtins.toJSON {
                   # Description is forced too: a unit's metadata evaluates
@@ -218,6 +224,12 @@
                   unitsWithoutVhost = lib.length (
                     lib.filter (name: lib.hasPrefix "hanabira-" name) (lib.attrNames noVhost.config.systemd.services)
                   );
+                  # Deployment: the deployed tree is each unit's input, so a new
+                  # deployment restarts them (else the running server's cached
+                  # view of .next drifts from the manifests it renders from).
+                  unitsRestartOnDeploy = lib.all (
+                    unit: (unit.restartTriggers or [ ]) == [ vm.config.services.hanabira.package ]
+                  ) (lib.attrValues appUnits);
                 }
               );
             in
@@ -239,8 +251,13 @@
                   and (.nginx == true)
                   and (.nginxOff == false)
                   and (.unitsWithoutVhost >= 5)
+                  # A deployment that outlives its services leaves them running
+                  # a build the tree no longer matches - the frontend then
+                  # serves a page that asks for assets its running server has
+                  # never seen, and nothing hydrates.
+                  and (.unitsRestartOnDeploy == true)
                 ' "$out/module.json" > /dev/null ||
-                  { echo "the module did not generate the expected units, vhost or port options"; exit 1; }
+                  { echo "the module did not generate the expected units, vhost, port options or restart triggers"; exit 1; }
               '';
         };
       }

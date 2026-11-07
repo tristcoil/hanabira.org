@@ -122,8 +122,9 @@ The flake exposes a NixOS module that runs the whole stack under systemd:
 What the module does:
 
 - creates the `hanabira` system user and deploys a writable copy of the
-  source tree to `/var/lib/hanabira/src` on every activation (npm
-  dependencies, `node_modules` and `.next` survive activations),
+  source tree to `/var/lib/hanabira/src` on every activation (`node_modules`
+  and a generated `config.json` survive; `.next` is dropped and rebuilt,
+  because a build output must match the source it was built from),
 - runs one systemd service per service, in dependency order, with MongoDB
   bound to localhost only,
 - runs the static-data seeding once per boot as a oneshot service
@@ -193,6 +194,28 @@ reused from the store rather than re-read: `nixos-rebuild` then reports
 nothing to do while deploying the stale copy. Run
 `nix flake update <input-name>` in the deploying flake after changing
 anything here.
+
+That same `path:` input also ignores `.gitignore`, so whatever is sitting in
+the tree - `frontend-next/.next`, `node_modules`, anything else a build left
+behind - is copied into the store and deployed. Build artifacts here are over
+half a gigabyte, and a `node_modules` copied from a machine with a different
+platform breaks npm. Keep them out of the tree you deploy from; the module
+excludes them from the deployment itself, but they still make every
+`nix flake update` (and every store copy) pay for them.
+
+**Why the deployment excludes what it excludes.** The flake source is not
+always just source, so the deployment must not let it overwrite state this
+machine owns: `node_modules` and a generated `config.json` are neither copied
+in nor deleted, and `.next` is removed outright so `hanabira-build`
+regenerates it. `rsync --filter='P <path>'` alone does *not* do this - it
+protects the receiving copy from deletion but still copies the sender's over
+it, which is how a developer's local `.next` reached the server and broke a
+running site: `next start` reads `.next/static` once at startup and serves
+only the asset paths it saw, so a `.next` replaced under a running server
+leaves the page asking for assets that server refuses to serve - it renders,
+nothing hydrates, and every button is dead. The services also carry
+`restartTriggers = [ cfg.package ]`, so a new deployment restarts them instead
+of letting a running process outlive its own source.
 
 ## Test VM
 
