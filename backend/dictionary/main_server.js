@@ -84,7 +84,9 @@ fs.readFile("kanjidic/kanjidic2.json", "utf8", (err, data) => {
 //});
 
 // Connect to MongoDB
-mongoose.connect("mongodb://localhost:27017/jmdictDatabase");
+const mongoHost = process.env.MONGO_HOST || "localhost";
+const mongoPort = process.env.MONGO_PORT || 27017;
+mongoose.connect("mongodb://" + mongoHost + ":" + mongoPort + "/jmdictDatabase");
 
 // Define the schema and model
 const entrySchema = new mongoose.Schema(

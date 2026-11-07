@@ -2,12 +2,13 @@ import logging
 from flask import request, jsonify
 from pymongo import MongoClient
 from bson.objectid import ObjectId
+import os
 
 
 class LibraryTexts:
     def __init__(self):
         # Connect to MongoDB and the "library" database
-        self.client = MongoClient("mongodb://localhost:27017/")
+        self.client = MongoClient(f"mongodb://{os.environ.get('MONGO_HOST', 'localhost')}:{os.environ.get('MONGO_PORT', '27017')}/")
         self.db = self.client["library"]
 
         # texts, videos collections

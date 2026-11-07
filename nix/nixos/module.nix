@@ -60,20 +60,27 @@ let
     svc:
     lib.escapeShellArgs ([ "${binaryOf svc}/bin/${stack.binaryOf svc}" ] ++ lib.drop 1 (argvOf svc));
 
-  environmentOf = svc: [
-    "PATH=${
-      lib.makeBinPath (
-        [
-          (binaryOf svc)
-          pkgs.coreutils
-        ]
-        ++ map (tool: stack.toolOf tool) (svc.needs or [ ])
-      )
-    }:/usr/bin:/bin"
-    "HOME=${stateDir}"
-    "NODE_ENV=production"
-    "PORT=${toString cfg.ports.${svc.name}}"
-  ];
+  environmentOf =
+    svc:
+    [
+      "PATH=${
+        lib.makeBinPath (
+          [
+            (binaryOf svc)
+            pkgs.coreutils
+          ]
+          ++ map (tool: stack.toolOf tool) (svc.needs or [ ])
+        )
+      }:/usr/bin:/bin"
+      "HOME=${stateDir}"
+      "NODE_ENV=production"
+      "PORT=${toString cfg.ports.${svc.name}}"
+    ]
+    # Services that talk to MongoDB get its coordinates: the applications used
+    # to hardcode localhost:27017, which silently broke any install whose
+    # MongoDB port is not the default.
+    ++ lib.optional (svc.mongo or false) "MONGO_HOST=127.0.0.1"
+    ++ lib.optional (svc.mongo or false) "MONGO_PORT=${toString cfg.ports.mongod}";
 
   # Shared by every unit: run as the service user, restart on failure, and
   # confine writes to the state tree.
@@ -319,6 +326,7 @@ in
             }:/usr/bin:/bin"
             "HOME=${stateDir}"
             "NODE_ENV=production"
+            "MONGO_HOST=127.0.0.1"
             "MONGO_PORT=${toString cfg.ports.mongod}"
             "HANABIRA_SERVICES_JSON=${stack.json}"
           ];

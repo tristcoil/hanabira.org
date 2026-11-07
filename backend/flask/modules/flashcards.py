@@ -86,11 +86,11 @@ class FlashcardModule:
 
         # Initialize PyMongo
         mongo_flaskFlashcardDB = PyMongo(
-            app, uri="mongodb://localhost:27017/flaskFlashcardDB"
+            app, uri=f"mongodb://{os.environ.get('MONGO_HOST', 'localhost')}:{os.environ.get('MONGO_PORT', '27017')}/flaskFlashcardDB"
         )
 
         # Set up the MongoDB connection for flashcardDB
-        client = MongoClient("mongodb://localhost:27017/")
+        client = MongoClient(f"mongodb://{os.environ.get('MONGO_HOST', 'localhost')}:{os.environ.get('MONGO_PORT', '27017')}/")
         flashcard_db = client["flaskFlashcardDB"]
 
         # ---------------------------------- Global vars ----------------------------------------------

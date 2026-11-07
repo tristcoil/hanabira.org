@@ -2,7 +2,9 @@ const mongoose = require('mongoose');
 const fs = require('fs');
 const path = require('path');
 
-const mongoDB = 'mongodb://localhost:27017/jmdictDatabase';
+const mongoHost = process.env.MONGO_HOST || 'localhost';
+const mongoPort = process.env.MONGO_PORT || 27017;
+const mongoDB = 'mongodb://' + mongoHost + ':' + mongoPort + '/jmdictDatabase';
 console.log("Attempting to connect to MongoDB...");
 mongoose.connect(mongoDB).then(() => {
   console.log('Connected to the database successfully.');

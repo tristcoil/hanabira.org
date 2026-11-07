@@ -6,7 +6,9 @@ const fs = require("fs"); // Import the fs module to read files
 const app = express();
 
 // Connect to MongoDB
-mongoose.connect("mongodb://localhost:27017/zenRelationshipsAutomated", {
+const mongoHost = process.env.MONGO_HOST || "localhost";
+const mongoPort = process.env.MONGO_PORT || 27017;
+mongoose.connect("mongodb://" + mongoHost + ":" + mongoPort + "/zenRelationshipsAutomated", {
   useNewUrlParser: true,
   useUnifiedTopology: true,
 });

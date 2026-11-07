@@ -3,12 +3,13 @@ from datetime import datetime
 from flask import request, jsonify
 from pymongo import MongoClient
 from bson.objectid import ObjectId  # Add this line
+import os
 
 
 class SentenceMiningModule:
     def __init__(self):
         # Setup MongoDB connection for sentence mining
-        self.client = MongoClient("mongodb://localhost:27017/")
+        self.client = MongoClient(f"mongodb://{os.environ.get('MONGO_HOST', 'localhost')}:{os.environ.get('MONGO_PORT', '27017')}/")
         self.sentence_mining_db = self.client["sentenceMining"]
         self.vocabulary_collection = self.sentence_mining_db["vocabulary"]
 

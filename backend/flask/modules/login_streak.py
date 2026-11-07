@@ -3,12 +3,13 @@ from pymongo import MongoClient
 from bson.objectid import ObjectId
 from datetime import datetime, timedelta
 import logging
+import os
 
 
 class LoginStreak:
     def __init__(self):
         # Set up MongoDB connection for logins
-        self.client_l = MongoClient("mongodb://localhost:27017/")
+        self.client_l = MongoClient(f"mongodb://{os.environ.get('MONGO_HOST', 'localhost')}:{os.environ.get('MONGO_PORT', '27017')}/")
         self.db_l = self.client_l["login_db"]
         self.logins_collection = self.db_l["logins"]
 

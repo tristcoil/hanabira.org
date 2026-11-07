@@ -13,7 +13,7 @@ app.use(cors());
 
 // Connect to flashcardDB
 const flashcardDBConnection = mongoose.createConnection(
-  "mongodb://localhost:27017/flashcardDB",
+  "mongodb://" + (process.env.MONGO_HOST || "localhost") + ":" + (process.env.MONGO_PORT || 27017) + "/flashcardDB",
   {
     useNewUrlParser: true,
     useUnifiedTopology: true,
@@ -22,7 +22,7 @@ const flashcardDBConnection = mongoose.createConnection(
 
 // Connect to sourceDB
 const sourceDBConnection = mongoose.createConnection(
-  "mongodb://localhost:27017/sourceDB",
+  "mongodb://" + (process.env.MONGO_HOST || "localhost") + ":" + (process.env.MONGO_PORT || 27017) + "/sourceDB",
   {
     useNewUrlParser: true,
     useUnifiedTopology: true,
