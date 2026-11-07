@@ -18,6 +18,35 @@
         "x86_64-linux"
         "aarch64-linux"
       ];
+
+      # The test VM's module list. Shared with the module check so that
+      # "the same configuration without the vhost" is literally the same
+      # configuration, not a copy that can drift from it.
+      vmModules = [
+        self.nixosModules.hanabira
+        # mongodb-ce is SSPL-licensed (see nix/nixos/module.nix notes)
+        {
+          nixpkgs.config.allowUnfreePredicate = pkg: builtins.elem (nixpkgs.lib.getName pkg) [ "mongodb-ce" ];
+        }
+        "${nixpkgs}/nixos/modules/virtualisation/qemu-vm.nix"
+        {
+          services.hanabira.enable = true;
+          # hostName becomes the runner script's name (run-<hostName>-vm),
+          # so keep it here: result/bin/run-hanabira-vm.
+          networking.hostName = "hanabira";
+          # Smaller footprint for a test VM
+          documentation.enable = false;
+          # The frontend's production build peaks above 2GB; at 2048M the
+          # kernel OOM-kills `next build` and the frontend never starts.
+          virtualisation.memorySize = 4096;
+          # node_modules + the Next.js build + a fully seeded MongoDB all
+          # live on this disk; 1GB leaves the install starved.
+          virtualisation.diskSize = 8192;
+          # Lets a boot test (and anyone running the VM) get a shell on the
+          # serial console without a password.
+          services.getty.autologinUser = "root";
+        }
+      ];
     in
     flake-utils.lib.eachSystem systems (
       system:
@@ -154,6 +183,19 @@
           module =
             let
               vm = self.nixosConfigurations.vm;
+              # The same module with the vhost turned off. The services must
+              # come up regardless, each on its own port, so that a caller
+              # which does the routing (Caddy, an external load balancer) has
+              # something to proxy - this is how the machine that prompted the
+              # Mongo port fix runs Hanabira.
+              noVhost = lib.nixosSystem {
+                system = system;
+                modules = vmModules ++ [
+                  {
+                    services.hanabira.enableNginx = false;
+                  }
+                ];
+              };
               generated = pkgs.writeText "hanabira-module.json" (
                 builtins.toJSON {
                   # Description is forced too: a unit's metadata evaluates
@@ -169,6 +211,13 @@
                   );
                   ports = vm.config.services.hanabira.ports;
                   user = vm.config.users.users.hanabira.name;
+                  # Exposure: the vhost routes everything by default, and is
+                  # absent without it - while the services it routes survive.
+                  nginx = vm.config.services.nginx.enable;
+                  nginxOff = noVhost.config.services.nginx.enable;
+                  unitsWithoutVhost = lib.length (
+                    lib.filter (name: lib.hasPrefix "hanabira-" name) (lib.attrNames noVhost.config.systemd.services)
+                  );
                 }
               );
             in
@@ -184,6 +233,12 @@
                   and (.locations | keys | sort) == ["/", "/d-api/", "/e-api/", "/f-api/"]
                   and ([.ports | keys[]] | sort)
                     == ["dictionary", "express", "flask", "frontend", "mongod", "nginx"]
+                  # The vhost is how the stack is exposed by default, and
+                  # turning it off must leave every service intact for a
+                  # caller that routes them itself.
+                  and (.nginx == true)
+                  and (.nginxOff == false)
+                  and (.unitsWithoutVhost >= 5)
                 ' "$out/module.json" > /dev/null ||
                   { echo "the module did not generate the expected units, vhost or port options"; exit 1; }
               '';
@@ -201,31 +256,7 @@
       #   ./result/bin/run-hanabira-vm
       nixosConfigurations.vm = nixpkgs.lib.nixosSystem {
         system = "x86_64-linux";
-        modules = [
-          self.nixosModules.hanabira
-          # mongodb-ce is SSPL-licensed (see nix/nixos/module.nix notes)
-          {
-            nixpkgs.config.allowUnfreePredicate = pkg: builtins.elem (nixpkgs.lib.getName pkg) [ "mongodb-ce" ];
-          }
-          "${nixpkgs}/nixos/modules/virtualisation/qemu-vm.nix"
-          {
-            services.hanabira.enable = true;
-            # hostName becomes the runner script's name (run-<hostName>-vm),
-            # so keep it here: result/bin/run-hanabira-vm.
-            networking.hostName = "hanabira";
-            # Smaller footprint for a test VM
-            documentation.enable = false;
-            # The frontend's production build peaks above 2GB; at 2048M the
-            # kernel OOM-kills `next build` and the frontend never starts.
-            virtualisation.memorySize = 4096;
-            # node_modules + the Next.js build + a fully seeded MongoDB all
-            # live on this disk; 1GB leaves the install starved.
-            virtualisation.diskSize = 8192;
-            # Lets a boot test (and anyone running the VM) get a shell on the
-            # serial console without a password.
-            services.getty.autologinUser = "root";
-          }
-        ];
+        modules = vmModules;
       };
     };
 

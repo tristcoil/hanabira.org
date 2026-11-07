@@ -103,7 +103,8 @@ The flake exposes a NixOS module that runs the whole stack under systemd:
             enable = true;
             domain = "hanabira.example.com"; # vhost name ("_" = catch-all)
             enableSSL = true;                 # forceSSL + ACME
-            openFirewall = true;              # open the nginx port
+            enableNginx = true;               # false: services only, route them yourself
+            openFirewall = true;              # open the vhost port
             seedStaticData = true;            # idempotent seeding on every boot
             # ports.nginx / frontend / express / flask / dictionary / mongod
             # are all overridable
@@ -133,6 +134,26 @@ What the module does:
 - needs outbound network access (npm registry) on first boot per service,
   for `npm install` / `next build`.
 
+How the stack is exposed (`enableNginx`, on by default):
+
+- `enableNginx = true` (default): nginx routes the whole stack behind one
+  host. With `enableSSL = true` it terminates TLS itself (443 + ACME),
+  which needs a real domain because a catch-all vhost (`"_"`) has no name to
+  request a certificate for.
+- `enableNginx = true` + `enableSSL = false`: nginx listens in plain HTTP on
+  `ports.nginx`, for a separate TLS terminator (Caddy, an external load
+  balancer) to proxy. This is the mode to use when nginx would otherwise
+  compete for 443 with that terminator.
+- `enableNginx = false`: no nginx at all. The services just listen on their
+  own ports with their own path prefixes - route them yourself. Note that
+  the module cannot force nginx on a machine where another module sets
+  `services.nginx.enable = lib.mkForce false`; in that case this is the mode
+  you get, and it works.
+
+In every mode the routes are the same, so whichever layer does the routing
+has the same table to mirror: `/` to the frontend, `/e-api/` to express,
+`/f-api/` to flask, `/d-api/` to dictionary - prefixes forwarded intact.
+
 Host requirements the first boot makes clear:
 
 - **RAM**: the frontend's production build peaks above 2 GB (a 2 GB test VM
@@ -154,6 +175,24 @@ ones to know:
 | --- | --- |
 | `services.hanabira.package` | source tree to deploy (defaults to this flake — point it at another checkout to deploy one) |
 | `services.hanabira.ports.<name>` | one per service, defaults from `services.nix` |
+
+Every service that talks to MongoDB (`mongo = true` in `services.nix`) and
+the seeding unit get `MONGO_HOST=127.0.0.1` and `MONGO_PORT=<ports.mongod>`
+in their environment, because the applications used to hardcode
+`localhost:27017` and silently broke wherever mongod runs elsewhere. The
+port defaults to 27017, so a default install is unaffected; override it when
+you move mongod off that port.
+
+`MONGO_HOST` is `127.0.0.1` and not `localhost` on purpose: Node 18+ resolves
+`localhost` to `::1` first, and a mongod bound to the IPv4 loopback is
+unreachable from a client that prefers IPv6.
+
+**Deploying from a local checkout.** If your flake pins this repository as a
+`path:` input, its lock records a `narHash`, so a later change to the tree is
+reused from the store rather than re-read: `nixos-rebuild` then reports
+nothing to do while deploying the stale copy. Run
+`nix flake update <input-name>` in the deploying flake after changing
+anything here.
 
 ## Test VM
 

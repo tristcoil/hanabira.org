@@ -40,6 +40,8 @@ let
   siteDir = "${stateDir}/src";
   dataDir = "${stateDir}/mongodb";
 
+  # A catch-all vhost ("_") has no name to request a certificate for, so TLS
+  # at nginx only applies to a real domain.
   useSSL = cfg.enableSSL && cfg.domain != "_";
 
   # Working directory, then the port/PATH/env/pre-steps the module owns:
@@ -211,7 +213,7 @@ let
 in
 {
   options.services.hanabira = {
-    enable = lib.mkEnableOption "Hanabira.org stack (MongoDB + 3 backends + Next.js frontend behind nginx)";
+    enable = lib.mkEnableOption "Hanabira.org stack (MongoDB + 3 backends + Next.js frontend, exposed through nginx by default)";
 
     package = lib.mkOption {
       type = lib.types.package;
@@ -228,13 +230,22 @@ in
     enableSSL = lib.mkOption {
       type = lib.types.bool;
       default = false;
-      description = "Serve the vhost with HTTPS (forceSSL + ACME). Requires a real domain and security.acme.acceptTerms.";
+      description = "Serve the vhost with HTTPS (forceSSL + ACME). Requires a real domain and security.acme.acceptTerms. Leave it false when a separate TLS terminator (Caddy, an external load balancer) proxies the vhost: nginx then listens in plain HTTP on ports.nginx, so it never competes for 443.";
+    };
+
+    # On by default: one vhost routes the whole stack. Turn it off when
+    # something else does the routing (Caddy, an external load balancer) and
+    # leave the services listening on their own ports instead.
+    enableNginx = lib.mkOption {
+      type = lib.types.bool;
+      default = true;
+      description = "Whether this module runs an nginx vhost that routes the whole stack (every service behind one host, each on its own path prefix). With it disabled the services just listen on their own ports.";
     };
 
     openFirewall = lib.mkOption {
       type = lib.types.bool;
       default = true;
-      description = "Open the nginx port in the NixOS firewall.";
+      description = "Open the vhost port in the NixOS firewall.";
     };
 
     seedStaticData = lib.mkOption {
@@ -339,7 +350,11 @@ in
       };
     };
 
-    services.nginx = {
+    # One vhost routes everything: each service keeps its own port and its own
+    # path prefix, so a caller that proxies the vhost (or a service) has the
+    # same routes to mirror. `enableNginx = false` leaves the services
+    # listening on their own ports for such a caller to route directly.
+    services.nginx = lib.mkIf cfg.enableNginx {
       enable = true;
       virtualHosts.${cfg.domain} = {
         listen = [
@@ -354,8 +369,8 @@ in
       };
     };
 
-    networking.firewall.allowedTCPPorts = lib.mkIf cfg.openFirewall (
-      [ cfg.ports.nginx ] ++ lib.optional useSSL 443
-    );
+    networking.firewall.allowedTCPPorts = lib.mkIf cfg.openFirewall ([
+      (if useSSL then 443 else cfg.ports.nginx)
+    ]);
   };
 }
