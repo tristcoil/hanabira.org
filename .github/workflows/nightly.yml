@@ -1,0 +1,107 @@
+name: nightly
+
+# Work that is too slow, or too infrequent, to run per push:
+#
+#   boot-smoke - boots the VM image and asserts the stack serves, which is
+#                the only check that catches activation bugs (deployed paths,
+#                file modes, start timeouts, npm's devDependencies, OOM).
+#   update-lock - refreshes the nixpkgs/flake-utils pins.
+#
+# Both are also available on demand via workflow_dispatch.
+
+on:
+  schedule:
+    - cron: "0 4 * * 1"
+  workflow_dispatch:
+
+jobs:
+  boot-smoke:
+    name: boot the VM and probe the stack
+    runs-on: ubuntu-latest
+    # The image prefers KVM and falls back to TCG, so the same build runs
+    # either way - but the difference is large, and it was measured, not
+    # guessed: with KVM a whole first boot is ~20 minutes; under emulation
+    # (TCG) it was still running after 65, with the frontend build alone past
+    # 40. Budgeted for the slow case, since a standard runner has no KVM.
+    timeout-minutes: 180
+    steps:
+      - uses: actions/checkout@v7
+
+      - uses: cachix/install-nix-action@v31
+        with:
+          extra_nix_config: |
+            experimental-features = nix-command flakes
+
+      - name: Build the VM image
+        run: nix build .#nixosConfigurations.vm.config.system.build.vm -o result
+
+      # Forward the vhost's port so the runner can reach the stack.
+      - name: Boot the VM (KVM when available, TCG otherwise)
+        run: |
+          export QEMU_NET_OPTS='hostfwd=tcp::8888-:8888'
+          nohup ./result/bin/run-hanabira-vm -nographic > /tmp/vm.log 2>&1 &
+          echo $! > /tmp/vm.pid
+
+      # MongoDB, the full static-data seed, two npm installs, the frontend
+      # build and nginx all have to finish before the vhost answers.
+      - name: Wait for the stack to serve
+        run: |
+          for attempt in $(seq 1 300); do
+            code="$(curl -s -o /dev/null -m 5 -w '%{http_code}' http://localhost:8888/ || echo 000)"
+            if [ "$code" = "200" ]; then
+              echo "the stack served http://localhost:8888/ after $attempt probes"
+              exit 0
+            fi
+            sleep 30
+          done
+          echo "the stack did not come up in 150 minutes; VM log tail:" >&2
+          tail -60 /tmp/vm.log >&2
+          exit 1
+
+      - name: The vhost routes the frontend and the APIs
+        run: |
+          curl -sf -o /dev/null http://localhost:8888/ ||
+            { echo "the frontend is not routed"; exit 1; }
+          # flask-db, on a database seeded by the oneshot service
+          curl -sf http://localhost:8888/f-api/v1/get-logins/ci-probe >/dev/null ||
+            { echo "flask is not reachable through the vhost"; exit 1; }
+          # dictionary-db: the text parser, which needs mecab
+          curl -sf -X POST http://localhost:8888/d-api/v1/parse-simple \
+            -H 'Content-Type: application/json' -d '{"text":"今日は学校に行きます"}' |
+            grep -q furigana ||
+            { echo "the text parser did not answer through the vhost"; exit 1; }
+
+      - name: VM log, for diagnostics
+        if: failure()
+        run: tail -60 /tmp/vm.log
+
+      - name: Stop the VM
+        if: always()
+        run: kill "$(cat /tmp/vm.pid)" || true
+
+  update-lock:
+    name: refresh flake.lock
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v7
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - uses: cachix/install-nix-action@v31
+        with:
+          extra_nix_config: |
+            experimental-features = nix-command flakes
+
+      - name: Update the flake inputs
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          nix flake update --commit-lock-file
+
+      - name: Verify the refreshed flake still checks
+        run: nix flake check
+
+      - name: Push
+        run: git push

@@ -30,8 +30,8 @@ const wordSchema = new Schema({
 // ----------------- Function definitions ------------------
 
 const connectToDb = async () => {
-  const dbHost = "localhost";
-  const dbPort = 27017;
+  const dbHost = process.env.MONGO_HOST || "localhost";
+  const dbPort = process.env.MONGO_PORT || 27017;
   const dbName = "zenRelationshipsAutomated";
 
   try {

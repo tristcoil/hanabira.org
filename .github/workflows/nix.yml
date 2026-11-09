@@ -1,0 +1,148 @@
+name: nix
+
+# Two jobs, mirroring the two things the Nix implementation promises:
+#
+#   validate - the flake evaluates on every declared system, all checks pass
+#              (dev shell, script contract, stack description, NixOS module),
+#              and the Nix files are already formatted.
+#   vm       - services.hanabira actually builds a full system closure, shaped
+#              the way nix/services.nix describes the stack, and the bootable
+#              VM image assembles. This is what catches production
+#              regressions, because the VM is what you deploy/test against.
+#
+# The stack description is the single source of truth for all of it: adding a
+# service to nix/services.nix means the checks, the generated units and the
+# vhost assertions below pick it up.
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+  workflow_dispatch:
+
+jobs:
+  validate:
+    name: flake, description, script contract, module
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v7
+
+      - uses: cachix/install-nix-action@v31
+        with:
+          extra_nix_config: |
+            experimental-features = nix-command flakes
+
+      # Evaluation catches option errors on both declared systems without
+      # building anything.
+      - name: Every output evaluates on every declared system
+        run: nix flake show --all-systems
+
+      # Builds the dev shell and every check: shellcheck of the scripts, the
+      # description → processes contract, the description against the source
+      # tree, and the units/vhost/options the module generates.
+      - name: Checks
+        run: nix flake check
+
+      # nix fmt must be a no-op on a clean tree (it formats the repository's
+      # Nix files, including ones added since the last commit).
+      - name: Nix files are formatted
+        run: |
+          nix fmt
+          git diff --exit-code -- '*.nix'
+
+  vm:
+    name: the NixOS module builds a whole system
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v7
+
+      - uses: cachix/install-nix-action@v31
+        with:
+          extra_nix_config: |
+            experimental-features = nix-command flakes
+
+      - name: Build the system closure the module generates
+        run: |
+          echo "TOPLEVEL=$(nix build --no-link --print-out-paths \
+            .#nixosConfigurations.vm.config.system.build.toplevel)" >> "$GITHUB_ENV"
+
+      # One unit per process in nix/services.nix, plus the seeding oneshot.
+      - name: One systemd unit per service in the stack description
+        run: |
+          for unit in mongod dictionary express flask frontend seed-static-data; do
+            test -f "$TOPLEVEL/etc/systemd/system/hanabira-$unit.service" ||
+              { echo "missing hanabira-$unit.service in the closure"; exit 1; }
+          done
+
+      - name: MongoDB is bound to localhost with the state directory the module owns
+        run: |
+          unit="$TOPLEVEL/etc/systemd/system/hanabira-mongod.service"
+          grep -q -- '--dbpath /var/lib/hanabira/mongodb' "$unit" ||
+            { echo "mongod does not use the module's data directory"; exit 1; }
+          grep -q -- '--bind_ip 127.0.0.1' "$unit" ||
+            { echo "mongod is not bound to localhost"; exit 1; }
+
+      - name: The frontend is built before it is started
+        run: |
+          unit="$TOPLEVEL/etc/systemd/system/hanabira-frontend.service"
+          grep -q 'ExecStartPre.*hanabira-npm-install' "$unit" ||
+            { echo "the frontend unit does not install its dependencies"; exit 1; }
+          grep -q 'ExecStartPre.*hanabira-build' "$unit" ||
+            { echo "the frontend unit does not run its build"; exit 1; }
+          grep -q 'next' "$unit" || { echo "the frontend unit does not run next"; exit 1; }
+
+      - name: nginx routes the frontend and every API prefix on the configured port
+        run: |
+          conf="$TOPLEVEL/etc/nginx/nginx.conf"
+          grep -q 'listen .*8888' "$conf" ||
+            { echo "nginx does not listen on the configured port"; exit 1; }
+          for prefix in e-api f-api d-api; do
+            grep -q "location /$prefix/" "$conf" ||
+              { echo "no /$prefix/ route in the vhost"; exit 1; }
+          done
+
+      # The bootable image: what `nixos-rebuild build-vm --flake .#vm` and
+      # ./result/bin/run-hanabira-vm produce locally.
+      - name: The VM image builds
+        run: |
+          nix build .#nixosConfigurations.vm.config.system.build.vm -o result
+          # run-<hostName>-vm, with hostName from flake.nix.
+          runner="$(find result/bin -maxdepth 1 -name 'run-*vm' | head -1)"
+          test -n "$runner" && test -x "$runner" ||
+            { echo "no VM runner script in result/bin"; exit 1; }
+
+      # Full-system regressions worth catching before deploy: module changes
+      # that break activation, seeding or the services under systemd.
+      - name: Upload the VM image for manual boot
+        if: github.event_name == 'workflow_dispatch'
+        uses: actions/upload-artifact@v7
+        with:
+          name: hanabira-vm
+          path: result/bin/
+          retention-days: 7
+
+  # The dev shell is the cross-platform artifact and is Linux-only by design
+  # (MongoDB is not packaged for macOS upstream). Everything above evaluates
+  # it on both systems; this builds it, which is the only thing that notices
+  # a package that resolves on one architecture and not the other.
+  aarch64:
+    name: aarch64-linux outputs build
+    # Needs an actual arm64 runner: an x86_64 one cannot build aarch64
+    # derivations at all (platform mismatch), even for a writeText. GitHub
+    # provides arm images for public repositories.
+    runs-on: ubuntu-24.04-arm
+    steps:
+      - uses: actions/checkout@v7
+
+      - uses: cachix/install-nix-action@v31
+        with:
+          extra_nix_config: |
+            experimental-features = nix-command flakes
+
+      - name: Build the dev shell
+        run: nix build .#devShells.aarch64-linux.default --no-link
+
+      # SSPL-licensed, so it is built locally (downloads the official tarball
+      # and patches it) rather than substituted.
+      - name: Build MongoDB
+        run: nix build .#packages.aarch64-linux.mongodb-ce --no-link

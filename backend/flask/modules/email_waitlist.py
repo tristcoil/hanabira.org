@@ -1,11 +1,12 @@
 from flask import request, jsonify
 from pymongo import MongoClient
 from bson.objectid import ObjectId
+import os
 
 class EmailWaitlist:
     def __init__(self):
         # Set up the MongoDB connection when the class is instantiated
-        self.client_e = MongoClient('mongodb://localhost:27017/')
+        self.client_e = MongoClient(f"mongodb://{os.environ.get('MONGO_HOST', 'localhost')}:{os.environ.get('MONGO_PORT', '27017')}/")
         self.db_e = self.client_e['email_db']
         self.emails_collection = self.db_e['emails']
 

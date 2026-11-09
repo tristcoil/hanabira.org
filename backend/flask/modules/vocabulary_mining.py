@@ -2,12 +2,13 @@ from flask import request, jsonify
 from pymongo import MongoClient
 import logging
 from datetime import datetime
+import os
 
 
 class MecabUserVocabulary:
     def __init__(self):
         # Initialize MongoDB connection
-        self.client = MongoClient("mongodb://localhost:27017/")
+        self.client = MongoClient(f"mongodb://{os.environ.get('MONGO_HOST', 'localhost')}:{os.environ.get('MONGO_PORT', '27017')}/")
         self.db = self.client["mecabWords"]
         self.collection = self.db["mecab_words"]  # Make sure this line exists
 

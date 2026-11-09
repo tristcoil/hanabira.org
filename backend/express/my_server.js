@@ -34,7 +34,7 @@ const modelMapping = {
 
 // -----------  General prep and vars  ------------------ //
 const router = express.Router();
-const port = 8000; // port our backend is running on
+const port = process.env.PORT || 8000; // port our backend is running on
 const originPort = 3000; // port the frontend app is running on
 const app = express();
 app.use(bodyParser.json());

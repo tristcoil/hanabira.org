@@ -1,6 +1,6 @@
 import os
 import logging
-from flask import Flask
+from flask import Flask, jsonify
 from flask_cors import CORS
 from flask_pymongo import PyMongo
 
@@ -13,8 +13,9 @@ app = Flask(__name__)
 CORS(app)
 
 # Database configuration
-app.config["MONGO_URI_FLASKFLASHCARDDATABASE"] = "mongodb://localhost:27017/flaskFlashcardDB"
-mongo_flaskFlashcardDB = PyMongo(app, uri="mongodb://localhost:27017/flaskFlashcardDB")
+mongoUri = f"mongodb://{os.environ.get('MONGO_HOST', 'localhost')}:{os.environ.get('MONGO_PORT', '27017')}/flaskFlashcardDB"
+app.config["MONGO_URI_FLASKFLASHCARDDATABASE"] = mongoUri
+mongo_flaskFlashcardDB = PyMongo(app, uri=mongoUri)
 
 # ---------------------------------- Global vars ----------------------------------------------
 

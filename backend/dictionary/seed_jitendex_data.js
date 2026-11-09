@@ -3,7 +3,7 @@ const fs = require('fs');
 const path = require('path');
 
 // MongoDB connection
-const mongoDB = 'mongodb://localhost:27017/jitendexDatabase';
+const mongoDB = 'mongodb://' + (process.env.MONGO_HOST || 'localhost') + ':' + (process.env.MONGO_PORT || 27017) + '/jitendexDatabase';
 console.log("Attempting to connect to MongoDB...");
 mongoose.connect(mongoDB, {
   useNewUrlParser: true,
